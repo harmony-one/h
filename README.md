@@ -1,9 +1,10 @@
-# h.country
+# Harmony ONE
 
 Harmony is an open and fast blockchain. Our mainnet runs Ethereum applications with 2-second transaction finality and 100 times lower fees.
 
 Harmony’s mission is to scale trust and create a radically fair economy. Our platform is decentralized, scalable and secure to settle any transactions without trusted parties.
 
+## Blockchain Protocol: Scaling & Security
 
 1. Secure, Random State Sharding
 Harmony has transcended the blockchain trilemma by bringing the best research to production. Sharding is proven to scale blockchains without compromising security and decentralization.
