@@ -17,3 +17,7 @@ To support 100% uptime but fully open participation, EPoS slashes validators who
 3. Fast Consensus, Instant Finality
 Harmony has innovated on the battle-tested Practical Byzantine Fault Tolerance (PBFT) for fast consensus of block transactions. Our Fast BFT (FBFT) leads to low transaction fees and 1-block-time finality in Harmony Mainnet.
 We use Boneh–Lynn–Shacham (BLS) constant-sized signatures to commit blocks in a single round of consensus messages. We achieve 2-second block time with view changes in production against adversarial or unavailable leaders. Harmony Mainnet was launched in June 2019. Our network has produced 41M blocks with 772k transactions in publicly traded, native ONE tokens.
+
+---
+
+Learn more on [harmony.one](https://www.harmony.one/) and [h.country](https://www.h.country/).
