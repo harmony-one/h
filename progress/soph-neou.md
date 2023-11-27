@@ -1,4 +1,14 @@
 2023-11-27 Mon:
+I am in active negotiations with five bare metal providers to optimize our server instance pricing. 
+Addtionnally, I have proposed options for serving subgraph, and now awaiting feedback from management.
+
+We Addressed two issues on the devnet:
+- Restored consensus in s0 by resyncing two validator nodes
+- Resolved the processing of the s1 accumulated crosslinks by rotating to a different leader
+
+Reviewed five Protocol PRs [Fix for ShardIDFromKey](https://github.com/harmony-one/harmony/pull/4566), [Fix for last mile block](https://github.com/harmony-one/harmony/pull/4567), [Rollback removes physically block data from db](https://github.com/harmony-one/harmony/pull/4568), [Removed future blocks from blockchain_impl.go](https://github.com/harmony-one/harmony/pull/4569), [ELK Stack for runtime log processing](https://github.com/harmony-one/harmony/pull/4570) and created two OPS PRs [retiring london archival node](https://github.com/harmony-one/elastic-rpc-infra/pull/20), [install teleport client](https://github.com/harmony-one/ansible/pull/87). 
+
+Finally, Protofire completed the testnet s0 blockscout indexing. And there are some challenges ahead. One will be the cross-shard transactions. As it requires customization, this feature will not be included in the initial version
 
 ---
 
