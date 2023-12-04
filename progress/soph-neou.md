@@ -1,3 +1,13 @@
+2023-12-4 Mon:
+Management has approved a 1-year long-term contract for essential Harmony Base services, such as the archival node, aimed at cost savings. The November cloud cost report is pending finalization, awaiting GCP invoices.
+
+0% internal voting power discussions started on our social and internally, Validators are showing enthusiasm to embrace this challenge. Validator community will be engaged for testing in testnet. The hardfork is targeted for 1Q, and two technical challenges are in focus: 1) leader rotation with external validators and 2) leader consensus metrics (the proposed solution involves sending metrics to our Prometheus push gateway)
+
+One famous exchange partner received funds via a multisig transaction and have expressed the need for a more robust explorer. It faced challenges with the internal transaction tab lacking the necessary data for confirmation. A temporary manual and empirical process has been communicated to address this concern. Improving our explorer is imperative.
+
+Protofire is actively working on migrating their testnet blockscout local environment to a more robust one. It's essential to note that Protofire allocates approximately 0.5 Full-Time Equivalent (FTE) per month for projects like Safe, Swap, Compound, and Blockscout. Currently, Blockscout has the lowest priority in this allocation.
+ 
+---
 2023-11-27 Mon:
 I am in active negotiations with five bare metal providers to optimize our server instance pricing. 
 Addtionnally, I have proposed options for serving subgraph, and now awaiting feedback from management.
