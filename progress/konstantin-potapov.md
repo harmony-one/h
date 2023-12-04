@@ -1,3 +1,11 @@
+2023-12-04 Mon: This week, I addressed all the issues discovered by Soph regarding leader rotation. Furthermore, I resolved an issue introduced after the last merge, prevented the code from passing tests, and fixed an infinite loop that could occur during stream synchronization.
+
+---
+
+2023-11-27 Mon: This week, I enhanced epoch chain synchronization and improved the efficiency of test execution. We no longer encounter floating tests, and the test execution time has been significantly reduced. Furthermore, I eliminated outdated code related to block insertion, resulting in lower memory consumption and improved processing speed.
+
+---
+
 2023-11-20 Mon: I investigated an incident that occurred with two nodes in the devnet. Following thorough research, I submitted several pull requests (PRs) to enhance stability and performance. Furthermore, I implemented integration with the ELK Stack (Elasticsearch, Logstash, and Kibana) for local development, facilitating real-time log analysis.
 
 ---
@@ -7,3 +15,4 @@
 ---
 
 2023-11-05 Sun: I conducted testing on leader rotation, addressing various bugs associated with the network stack. Additionally, I am currently investigating an issue concerning duplicated events in the context of block proposing.
+
