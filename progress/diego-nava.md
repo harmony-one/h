@@ -1,5 +1,3 @@
----
-
 2023-12-03 Mon: The week kicked off with me migrating two shard 1 validators to a different cloud provider. This move was driven by the need for better cost efficiency and redundancy. I diligently followed the operational checklist, ensuring that monitoring and alerting systems were in place.
 
 Next, I shifted my attention to assisting Adam in setting up a new node for testing state pruning. I cloned the full database and initiated tests. However, we encountered a syncing issue with the node. I took time to address some linting problems in the pull request and had a discussion with Adam about a potential code loss in one of the files during the merge. He agreed to investigate this further.
