@@ -1,4 +1,17 @@
-2023-12-4 Mon:
+**2023-12-11 Mon** (edited Friday Dec 8 as I will be OOO Dec 11 to Dec 18):
+
+November cloud costs are down to $12.88k from $14.91k. The decrease in costs is a result of various measures undertaken by the devops team, including cleaning up the S3 storage space, terminating, downgrading, and migrating instances (RDS/EC2) to other cloud providers, and optimizing our mainnet node architecture.
+
+There's been a recent surge in victims of drained wallets, with many cases pointing to stolen funds landing in the KuCoin hot wallet. Some confusion arose due to the use of this address as an example by a Harmony dev on Discord. Let's note that victims were using the deprecated Harmony wallet extension and hadn't created new accounts, as suggested in [this article published in 2022](https://harmonyone.notion.site/Wallet-Security-and-Your-Assets-665171c3857a4510abedc44f3b929bd1) I recommend another round of communication/tweets to encourage users to migrate to a new wallet at their earliest convenience.
+
+I've initiated the investigation and implementation of leader metric export. While a demo was built, the data received proved inconsistent. A proposed solution is to focus on the last voting power instead of the constantly changing ongoing vote power during the vote collection.
+
+Additionally, I've reviewed and commented on multiple PRs, including [the automation of watchdog installation](https://github.com/harmony-one/ansible/pull/90), a fix for the [ETH JSON method source address issue](https://github.com/harmony-one/harmony/pull/4575). I also provided guidance to the team for the leader rotation hardfork.
+
+Finally, I investigated the shard 1 signature loss reported by the validator community, tracing it back to the migration of our s1 leader node from Latitude. A workaround to swap the bls keys was suggested and doing further test with VPS could be beneficial as we move towards leader rotation to identify the correct VPS specs
+
+---
+**2023-12-4 Mon**:
 Management has approved a 1-year long-term contract for essential Harmony Base services, such as the archival node, aimed at cost savings. The November cloud cost report is pending finalization, awaiting GCP invoices.
 
 0% internal voting power discussions started on our social and internally, Validators are showing enthusiasm to embrace this challenge. Validator community will be engaged for testing in testnet. The hardfork is targeted for 1Q, and two technical challenges are in focus: 1) leader rotation with external validators and 2) leader consensus metrics (the proposed solution involves sending metrics to our Prometheus push gateway)
@@ -8,7 +21,7 @@ One famous exchange partner received funds via a multisig transaction and have e
 Protofire is actively working on migrating their testnet blockscout local environment to a more robust one. It's essential to note that Protofire allocates approximately 0.5 Full-Time Equivalent (FTE) per month for projects like Safe, Swap, Compound, and Blockscout. Currently, Blockscout has the lowest priority in this allocation.
  
 ---
-2023-11-27 Mon:
+**2023-11-27 Mon**:
 I am in active negotiations with five bare metal providers to optimize our server instance pricing. 
 Addtionnally, I have proposed options for serving subgraph, and now awaiting feedback from management.
 
@@ -20,7 +33,7 @@ Finally, Protofire completed the testnet s0 blockscout indexing. And there are s
 
 ---
 
-2023-11-05 Sun: Explorer service - There have been ongoing discussions regarding the Socialscan explorer initiative, and after much deliberation, we have decided to pause it until next year. Instead, we will focus on R&D work with Protofire on Blockscout, which will be a key focus for Q4. While this work continues, our current mainnet explorer still requires maintenance. To save costs, we have executed a downgrade on the s0 mainnet RDS instance, resulting in savings of $365 per month.
+**2023-11-05 Sun**: Explorer service - There have been ongoing discussions regarding the Socialscan explorer initiative, and after much deliberation, we have decided to pause it until next year. Instead, we will focus on R&D work with Protofire on Blockscout, which will be a key focus for Q4. While this work continues, our current mainnet explorer still requires maintenance. To save costs, we have executed a downgrade on the s0 mainnet RDS instance, resulting in savings of $365 per month.
 
 TheGraph service - TheGraph has reached out to us for a grant to support their hosted service. Since they've provided this service for free since June 2022, we are considering having Protofire maintain a dedicated graph node to ensure the continuity of our public dapp service (swap.country). 
 
