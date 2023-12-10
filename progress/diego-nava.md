@@ -1,3 +1,13 @@
+2023-12-10 Sun: This week, I focused on the protocol aspect of our project. I reopened a previously submitted Pull Request (PR) to address a rate-fix issue. This PR aims to correct a bug identified post-HIP30, where under certain circumstances, some delegators were incorrectly set to a 5% rate instead of the minimum 7%.
+
+Additionally, I opened another PR to resolve an inconsistency in the from field in the transaction method responses. This discrepancy was noted between the hmy_ and eth_ responses.
+
+I also initiated research into achieving 1-second finality. In collaboration with Konstantine, we deployed and tested the leader rotation PR on the devnet. While it's currently operational, further testing with external validators on the devnet is planned to evaluate this feature in a more realistic setup. Preliminary results are promising.
+
+Moreover, I worked alongside Ulad to review a significant PR concerning the refactoring and updating process of the watchdog deployment.
+
+---
+
 2023-12-03 Mon: The week kicked off with me migrating two shard 1 validators to a different cloud provider. This move was driven by the need for better cost efficiency and redundancy. I diligently followed the operational checklist, ensuring that monitoring and alerting systems were in place.
 
 Next, I shifted my attention to assisting Adam in setting up a new node for testing state pruning. I cloned the full database and initiated tests. However, we encountered a syncing issue with the node. I took time to address some linting problems in the pull request and had a discussion with Adam about a potential code loss in one of the files during the merge. He agreed to investigate this further.
