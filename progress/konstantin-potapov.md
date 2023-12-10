@@ -1,3 +1,7 @@
+2023-12-04 Mon: This week, I conducted internal leader rotation testing on the devnet and focused on external rotation. Moreover, I incorporated necessary information into the watchdog system, as external validators do not provide signing power.
+
+---
+
 2023-12-04 Mon: This week, I addressed all the issues discovered by Soph regarding leader rotation. Furthermore, I resolved an issue introduced after the last merge, prevented the code from passing tests, and fixed an infinite loop that could occur during stream synchronization.
 
 ---
