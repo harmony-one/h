@@ -1,3 +1,18 @@
+2023-12-13 Wed: Engaged in office-based meetings and synchronization sessions, focusing on technical improvements and potential enhancements to the blockchain. This involved collaborative discussions with the team, aiming to identify and plan for future advancements.
+
+Addressed and researched several protocol issues, with updates poised for release shortly. The nature of these fixes suggests the possibility of a hardfork, with more details to be disclosed in the near future.
+
+Progressed with the audit of the compound fork, completing code development and initiating comprehensive testing and review. Collaborating closely with the Protofire team to ensure thorough verification of the code.
+
+Continued development of the 1-second finality code, successfully pushing the branch and commencing testing on localnet. This marks a significant step towards enhancing transaction finality speeds.
+
+Initiated leader rotation testing on the devnet, a critical phase in ensuring the robustness and reliability of this feature within the network.
+
+Conducted multiple code reviews, focusing on resolving inconsistencies in hash calculation across different API versions and activating leader rotation on devnet. Notably reviewed and contributed to the Initial Version of Fast Sync #4465, a significant update aimed at reducing validator syncing time.
+
+Authored and published a comprehensive guide for users affected by hacked wallets, providing crucial assistance and information to the community. The guide is available at Harmony GitHub Issue #4585.
+
+Continued to develop the research paper mentioned in the last update, dedicating time and effort to this ongoing project.
 
 ---
 2023-12-1 Fri: Progressed on a utilization and technical paper slated for mid-December release, focusing on current initiatives and potential future enhancements to the Harmony protocol. This involves in-depth analysis and planning for both existing and prospective protocol developments.
