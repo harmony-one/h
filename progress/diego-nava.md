@@ -1,3 +1,12 @@
+2023-12-17 Sun: I started the week aiding Konstantine with the leader rotation feature aiming to enable external validators to participate in the consensus. We successfully tested the feature on the devnet, and I am working on enabling few external validators to test the feature further.
+
+Additionally, I merged a PR to fix the issue with the eth_getTransactionByHash method. I also reviewed and merged a PR to fix the issue with the eth_getTransactionReceipt method.
+
+Towards the middle of the week, I shifted my focus with helping on the most recent hardfork. I reviewed a PR fixing the issue, engaged in discussions with the team and took preventive measures which we will disclose in the near future.
+
+I executed the upgrade in testnet and mainnet internal nodes and coordinated the upgrade with binance.
+
+---
 2023-12-10 Sun: This week, I focused on the protocol aspect of our project. I reopened a previously submitted Pull Request (PR) to address a rate-fix issue. This PR aims to correct a bug identified post-HIP30, where under certain circumstances, some delegators were incorrectly set to a 5% rate instead of the minimum 7%.
 
 Additionally, I opened another PR to resolve an inconsistency in the from field in the transaction method responses. This discrepancy was noted between the hmy_ and eth_ responses.
