@@ -1,3 +1,6 @@
+2023-12-18 Mon: At Palo Alto Office last week. Besides meetings on upcoming improvements and the potential development of a game, the week primarily consisted of working on fixing a bug during the protocols undelegation process. The Hard Fork update was released last Friday, and the fork happened Sunday. A full report will be released in the coming days.
+
+---
 2023-12-13 Wed: Engaged in office-based meetings and synchronization sessions, focusing on technical improvements and potential enhancements to the blockchain. This involved collaborative discussions with the team, aiming to identify and plan for future advancements.
 
 Addressed and researched several protocol issues, with updates poised for release shortly. The nature of these fixes suggests the possibility of a hardfork, with more details to be disclosed in the near future.
