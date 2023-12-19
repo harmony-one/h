@@ -1,4 +1,8 @@
-2023-12-04 Mon: This week, I conducted internal leader rotation testing on the devnet and focused on external rotation. Moreover, I incorporated necessary information into the watchdog system, as external validators do not provide signing power.
+2023-12-18 Mon: This week, I developed a new API method for calculating sigh power without a leader. This feature will become relevant once leader rotation is activated. Furthermore, I addressed an issue related to counting the minimum block count for leader rotation, ensuring smoother functionality. 
+
+---
+
+2023-12-11 Mon: This week, I conducted internal leader rotation testing on the devnet and focused on external rotation. Moreover, I incorporated necessary information into the watchdog system, as external validators do not provide signing power.
 
 ---
 
