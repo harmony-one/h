@@ -1,3 +1,12 @@
+**2023-12-25 Mon** (edited Friday Dec 22 as I will be OOO Dec 23 to Jan 7):
+
+Jumped into action during my holiday to contribute to resolving the Staking Logic Vulnerability Incident. The Mainnet Hard Fork v2023.3.0 took place on Sunday, the 17th, with exceptional assistance from the validator community. However, a transaction hash bug surfaced as we tried to conceal the fix, leading us to release v2023.4.2 and support various partners, including thegraph, layerzero, chainstack, synapse, and SimplyVC.
+
+Simultaneously, Binance.com encountered issues, leading to the suspension of withdrawals due to a surge in transactions hitting the 64-transaction limit per account in the pending transaction pool. We collaborated to analyze and resolve the problem, and withdrawals resumed on 12-22-2023 at 01:29 UTC, following an outage that began on 12/19/2023, 21:47 UTC.
+
+Additionally, I received reports of five more drained wallets related to the use of Harmony's deprecated extension. One of them belongs to a validator who still has a portion of their funds staked. I assisted him in running a custom script to programmatically transfer the undelegated funds.
+
+---
 **2023-12-11 Mon** (edited Friday Dec 8 as I will be OOO Dec 11 to Dec 18):
 
 November cloud costs are down to $12.88k from $14.91k. The decrease in costs is a result of various measures undertaken by the devops team, including cleaning up the S3 storage space, terminating, downgrading, and migrating instances (RDS/EC2) to other cloud providers, and optimizing our mainnet node architecture.
