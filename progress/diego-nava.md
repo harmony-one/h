@@ -1,3 +1,12 @@
+2023-12-23 Sat: The week started with work on the aftermath of the hardfork. Our partners reported an issue with the eth_getTransactionReceipt method. Upon investigation, the root cause was identified, leading to a proposed fix and the opening of a PR to address the issue. After this update, the issue was partially resolved, so another fix was proposed. This involved keeping the original `hmy tx` `from` field but allowing the former eth logic to encode the response.
+
+All our internal RPC nodes were updated, and we worked with partners to assist them with their updates and to clarify any inquiries they had.
+
+There was also an investigation into an issue with Soph, where Binance transactions were not included in the pool. It was found that the issue was related to a throttling mechanism that prevents more than 60 transactions per address. While we can whitelist addresses to allow more transactions, this isn't a feasible solution once we go fully decentralized. This matter was brought up during the protocol meeting.
+
+Finally, I worked with Konstantine on the leader rotation feature. An external validator was deployed to the devnet, and the feature was enabled for external testing. The feature is currently being tested and is showing signs of success.
+
+---
 2023-12-17 Sun: I started the week aiding Konstantine with the leader rotation feature aiming to enable external validators to participate in the consensus. We successfully tested the feature on the devnet, and I am working on enabling few external validators to test the feature further.
 
 Additionally, I merged a PR to fix the issue with the eth_getTransactionByHash method. I also reviewed and merged a PR to fix the issue with the eth_getTransactionReceipt method.
