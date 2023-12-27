@@ -1,3 +1,7 @@
+2023-12-25 Mon: This week we activated external rotation on devnet. Additionally, i started research on SNARKS, advantages/vulnerabilities/implementations, and how it can be integrated into the blockchain.
+
+---
+
 2023-12-18 Mon: This week, I developed a new API method for calculating sigh power without a leader. This feature will become relevant once leader rotation is activated. Furthermore, I addressed an issue related to counting the minimum block count for leader rotation, ensuring smoother functionality. 
 
 ---
