@@ -1,3 +1,6 @@
+2023-12-30 Sat: I was off during the first half of this week. For the second half, my focus was on transitioning devnet to full external validation, aiming to test leader rotation under more realistic conditions before moving to testnet. However, we encountered a blocker: a bug in the latest development branch is affecting how transactions are executed, which currently prevents us from funding new external validators. We are currenlty looking into the bug.
+
+---
 2023-12-23 Sat: The week started with work on the aftermath of the hardfork. Our partners reported an issue with the eth_getTransactionReceipt method. Upon investigation, the root cause was identified, leading to a proposed fix and the opening of a PR to address the issue. After this update, the issue was partially resolved, so another fix was proposed. This involved keeping the original `hmy tx` `from` field but allowing the former eth logic to encode the response.
 
 All our internal RPC nodes were updated, and we worked with partners to assist them with their updates and to clarify any inquiries they had.
