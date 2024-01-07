@@ -1,3 +1,8 @@
+2024-01-7 Sun: This week I kept in the process of debugging a transaction issue related to leader rotation, we replicated the problem in a local environment and began identifying a solution. During this process, we discovered an additional bug concerning block production. This bug could potentially result in the creation of invalid blocks. If a node produces an invalid block, it may cause subsequent nodes to stall, impeding the network's progress. It remains unclear whether this issue is directly connected to the leader rotation mechanism or if it's a consequence of another feature currently being tested on the devnet.
+
+To address these challenges and improve our testing efficiency, I propose the development of multiple devnets. These devnets would allow us to test various features independently, reducing the likelihood of interference between different development activities. The implementation of this system should be straightforward, requiring minimal effort to set up and operate through a few simple commands. This approach will enable us to isolate and resolve issues more efficiently without disrupting the overall workflow.
+
+---
 2023-12-30 Sat: I was off during the first half of this week. For the second half, my focus was on transitioning devnet to full external validation, aiming to test leader rotation under more realistic conditions before moving to testnet. However, we encountered a blocker: a bug in the latest development branch is affecting how transactions are executed, which currently prevents us from funding new external validators. We are currenlty looking into the bug.
 
 ---
