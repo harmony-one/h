@@ -1,26 +1,39 @@
 2024-01-09: WIP PR on pruning stale delegation data has been updated reflecting changes into main->dev and fixing missing code/logic in engine_test.go. Notified Diego, this is in his queue now.
 https://github.com/harmony-one/harmony/pull/4505
 
+---
+
 2024-01-1: Happy new year! Work on Harmony's Blockchain gaming initiatives have begun. I am currently updating and testing AA code changes from upstream before deployment
+
+---
 
 2023-12-21 Thursday: 
 Merge of main -> dev - Concluding my week on-site there was a lot of movement into the harmony/harmony-one main branch to carry out a security and api bug, and some other small fixes. This PR was opened to bring dev into sync and there were a few conflicts needing resolving. https://github.com/harmony-one/harmony/pull/4595
 
 Attended weekly developer sync
 
+---
 
 2023-12-15 Friday:  Attended whiteboard discussions on formal verification, smart contract security, coq, blockchain gaming. Had some collaboration with the protocol team on core issues.
 Concluded the day with Harmony holiday dinner!
 
+---
+
 2023-12-14 Thursday:
 Full review of PR https://github.com/harmony-one/harmony/pull/4588 authored by max mustermann. This PR would undo some of the my logical changes to getTransactionReceipt, recently merged into dev.
+
+---
 
 2023-12-13 Wed:
 Arrived on-site in Palo Alto. Throughout the week we brainstormed on potential protocol improvements and blockchain security.
 
+---
+
 2023-12-07 Thursday:
 
 Worked on this PR that made a modification to getReceipt to only return details in harmony format. https://github.com/harmony-one/harmony/pull/4582 (This would eventually be redone by alternative logic on a future PR)
+
+---
 
 2023-12-05 Tue:
 
