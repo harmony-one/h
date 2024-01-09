@@ -1,3 +1,11 @@
+2024-01-07 Mon: This week, i was investigating the issue with balance transferring on devnet with activated rotation. I was collaborating with Diego, finally, we decided to reset devnet. 
+
+---
+
+2024-01-01 Mon: This week, i was investigating the issue with the validator code wrapper while undelegation process. Additionally, i was collaborating with Diego on the leader rotation on the devnet.
+
+---
+
 2023-12-25 Mon: This week we activated external rotation on devnet. Additionally, i started research on SNARKS, advantages/vulnerabilities/implementations, and how it can be integrated into the blockchain.
 
 ---
