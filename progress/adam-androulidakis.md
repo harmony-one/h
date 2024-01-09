@@ -8,7 +8,7 @@ https://github.com/harmony-one/harmony/pull/4505
 ---
 
 2023-12-21 Thursday: 
-Merge of main -> dev - Concluding my week on-site there was a lot of movement into the harmony/harmony-one main branch to carry out a security and api bug, and some other small fixes. This PR was opened to bring dev into sync and there were a few conflicts needing resolving. https://github.com/harmony-one/harmony/pull/4595
+Merge of main -> dev - Concluding my week on-site there was a lot of movement into the harmony/harmony-one main branch to carry out a security and api bug, and some other small fixes. This PR was opened to bring dev into sync and there were a few conflicts needing resolving. https://github.com/harmony-one/harmony/pull/4595 and https://github.com/harmony-one/harmony/pull/4600
 
 Attended weekly developer sync
 
