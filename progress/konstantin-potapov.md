@@ -1,4 +1,8 @@
-2024-01-07 Mon: This week, i was investigating the issue with balance transferring on devnet with activated rotation. I was collaborating with Diego, finally, we decided to reset devnet. 
+2024-01-15 Mon: This week, I fixed the "block exists" issue which no more leads to a node stuck on the devnet. Additionally i am investigating an issue related to a buggy validator state on the mainnet node. 
+
+---
+
+2024-01-08 Mon: This week, i was investigating the issue with balance transferring on devnet with activated rotation. I was collaborating with Diego, finally, we decided to reset devnet. 
 
 ---
 
