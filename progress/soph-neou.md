@@ -1,3 +1,12 @@
+**2024-1-15 Mon**:
+
+Last week, Binance's transaction queue experienced three instances of getting stuck due to a missing transaction. Extensive troubleshooting was conducted, but there was no apparent reason for the transaction not being added to the chain. We suspect either the transaction was never added to a block and silently discarded or it never reached the leader node. To enhance visibility, we are incorporating additional logs and troubleshooting is continuing this week.
+
+Protofire has released a testnet version of the Blockscout explorer, which currently indexes only s0 and does not support cross-shard transactions yet: [Blockscout Testnet](https://bs-harmony-testnet.protofire.io/). I welcome any feedback via DM.
+
+During my holiday, the devnet encountered issues and was reset to v8307-v2023.4.2-111-g2927929ef last week. However, the recurring problem of a block already being inserted persists. It's crucial to address this issue before the next release, as it is currently causing a delay in the leader rotation testing.
+
+---
 **2023-12-25 Mon** (edited Friday Dec 22 as I will be OOO Dec 23 to Jan 7):
 
 Jumped into action during my holiday to contribute to resolving the Staking Logic Vulnerability Incident. The Mainnet Hard Fork v2023.3.0 took place on Sunday, the 17th, with exceptional assistance from the validator community. However, a transaction hash bug surfaced as we tried to conceal the fix, leading us to release v2023.4.2 and support various partners, including thegraph, layerzero, chainstack, synapse, and SimplyVC.
