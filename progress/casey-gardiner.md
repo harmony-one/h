@@ -1,3 +1,9 @@
+2024-01-16 Tue: The holidays are over, and it's been a busy and productive period for the team. We're gearing up for the much-anticipated 2024.1.0 forking update, which promises to introduce leader rotation alongside many enhancements to the blockchain. This update, encapsulated in pull request #4546, culminates extensive development efforts, including fixes for memory leaks, dead code, data races, and numerous optimizations and cleanups across various issues from #4539 to #4611. These improvements refine the existing functionalities and lay the groundwork for more robust and efficient operations.
+
+This release phase, however, hasn't been without its challenges. Rigorous testing has highlighted areas needing further improvement, driving us to enhance the codebase for increased security and bug-free performance. My contributions have been centered on conducting multiple code reviews and validator tests, ensuring that each update aspect is thoroughly vetted and optimized.
+
+In addition to these technical endeavors, I have also been revising the paper I mentioned. Though demanding, the revision process is paving the way for the release of a technical paper that will outline our ambitious plans for 2024. This paper will detail the upcoming protocol enhancements and highlight the exciting developments we have in store for the Harmony ecosystem.
+
 2023-12-18 Mon: At Palo Alto Office last week. Besides meetings on upcoming improvements and the potential development of a game, the week primarily consisted of working on fixing a bug during the protocols undelegation process. The Hard Fork update was released last Friday, and the fork happened Sunday. A full report will be released in the coming days.
 
 ---
