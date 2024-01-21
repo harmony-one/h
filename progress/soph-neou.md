@@ -1,3 +1,13 @@
+**2024-1-21 Sun**:
+Our oneinscription partner sought our support for a successful launch on Friday at 13 UTC, and it was indeed a success. 1919 wallet addresses were sold out within a remarkable 13 minutes of the public release, generating 2817 transactions. 
+
+During the oncall mainnet s0 validator crashed twice and hit the infamous `block known already` error which prevent the node to sync. A fix is currently being tested on devnet.
+
+The root cause of the pending transaction stuck issues reported by two major exchanges has been identified. When an exchange user sends a transaction to a blacklisted address, this transaction is discarded, preventing other transactions from going through. A simple fix is for the exchanges to send themselves a transaction to cancel the problematic one.
+
+Regarding the pending delegation bug, after two updates to the allowed transactions list, blacklisted addresses can now 1) burn excess ONE and 2) send a transaction to themselves to cancel pending transactions. A [post on the forum](https://talk.harmony.one/t/technical-incident-report-staking-logic-vulnerability-and-exploitation/23660/15?u=sophoah) informed users of the need to burn, and a [script](https://github.com/harmony-one/ansible/pull/102) to identify cleaned accounts has been developed. Blacklisted addresses will be updated weekly to minimize leader restarts.
+
+---
 **2024-1-15 Mon**:
 
 Last week, Binance's transaction queue experienced three instances of getting stuck due to a missing transaction. Extensive troubleshooting was conducted, but there was no apparent reason for the transaction not being added to the chain. We suspect either the transaction was never added to a block and silently discarded or it never reached the leader node. To enhance visibility, we are incorporating additional logs and troubleshooting is continuing this week.
