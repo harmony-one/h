@@ -1,4 +1,4 @@
- 2024-01-26 Fri: Testing `revert` command functionality found some issues, so now we don't try to restore state from partially valid data, only remove it. It was already tested by Soph and merged. Currently devnet is fully decentrialized, and doesn't contain internal validators, but it still require small improvements like additional logs and fixes for found issues.    
+ 2024-01-26 Fri: Testing `revert` command functionality found that it can cause panic under certain circumstances, so now we don't try to restore state from the partially valid data, only remove it. It was already tested and merged by Soph. Currently devnet is fully decentrialized, and doesn't contain internal validators, but it still require small improvements like additional logs and fixes for the issues.    
 
 ---
 
