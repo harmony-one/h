@@ -1,3 +1,12 @@
+2024-01-26 Fri:
+This week, we made significant progress in leader rotation. We began by allowing external validators to participate in the rotation on the development network. Initially, this led to block forking and the subsequent failure of nodes. However, after resolving this issue and restarting the development network, we increased the number of external validators. Since then, there have been no instances of node forking, and the network is functioning smoothly as it continues to rotate leaders.
+
+Additionally, we encountered a situation where a leader registered both 'Hoorays' and 'Bingos' for the same block, which warrants further investigation. Towards the end of the week, I implemented a hardfork to enable the development network to operate solely on external nodes. The hardfork was successfully activated, and the chain remained operational. However, a noticeable slowdown in block finality was observed, which is currently under investigation.
+
+I'm also investigating a bug on one of the validators state, nothing to report yet, but I'll update this section once I have more information.
+
+---
+
 2024-01-21 Sun: I came to catch up with the binance tx pool issue that started when I was about to go for PTO and eventually soph took over, also I was looking at our test harness and I'm working towards adding new test to guarantee the from tx hash is set correctly and is not altered after any update.
 
 I'm working with konstantine towards the one second finality, we had to push a few PRs and reset devnet, this week I'll come back to the task of trying to make the whole network external.
