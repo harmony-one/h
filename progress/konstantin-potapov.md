@@ -1,3 +1,7 @@
+ 2024-01-26 Fri: Testing `revert` command functionality found some issues, so now we don't try to restore state from partially valid data, only remove it. It was already tested by Soph and merged. Currently devnet is fully decentrialized, and doesn't contain internal validators, but it still require small improvements like additional logs and fixes for found issues.    
+
+---
+
 2024-01-22 Mon: This week i fixed bugs on devnet with concurrent map access and block insertion. In collaboration with Diego, we successfully launched the devnet with external validators.   
 
 ---
