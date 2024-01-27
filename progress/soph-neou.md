@@ -1,4 +1,14 @@
+**2024-1-26 Fri**:
+
+Devnet leader rotation testing is underway, and we've identified issues that are currently under investigation (refer to Diego's update for details). Two migration tests are planned: 1) a temporary transition involving rotation with internal nodes, followed by rotation with no internal nodes (currently at this stage), and 2) a direct transaction to external leader rotation only (no internal). 
+
+Additionally, I've reviewed, commented on, and approved 9 PRs across 2 GitHub repositories. A new issue (issue [4616](https://github.com/harmony-one/harmony/issues/4616)) surfaced in the v2023.4.0 release, requiring attention, but our protocol engineers are currently occupied with other issues and testing. 
+
+Lastly, the ongoing work on the harmony revert function, which introduced the 'block already exists' issue, is progressin. First [PR](https://github.com/harmony-one/harmony/pull/4608) test triggered [a panic error](https://github.com/harmony-one/harmony/issues/4616) and the [latest PR](https://github.com/harmony-one/harmony/pull/4617) is currently being tested.
+
+---
 **2024-1-21 Sun**:
+
 Our oneinscription partner sought our support for a successful launch on Friday at 13 UTC, and it was indeed a success. 1919 wallet addresses were sold out within a remarkable 13 minutes of the public release, generating 2817 transactions. 
 
 During the oncall mainnet s0 validator crashed twice and hit the infamous `block known already` error which prevent the node to sync. A fix is currently being tested on devnet.
