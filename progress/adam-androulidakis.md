@@ -1,5 +1,13 @@
+2024-01-30 Tuesday: Reviewed snapshot fixes and merged PR# 4618 to dev https://github.com/harmony-one/harmony/pull/4618
+The last few weeks I have been shifting focus from protocol development to exploring Harmony's other initiatives involving gaming, account abstraction and security. 
+
+Project-G repository created on the 17th (currently private) https://github.com/harmony-one/Project-G tracks the early development efforts for some games being developed to showcase Harmony's technology stack.
+ 
+2024-01-17 Wednesday: Review of decider changes in PR# 4610 https://github.com/harmony-one/harmony/pull/4610
+
 2024-01-09 Tuesday: WIP PR on pruning stale delegation data has been updated reflecting changes into main->dev and fixing missing code/logic in engine_test.go. Notified Diego, this is in his queue now.
 https://github.com/harmony-one/harmony/pull/4505
+Review of PR# 4602 https://github.com/harmony-one/harmony/pull/4602
 
 ---
 
