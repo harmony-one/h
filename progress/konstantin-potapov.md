@@ -1,4 +1,8 @@
- 2024-01-26 Fri: Testing `revert` command functionality found that it can cause panic under certain circumstances, so now we don't try to restore state from the partially valid data, only remove it. It was already tested and merged by Soph. Currently devnet is fully decentrialized, and doesn't contain internal validators, but it still require small improvements like additional logs and fixes for the issues.    
+2024-02-02 Fri: During the first half of the week, I collaborated with Soph and Diego to investigate a devnet hardfork. We successfully identified the root cause and implemented a hotfix, incorporating additional performance improvements. In the second half of the week, I worked with Diego on testing network performance. This involved assessments on both our internal network and external validators located at a distance, ensuring that the new code wouldn't lead to downtimes or performance issues.
+
+---
+
+2024-01-26 Fri: Testing `revert` command functionality found that it can cause panic under certain circumstances, so now we don't try to restore state from the partially valid data, only remove it. It was already tested and merged by Soph. Currently devnet is fully decentrialized, and doesn't contain internal validators, but it still require small improvements like additional logs and fixes for the issues.    
 
 ---
 
