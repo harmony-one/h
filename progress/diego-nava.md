@@ -1,5 +1,12 @@
-2024-01-26 Fri:
-This week, we made significant progress in leader rotation. We began by allowing external validators to participate in the rotation on the development network. Initially, this led to block forking and the subsequent failure of nodes. However, after resolving this issue and restarting the development network, we increased the number of external validators. Since then, there have been no instances of node forking, and the network is functioning smoothly as it continues to rotate leaders.
+2024-02-02 Fri: The week began with the observation of a slowdown in block finality on the devnet, where blocks were produced at a rate of 10 seconds. Initially, i suspected that the issue was related to leader rotation, but after an update, the network halted. We discovered that restarting the network multiple times could temporarily resolve the issue. This finding, combined with analysis of the produced logs, led to an investigation together with Soph.
+
+The root cause of the problem was identified as the network operating at a 100% rate, triggering a special code path designed for such scenarios. This path involved old code that had not been executed in any other network scenario because a 100% operation rate was never previously reached. I created a PR to address this issue and deployed it to the devnet, which successfully resolved the problem.
+
+Additionally, towards the end of the week, a minor issue related to the DNS records for the devnet was fixed. This allowed me to proceed with the latest tests concerning leader rotation, such as shutting down the leader and measuring the outage time. 
+
+---
+
+2024-01-26 Fri: This week, we made significant progress in leader rotation. We began by allowing external validators to participate in the rotation on the development network. Initially, this led to block forking and the subsequent failure of nodes. However, after resolving this issue and restarting the development network, we increased the number of external validators. Since then, there have been no instances of node forking, and the network is functioning smoothly as it continues to rotate leaders.
 
 Additionally, we encountered a situation where a leader registered both 'Hoorays' and 'Bingos' for the same block, which warrants further investigation. Towards the end of the week, I implemented a hardfork to enable the development network to operate solely on external nodes. The hardfork was successfully activated, and the chain remained operational. However, a noticeable slowdown in block finality was observed, which is currently under investigation.
 
