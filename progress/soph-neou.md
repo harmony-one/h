@@ -1,3 +1,14 @@
+**2024-2-2 Fri**:
+
+This week, progress was made in unblocking the leader rotation testing by addressing a corner case related to fast signature collection and achieving 100% vote before meeting the 67% quorum. The corresponding  [PR4626](https://github.com/harmony-one/harmony/pull/4625) has been created and confirmed working by Diego.
+
+Addressing user-reported issues (3), a [fix](https://github.com/harmony-one/harmony/pull/4624) was implemented for the allowedtx feature, allowing users to successfully burn a total of 1,562,914 $ONE this week.
+
+In addition, support was provided to two exchange partners facing challenges with stuck transactions, and coordination for state pruning testing was facilitated.
+
+More details on my github profile https://github.com/sophoah
+
+---
 **2024-1-26 Fri**:
 
 Devnet leader rotation testing is underway, and we've identified issues that are currently under investigation (refer to Diego's update for details). Two migration tests are planned: 1) a temporary transition involving rotation with internal nodes, followed by rotation with no internal nodes (currently at this stage), and 2) a direct transaction to external leader rotation only (no internal). 
