@@ -1,3 +1,17 @@
+2024-02-02 Sat: Last week, I focused on the state pruning feature. During this time, I addressed a few issues, successfully fixed them, and rebased the branch, which is now ready for merge. To test the pruning functionality, I performed tests on the devnet. However, the database size did not significantly decrease due to the recent devnet restart, resulting in a lack of transactions. Consequently, there were not many intermediary states to remove.
+
+For a more comprehensive test, I conducted state pruning on the test-net database. Here are the results for shard 0:
+
+Before: 26,758,097,053 bytes
+After: 26,734,477,304 bytes
+Difference: 23,619,749 bytes
+
+The pruning operation reduced the size by approximately 23MB (out of 25 GB), albeit a modest reduction. The limited decrease is attributed to the test-net database also lacking a substantial number of intermediary states. To overcome this, the devops team assisted in deploying a main net node, and I commenced testing pruning on the main net. Results for this test will be shared once the testing is complete.
+
+Additionally, I addressed a user-reported issue regarding transaction sending. Upon investigation, we identified a logic flaw in the allowed list, allowing multiple entries for the same "from" address. The current code only retains the latest entry, disregarding the previous ones. To rectify this, I submitted a pull request that resolves the issue by establishing a map of allowed transactions to an array of transaction data, rather than a map of "from" to a single transaction data.
+
+---
+
 2024-01-26 Friday: We encountered an issue that could lead to panic errors on devnet nodes due to a null snapshot. This problem was triggered by fast sync tests in StreamNet and was affecting the decoupled nodes. I addressed this issue on the P2P client side by validating the snapshot creation result.
 
 Subsequently, I resolved the snapshot creation issue, which was a blocker for state pruning as well. The snapshot creation was broken because of an incorrect root hash. The PR addresses that issue and also adds a new section in the configuration file for cache settings. It moves old cache settings under this new section as well. All the changes have been tested successfully and are ready to review and merge by team.
