@@ -1,3 +1,10 @@
+2024-02-09 Fri: This week, we started by updating the RPC nodes' certificates. I created an automation role and playbook using Ansible to streamline future renewals.
+
+Next, we focused on leader rotation, adding a new node from a different global location to assess latency impacts. We also tested network reliability when a leader node goes offline. The downtime averaged 25 seconds, consistent with our expectations, regardless of the number of BLS keys.
+
+At the week's end, I reset the development network, aligning the leader rotation and externalization epochs to ensure smooth operation. This setup mirrors what we anticipate for the main network. Next week, we plan to engage the validator community in our testing efforts.
+
+---
 2024-02-02 Fri: The week began with the observation of a slowdown in block finality on the devnet, where blocks were produced at a rate of 10 seconds. Initially, i suspected that the issue was related to leader rotation, but after an update, the network halted. We discovered that restarting the network multiple times could temporarily resolve the issue. This finding, combined with analysis of the produced logs, led to an investigation together with Soph.
 
 The root cause of the problem was identified as the network operating at a 100% rate, triggering a special code path designed for such scenarios. This path involved old code that had not been executed in any other network scenario because a 100% operation rate was never previously reached. I created a PR to address this issue and deployed it to the devnet, which successfully resolved the problem.
