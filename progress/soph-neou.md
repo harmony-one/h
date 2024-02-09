@@ -1,3 +1,10 @@
+**2024-2-9 Fri**:
+
+The long release for v2024.0.0, detailed in [PR 4546](https://github.com/harmony-one/harmony/pull/4546), has undergone review. Testing will commence next week, with an anticipated release by the end of the following week, barring any unforeseen issues. This release will be non-mandatory.
+
+Regarding the upcoming [HIP32 hardfork](https://talk.harmony.one/t/hip32-complete-decentralization-of-validator-network), the initial estimate of March 13th may be postponed to the end of March. This adjustment is due to underestimating the time required for coordination with our validator community. Discussion are still ongoing.
+
+---
 **2024-2-2 Fri**:
 
 This week, progress was made in unblocking the leader rotation testing by addressing a corner case related to fast signature collection and achieving 100% vote before meeting the 67% quorum. The corresponding  [PR4626](https://github.com/harmony-one/harmony/pull/4625) has been created and confirmed working by Diego.
