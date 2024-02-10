@@ -1,3 +1,7 @@
+2024-02-09 Fri: I collaborated with Diego to test network performance. It passed successfully. Additionally, I updated my previous PRs. I've updated libraries, which prevented compilation with new golang versions. And I added additional code for the leader to detect sign power during network downtimes.
+
+---
+
 2024-02-02 Fri: During the first half of the week, I collaborated with Soph and Diego to investigate a devnet hardfork. We successfully identified the root cause and implemented a hotfix, incorporating additional performance improvements. In the second half of the week, I worked with Diego on testing network performance. This involved assessments on both our internal network and external validators located at a distance, ensuring that the new code wouldn't lead to downtimes or performance issues.
 
 ---
