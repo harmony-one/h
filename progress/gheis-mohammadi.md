@@ -1,3 +1,7 @@
+2024-02-10 Sat: Last week, I focused on fixing snapshot DB creation. I refactored the snapshot codes, addressed several race conditions, and made some improvements to the code. Later, I tested snapshot creation again on the mainnet DB, which had a size of 32TB. It took around 42 hours to complete, and no errors were reported during generation. However, the issue arose afterward when the node became stuck and couldn't continue syncing. We attempted to identify the problem and tested several possible scenarios. We are still working on resolving this issue, and once it is fixed, we can proceed with the final pruning test.
+
+---
+
 2024-02-02 Sat: Last week, I focused on the state pruning feature. During this time, I addressed a few issues, successfully fixed them, and rebased the branch, which is now ready for merge. To test the pruning functionality, I performed tests on the devnet. However, the database size did not significantly decrease due to the recent devnet restart, resulting in a lack of transactions. Consequently, there were not many intermediary states to remove.
 
 For a more comprehensive test, I conducted state pruning on the test-net database. Here are the results for shard 0:
