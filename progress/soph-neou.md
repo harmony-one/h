@@ -1,3 +1,13 @@
+**2024-2-16 Fri**:
+The focal point of this week was the unexpected Mainnet Shard 0 Outage and Crosslink stuck. Through collaborative efforts and rigorous code review, we successfully resolved the issue. For those interested, a detailed post-mortem report has been published here : https://talk.harmony.one/t/harmony-mainnet-stuck-incident-report-feb-10-2024/24087
+
+I dedicated time to enhancing our developer documentation by reorganizing and restructuring it for improved accessibility and usability. You can explore the latest updates at https://docs.harmony.one/home/developers.
+
+In regards of the Harmony Cloud Accounting, I compiled and analyzed the costs incurred for December 2023 and January 2024. The findings will be shared with the team via internal channels on Monday.
+
+Lastly, I reviewed, researched, and tested automation processes for SSL certificate issuance. This initiative aimed to streamline security measures, particularly for non .country domains hosted on our .country infrastructure.
+
+---
 **2024-2-9 Fri**:
 
 The long release for v2024.0.0, detailed in [PR 4546](https://github.com/harmony-one/harmony/pull/4546), has undergone review. Testing will commence next week, with an anticipated release by the end of the following week, barring any unforeseen issues. This release will be non-mandatory.
