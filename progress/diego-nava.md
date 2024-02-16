@@ -1,3 +1,8 @@
+2024-02-16 Fri: This week started with a major hurdle: a 26-hour network outage! I organized the validators, and together we coordinated a synchronized restart attempt, achieving 67% voting power. While the initial effort wasn't successful, good news arrived on Monday – the network was back online! However, cross-links still posed a challenge. Teaming up with Soph and Gheis, we identified and fixed the issue, clearing the queue and getting things moving smoothly again.
+
+Now, I've shifted my focus to the leader rotation process. After resetting the devent and applying the latest updates, I'll be reaching out to validators to gauge their interest in participating in the upcoming testing phase. Stay tuned for further updates next week!
+
+---
 2024-02-09 Fri: This week, we started by updating the RPC nodes' certificates. I created an automation role and playbook using Ansible to streamline future renewals.
 
 Next, we focused on leader rotation, adding a new node from a different global location to assess latency impacts. We also tested network reliability when a leader node goes offline. The downtime averaged 25 seconds, consistent with our expectations, regardless of the number of BLS keys.
