@@ -1,3 +1,7 @@
+2024-02-16 Fri:  This week, I focused on addressing the mainnet downtime issue. I've been working on a feature aimed at preventing the processing of invalid blocks during the view change process. I've submitted multiple pull requests to enhance the view change logic and implemented additional validations. Furthermore, I successfully updated our libp2p dependencies, which was blocking us from updating the Go version.       
+
+---
+
 2024-02-09 Fri: I collaborated with Diego to test network performance. It passed successfully. Additionally, I updated my previous PRs. I've updated libraries, which prevented compilation with new golang versions. And I added additional code for the leader to detect sign power during network downtimes.
 
 ---
