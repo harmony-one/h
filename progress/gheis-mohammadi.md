@@ -1,3 +1,11 @@
+2024-02-16: Sat: My main focus of this week was on the unexpected Mainnet Shard 0 outage and Crosslink stuck. We had several meetings, calls, and discussions during both the weekend and weekdays. After extensive team collaboration and testing, I created several PRs to address the crosslink issues [#4629](https://github.com/harmony-one/harmony/pull/4629) , [#4630](https://github.com/harmony-one/harmony/pull/4630) and delete pending crosslinks ([this commit](https://github.com/harmony-one/harmony/commit/d0261f8ef5360e05ee964b034afd83b10de34615). Through collaborative efforts and rigorous code review, we successfully resolved the issue.
+
+Additionally, I conducted several code reviews and provided comments on other PRs that addressed race conditions.
+
+Another challenge we faced was a devnet stuck on Shard 0. I investigated this issue as well. After thorough investigation, we discovered that it may be related to some new configurations for snapshots. The team assisted in adding these new configurations to all nodes and subsequently disabled them.
+
+---
+
 2024-02-10 Sat: Last week, I focused on fixing snapshot DB creation. I refactored the snapshot codes, addressed several race conditions, and made some improvements to the code. Later, I tested snapshot creation again on the mainnet DB, which had a size of 32TB. It took around 42 hours to complete, and no errors were reported during generation. However, the issue arose afterward when the node became stuck and couldn't continue syncing. We attempted to identify the problem and tested several possible scenarios. We are still working on resolving this issue, and once it is fixed, we can proceed with the final pruning test.
 
 ---
