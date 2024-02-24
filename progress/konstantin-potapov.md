@@ -1,3 +1,7 @@
+2024-02-23 Fri: This week, we made updates to the devnet by integrating external community validators and updated the testnet with the leader branch. Additionally, I focused on improving view change processes, refactoring code, and implementing additional checks for view change block processing.  
+
+---
+
 2024-02-16 Fri:  This week, I focused on addressing the mainnet downtime issue. I've been working on a feature aimed at preventing the processing of invalid blocks during the view change process. I've submitted multiple pull requests to enhance the view change logic and implemented additional validations. Furthermore, I successfully updated our libp2p dependencies, which was blocking us from updating the Go version.       
 
 ---
