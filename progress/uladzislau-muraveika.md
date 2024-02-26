@@ -1,3 +1,12 @@
+2024-02-23 Friday: The main focuses on this week:
+* fixed playbook for the new  mainnet automation RPC automation for new SSL
+* RPC ansible automation - devnet/testnet/mainnet shard 1 RPC finished, shard 0 fulldb and archival RPCs will be done on the following week
+* [backup node identification](https://github.com/harmony-one/harmony-ops-priv/issues/171) - 31 validator were identified with websites/emails
+* two more address were removed from blacklist
+* finished my first on-call - provided few ideas how to make our monitoring less noisy.
+
+---
+
 2024-02-16 Friday: The main focuses on this week:
 * main focus - two new full db RPC up and running == save costs
 * RPC ansible automation - devnet/testnet covered and still in progress
