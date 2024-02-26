@@ -1,3 +1,7 @@
+**2024-2-23 Fri**:
+I focused on analyzing content hosted on dot country domains using harmony.one SSL. To streamline the process, I developed automation for certificate creation, which you can find here: https://github.com/harmony-one/ansible/pull/126. Additionally, we provided support to several users encountering stuck transactions, particularly those using ledger and exchange platforms. Some of these issues are still tied to the blacklist implemented on the network.
+
+---
 **2024-2-16 Fri**:
 The focal point of this week was the unexpected Mainnet Shard 0 Outage and Crosslink stuck. Through collaborative efforts and rigorous code review, we successfully resolved the issue. For those interested, a detailed post-mortem report has been published here : https://talk.harmony.one/t/harmony-mainnet-stuck-incident-report-feb-10-2024/24087
 
