@@ -1,3 +1,13 @@
+**2024-3-1 Fri**:
+
+I've assisted Protofire with the migration of Blockscout contracts and created the infra required for docs.lend.harmony.one.
+I then contributed to our playbook by adding gcloud cert map creation to help future subdomain ssl linked to dot country.
+
+For the leader rotation, the isbackup feature was tested with the validator community. It has been confirmed not working and Konstantin is leading the effort to address this. With the devnet leader rotation test, we highlighted the need of a 1% internal voting power to be used as DNS node. And we finally coordinated with validators to halt their backup nodes in preparation for full decentralization. We are now left with 21 validators out of the original 31.
+
+On the commnunity side, I helped with bridge users issue, including one user losing 2000 BSC-USDT during the bridge transfer. Yuriy is investigating, and I'm awaiting feedback. And I assisted two other blacklisted users with their inquiries for burning and unblacklisting their ONE account.
+
+---
 **2024-2-23 Fri**:
 I focused on analyzing content hosted on dot country domains using harmony.one SSL. To streamline the process, I developed automation for certificate creation, which you can find here: https://github.com/harmony-one/ansible/pull/126. Additionally, we provided support to several users encountering stuck transactions, particularly those using ledger and exchange platforms. Some of these issues are still tied to the blacklist implemented on the network.
 
