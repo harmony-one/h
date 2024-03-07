@@ -1,3 +1,11 @@
+2024-03-01 Fri: Spent most of the week looking at the code to try to replicate the issue with the blocked pending delegations, I've developed a couple of theories but nothing conclusive yet. I'll keep looking at it during the weekend as this is an issue of major importance. 
+
+---
+2024-02-23 Fri: Ran the devnet externalization test which involved external validator in the process of externalizing devnet and also introducing leader rotation, this concludes the set of tests we wanted to run in devnet.
+
+Also, investigated the issue with the buggy validator, and got a few insights on the unblocked stacking. 
+
+---
 2024-02-16 Fri: This week started with a major hurdle: a 26-hour network outage! I organized the validators, and together we coordinated a synchronized restart attempt, achieving 67% voting power. While the initial effort wasn't successful, good news arrived on Monday – the network was back online! However, cross-links still posed a challenge. Teaming up with Soph and Gheis, we identified and fixed the issue, clearing the queue and getting things moving smoothly again.
 
 Now, I've shifted my focus to the leader rotation process. After resetting the devent and applying the latest updates, I'll be reaching out to validators to gauge their interest in participating in the upcoming testing phase. Stay tuned for further updates next week!

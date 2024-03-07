@@ -1,3 +1,7 @@
+**2024-03-02 Sat:** Last week, I started refactoring snapshot database. This would fix a couple of issues on old versions of database
+
+---
+
 **2024-02-24 Sat:** Last week, I resumed working on the snapshot database. I completed several tests and thoroughly examined the codes of ethdb. During this process, I identified an issue with the validator wrapper code prefix that could potentially lead to failures in snapshot creation. I promptly addressed this by adding the new prefix and proceeded to conduct additional tests on the mainnet database. These tests have been ongoing for the past 40 hours, and we are currently awaiting the results. If successful, this update would mark a significant advancement in snapshot creation.
 
 ---
