@@ -1,3 +1,12 @@
+**2024-3-8 Fri**:
+
+This week, we released v2024.4.0 to facilitate testing without activating the HIP32 leader rotation. This decision aims to reduce potential errors and streamline troubleshooting processes if any issues arise.
+
+Snapshot voting for HIP32 is underway, with unanimous support thus far. However, we still need another 883M ONE votes to reach the required 51% total stake for the vote to be valid. You can track the progress here: [Snapshot Voting Details.](https://vstats.fortune-validator.pro/proposals/0x2c862da1cc9036a13d0505cba3aeb44f99ae5b7b7c1ef011aa147f73be9022f0) Thanks David Fortune
+
+Addressing the need for incident response guidance within the validator community, I've drafted a [General instruction doc](https://docs.google.com/document/d/12n0-z7WRtJXBBJcphdl7-pGONGW7gRqCDurMsI_x5_8/edit) outlining procedures during such events. This document is currently under review and includes tooling suggestions for future development.
+
+---
 **2024-3-1 Fri**:
 
 I've assisted Protofire with the migration of Blockscout contracts and created the infra required for docs.lend.harmony.one.
