@@ -1,3 +1,7 @@
+**2024-03-09 Sat:** Last week, I continued working on upgrading the database layer. It will involve significant changes and will require extensive testing. I have already resolved 90% of the upgrade issues and am aiming to finalize the code by the end of next week
+
+---
+
 **2024-03-02 Sat:** Last week, I started refactoring snapshot database. This would fix a couple of issues on old versions of database
 
 ---
