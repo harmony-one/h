@@ -1,12 +1,16 @@
 --
+
 2024-03-06 Wednesday 
 Review
 https://github.com/harmony-one/harmony/pull/4636
 https://github.com/harmony-one/harmony/pull/4638
 https://github.com/harmony-one/harmony/pull/4639
+
 ---
+
 2024-02-23 to 2024-02-02
 Out for Ethereum Denver Conference
+
 ---
 2024-02-20 Tuesday: Review of big pull request dev->main https://github.com/harmony-one/harmony/pull/4633
 2024-01-30 Tuesday: Reviewed snapshot fixes and merged PR# 4618 to dev https://github.com/harmony-one/harmony/pull/4618
