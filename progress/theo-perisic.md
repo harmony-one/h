@@ -1,8 +1,8 @@
-2024-03-11 Mon: Moved progress from /x and /s to /h. Scheduled call with DIA for alternative oracle providers to boost support on Harmony.
+2024-03-11 Mon: Moved progress from /x and /s to /h. Scheduled call with DIA for alternative oracle providers to boost support on Harmony. Insight: Investigating JEPA (Joint Embedding Predictive Architecture) for voice synthesis could be valuable following the video of [Lex Fridman with Yann LeCun](https://www.youtube.com/watch?v=5t1vTLU7s40), as its focus on predicting missing segments and learning semantic relationships in the audio signal might lead to improved control over prosody(rhythm) and robustness to imperfect input text, unlike traditional LLMs.
 
-2024-03-10 Sun:
+2024-03-10 Sun: Further look into providing valuable data for LLMs,resulting in a significant model improvement. Insight: Quality over quantity is the best approach to voice data. [Apple model improvements](https://machinelearning.apple.com/research/personal-voice). We may need to create a new performance benchmark as a standard, Word Error Rate (WER) does not account for natural sounding speech, and Mean Opinion Score (MOS) is an aggregated score of human listeners, quantifying MOS could be great for the entire synthesis space as we move forward. (7hr)
 
-2024-03-09 Sat:
+2024-03-09 Sat: Joskins coordination for increased awareness. Shared announcement with Alaina. (1hr)
 
 2024-03-08 Fri: Created content for Envio announcement for partnership.
 
