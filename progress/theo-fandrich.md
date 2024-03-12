@@ -2,7 +2,7 @@
 
 2024-03-11 Mon: Discussed partnerships and ecosystem growth with Tenacious and MetaOne. Submitted build 15 of ONE Map to App store. Going to have call with Matt Ye of Lorenzo tomorrow to discuss potential bitcoin related integrations.
 
-2024-03-09 Sat: 
+2024-03-09 Sat: Reviewed Merlin/Bitmap, B Squared, Bitlayer/Bitvm, BEVM. Lots of liquidity, but much of the same preexisting defi.
 
 2024-03-08 Fri: Schedule a meeting with Tenacious defi for Monday morning. Began conversations with Bitlayer. Looking more closely into Bevm, merlin, and bsquared.
 
