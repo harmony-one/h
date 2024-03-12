@@ -1,3 +1,4 @@
+2024-03-12 Tue: Engaged with Lorenzo in meeting. Course is set to begin partnership, simplest integration would first be with Layer Zero bridge to Lorenzo cosmos app chain. They are launching testnet in one month.
 
 2024-03-11 Mon: Discussed partnerships and ecosystem growth with Tenacious and MetaOne. Submitted build 15 of ONE Map to App store. Going to have call with Matt Ye of Lorenzo tomorrow to discuss potential bitcoin related integrations.
 
