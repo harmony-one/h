@@ -1,4 +1,6 @@
---
+2024-03-11 Monday: Branch feature/clear-stale-staking-data fell several months behind dev, updated to prevent future merge conflicts
+
+---
 
 2024-03-06 Wednesday: Reviewed team pull requests
 
