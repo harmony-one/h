@@ -1,3 +1,21 @@
+2024-03-11 Mon: Moved progress from /x and /s to /h. Scheduled call with DIA for alternative oracle providers to boost support on Harmony.
+
+2024-03-10 Sun:
+
+2024-03-09 Sat:
+
+2024-03-08 Fri: Created content for Envio announcement for partnership.
+
+2024-03-07 Thu: Transition of direction to research specific data providers for models. High level aim is to verify data quality or quantity to achieve 1-10% voice synthesis model performance. Meeting with Envio to plan next week’s announcements and potential twitter spaces.
+
+2024-03-06 Wed: Deep dive into Bittensor architecture and whitepaper, focusing on data component. Insight: End goal of bittensor is decentralized compute for entire model itself, they have a limit at 32 subnets that each consist of a unique model, not strictly at the data collection optimization layer of the model. 
+
+2024-03-05 Tue: Research leading crypto and AI intersections who appeared at EthDenver. Morpheus, Bittensor, 0g, Near, Semiotic Lab, etc.
+
+2024-03-04 Mon: Multiple longer meetings with Stephen and team for Q2 planning and EthDenver recap. Sync with Artem and Yuriy about Bitcoin and AI narratives. 
+
+---
+
 **1. Harmony Shard 1 Data Optimization:**
 
 Analyze how other blockchains make their data readily accessible, focusing on scalability and cost-reduction strategies. Our goal is to adapt these best practices to Harmony Shard 1, resulting in seamless data access and ultra-fast transactions, supercharging the development of powerful dApps on our platform. Zero knowledge proofs may also be implemented to ensure optimal security and privacy.
@@ -28,7 +46,29 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-02-21 Wed: Sync with Yuriy, Artem, and Frank for tasks to implement location updates and most recent UI changes. Harmony<>Covalent sync for EthDenver.
+2024-03-03 Sun: Continued research on post EthDenver initiatives and how we can bring them to Harmony. As well as continuing to improve our current ecosystem. Insight: Lend needs incentivized lending and liquidity, Stacking needs auto-restocking and further rewards customization. (4hr)
+
+2024-03-02 Sat: Updated remote team on changes following EthDenver to continue into Q2.(1hr)
+
+2024-03-01 Fri: Transition into $voice and $map, coordination with Frank to move from h.country onto voice and map data.
+
+2024-02-29 Thu: Event breakdown for team in Denver. Looking into 0g, first modular AI chain, Babylon, bitcoin re-stacking, BoB, build-on-bitcoin EVM.
+
+2024-02-28 Wed: Circle back with Metamask team from EthDenver for Portfolio listing.
+
+2024-02-27 Tue: Flight back from Denver.
+
+2024-02-26 Mon: Extended morning conversations with community members in Denver, covering 2023 products, governance, and ecosystem updates. Participated in conversations with ex-harmony team, side event hackathon for devrel, and evening event at Imperial City.
+
+2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. 
+
+2024-02-24 Sat: First full day in Denver. Onboarding 10+ users to h.country, shared insights with team.
+
+2024-02-23 Fri: Travel Day to EthDenver. Mixup with booking, solved with Alaina. Met up with Casey at the buidlathon event.
+
+2024-02-22 Thu: Final sync with Stephen prior to EthDenver, team plan for EthDenver is to push h.country development to showcase and onboard users in Denver.
+
+2024-02-21 Wed: Sync with Yuriy, Artem, and Frank for tasks to implement location updates and most recent UI changes. Implemented front-end only showing the 30 most recent actions and minor copy edits.   2024-02-20 Tue: Completed EthDenver login. 10:30 sync and coordinating front-end logic changes with team.  
 
 2024-02-20 Tue: Completed EthDenver troubleshooting. 10:30 sync, coordinating front-end logic changes with team.
 
