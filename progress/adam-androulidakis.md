@@ -1,3 +1,4 @@
+2024-03-12 Tuesday: Reviewed PR #4642 that modifies the node to retrieve an address from BLS keys (Konstantin). Continued developing Chain Force demo concepts. Reached out to coinmonstore to arrange Harmony product listing. 
 2024-03-11 Monday: Branch feature/clear-stale-staking-data fell several months behind dev, updated to prevent future merge conflicts
 
 ---
