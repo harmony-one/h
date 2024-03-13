@@ -1,8 +1,11 @@
-2-week Deliverables
+**2-week Deliverables**
 
 Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 
 ---
+2024-03-12 Tue: Looked into the solidity contract for Story protocol, started researching how we can implement this on shard 1.
+
+2024-03-11 Mon: Watched and read documentation on Story protocol, tested their existing products (Hey, Magma, artcast, etc) and researched how we can implement this for /data.
 
 2024-03-10 Sun: Further continued, looked into on-chai royalty policy and did some research on different AI models and their specs (MMLU, etc).
 
@@ -23,6 +26,8 @@ My focus on enhancing One Social Map involves substantial improvements in both t
 For h.country, my objective is to advance the platform's integration and usability features. This includes improving the oAuth login mechanism and linking usernames directly to user accounts, thereby streamlining the authentication process. I intend to expand the range of oAuth providers available, broadening the accessibility for users across different platforms. Furthermore, the integration of the check-in function with the One Social Map app will be prioritized, aiming to create a cohesive and interconnected user experience between the two applications. This effort is directed towards facilitating a smoother and more efficient interaction for users navigating between h.country and One Social Map.
 
 In my pursuit of market research, I am dedicated to uncovering and exploring new crypto products, aiming to stay at the forefront of blockchain innovation. This exploration is not limited to theoretical research; I plan to actively participate in more events, engaging with the blockchain community to gather insights and trends firsthand. A particular focus will be on keeping abreast of emerging trends such as farcaster (and AGI), which represents the cutting edge of blockchain and crypto developments. By doing so, I aim to attract more users to our ecosystem, leveraging these insights to inform strategic decisions and enhance our offerings. This commitment to market research and community engagement is pivotal to our strategy of continuous innovation and growth.
+
+2024-02-29 Thu ~ 2024-03-03 Sun: ETH Denver
 
 2024-02-25 Sun:
 Worked on setting up Telegram oAuth (father bot) and integrating to Auth0.
