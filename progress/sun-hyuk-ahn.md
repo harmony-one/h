@@ -1,4 +1,8 @@
+2024-03-12 Tue: Yuriy and I decided to look into 2 different SDks with Yuriy diving into Sovereign SDK and me into [Rollkit](https://rollkit.dev/). Both support modular, sovereign rollups but they are in different languages, Rust and Golang, respectively. The current solution is for us to fork the SDKs and change the settlement logic so that it occurs through Harmony rather than Celestia. Smart contract on the Harmony level in order to accept the proofs provided from the rollup (and possibly Celestia) will be required. This part will be handled by Yuriy.
+
 2024-03-11 Mon: Yuriy and I decided on [Sovereign SDK](https://github.com/Sovereign-Labs/sovereign-sdk) in order to implement the sovereign rollup on our Shard 1. Started the architecture and technical roadmap, as well as writing up and dividing up tasks to be completed along with Yuriy. Tomorrow morning, we will discuss on the ETAs for the features and provide an initial write up for review.
+
+2024-03-10 Sun (8 hours): Researched into Celestia and rollups, specifically sovereign rollups. Used Sovereign SDK in order to launch a basic rollup on Celestia. This basic rollup handles the data availability and settlement through Celestia. Looked into how we can integrate Harmony's Shard 1. The most viable solution seems to be handling just the settlement in Shard 1.
 
 ---
 
