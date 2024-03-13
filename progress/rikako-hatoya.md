@@ -1,3 +1,9 @@
+2-week Deliverables
+
+Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
+
+---
+
 2024-03-10 Sun: Further continued, looked into on-chai royalty policy and did some research on different AI models and their specs (MMLU, etc).
 
 2024-03-09 Sat: Further continued market research (eg. modulus, eternis) lisetd on the edgeai notion site and looked around Twitter.
