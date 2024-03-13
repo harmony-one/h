@@ -1,3 +1,5 @@
+2024-03-13 Wed: Reviewed various lending protocols to determine what an appropriate APY would be for incenticizing wBTC inflows to lend.country. The maximum yield for a supplier on Aave is 0.08% on over $1b wBTC on eth network. I also helped start Claude API.
+
 2024-03-12 Tue: Engaged with Lorenzo in meeting. Course is set to begin partnership, simplest integration would first be with Layer Zero bridge to Lorenzo cosmos app chain. They are launching testnet in one month.
 
 2024-03-11 Mon: Discussed partnerships and ecosystem growth with Tenacious and MetaOne. Submitted build 15 of ONE Map to App store. Going to have call with Matt Ye of Lorenzo tomorrow to discuss potential bitcoin related integrations.
