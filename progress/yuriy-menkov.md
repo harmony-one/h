@@ -1,3 +1,16 @@
+**Deliverables for next 2 weeks:**
+Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics for shard 1 as a data availability competitor to Near and Celestia (see Near's graphic)
+
+2024-03-13 Wed: Build sovereign Celestia rollup on Harmony Shard 1: reviwed new [docs](https://www.notion.so/Sovereign-Celestia-Rollup-on-Harmony-Shard-1-1429d67a09f7462dac242a0ca126a776) from Sun, studied the option of using Rollkit SDK, learning how other EVM rollups interact using smart contracts.
+
+2024-03-12 Tue: Meeting with Sun at which we discussed sovereign rollup development ways. Discussed the difficulties of using sovereign-sdk and cosoms-sdk. Made payments for the remaining 1BTC redeems requests (BTC bridge redeems). Prepared the BTC website (redeems program) for closure.
+
+2024-03-11 Mon: Dived into building rollups using [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) (Unfortunately, I don't have enough expirience with Rust - which prevents me from understanding some things). Also could not find adapters on Ethereum EVM. Helped Frank with shutting down the Stable Diffusion servers.
+
+___
+
+2024-03-08 Fri: sick day-off
+
 2024-03-07 Thu: Continue researching [libs](https://github.com/Sovereign-Labs/sovereign-sdk), and [docs](https://docs.celestia.org/developers/rollup-overview) to deploy a rollup using Celestia's SDK on Harmony Shard 1 (for AI, social, game data). 
 
 2024-03-06 Wed: Study of architecture [sovereign rollup](https://celestia.org/learn/sovereign-rollups/an-introduction/) to use it for Harmony Shard 1 (for AI, social, game data).  Researching Zero Gravity [0g.ai](https://0g.ai/) integration.
