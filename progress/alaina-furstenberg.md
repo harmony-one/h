@@ -1,6 +1,14 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
-2 week deliverables: Coordinate with Artem and Theo P on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
+2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
+
+-----
+
+2024-03-20 Sat:
+
+2024-03-15 Fri:
+
+2024-03-14 Thu:
 
 2024-03-13 Wed: [ETH Denver video upload](https://www.youtube.com/watch?v=ZjAMifZFUF0&t=2s
 ) + [HIP 32 Twitter announcement](https://twitter.com/harmonyprotocol/status/1768032021681766672). Setting up the merch store with coinmonster.
