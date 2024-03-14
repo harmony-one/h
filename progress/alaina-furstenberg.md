@@ -1,5 +1,10 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
+2 week deliverables: Coordinate with Artem and Theo P on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
+
+2024-03-13 Wed: [ETH Denver video upload](https://www.youtube.com/watch?v=ZjAMifZFUF0&t=2s
+) + [HIP 32 Twitter announcement](https://twitter.com/harmonyprotocol/status/1768032021681766672). Setting up the merch store with coinmonster.
+
 2024-03-12 Tue: [Envio thread](https://x.com/harmonyprotocol/status/1767683985491235130?s=20) on getting started, setting up merch with coinmonster. ONE Map testing + handoff notes to Nagesh [here](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b). 
 
 2024-03-11 Mon: Envio partnership launch on [Twitter](https://x.com/harmonyprotocol/status/1767239477641228398?s=20) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7173005739970424832/). Handoff notes to Nagesh updated [here](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b).
