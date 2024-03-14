@@ -1,6 +1,6 @@
 **2-week Deliverables**
 
-DeFi products research: Baseline, Taiko, Bitcoin ecosystem (docs, ecosystem and smart contracts). Develop telegram client on web, prepare telegram client demo.
+DeFi products research: Baseline, Taiko, Bitcoin ecosystem (docs, smart contracts). Develop telegram client on web, prepare telegram client demo.
 
 ---
 
