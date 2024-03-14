@@ -1,6 +1,6 @@
 **2-week Deliverables**
 
-DeFi products research: Baseline, Taiko, Bitcoin ecosystem (docs, smart contracts). Develop telegram client on web, prepare telegram client demo.
+Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge, swap, and lend in a single location. Ensure seamless integration of various APIs into an attractive and user-friendly UI.
 
 ---
 
