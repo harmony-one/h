@@ -1,5 +1,8 @@
-**Deliverables for next 2 weeks:**
+**2-Week Deliverables:**
+
 Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics for shard 1 as a data availability competitor to Near and Celestia (see Near's graphic)
+
+---
 
 2024-03-13 Wed: Build sovereign Celestia rollup on Harmony Shard 1: reviwed new [docs](https://www.notion.so/Sovereign-Celestia-Rollup-on-Harmony-Shard-1-1429d67a09f7462dac242a0ca126a776) from Sun, studied the option of using Rollkit SDK, learning how other EVM rollups interact using smart contracts.
 
