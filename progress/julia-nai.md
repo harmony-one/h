@@ -1,3 +1,10 @@
+2-Week Deliverables:
+Decide on dataset and product plan for AI data gathering. 
+
+---
+
+2024-03-13 Wed: Looked into feasibility of training LLM on purely voice input avoiding the text translation layer. Compared training hours and token quantities of existing models. 
+
 2024-03-12 Tue: Researching more into data types that can be used for unlabeled data sets. Looking into ways that users can be incentivized to provide data that reasonably improves models more than free data. 
 
 2024-03-11 Mon: Reading wav2vec experiments with extra unlabeled training data and the impact on model performance. Looking into Whisper training set and finding correlation between data in and data out. 
