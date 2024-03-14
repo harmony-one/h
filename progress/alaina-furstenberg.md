@@ -11,7 +11,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 2024-03-14 Thu:
 
 2024-03-13 Wed: [ETH Denver video upload](https://www.youtube.com/watch?v=ZjAMifZFUF0&t=2s
-) + [HIP 32 Twitter announcement](https://twitter.com/harmonyprotocol/status/1768032021681766672). Setting up the merch store with coinmonster.
+) + [HIP 32 Twitter announcement](https://twitter.com/harmonyprotocol/status/1768032021681766672). Setting up the merch store with coinmonster. ONE Voice Map [handoff notes](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b).
 
 2024-03-12 Tue: [Envio thread](https://x.com/harmonyprotocol/status/1767683985491235130?s=20) on getting started, setting up merch with coinmonster. ONE Map testing + handoff notes to Nagesh [here](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b). 
 
