@@ -1,6 +1,8 @@
 **2-week deliverables**
 Will work on integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Will also check if it's possible to migrate our current bard implementation to Gemeni and study video generation on OpenAI. 
 
+2024-03-13 Wed: Fixed Anthropic backend issue with [completion format](https://github.com/harmony-one/harmony-llm-api/pull/13) and working on deploying issues with the anthropic library. Added opus (/claude, /opus) and sonnet (/claudes, /sonnet command) to [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/357). Fixed AI conversation error after prompt doesn't receive completion, and fixed action message infinite loop after error for LlmsBot and OpenAI bot.   
+
 2024-03-12 Tue: Added Anthropic's Claude create message endpoint in [harmony-llms-api](https://github.com/harmony-one/harmony-llm-api/pull/13). Also, added /claude command on the Harmony1Bot local test environment.
 
 2024-03-11 Mon: Updated the recharge message on Harmony1Bot due to some confusion regarding what token to send the funds. Also [SdImagesBot and QRCodeBot](https://github.com/harmony-one/HarmonyOneBot/pull/356) were disabled due to the shutdown of the Stable Diffusion servers. Finally, worked on enabling [live transcription](https://github.com/harmony-one/1/pull/14) on the Social Map app and configured a test account on the anthropic AI model. 
