@@ -1,3 +1,5 @@
+2024-03-13 Wed: Call with Artem and Frank for 2-week deliverables. Sync with Stephen and Julia for potential voice foundational direction. Contacted Stanford open source AI summit and community members for decks and additional information on crypto AI data companies.
+
 2024-03-12 Tue: Meeting with DIA for alternative oracle solution to add options for dapps. Insight: Their architecture directly provides a solution to the previous oracles issue regarding the bridge hack. Documents will be shared tomorrow EOD. Long meeting with Stephen to align team for next two weeks of deliverables.
 
 2024-03-11 Mon: Moved progress from /x and /s to /h. Scheduled call with DIA for alternative oracle providers to boost support on Harmony. Insight: Investigating JEPA (Joint Embedding Predictive Architecture) for voice synthesis could be valuable following the video of [Lex Fridman with Yann LeCun](https://www.youtube.com/watch?v=5t1vTLU7s40), as its focus on predicting missing segments and learning semantic relationships in the audio signal might lead to improved control over traditional LLMs.
