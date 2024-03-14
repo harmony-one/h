@@ -1,3 +1,16 @@
+**2-week Deliverables**
+
+DeFi products research: Baseline, Taiko, Bitcoin ecosystem (docs, ecosystem and smart contracts). Develop telegram client on web, prepare telegram client demo.
+
+---
+
+2024-03-13 Wed: Synced with Theo P on a new 2-week deliverables. [Added](https://github.com/harmony-one/explorer-v2-backend/commit/d648c9df84b11d8c065d653f40a83ff9cc8060c1) decimals data to ERC20 transfer info. Started telegram client on web, preparing basic app prototype.
+
+2024-03-12 Tue: helped Soph to implement endpoint to get ERC20 transfer info (sender, recipient, amount). Completed basic implementation, created [PR](https://github.com/harmony-one/explorer-v2-backend/pull/112).
+
+2024-03-11 Mon: started searching for top AI models for voice/conversation data. Investigated a bug reported by Soph: incorrect ERC20 circulation supply in the Explorer; decided not to implement a fix as it might take a couple days and we expect to release a new Blockscout Explorer in the next 1-2 months.
+---
+
 2024-03-08 Fri: researching [Peapods finance](https://docs.peapods.finance/) docs and webapp. Contract sources are not avaialble, [found](https://etherscan.io/token/0x02f92800F57BCD74066F5709F1Daa1A4302Df875#code) only PEAS ERC20 contract.
 
 2024-03-07 Thu: continue researching Bitcoin L1 projects. Started researching [Peapods Finance](https://peapods.finance/).
