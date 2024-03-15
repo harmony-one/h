@@ -1,10 +1,32 @@
+
+**2-week Deliverables**
+
+
+Over the next two weeks, the focus will be on implementing hot reload for ONE (Voice) Map, enhancing its UI design, optimizing app performance, and fixing the swipe functionality bug, especially with larger text volumes. Aim to improve user experience in the Voice AI app following the Whisper integration and app submissions to TestFlight.
+
+
+--- 
+
+2024-03-15 Fri: Implemented the drop cap solution using the webview and added scroll for larger text volumes.
+
+2024-03-14 Thu: Upgrade the "Voice AI" app to integrate Whisper functionality, streamline its interface to a single button, and deploy the updates for testing on TestFlight
+
+2024-03-13 Wed: React Native does not directly support drop caps. Currently, I am implementing customizations to achieve this effect. Fixed font issues and audio file lacking voice content are submitted to the Whisper API, the response from the API may differ. Deployed the updates to TestFlight.
+
+2024-03-12 Tue: The launch screen text was updated to "One (Voice) Map," including a correction to capitalize the first letter. These updates were then deployed to TestFlight. Additionally, I'm exploring alternative hot reload solutions beyond CodePush.
+
+2024-03-11 Mon: Implemented delete functionality, fixed font spacing issue, and deployed the updates to TestFlight.
+
+
+---
+
 2024-03-08 Fri: Implemented a custom three-dot animation, addressed drop caps issues, and deployed the updates to TestFlight.
 
 2024-03-07 Thu: Added custom fonts. Removed the 'Share' button, 'My Location' button, and marker pop-ups to streamline UI Increased microphone button size for better user accessibility.Implemented feature to drop a marker at the current location and start audio recording upon 'Record' button click. Added functionality to copy text to the clipboard for user convenience. After transcription ends, an 'X' button now temporarily overlays the microphone button for 5 seconds.
 
 2024-03-06 Wed: The speech-to-text function has been refactored, a share icon has been added with a function, the Memos view has been redesigned, the image carousel has been removed and drop caps for memo text, and the issue of "This voice memo could not be processed" has been fixed.
 
-2024-03-04 Tue: Currently addressing a bug where the map does not relocate to the dropped pin.
+2024-03-05 Tue: Currently addressing a bug where the map does not relocate to the dropped pin.
 
 2024-03-04 Mon: Reviewed the pull request at https://github.com/harmony-one/1/pull/12 and incorporated the changes into the codebase. Performing testing. 
 
