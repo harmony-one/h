@@ -3,6 +3,8 @@ Decide on dataset and product plan for AI data gathering.
 
 ---
 
+2024-03-14 Thu: Discussed platform to intelligently collect product information and present information/reviews that are up-to-date. Explored rewarding users for leaving reviews with low barrier (through voice). 
+
 2024-03-13 Wed: Looked into feasibility of training LLM on purely voice input avoiding the text translation layer. Compared training hours and token quantities of existing models. 
 
 2024-03-12 Tue: Researching more into data types that can be used for unlabeled data sets. Looking into ways that users can be incentivized to provide data that reasonably improves models more than free data. 
