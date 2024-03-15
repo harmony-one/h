@@ -3,6 +3,8 @@ Will work on integrating Anthropopic models into Harmony1Bot, including Claude O
 
 ---
 
+2024-03-14 Thu: Added [stream completion](https://github.com/harmony-one/harmony-llm-api/pull/13) support for harmony-llms-api, and fixed the missing Anthropic module error after deploying. Also, updated Opus and Sonnet prices on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/357) and started working on stream completion logic. 
+
 2024-03-13 Wed: Fixed Anthropic backend issue with [completion format](https://github.com/harmony-one/harmony-llm-api/pull/13) and working on deploying issues with the anthropic library. Added opus (/claude, /opus) and sonnet (/claudes, /sonnet command) to [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/357). Fixed AI conversation error after prompt doesn't receive completion, and fixed action message infinite loop after error for LlmsBot and OpenAI bot.   
 
 2024-03-12 Tue: Added Anthropic's Claude create message endpoint in [harmony-llms-api](https://github.com/harmony-one/harmony-llm-api/pull/13). Also, added /claude command on the Harmony1Bot local test environment.
