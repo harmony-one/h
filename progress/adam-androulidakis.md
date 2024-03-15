@@ -1,4 +1,14 @@
+2024-03-15 Friday: 
+Week summary 
+Focused on web3 gaming iniative, completing code port of web3 plugin originally built for godot 3.5 to godot 4.x. This can now be built with godot 4.2/4.3 source code on osx and linux (tested on Ubuntu 22) https://github.com/adsorptionenthalpy/godot-web3-plugin/tree/main-4.2. Currently building out a web3 game demo toward playable state to demonstrate the capabilities of framework. This is taking a little more time than initially estimated. 
+Reviewed incoming bugfixes and updates coming into Harmony dev, and some other housekeeping for some fixes that have been going stale. 
+ 
+---
+
 2024-03-12 Tuesday: Reviewed PR #4642 that modifies the node to retrieve an address from BLS keys (Konstantin). Continued developing Chain Force demo concepts. Reached out to coinmonstore to arrange Harmony product listing. 
+
+---
+
 2024-03-11 Monday: Branch feature/clear-stale-staking-data fell several months behind dev, updated to prevent future merge conflicts
 
 ---
