@@ -1,3 +1,14 @@
+**2024-3-15 Fri**:
+
+I've been quite busy this week! First off, I've kept in touch with validators to ensure the progress of HIP32, which is currently approved and awaiting the final decision on March 19th, check out the latest update the [HIP32 Vote dashboard] (https://vstats.fortune-validator.pro/proposals/0x2c862da1cc9036a13d0505cba3aeb44f99ae5b7b7c1ef011aa147f73be9022f0) thanks to David Fortune
+
+Furthermore, I troubleshooted devnet node problem concerning streamsync, alongside Gheis. It emerged that the faulty node had an incorrect viewID, leading to a divergence in hash values and subsequently causing a local node fork. Upon initial investigation, it was suggested that the snapshot feature might be updating the viewID, or that a node with a DB containing incorrect information was used for syncing.
+
+On another front, I worked with Artem on testing a new endpoint that enables us to query the details of an HRC20 transaction (check out: [HRC20 Transaction Detail](http://api1.explorer.t.hmny.io:3001/?query=getERC20TransferInfo%200%200xdce285759c3d3a1e6b66b57f064cc6b9399e5eb744ccb2b96414b3ff1ab1bd94)). We've been investigating a bug related to the circulation supply of depegged assets. Unfortunately, we won't be able to fix it until the mainnet blockscout is available.
+
+Lastly, I've been enhancing our internal operations and security by writing and updating multiple playbooks. You can find the latest changes and improvements in the following pull requests: [#139](https://github.com/harmony-one/ansible/pull/139), [#138](https://github.com/harmony-one/ansible/pull/138), [#137](https://github.com/harmony-one/ansible/pull/137), [#136](https://github.com/harmony-one/ansible/pull/136)
+
+---
 **2024-3-8 Fri**:
 
 This week, we released v2024.4.0 to facilitate testing without activating the HIP32 leader rotation. This decision aims to reduce potential errors and streamline troubleshooting processes if any issues arise.
