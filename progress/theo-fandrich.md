@@ -4,7 +4,7 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 
 ---
 
-2024-03-14 Thu:
+2024-03-14 Thu: Metamask Portfolio doesn't have a forkable repository so began discussions for our own prototype to combine swap, lend, and safe multisig. Looked into Runes as an angle for Harmony to attract btc retail attention. 
 
 2024-03-13 Wed: Reviewed various lending protocols to determine what an appropriate APY would be for incenticizing wBTC inflows to lend.country. The maximum yield for a supplier on Aave is 0.08% on over $1b wBTC on eth network. I also helped start Claude API.
 
