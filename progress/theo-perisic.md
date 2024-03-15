@@ -1,3 +1,5 @@
+2024-03-14 Thu: Concluded 2-week deliverables for team. Helped Rika with smart contracts for story protocol using Julia’s notion.
+
 2024-03-13 Wed: Call with Artem and Frank for 2-week deliverables. Sync with Stephen and Julia for potential voice foundational direction. Contacted Stanford open source AI summit and community members for decks and additional information on crypto AI data companies.
 
 2024-03-12 Tue: Meeting with DIA for alternative oracle solution to add options for dapps. Insight: Their architecture directly provides a solution to the previous oracles issue regarding the bridge hack. Documents will be shared tomorrow EOD. Long meeting with Stephen to align team for next two weeks of deliverables.
