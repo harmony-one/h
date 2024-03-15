@@ -4,7 +4,9 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
-2024-03-13 Wed: Synced with Theo P on a new 2-week deliverables. [Added](https://github.com/harmony-one/explorer-v2-backend/commit/d648c9df84b11d8c065d653f40a83ff9cc8060c1) decimals data to ERC20 transfer info. Started telegram client on web, preparing basic app prototype.
+2024-03-14 Thu:  started working on [Metamask portfolio](https://portfolio.metamask.io/): source code for existed metamask portfolio is not available, will work on out own app. Initialized basic React app, added routing, removed boilerplate code.
+
+2024-03-13 Wed: synced with Theo P on a new 2-week deliverables. [Added](https://github.com/harmony-one/explorer-v2-backend/commit/d648c9df84b11d8c065d653f40a83ff9cc8060c1) decimals data to ERC20 transfer info. Started telegram client on web, preparing basic app prototype.
 
 2024-03-12 Tue: helped Soph to implement endpoint to get ERC20 transfer info (sender, recipient, amount). Completed basic implementation, created [PR](https://github.com/harmony-one/explorer-v2-backend/pull/112).
 
