@@ -4,6 +4,8 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-03-14 Thu: Build sovereign Celestia rollup on Harmony Shard 1: Continue researching rollup contracts for capable of receiving, verifying proofs and transaction summaries. Looking at [Blobstream](https://docs.celestia.org/developers/blobstream) as data availability - this solution contains ready-made solutions and [contracts](https://github.com/celestiaorg/blobstream-contracts) that we can try to fork and use.
+
 2024-03-13 Wed: Build sovereign Celestia rollup on Harmony Shard 1: reviwed new [docs](https://www.notion.so/Sovereign-Celestia-Rollup-on-Harmony-Shard-1-1429d67a09f7462dac242a0ca126a776) from Sun, studied the option of using Rollkit SDK, learning how other EVM rollups interact using smart contracts.
 
 2024-03-12 Tue: Meeting with Sun at which we discussed sovereign rollup development ways. Discussed the difficulties of using sovereign-sdk and cosoms-sdk. Made payments for the remaining 1BTC redeems requests (BTC bridge redeems). Prepared the BTC website (redeems program) for closure.
