@@ -8,7 +8,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-03-15 Fri:
 
-2024-03-14 Thu:
+2024-03-14 Thu: ONE Voice Map [handoff notes](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b). Researched Metamask portfolio, created [Figma files](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=kalJAlKH35fcHQNB-1) starting initial mocks with Harmony branding.
 
 2024-03-13 Wed: [ETH Denver video upload](https://www.youtube.com/watch?v=ZjAMifZFUF0&t=2s
 ) + [HIP 32 Twitter announcement](https://twitter.com/harmonyprotocol/status/1768032021681766672). Setting up the merch store with coinmonster. ONE Voice Map [handoff notes](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b).
