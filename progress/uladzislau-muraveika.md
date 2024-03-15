@@ -1,3 +1,16 @@
+2024-03-15 Friday: The main focuses on this week:
+* one more blacklisted address removed
+* working external leader validator hardfork HIP32 on the testnet:
+  * shard 0 validators weren't able to sync from the genesis => created a workaround with webdav snaphot solution
+  * testing on 2 previous and current version validators to find the root cause
+  * all other shard 0 validators are synced
+  * shard 1 validators are syncing without problems
+  * [one validator was created manually as example what to automate](https://staking.harmony.one/validators/testnet/one1neul965gzqs8pksm2nq5e9ejurscxqm2jdgh2q)
+  * main effort automation of external validator creation
+* doing my on-call this week
+
+---
+
 2024-03-08 Friday: The main focuses on this week:
 * two more blacklisted address removed
 * Layer zero alert fixed to be less noisy
