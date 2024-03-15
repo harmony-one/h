@@ -1,3 +1,11 @@
+**2024-03-15 Friday:** Last week, we encountered a simple configuration issue. All devnet nodes were upgraded to the latest release, and snapshot generation was inadvertently enabled by default, causing several nodes to go down. To address this, I created a pull request and set the Snapshots Limit to zero by default for all networks. This effectively disabled snapshots permanently and resolved the issue.
+
+Subsequently, we encountered another issue where two nodes became stuck due to an increasing view ID, resulting in different block hashes. We investigated this issue and considered two theories: one related to the snapshot root hash and the other to potential root causes within stream sync. Upon investigation, I confirmed that stream sync could not be the issue, as it does not manipulate or increase view IDs. However, there remained a possibility of indirect conflicts with consensus. Our investigation revealed that one node had somehow received the wrong view ID from another node. We temporarily resolved this issue by disabling snapshots and resyncing the affected node using the snapshot database.
+
+Additionally, upgrading ETHdb is another ongoing task, which is nearly complete. This involves adding a few thousand new lines of code, necessitating thorough and precise testing.
+
+---
+
 **2024-03-09 Sat:** Last week, I continued working on upgrading the database layer. It will involve significant changes and will require extensive testing. I have already resolved 90% of the upgrade issues and am aiming to finalize the code by the end of next week
 
 ---
