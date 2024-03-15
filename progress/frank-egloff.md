@@ -1,5 +1,5 @@
 **2-week deliverables**
-Will work on integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Will also check if it's possible to migrate our current bard implementation to Gemeni and study video generation on OpenAI. 
+Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
 ---
 
