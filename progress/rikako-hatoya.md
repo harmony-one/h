@@ -3,7 +3,7 @@
 Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 
 ---
-2024-03-14 Thu: Followed through this [tutorial](https://docs.storyprotocol.xyz/docs/get-started-with-the-smart-contracts) on setting up smart contracts. With the massive help of Julia, learned how to deploy smart contracts on Harmony's blockchain, and test deployed contracts.
+2024-03-14 Thu: Followed through this [tutorial](https://docs.storyprotocol.xyz/docs/get-started-with-the-smart-contracts) on setting up smart contracts with Story protocol. With the massive help of Julia, learned how to deploy smart contracts on Harmony's blockchain, and test deployed contracts.
 
 2024-03-13 Wed: Researched and found deployed smart contract address for [Royalty Policies](https://docs.storyprotocol.xyz/docs/deployed-smart-contracts-1). Looked into how to put this on shard 1.
 
