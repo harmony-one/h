@@ -1,3 +1,10 @@
+2024-03-08 Friday: The main focuses on this week:
+* two more blacklisted address removed
+* Layer zero alert fixed to be less noisy
+* working external leader validator hardfork HIP32 - preparing new setup with 9 external validators per each shard
+
+---
+
 2024-03-01 Friday: The main focuses on this week:
 * RPC ansible automation - mainnet shard 0 fulldb and archival RPCs covered and now having latest nginx and security features
 * [backup node identification](https://github.com/harmony-one/harmony-ops-priv/issues/171) - number of backup nodes is decreased from 30 to 20
