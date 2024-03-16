@@ -1,3 +1,11 @@
+2024-03-15 Fri: This week, I concentrated on integrating Groth16 into Solidity. I've been working on the decoding and encoding aspects of Solidity contracts to enable calling precompiled functions. Additionally, I've implemented several fixes for the backup functionality.
+
+---
+
+2024-03-08 Fri: This week, i was working on internal functionality for Groth16. I've implemented integration between evm and groth16 library through precompiled contract. 
+
+---
+
 2024-03-01 Fri: This week, I addressed the problem with the backup feature and incorporated new Prometheus logs to monitor the count of signatures.
 
 ---
