@@ -2,6 +2,7 @@
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
 ---
+2024-03-15 Fri: Fixed conversation history, added Hariku model (/haiku, /h), update Anthropic models pricing, and added [stream completion](https://github.com/harmony-one/HarmonyOneBot/pull/358) for Opus and Sonnet models. However, due to wording truncation, kept the Hariku model as rest completion.
 
 2024-03-14 Thu: Added [stream completion](https://github.com/harmony-one/harmony-llm-api/pull/13) support for harmony-llms-api, and fixed the missing Anthropic module error after deploying. Also, updated Opus and Sonnet prices on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/357) and started working on stream completion logic. 
 
