@@ -1,3 +1,9 @@
+2024-03-17 Sun: Market research on [AiMM](harmony.one/aimm). Looking into Ploymarket, specifically prediction market for salary and candidates. Insights: polymarket is banned in the US, decentralized matchmaking for the job industry may be a better solution than prediction markets. [5hr]
+
+2024-03-16 Sat: Continued search for voice first AI products or models. Insight: reinforcement learning is limited to the foundational knowledge base, AGI will need an [abstract layer](https://medium.com/autonomous-agents/enhancing-llms-reasoning-through-jepa-a-comprehensive-mathematical-deep-dive-301ec9c4d6f2). [3hr]
+
+2024-03-15 Fri: Meeting with Li. Formatting for deliverables, Nagesh and Ivan adding shortly. Testing Claude 3 1bot release. Insights: missing web search and subagents that gets the most out of Claude 3 Opus.
+
 2024-03-14 Thu: Concluded 2-week deliverables for team. Helped Rika with smart contracts for story protocol using Julia’s notion.
 
 2024-03-13 Wed: Call with Artem and Frank for 2-week deliverables. Sync with Stephen and Julia for potential voice foundational direction. Contacted Stanford open source AI summit and community members for decks and additional information on crypto AI data companies.
