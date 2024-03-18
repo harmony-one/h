@@ -4,6 +4,12 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-18 Mon: Harmony portfolio client: added connect / disconnect Metamask wallet, display user wallet address in the menu. Started working on fetching total balance in USD. [Pushed](https://github.com/harmony-one/harmony-portfolio) all changes to harmony-portfolio repo.
+
+---
+
+2024-03-15 Fri: continue working on portfolio client (Metamask portfolio copy): added menu, updated common layout, added dark-light theme switch.
+
 2024-03-14 Thu:  started working on [Metamask portfolio](https://portfolio.metamask.io/): source code for existed metamask portfolio is not available, will work on out own app. Initialized basic React app, added routing, removed boilerplate code.
 
 2024-03-13 Wed: synced with Theo P on a new 2-week deliverables. [Added](https://github.com/harmony-one/explorer-v2-backend/commit/d648c9df84b11d8c065d653f40a83ff9cc8060c1) decimals data to ERC20 transfer info. Started telegram client on web, preparing basic app prototype.
