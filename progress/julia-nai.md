@@ -3,6 +3,12 @@ Decide on dataset and product plan for AI data gathering.
 
 ---
 
+2024-03-17 Sun: [2 hours] Finalized thoughts on voice to voice path for next 3 months as well as feasibility. 
+
+2024-03-16 Sat: [3 hours] Looked into Linkedin popularity amongst younger generations as social media. Continued research on audio tokenization models. 
+
+2024-03-15 Fri: Worked through contract deploy methods and solidity overviews with Rikako. Researched potential voice to voice implementations that completely skip text translation. Looked into potential voice tokenization methods. 
+
 2024-03-14 Thu: Discussed platform to intelligently collect product information and present information/reviews that are up-to-date. Explored rewarding users for leaving reviews with low barrier (through voice). 
 
 2024-03-13 Wed: Looked into feasibility of training LLM on purely voice input avoiding the text translation layer. Compared training hours and token quantities of existing models. 
