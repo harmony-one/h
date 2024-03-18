@@ -4,9 +4,11 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 -----
 
-2024-03-20 Sat:
+2024-03-20 Sun: Twitter [engagement](https://x.com/harmonyprotocol/status/1769536008339460574?s=20) + Artem sync (1 hr)
 
-2024-03-15 Fri:
+2024-03-20 Sat: Harmony portfolio [user flows](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) (1 hr)
+
+2024-03-15 Fri: Harmony community section update. Harmony portfolio [user flows](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) and [product requirement document](https://www.notion.so/harmonyone/Product-Requirement-Document-Harmony-Integrated-Metamask-Portfolio-c20cdd55dfc440e98624218f9c250dfa). Office logistics.
 
 2024-03-14 Thu: ONE Voice Map [handoff notes](https://www.notion.so/harmonyone/m-country-feature-pushes-a4b86e96275c4dbc8ef1c308e6186b4b?pvs=4#4dd7fcaca17b4898ba7a691ec73b922b). Researched Metamask portfolio, created [Figma files](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=kalJAlKH35fcHQNB-1) starting initial mocks with Harmony branding.
 
