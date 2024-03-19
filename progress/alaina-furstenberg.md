@@ -2,11 +2,15 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
 
+2024-03-19 Tue: [HIP32 Pass Announcement](https://x.com/harmonyprotocol/status/1770140972741009548?s=20). Joskins co-marketing campaign + further Twitter engagement. Further [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on the 'Buy' one page on Metamask portfolio. Opted for toggle slider to allow users to choose between a CEX and a DEX for purchasing ONE. 
+
+2024-03-18 Mon: Itereated on [Harmony Portfolio navigation](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) + designed the 'Swap' user flow and began iterating 'Buy'. Researching the simplest user flow to allow users to either buy from a CEX or from a DEX. Synced with Galaxii team on co-marketing opportunities.
+
 -----
 
-2024-03-20 Sun: Twitter [engagement](https://x.com/harmonyprotocol/status/1769536008339460574?s=20) + Artem sync (1 hr)
+2024-03-17 Sun: Twitter [engagement](https://x.com/harmonyprotocol/status/1769536008339460574?s=20) + Artem sync (1 hr)
 
-2024-03-20 Sat: Harmony portfolio [user flows](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) (1 hr)
+2024-03-16 Sat: Harmony portfolio [user flows](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) (1 hr)
 
 2024-03-15 Fri: Harmony community section update. Harmony portfolio [user flows](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) and [product requirement document](https://www.notion.so/harmonyone/Product-Requirement-Document-Harmony-Integrated-Metamask-Portfolio-c20cdd55dfc440e98624218f9c250dfa). Office logistics.
 
