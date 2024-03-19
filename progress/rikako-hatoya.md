@@ -21,6 +21,8 @@ Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a
 
 2024-03-11 Mon: Watched and read documentation on Story protocol, tested their existing products (Hey, Magma, artcast, etc) and researched how we can implement this for /data.
 
+---
+
 2024-03-10 Sun: Further continued, looked into on-chai royalty policy and did some research on different AI models and their specs (MMLU, etc).
 
 2024-03-09 Sat: Further continued market research (eg. modulus, eternis) lisetd on the edgeai notion site and looked around Twitter.
