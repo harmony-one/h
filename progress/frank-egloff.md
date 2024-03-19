@@ -1,6 +1,8 @@
 **2-week deliverables**
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
+2024-03-18 Mon: Improved [error handling](https://github.com/harmony-one/harmony-llm-api/pull/13) on the harmony-llm-API backend; still need to make some changes on Harmony1Bot to display the proper error message (for instance, Claude's Sonnet model usually returns an overloaded_error but the bot shows "Error handling your request"). [Deployed to Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/358) Opus (/c, /claude, c.), Sonnet (/sonnet, /s) and Hariku (/hariku, /h) commands, and removed emoji on voice command error message. Added the Gemini model to [harmony-llm-api](https://github.com/harmony-one/harmony-llm-api/pull/14) and [Harmony0Bot](https://github.com/harmony-one/HarmonyOneBot/pull/359); still need to add pricing on HarmonyBot to deploy to production. Started reviewing [Stable video 3D](https://stability.ai/news/introducing-stable-video-3d).
+
 ---
 2024-03-15 Fri: Fixed conversation history, added Hariku model (/haiku, /h), update Anthropic models pricing, and added [stream completion](https://github.com/harmony-one/HarmonyOneBot/pull/358) for Opus and Sonnet models. However, due to wording truncation, kept the Hariku model as rest completion.
 
