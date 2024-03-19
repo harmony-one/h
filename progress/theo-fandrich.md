@@ -2,6 +2,8 @@
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
 
+2024-03-18 Mon: Tested galxe and began set up for Harmony Quest. Worked on various figma designs for Portfolio. Began discussions with CoVault, bitlayer, and Partie.
+
 ---
 
 2024-03-15 Fri: Began harmony portfolio design and set up for webapp. Coordinating Band integration with qidao for Mai. Tested hyperliquid.
