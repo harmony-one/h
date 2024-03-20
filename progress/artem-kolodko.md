@@ -4,6 +4,8 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-19 Tue: added total user balance and tokens list in Harmony Portfolio dashboard (currently only native token supported), deployed the updates to [https://harmony-portfolio.netlify.app](https://harmony-portfolio.netlify.app).
+
 2024-03-18 Mon: Harmony portfolio client: added connect / disconnect Metamask wallet, display user wallet address in the menu. Started working on fetching total balance in USD. [Pushed](https://github.com/harmony-one/harmony-portfolio) all changes to harmony-portfolio repo.
 
 ---
