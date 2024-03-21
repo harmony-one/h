@@ -1,3 +1,11 @@
+2024-03-21 Thu: Attended TGI AI. Claude 3 resume testing and Harmony Portfolio iterations. Insights: base model is strong but tends to be verbose, small prompting creates structure consistency, but api structure would be best to deliver consistent match results.
+
+2024-03-20 Wed: Watched NVIDIA panel with “Attention is all you need” authors”. Iterated Harmony Portfolio with Alaina. Tested Claude 3 resume ranking.
+
+2024-03-19 Tue: Attended NVIDIA GTC. Continued monitoring HIP-32, unanimous YES! Research into [Keep3r and KeeperDAO](https://docs.keep3r.network/) project and tokenomics to apply to job recruiters.  
+
+2024-03-18 Mon: Continued research on AiMM, helped Alaina with Harmony Portfolio mocks.
+
 2024-03-17 Sun: Market research on [AiMM](harmony.one/aimm). Looking into Ploymarket, specifically prediction market for salary and candidates. Insights: polymarket is banned in the US, decentralized matchmaking for the job industry may be a better solution than prediction markets. [5hr]
 
 2024-03-16 Sat: Continued search for voice first AI products or models. Insight: reinforcement learning is limited to the foundational knowledge base, AGI will need an [abstract layer](https://medium.com/autonomous-agents/enhancing-llms-reasoning-through-jepa-a-comprehensive-mathematical-deep-dive-301ec9c4d6f2). [3hr]
