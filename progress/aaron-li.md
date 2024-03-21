@@ -1,3 +1,34 @@
+2024-3-17 Sun (4h): In-depth review on models and state-of-the-art research most relevant to conversation AI focusing on voice with limited, unlabelled new training data. Review on V-JEPA, quick review on self-supervised learning with contextual target representation, VATT, PromptTTS 2, NaturalSpeech 2, T5. Discussion and analysis on NaturalSpeech3, Mega-TTS 2, voice conversion models such as SEF-VC, and others. Discuss, review, and experiment with VALL-E-X for cross-language audio generation. Experiment with Grok-1
+
+2024-3-16 Sat (7.5h): Detailed review of analysis of data collection apps and platforms. Review Claude Opus and exceptional results on low resource language. Review data iimpact research, job and dating matching system outlines. Review speech models (Deep Speech, Google USM, Chirp, and others). Review analysis and unsolved problems on recruiting, job searching, job matching. Review relevant products, platforms, new language models for jobs and matching, adoption of AI in existing products. Review wallet infrastructure analysis, existing solutions. Review hackernews dataset and LinkedIn skill recognition model
+
+2024-3-15 Fri (5h): Review techniques and results of training and fine-tuning Whisper. Review zkBridge, product details, integration requirements. Review Inference Labs litepaper and documentation. Review Zero1 Labs and Axiom. Review local inference tools and machines. Detailed review of mytiki datasets, integrations, team, documentation, architecutre, SDK, and mechanisms. Review Caden datasets, background, B2B products and solutions
+
+2024-3-14 Thu (1.5h): Discussion on AI data intelligence demo proposals, and specific possibilities and plans. Review speech and lanauge model benchmarks, and adversarial approaches (SuperGLUE, HellaSwag, TruthfulQA)
+
+2024-3-13 Wed (2h): Review phishing email and potential malicious domain traces. Review Story Protocol and IP discussions. Review and discuss BTC swap Farcaster frame demo and its implementation.
+
+2024-3-11 Mon (0.5h): Batch legacy domain renewal and checkup operations. Certificate maintenance and automation
+
+2024-3-10 Sun (2.5h): Discuss and help debug BTC swap Farcaster frame implementation and use of ngrok tunnel, debugging and validation methods. Configure development website (hiddenstate-0306). In-depth review and discuss B-squared protocol. Burner rate issue investigation. Research on voice models and benchmark. Quick review of VideoPoet
+
+2024-3-9 Sat (7h): Research on BitTensor incentive mechanisms and technical components. Research and discussion on BitTensor data universe code and data sources. Conceptualizing voice and map data products. In-depth review of BitTensor consensus protocol, staking, delegation, mining, validation, CLI and SDKs. (Continued) in-depth review of BitTensor subnets, design details, and OCR subnet example. Discussion on flaws, feasibility, and common issues of existing AI / data blockchain projects
+
+2024-3-8 Fri (3h): Review on car voice data collection and related technical work on language models. Research on BitTensor initial whitepaper, data gathering mechanisms, and underlying protocol, and relation to Polkadot parachain . Research on voice data gathering sources, analogue-VoIP devices, potential hardware on the market and plugins
+
+
+2024-3-7 Thu (3.5h): Discussion and analysis on data categories, gathering methods, use cases and future potential
+
+2024-3-6 Wed (6h): Research and overview on 0G protocol design, use cases, code, contributors. Review Grass, its Chrome extension, and its growth metrics. Review 0G architecture, documentation, incentive and transaction mechanisms, API design, data aggregation, security models, and proof techniques. Review Farcaster account sharing methods and potential security issues. Review Farcaster account and security models. Setup and management of sharable Farcaster accounts (hiddenstate-0306)
+
+2024-3-5 Tue (1.5h): Review Sentry reported errors for Voice AI app, help debug and discuss solutions (local attestion timeout / rate limited, missing HTTP error message, fallbacks, persistency of error)
+
+2024-3-4 Mon (3.5h): (Continued) In-depth review on Lorenzo, Babylon, BOB, Celestia components 
+
+2024-3-3 Sun (4.5h): Review and research on AI Data tokens, Bitcoin interoperability SDK, Bitcoin Layer 2 systems, and Bitcoin inscription frameworks and projects
+
+2024-3-2 Sat (1h): Add option to render SVG to PNG for iOS Warpcast compatibility. Debug sharp compatibility issues with cloud Debian and arm64 architecture. Deploy and test in production. Burner rate update
+
 2024-3-1 Fri (10h): Implement new map based frames with review and check-in. Implement counters for mint and 24-hour mint. Add mock-mint mode. Deploy and demo in production. Implement styled dynamic text at line-level for SVG. Improve location parsing and display. Allow optional location suffix, and natural syntax for users to override on location suffix. Debug and submit single-letter domain issues on Warpcast. Test redirect, proxy, CNAME, URL transform and various ways to circumvent the single-letter naked domain bug. Improve text and button display for map extension. Separate basic-map and map extensions. Implement permanent key-value storage for review and check-in. Deploy, configure and test redis for embedded web service. Implement safe mint, count, and balance query, and dynamic image for with cache control. Implement static statistical image API. Inscribe review and check-in location on-chain during mint. Deploy to production and test end-to-end
 
 2024-2-29 Thu (8h): (Continued) Breakdown and refactor Farcast implementations by extensions. Fix multiple implementations bugs and structural issues. Discussions, technical Q&A, and task planning on Farcaster frame implementations. Research on WARP tokens. Cloud configuration and deployment. Implement Redis client. Research on Redis data structures to use for temporal count and aggregation. Deploy, configure and test redis for embedded web service.  Debug dot-country purchase issues. Reconfiguration of lend.country documentation sites and discussion on SSL wildcard certificate renewal and auto-deployment issues
