@@ -4,6 +4,8 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-21 Thu: start working on swap page: implemented basic swap page components, [deployed](https://harmony-portfolio.netlify.app/swap) the update. Started researching current [https://swap.harmony.one](https://swap.harmony.one/) sources.
+
 2024-03-20 Wed: [updated](https://github.com/harmony-one/harmony-portfolio/commit/db873d52231c145b5c0d0e566334d332d7be3c4b) harmony portfolio client layout, menu and app styles according new figma prototypes from Alaina, [published](https://harmony-portfolio.netlify.app/dashboard) update to netlify.
 
 2024-03-19 Tue: added total user balance and tokens list in Harmony Portfolio dashboard (currently only native token supported), deployed the updates to [https://harmony-portfolio.netlify.app](https://harmony-portfolio.netlify.app).
