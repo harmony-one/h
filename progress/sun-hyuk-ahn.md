@@ -3,7 +3,27 @@
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
-2023-03-13 Wed: Started exploring Celestia and the Cosmos SDK. Since Rollkit is based on the Cosmos SDK, they offer the required resources for understanding the SDK. Successfully launched a Celestia light client on a local network. Will continue tomorrow on learning the Cosmos SDK. Discussed with Ivan and Yuriy in terms of the LayerZero bridge audit.
+2023-03-22 Fri:
+
+2023-03-21 Thu: Continued implementation for the wrapper. Discussed with Diego regarding the metrics. We realized that throughput for Shard 1 is near 0 currently. In order to get the precise metrics, we need to create a tool to traverse throughout all the nodes. Attended Nvidia GTC after meetup. Diego would be working on the costs.
+
+2023-03-20 Wed: Began implementing wrapper for Harmony nodes to be used for Rollkit. Divided the task with Yuriy so that Yuriy would be working on the intial approach of deploying a rollup on Celestia as the data availability layer with Shard 1 as the proof storage and I would work on a rollup with Shard 1 as both data availability layer and proof storage. Attended Nvidia GTC.
+
+2023-03-19 Tue: Discussed with Stephen that we want a sovereign one instead. Began looking at Polaris implementation for Rollkit, which allows for EVM execution environment with Cosmos based chains and rollups. Realized that we would need a wrapper around our Harmony nodes, in order for it to work as a data availability layer.
+
+2023-03-18 Mon: Began deployment for Op Stack rollup. Deployed smart contracts as well as op-geth, the execution engine for the rollup.
+
+---
+
+2023-03-17 Sun: Discussed with Yuriy on possible progression with Op Stack. Began looking at the documents as well as the smart contracts required for deployment.
+
+2023-03-16 Sat: Began looking at smart contract rollups via Op Stack as an alternative. One problem with Rollkit (Cosmos SDK) is that they do not yet have a connection with EVM chains, thus unable to utilize EVMs as data availability layer. 
+
+2023-03-15 Fri: Continued studying Rollkit and Cosmos SDK. Launched rollups on Celestia, without shard 1 interaction. One concern is that there is no EVM chain used as the data availability layer. Also, it seem that Polaris is the only option for enabling EVM execution environment in Cosmos based chains / rollups. Looking into alternatives, possibly Op Stack.
+
+2023-03-14 Thu: Deployed Celestia node on a local network. Will continue tomorrow on learning the Cosmos SDK. Discussed with Ivan and Yuriy in terms of the LayerZero bridge audit.
+
+2023-03-13 Wed: Started exploring Celestia and the Cosmos SDK. Since Rollkit is based on the Cosmos SDK, they offer the required resources for understanding the SDK. 
 
 2024-03-12 Tue: Yuriy and I decided to look into 2 different SDks with Yuriy diving into Sovereign SDK and me into [Rollkit](https://rollkit.dev/). Both support modular, sovereign rollups but they are in different languages, Rust and Golang, respectively. The current solution is for us to fork the SDKs and change the settlement logic so that it occurs through Harmony rather than Celestia. Smart contract on the Harmony level in order to accept the proofs provided from the rollup (and possibly Celestia) will be required. This part will be handled by Yuriy.
 
