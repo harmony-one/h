@@ -1,3 +1,15 @@
+2024-03-22 Friday: The main focuses on this week:
+* one more blacklisted address removed
+* working external leader validator hardfork HIP32 on the testnet:
+  * created an issue for the testnet shard 0 [invalid merkle root](https://github.com/harmony-one/harmony/issues/4650)
+  * synced 8 Shard 0 validator via webdav to avoid syncing issue
+  * created 16 total external Validators in total - https://staking.harmony.one/validators/testnet/
+  * discussed with Diego the date of HIP32 for the testnet - 11:40 PM UTC 25 March 2024
+* finished my on-call this week:
+  * added more CPU and RAM for Frankfurt bootnode
+
+---
+
 2024-03-15 Friday: The main focuses on this week:
 * one more blacklisted address removed
 * working external leader validator hardfork HIP32 on the testnet:
