@@ -1,6 +1,8 @@
 **2-week deliverables**
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
+2024-03-21 Thu: Added the generative-models.demo repo to Google Colab to have access to the GPU processor. Also, working on configuring the new environment and adding the a flask endpoint.
+
 2024-03-20 Wed: Keep working on Stable video 3D integration. Have issues installing the model on my Mac M1 (Nvidia-related error). Finished the token counter [on harmony-llm-api](https://github.com/harmony-one/harmony-llm-api/pull/14) and added logic on Harmony1Bot (changes have yet to be pushed to Harmony0bot).
 
 2024-03-19 Tue: Worked on Stable Video 3D, [forked the repo](https://github.com/fegloff/generative-models.demo), set up the dev environment, and installed the model. Also worked on adding a token counter for Gemini requests.
