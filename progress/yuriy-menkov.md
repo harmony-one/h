@@ -4,11 +4,19 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-03-22 Fri:
+
+2024-03-21 Thu: Had a meeting with Sun. Started working on the intial approach of deploying a rollup on Celestia as the data availability layer with Shard 1 as the proof storage. Worked on running the Polaris EVM using Rollkit by [instructions](https://rollkit.dev/tutorials/polaris-evm).
+
+2024-03-20 Wed: Based on the latest update from Stephen started looking at Polaris implementation for Rollkit. Looked at the following architecture Celestia as Data Availability - Shard 1 as just storing proof. Realized that we would need a wrapper around our Harmony nodes, in order for it to work as a data availability layer.
+
 2024-03-19 Tue: Started Celestia Optimism Stack [integration](https://docs.celestia.org/developers/intro-to-op-stack). Researched [optimism](https://github.com/celestiaorg/optimism/) services structure. Tried deploy a smart contract to the celestia testnet. Also tried deploy an OP Stack devnet on Celestia by [instruction](https://docs.celestia.org/developers/optimism).
 
-2024-03-18 Mon: Had a meeting with Sun. Explored our options and concluded that non-sovereign rollups might be a better fit for our project (using Celestia as the data availability layer and Shard 1 as the settlement layer). We think that the simplest and most convenient solution would be Сelestia [Optimism](https://github.com/celestiaorg/optimism/). Started research and deployment of Сelestia Optimistic rollup on Shard 1.
+2024-03-18 Mon: Had a meeting with Sun. Explored our options and concluded that non-sovereign rollups might be a better fit for our project (using Celestia as the data availability layer and Shard 1 as the settlement layer). We think that the simplest and most convenient solution would be Сelestia [Optimism](https://github.com/celestiaorg/optimism/). Started research an deployment of Сelestia Optimistic rollup on Shard 1.
 
 ---
+
+2024-03-15 Fri: Build sovereign Celestia rollup on Harmony Shard 1: looked at Op Stack as an alternative: studied Op Stack docs, looked at [optimism](https://github.com/ethereum-optimism/optimism) main services sources: op-program, op-node, op-batcher. 
 
 2024-03-14 Thu: Build sovereign Celestia rollup on Harmony Shard 1: Continue researching rollup contracts for capable of receiving, verifying proofs and transaction summaries. Looking at [Blobstream](https://docs.celestia.org/developers/blobstream) as data availability - this solution contains ready-made solutions and [contracts](https://github.com/celestiaorg/blobstream-contracts) that we can try to fork and use.
 
