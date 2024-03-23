@@ -1,3 +1,7 @@
+2024-03-23 Sat: Changed opus outputs to provide suggestions for resume improvements. Insights: base Claude still needs small adjustments, I.e. “more concise” “single sentences” “follow job description precisely” to yield best results. [3hr]
+
+2024-03-22 Fri: Troubleshooting bridge with Galaxii, sync with protofire for blockscout progress. UI/UX work with Alaina for Buy/Bridge page of Harmony Portfolio.
+
 2024-03-21 Thu: Attended TGI AI. Claude 3 resume testing and Harmony Portfolio iterations. Insights: base model is strong but tends to be verbose, small prompting creates structure consistency, but api structure would be best to deliver consistent match results.
 
 2024-03-20 Wed: Watched NVIDIA panel with “Attention is all you need” authors”. Iterated Harmony Portfolio with Alaina. Tested Claude 3 resume ranking.
