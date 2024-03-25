@@ -1,3 +1,5 @@
+2024-03-24 Sun: Research on predictions market for salary. Insight: Thales has a simple UX but only supports up/down market. Overtime markets supports only sports betting, but their support for games is extensive. Polymarket covers the widest options with popular categories including elections, box office, sports, ETF approvals, etc. no markets for salary on any platform.
+
 2024-03-23 Sat: Changed opus outputs to provide suggestions for resume improvements. Insights: base Claude still needs small adjustments, I.e. “more concise” “single sentences” “follow job description precisely” to yield best results. [3hr]
 
 2024-03-22 Fri: Troubleshooting bridge with Galaxii, sync with protofire for blockscout progress. UI/UX work with Alaina for Buy/Bridge page of Harmony Portfolio.
