@@ -1,6 +1,20 @@
 2-Week Deliverables:
 Decide on dataset and product plan for AI data gathering. 
 
+2024-03-24 Sun: [4 hours] Looked for more sources of resumes. Pulled 350.
+
+2024-03-23 Sat: [2 hours] Researched sources of resumes and manually pulled 100.
+
+2024-03-22 Fri: Worked on automatically pulling pdfs from comments. Reddit resumes are highly annonymized (lots of blackout). Focused on drive and dropbox posts on hackernews (though this only comprised around 16-20 resumes per monthly post). 
+
+2024-03-21 Thu: Attended GTC. Manually pulled 50 resumes to test GPT analysis of resumes.
+
+2024-03-20 Wed: Attended GTC. Spoke with Sapia team on their mass hiring product. 
+
+2024-03-19 Tue: Automated parsing of comments from Who wants to be hired? posts to pull general stats. Attempted to automate pdf resume pulling from comments.
+
+2023-03-18 Mon: Created [aimm](https://github.com/harmony-one/aimm) repo to scrap "Who wants to be hired?" posts on Hacker News.
+
 ---
 
 2024-03-17 Sun: [2 hours] Finalized thoughts on voice to voice path for next 3 months as well as feasibility. 
