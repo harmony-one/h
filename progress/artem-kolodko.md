@@ -4,6 +4,10 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-25 Mon: Harmony Portfolio client: [added](https://github.com/harmony-one/harmony-portfolio/commit/9bd991b845dc8dc89cbe4922d257373ecc3dc41f) support of native token wrap (ONE to WONE); started working on unwrap method (WONE to ONE). Started working on AI Match Maker initiative, checking description on [https://harmony.one/aimm](https://harmony.one/aimm).
+
+---
+
 2024-03-22 Fri: researching [swap.harmony.one](https://github.com/protofire/interface/tree/harmony) client app sources and [Uniswap SDK](https://docs.uniswap.org/sdk/v3/overview): how to create and sign a transaction to include it in Harmony Portfolio [swap](https://harmony-portfolio.netlify.app/swap) page.
 
 2024-03-21 Thu: start working on swap page: implemented basic swap page components, [deployed](https://harmony-portfolio.netlify.app/swap) the update. Started researching current [https://swap.harmony.one](https://swap.harmony.one/) sources.
