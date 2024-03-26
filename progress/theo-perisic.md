@@ -1,4 +1,6 @@
-2024-03-24 Sun: Research on predictions market for salary. Insight: Thales has a simple UX but only supports up/down market. Overtime markets supports only sports betting, but their support for games is extensive. Polymarket covers the widest options with popular categories including elections, box office, sports, ETF approvals, etc. no markets for salary on any platform.
+2024-03-25 Mon: Meeting with Stephen to realign prioritize on Story Protocol and Portfolio. Started reviewing progress for q1 review. Built and tested resume analyzer using claude 3 api against Julia's resume. Conistent in scoring, short paragraph description, and 3 suggestions based on job description.
+
+2024-03-24 Sun: Research on predictions market for salary. Insight: Thales has a simple UX but only supports up/down market. Overtime markets supports only sports betting, but their support for games is extensive. Polymarket covers the widest options with popular categories including elections, box office, sports, ETF approvals, etc. no markets for salary on any platform. [2hr]
 
 2024-03-23 Sat: Changed opus outputs to provide suggestions for resume improvements. Insights: base Claude still needs small adjustments, I.e. “more concise” “single sentences” “follow job description precisely” to yield best results. [3hr]
 
