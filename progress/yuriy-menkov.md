@@ -4,7 +4,11 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
-2024-03-22 Fri:
+2024-03-25 Mon: Launched an AWS instance to deploy a rollup. Started setting up and deploying rollup on a production instance. 
+
+---
+
+2024-03-22 Fri: Launched Polaris EVM locally. Connected to celestia dev node. Looking into how we can submit proofs in to Harmony Shard 1.
 
 2024-03-21 Thu: Had a meeting with Sun. Started working on the intial approach of deploying a rollup on Celestia as the data availability layer with Shard 1 as the proof storage. Worked on running the Polaris EVM using Rollkit by [instructions](https://rollkit.dev/tutorials/polaris-evm).
 
