@@ -1,6 +1,9 @@
 **2-week deliverables**
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
+2024-03-25 Mon: Fixed the [price calculation logic](https://github.com/harmony-one/HarmonyOneBot/pull/359) of the Gemini command on Harmony1Bot (deployed to harmony0bot)  and a [PDF inquiry endpoint](https://github.com/harmony-one/harmony-llm-api/pull/15) to harmony-llm-api to use Claude's models. The endpoint accepts a URL of the PDF file and a PDF object. Anthropic doesn't support embeddings, so all inquiry requests need to include the PDF. In case multiple inquiries are required, we can use the openai embedding endpoint available on harmony-llm-api
+
+---
 2024-03-22 Fri: Continue working on generative-models.demo, keep having issues deploying locally and in Google Colab. Also fixed the Gemini command completion text on Harmony1Bot. 
 
 2024-03-21 Thu: Added the generative-models.demo repo to Google Colab to have access to the GPU processor. Also, working on configuring the new environment and adding the a flask endpoint.
