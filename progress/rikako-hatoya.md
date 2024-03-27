@@ -3,6 +3,17 @@
 Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 
 ---
+
+2024-03-26 Tue: Did some research on tokenized resumes as per /aimm. Working on testing the previously deployed smart contract (fork of RoyaltyPolicyLAP.sol) by looking into implementing IP assets also with Story Protocol to enable test transactions with ipid.
+
+2024-03-25 Mon: Toured 2 new office locations. Resolved RoyaltyPolicy deploy bug by manually uploading all files. Deployed smart contract to [shard 1](https://explorer.harmony.one/address/0x54ef56ee76d696d33b9ba469a3bb5235aff46370?activeTab=6
+).
+
+---
+2024-03-24 Sun: Debugging further continued, reflected upon my goals and milestones for Q1.
+
+2024-03-23 Sat: Followed through a tutorial on hardhat to debug/resolve flattening issues.
+
 2024-03-18 Mon ~ 2024-03-22 Fri: PTO (Always available on Telegram)
 
 ---
