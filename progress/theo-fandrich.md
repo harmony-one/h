@@ -2,7 +2,7 @@
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
 
-2024-03-18 Tue: Looked into Taiko defi, 
+2024-03-18 Tue: Looked into Taiko defi. Most projects are not deployed are in testnet, nothing new. Partie followed up with marketing material, organizing a call with them regarding official partnership soon.
 
 2024-03-18 Mon: Strategized on partnership with partie. They are preparing for a v2 launch within the next two months, so were hoping to include us. Will meet with them again later this week or next.
 
