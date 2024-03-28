@@ -4,6 +4,8 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-27 Wed: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/10ff75b6c46b3c46d3473d5b3dbdd26882925e69) ERC20 token balance fetch in Swap page, fixed issue with SVG icons exported from Figma.
+
 2024-03-26 Tue: worked on web build for ONE resume AI, prepared [PR](https://github.com/harmony-one/ONE-Resume-AI/pull/1). Web build was successfully prepared but document picker doesn't work as expected. Checking different solutions, prepared temp web page with current build to [one-resume-ai.netlify.app](one-resume-ai.netlify.app).
 
 2024-03-25 Mon: Harmony Portfolio client: [added](https://github.com/harmony-one/harmony-portfolio/commit/9bd991b845dc8dc89cbe4922d257373ecc3dc41f) support of native token wrap (ONE to WONE); started working on unwrap method (WONE to ONE). Started working on AI Match Maker initiative, checking description on [https://harmony.one/aimm](https://harmony.one/aimm).
