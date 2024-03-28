@@ -1,6 +1,12 @@
 **2-week deliverables**
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
+2024-03-29 Fri: Day off
+
+2024-03-28 Thu: Day off
+
+2024-03-27 Wed: Added the [CV analysis](https://github.com/harmony-one/harmony-llm-api/pull/16) endpoint to harmony-llm-api. The endpoint returns the score with the reasoning and three recommendations. Fixed word cutting in Anthropic and Gemini completion and cleaned token information on the completion response. Finally, checked the completion agents feature for Anthropic. The feature is brand new, but a [GitHub repo](https://github.com/cxbxmxcx/GPT-Nexus) just added the agent logic for [Anthropic](https://github.com/cxbxmxcx/GPT-Nexus/commit/89694a0bb978e0db1f7e00807bf1bb1d227422b6). We can check that and see how we can include it on harmony1bot. 
+
 2024-03-26 Tue: Fixed [Anthropic namespace](https://github.com/harmony-one/harmony-llm-api/pull/15) key issue on the harmony-llm-api backend and fixed the URL params default values on the PDF inquiry endpoint. It now serves ONEResume app. Created the harmony0bot database on [elephantsql](https://api.elephantsql.com/), a free service, to deploy the Gemini command for testing. Also, the [LLM chat conversation](https://github.com/harmony-one/HarmonyOneBot/pull/359) was normalized to avoid errors when passing from/to Claude's and vertex models. Finally, prepared 1Q self-assessment
 
 2024-03-25 Mon: Fixed the [price calculation logic](https://github.com/harmony-one/HarmonyOneBot/pull/359) of the Gemini command on Harmony1Bot (deployed to harmony0bot)  and a [PDF inquiry endpoint](https://github.com/harmony-one/harmony-llm-api/pull/15) to harmony-llm-api to use Claude's models. The endpoint accepts a URL of the PDF file and a PDF object. Anthropic doesn't support embeddings, so all inquiry requests need to include the PDF. In case multiple inquiries are required, we can use the openai embedding endpoint available on harmony-llm-api
