@@ -1,3 +1,7 @@
+2024-03-22 Fri: This week, i was investigating an issue preventing progress on devnet. I've found that the issue was originally caused by out of space error. We working with Gheis on fix. 
+
+---
+
 2024-03-15 Fri: This week, I concentrated on integrating Groth16 into Solidity. I've been working on the decoding and encoding aspects of Solidity contracts to enable calling precompiled functions. Additionally, I've implemented several fixes for the backup functionality.
 
 ---
