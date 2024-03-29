@@ -30,6 +30,8 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 
 ---
 
+2024-03-17 Sun: Looked more closely into bitlayer and covault in preparation for calls with the CEOs.
+
 2024-03-16 Sat: Spent time on research of Taiko, other stable coin providers, and looked into potential new onramp providers.
 
 2024-03-15 Fri: Began harmony portfolio design and set up for webapp. Coordinating Band integration with qidao for Mai. Tested hyperliquid.
