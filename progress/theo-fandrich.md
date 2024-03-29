@@ -14,6 +14,8 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 
 ---
 
+2024-03-24 Sun: Researched Partie's offering, what they hope to market with a Harmony token, and what smart contracts integration they expect.
+
 2024-03-23 Sat: Paid time off.
 
 2024-03-22 Fri: Paid time off. 
