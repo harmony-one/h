@@ -14,7 +14,7 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 
 ---
 
-2024-03-23 Sat: 
+2024-03-23 Sat: Paid time off.
 
 2024-03-22 Fri: Paid time off. 
 
@@ -28,6 +28,8 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 
 ---
 
+2024-03-16 Sat: Spent time on research of Taiko, other stable coin providers, and looked into potential new onramp providers.
+
 2024-03-15 Fri: Began harmony portfolio design and set up for webapp. Coordinating Band integration with qidao for Mai. Tested hyperliquid.
 
 2024-03-14 Thu: Metamask Portfolio doesn't have a forkable repository so began discussions for our own prototype to combine swap, lend, and safe multisig. Looked into Runes as an angle for Harmony to attract btc retail attention. 
@@ -37,6 +39,8 @@ Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and L
 2024-03-12 Tue: Engaged with Lorenzo in meeting. Course is set to begin partnership, simplest integration would first be with Layer Zero bridge to Lorenzo cosmos app chain. They are launching testnet in one month.
 
 2024-03-11 Mon: Discussed partnerships and ecosystem growth with Tenacious and MetaOne. Submitted build 15 of ONE Map to App store. Going to have call with Matt Ye of Lorenzo tomorrow to discuss potential bitcoin related integrations.
+
+---
 
 2024-03-09 Sat: Reviewed Merlin/Bitmap, B Squared, Bitlayer/Bitvm, BEVM. Lots of liquidity, but much of the same preexisting defi.
 
@@ -72,6 +76,8 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 ---
 
+2024-02-11 Sun: App store submission was [accepted](https://apps.apple.com/dk/app/one-voice-map/id6477570243)! Continue product development of ONE Map Social.
+
 2024-02-10 Sat: Worked on fixing ONE Map app store submission.
 
 2024-02-09 Fri: Debug issues with ONE Map functionality, update frontend.
@@ -85,6 +91,8 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 2024-02-05 Mon: Begin desiging telegram, look into wallet connect sdk for meta mask connectivity for safe clone.
 
 ---
+
+2024-02-04 Sun: Began constructing [mastersheet](https://www.notion.so/harmonyone/Master-Sheet-88c9a7016be04cb4a711cd97a53ec703) for all forkeable projets compatible with evm, as well as existing harmony ecosystem projects.
 
 2024-02-03 Sat: Highlight critical ecosystem initiatives for publicity, and assemble a catalog of projects that can be forked within the Harmony ecosystem.
 
@@ -100,6 +108,10 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 ---
 
+2024-01-28 Sun: Compiled list of Harmony ecosystem projects [here](https://www.notion.so/harmonyone/Harmony-Ecosystem-4d5757085a4c45bfa5656b48666b84b4).
+
+2024-01-27 Sat: Continued to look into Gnosis Safe clone, began creating App store app for ONE Map Social.
+
 2024-01-26 Fri: Helped Alaina organize candidate interviews, continued to research and ramp up on products within evm ecosystem.
 
 2024-01-25 Thu: Continued to test and resarch evm compatible products such as Chainlink's evm interoperability protocol CCIP and a evm compatible wallet called Mask Wallet.
@@ -108,9 +120,13 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 2024-01-23 Tue: Built out master spreadsheet for all ecosystem projects and cloneable evm projects on other chains. 
 
-2024-01-22 Mon: Worked on demoing Gnosis Safe clone, telegram clone, and 1bot. 
+2024-01-22 Mon: Continued to product test Gnosis Safe clone, telegram clone, and 1bot. 
 
 ---
+
+2024-01-20 Sun: Supported on product development for Gnosis Safe clone, telegram clone, and 1bot.
+
+2024-01-20 Sat: Worked on demoing Gnosis Safe clone, telegram clone, and 1bot.
 
 2024-01-19 Fri: Explored ecosystem projects and evm projects to clone. 
 
@@ -124,7 +140,11 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 ---
 
-2024-01-12 Fri:
+2024-01-14 Sun: Researched other other Harmony ecosystem projects such as Galaxii, Coherence, Harmony Punks, Fox Swap, and more.
+
+2024-01-13 Sat: Gnosis Safe remains the only viable evm multisig, began compiling all evm compatible wallet providers.
+
+2024-01-12 Fri: Looked further into keplr wallet and other multisig providers that are evm compatible. 
 
 2024-01-11 Thu: Tested keplr wallet and multisig set up, sent various transactions.
 
@@ -136,7 +156,7 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 ---
 
-2024-01-03 Wed - 2024-01-05 Fri: Paid time off.
+2024-01-03 Wed - 2024-01-07 Sun: Paid time off.
 
 2024-01-02 Tue: Tested whisper integration for Voice AI which should be completed by Wednesday morning. Continued to read reports and test products such as Uniswap X and Chainflip.
 
