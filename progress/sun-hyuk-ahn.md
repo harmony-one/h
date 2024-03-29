@@ -3,7 +3,21 @@
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
-2023-03-22 Fri:
+
+2023-03-28 Thu:
+
+2023-03-27 Wed:
+
+2023-03-26 Tue:
+
+2023-03-25 Mon:
+
+---
+2023-03-24 Sun:
+
+2023-03-23 Sat:
+
+2023-03-22 Fri: Reviewed Polaris implementation on Cosmost SDK. Attended Nvidia GTC meetups.
 
 2023-03-21 Thu: Continued implementation for the wrapper. Discussed with Diego regarding the metrics. We realized that throughput for Shard 1 is near 0 currently. In order to get the precise metrics, we need to create a tool to traverse throughout all the nodes. Attended Nvidia GTC after meetup. Diego would be working on the costs.
 
