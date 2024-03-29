@@ -2,19 +2,27 @@
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
 
-2024-03-18 Tue: Looked into Taiko defi. Most projects are not deployed are in testnet, nothing new. Partie followed up with marketing material, organizing a call with them regarding official partnership soon.
+2024-03-29 Fri: Determining tokenomics and offering to support Partie's app built on Harmony.
 
-2024-03-18 Mon: Strategized on partnership with partie. They are preparing for a v2 launch within the next two months, so were hoping to include us. Will meet with them again later this week or next.
+2024-03-28 Thu: Confirming band protocol integration with QiDao as it differs with original Chainlink. Worked on portfolio metamask and product fixing. Had call with Partie, will circle back next week with them.
+
+2024-03-27 Tue: Looked into Taiko defi. Most projects are not deployed are in testnet, nothing new. Partie followed up with marketing material, organizing a call with them regarding official partnership soon.
+
+2024-03-26 Tue: Looked into Taiko defi. Most projects are not deployed are in testnet, nothing new. Partie followed up with marketing material, organizing a call with them regarding official partnership soon.
+
+2024-03-25 Mon: Strategized on partnership with partie. They are preparing for a v2 launch within the next two months, so were hoping to include us. Will meet with them again later this week or next.
 
 ---
 
-2024-03-20 Fri: Paid time off. 
+2024-03-23 Sat: 
 
-2024-03-19 Thu: Paid time off.
+2024-03-22 Fri: Paid time off. 
 
-2024-03-18 Wed: Met with covault and partie. Partie.com has partnerships with amazon and twitch. Partie.com could be game changing partnership with Harmony, so gspent time researching their product and ideating usecasecase. 
+2024-03-21 Thu: Paid time off.
 
-2024-03-18 Tue: Continue progress on Metamask Portfolio and coordinating with Qidao for stable coin. 
+2024-03-20 Wed: Met with covault and partie. Partie.com has partnerships with amazon and twitch. Partie.com could be game changing partnership with Harmony, so gspent time researching their product and ideating usecasecase. 
+
+2024-03-19 Tue: Continue progress on Metamask Portfolio and coordinating with Qidao for stable coin. 
 
 2024-03-18 Mon: Tested galxe and began set up for Harmony Quest. Worked on various figma designs for Portfolio. Began discussions with CoVault, bitlayer, and Partie.
 
