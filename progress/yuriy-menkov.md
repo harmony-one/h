@@ -4,6 +4,14 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-03-29 Fri:
+
+2024-03-28 Thu: There were compatibility problems when synchronizing op-node (optimism L2) and Harmony Shard 1. I am studying the source code and the rpc request format used to localize the problem.
+
+2024-03-27 Wed: Synchronized with Diego about creating an aws instance for an op stack node containing op-geth and modules op-node. Deployed a op simple node in a docker container on aws, configured a grafana dashboard to display synchronization.
+
+2024-03-26 Tue: Synchronized with Sun. Based on his meeting with Stephen, we decided to continue deploying Op Stack rollup without Celestia and Celestia with Rollkit in parallel. Because it is not yet clear what final architecture we will choose - we continue to work on several options.
+
 2024-03-25 Mon: Launched an AWS instance to deploy a rollup. Started setting up and deploying rollup on a production instance. 
 
 ---
