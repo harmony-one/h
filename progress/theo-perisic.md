@@ -88,9 +88,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-02-26 Mon: Extended morning conversations with community members in Denver, covering 2023 products, governance, and ecosystem updates. Participated in conversations with ex-harmony team, side event hackathon for devrel, and evening event at Imperial City.
 
-2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. 
+2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. [10hr]
 
-2024-02-24 Sat: First full day in Denver. Onboarding 10+ users to h.country, shared insights with team.
+2024-02-24 Sat: First full day in Denver. Onboarding 10+ users to h.country, shared insights with team. [10hr]
 
 2024-02-23 Fri: Travel Day to EthDenver. Mixup with booking, solved with Alaina. Met up with Casey at the buidlathon event.
 
@@ -120,9 +120,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-02-11 Sun: Added elements UI, and [pop-up implementation](https://github.com/harmony-one/human-protocol/pull/8). 
+2024-02-11 Sun: Added elements UI, and [pop-up implementation](https://github.com/harmony-one/human-protocol/pull/8). [3hr]
 
-2024-02-10 Sat: Updated Artem on new direction for human-protocol. Green for user self update, Blue for external user update. $ for links, # for interests. OAuth user interface same as interests page.
+2024-02-10 Sat: Updated Artem on new direction for human-protocol. Green for user self update, Blue for external user update. $ for links, # for interests. OAuth user interface same as interests page. [1hr]
 
 2024-02-09 Fri: Coordinating launch of Lend, meeting with Protofire. Started implementing periodic elements UI for human-protocol.
 
@@ -136,9 +136,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-02-04 Sun: Preparation for HER 16 
+2024-02-04 Sun: Preparation for HER 16 [1hr]
 
-2024-02-03 Sat: Research on in-person event products, Cove, Whoa, Bizzabo, BizConnect, HiHello, Blinq. Insight: all revolve around current methods of connecting, I.e. business cards and profiles, burden of building the connection still on user.
+2024-02-03 Sat: Research on in-person event products, Cove, Whoa, Bizzabo, BizConnect, HiHello, Blinq. Insight: all revolve around current methods of connecting, I.e. business cards and profiles, burden of building the connection still on user. [2hr]
 
 2024-02-02 Fri: Lottery conclusion and hand-off. Product finalization shift to human-protocol for ethdenver. 
 
@@ -152,9 +152,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 --- 
 
-2024-01-28 Sun: Continued review of TheArena and [tippin.me](https://tippin.me/) a platform that allows anyone to tip and receive tips in Bitcoin on twitter posts for potential sofi on Harmony. Coordination for Tuesday and Thursday lotteries with ONES and Knights&Peasants.
+2024-01-28 Sun: Continued review of TheArena and [tippin.me](https://tippin.me/) a platform that allows anyone to tip and receive tips in Bitcoin on twitter posts for potential sofi on Harmony. Coordination for Tuesday and Thursday lotteries with ONES and Knights&Peasants. [2hr]
 
-2024-01-27 Sat: Added documentation for Flip group.
+2024-01-27 Sat: Added documentation for Flip group. [1hr]
 
 2024-01-26 Fri: Completed product requirement document for lottery inscriptions via telegram with 1bot interactions. Reviewed Social Finance applications: TheArena, Tomo, Alpha, and DeSoc.
 
@@ -168,9 +168,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-01-21 Sun: Initial product requirements document for Minimal Quest Lottery for Yuriy and Artem.
+2024-01-21 Sun: Initial product requirements document for Minimal Quest Lottery for Yuriy and Artem. [2hr]
 
-2024-01-20 Sat: Research and testing for solana inscriptions. Insights: strong nft community from solana is what is carrying inscriptions, some token generations as well but nothing yet in terms of strong utility. Main tool, [LiberPlex](https://www.libreplex.io/) lacking in quality, UI/UX. Main volume from Tensor and MagicEden. 
+2024-01-20 Sat: Research and testing for solana inscriptions. Insights: strong nft community from solana is what is carrying inscriptions, some token generations as well but nothing yet in terms of strong utility. Main tool, [LiberPlex](https://www.libreplex.io/) lacking in quality, UI/UX. Main volume from Tensor and MagicEden.  [3hr]
 
 2024-01-19 Fri: Early morning on-call assisting with mint. SQL analytics for onescription mint. Ecosystem lottery implementation discussions. Further inscription plans and personnel allocation for 2024 roadmap tasks.
 
@@ -184,9 +184,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-01-14 Sun: EthDenver content for applications.
+2024-01-14 Sun: EthDenver content for applications. [1hr]
 
-2024-01-13 Sat: Flip custodians allocation and discussions.
+2024-01-13 Sat: Flip custodians allocation and discussions. [2hr]
 
 2024-01-12 Fri: Released 2024 roadmap and twitter threads.
 
@@ -198,9 +198,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-01-08 Mon: Roadmapping and interview session with Stephen. Participated in HER space #13.
 
-2024-01-07 Sun: Added metablox to Dapp Overview. Deep dive for Thorchain and Chainflip. Insight: Still early for chainflip, but JIT AMM (Just-in-time automated market maker) currently has the edge on the technical side for capital efficiency. Thorchain currently has millions more in liquidity and volume, chainflip is only just starting having released [pre-release swaps](https://x.com/Chainflip/status/1736796878807683141?s=20) 2 weeks ago ($1k USD single swap limit). Heavy fee hit on BTC, best for larger swaps.
+2024-01-07 Sun: Added metablox to Dapp Overview. Deep dive for Thorchain and Chainflip. Insight: Still early for chainflip, but JIT AMM (Just-in-time automated market maker) currently has the edge on the technical side for capital efficiency. Thorchain currently has millions more in liquidity and volume, chainflip is only just starting having released [pre-release swaps](https://x.com/Chainflip/status/1736796878807683141?s=20) 2 weeks ago ($1k USD single swap limit). Heavy fee hit on BTC, best for larger swaps. [4hr]
 
-2024-01-06 Sat: Updated dapp overview, curated list of active validators, sync with knights&peasants for giveaway. Reviewed delphi digital "year in review" reports.
+2024-01-06 Sat: Updated dapp overview, curated list of active validators, sync with knights&peasants for giveaway. Reviewed delphi digital "year in review" reports. [4hr]
 
 2024-01-05 Fri: Synced with Casey for recovery and lend. Coordinated with custodians for [Round 15](https://x.com/recoveryonefdn/status/1743515190463791354?s=20).
 
@@ -212,9 +212,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-01-01 Mon: Reviewed Galaxii and updated dapp overview. More testing of uniswap x, centralization risk with more than 70% of fill orders coming from Wintermute or Tokka Labs.
 
-2023-12-31 Sun: Tested Uniswap X. Key insights: Best suited for high liquidity swaps. Most swaps under $10k do not benefit from the gas-free transactions. Uniswap X routing favors trading pairs with significant volume and liquidity. Maximum Extractable Value [(MEV) protection](https://coinmarketcap.com/academy/glossary/front-running) through their [Dutch Limit Order Reactor](https://harmonyone.notion.site/Uniswap-X-2ebfe67b5ccc4c44a7b704f1376c457e?pvs=4), combined with "[fillers](https://docs.uniswap.org/contracts/uniswapx/guides/createfiller)" covering the gas fee, makes Uniswap X optimal for general, high-liquidity swapping and less effective for MEV traders.
+2023-12-31 Sun: Tested Uniswap X. Key insights: Best suited for high liquidity swaps. Most swaps under $10k do not benefit from the gas-free transactions. Uniswap X routing favors trading pairs with significant volume and liquidity. Maximum Extractable Value [(MEV) protection](https://coinmarketcap.com/academy/glossary/front-running) through their [Dutch Limit Order Reactor](https://harmonyone.notion.site/Uniswap-X-2ebfe67b5ccc4c44a7b704f1376c457e?pvs=4), combined with "[fillers](https://docs.uniswap.org/contracts/uniswapx/guides/createfiller)" covering the gas fee, makes Uniswap X optimal for general, high-liquidity swapping and less effective for MEV traders. [2hr]
 
-2023-12-30 Sat: Tested Multibit bridge, bridged $MUBI (ERC-20) very clean UI/UX and smooth transfer. Unknown technicals and poses a risk. Also, 0.03 ETH service fee is quite high.
+2023-12-30 Sat: Tested Multibit bridge, bridged $MUBI (ERC-20) very clean UI/UX and smooth transfer. Unknown technicals and poses a risk. Also, 0.03 ETH service fee is quite high. [2hr]
 
 2023-12-29 Fri: Joined telegram groups and conducted market research for [MultiBit](https://multibit.exchange/) and [Ordizk](https://ordizk.io/) for BRC-20 to EVM bridges, will test over the weekend. Initial thoughts: both look promising in what they say they can deliver but their telegram groups, lack of public repos, and lack of technical information is worrisome.
 
@@ -228,9 +228,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-12-24 Sun: Researched different Ordinals projects, joined a free mint for [bitblocks](https://twitter.com/billyrestey) from twitter user "billy". DeFi wave for bitcoin that may follow the memes and brc-20 craze will be interesting to watch. Phantom and other dapps/wallets as well as exchanges like [OKX](https://www.okx.com/web3/hot/inscription) are preparring themselves well for an increase in bitcoin adoption.
+2023-12-24 Sun: Researched different Ordinals projects, joined a free mint for [bitblocks](https://twitter.com/billyrestey) from twitter user "billy". DeFi wave for bitcoin that may follow the memes and brc-20 craze will be interesting to watch. Phantom and other dapps/wallets as well as exchanges like [OKX](https://www.okx.com/web3/hot/inscription) are preparring themselves well for an increase in bitcoin adoption. [2hr]
 
-2023-12-23 Sat: Joined Ethereum, Polygon, Degen, AI, and Arbitrum channels on warpcast. Ethereum has the largest community out of all of them by quite some margin (16k members, closest is AI with ~4k). Insight for today: Quility UI/UX posts explaining the need for simplicity in the web3 space, more is not always better. 
+2023-12-23 Sat: Joined Ethereum, Polygon, Degen, AI, and Arbitrum channels on warpcast. Ethereum has the largest community out of all of them by quite some margin (16k members, closest is AI with ~4k). Insight for today: Quility UI/UX posts explaining the need for simplicity in the web3 space, more is not always better. [1hr]
 
 2023-12-22 Fri: Joined warpcast. Read through inscription posts as well. Warpcast community still wondering about the utility for inscriptions outside of bitcoin. Room for more inscription use cases on evm chains, must be more than memetic oriented for sustained adoption.
 
@@ -244,17 +244,17 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-12-17 Sun: Catching up on messages and team updates, will continue on Monday. Reached out to metamask contact for metamask portfolio listing.
+2023-12-17 Sun: Catching up on messages and team updates, will continue on Monday. Reached out to metamask contact for metamask portfolio listing. [1hr]
 
-2023-12-16 Sat: Showcased Voice AI app for group of 10, insights: I downloaded most recent version of the app and without internal context I found it to be very confusing to navigate and showcase to people. The app has also taken a turn to becoming overcomplicated. Current structure is a generalized application of openai’s gpt 4 that allows a single app to satisfy many different use cases, an alternative approach may be to highly specialize the app for a single use case.
+2023-12-16 Sat: Showcased Voice AI app for group of 10, insights: I downloaded most recent version of the app and without internal context I found it to be very confusing to navigate and showcase to people. The app has also taken a turn to becoming overcomplicated. Current structure is a generalized application of openai’s gpt 4 that allows a single app to satisfy many different use cases, an alternative approach may be to highly specialize the app for a single use case. [2hr]
 
 2023-12-11 Mon - 2023-12-15 Fri: Paid time off
 
 ---
 
-2023-12-10 Sun: General Harmony overview and communications with the community.
+2023-12-10 Sun: General Harmony overview and communications with the community. [1hr]
 
-2023-12-09 Sat: App testing, insight: noticed I most frequently use the app for a quick inquiry about a fact or interesting information that is lacking in a moment or a conversation. Using the additional feature of “Surprise Me!” far less. 
+2023-12-09 Sat: App testing, insight: noticed I most frequently use the app for a quick inquiry about a fact or interesting information that is lacking in a moment or a conversation. Using the additional feature of “Surprise Me!” far less. [2hr]
 
 2023-12-08 Fri: v1.1208.18 (Updated transcript logs) Mapped full perceived latency benchmarks using [Aaron’s docs](https://github.com/harmony-one/x/blob/main/doc/benchmarking.md), synced with Yuriy for implementation.
 
@@ -268,9 +268,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-12-03 Sun: Extensive review of x codebase.
+2023-12-03 Sun: Extensive review of x codebase. [6hr]
 
-2023-12-02 Sat: General app testing of latest version. Key insight: "Hey" loses personalization of the app that might draw user back in. Suggested implementation: Additional to "System Settings" or "Custom Instructions", "User Profile" where the user describes themselves and it is added to the context. 
+2023-12-02 Sat: General app testing of latest version. Key insight: "Hey" loses personalization of the app that might draw user back in. Suggested implementation: Additional to "System Settings" or "Custom Instructions", "User Profile" where the user describes themselves and it is added to the context. [1hr]
 
 2023-12-01 Fri: Deployed 1.1201.18 (Updated action sheets, iPad misconfiguration resolved). Created script for finding “[canned responses](https://harmonyone.notion.site/Canned-Responses-08c2a748e67b4da0bf8c05c817c17911?pvs=4)” throughout codebase. 
 
@@ -284,9 +284,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-11-26 Sun: Worked with OpenAIs Assistants API, useful for incorporating our own information, Harmony specific, as well as performing tasks like sending a message or interacting with zappier. Insight: pricing is way too high for the lack of consistency of outputs. Focusing on mastering the quickest smart companion seems to be the best direction at the moment. Potential pivot to smaller LLM to distance from openai and fine tune for use cases specific to a low latency companion needs addressing based on pricing, speed, and dependency on openai.
+2023-11-26 Sun: Worked with OpenAIs Assistants API, useful for incorporating our own information, Harmony specific, as well as performing tasks like sending a message or interacting with zappier. Insight: pricing is way too high for the lack of consistency of outputs. Focusing on mastering the quickest smart companion seems to be the best direction at the moment. Potential pivot to smaller LLM to distance from openai and fine tune for use cases specific to a low latency companion needs addressing based on pricing, speed, and dependency on openai. [4hr]
 
-2023-11-25 Sat: Used the app and thought of different ways to increase user retention. Insight: Hand hold the user to a specific app interaction through a specific button. (Daily Trivia, Cooking Assistant, or Quick Ideation) these use cases must highlight the low latency capabilities of the app as this is the main value proposition at the moment.
+2023-11-25 Sat: Used the app and thought of different ways to increase user retention. Insight: Hand hold the user to a specific app interaction through a specific button. (Daily Trivia, Cooking Assistant, or Quick Ideation) these use cases must highlight the low latency capabilities of the app as this is the main value proposition at the moment. [1hr]
 
 2023-11-24 Fri: Following discussions, drafted simple [gamification elements](https://harmonyone.notion.site/Gamification-for-Voice-AI-3ff4489eb71a42649073e2806a2f939c?pvs=4) and options to improve [user retention](https://harmonyone.notion.site/Improving-User-Retention-2f6b2f3c2c47466b82e93f0b92916e79?pvs=4) as active users has dropped significantly.
 
@@ -300,9 +300,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-11-19 Sun: Completed potential [Thanksgiving marketing campaign](https://harmonyone.notion.site/Thanksgiving-Marketing-Campaign-f4e2ff42dd7e4c78946722e4b64244f2?pvs=4).
+2023-11-19 Sun: Completed potential [Thanksgiving marketing campaign](https://harmonyone.notion.site/Thanksgiving-Marketing-Campaign-f4e2ff42dd7e4c78946722e4b64244f2?pvs=4). [1hr]
 
-2023-11-18 Sat: Added and tested [6 scenarios](https://harmonyone.notion.site/AI-Driven-Conversation-d04d358c14ad42d68f35d4799314a838?pvs=4) for AI-driven conversations.
+2023-11-18 Sat: Added and tested [6 scenarios](https://harmonyone.notion.site/AI-Driven-Conversation-d04d358c14ad42d68f35d4799314a838?pvs=4) for AI-driven conversations. [3hr]
 
 2023-11-17 Fri: We deployed 1.1117.18 public TestFlight build. Completed and tested first draft of [AI-Driven Conversations](https://harmonyone.notion.site/AI-Driven-Conversation-d04d358c14ad42d68f35d4799314a838?pvs=4).
 
@@ -316,9 +316,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-11-12 Sun: Reviewed Fenwick Terms of Service, sent comments back for changes.
+2023-11-12 Sun: Reviewed Fenwick Terms of Service, sent comments back for changes. [1hr]
 
-2023-11-11 Sat: Continued testing Voice AI, currently heavy burden on user to get value out of usage.
+2023-11-11 Sat: Continued testing Voice AI, currently heavy burden on user to get value out of usage. [2hr]
 
 2023-11-10 Fri: Completed an initial release usage and [feedback table](https://harmonyone.notion.site/Initial-Release-Usage-and-Feedback-661d427191534b6f9a58e950685e1242?pvs=4) to focus on main blockers to “30 people 30 minutes” goal.
 
@@ -332,9 +332,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2023-11-05 Sun: Started brainstorming alternatives for "Skip 5 seconds" and "Random Fact" will create a notion on Monday.
+2023-11-05 Sun: Started brainstorming alternatives for "Skip 5 seconds" and "Random Fact" will create a notion on Monday. [1hr]
 
-2023-11-04 Sat: Conducted tests on the Voice AI app and demonstrated its functionalities to family members.
+2023-11-04 Sat: Conducted tests on the Voice AI app and demonstrated its functionalities to family members. [1hr]
 
 2023-11-03 Fri: Completed [ideation for improving latency](https://www.notion.so/harmonyone/Ideas-For-Latency-Optimization-7073ab27465146a4a211c7bc1819c7e2) sourcing from y-combinator, twitter, and github repos.
 
