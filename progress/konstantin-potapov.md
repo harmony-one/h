@@ -1,4 +1,8 @@
-2024-03-22 Fri: This week, i was investigating an issue preventing progress on devnet. I've found that the issue was originally caused by out of space error. We working with Gheis on fix. 
+2024-03-29 Fri: This week i was working with Ulad and Diego on devnet shard 1 recovering. Additionally, i'm working on the implementation of Groth16 in Solidity, with a specific focus on creating a reproducible working example. 
+
+---
+
+2024-03-22 Fri: This week, i was investigating an issue preventing progress on devnet. I've found that the issue was originally caused by out of space error. We are working with Gheis on a fix. 
 
 ---
 
