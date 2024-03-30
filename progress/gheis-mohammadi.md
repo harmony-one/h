@@ -1,3 +1,9 @@
+**2024-03-30 Saturday:** Last week, we encountered a storage issue where the team identified that the stream cache was consuming excessive storage. I conducted tests on the sync in the local network, and everything appeared to be fine, with storage usage within normal limits. However, we later observed that the stream service kept restarting, and the cleanup process wasn't triggered for unknown reasons. Currently, I am working on a pull request (PR) to address this cleanup issue.
+
+Additionally, we faced problems with p2p stream discoveries as the node couldn't connect to other nodes, which were rejecting it. It seems the node was being blocked by others. We are actively working on resolving this issue as well.
+
+---
+
 **2024-03-15 Friday:** Last week, we encountered a simple configuration issue. All devnet nodes were upgraded to the latest release, and snapshot generation was inadvertently enabled by default, causing several nodes to go down. To address this, I created a pull request and set the Snapshots Limit to zero by default for all networks. This effectively disabled snapshots permanently and resolved the issue.
 
 Subsequently, we encountered another issue where two nodes became stuck due to an increasing view ID, resulting in different block hashes. We investigated this issue and considered two theories: one related to the snapshot root hash and the other to potential root causes within stream sync. Upon investigation, I confirmed that stream sync could not be the issue, as it does not manipulate or increase view IDs. However, there remained a possibility of indirect conflicts with consensus. Our investigation revealed that one node had somehow received the wrong view ID from another node. We temporarily resolved this issue by disabling snapshots and resyncing the affected node using the snapshot database.
