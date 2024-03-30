@@ -1,3 +1,10 @@
+2024-03-29 Friday: This week I have mostly support activities:
+* Our cloud provider - Contabo has a network outage which leads to the various issues in the devnet and tesnet. Patiently check nodes one by and back them back to operational one by one.
+* Checked an devnet shard 1 issue connected with harmony node's memdb weird behavior - it started to use the whole disk storage, when the node is in discovery phase
+* created two snapshot nodes for the shard 0 and shard 1 in the testnet, [it will help Harmony team and external validators to create new nodes in a matter of minutes, instead of 3 days sync](https://github.com/harmony-one/harmony-ops-priv/issues/175)
+
+---
+
 2024-03-22 Friday: The main focuses on this week:
 * one more blacklisted address removed
 * working external leader validator hardfork HIP32 on the testnet:
