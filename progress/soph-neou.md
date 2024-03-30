@@ -1,3 +1,17 @@
+**2024-3-29 Fri**:
+
+This week kicked off with Amanda and me diving into the intricacies of updating billing information on mission control. In addition to that, I lent a hand to community users grappling with blacklist address and wallet issues.
+
+Unfortunately, our testnet leader rotation activation hit a snag. While Shard 0 smoothly integrated the new feature, Shard 1 encountered a hitch. A stuck crosslink resulted in lost consensus, leaving Shard 1 without both internal and external validators. In collaboration with Diego, we explored a potential solution, considering another hard fork to temporarily reinstate the internal validator.
+
+On a brighter note, Band's recent update to their [network blockchain page](https://docs.bandchain.org/develop/supported-blockchains/) now includes our mainnet standard reference price address, enhancing the legitimacy of our mainnet oracle integration with Band.
+
+---
+**2024-3-22 Fri**:
+
+Throughout the week, I provided support for band/QiDAO and conducted checks for stuck blocks in devnet s1, while also assisting with investigations into validator s1 signature loss. Additionally, I troubleshooted issues related to Buggy validator state #4605 and pending undelegation not released with inactive validator #4632, uncovering corner cases with HIP30 that caused state verification failures. Towards the end of the week, I investigated shard 1 devnet consensus loss and identified a block verification failure at the prepare phase of block 1140307. 
+
+---
 **2024-3-15 Fri**:
 
 I've been quite busy this week! First off, I've kept in touch with validators to ensure the progress of HIP32, which is currently approved and awaiting the final decision on March 19th, check out the latest update the [HIP32 Vote dashboard] (https://vstats.fortune-validator.pro/proposals/0x2c862da1cc9036a13d0505cba3aeb44f99ae5b7b7c1ef011aa147f73be9022f0) thanks to David Fortune
