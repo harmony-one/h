@@ -1,3 +1,8 @@
+Q1 Review:
+
+In Q1, I researched over 100 Harmony network community projects, focusing on soulbound/inscription tokens and swapping mechanisms. I developed the OTP connection page for our social geo game website and created a Telegram bot for processing Harmony network transactions. Additionally, I led the development of Harmony's mobile applications using Gnosis Safe through forking and configuration.
+
+Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
 ---
 2026-03-31 Sun: Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
