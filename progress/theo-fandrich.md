@@ -1,3 +1,9 @@
+Q1 Review:
+
+I worked on developing ONE Map Social by orchestrating product development. I was able to receive app store approval within one week of app initation.
+
+In the second half of Q1 I focused more on defi and metamask portfolio. After several weeks of discussions, Harmony once again has a stable coin (MAI). Foundation for the cross-chain portfolio management is being developed.
+
 **2-Week Deliverables:**
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
