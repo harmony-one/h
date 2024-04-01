@@ -1,3 +1,8 @@
+Q1 Review:
+
+I integrated OpenAI's Whisper in the Voice AI app, enabling features like Press & Hold and Tap to Speak. I also set up the safe-iOS project for the Harmony network, successfully launched it on TestFlight for real-time testing, and conducted research and development on MetaMask and Keplr Wallet, customizing the Telegram iOS project to meet specific needs. Additionally, I implemented location services in the Voice-on app to fetch and display addresses during audio recording saves, deployed these updates to TestFlight, and studied the Farcaster network, reviewing its documentation and experimenting with an unofficial Flutter SDK.
+
+I developed the ONE (Voice) Map app, introducing features like a current location button, speech-to-text conversion using Whisper, and UI enhancements, deploying it to TestFlight with the integration of CodePush for streamlined updates and enhanced app stability. I also began the ONEResume project in React Native, integrating CodePush for updates and adding a feature that allows users to upload their resumes and receive feedback from Claude-3, further extending the functionality and user engagement of the app.
 
 **2-week Deliverables**
 
