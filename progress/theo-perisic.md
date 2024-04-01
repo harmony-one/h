@@ -88,9 +88,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-02-26 Mon: Extended morning conversations with community members in Denver, covering 2023 products, governance, and ecosystem updates. Participated in conversations with ex-harmony team, side event hackathon for devrel, and evening event at Imperial City.
 
-2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. [10hr]
+2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. [16hr]
 
-2024-02-24 Sat: First full day in Denver. Onboarding 10+ users to h.country, shared insights with team. [10hr]
+2024-02-24 Sat: First full day in Denver. Onboarding 10+ users to h.country, shared insights with team. [15hr]
 
 2024-02-23 Fri: Travel Day to EthDenver. Mixup with booking, solved with Alaina. Met up with Casey at the buidlathon event.
 
