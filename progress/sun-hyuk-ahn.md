@@ -1,3 +1,10 @@
+Q1 Review:
+
+I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
+
+Prototyped human protocol using various tools and frameworks, and eventually implemented the Firestore based h.country. Specifically implemented keypair management, path commands using "/", as well as OAuth flow. At ETH Denver, introduced the application to ~30 users. Recently, I have deployed the Polaris EVM execution layer on Rollkit, a Cosmos SDK fork, and worked with Yuriy in launching Op Stack based, smart contract rollup on Celestia.
+
+
 **2-week Deliverables**
 
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
