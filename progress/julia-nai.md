@@ -1,6 +1,22 @@
 2-Week Deliverables:
 Decide on dataset and product plan for AI data gathering. 
 
+2024-03-31 Sun: [3 hours] Compared first 100 Lever resumes for System Engineer with hard requirements. 
+
+2024-03-30 Sat: [2 hours] Gathered Lever resumes for searching against applicants. 
+
+2024-03-29 Fri: Attempted to improve prompt for resume comparison. Brought Li up to speed with project. 
+
+2024-03-28 Thu: Compared first 100 resumes with more specific hard requirements for System Engineering. 
+
+2024-03-27 Wed: Attempted ordered ranking rather than best fit of set to order all resumes in a set. 
+
+2024-03-26 Tue: Ran comparisons on first 100 resumes for best fit for System Engineering position. Compared 10 at a time in rounds. 
+
+2024-03-25 Mon: Compared multiple resume ranking methods against my own choice top candidate of a set of resumes. 
+
+---
+
 2024-03-24 Sun: [4 hours] Looked for more sources of resumes. Pulled 350.
 
 2024-03-23 Sat: [2 hours] Researched sources of resumes and manually pulled 100.
