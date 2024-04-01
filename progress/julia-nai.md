@@ -62,7 +62,27 @@ Summary progress: 2/6 Tue - 2/28 Wed and 3/4 Mon - 3/10 Sun \
 
 ---
 
-2024-02-23 Fri: 
+2024-03-03 Sun: [16 hours] ETHDenver
+
+2024-03-02 Sat: [19 hours] ETHDenver
+
+2024-03-01 Fri: ETHDenver
+
+2024-02-29 Thu: Flew to Denver. Visited main expo and 4 side events. 
+
+2024-02-28 Wed: Continued researching offices. Planned ETHDenver first day with Sun and Alaina. 
+
+2024-02-27 Tue: Gathered feedback on h.country from Theo P and Theo F. 
+
+2024-02-26 Mon: Added test data to h.country. Looked into offices. 
+
+---
+
+2024-02-25 Sun: [1 hour] Coordinated with Theo P on changes from his ETHDenver feedback. 
+
+2024-02-24 Sat: [1 hour] Cleaned up backend deploy process to mantain live version for Theo P. 
+
+2024-02-23 Fri: Toured offices. Coordinated final changes before ETHDenver. 
 
 2024-02-22 Thu: Changes:
 - [Changed](https://github.com/harmony-one/h.country/commit/995b4cde33ebfd8c8e9b31ea8b1524cb25eeaee8) window prompt text
@@ -71,7 +91,7 @@ Summary progress: 2/6 Tue - 2/28 Wed and 3/4 Mon - 3/10 Sun \
 - Made white versions of the number and slash svgs to fix color issues
 - Defined URL handling
 
-2024-02-21 Wed:
+2024-02-21 Wed: Coordinated UI changes for prompt texts. 
 
 2024-02-19 Mon: Updated package lock to fix deploy. 
 
