@@ -96,9 +96,9 @@ Summary progress: 2/6 Tue - 2/28 Wed and 3/4 Mon - 3/10 Sun \
 2024-02-19 Mon: Updated package lock to fix deploy. 
 
 ---
-2024-02-18 Sun: Updated the actions specification rules. 
+2024-02-18 Sun: [1 hours] Updated the actions specification rules. 
 
-2024-02-17 Sat: Created hprod repo to deploy to h.country (prod). h.country repo deploys to g.country (dev). 
+2024-02-17 Sat: [2 hours] Created hprod repo to deploy to h.country (prod). h.country repo deploys to g.country (dev). 
 
 2024-02-16 Fri: Changes:
 - [Added](https://github.com/harmony-one/h.country/commit/74d6878a8abd53f6a7e782739af68521b6ef437c) handling for Instagram links. Automatically converts link from https://instagram.com/username/ to ig/username linked to profile
@@ -149,7 +149,7 @@ Change log for Remote Emitter
 - [Adjusted](https://github.com/Aishlia/remote-emitter/commit/9fe92e3dedb9a412b8234eb9e8999b39f87c228f) graph query to remove extra names. Connection chains start with the viewing user and end with the profile being viewed.
 - [Add](https://github.com/Aishlia/remote-emitter/commit/b13361084841e0c67c163bfbfa2c473c9e3eb8a8) prevention of double submitting with submit state. New submitions not allowed when submit state is on. 
 
-2024-02-10 Sat: [4 hours] \
+2024-02-10 Sat: [6 hours] \
 🧧🧨🔴 Happy New Year 🐲🐉🏮 \
 Change log for Remote Emitter
 
@@ -218,9 +218,9 @@ Change log for Remote Emitter
 
 ---
 
-2024-01-28 Sun: Tested Phantom mobile.
+2024-01-28 Sun: [1 hour] Tested Phantom mobile.
 
-2024-01-27 Sat: Continued using Diamond on Deso and testing various social finance products. 
+2024-01-27 Sat: [1 hour] Continued using Diamond on Deso and testing various social finance products. 
 
 2024-01-26 Fri: Interview candidated. "share" button on 1Bot image generation to inscribe prompt and put on last 2 letters of txn .county. Tested DeSo Diamond. 
 
@@ -234,9 +234,9 @@ Change log for Remote Emitter
 
 ---
 
-2024-01-21 Sun: Inlined variables and simplified Minimal Social Wallet. 
+2024-01-21 Sun: [2 hours] Inlined variables and simplified Minimal Social Wallet. 
 
-2024-01-20 Sat: Researched Polymarket and searched for similar projects. 
+2024-01-20 Sat: [1 hour] Researched Polymarket and searched for similar projects. 
 
 2024-01-19 Fri: Monitored Onescriptions ONES launch and gathered basic launch stats.
 
@@ -250,9 +250,9 @@ Change log for Remote Emitter
 
 ---
 
-2024-01-14 Sun: Wrote speaker bios and other response questions for team members for ETHDenver applications. 
+2024-01-14 Sun: [4 hours] Wrote speaker bios and other response questions for team members for ETHDenver applications. 
 
-2024-01-13 Sat: Tested minimal secure wallet. 
+2024-01-13 Sat: [2 hours] Tested minimal secure wallet. 
 
 2024-01-12 Fri: Created POC for a contract that holds ONE tokens for you. This limits your hot wallet's exposure. When you need more tokens, you can send a transaction work 0 ONE to the contract and the contract will automatically send you 100 ONE tokens back. This way, you still have access to all of your funds, but in the event you sign something you shouldn't, your exposure is limited to however much you want to refill your account with. [Contract](https://explorer.harmony.one/address/0x80a7f21728d263a64a4acac56e9c43dea997ee30) and [code](https://github.com/harmony-one/s/commit/fc63f102bf473ce615f94cbcaab11e558f141f35).
 
@@ -264,9 +264,9 @@ Change log for Remote Emitter
 
 2024-01-08 Mon: [Reviewed](https://lucid.app/lucidchart/e2275294-1899-4f72-a1e8-d934146d2942/edit?invitationId=inv_49cc2640-ae23-4c26-aed0-d95e788e3ca6) moc setup and btc.country.
 
-2024-01-07 Sun: Reviewed Q1 roadmap.
+2024-01-07 Sun: [1 hour] Reviewed Q1 roadmap.
 
-2024-01-06 Sat: Tested custom ownable function added in PR#8.
+2024-01-06 Sat: [2 hours] Tested custom ownable function added in PR#8.
 
 2024-01-05 Fri: Reviewed [steemit.com](https://steemit.com/) reward structure implimentation with Casey— created first draft reward tiers for A tokens. [Added](https://github.com/harmony-one/s/pull/9) custom burn function to remove ERC20Burnable.sol dependency from OpenZeppelin and removed ERC20FlashMint.sol dependency.
 
@@ -280,9 +280,9 @@ Change log for Remote Emitter
 
 ---
 
-2023-12-31 Sun: Continues debugging sendToken.
+2023-12-31 Sun: [3 hours] Continues debugging sendToken.
 
-2023-12-30 Sat: [Added](https://github.com/harmony-one/s/pull/4/files) implementation started on Friday for interaction with safe ABI. sendToken uses execTransaction from safe. Currently using a placeholder ERC20 ABI in getERC20ABI().
+2023-12-30 Sat: [3 hours] [Added](https://github.com/harmony-one/s/pull/4/files) implementation started on Friday for interaction with safe ABI. sendToken uses execTransaction from safe. Currently using a placeholder ERC20 ABI in getERC20ABI().
 
 2023-12-29 Fri: Read through Gnosis safe [source code](https://github.com/safe-global/safe-contracts/blob/main/contracts/Safe.sol) and Protofire gnosis python CLI [source code](https://github.com/harmony-one/safe-cli) to find relevant contract. Worked on generating ABI from contract that matches expected ABI of our safe implimentation.
 
