@@ -1,3 +1,9 @@
+Q1 Review:
+
+I prototyped a social media platform called Remote Emitter using Firestore for message storage, adding features like username-based posting, timestamping, location stamping, user-specific pages, and hashtag support. I optimized storage and indexing for sub-100ms updates, integrated with Cloudflare for automated deployment, and utilized Neo4j to calculate nth-degree user connections with sub-400ms latency up to 6 degrees. For the h.country project, I migrated relevant Remote Emitter features, implemented link handling, defined action specifications, and created a prod deployment process, while also researching AI models trained on unlabeled voice data.
+
+I worked on the Onescriptions ONES launch, gathering statistics, testing inscriptions on Avalanche, and developing minimal on-chain security proof-of-concepts and a BTC-ONE flip prototype. I focused on data analysis, model training, and resume collection for the PmF project, implementing wallet lookup features using 4 digit codes, emojis, and error codes. I automated parsing of comments from "Who wants to be hired?" posts on Hacker News, manually collected 500 resumes for GPT analysis, and researched additional resume sources to expand the dataset.
+
 2-Week Deliverables:
 Decide on dataset and product plan for AI data gathering. 
 
