@@ -9,6 +9,33 @@ I developed the ONE (Voice) Map app, introducing features like a current locatio
 
 Over the next two weeks, the focus will be on implementing hot reload for ONE (Voice) Map, enhancing its UI design, optimizing app performance, and fixing the swipe functionality bug, especially with larger text volumes. Aim to improve user experience in the Voice AI app following the Whisper integration and app submissions to TestFlight.
 
+--- 
+
+2024-04-01 Mon: Investigating the chat functionality in ONE Resume: AI and discussed it with Artem. Also, we talked about the Web app, proposing conditional coding for both the app and web app to support library usage effectively.
+
+--- 
+
+2024-03-29 Fri: Updated the app with new UI changes to reflect the API updates, shared these details with Theo Harmony, and inquired about the mock design.
+
+2024-03-28 Thu: Implemented changes suggested by Theo Harmony and conversed with Frank about the modifications, which provide a score and three suggestions for resumes uploaded via the Claude API.
+
+2024-03-27 Wed: Implemented updates to the Claude API and deployed all changes via Code Push.
+
+2024-03-26 Tue: Finished integrating Code Push in the ONE Resume: AI project and had a conversation with Frank about implementing the Claude API for the resume upload functionality. Supported Artem for the Web app setup. 
+
+2024-03-25 Mon: Fission Holiday
+
+---
+
+2024-03-22 Fri: Requested Theo Frandrich to set up a repository for ONE Resume: AI, then pushed all changes, configured TestFlight, and invited the team.
+
+2024-03-21 Thu: Developed a basic UI for the ONE Resume: AI project using React Native.
+
+2024-03-20 Wed: Conducted code refactoring and performance enhancements for the ONE map.
+
+2024-03-19 Tue: Completed code push testing and pushed all updates to TestFlight. Also, I've requested the app design from Alaina.
+
+2024-03-18 Mon: Started implementing code push for ONE map, need to test.
 
 --- 
 
