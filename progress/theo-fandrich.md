@@ -1,8 +1,8 @@
 Q1 Review:
 
-I worked on developing ONE Map Social by orchestrating product development. I was able to receive app store approval within one week of app initation.
+I completed the partnership with QiDao and aided them in transitioning to Band Protocol from Chainlink, integrating a stable coin (MAI) into our ecosystem, a key enhancement to our financial infrastructure. Also helped product development for Metamask portfolio  and initiated the groundwork for cross-chain portfolio management to facilitate trading, lending, and investing across various blockchains.
 
-In the second half of Q1 I focused more on defi and metamask portfolio. After several weeks of discussions, Harmony once again has a stable coin (MAI). Foundation for the cross-chain portfolio management is being developed.
+I worked on developing ONE Map Social by orchestrating product development, focusing on integrating location-based services and user-generated content to enhance social interaction within the app. I managed to secure app store approval within one week of app initiation.
 
 **2-Week Deliverables:**
 
