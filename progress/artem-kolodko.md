@@ -1,3 +1,9 @@
+Q1 Review:
+
+During the Q1, I contributed to the development team of the VoiceAI app, focusing on UI elements and writing tests. Developed an inscriptions indexer backend utilized in an inscriptions lottery. Maintained harmony1bot.
+
+Successfully launched a Human Protocol client at h.country: created a prototype for the client app, added support of key features such as routing, core user interface components, and Firebase integration. Started working on Harmony Portfolio client, a counterpart to the Metamask portfolio, with the alpha version scheduled for release by the end of March 2024.
+
 **2-week Deliverables**
 
 Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge, swap, and lend in a single location. Ensure seamless integration of various APIs into an attractive and user-friendly UI.
