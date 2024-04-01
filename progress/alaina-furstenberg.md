@@ -185,7 +185,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-01-17 Wed: /Vision testing + launch plan. Designed graphics for substack + twitter. Wrote [thread](https://www.notion.so/harmonyone/Substack-Thread-49562e16f98945928154ca0aa690221d?pvs=4) for blog post.
 
-2024-01-16 Tue: Paid Time Off.
+2024-01-16 Tue: /Vision testing + iterations with Frank. /dalle creation + sharing with ONE Bot love. Twitter analytics review of Q4.
 
 2024-01-15 Mon: MLK Holiday.
 
