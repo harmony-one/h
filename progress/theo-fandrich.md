@@ -150,7 +150,7 @@ Simultaneously, I delved into blockchain technologies, investigating Layer 1 sol
 
 ---
 
-2024-01-14 Sun: Researched other other Harmony ecosystem projects such as Galaxii, Coherence, Harmony Punks, Fox Swap, and more.
+2024-01-14 Sun: Researched other Harmony ecosystem projects such as Galaxii, Coherence, Harmony Punks, Fox Swap, and more.
 
 2024-01-13 Sat: Gnosis Safe remains the only viable evm multisig, began compiling all evm compatible wallet providers.
 
