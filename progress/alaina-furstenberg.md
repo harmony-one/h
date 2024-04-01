@@ -12,9 +12,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-03-27 Wed - 2024-03-29 Fri : Paid Time Off.
 
-2024-03-26 Tue: AIMM Mocks + update of Harmony.one. 
+2024-03-26 Tue: AIMM [Mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=1SYVfVaMivT9cVQg-1) + update of Harmony.one. 
 
-2024-03-25 Mon: AIMM Mocks + Moving excel sheet. 
+2024-03-25 Mon: AIMM [Mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=1SYVfVaMivT9cVQg-1) + Moving excel sheet. 
 
 -----
 
