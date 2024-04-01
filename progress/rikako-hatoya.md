@@ -5,9 +5,9 @@ In Q1, I researched over 100 Harmony network community projects, focusing on sou
 Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
 ---
-2026-03-31 Sun: Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
+2026-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
 
-2026-03-30 Sat: Continued work on finding resumes for our next candidate pool.
+2026-03-30 Sat (2 hours): Continued work on finding resumes for our next candidate pool.
 
 2026-03-29 Fri: Worked on collecting resumes through LinkedIn, Discord chats, and learnt how to use Lever. 
 
@@ -24,17 +24,17 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 
 Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 ---
-2024-03-24 Sun: Debugging further continued, reflected upon my goals and milestones for Q1.
+2024-03-24 Sun (1 hour): Debugging further continued, reflected upon my goals and milestones for Q1.
 
-2024-03-23 Sat: Followed through a tutorial on hardhat to debug/resolve flattening issues.
+2024-03-23 Sat (2 hours): Followed through a tutorial on hardhat to debug/resolve flattening issues.
 
 2024-03-18 Mon ~ 2024-03-22 Fri: PTO (Always available on Telegram)
 
 ---
 
-2024-03-17 Sun: Continue debugging and adapting contracts to shard 1.
+2024-03-17 Sun (1 hour): Continue debugging and adapting contracts to shard 1.
 
-2024-03-16 Sat: Debugging issues regarding concatenation with Hardhat.
+2024-03-16 Sat (1.5 hours): Debugging issues regarding concatenation with Hardhat.
 
 2024-03-15 Fri: Worked on concatenating 29 smart contract files into one solidity contract to deploy on Remix. 
 
@@ -48,11 +48,14 @@ Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a
 
 ---
 
-2024-03-10 Sun: Further continued, looked into on-chai royalty policy and did some research on different AI models and their specs (MMLU, etc).
+2024-03-10 Sun (1 hour): Further continued, looked into on-chain royalty policy and did some research on different AI models and their specs (MMLU, etc).
 
-2024-03-09 Sat: Further continued market research (eg. modulus, eternis) lisetd on the edgeai notion site and looked around Twitter.
+2024-03-09 Sat (1.5 hours): Further continued market research (eg. modulus, eternis) lisetd on the edgeai notion site and looked around Twitter.
 
 2024-03-08 Fri: Continued market research on crypto companies doing data collection (gensyn.ai, semiotic labs, etc).
+
+2024-03-03 Sun (14 hours): ETH Denver
+2024-03-02 Sat (19 hours): ETH Denver
 
 ETH Denver summary and future goals:
 
@@ -70,10 +73,10 @@ In my pursuit of market research, I am dedicated to uncovering and exploring new
 
 2024-02-29 Thu ~ 2024-03-03 Sun: ETH Denver
 
-2024-02-25 Sun:
+2024-02-25 Sun (3.5 hours):
 Worked on setting up Telegram oAuth (father bot) and integrating to Auth0.
 
-2024-02-24 Sat:
+2024-02-24 Sat (3 hours):
 Looked into oAuth for social media websites and their process (setting up developer accounts)
 
 2024-02-23 Fri: 
@@ -133,9 +136,9 @@ Calling oAuth requires 5 steps -
 
 ---
 
-2024-02-18 Sun: Looked into the updated firestore logic with the payload replaced instead of the hashtag action and worked on merging over my previous implementation for showing links.
+2024-02-18 Sun (2 hours): Looked into the updated firestore logic with the payload replaced instead of the hashtag action and worked on merging over my previous implementation for showing links.
 
-2024-02-17 Sat: Finished implementing "links" feature to display as mentions (currently we only have "tagged" for hashtags), see more details here in comments: [https://github.com/harmony-one/h.country/pull/16]. Will work later tonight to resolve merge conflicts.
+2024-02-17 Sat (1.5 hours): Finished implementing "links" feature to display as mentions (currently we only have "tagged" for hashtags), see more details here in comments: [https://github.com/harmony-one/h.country/pull/16]. Will work later tonight to resolve merge conflicts.
 
 2024-02-16 Fri (Half PTO): [Merged](https://github.com/harmony-one/h.country/pull/8) conflicts for the window.popup() screen in /auth (added component, configured routing, disabled oAuth for now until we figure out how to fecth usernames). Debugged deploy to cloudflare (CI is trigerred anytime there is ESLint issues or too many unused React imports/components.) Started work on configuring links feed for userPage (looked into existing firebase codebase, investigated structure for adding social media links, added some UI components) on seperate branch [here](https://github.com/harmony-one/h.country/tree/addlinks).
 
@@ -153,9 +156,9 @@ Human Protocol: Went over with Sun on the details/next steps, looked into implem
 
 ---
 
-2024-02-11 Sun: Worked on further debugging settings bundle (for system settings) to react native bridge. 
+2024-02-11 Sun (4 hours): Worked on further debugging settings bundle (for system settings) to react native bridge. 
 
-2024-02-10 Sat: ONE Map: [Worked](https://github.com/harmony-one/1/commits/systemSettings) on debugging the system settings map selection. NSUserDefaults is not correctly being fetched, bug probably caused from the bridging between iOS and React Native.
+2024-02-10 Sat (3 hours): ONE Map: [Worked](https://github.com/harmony-one/1/commits/systemSettings) on debugging the system settings map selection. NSUserDefaults is not correctly being fetched, bug probably caused from the bridging between iOS and React Native.
 
 2024-02-09 Fri: ONE Map: [Worked](https://github.com/harmony-one/1/commits/rika/) on implementing Firebase. Investigated how to access single Firehost database with multiple Firebase API keys to enable tracking. Added UI updates (microphone icon, app logo) and modified app store submission info. Implemented in-app browser (when location name is clicked, will open a browser linking to Julia's hashtag url). Uploaded deliverables to Testflight and tested app. [Worked](https://github.com/harmony-one/1/commits/systemSettings) on configuring system settings to enable map selection through iOS settings app (created custom settings preferences and modules to bridge NSUserDefaults to React Native).
 
@@ -173,9 +176,9 @@ Created Harmony ONE Map app using React Native ([here](https://github.com/harmon
 
 ---
 
-2024-02-04 Sun: Further work on social media oauth: Initially started work on implementing Firebase but only supports limited number of social log-ins. Looked into creating back-end for SSO-login with [OneAll](https://docs.oneall.com/services/implementation-guide/social-login/) instead, which supports 40 social media websites: investigating workflow and implementing REST API.
+2024-02-04 Sun (3 hours): Further work on social media oauth: Initially started work on implementing Firebase but only supports limited number of social log-ins. Looked into creating back-end for SSO-login with [OneAll](https://docs.oneall.com/services/implementation-guide/social-login/) instead, which supports 40 social media websites: investigating workflow and implementing REST API.
 
-2024-02-03 Sat: Worked on implementing social media oauth for s.country. Created landing page and added React components to display social media icons ([here](https://github.com/harmony-one/s/blob/main/s-game/client/src/Screens/Auth.jsx)).
+2024-02-03 Sat (1 hour): Worked on implementing social media oauth for s.country. Created landing page and added React components to display social media icons ([here](https://github.com/harmony-one/s/blob/main/s-game/client/src/Screens/Auth.jsx)).
 
 2024-02-02 Fri: Further work on 1wallet, burner wallets, candidate interview.
 
@@ -197,9 +200,9 @@ Created Harmony ONE Map app using React Native ([here](https://github.com/harmon
 
 ---
 
-2024-01-28 Sun: Yesterday's continued.
+2024-01-28 Sun (1.5 hours): Yesterday's continued.
 
-2024-01-27 Sat: Tested apps adopting Harmony such as Knights and Peasants , DEUS App, Curve.fi, Crypto Royale, and FishFight, and others. Drafted summaries for the tested products in preparation for announcement to x.country telegram.
+2024-01-27 Sat (6 hours): Tested apps adopting Harmony such as Knights and Peasants , DEUS App, Curve.fi, Crypto Royale, and FishFight, and others. Drafted summaries for the tested products in preparation for announcement to x.country telegram.
 
 2024-01-26 Fri: Researched and tested Harmony related apps, (eg. CougarSwap, XP.NETWORK, DefiKingdoms, AnotherWorld, ) and researched about various concepts on yielding (farms, pools, uniswap, pancakeswap, sushiswap, WONE, Jewel LP - especially the tokens for providing liquidity pools).
 
@@ -213,9 +216,9 @@ Created Harmony ONE Map app using React Native ([here](https://github.com/harmon
 
 ---
 
-2024-01-21 Sun: Researched, forked and tested open source iOS Apps (telegram, metamask). 
+2024-01-21 Sun (2.5 hours): Researched, forked and tested open source iOS Apps (telegram, metamask). 
 
-2024-01-20 Sat: Investigated multisig safe wallets for TIA, RUNE, etc (eg. THORsafe, keplr wallet). 
+2024-01-20 Sat (4 hours): Investigated multisig safe wallets for TIA, RUNE, etc (eg. THORsafe, keplr wallet). 
 
 2024-01-19 Fri: Continued research on PRC-20 inscription tokens (top minted eg. POLS, Sponge V2), Polkadot and Onescription.
 
@@ -229,9 +232,9 @@ Created Harmony ONE Map app using React Native ([here](https://github.com/harmon
 
 ---
 
-2024-01-14 Sun: Further investigation on how to fix the wallet connection issue on Gnosis. (TheoF was able to fix it.)
+2024-01-14 Sun (5 hours): Further investigation on how to fix the wallet connection issue on Gnosis. (TheoF was able to fix it.)
 
-2024-01-13 Sat: Investigated further on how to fix the wallet connection issue on Gnosis.
+2024-01-13 Sat (3.5 hours): Investigated further on how to fix the wallet connection issue on Gnosis.
 
 2024-01-12 Fri: Investigated how to setup harmony testnet on Gnosis multisig ios app. Reached out to protofire team regarding an issue I raised [here](https://github.com/safe-global/safe-singleton-factory/issues/337). Added backend connection to harmony testnet and other configuration setup such as connecting API and adding assets. Tested Sun's USDC flip.
 
@@ -245,9 +248,9 @@ Created Harmony ONE Map app using React Native ([here](https://github.com/harmon
 
 ---
 
-2021-01-07 Sun: Researched about different existing marketing campaigns using soulbound and neighboring concept (rewards for token holders).
+2021-01-07 Sun (4 hours): Researched about different existing marketing campaigns using soulbound and neighboring concept (rewards for token holders).
 
-2024-01-06 Sat: Researched more about chainflip, and how to implement soulbound tokens.
+2024-01-06 Sat (4 hours): Researched more about chainflip, and how to implement soulbound tokens.
 
 2024-01-05 Fri: PTO
 
