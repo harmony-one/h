@@ -18,7 +18,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 -----
 
-2024-03-24 Sun: 
+2024-03-24 Sun: More [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on portfolio navigation. syncing with artem (2 hours).
 
 2024-03-23 Sat: Further [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on the 'Buy' one page on Metamask portfolio. Opted for toggle slider to allow users to choose between a CEX and a DEX for purchasing ONE. (4 hours)
 
