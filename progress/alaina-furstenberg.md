@@ -2,6 +2,16 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
 
+2024-03-25 Mon - 2024-03-29 Fri : Paid Time Off.
+
+2024-03-24 Sun:
+
+2024-03-23 Sat:
+
+2024-03-22 Fri:
+
+2024-03-21 Thu:
+
 2024-03-20 Wed: [Swap milestone announcement + animation](https://x.com/harmonyprotocol/status/1770620578069872670?s=20). [Clarification to community](https://x.com/harmonyprotocol/status/1770576478356517374?s=20) on fund allocation following HIP 30. Synced with Artem on latest mocks of Harmony Portfolio, seen [here](https://harmony-portfolio.netlify.app/). Minor cosmetic adjustments suggested. Iterated [swap frontend](https://harmony-portfolio.netlify.app/swap
 ) with Artem as well.
 
@@ -57,20 +67,40 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 **Harmony.one Community Section Updates**: I will ensure the community section on the Harmony.one website is regularly updated with the latest information, including events, product updates, and educational materials.
 
-----
-2024-02-20 Fri: Touring of office spaces. [ONE Social Map Mocks](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/ONE(social)-map?type=design&node-id=0%3A1&mode=design&t=DJCdfWG3h5wTeARa-1) + [continuation of human protocol mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1). Community section update and [tweet](https://x.com/harmonyprotocol/status/1761189892359663708?s=20).
+-----
+2024-03-03 Sun: ETH Denver (19 hours)
 
-2024-02-19 Thu: [Icon research](https://www.canva.com/design/DAF8PZKlCAA/3XeYdApK_8B7XgV4E0_YUw/edit?utm_content=DAF8PZKlCAA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for ONE social map. Mock continuation + testing of new storylines update. Insights: It will be a useful tool for creating youtube shorts from longform content. 
+2024-03-02 Sat: ETH Denver (19 hours)
 
-2024-02-18 Wed: [ONE Social Map Mocks](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/ONE(social)-map?type=design&node-id=0%3A1&mode=design&t=DJCdfWG3h5wTeARa-1) + [continuation of human protocol mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1). [Tweeted](https://x.com/harmonyprotocol/status/1760465663037231281?s=20) of ETH Denver Luma event
+2024-03-01 Fri: ETH Denver
 
-2024-02-17 Tue: h.country mocks
+2024-02-29 Thu: Arrived at ETH Denver. Ventured into main event space. Networked with Co-founder of Abstract Money, Adair Kelley, learning about their smart contract framework aiming to simplify the development process. We discussed design and marketing angles for the crypto industry at large, noting how the intention to draw in new users or experienced users will change your design and marketing strategy. 
 
-2024-02-16 Mon: mocks, luma background, favicon [commit](https://github.com/harmony-one/h.country/commit/56c61618c25c05a8932f684efa79a9c8cf2ded20).
+2024-02-28 Wed:
 
-2024-02-16 Sun: h.country logo + syncing with engineers on readme text
+2024-02-27 Tue:
 
-2024-02-16 Sat: ETH Denver x TGI tracking on this [notion doc](https://www.notion.so/harmonyone/ETH-Denver-2024-8aae927559f24581b5dfac4551c4c7e2).
+2024-02-26 Mon:
+
+-----
+
+2024-02-25 Sun: Final mocks for Stephens presentation (4 hours)
+
+2024-02-24 Sat: 4 h.country mocks (5 hours)
+
+2024-02-23 Fri: Touring of office spaces. [ONE Social Map Mocks](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/ONE(social)-map?type=design&node-id=0%3A1&mode=design&t=DJCdfWG3h5wTeARa-1) + [continuation of human protocol mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1). Community section update and [tweet](https://x.com/harmonyprotocol/status/1761189892359663708?s=20).
+
+2024-02-22 Thu: [Icon research](https://www.canva.com/design/DAF8PZKlCAA/3XeYdApK_8B7XgV4E0_YUw/edit?utm_content=DAF8PZKlCAA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for ONE social map. Mock continuation + testing of new storylines update. Insights: It will be a useful tool for creating youtube shorts from longform content. 
+
+2024-02-21 Wed: [ONE Social Map Mocks](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/ONE(social)-map?type=design&node-id=0%3A1&mode=design&t=DJCdfWG3h5wTeARa-1) + [continuation of human protocol mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1). [Tweeted](https://x.com/harmonyprotocol/status/1760465663037231281?s=20) of ETH Denver Luma event
+
+2024-02-20 Tue: h.country mocks
+
+2024-02-19 Mon: mocks, luma background, favicon [commit](https://github.com/harmony-one/h.country/commit/56c61618c25c05a8932f684efa79a9c8cf2ded20).
+
+2024-02-18 Sun: h.country logo + syncing with engineers on readme text
+
+2024-02-17 Sat: ETH Denver x TGI tracking on this [notion doc](https://www.notion.so/harmonyone/ETH-Denver-2024-8aae927559f24581b5dfac4551c4c7e2).
 
 2024-02-16 Fri: H.country mocks, community section update, map mocks.
 
@@ -84,9 +114,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 -----
 
-2024-02-11 Sun: User testing storylines, syncing with Shamir on my feedback. Insights: Video quality worsens from youtube upload. Very time intensive to upload an hour long video. Working with Shamir to resolve.
+2024-02-11 Sun: User testing storylines, syncing with Shamir on my feedback. Insights: Video quality worsens from youtube upload. Very time intensive to upload an hour long video. Working with Shamir to resolve. (1 hr)
 
-2024-02-10 Sat: Sharing community update thread via X.
+2024-02-10 Sat: Sharing community update thread via X. Content planning for next week (1 hr)
 
 2024-02-09 Fri: Core Protocol Sync uploaded to Youtube and shared on X. Harmony community section update. /min cross post on Substack. Coordinating the conclusion of the inscription lottery, syncing with Galaxii team and sending funds to the winning hash. Continued iteration on human protocol mocks, pending feedback.
 
