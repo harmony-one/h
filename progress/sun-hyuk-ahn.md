@@ -20,9 +20,8 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 2023-03-25 Mon:
 
 ---
-2023-03-24 Sun:
 
-2023-03-23 Sat:
+2023-03-23 Sat (4h): Began working on the Polaris rollup with Yuriy.
 
 2023-03-22 Fri: Reviewed Polaris implementation on Cosmost SDK. Attended Nvidia GTC meetups.
 
@@ -36,9 +35,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2023-03-17 Sun: Discussed with Yuriy on possible progression with Op Stack. Began looking at the documents as well as the smart contracts required for deployment.
+2023-03-17 Sun (3h): Discussed with Yuriy on possible progression with Op Stack. Began looking at the documents as well as the smart contracts required for deployment.
 
-2023-03-16 Sat: Began looking at smart contract rollups via Op Stack as an alternative. One problem with Rollkit (Cosmos SDK) is that they do not yet have a connection with EVM chains, thus unable to utilize EVMs as data availability layer. 
+2023-03-16 Sat (4h): Began looking at smart contract rollups via Op Stack as an alternative. One problem with Rollkit (Cosmos SDK) is that they do not yet have a connection with EVM chains, thus unable to utilize EVMs as data availability layer. 
 
 2023-03-15 Fri: Continued studying Rollkit and Cosmos SDK. Launched rollups on Celestia, without shard 1 interaction. One concern is that there is no EVM chain used as the data availability layer. Also, it seem that Polaris is the only option for enabling EVM execution environment in Cosmos based chains / rollups. Looking into alternatives, possibly Op Stack.
 
@@ -101,9 +100,9 @@ Note that these are brief layout of the specification after the initial research
 
 ---
 
-2024-02-18 Sun: Worked on setting up shortcuts for quick testing.
+2024-02-18 Sun (2h): Worked on setting up shortcuts for quick testing.
 
-2024-02-17 Sat: Restructured the application to fit the restructured data format. Documented the new data structure.
+2024-02-17 Sat (5h): Restructured the application to fit the restructured data format. Documented the new data structure.
 
 2024-02-16 Fri: Implemented multiple tasks required for the application. Form data structure related to various "actions" within the application.
 
@@ -117,9 +116,9 @@ Note that these are brief layout of the specification after the initial research
 
 ---
 
-2024-02-11 Sun: Worked on the h.country merge. 
+2024-02-11 Sun (2h): Worked on the h.country merge. 
 
-2024-02-10 Sat: Implemented neo4js in order to find connections between users.
+2024-02-10 Sat (4h): Implemented neo4js in order to find connections between users.
 
 2024-02-09 Fri: Looked into graph database and sorting algorithms for connections. Decided move forward with and implement the graph method. 
 
@@ -133,9 +132,9 @@ Note that these are brief layout of the specification after the initial research
 
 ---
 
-2024-02-04 Sun: Researched into Cloudflare Pages and Workers. Created a simple interaction between pages and workers.
+2024-02-04 Sun (3h): Researched into Cloudflare Pages and Workers. Created a simple interaction between pages and workers.
 
-2024-02-03 Sat: Researched into ElastiCache Redis. Configured the initial settings for ElastiCache and implemented Typescript interaction with ElastiCache. (2 hours)
+2024-02-03 Sat (4h): Researched into ElastiCache Redis. Configured the initial settings for ElastiCache and implemented Typescript interaction with ElastiCache. (2 hours)
 
 2024-02-02 Fri: Implemented BTC CLI wallet. Discussed new initiative. Benchmarked Redis performance.
 
@@ -149,9 +148,9 @@ Note that these are brief layout of the specification after the initial research
 
 ---
 
-2024-01-28 Sun: Coordinated with community members to assit in setting up [Flip](https://github.com/harmony-one/flip). [Updated](https://github.com/harmony-one/s/tree/one-server) Flip code to simplify deployment process (containerization setup & configuration for indexers and db into a single server).
+2024-01-28 Sun (4h): Coordinated with community members to assit in setting up [Flip](https://github.com/harmony-one/flip). [Updated](https://github.com/harmony-one/s/tree/one-server) Flip code to simplify deployment process (containerization setup & configuration for indexers and db into a single server).
 
-2024-01-27 Sat: Continued working on the lottery.
+2024-01-27 Sat (2h): Continued working on the lottery.
 
 2024-01-26 Fri: Dotcountry inscription to work with Telegram inscriptions. Started preparing for next week's lottery.
 
@@ -164,9 +163,9 @@ Note that these are brief layout of the specification after the initial research
 2024-01-22 Mon: Updated set up so that a single indexer is deployed for each chain (previously, 2 indexers for each service). No need for overlapping indexers.
 
 ---
-2024-01-21 Sun: Refactor flip backend and frontend code for easier deployment. 
+2024-01-21 Sun (5h): Refactor flip backend and frontend code for easier deployment. 
 
-2024-01-20 Sat: Set up configuration for for fly.io.
+2024-01-20 Sat (4h): Set up configuration for for fly.io.
 
 2024-01-19 Fri: Generalize flip to deploy to chains using ChainConfig class.
 
