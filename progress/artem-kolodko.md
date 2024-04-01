@@ -4,6 +4,10 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-03-30 Sat: [continue](https://github.com/harmony-one/harmony-portfolio/commits/main/) working on implementing erc20 tokens swap in Harmony Portfolio. Researched Uniswap code in existed swap.harmony.one client, but got an error in Uniswap SDK lib when tried same approach locally in Portfolio client. Looking for solutions, debugging lib code.
+
+2024-03-29 Fri: researched and [implemented](https://github.com/harmony-one/harmony-portfolio/commit/bc977ec1ad0e6c24893c0d2e52f7d9047be3e0a4) swap quote in Harmony portfolio, deployed an update to [https://harmony-portfolio.netlify.app/swap](https://harmony-portfolio.netlify.app/swap)
+
 2024-03-28 Thu: researching swap mechanism implementation in [https://swap.harmony.one](https://swap.harmony.one), [started](https://github.com/harmony-one/harmony-portfolio/commit/26e1c8b85e8bbe39188d05ca7855e9d986fedde0) implementing ERC20 tokens swap in Harmony Portfolio.
 
 2024-03-27 Wed: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/10ff75b6c46b3c46d3473d5b3dbdd26882925e69) ERC20 token balance fetch in Swap page, fixed issue with SVG icons exported from Figma.
