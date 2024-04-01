@@ -1,14 +1,23 @@
-**2-week Deliverables**
-
-Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 
 ---
+2026-03-31 Sun: Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
+
+2026-03-30 Sat: Continued work on finding resumes for our next candidate pool.
+
+2026-03-29 Fri: Worked on collecting resumes through LinkedIn, Discord chats, and learnt how to use Lever. 
+
+2026-03-28 Thu: Researched more job matching platforms (Handshake, Indeed, ZipRecruiter, Ripplematch), W-2 hiring platforms (Adecco, Robert Half, Pasona, UpWork), ATS parsing platforms (Greenhouse), start-up based platforms (YCombinator, wellfound, Plug and Play). Looked into papers for LLM ("Learning to Retrieve for Job Matching", "Generative Job Reccomendations with LLM", etc).
+
+2026-03-27 Wed: Researched into various job matching platforms for our /AIMM such as Simplify, and Layoffs.fyi. Tested resume feedback with Claude Opus. Looked into salary data marketplace such as Blind, and Levels.fyi. 
 
 2024-03-26 Tue: Did some research on tokenized resumes as per /aimm. Working on testing the previously deployed smart contract (fork of RoyaltyPolicyLAP.sol) by looking into implementing IP assets also with Story Protocol to enable test transactions with ipid.
 
 2024-03-25 Mon: Toured 2 new office locations. Resolved RoyaltyPolicy deploy bug by manually uploading all files. Deployed smart contract to [shard 1](https://explorer.harmony.one/address/0x54ef56ee76d696d33b9ba469a3bb5235aff46370?activeTab=6
 ).
 
+**2-week Deliverables**
+
+Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
 ---
 2024-03-24 Sun: Debugging further continued, reflected upon my goals and milestones for Q1.
 
