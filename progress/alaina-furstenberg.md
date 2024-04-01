@@ -2,20 +2,34 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
 
-2024-03-25 Mon - 2024-03-29 Fri : Paid Time Off.
+2024-04-01 Mon: Q1 self review and team review. /progress updates
 
-2024-03-24 Sun:
+-----
 
-2024-03-23 Sat:
+2024-03-31 Sun: Reviewing harmony.one/aimm & writing out [user flow](https://www.notion.so/harmonyone/AIMM-e4b83ab00d4b4f0facd7aae3d694f4e1). Begininng q1 self review. (5 hours)
 
-2024-03-22 Fri:
+2024-03-30 Sat: (0 hours)
 
-2024-03-21 Thu:
+2024-03-27 Wed - 2024-03-29 Fri : Paid Time Off.
+
+2024-03-26 Tue:
+
+2024-03-25 Mon:
+
+-----
+
+2024-03-24 Sun: 
+
+2024-03-23 Sat: Further [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on the 'Buy' one page on Metamask portfolio. Opted for toggle slider to allow users to choose between a CEX and a DEX for purchasing ONE. (4 hours)
+
+2024-03-22 Fri: harmony.one community update. 
+
+2024-03-21 Thu: [Co-marketing with Galaxii team](https://x.com/harmonyprotocol/status/1770857496355172721?s=20). 
 
 2024-03-20 Wed: [Swap milestone announcement + animation](https://x.com/harmonyprotocol/status/1770620578069872670?s=20). [Clarification to community](https://x.com/harmonyprotocol/status/1770576478356517374?s=20) on fund allocation following HIP 30. Synced with Artem on latest mocks of Harmony Portfolio, seen [here](https://harmony-portfolio.netlify.app/). Minor cosmetic adjustments suggested. Iterated [swap frontend](https://harmony-portfolio.netlify.app/swap
 ) with Artem as well.
 
-2024-03-19 Tue: [HIP32 Pass Announcement](https://x.com/harmonyprotocol/status/1770140972741009548?s=20). Joskins co-marketing campaign + further Twitter engagement. Further [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on the 'Buy' one page on Metamask portfolio. Opted for toggle slider to allow users to choose between a CEX and a DEX for purchasing ONE. 
+2024-03-19 Tue: [HIP32 Pass Announcement](https://x.com/harmonyprotocol/status/1770140972741009548?s=20). Joskins co-marketing campaign + further Twitter engagement. Further [iterations](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) on the 'Swap' one page on Metamask portfolio. Opted for original interface with dark mode features.
 
 2024-03-18 Mon: Itereated on [Harmony Portfolio navigation](https://www.figma.com/file/zrgPKTyODVmVnD1XgNtkG2/Harmony-Portfolio?type=design&node-id=0%3A1&mode=design&t=EymrNTkvQNhI74RT-1) + designed the 'Swap' user flow and began iterating 'Buy'. Researching the simplest user flow to allow users to either buy from a CEX or from a DEX. Synced with Galaxii team on co-marketing opportunities.
 
@@ -68,19 +82,19 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 **Harmony.one Community Section Updates**: I will ensure the community section on the Harmony.one website is regularly updated with the latest information, including events, product updates, and educational materials.
 
 -----
-2024-03-03 Sun: ETH Denver (19 hours)
+2024-03-03 Sun: ETH Denver (16 hours)
 
-2024-03-02 Sat: ETH Denver (19 hours)
+2024-03-02 Sat: ETH Denver event + networking (19 hours)
 
-2024-03-01 Fri: ETH Denver
+2024-03-01 Fri: ETH Denver main event, syncing with Jackie on Another World. Meeting Opolis, Transak, Uniswap,sphere.... team.
 
 2024-02-29 Thu: Arrived at ETH Denver. Ventured into main event space. Networked with Co-founder of Abstract Money, Adair Kelley, learning about their smart contract framework aiming to simplify the development process. We discussed design and marketing angles for the crypto industry at large, noting how the intention to draw in new users or experienced users will change your design and marketing strategy. 
 
-2024-02-28 Wed:
+2024-02-28 Wed: ETH Denver event sign ups, h.country testing + demos. 
 
-2024-02-27 Tue:
+2024-02-27 Tue: Sync with Nagesh on bug fixes for human protocol. Mocking out ONE Map 
 
-2024-02-26 Mon:
+2024-02-26 Mon: Designing banner for luma harmony event via Midjourney. Promotion via [twitter](https://x.com/harmonyprotocol/status/1762310906187571284?s=20). 
 
 -----
 
@@ -94,13 +108,13 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-02-21 Wed: [ONE Social Map Mocks](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/ONE(social)-map?type=design&node-id=0%3A1&mode=design&t=DJCdfWG3h5wTeARa-1) + [continuation of human protocol mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1). [Tweeted](https://x.com/harmonyprotocol/status/1760465663037231281?s=20) of ETH Denver Luma event
 
-2024-02-20 Tue: h.country mocks
+2024-02-20 Tue: 4 h.country [mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/human-protocol%2C-mocks-%2B-icons?type=design&node-id=0%3A1&mode=design&t=AvvtSnz434gwRRkR-1),adjusting alignment, emojis, and nav bar contents.
 
 2024-02-19 Mon: mocks, luma background, favicon [commit](https://github.com/harmony-one/h.country/commit/56c61618c25c05a8932f684efa79a9c8cf2ded20).
 
-2024-02-18 Sun: h.country logo + syncing with engineers on readme text
+2024-02-18 Sun: h.country logo + syncing with engineers on readme text (3 hours)
 
-2024-02-17 Sat: ETH Denver x TGI tracking on this [notion doc](https://www.notion.so/harmonyone/ETH-Denver-2024-8aae927559f24581b5dfac4551c4c7e2).
+2024-02-17 Sat: ETH Denver x TGI tracking on this [notion doc](https://www.notion.so/harmonyone/ETH-Denver-2024-8aae927559f24581b5dfac4551c4c7e2). (1 hour)
 
 2024-02-16 Fri: H.country mocks, community section update, map mocks.
 
@@ -114,7 +128,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 -----
 
-2024-02-11 Sun: User testing storylines, syncing with Shamir on my feedback. Insights: Video quality worsens from youtube upload. Very time intensive to upload an hour long video. Working with Shamir to resolve. (1 hr)
+2024-02-11 Sun: User testing storylines, syncing with Shamir on my feedback. Insights: Video quality worsens from youtube upload. Very time intensive to upload an hour long video. Working with Shamir to resolve. (1.5 hr)
 
 2024-02-10 Sat: Sharing community update thread via X. Content planning for next week (1 hr)
 
@@ -129,9 +143,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 2024-02-05 Mon: Profile [mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/Untitled?type=design&node-id=0%3A1&mode=design&t=QjHU0RDjQGjV01IF-1), Swap milestone animation & [tweet](https://x.com/harmonyprotocol/status/1754659145985466489?s=20). Warpcast frame testing, chess + base quest. Syncing with Frank on correcting ONE Bot lottery submission, removing the 'not enough credits' notification. One bot demos for the community.
 
 ----
-2024-02-04 Sun: Runway video generations & motion brush tutorials, shown [here](https://www.notion.so/harmonyone/Runway-ml-0c81cf320d5947b6b21991b659871089) 
+2024-02-04 Sun: Runway video generations & motion brush tutorials, shown [here](https://www.notion.so/harmonyone/Runway-ml-0c81cf320d5947b6b21991b659871089) (2 hours)
 
-2024-02-03 Sat: Profile [mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/Untitled?type=design&node-id=0%3A1&mode=design&t=QjHU0RDjQGjV01IF-1), sharing community [tweet recap](https://x.com/harmonyprotocol/status/1753943382916022565?s=20)
+2024-02-03 Sat: Profile [mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/Untitled?type=design&node-id=0%3A1&mode=design&t=QjHU0RDjQGjV01IF-1), sharing community [tweet recap](https://x.com/harmonyprotocol/status/1753943382916022565?s=20) (3 hours)
 
 2024-02-02 Fri: Inscription lottery winners coordination and [announcement](https://x.com/harmonyprotocol/status/1753505945186181153?s=20). Harmony.one community update. [Mocks](https://www.figma.com/file/44F0yN7vEUf6t3xgqi5Gnf/Untitled?type=design&node-id=0%3A1&mode=design&t=QjHU0RDjQGjV01IF-1) for profiles. Sticker design + orders
 
@@ -145,11 +159,11 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ----
 
-2024-01-28 Sun: Ecosytem highlights [thread.](https://x.com/harmonyprotocol/status/1751808396528115713?s=20)
+2024-01-28 Sun: Ecosytem highlights [thread.](https://x.com/harmonyprotocol/status/1751808396528115713?s=20) (1.5 hours)
 
-2024-01-27 Sat: Review of Ecosystem mastersheet.
+2024-01-27 Sat: Review of Ecosystem mastersheet. ETH event reservations. (3 hour)
 
-2024-01-26 Fri: Harmony.one update. [Tweet](https://x.com/harmonyprotocol/status/1751047232508612642?s=20) sharing community highlights. ETH event reservations. Coordination of Senior Engineer interview. /vision voice testing with Theo P. Updated thumbnails of Core Protocol syncs on Youtube channel to improve our click rate and visual appeal.
+2024-01-26 Fri: Harmony.one update. [Tweet](https://x.com/harmonyprotocol/status/1751047232508612642?s=20) sharing community highlights. Coordination of Senior Engineer interview. /vision voice testing with Theo P. Updated thumbnails of Core Protocol syncs on Youtube channel to improve our click rate and visual appeal.
 
 2024-01-25 Thu: Inscription lottery winner announcement graphic + [tweet](https://x.com/harmonyprotocol/status/1750634728942915948?s=20). [Core Protocol Sync](https://youtu.be/8bjPB8zwz1w?si=L4tSeFhK3fqpQZsG) thumbnail + upload. Booked all ETH Denver plans, signed up team for 3 side events. Called Frank and demoed ONE Bot voice, YT short and tweet demo to be shared tomorrow.
 
@@ -161,9 +175,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ---
 
-2024-01-21 Sun: Created /vision demo uploaded to [YT Short](https://youtube.com/shorts/n0kSH9n7KPk?si=hAQjjT-7jJkarP7R) & shared via [Twitter](https://x.com/harmonyprotocol/status/1749306162795991109?s=20)
+2024-01-21 Sun: Created /vision demo uploaded to [YT Short](https://youtube.com/shorts/n0kSH9n7KPk?si=hAQjjT-7jJkarP7R) & shared via [Twitter](https://x.com/harmonyprotocol/status/1749306162795991109?s=20)  (2 hours)
 
-2024-01-20 Sat: Filming of ONE Bot demos. Shared with ONE Bot love.
+2024-01-20 Sat: Filming of ONE Bot demos. Shared with ONE Bot love. (3 hours)
 
 2024-01-19 Fri: Video editing, thumbnail generation, uploaded to Youtube. tested Zi's Timeless X chrome extension. Updated harmony.one with community tweets & shared /progress thread via X.
 
@@ -171,21 +185,37 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-01-17 Wed: /Vision testing + launch plan. Designed graphics for substack + twitter. Wrote [thread](https://www.notion.so/harmonyone/Substack-Thread-49562e16f98945928154ca0aa690221d?pvs=4) for blog post.
 
-2024-01-11 Thu - 2024-01-16 Tue: Paid time off
+2024-01-16 Tue: Paid Time Off.
 
-2024-01-10 Wed: Created /dalle [short](https://youtube.com/shorts/9IyWf7AesNc?si=1NzGBDRxJO3wSV6z) for community generations & shared to [Twitter](https://x.com/harmonyprotocol/status/1745198293817458951?s=20). Paused b.country figma designs. [Midjourney ONE BTC generations](https://www.notion.so/harmonyone/AI-23f393640e964816b29e70382c574e7d). Operations work.
+2024-01-15 Mon: MLK Holiday.
 
-2024-01-09 Tue: Filmed/edited uploaded a [/dalle demo](https://youtube.com/shorts/L6_gYg2YJdA?si=awuKxY9PYDNelQ-e) and [2024 Roadmap video](https://youtu.be/KklRiqp5kfs?si=vHjQG229O_9LqDV_) to Youtube. Shared /dalle launch via [Twitter](https://x.com/harmonyprotocol/status/1744797662568968278?s=20) and TGI groups. Synced with Guarda on a crossover [tweet](https://x.com/harmonyprotocol/status/1744802063731818715?s=20). Began designing b.country with template with Theo P in HTML & tested Chainflip.
+------
 
-2024-01-08 Mon: [Filmed/Edited Uploaded ONE Bot Demo](https://youtube.com/shorts/O749YfUizEE?si=nJdmGBs2XjTJcrq7). Tweets replies about [HER Space](https://x.com/harmonyprotocol/status/1744458569398030444?s=20) & [Fortune Validator](https://x.com/harmonyprotocol/status/1744430891819221492?s=20). Tested Dalle3 integration on 0bot, ready to launch tmrw. Synced with engineers to correct /images on 1bot. Planned social media content for 2 weeks out with [a calendar](https://www.notion.so/harmonyone/Social-Media-Planner-c3da68c04cae482496f03b9a0c9c1378). Synced with Theo P on Q1 marketing expectations/tasks.
+2024-01-14 Sun: Paused b.country figma designs, now reserving b.country for Bitcoin/ordinals. Synced with Frank on /vision launch, testing on 0bot (2 hours)
+
+2024-01-13 Sat: Tested Chainflip. Insights: clear, focused interface that streamlines the swapping process. Far more minimal than other swapping platforms. Intuitive for crypto beginners. (1 hr)
+
+2024-01-12 Fri: Paid time off.
+
+2024-01-11 Thu: Reviewing [Substack post](https://blog.harmony.one/p/harmony-2024-one-finality) and sharing via twitter. Began designing b.country with template with Theo P in HTML, focusing on just one landing screen that links to the user guide and a live demo of ONE Bot. Most important information is ONE Bots functionality, pay-per-use model, 
+
+2024-01-10 Wed: Created /dalle [short](https://youtube.com/shorts/9IyWf7AesNc?si=1NzGBDRxJO3wSV6z) for community generations & shared to [Twitter](https://x.com/harmonyprotocol/status/1745198293817458951?s=20). [Midjourney ONE BTC generations](https://www.notion.so/harmonyone/AI-23f393640e964816b29e70382c574e7d). Operations work.
+
+2024-01-09 Tue: Filmed/edited uploaded a [/dalle demo](https://youtube.com/shorts/L6_gYg2YJdA?si=awuKxY9PYDNelQ-e) and [2024 Roadmap video](https://youtu.be/KklRiqp5kfs?si=vHjQG229O_9LqDV_) to Youtube. Shared /dalle launch via [Twitter](https://x.com/harmonyprotocol/status/1744797662568968278?s=20) and TGI groups. Synced with Guarda on a crossover [tweet](https://x.com/harmonyprotocol/status/1744802063731818715?s=20). 
+
+2024-01-08 Mon: [Filmed/Edited Uploaded ONE Bot Demo](https://youtube.com/shorts/O749YfUizEE?si=nJdmGBs2XjTJcrq7). Tweets replies about [HER Space](https://x.com/harmonyprotocol/status/1744458569398030444?s=20) & [Fortune Validator](https://x.com/harmonyprotocol/status/1744430891819221492?s=20). Tested Dalle3 integration on 0bot, ready to launch tmrw. Synced with engineers to correct /images on 1bot. 
 
 -----
 
-2024-01-07 Sun: Galaxii promotion tweet. Operations work.
+2024-01-07 Sun: [Galaxii promotion tweet.](https://x.com/harmonyprotocol/status/1744249122633429290?s=20) Operations work. (1 hour)
 
-2024-01-04 Thu - 2024-01-06 Sat: Paid time off.
+2024-01-06 Sat: Planned social media content for 2 weeks out with [a calendar](https://www.notion.so/harmonyone/Social-Media-Planner-c3da68c04cae482496f03b9a0c9c1378). Synced with Theo P on Q1 marketing expectations/tasks. (2 hours)
 
-2024-01-03 Wed: Selected harmony one tweets in preparation for day off. Continued [Lend Logo iteration](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/Lend-Icons?type=design&node-id=0%3A1&mode=design&t=pMV3GRktXDhnLmXT-1) within Midjourney. Synced with Frank on launch of /dalle on ONE Bot. Stablecoin [thread](https://x.com/harmonyprotocol/status/1742797462325354807?s=20).
+2024-01-05 Fri: Harmony.one community section update. /dalle testing on 0bot, updating copy and removing animations during the loading screen. Reached out to community members for feedback on ONE Bot. Insights: Pay per use was frustrating when users weren't pleased with image results... users were more likely to not use /image because results werent consistent enough. From my testing, I believe the /dalle quality is a commendable improvement. 
+
+2024-01-04 Thu: Added Lend to harmony.one. Midjourney and Photoshop AI to design 'Harmonaut' social media assets. Tested Runway ML with 'harmonaut prompts' for video generation. Insights: For minor movements such as wind/water movement, Runway is great for video editing. Large movements and expressions are not yet feasible. 
+
+2024-01-03 Wed: Continued [Lend Logo iteration](https://www.figma.com/file/IFSuckaDc7LyTxbrYUtlBN/Lend-Icons?type=design&node-id=0%3A1&mode=design&t=pMV3GRktXDhnLmXT-1) within Midjourney. Synced with Frank on launch of /dalle on ONE Bot. Stablecoin [thread](https://x.com/harmonyprotocol/status/1742797462325354807?s=20).
 
 2024-01-02 Tue: Midjourney to design new years harmonaut image. Tweeted [2024 roadmap thread](https://x.com/harmonyprotocol/status/1742318315757068541?s=20) with the artwork. Began ideating lend marketing materials, AI graphics + Gifs, synced with Theo P about dev timeline for lend launch.
 
