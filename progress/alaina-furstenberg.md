@@ -12,9 +12,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-03-27 Wed - 2024-03-29 Fri : Paid Time Off.
 
-2024-03-26 Tue:
+2024-03-26 Tue: AIMM Mocks + update of Harmony.one. 
 
-2024-03-25 Mon:
+2024-03-25 Mon: AIMM Mocks + Moving excel sheet. 
 
 -----
 
