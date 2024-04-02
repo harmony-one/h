@@ -1,10 +1,10 @@
-2024 Q1 Review (124 weekend hours):
+**2024 Q1 Review (124 hours)**
 
 I completed the partnership with QiDao and aided them in transitioning to Band Protocol from Chainlink, integrating a stable coin (MAI) into our ecosystem, a key enhancement to our financial infrastructure. Also helped product development for Metamask portfolio  and initiated the groundwork for cross-chain portfolio management to facilitate trading, lending, and investing across various blockchains.
 
 I worked on developing ONE Map Social by orchestrating product development, focusing on integrating location-based services and user-generated content to enhance social interaction within the app. I managed to secure app store approval within one week of app initiation.
 
-**2-Week Deliverables:**
+**2-Week Deliverables by 2024-03-31:**
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
 
