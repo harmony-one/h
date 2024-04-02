@@ -4,7 +4,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ----
 
-**2024 Q1 Review (83.5 weekend hours):**
+**2024 Q1 Review (83.5 hours)**
 
 In Q1 I significantly increased our Twitter presence and community engagement:
 
