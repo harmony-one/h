@@ -8,8 +8,7 @@ I prototyped a social media platform called Remote Emitter using Firestore for m
 
 I worked on the Onescriptions ONES launch, gathering statistics, testing inscriptions on Avalanche, and developing minimal on-chain security proof-of-concepts and a BTC-ONE flip prototype. I focused on data analysis, model training, and resume collection for the PmF project, implementing wallet lookup features using 4 digit codes, emojis, and error codes. I automated parsing of comments from "Who wants to be hired?" posts on Hacker News, manually collected 500 resumes for GPT analysis, and researched additional resume sources to expand the dataset.
 
-2-Week Deliverables:
-Decide on dataset and product plan for AI data gathering. 
+---
 
 2024-03-31 Sun: [3 hours] Compared first 100 Lever resumes for System Engineer with hard requirements. 
 
