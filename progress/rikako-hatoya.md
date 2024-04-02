@@ -1,10 +1,11 @@
-Q1 Review:
+**2024 Q1 Review (97 weekend hours):**
 
 In Q1, I researched over 100 Harmony network community projects, focusing on soulbound/inscription tokens and swapping mechanisms. I developed the OTP connection page for our social geo game website and created a Telegram bot for processing Harmony network transactions. Additionally, I led the development of Harmony's mobile applications using Gnosis Safe through forking and configuration.
 
 Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
 ---
+
 2026-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
 
 2026-03-30 Sat (2 hours): Continued work on finding resumes for our next candidate pool.
@@ -23,7 +24,9 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 **2-week Deliverables**
 
 Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a demo to show how AI model training (specifically for maps or voice data) can be done using these on-chain royalties.
+
 ---
+
 2024-03-24 Sun (1 hour): Debugging further continued, reflected upon my goals and milestones for Q1.
 
 2024-03-23 Sat (2 hours): Followed through a tutorial on hardhat to debug/resolve flattening issues.
@@ -54,10 +57,9 @@ Implement on-chain royalties to harmony's shard 1 using Story protocol. Create a
 
 2024-03-08 Fri: Continued market research on crypto companies doing data collection (gensyn.ai, semiotic labs, etc).
 
-2024-03-03 Sun (14 hours): ETH Denver
-2024-03-02 Sat (19 hours): ETH Denver
+---
 
-ETH Denver summary and future goals:
+**ETH Denver summary and future goals:**
 
 At ETH Denver, my engagement with companies at the forefront of integrating cryptocurrency with physical devices illuminated the vast potential and innovation within the blockchain domain, particularly in blending digital and tangible technologies. The event served as a platform to explore the extensive applicability of blockchain beyond digital realms, notably through my interaction with Lendr's CEO, Nathaji, and their unique business model. Lendr exemplifies the innovative use of crypto rewards by lending devices for public Wi-Fi hotspots and compensating hosting venues, showcasing the diverse ways cryptocurrency can add value across various sectors.
 
@@ -71,7 +73,12 @@ For h.country, my objective is to advance the platform's integration and usabili
 
 In my pursuit of market research, I am dedicated to uncovering and exploring new crypto products, aiming to stay at the forefront of blockchain innovation. This exploration is not limited to theoretical research; I plan to actively participate in more events, engaging with the blockchain community to gather insights and trends firsthand. A particular focus will be on keeping abreast of emerging trends such as farcaster (and AGI), which represents the cutting edge of blockchain and crypto developments. By doing so, I aim to attract more users to our ecosystem, leveraging these insights to inform strategic decisions and enhance our offerings. This commitment to market research and community engagement is pivotal to our strategy of continuous innovation and growth.
 
-2024-02-29 Thu ~ 2024-03-03 Sun: ETH Denver
+2024-03-03 Sun (14 hours): ETH Denver
+2024-03-02 Sat (19 hours): ETH Denver
+2024-03-01 Fri: ETH Denver
+2024-02-29 Thu: ETH Denver
+
+---
 
 2024-02-25 Sun (3.5 hours):
 Worked on setting up Telegram oAuth (father bot) and integrating to Auth0.
