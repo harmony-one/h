@@ -6,7 +6,7 @@ I worked on developing ONE Map Social by orchestrating product development, focu
 
 2024-04-02 Tue: 
 
-2024-04-01 Mon: Organized research regarding tokenomics and copmetitor analysis for partie [here](https://www.notion.so/harmonyone/Partie-Private-ebb11b4b802b4b1b9f433a56e308f079). Began research for liquity and various stable coins [here](https://www.notion.so/harmonyone/Stable-Coins-156ab21cf2fa46cc915c3eee1f5ac3a3). 
+2024-04-01 Mon: Organized research regarding tokenomics and competitor analysis for Partie [here](https://www.notion.so/harmonyone/Partie-Private-ebb11b4b802b4b1b9f433a56e308f079). Began research for liquity and various stable coins [here](https://www.notion.so/harmonyone/Stable-Coins-156ab21cf2fa46cc915c3eee1f5ac3a3). 
 
 **2-Week Deliverables by 2024-03-31:**
 
