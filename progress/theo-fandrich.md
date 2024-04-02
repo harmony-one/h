@@ -4,6 +4,10 @@ I completed the partnership with QiDao and aided them in transitioning to Band P
 
 I worked on developing ONE Map Social by orchestrating product development, focusing on integrating location-based services and user-generated content to enhance social interaction within the app. I managed to secure app store approval within one week of app initiation.
 
+2024-04-02 Tue: 
+
+2024-04-01 Mon: Organized research regarding tokenomics and copmetitor analysis for partie [here](https://www.notion.so/harmonyone/Partie-Private-ebb11b4b802b4b1b9f433a56e308f079). Began research for liquity and various stable coins [here](https://www.notion.so/harmonyone/Stable-Coins-156ab21cf2fa46cc915c3eee1f5ac3a3). 
+
 **2-Week Deliverables by 2024-03-31:**
 
 Launch Metamask portfolio style platform on Harmony for Bridge, Swap, Buy, and Lend. Increase wBTC bridge tvl by $50k as we usher in bitcoin adoption.
