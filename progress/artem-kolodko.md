@@ -10,6 +10,12 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-04-02 Tue: [created](https://github.com/harmony-one/ONE-Resume-AI/pull/1/commits/06988b235341d36b2dab2f4db58254a198a6b6aa) separate App root component for OneResumeAI web build, working on splitting internal code into section to exclude iOS-only react native modules from web build.
+
+2024-04-01 Mon: researched solution for integration of harmony1bot chat with OneResumeAI with Nagesh; continue working on web version of OneResumeAI.
+
+---
+
 2024-03-30 Sat: [continue](https://github.com/harmony-one/harmony-portfolio/commits/main/) working on implementing erc20 tokens swap in Harmony Portfolio. Researched Uniswap code in existed swap.harmony.one client, but got an error in Uniswap SDK lib when tried same approach locally in Portfolio client. Looking for solutions, debugging lib code.
 
 2024-03-29 Fri: researched and [implemented](https://github.com/harmony-one/harmony-portfolio/commit/bc977ec1ad0e6c24893c0d2e52f7d9047be3e0a4) swap quote in Harmony portfolio, deployed an update to [https://harmony-portfolio.netlify.app/swap](https://harmony-portfolio.netlify.app/swap)
