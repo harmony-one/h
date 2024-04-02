@@ -1,4 +1,4 @@
-Q1 Review:
+2024 Q1 Review (14 weekend hours):
 
 During the Q1, I contributed to the development team of the VoiceAI app, focusing on UI elements and writing tests. Developed an inscriptions indexer backend utilized in an inscriptions lottery. Maintained harmony1bot.
 
