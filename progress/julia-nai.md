@@ -1,4 +1,4 @@
-Q1 Review:
+2024 Q1 Review (92 weekend hours):
 
 I prototyped a social media platform called Remote Emitter using Firestore for message storage, adding features like username-based posting, timestamping, location stamping, user-specific pages, and hashtag support. I optimized storage and indexing for sub-100ms updates, integrated with Cloudflare for automated deployment, and utilized Neo4j to calculate nth-degree user connections with sub-400ms latency up to 6 degrees. For the h.country project, I migrated relevant Remote Emitter features, implemented link handling, defined action specifications, and created a prod deployment process, while also researching AI models trained on unlabeled voice data.
 
