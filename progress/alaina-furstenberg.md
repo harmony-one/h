@@ -2,7 +2,8 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
 
------
+----
+
 **2024 Q1 Review (83.5 weekend hours):
 **
 In Q1 I significantly increased our Twitter presence and community engagement:
