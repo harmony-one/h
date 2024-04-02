@@ -10,6 +10,7 @@ I developed the ONE (Voice) Map app, introducing features like a current locatio
 Over the next two weeks, the focus will be on implementing hot reload for ONE (Voice) Map, enhancing its UI design, optimizing app performance, and fixing the swipe functionality bug, especially with larger text volumes. Aim to improve user experience in the Voice AI app following the Whisper integration and app submissions to TestFlight.
 
 --- 
+2024-04-01 Tue: Implemented a basic user interface for the chat system and integrated the Telegram bot API. The work is currently in progress and ongoing. Worked on team review. 
 
 2024-04-01 Mon: Investigating the chat functionality in ONE Resume: AI and discussed it with Artem. Also, we talked about the Web app, proposing conditional coding for both the app and web app to support library usage effectively.
 
