@@ -1,4 +1,4 @@
-Q1 Review:
+"2024 Q1 Review (8 weekend hours):"
 
 I developed the Inscriptions indexer backend and the OneScriptions hrc20 frontend. Additionally, I created the Inscriptions lottery main page and implemented the lottery backend and stats API. For the Human Protocol project, I focused on Firebase design and interaction, frontend features, locations features, and performance optimizations such as caches and infinity scroll.
 
