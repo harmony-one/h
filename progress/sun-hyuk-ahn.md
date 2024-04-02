@@ -1,4 +1,4 @@
-2024 Q1 Review (62 weekend hours):
+**2024 Q1 Review (62 weekend hours):**
 
 I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
 
