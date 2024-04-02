@@ -1,4 +1,4 @@
-**2024 Q1 Review (97 weekend hours):**
+**2024 Q1 Review (97 hours)**
 
 In Q1, I researched over 100 Harmony network community projects, focusing on soulbound/inscription tokens and swapping mechanisms. I developed the OTP connection page for our social geo game website and created a Telegram bot for processing Harmony network transactions. Additionally, I led the development of Harmony's mobile applications using Gnosis Safe through forking and configuration.
 
