@@ -1,10 +1,11 @@
-**2024 Q1 Review (12 weekend hours):**
+**2024 Q1 Review (12 hours)**
+
 I added Harmony1Bot features: OpenAI's DALL-E 3, Vision command, and various models from Claude and Vertex. I implemented code snippets support, an Inscription lottery, voice command functionality, and fixed payment logic while upgrading the bot's performance and stream completion. Additionally, I made notable contributions to Harmony-llm-api by adding endpoints for Whisper, Anthropic, PDF inquiry, and Gemini, along with implementing streaming logic.
 
 I contributed to the 1.country project by adding Inscription image rendering for Telegram's Image subscriptions. For the Social Map project, I implemented Whisper logic, added a markers endpoint, refactored the codebase with TypeScript, and improved the app's styling and state management. Lastly, I made enhancements to the Human Protocol project (h.country) by optimizing the Welcome and UserPage route components and improving the app's overall logic.
 
 
-**2-week deliverables:**
+**2-Week Deliverables by 2024-03-31:**
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
 2024-04-01 Mon: Added conversation per model discrimination on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/360) (deployed to harmony1bot). Now, you can have one conversation per model. Also added the /o command to work with the opus model. Finally, worked on team reviews.  
