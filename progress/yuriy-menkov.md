@@ -1,10 +1,10 @@
-"2024 Q1 Review (8 weekend hours):"
+**2024 Q1 Review (8 hours)**
 
 I developed the Inscriptions indexer backend and the OneScriptions hrc20 frontend. Additionally, I created the Inscriptions lottery main page and implemented the lottery backend and stats API. For the Human Protocol project, I focused on Firebase design and interaction, frontend features, locations features, and performance optimizations such as caches and infinity scroll.
 
 I conducted an architecture study for a sovereign rollup on our Shard 1. Furthermore, I deployed and integrated an OP Stack Rollup with Harmony Shard 1, which is currently in progress.
 
-**2-Week Deliverables:**
+**2-Week Deliverables by 2024-03-31:**
 
 Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics for shard 1 as a data availability competitor to Near and Celestia (see Near's graphic)
 
