@@ -6,6 +6,7 @@ I contributed to the 1.country project by adding Inscription image rendering for
 
 
 **2-Week Deliverables by 2024-03-31:**
+
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
 2024-04-01 Mon: Added conversation per model discrimination on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/360) (deployed to harmony1bot). Now, you can have one conversation per model. Also added the /o command to work with the opus model. Finally, worked on team reviews.  
