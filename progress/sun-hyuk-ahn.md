@@ -1,4 +1,4 @@
-Q1 Review:
+2024 Q1 Review (62 weekend hours):
 
 I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
 
@@ -10,14 +10,15 @@ Prototyped human protocol using various tools and frameworks, and eventually imp
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
+2023-03-29 Fri: Figuring out the synchronization problem with Shard 1 nodes. Handed off the task to Yuriy.
 
-2023-03-28 Thu:
+2023-03-28 Thu: Began deploying node for OP Stack. Running into trouble with Shard 1 interaction.
 
-2023-03-27 Wed:
+2023-03-27 Wed: Began drafting the rought draft for the article to be released next Friday. Will include the research, implementations so far (Polaris and OP Stack), as well as ongoing implementations.
 
-2023-03-26 Tue:
+2023-03-26 Tue: Read the Celestia Whitepaper on Fraud and Data Availability Proofs.
 
-2023-03-25 Mon:
+2023-03-25 Mon: Meeting with Stephen regarding sovereign rollups and explored different possibilities. Continued Polaris implementation. Looked into the wrapper implementation.
 
 ---
 
