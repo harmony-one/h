@@ -10,7 +10,7 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
-2024-04-02 Tue: [created](https://github.com/harmony-one/ONE-Resume-AI/pull/1/commits/06988b235341d36b2dab2f4db58254a198a6b6aa) separate App root component for OneResumeAI web build, working on splitting internal code into section to exclude iOS-only react native modules from web build.
+2024-04-02 Tue: [created](https://github.com/harmony-one/ONE-Resume-AI/pull/1/commits/06988b235341d36b2dab2f4db58254a198a6b6aa) separate App root component for OneResumeAI web build, working on splitting internal code into separate pieces to exclude iOS-only React Native modules from web build.
 
 2024-04-01 Mon: researched solution for integration of harmony1bot chat with OneResumeAI with Nagesh; continue working on web version of OneResumeAI.
 
