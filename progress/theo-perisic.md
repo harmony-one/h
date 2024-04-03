@@ -1,3 +1,21 @@
+2024-04-02 Tue: Review of on-chain AI products from @CryptoKoryo report. Story Protocol thread. Notified protofire for adding market data on frontend.
+
+2024-04-01 Mon: Made contact with MoonPay representative, awaiting feedback on their end. Full team review management and weekend hour tracking. Sync with Artem, Yuriy, Theo F, and Sun on OP Stack and Portfolio progress. OP Stack based rollup release on Shard 1 and article scheduled for Friday.
+
+---
+
+2024-03-31 Sun: Reached out to MoonPay for possible listing. [1hr]
+
+2024-03-30 Sat: Worked on tokenomics for Partie [1hr]
+
+2024-03-29 Fri: Gathering and formatting individual performance in one place. Harmony account tweet and replies. Drafted [community campaign](https://harmonyone.notion.site/Harmony-x-AnotherWorld-gg-2d33bd483f3b4170ae57ea85b5d2be35?pvs=4) with AnotherWorld.
+
+2024-03-28 Thu: Meeting with Partie. Collecting in office and remote Q1 updates.
+
+2024-03-27 Wed: Meetings with team for Q1 review. Covered main X account posts. Continued open source AI summit resource collection.
+
+2024-03-26 Tue: Sync with Artem, Frank, and Yuriy for q1 reviews. Coordination with Mathew Barrett for Standard Protocol and Althlete protocol. Doc review of DIA oracle solution.
+
 2024-03-25 Mon: Meeting with Stephen to realign prioritize on Story Protocol and Portfolio. Started reviewing progress for q1 review. Built and tested resume analyzer using claude 3 api against Julia's resume. Conistent in scoring, short paragraph description, and 3 suggestions based on job description.
 
 2024-03-24 Sun: Research on predictions market for salary. Insight: Thales has a simple UX but only supports up/down market. Overtime markets supports only sports betting, but their support for games is extensive. Polymarket covers the widest options with popular categories including elections, box office, sports, ETF approvals, etc. no markets for salary on any platform. [2hr]
