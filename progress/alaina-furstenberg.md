@@ -41,6 +41,8 @@ I took initiative to manage projects alone:
 - Improved my video editing skills to improve our product demos
 ----- 
 
+2024-04-03 Wed: Promotion of Community space via twitter + community engagement. [AI Match Making mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=nz1ap4IEdiRfZk7A-1)
+
 2024-04-02 Tue: [Thread](https://x.com/harmonyprotocol/status/1775293340512374947?s=20) on Story Protocol. Lever job postings and thread of AIMM.
 
 2024-04-01 Mon: Q1 self review and team review. /progress updates
