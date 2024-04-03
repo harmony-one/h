@@ -1,3 +1,15 @@
+2024-03-28 Fri: Created a PR with the db state bug fix which requires a HF but we can send that with the leader rotation release and that will fix the buggy validator and the unpending delegations issue. Also, together with ulad activated the leader rotation and the externalization of testnet which worked for shard 0 but brought down shard 1, working with the team to bring it back up. The issue is a result of no comitee selected before the externalization HF. 
+
+---
+2024-03-21 Fri: Finally I could find the buggy validator and the unpending delegations issue. The issue was not with the code but with the state db an edge case form hip 30 where the min max rate would fail one of the checks for specific validators, preventing it to update it's state with things like releasing delegations for example. 
+
+---
+2024-03-14 Fri: Continued with the buggy validator issue and the pending undelegations tried a few things on localnet but can't reproduce the issue, contacted max with a few questions about the code but still investigating. Created the HF code to fully externalize tesnet.
+
+---
+2024-03-07 Fri: Started investigating the issue with the buggy validator, helped ulad to start working on the leader rotation for testnet.
+
+---
 2024-03-01 Fri: Spent most of the week looking at the code to try to replicate the issue with the blocked pending delegations, I've developed a couple of theories but nothing conclusive yet. I'll keep looking at it during the weekend as this is an issue of major importance. 
 
 ---
