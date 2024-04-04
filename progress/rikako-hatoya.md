@@ -5,16 +5,21 @@ In Q1, I researched over 100 Harmony network community projects, focusing on sou
 Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
 ---
+2024-04-03 Wed: Continued resume search by testing existing database and testing job aggregator sites such as ZipRecruiter, PostJobFree, Monster, Indeed, Dice, Discord channels, etc. 
 
-2026-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
+2024-04-02 Tue: Tested various ATS resume checkers + LinkedIn profile scoreres (Enhancv, ResumeWorded, Jobalytics, etc.)
 
-2026-03-30 Sat (2 hours): Continued work on finding resumes for our next candidate pool.
+2024-04-01 Mon: More resume search on LinkedIn. Got in touch with Jackie to later set DNS for 9.country.
 
-2026-03-29 Fri: Worked on collecting resumes through LinkedIn, Discord chats, and learnt how to use Lever. 
+2024-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
 
-2026-03-28 Thu: Researched more job matching platforms (Handshake, Indeed, ZipRecruiter, Ripplematch), W-2 hiring platforms (Adecco, Robert Half, Pasona, UpWork), ATS parsing platforms (Greenhouse), start-up based platforms (YCombinator, wellfound, Plug and Play). Looked into papers for LLM ("Learning to Retrieve for Job Matching", "Generative Job Reccomendations with LLM", etc).
+2024-03-30 Sat (2 hours): Continued work on finding resumes for our next candidate pool.
 
-2026-03-27 Wed: Researched into various job matching platforms for our /AIMM such as Simplify, and Layoffs.fyi. Tested resume feedback with Claude Opus. Looked into salary data marketplace such as Blind, and Levels.fyi. 
+2024-03-29 Fri: Worked on collecting resumes through LinkedIn, Discord chats, and learnt how to use Lever. 
+
+2024-03-28 Thu: Researched more job matching platforms (Handshake, Indeed, ZipRecruiter, Ripplematch), W-2 hiring platforms (Adecco, Robert Half, Pasona, UpWork), ATS parsing platforms (Greenhouse), start-up based platforms (YCombinator, wellfound, Plug and Play). Looked into papers for LLM ("Learning to Retrieve for Job Matching", "Generative Job Reccomendations with LLM", etc).
+
+2024-03-27 Wed: Researched into various job matching platforms for our /AIMM such as Simplify, and Layoffs.fyi. Tested resume feedback with Claude Opus. Looked into salary data marketplace such as Blind, and Levels.fyi. 
 
 2024-03-26 Tue: Did some research on tokenized resumes as per /aimm. Working on testing the previously deployed smart contract (fork of RoyaltyPolicyLAP.sol) by looking into implementing IP assets also with Story Protocol to enable test transactions with ipid.
 
