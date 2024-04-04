@@ -4,7 +4,11 @@ I completed the partnership with QiDao and aided them in transitioning to Band P
 
 I worked on developing ONE Map Social by orchestrating product development, focusing on integrating location-based services and user-generated content to enhance social interaction within the app. I managed to secure app store approval within one week of app initiation.
 
-2024-04-02 Tue: 
+2024-04-04 Thu: Looking into Goldfinch and organized thoughts and research [here](https://www.notion.so/harmonyone/Defi-5d86b4e7976d42b484d13706a4f69f22). Goldfinch does not have a forkeable codebase and requires deep regulatory compliance which I don't precludes any partnership with them.
+
+2024-04-03 Wed: Qidao is limited by Band's protocol design because it is not a push oracle with a different address per oracle. Looking to integration with DIA. Also updated research on stable coins [here](https://www.notion.so/harmonyone/Stable-Coins-156ab21cf2fa46cc915c3eee1f5ac3a3).
+
+2024-04-02 Tue: Worked on 
 
 2024-04-01 Mon: Organized research regarding tokenomics and competitor analysis for Partie [here](https://www.notion.so/harmonyone/Partie-Private-ebb11b4b802b4b1b9f433a56e308f079). Began research for liquity and various stable coins [here](https://www.notion.so/harmonyone/Stable-Coins-156ab21cf2fa46cc915c3eee1f5ac3a3). 
 
