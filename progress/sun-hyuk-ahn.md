@@ -10,11 +10,18 @@ Prototyped human protocol using various tools and frameworks, and eventually imp
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
+2023-04-03 Wed: Realized the problem with contract deployments. HArmony is EIP-155 protected, requiring chainId to be part of transactions, whereas the OP stack contracts are not. Figuring out alternative solution to bypass this.
+
+2023-04-02 Tue: Continued writing the article. Focused on the Celestia core concepts as well as sovereign vs smart contract rollup explanation. Continued to work on the contract debugging process. Implemented scripts to determine throughput and block sizes for Shard 1.
+
+2023-04-01 Mon: Working on OP Stack deployment, especially the core L1 contract. Trying to debug deployment failure for few contracts.
+
+---
 2023-03-29 Fri: Figuring out the synchronization problem with Shard 1 nodes. Handed off the task to Yuriy.
 
 2023-03-28 Thu: Began deploying node for OP Stack. Running into trouble with Shard 1 interaction.
 
-2023-03-27 Wed: Began drafting the rought draft for the article to be released next Friday. Will include the research, implementations so far (Polaris and OP Stack), as well as ongoing implementations.
+2023-03-27 Wed: Began drafting the rough draft for the article to be released next Friday. Will include the research, implementations so far (Polaris and OP Stack), as well as ongoing implementations.
 
 2023-03-26 Tue: Read the Celestia Whitepaper on Fraud and Data Availability Proofs.
 
