@@ -1,3 +1,12 @@
+2024-03-29 Friday: <br>
+Week Summary<br>
+- devops on call: Review log https://docs.google.com/document/d/18faRFgN16IC_qyAUGUdSn0ZWv3JgEiR5Afm1xul1H6U<br>
+ - carried out standard protocol duties, code reviews, meetings, etc<br>
+ - progress on project-g: fine tuning player movement controls, playing with some plasma effects<br> (settled on neon colors), camera interactions (player camera movement threshold, controller/mouse scrolling)<br>
+ - Researching ways to put ai into crypto games. I am experimenting with components that will be useful for<br> in-game interactions, scripting, events, etc, using apis that are accessible within our framework<br>
+
+---
+
 2024-03-15 Friday: 
 Week summary 
 Focused on web3 gaming iniative, completing code port of web3 plugin originally built for godot 3.5 to godot 4.x. This can now be built with godot 4.2/4.3 source code on osx and linux (tested on Ubuntu 22) https://github.com/adsorptionenthalpy/godot-web3-plugin/tree/main-4.2. Currently building out a web3 game demo toward playable state to demonstrate the capabilities of framework. This is taking a little more time than initially estimated. 
