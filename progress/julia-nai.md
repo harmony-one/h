@@ -1,3 +1,7 @@
+2023-04-03 Wed: Reviewed applicant resumes and noted good and basd aspects for training. 
+
+2023-04-02 Tue: Continued Lever API resume pulling.
+
 2024-04-01 Mon: Started using Lever API to pull applicant resumes. Ran into issue with API and contacted support. 
 
 ---
