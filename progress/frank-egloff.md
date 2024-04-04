@@ -9,6 +9,8 @@ I contributed to the 1.country project by adding Inscription image rendering for
 
 Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
 
+2024-04-03 Wed: Fixed PDF/URL parsing issues due to a vector database client/server version mismatch. On [Harmony1bot](https://github.com/harmony-one/HarmonyOneBot/pull/361), updated Grammy package to the last stable version and made code refactoring to get the latest version of the getChatAdministrators method to fix the database client isGroupWhitelisted method. Had to update the nodejs version to 20 on the Dockerfile. 
+
 2024-04-02 Tue: Fixed the new command logic and the [minimum balance](https://github.com/harmony-one/HarmonyOneBot/pull/361) to use llmsBot models. Also, fixed the token counter for Anthropopic stream completions. Found the problem with the group whitelisting not working. Finally, fixing an issue with Chromadb that affects PDF/URL handling.  
 
 2024-04-01 Mon: Added conversation per model discrimination on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/360) (deployed to harmony1bot). Now, you can have one conversation per model. Also added the /o command to work with the opus model. Finally, worked on team reviews.  
