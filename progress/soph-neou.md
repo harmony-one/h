@@ -1,3 +1,15 @@
+**2024-4-5 Fri: Weekly update**
+
+During the week, we encountered issues with Shard 0 devnet, where the consensus went down twice. However, a simple restart of the cluster effectively resolved the problem on both occasions. Upon conducting a root cause analysis, I identified that a validator had mistakenly switched its consensus mode to "syncing" preventing its participation in the consensus process. Further analysis is still pending.
+
+Shard 1 testnet and devnet are currently experiencing downtime, posing a significant challenge for HIP32. The issue, outlined in detail in [https://github.com/harmony-one/harmony/issues/4651](https://github.com/harmony-one/harmony/issues/4651), revolves around the handling of crosslinks within our consensus protocol.
+
+In response to the security vulnerability CVE-2024-3094, I diligently conducted a comprehensive security check on all Harmony nodes and explorer backends. I'm pleased to confirm that none of our systems were running the vulnerable version, ensuring the security and integrity of our infrastructure.
+
+Furthermore, I meticulously tested and reviewed the [isbackup PR fix](https://github.com/harmony-one/harmony/pull/4644), confirming the correct operation and readiness for merging. However, I recommended the removal of BINGO messages from the logs to prevent confusion for node operators.
+
+Lastly, I provided comprehensive assistance to joskins, offering technical guidance and addressing issues related to contract deployment using Remix for an upcoming token pre-sale. 
+
 **Q1 Impact and Performance Summary**:
 
 Throughout Q1, I've played a pivotal role in addressing technical challenges and advancing key initiatives within our project. Notably, I collaborated with team members on resolving issues such as testnet leader rotation activation hurdles and enhancing our mainnet oracle integration with Band. Moreover, my efforts in troubleshooting and providing support for various development tasks, including HIP30 state verification failures and devnet consensus loss investigations, have contributed to the overall progress and stability of our ecosystem.
