@@ -10,7 +10,15 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
-2024-03-29 Fri:
+2024-04-03 Wed: Tried to solve the problem using [Create2](https://book.getfoundry.sh/tutorials/create2-tutorial) [deployer](https://github.com/Arachnid/deterministic-deployment-proxy) on Harmony. It is possible to deploy create2 to another (not default) address on Harmony. The only issue is to force Foundry to use another address instead of default one. It is technically doable, just need a bit more time to do this. But keep in mind, that the permit2 address will be different than the default (official) one. And it is impossible to deploy it to the official address, unless Harmony Mainnet will disable EIP-155 (at least for 1 transaction). Here is a long issue thread on foundry github related this [issue](https://github.com/foundry-rs/foundry/issues/2638). It is still opened btw.
+
+2024-04-02 Tue: Continue building custom [Op Stack rollup](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup) and deploying L1 contracts on Harmony Shard 1. A problem was discovered when deploying contracts. Create2 deployer that is used by Foundry (and therefore by script for deploying permit2) is not deployed on Harmony, and it cannot be deployed, because its transaction is presigned without chainId, and Harmony is EIP-155 protected, which requires chainId to be a part of the transaction.
+
+2024-04-01 Mon: Continue building custom [Op Stack rollup](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup). Configured configs for op-node and op-geth services to support Harmony Shard 1. Proceeded to deploying and configuring contracts.
+
+---
+
+2024-03-29 Fri: Unfortunately, it was not possible to integrate the ready-made [Op Stack rollup Node](https://github.com/smartcontracts/simple-optimism-node/tree/7a962f5f6c9fedfd082a72369257af086d2e30c9) build to work with Harmony Shard 1. For full deployment and support on Harmony Shard 1, we will need to build all services from source code, prepare configs, deploy and configure L1 and L2 contracts.
 
 2024-03-28 Thu: There were compatibility problems when synchronizing op-node (optimism L2) and Harmony Shard 1. I am studying the source code and the rpc request format used to localize the problem.
 
