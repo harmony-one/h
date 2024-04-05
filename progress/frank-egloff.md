@@ -4,6 +4,7 @@ I added Harmony1Bot features: OpenAI's DALL-E 3, Vision command, and various mod
 
 I contributed to the 1.country project by adding Inscription image rendering for Telegram's Image subscriptions. For the Social Map project, I implemented Whisper logic, added a markers endpoint, refactored the codebase with TypeScript, and improved the app's styling and state management. Lastly, I made enhancements to the Human Protocol project (h.country) by optimizing the Welcome and UserPage route components and improving the app's overall logic.
 
+In optimizing harmony1bot performance, I tackled various technical challenges with targeted features. This included efficiently implementing an image generation queue to handle multiple DALL-E 3 requests and resolving prompt interpretation errors. I also enhanced stream completion for Anthropics and Vertex models, improving user experience by reducing response times. Additionally, integrating voice-command functionality streamlined user interactions, with features such as command reuse improving overall usability and user experience.
 
 **2-Week Deliverables by 2024-03-31:**
 
