@@ -1,4 +1,22 @@
+**2024 Q1 Review**
+In Q1, my focus was on enhancing the functionality and stability of Harmony network. Throughout the quarter, I dedicated considerable efforts to resolving various issues including known blocks, stuck transactions, p2p client crashes, race conditions, configurations and logs, syncing issues and so on. These efforts were instrumental in maintaining the stability and reliability of our networks.
+
+I worked on many new features that each of them could be a separate project: 
+- **p2p client:** implementation of numerous new functions in the p2p client, significantly enhancing its capabilities. Now, nodes can seamlessly request accounts, storages, and state sharing from each other
+- **state synchronization:** I completed the necessary code and resolved numerous issues, followed by a significant refactor of the state sync stage, accounting for approximately 40% of the changes. It is in the final stages and requires an operational snapshot database.
+- **state pruning:** I made substantial progress by addressing numerous issues and conducting extensive testing across different network databases. This one also is in the final stages and requires an operational snapshot database.
+- **snapshot database:** I spearheaded efforts to optimize our snapshot database, refactoring the codebase and resolving numerous issues to ensure its successful operation. Despite encountering some remaining challenges, our progress in this area has been promising.
+- **eth database upgrade:** upgrading the eth database has been initiated to support snapshot functionality. The PR would be thousands lines of codes.
+
+Furthermore, we successfully addressed an unexpected Mainnet Shard 0 outage and Crosslink stuck situation, requiring intensive effort over several days and the implementation of multiple PRs. In parallel, I made several enhancements to our network configuration file, introducing new configurations and segregating cache configurations for improved manageability. 
+
+Overall, Q1 was marked by significant progress, with numerous issues addressed and a couple of new features has been developed and are in their final stages.
+
+---
+
 **2024-04-06 Saturday:** Last week, we could address the p2p stream discoveries issue and successfully resolved it in the devnet node However, two other issues persist: high storage usage by stream sync and the transition from Syncing mode to Normal mode. After many discussions with the team and thorough code base analysis, we are actively addressing these priorities. Additionally, we continue to prioritize the recovery of devnet shard1, exploring the most efficient approach for its restoration.
+
+---
 
 **2024-03-30 Saturday:** Last week, we encountered a storage issue where the team identified that the stream cache was consuming excessive storage. I conducted tests on the sync in the local network, and everything appeared to be fine, with storage usage within normal limits. However, we later observed that the stream service kept restarting, and the cleanup process wasn't triggered for unknown reasons. Currently, I am working on a pull request (PR) to address this cleanup issue.
 
