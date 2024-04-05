@@ -7,7 +7,7 @@ I contributed to the 1.country project by adding Inscription image rendering for
 
 **2-Week Deliverables by 2024-03-31:**
 
-Integrating Anthropopic models into Harmony1Bot, including Claude Opus and Claude Sonnet, with vision functionality. Migrate our current bard implementation to Gemini and study video generation on OpenAI.
+2024-04-04 Thu: Added minimum balance to openAI bot for postpaid commands. Continued [code refactoring](https://github.com/harmony-one/HarmonyOneBot/pull/362) on Harmony1Bot to ease agent integration: added llms bot base class (llmsBase) and claudeBot, vertexBot, and llmsBot derived classes. Will continue with the refactoring of openaiBot and converting PDF/URL logic to an agent-like class. 
 
 2024-04-03 Wed: Fixed PDF/URL parsing issues due to a vector database client/server version mismatch. On [Harmony1bot](https://github.com/harmony-one/HarmonyOneBot/pull/361), updated Grammy package to the last stable version and made code refactoring to get the latest version of the getChatAdministrators method to fix the database client isGroupWhitelisted method. Had to update the nodejs version to 20 on the Dockerfile. 
 
