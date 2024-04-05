@@ -1,3 +1,10 @@
+**Q1 Impact and Performance Summary**:
+
+Throughout Q1, I've played a pivotal role in addressing technical challenges and advancing key initiatives within our project. Notably, I collaborated with team members on resolving issues such as testnet leader rotation activation hurdles and enhancing our mainnet oracle integration with Band. Moreover, my efforts in troubleshooting and providing support for various development tasks, including HIP30 state verification failures and devnet consensus loss investigations, have contributed to the overall progress and stability of our ecosystem.
+
+In addition to technical contributions, I actively participated in community engagement and internal operations improvements. I facilitated the progress of HIP32 through validator coordination, while also enhancing our internal operations and security through the development and updating of multiple playbooks. Furthermore, my involvement in addressing user-reported issues and providing support to exchange partners underscores my commitment to ensuring a seamless experience for all stakeholders.
+
+---
 **2024-3-29 Fri**:
 
 This week kicked off with Amanda and me diving into the intricacies of updating billing information on mission control. In addition to that, I lent a hand to community users grappling with blacklist address and wallet issues.
