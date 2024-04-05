@@ -1,3 +1,13 @@
+2024-04-05 Friday: The main focuses on this week:
+* finished setup of two snapshot nodes for the shard 0 and shard 1 in the testnet, users are already using them
+* aware team about fresh xz vulnerability - we are safe
+* added one more user to the blacklist, user used multiple addresses to burn more than 800K ONE
+* added Push-gateway runbook and updated nginx/image to the latest stable
+* double checked STORJ backup usage drop by 7 TB from February - this one was expected
+* fixed false-positive issue with snapshot creation - code haven't wait for harmony RPC service actual start
+
+---
+
 2024-03-29 Friday: This week I have mostly support activities:
 * Our cloud provider - Contabo has a network outage which leads to the various issues in the devnet and tesnet. Patiently check nodes one by and back them back to operational one by one.
 * Checked an devnet shard 1 issue connected with harmony node's memdb weird behavior - it started to use the whole disk storage, when the node is in discovery phase
