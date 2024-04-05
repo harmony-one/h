@@ -3,12 +3,19 @@
 During the Q1, I contributed to the development team of the VoiceAI app, focusing on UI elements and writing tests. Developed an inscriptions indexer backend utilized in an inscriptions lottery. Maintained harmony1bot.
 
 Successfully launched a Human Protocol client at h.country: created a prototype for the client app, added support of key features such as routing, core user interface components, and Firebase integration. Started working on Harmony Portfolio client, a counterpart to the Metamask portfolio, with the alpha version scheduled for release by the end of March 2024.
+During work on the Swap page in the Harmony Portfolio, I encountered difficulties due to the need to copy some features from the Harmony Swap client (https://swap.harmony.one), which is based on Uniswap. Researching the client's code and Uniswap documentation took much more time than planned; however, I managed to implement basic operations: Swap Quote, Wrap (ONE -> WONE), and Unwrap. Currently in the process of implementing the final operation (Swap), after which I can move on to improving the user interface.
 
 **2-Week Deliverables by 2024-03-31:**
 
 Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge, swap, and lend in a single location. Ensure seamless integration of various APIs into an attractive and user-friendly UI.
 
 ---
+
+2024-04-05 Fri: sick day-off
+
+2024-04-04 Thu: sick day-off
+
+2024-04-03 Wed: sick day-off
 
 2024-04-02 Tue: [created](https://github.com/harmony-one/ONE-Resume-AI/pull/1/commits/06988b235341d36b2dab2f4db58254a198a6b6aa) separate App root component for OneResumeAI web build, working on splitting internal code into separate pieces to exclude iOS-only React Native modules from web build.
 
