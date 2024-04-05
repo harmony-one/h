@@ -1,3 +1,29 @@
+2024-4-4 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment. Testing job recommnedation server end-to-end
+
+2024-4-3 Wed (0.5h): (Continued) and deploying REST server for job recommendation
+
+2024-4-2 Tue (3h): Refactoring candidate matching implementation for more flexible model and data selection. Research on GPU VM instance pricing and options to run self-hosted large models. REST API for job candidate matching with flexible candidate number, model, and data source
+
+2024-4-1 Mon (2h): Backend and module implementation for candidate matching system based on job description
+
+2024-3-30 Sat (4h): Prompt design for job matching from a pool of candidates. Review Claude SDK, documentations, unique designs. Claude and Gemini implementation and initial experiments for response performance. Cost analysis
+
+2024-3-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend 
+
+2024-3-28 Thu (3.5h): Python server scaffolding and debugging on SSL settings. Setup data analysis environment. Review OpenAI fine-tuning documentations and practical options. Review Huggingface dataset SDK and designs. In-depth review of hackernews resume and job post dataset, and alternatives. Review Gemini models, environment settings, API usage and API key scopes.. 
+
+2024-3-27 Wed (4.5h): Review models and existing work using hackernews job data. Detailed examination of hackernews data and its patterns. Review existing implementation of GLRec and latest language models that support Chinese. Review feasibility of building AI systems in Rust. Review options for Python production server, type safety, performance, and API framework. Python data-analysis server security settings, production settings, debugging, and testing
+
+2024-3-26 Tue (9.5h): Systematic review of existing language-model based recommendation systems using survey paper. In-depth review of GLRect paper, methods, data, and cited work. Review and analysis of JobRecoGPT and compare against GLRec. Review and analysis of JobRecoGPT and compare against GLRec
+
+2024-3-25 Mon (6h): Review development trends of language-model based recommendation systems, classification, methods that stand test-of-time, and study effectiveness of methods under the context of long context-window. Briefly review cited work and related papers
+
+2024-3-24 Sun (4h): Review survey on integration of language models in existing recommendation systems, and roles that language models played when different techniques are employed
+
+2024-3-20 Wed (0.5h): Debugging and resolving domain registration and certificate issue
+
+2024-3-18 Mon (1h): Review, comment, and discuss Bitcoin Swap Farcaster frame implementation. Review Celestia data availability modules
+
 2024-3-17 Sun (4h): In-depth review on models and state-of-the-art research most relevant to conversation AI focusing on voice with limited, unlabelled new training data. Review on V-JEPA, quick review on self-supervised learning with contextual target representation, VATT, PromptTTS 2, NaturalSpeech 2, T5. Discussion and analysis on NaturalSpeech3, Mega-TTS 2, voice conversion models such as SEF-VC, and others. Discuss, review, and experiment with VALL-E-X for cross-language audio generation. Experiment with Grok-1
 
 2024-3-16 Sat (7.5h): Detailed review of analysis of data collection apps and platforms. Review Claude Opus and exceptional results on low resource language. Review data iimpact research, job and dating matching system outlines. Review speech models (Deep Speech, Google USM, Chirp, and others). Review analysis and unsolved problems on recruiting, job searching, job matching. Review relevant products, platforms, new language models for jobs and matching, adoption of AI in existing products. Review wallet infrastructure analysis, existing solutions. Review hackernews dataset and LinkedIn skill recognition model
