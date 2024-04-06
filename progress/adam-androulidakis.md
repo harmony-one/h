@@ -1,14 +1,37 @@
+2024 Q1 Summary
+
+Protocol Engineering:
+For the duration of Q1, my primary focus has been on the harmony gaming initiative. On the protocol side my time has been applied to working with the team in security and outage incidents, and research. I have not made any new advancements in Harmony's ERC4337 account abstraction implementation at this time. 
+
+In research, I have dug further into various abstract security topics, such as formal verification of smart contracts, smart contract security, and deep diving into active Ethereum proposals such as EIP-4844 (protodanksharding), EIP-6780 (Restrict SELFDESTRUCT), EIP-5656 (MCOPY opcode), EIP-4788 (Beacon block root commits), EIP-1153 (transient storage opcodes). 
+
+Devops:
+Performed code reviews on many pull requests, looking mostly for issues that could lead to consensus loss and new problems with delegators. I have also collaborated with our team on occasion working to identify and resolve various reoccurring issues with Harmony Mainnet, testnet and devnets. 
+
+Harmony Gaming:
+Spent a lot of time researching several different gaming projects, sampling code from them and communicating with developers. I linked with developers and artists at Ethereum Denver and referred those that could be a valuable addition to the Harmony team. 
+I completed a rather lengthy update of a formerly released Web3 plugin for the Godot engine written in c++ to support the latest engine updates to 4.x. The plugin is now available to the community as an important component of the sdk. In addition to the Godot web3 plugin upgrade, I have been working to deliver a suitable interface to use common api frameworks within the game sdk. 
+
+2024-04-05 Friday: <br>
+Week Summary<br>
+-I was out on 4/4 using the time for tax preperation<br>
+-I attended some discussions with the team over Partie partnership opportunity<br>
+-March devops on-call duties concluded on Tuesday<br>
+-assist the team in analyzing the cause of Shard0 Devnet and shard1 testnet and devnet failures
+-work on the project-g demo continues
+
+---
 2024-03-29 Friday: <br>
 Week Summary<br>
-- devops on call: Review log https://docs.google.com/document/d/18faRFgN16IC_qyAUGUdSn0ZWv3JgEiR5Afm1xul1H6U<br>
- - carried out standard protocol duties, code reviews, meetings, etc<br>
- - progress on project-g: fine tuning player movement controls, playing with some plasma effects<br> (settled on neon colors), camera interactions (player camera movement threshold, controller/mouse scrolling)<br>
- - Researching ways to put ai into crypto games. I am experimenting with components that will be useful for<br> in-game interactions, scripting, events, etc, using apis that are accessible within our framework<br>
+-devops on call: Review log https://docs.google.com/document/d/18faRFgN16IC_qyAUGUdSn0ZWv3JgEiR5Afm1xul1H6U<br>
+ -carried out standard protocol duties, code reviews, meetings, etc<br>
+ -progress on project-g: fine tuning player movement controls, playing with some plasma effects<br> (settled on neon colors), camera interactions (player camera movement threshold, controller/mouse scrolling)<br>
+ -Researching ways to put ai into crypto games. I am experimenting with components that will be useful for<br> in-game interactions, scripting, events, etc, using apis that are accessible within our framework<br>
 
 ---
 
 2024-03-15 Friday: 
-Week summary 
+Week summary<br>
 Focused on web3 gaming iniative, completing code port of web3 plugin originally built for godot 3.5 to godot 4.x. This can now be built with godot 4.2/4.3 source code on osx and linux (tested on Ubuntu 22) https://github.com/adsorptionenthalpy/godot-web3-plugin/tree/main-4.2. Currently building out a web3 game demo toward playable state to demonstrate the capabilities of framework. This is taking a little more time than initially estimated. 
 Reviewed incoming bugfixes and updates coming into Harmony dev, and some other housekeeping for some fixes that have been going stale. 
  
