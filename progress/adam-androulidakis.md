@@ -1,6 +1,6 @@
-2024 Q1 Summary
+2024 Q1 Summary<br>
 
-Protocol Engineering:
+Protocol Engineering:<br>
 For the duration of Q1, my primary focus has been on the harmony gaming initiative. On the protocol side my time has been applied to working with the team in security and outage incidents, and research. I have not made any new advancements in Harmony's ERC4337 account abstraction implementation at this time. 
 
 In research, I have dug further into various abstract security topics, such as formal verification of smart contracts, smart contract security, and deep diving into active Ethereum proposals such as EIP-4844 (protodanksharding), EIP-6780 (Restrict SELFDESTRUCT), EIP-5656 (MCOPY opcode), EIP-4788 (Beacon block root commits), EIP-1153 (transient storage opcodes). 
