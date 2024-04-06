@@ -5,10 +5,10 @@ For the duration of Q1, my primary focus has been on the harmony gaming initiati
 
 In research, I have dug further into various abstract security topics, such as formal verification of smart contracts, smart contract security, and deep diving into active Ethereum proposals such as EIP-4844 (protodanksharding), EIP-6780 (Restrict SELFDESTRUCT), EIP-5656 (MCOPY opcode), EIP-4788 (Beacon block root commits), EIP-1153 (transient storage opcodes). 
 
-Devops:
+Devops:<br>
 Performed code reviews on many pull requests, looking mostly for issues that could lead to consensus loss and new problems with delegators. I have also collaborated with our team on occasion working to identify and resolve various reoccurring issues with Harmony Mainnet, testnet and devnets. 
 
-Harmony Gaming:
+Harmony Gaming:<br>
 Spent a lot of time researching several different gaming projects, sampling code from them and communicating with developers. I linked with developers and artists at Ethereum Denver and referred those that could be a valuable addition to the Harmony team. 
 I completed a rather lengthy update of a formerly released Web3 plugin for the Godot engine written in c++ to support the latest engine updates to 4.x. The plugin is now available to the community as an important component of the sdk. In addition to the Godot web3 plugin upgrade, I have been working to deliver a suitable interface to use common api frameworks within the game sdk. 
 
