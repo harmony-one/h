@@ -1,3 +1,7 @@
+2024-04-05 Fro: This week, I'm with Diego and Soph investigating the issue with external validator, which not being elected by the consensus. Additionally, i provided several PRs which increase the stability of the network. 
+
+---
+
 2024-03-29 Fri: This week i was working with Ulad and Diego on devnet shard 1 recovering. Additionally, i'm working on the implementation of Groth16 in Solidity, with a specific focus on creating a reproducible working example. 
 
 ---
