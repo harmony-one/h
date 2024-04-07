@@ -19,7 +19,7 @@ Week Summary<br>
 -I was out on 4/4 using the time for tax preperation<br>
 -I attended some discussions with the team over Partie partnership opportunity<br>
 -March devops on-call duties concluded on Tuesday<br>
--assist the team in analyzing the cause of Shard0 Devnet and shard1 testnet and devnet failures
+-assist the team in analyzing the cause of Shard0 Devnet and shard1 testnet and devnet failures<br>
 -work on the project-g demo continues
 
 ---
