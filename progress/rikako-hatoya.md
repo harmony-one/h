@@ -5,6 +5,14 @@ In Q1, I researched over 100 Harmony network community projects, focusing on sou
 Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
 ---
+2024-04-07 Sun: Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
+
+2024-04-06 Sat: Fri continued, also looked for candidates on slack channels for tech groups.
+
+2024-04-05 Fri: Looked for more resumes and profiles on LinkedIn search
+
+2024-04-04 Thu: Looked into AI model datasets for our deployed story protocol contract + continued resume search.
+
 2024-04-03 Wed: Continued resume search by testing existing database and testing job aggregator sites such as ZipRecruiter, PostJobFree, Monster, Indeed, Dice, Discord channels, etc. 
 
 2024-04-02 Tue: Tested various ATS resume checkers + LinkedIn profile scoreres (Enhancv, ResumeWorded, Jobalytics, etc.)
