@@ -4,6 +4,8 @@ In Q1, I researched over 100 Harmony network community projects, focusing on sou
 
 Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and examined projects from 43 companies in the AGI Edge hackathon. Using the Story Protocol framework, I created robust royalty policies and deployed a smart contract for them on Harmony's shard 1. I also initiated the ONE Map project with React Native, implementing location check-in buttons with Firebase, refining the UI for /links, and facilitating OAuth authentication for Human Protocol across 7 platforms.
 
+Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
+
 ---
 2024-04-07 Sun: Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
 
