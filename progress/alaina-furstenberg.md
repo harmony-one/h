@@ -1,44 +1,15 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
-2 week deliverables: Coordinate with Artem and Theo F on recreating MetaMask Portfolio on Harmony with the intention of simplifying features and merging Swap, Lend, and our Bridge. Drive community engagement via Twitter and Youtube.
+2 week deliverables: Post partnerships, ecosystem news, industry news. Deliver mocks and guides for Portfolio and ONE Resume.
 
 ----
 
 **2024 Q1 Review (83.5 hours)**
 
-In Q1 I significantly increased our Twitter presence and community engagement:
+In Q1, I drove our Twitter engagement significantly, recording an 88% increase in activity, 27% more impressions, and maintaining a 4.0% engagement rate. This effort resulted in higher link clicks, retweets, and likes, reflecting robust community engagement. Our Substack saw steady traffic, slightly decreasing views but improving open rates, despite fewer postings.
 
-- 220 tweets + replies for 91 day period (88% growth from q4) (vs 117 in q4)
-- 1.4 million Twitter impressions (27% growth) (vs 1.1 million in q4)
-- Maintained engagement rate of 4.0% (vs q4 4.0%)
-- 6.9K Link clicks (vs q4 6.4K) (8% growth)
-- 4.4K Retweets without comments (vs q4 3.7K)(19% growth)
-- 20.6K Likes (vs q4 15.3K)(35% growth)
+On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills to boost our digital presence.
 
-Maintained traffic on our Substack
-
-- 70514 views on [blog.harmony.one](http://blog.harmony.one) (vs 70,964 in q4)(-<1% decrease)
-- 4 substack postings (vs 5 in q4)
-- Open rate of 30% (vs q4 29.75%)
-
-Boosted our Youtube reach
-
-- 13.7K views (26% growth)(vs 11,293 in q4)
-- 505.5 watch time hours (90% growth)
-- 18,692 subscribers (29% growth from q4)
-- 152.2K Impressions on our videos ( from q4)
-- 8.4K unique viewers (29% growth from q4)
-- 5 videos, 6 shorts posted (vs 3 videos 6 shorts q4)
-
-Designed 15+ iterations on each Figma project: Human Protocol, Harmony Portfolio, ONE Social Map
-
-I took initiative to manage projects alone:
-
-- I managed an inscription lottery with Galaxii from start to finish
-- Stepped up to take off-hour work meetings with remote engineers for ONE Social Map and H.country.
-- Increased my weekend hours to drive Figma iterations
-- Redesigned the thumbnails for all core-protocol syncs, with AI tools
-- Improved my video editing skills to improve our product demos
 ----- 
 
 2024-04-03 Wed: Promotion of Community space via twitter + community engagement. [AI Match Making mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=nz1ap4IEdiRfZk7A-1)
