@@ -1,3 +1,13 @@
+2024-04-07 Sun: [2hr] Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an on device open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
+
+2024-04-06 Sat: [3hr] Continued testing of Jobscan AI tooling. Insight: not very accurate scoring or ability to reach higher scoring using their suggestions, feels like a worse grammarly but for resumes, focused on keyword additions rather than honest review. 
+
+2024-04-05 Fri: Opened communications with [Ta Da](https://ta-da.io/) to verify “Decentralized workforce enables high-volume, cost-effective, and region-specific data collection”.
+
+2024-04-04 Thu: Sync with Protofire on Blockscout. Update: Cross Shard Transactions, ETA Monday. Staking Transactions, ETA end of next week. Iteration and sync with Stephen for 2-week deliverables.  
+
+2024-04-03 Wed: First iteration for team deliverables due 4/19. Further dive into [CryptoKoryo](https://harmonyone.notion.site/CryptoKoryo-AI-Data-on-Chain-66d1e2bdf6dd4a38a1e9e1b7ef773441?pvs=4) report. Insight: interesting concepts but no sign of adoption yet, also no metrics leading to clear model improvements. 
+
 2024-04-02 Tue: Review of on-chain AI products from @CryptoKoryo report. Story Protocol thread. Notified protofire for adding market data on frontend.
 
 2024-04-01 Mon: Made contact with MoonPay representative, awaiting feedback on their end. Full team review management and weekend hour tracking. Sync with Artem, Yuriy, Theo F, and Sun on OP Stack and Portfolio progress. OP Stack based rollup release on Shard 1 and article scheduled for Friday.
