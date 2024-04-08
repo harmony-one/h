@@ -9,7 +9,19 @@ I developed the ONE (Voice) Map app, introducing features like a current locatio
 
 Over the next two weeks, the focus will be on implementing hot reload for ONE (Voice) Map, enhancing its UI design, optimizing app performance, and fixing the swipe functionality bug, especially with larger text volumes. Aim to improve user experience in the Voice AI app following the Whisper integration and app submissions to TestFlight.
 
+
 --- 
+
+2024-04-10 Wed: Ramzan Holiday
+
+2024-04-09 Tue: Ugadi Holiday 
+
+2024-04-08 Mon: Fixed minor bugs, refactored the code, and pushed all updates to TestFlight.
+
+--- 
+
+2024-04-05 Fri: Added functionality to remove the uploaded PDF and made updates to the chat component. Furthermore, I engaged in a conversation with Frank about the ongoing adjustments to the chat module.
+
 2024-04-04 Thu: Finished designing the chat UI and incorporated the Anthropic Analyze API for PDF analysis.
 
 2024-04-03 Wed: Developing a chat interface that allows adding a PDF file while continuing the conversation.
