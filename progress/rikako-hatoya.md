@@ -19,6 +19,8 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 
 2024-04-01 Mon: More resume search on LinkedIn. Got in touch with Jackie to later set DNS for 9.country.
 
+---
+
 2024-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
 
 2024-03-30 Sat (2 hours): Continued work on finding resumes for our next candidate pool.
