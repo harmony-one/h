@@ -12,6 +12,10 @@ Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge,
 
 ---
 
+2024-04-08 Mon: [implemented](https://github.com/harmony-one/harmony-portfolio/commit/54de2d8a8a9a071989bf4fa5e4ab059918d830ca) tokens swap on Swap page in Harmony Portfolio, deployed an update: (https://harmony-portfolio.netlify.app/swap)[https://harmony-portfolio.netlify.app/swap]
+
+---
+
 2024-04-05 Fri: sick day-off
 
 2024-04-04 Thu: sick day-off
