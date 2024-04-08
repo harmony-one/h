@@ -8,6 +8,8 @@ In optimizing harmony1bot performance, I tackled various technical challenges wi
 
 **2-Week Deliverables by 2024-03-31:**
 
+2024-04-05 Fri: Finished openAI, and Dalle bots as a [derived class of llmsBase](https://github.com/harmony-one/HarmonyOneBot/pull/362), added session handling, and kept refactoring AI bots. Started working on llamaAgent (collection handling for PDF and URL) so each AI bot can use it.
+
 2024-04-04 Thu: Added minimum balance to openAI bot for postpaid commands. Continued [code refactoring](https://github.com/harmony-one/HarmonyOneBot/pull/362) on Harmony1Bot to ease subagents integration: added llms bot base class (llmsBase) and claudeBot, vertexBot, and llmsBot derived classes. Will continue with the refactoring of openaiBot and converting PDF/URL logic to an subagent-like class. 
 
 2024-04-03 Wed: Fixed PDF/URL parsing issues due to a vector database client/server version mismatch. On [Harmony1bot](https://github.com/harmony-one/HarmonyOneBot/pull/361), updated Grammy package to the last stable version and made code refactoring to get the latest version of the getChatAdministrators method to fix the database client isGroupWhitelisted method. Had to update the nodejs version to 20 on the Dockerfile. 
