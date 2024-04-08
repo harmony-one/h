@@ -1,3 +1,13 @@
+2024 Q1 Summary<br>
+
+Protocol Engineering:<br>
+During Q1, my primary focus has revolved around leader rotation testing and activation. This involved rigorous testing across various scenarios, including sequential deactivation of internal nodes, fail tolerance, and performance measurements from remote regions. We successfully conducted tests on the devnet and anticipate further activation on the testnet.
+In addition to leader rotation, I've also explored a feature that allows skipping keys when they belong to a single address, enhancing recovery by redirecting to another validator instead of attempting keys of an already inactive one individually.
+I dedicated effort to resolving issues following HIP-30 activation, particularly concerning coincidences and a significant number of consensus losses.
+Furthermore, in my research endeavors, I delved deeper into the Groth16 native EVM implementation. I've completed the backend implementation and am currently focused on developing a Solidity wrapper. 
+
+---
+
 2024-04-05 Fro: This week, I'm with Diego and Soph investigating the issue with external validator, which not being elected by the consensus. Additionally, i provided several PRs which increase the stability of the network. 
 
 ---
