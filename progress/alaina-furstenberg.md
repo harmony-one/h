@@ -12,7 +12,7 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 ----- 
 
-2024-04-05 Fri: [harmony.one]([https://www.harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
+2024-04-05 Fri: [harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
 
 2024-04-04 Thu: Sync with Jackie to coordinate [Another world thread](https://x.com/harmonyprotocol/status/1775979150630596911). Designing variations of ONE Resume on [Figma](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=2x6lDbr6AqNs2oMX-1).
 
