@@ -8,9 +8,13 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 In Q1, I drove our Twitter engagement significantly, recording an 88% increase in activity, 27% more impressions, and maintaining a 4.0% engagement rate. This effort resulted in higher link clicks, retweets, and likes, reflecting robust community engagement. Our Substack saw steady traffic, slightly decreasing views but improving open rates, despite fewer postings.
 
-On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills to boost our digital presence.
+On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills.
 
 ----- 
+
+2024-04-05 Fri: [harmony.one]([https://www.harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
+
+2024-04-04 Thu: Sync with Jackie to coordinate [Another world thread](https://x.com/harmonyprotocol/status/1775979150630596911). Designing variations of ONE Resume on [Figma](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=2x6lDbr6AqNs2oMX-1).
 
 2024-04-03 Wed: Promotion of Community space via twitter + community engagement. [AI Match Making mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=nz1ap4IEdiRfZk7A-1)
 
