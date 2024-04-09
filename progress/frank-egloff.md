@@ -1,13 +1,9 @@
-**2024 Q1 Review (12 hours)**
-
-I added Harmony1Bot features: OpenAI's DALL-E 3, Vision command, and various models from Claude and Vertex. I implemented code snippets support, an Inscription lottery, voice command functionality, and fixed payment logic while upgrading the bot's performance and stream completion. Additionally, I made notable contributions to Harmony-llm-api by adding endpoints for Whisper, Anthropic, PDF inquiry, and Gemini, along with implementing streaming logic.
-
-I contributed to the 1.country project by adding Inscription image rendering for Telegram's Image subscriptions. For the Social Map project, I implemented Whisper logic, added a markers endpoint, refactored the codebase with TypeScript, and improved the app's styling and state management. Lastly, I made enhancements to the Human Protocol project (h.country) by optimizing the Welcome and UserPage route components and improving the app's overall logic.
-
-In optimizing harmony1bot performance, I tackled various technical challenges with targeted features. This included efficiently implementing an image generation queue to handle multiple DALL-E 3 requests and resolving prompt interpretation errors. I also enhanced stream completion for Anthropics and Vertex models, improving user experience by reducing response times. Additionally, integrating voice-command functionality streamlined user interactions, with features such as command reuse improving overall usability and user experience.
-
 **2-Week Deliverables by 2024-03-31:**
 
+
+2024-04-8 Mon: 2024-04-8 Mon: Keep working on the llamaIndex subAgents for harmony1bot.
+
+---
 2024-04-05 Fri: Finished openAI, and Dalle bots as a [derived class of llmsBase](https://github.com/harmony-one/HarmonyOneBot/pull/362), added session handling, and kept refactoring AI bots. Started working on llamaAgent (collection handling for PDF and URL) so each AI bot can use it.
 
 2024-04-04 Thu: Added minimum balance to openAI bot for postpaid commands. Continued [code refactoring](https://github.com/harmony-one/HarmonyOneBot/pull/362) on Harmony1Bot to ease subagents integration: added llms bot base class (llmsBase) and claudeBot, vertexBot, and llmsBot derived classes. Will continue with the refactoring of openaiBot and converting PDF/URL logic to an subagent-like class. 
@@ -17,6 +13,15 @@ In optimizing harmony1bot performance, I tackled various technical challenges wi
 2024-04-02 Tue: Fixed the new command logic and the [minimum balance](https://github.com/harmony-one/HarmonyOneBot/pull/361) to use llmsBot models. Also, fixed the token counter for Anthropopic stream completions. Found the problem with the group whitelisting not working. Finally, fixing an issue with Chromadb that affects PDF/URL handling.  
 
 2024-04-01 Mon: Added conversation per model discrimination on [Harmony1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/360) (deployed to harmony1bot). Now, you can have one conversation per model. Also added the /o command to work with the opus model. Finally, worked on team reviews.  
+
+---
+**2024 Q1 Review (12 hours)**
+
+I added Harmony1Bot features: OpenAI's DALL-E 3, Vision command, and various models from Claude and Vertex. I implemented code snippets support, an Inscription lottery, voice command functionality, and fixed payment logic while upgrading the bot's performance and stream completion. Additionally, I made notable contributions to Harmony-llm-api by adding endpoints for Whisper, Anthropic, PDF inquiry, and Gemini, along with implementing streaming logic.
+
+I contributed to the 1.country project by adding Inscription image rendering for Telegram's Image subscriptions. For the Social Map project, I implemented Whisper logic, added a markers endpoint, refactored the codebase with TypeScript, and improved the app's styling and state management. Lastly, I made enhancements to the Human Protocol project (h.country) by optimizing the Welcome and UserPage route components and improving the app's overall logic.
+
+In optimizing harmony1bot performance, I tackled various technical challenges with targeted features. This included efficiently implementing an image generation queue to handle multiple DALL-E 3 requests and resolving prompt interpretation errors. I also enhanced stream completion for Anthropics and Vertex models, improving user experience by reducing response times. Additionally, integrating voice-command functionality streamlined user interactions, with features such as command reuse improving overall usability and user experience.
 
 ---
 2024-03-29 Fri: Day off
