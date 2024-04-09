@@ -1,3 +1,5 @@
+2024-04-08 Mon: Q1 review for % split. Coordination for /progress, replacing new 2-week deliverables. Check in with Protofire for Blockscout, Lend, and potential for incentivized token for governance on Lend with % fee sharing from my original proposal.
+
 2024-04-07 Sun: [2hr] Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
 
 2024-04-06 Sat: [3hr] Continued testing of Jobscan AI tooling. Insight: not very accurate scoring or ability to reach higher scoring using their suggestions, feels like a worse grammarly but for resumes, focused on keyword additions rather than honest review. 
