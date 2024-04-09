@@ -6,10 +6,9 @@ Successfully launched a Human Protocol client at h.country: created a prototype 
 
 During work on the Swap page in the Harmony Portfolio, I encountered difficulties due to the need to copy some features from the Harmony Swap client (https://swap.harmony.one), which is based on Uniswap. Researching the client's code and Uniswap documentation took much more time than planned; however, I managed to implement basic operations: Swap Quote, Wrap (ONE -> WONE), and Unwrap. Currently in the process of implementing the final operation (Swap), after which I can move on to improving the user interface.
 
-**2-Week Deliverables by 2024-03-31:**
+**2-Week Deliverables by 2024-04-19:**
 
-Develop a Metamask-like portfolio webpage for Harmony, allowing users to bridge, swap, and lend in a single location. Ensure seamless integration of various APIs into an attractive and user-friendly UI.
-
+Continue with Harmony Portfolio and ONE Resume, complete Swap page in Harmony Portfolio.
 ---
 
 2024-04-09 Tue: [added](https://github.com/harmony-one/harmony-portfolio/commit/78308760ca77aceff01edbf102f924d66be5d1d0) trade quote loading status, improved swpa UI in Harmony Portfolio, [deployed](https://harmony-portfolio.netlify.app/swap) an update. Investigating a bug in Explorer client - missing Holders tab on [address page](https://explorer.harmony.one/address/0x51d76b3324074e8255fafe699408ec4401b29c4e?activeTab=6) (Soph asked for it).
