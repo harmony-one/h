@@ -9,6 +9,7 @@ During work on the Swap page in the Harmony Portfolio, I encountered difficultie
 **2-Week Deliverables by 2024-04-19:**
 
 Continue with Harmony Portfolio and ONE Resume, complete Swap page in Harmony Portfolio.
+
 ---
 
 2024-04-09 Tue: [added](https://github.com/harmony-one/harmony-portfolio/commit/78308760ca77aceff01edbf102f924d66be5d1d0) trade quote loading status, improved swpa UI in Harmony Portfolio, [deployed](https://harmony-portfolio.netlify.app/swap) an update. Investigating a bug in Explorer client - missing Holders tab on [address page](https://explorer.harmony.one/address/0x51d76b3324074e8255fafe699408ec4401b29c4e?activeTab=6) (Soph asked for it).
