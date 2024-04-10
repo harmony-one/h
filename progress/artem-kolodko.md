@@ -8,7 +8,7 @@ During work on the Swap page in the Harmony Portfolio, I encountered difficultie
 
 **2-Week Deliverables by 2024-04-19:**
 
-Continue with Harmony Portfolio and ONE Resume, complete Swap page in Harmony Portfolio.
+Continue with Harmony Portfolio: complete Swap and add Send & Receive page.
 
 ---
 
