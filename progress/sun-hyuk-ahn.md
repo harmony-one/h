@@ -10,7 +10,20 @@ Prototyped human protocol using various tools and frameworks, and eventually imp
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
-2023-04-03 Wed: Realized the problem with contract deployments. HArmony is EIP-155 protected, requiring chainId to be part of transactions, whereas the OP stack contracts are not. Figuring out alternative solution to bypass this.
+
+2023-04-09 Tue: Completed deploying rollup.
+
+2023-04-08 Mon: Removing features in order to disable Create2 deploy as our chain does not support it.
+
+---
+
+2023-04-06 Sat: Continuing on working with different configurations as it is not fully working in terms of deployment.
+
+2023-04-05 Fri: Realized we need to disable block validation and add default baseFee in order to work with our chain.
+
+2023-04-04 Thu: Explored configuration used for the OP stack to work with Etheruem. Working with different configurations in order to accomodate Harmony.
+
+2023-04-03 Wed: Realized the problem with contract deployments. Harmony is EIP-155 protected, requiring chainId to be part of transactions, whereas the OP stack contracts are not. Figuring out alternative solution to bypass this.
 
 2023-04-02 Tue: Continued writing the article. Focused on the Celestia core concepts as well as sovereign vs smart contract rollup explanation. Continued to work on the contract debugging process. Implemented scripts to determine throughput and block sizes for Shard 1.
 
