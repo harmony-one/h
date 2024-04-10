@@ -10,7 +10,17 @@ In Q1, I drove our Twitter engagement significantly, recording an 88% increase i
 
 On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills.
 
+-----
+
+2024-04-09 Tue: Design of the thumbnail for 'Data Availability on Shard 1' to be released on Friday. Downloading + editing community space & designing thumbnail, to be uploaded to Youtube. 
+
+2024-04-08 Mon: Joskins co-marketing, sync with Nagesh on [ONE Resume mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=Z2Bfc9LWEFq7FNZJ-1). Resume review on Lever + marketing our open postings on Twitter. 
+
 ----- 
+
+2024-04-07 Sun:
+
+2024-04-06 Sat: 
 
 2024-04-05 Fri: [harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
 
