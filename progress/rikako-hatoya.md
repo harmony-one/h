@@ -7,6 +7,10 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
 ---
+2024-04-09 Tue: Mon continued + also spent personal time at a software engineer meetup to build connections.
+
+2024-04-08 Mon: More candidate search on lists on Layoff.fyi, LinkedIn, and Twitter. Also revised summary of story protocol deploy and looked into further integrations useful for our community.
+
 2024-04-07 Sun: Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
 
 2024-04-06 Sat: Fri continued, also looked for candidates on slack channels for tech groups.
