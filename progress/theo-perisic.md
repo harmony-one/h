@@ -1,3 +1,15 @@
+Q1 Review:
+
+In Q1, I managed and helped launch 4 distinct projects: Human-Protocol, Quest Lottery, Lend, and Flip. For each project I contributed to the product through UI/UX iterations, userflows, and minor frontend pushes, as well as operations by coordinating 12 individuals, 5 internal, 4 from the apps team, and 3 from protofire. I also extended this coordination to our community, helping the 7 recovery multisig custodians who increased recovery percentage by 6%, the most in a single quarter, and the 60+ eligible validator community for HIP-32 leading to a unanimous YES vote with 3 billion ONE.
+
+I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promoted 7 ecosystem projects, and onboarded a new infrastructure partner, Envio. The campaign with the OneScription team, led to their sold out inscription token, raising 1.8 million ONE. On my own time, I also attended 5 bi-weekly Harmony Ecosystem Roundup spaces to engage with the community.
+
+7 ecosystem project promotions: Galaxii, a decentralized TikTok alternative; MetaSMS, an encrypted messenger; Joskins, a platform for purchasing merch with ONE tokens; Knights&Peasants, a strategy blockchain game; OneScription, a gateway for converting Harmony inscriptions to ERC-20 tokens; AnotherWorld, a Ready Player One-inspired metaverse; and Coherence, an NFT marketplace.
+
+---
+
+2024-04-09 Tue: Approved listing for Swap. [Stats](https://lend-info-stg-country.safe.protofire.io) for Lend in progress. Emailed Coinbase asset outreach as advised from Coinbase representative.
+
 2024-04-08 Mon: Q1 review for % split. Coordination for /progress, replacing new 2-week deliverables. Check in with Protofire for Blockscout, Lend, and potential for incentivized token for governance on Lend with % fee sharing from my original proposal.
 
 2024-04-07 Sun: [2hr] Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
