@@ -8,7 +8,11 @@ I worked on many new features that each of them could be a separate project:
 - **snapshot database:** I spearheaded efforts to optimize our snapshot database, refactoring the codebase and resolving numerous issues to ensure its successful operation. Despite encountering some remaining challenges, our progress in this area has been promising.
 - **eth database upgrade:** upgrading the eth database has been initiated to support snapshot functionality. The PR would be thousands lines of codes.
 
-Furthermore, we successfully addressed an unexpected Mainnet Shard 0 outage and Crosslink stuck situation, requiring intensive effort over several days and the implementation of multiple PRs. In parallel, I made several enhancements to our network configuration file, introducing new configurations and segregating cache configurations for improved manageability. 
+Furthermore, we successfully addressed an unexpected Mainnet Shard 0 outage and Crosslink stuck situation, requiring intensive effort over several days and the implementation of multiple PRs. 
+
+The outage on shard 0 highlighted significant technical challenges, including the inclusion of outdated crosslink data within block proposals and issues with the deployment of snapDB. To address these challenges, We added many new logs, developed and deployed hotfixes, alongside with grafana alerts, to bypass the validation failures and node stagnation. Process improvements focused on enhancing crosslinks processing, new deployment procedures for critical updates, ensuring synchronization of components, and bolstering monitoring and alerting capabilities. These measures aim to mitigate the risk of future outages, enhance network stability, and improve overall reliability.
+
+In parallel, I made several enhancements to our network configuration file, introducing new configurations and segregating cache configurations for improved manageability. 
 
 Overall, Q1 was marked by significant progress, with numerous issues addressed and a couple of new features has been developed and are in their final stages.
 
