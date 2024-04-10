@@ -18,9 +18,9 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 ----- 
 
-2024-04-07 Sun:
+2024-04-07 Sun: Design research for website banner, referencing other crypto platforms like Uniswap, Near, etc.
 
-2024-04-06 Sat: 
+2024-04-06 Sat: Design research on chat interfaces, referencing AI tools like chatgpt. Implemented design patterns, into my mocks. Will work with Nagesh to achieve same functionality. 
 
 2024-04-05 Fri: [harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
 
