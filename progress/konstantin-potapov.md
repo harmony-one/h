@@ -4,7 +4,7 @@ Protocol Engineering:<br>
 During Q1, my primary focus has revolved around leader rotation testing and activation. This involved rigorous testing across various scenarios, including sequential deactivation of internal nodes, fail tolerance, and performance measurements from remote regions. We successfully conducted tests on the devnet and anticipate further activation on the testnet.
 In addition to leader rotation, I've also explored a feature that allows skipping keys when they belong to a single address, enhancing recovery by redirecting to another validator instead of attempting keys of an already inactive one individually.
 I dedicated effort to resolving issues following HIP-30 activation, particularly concerning coincidences and a significant number of consensus losses.
-Furthermore, in my research endeavors, I delved deeper into the Groth16 native EVM implementation. I've completed the backend implementation and am currently focused on developing a Solidity wrapper. 
+Furthermore, in my research endeavors, I delved deeper into the Groth16 native EVM implementation. Native implementation requires precompiled contract, which one i've already implemented. Currently it required Solidity wrapper on the low level code, but i faced with total lack of utilities for local development. Groth16 is zero-knowledge, which allows a prover to convince a verifier of the truthfulness of a statement without revealing any additional information about the underlying data.  
 
 ---
 
