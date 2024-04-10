@@ -12,6 +12,16 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-04-09 Tue: Testing and fixing synchronization stage errors for the rollup services on an aws machine. Started deploying [op-batcher](https://github.com/ethereum-optimism/optimism/tree/develop/op-batcher) and [op-proposer](https://github.com/ethereum-optimism/optimism/tree/develop/op-proposer) services.
+
+2024-04-08 Mon: Deployed the op-node and op-g-eth services corrected for harmony shard 1 on an aws machine. [Generated](https://github.com/potvik/optimism/pull/1/commits/b3c3f939e29cfa2923bec950b41cc5c9a7e9fc44) artifacts for contracts and transferred them to the AWS instance. Started testing rollup synchronization step on an AWS machine.
+
+---
+
+2024-04-05 Fri: During local testing, I received a set of block validation errors when synchronizing L2 with Harmony Shard 1 (L1). Partially [disabled](https://github.com/potvik/optimism/pull/1/commits/33e9b3449757190e13629a4cc93e3872f3b3e7e6) block validation to continue synchronization. I continue to debug the op-node service and search for the cause of the errors.
+
+2024-04-04 Thu: To solve the problem with deploying contracts to L1 Harmony Shard 1 (described earlier), [disabled](https://github.com/potvik/optimism/pull/1/commits/e0d272c6c226adf871523b3fc770f70480633a91) the use of create 2. Also corrected several scripts to use legacy transactions instead of the EIP-1559 ones.
+
 2024-04-03 Wed: Tried to solve the problem using [Create2](https://book.getfoundry.sh/tutorials/create2-tutorial) [deployer](https://github.com/Arachnid/deterministic-deployment-proxy) on Harmony. It is possible to deploy create2 to another (not default) address on Harmony. The only issue is to force Foundry to use another address instead of default one. It is technically doable, just need a bit more time to do this. But keep in mind, that the permit2 address will be different than the default (official) one. And it is impossible to deploy it to the official address, unless Harmony Mainnet will disable EIP-155 (at least for 1 transaction). Here is a long issue thread on foundry github related this [issue](https://github.com/foundry-rs/foundry/issues/2638). It is still opened btw.
 
 2024-04-02 Tue: Continue building custom [Op Stack rollup](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup) and deploying L1 contracts on Harmony Shard 1. A problem was discovered when deploying contracts. Create2 deployer that is used by Foundry (and therefore by script for deploying permit2) is not deployed on Harmony, and it cannot be deployed, because its transaction is presigned without chainId, and Harmony is EIP-155 protected, which requires chainId to be a part of the transaction.
