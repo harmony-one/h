@@ -1,7 +1,8 @@
 **2-Week Deliverables by 2024-03-31:**
 
+2024-04-9 Tue: 2024-04-9 Tue: Continued working on AI bots refactoring and adding subagent logic.
 
-2024-04-8 Mon: 2024-04-8 Mon: Keep working on the llamaIndex subAgents for harmony1bot.
+2024-04-8 Mon: Keep working on the llamaIndex subAgents for harmony1bot.
 
 ---
 2024-04-05 Fri: Finished openAI, and Dalle bots as a [derived class of llmsBase](https://github.com/harmony-one/HarmonyOneBot/pull/362), added session handling, and kept refactoring AI bots. Started working on llamaAgent (collection handling for PDF and URL) so each AI bot can use it.
