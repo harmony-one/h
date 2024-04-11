@@ -1,4 +1,5 @@
-**2-Week Deliverables by 2024-03-31:**
+**2-Week Deliverables by 2024-04-19:**
+_Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
 2024-04-10 Wed: Finished refactoring the openai module into a llmsBase-derived subclass; also finished the first iteration of the [web crawler subagent](https://github.com/harmony-one/HarmonyOneBot/pull/362) and deployed it on harmony0bot for testing. Now, every model that has the subagent can include web crawling on its completion. Currently, Gemini and Openai models have it.  
 
