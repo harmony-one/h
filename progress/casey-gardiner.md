@@ -4,26 +4,26 @@ Q1 of 2024 has been a period of significant advancements and solid growth for th
 
 **Leadership and Project Management**<br>
 My leadership was instrumental in steering the protocol's development and ensuring alignment with our strategic goals:
-* Lead Protocol Meetings: Regular protocol discussions are convened to align development priorities, tackle technical challenges, and foster a cohesive engineering culture.
-* Code Reviews and Branch Management: Spearheaded code review sessions and managed multiple development branches, significantly improving our codebase quality and facilitating smoother future development.
-* Jira Progress Boards Organization: Implemented SCRUM-based Jira boards to streamline our engineering efforts, enhancing team productivity and project tracking.
+* **Lead Protocol Meetings:** Regular protocol discussions are convened to align development priorities, tackle technical challenges, and foster a cohesive engineering culture.
+* **Code Reviews and Branch Management:** Spearheaded code review sessions and managed multiple development branches, significantly improving our codebase quality and facilitating smoother future development.
+* **Jira Progress Boards Organization:** Implemented SCRUM-based Jira boards to streamline our engineering efforts, enhancing team productivity and project tracking.
 
 **Research and Development**<br>
 Research forms the backbone of our protocol's innovation:
-* Research Reports: Delivered comprehensive research reports on upcoming incentives, guiding our strategic planning and decision-making processes.
-* Network Incident Reports and HIP-32 Proposal: Authored detailed incident reports and reformed the HIP-32 proposal, contributing to our network's resilience and governance model refinement.
-* Smart Contract Audits: Conducted extensive audits on key smart contracts (Lend, Swap, Liquidity), providing critical insights to fortify our network's security and reliability.
+* **Research Reports:** Delivered comprehensive research reports on upcoming incentives, guiding our strategic planning and decision-making processes.
+* **Network Incident Reports and HIP-32 Proposal:** Authored detailed incident reports and reformed the HIP-32 proposal, contributing to our network's resilience and governance model refinement.
+* **Smart Contract Audits:** Conducted extensive audits on key smart contracts (Lend, Swap, Liquidity), providing critical insights to fortify our network's security and reliability.
 
 **Community Engagement and Outreach**<br>
 Actively engaged with the blockchain community, reinforcing Harmony's presence and fostering partnerships:
-* Global Blockchain Events: Participated in leading blockchain events (DevConnect, ETHDenver, ETHLondon, ETHTaipei, ETHSeoul), representing Harmony and engaging with community members and partners.
-* Mentorship: I have served as a mentor at various events, onboarding new engineers to Harmony and broader EVM chains and strengthening our developer community.
-* Project Outreach: Led outreach for stealth projects considering building on Harmony, notably Partie/AWS, broadening our ecosystem and fostering innovation.
+* **Global Blockchain Events:** Participated in leading blockchain events (DevConnect, ETHDenver, ETHLondon, ETHTaipei, ETHSeoul), representing Harmony and engaging with community members and partners.
+* **Mentorship:** I have served as a mentor at various events, onboarding new engineers to Harmony and broader EVM chains and strengthening our developer community.
+* **Project Outreach:** Led outreach for stealth projects considering building on Harmony, notably Partie/AWS, broadening our ecosystem and fostering innovation.
 
 **Incentive Management and Gaming Initiatives**<br>
 Managed vital initiatives to drive protocol adoption and engagement:
-* Protofire Incentives Management: Oversaw the Protofire incentives, ensuring their effective execution and alignment with our lending and swapping mechanisms.
-* Web3 Gaming Research: Conducted research to support the development of a Web3 game, aiming to combine fun with functional engagement to attract more users to our network.
+* **Protofire Incentives Management:** Oversaw the Protofire incentives, ensuring their effective execution and alignment with our lending and swapping mechanisms.
+* **Web3 Gaming Research:** Conducted research to support the development of a Web3 game, aiming to combine fun with functional engagement to attract more users to our network.
 
 Q1 2024 has been marked by concerted efforts to enhance Harmony Protocol's technical foundation, governance, and community engagement. My leadership across these domains has driven progress and laid a robust foundation for our ecosystem's continued growth and evolution. As we look ahead, I am committed to sustaining this momentum, fostering innovation, and further solidifying Harmony's position as a leading blockchain platform.
 
