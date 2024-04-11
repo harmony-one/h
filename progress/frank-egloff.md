@@ -1,8 +1,10 @@
 **2-Week Deliverables by 2024-03-31:**
 
-2024-04-9 Tue: 2024-04-9 Tue: Continued working on AI bots refactoring and adding subagent logic.
+2024-04-10 Wed: Finished refactoring the openai module into a llmsBase-derived subclass; also finished the first iteration of the [web crawler subagent](https://github.com/harmony-one/HarmonyOneBot/pull/362) and deployed it on harmony0bot for testing. Now, every model that has the subagent can include web crawling on its completion. Currently, Gemini and Openai models have it.  
 
-2024-04-8 Mon: Keep working on the llamaIndex subAgents for harmony1bot.
+2024-04-09 Tue: Continued working on AI bots refactoring and adding subagent logic.
+
+2024-04-08 Mon: Keep working on the llamaIndex subAgents for harmony1bot.
 
 ---
 2024-04-05 Fri: Finished openAI, and Dalle bots as a [derived class of llmsBase](https://github.com/harmony-one/HarmonyOneBot/pull/362), added session handling, and kept refactoring AI bots. Started working on llamaAgent (collection handling for PDF and URL) so each AI bot can use it.
