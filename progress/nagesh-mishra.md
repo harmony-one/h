@@ -1,6 +1,7 @@
 
 **2-week Deliverables**
  Continue with ONE Resume, chat interface first, connect with vector store that Yuriy is building.
+ 
 
 ---
 
@@ -19,6 +20,7 @@ Over the next two weeks, the focus will be on implementing hot reload for ONE (V
 
 
 --- 
+2024-04-11 Thu: Working on the ONE Resume new design https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=50-2&mode=design&t=aIFeyrYeh8r5G7aH-0
 
 2024-04-10 Wed: Ramzan Holiday
 
