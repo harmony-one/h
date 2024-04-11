@@ -1,8 +1,16 @@
+
+**2-week Deliverables**
+ Continue with ONE Resume, chat interface first, connect with vector store that Yuriy is building.
+
+---
+
 Q1 Review:
 
 I integrated OpenAI's Whisper in the Voice AI app, enabling features like Press & Hold and Tap to Speak. I also set up the safe-iOS project for the Harmony network, successfully launched it on TestFlight for real-time testing, and conducted research and development on MetaMask and Keplr Wallet, customizing the Telegram iOS project to meet specific needs. Additionally, I implemented location services in the Voice-on app to fetch and display addresses during audio recording saves, deployed these updates to TestFlight, and studied the Farcaster network, reviewing its documentation and experimenting with an unofficial Flutter SDK.
 
 I developed the ONE (Voice) Map app, introducing features like a current location button, speech-to-text conversion using Whisper, and UI enhancements, deploying it to TestFlight with the integration of CodePush for streamlined updates and enhanced app stability. I also began the ONEResume project in React Native, integrating CodePush for updates and adding a feature that allows users to upload their resumes and receive feedback from Claude-3, further extending the functionality and user engagement of the app.
+
+Throughout Q1, tackling the technical challenges associated with React Native reload mechanisms was a significant aspect of my work. Implementing CodePush in the projects like ONE (Voice) Map and ONEResume was a strategic decision to overcome the limitations of traditional live reloading and hot reloading. This approach allowed for direct updates to the users devices without requiring them to download a new version from the app store, leading to a more seamless user experience. The impact of these technical enhancements was profound, as it not only accelerated the deployment process but also improved the overall stability and reliability of the apps. 
 
 **2-week Deliverables**
 
