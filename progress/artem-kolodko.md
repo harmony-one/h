@@ -12,6 +12,8 @@ Continue with Harmony Portfolio: complete Swap and add Send & Receive page.
 
 ---
 
+2024-04-11 Thu: investingated issue with ERC20 contract indexer with Soph (Joskins need this data for rewards, based on ERC20 holders list), prepared [PR](https://github.com/harmony-one/explorer-v2-backend/pull/114/files) with fix, updated tokens indexer.
+
 2024-04-10 Wed: [completed](https://github.com/harmony-one/ONE-Resume-AI/pull/1) web build for OneResumeAI, deployed an update: [https://one-resume-ai.netlify.app/](https://one-resume-ai.netlify.app/); but having wrong response from our AI service (https://harmony-llm-api-dev.fly.dev), asked Nagesh for help. Investingating issue with indexing [ERC20 contract](https://explorer.harmony.one/address/0x51d76b3324074e8255fafe699408ec4401b29c4e) (request from Soph).
 
 2024-04-09 Tue: [added](https://github.com/harmony-one/harmony-portfolio/commit/78308760ca77aceff01edbf102f924d66be5d1d0) trade quote loading status, improved swpa UI in Harmony Portfolio, [deployed](https://harmony-portfolio.netlify.app/swap) an update. Investigating a bug in Explorer client - missing Holders tab on [address page](https://explorer.harmony.one/address/0x51d76b3324074e8255fafe699408ec4401b29c4e?activeTab=6) (Soph asked for it).
