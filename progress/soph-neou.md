@@ -4,6 +4,12 @@ In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives ai
 
 Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
 
+---
+**2024-4-14: Weekly update**
+
+Throughout the week, my focus has been on addressing the critical issue of the shard 1 testnet/devnet no committee problem, which resulted in a network without consensus. My goal has been to identify a solution to prevent this issue from recurring and to mitigate potential risks on the mainnet. While I was able to replicate the issue in localnet by Friday, finding a definitive fix remains uncertain. The challenge lies in shard 1 using the last epoch committee when it becomes stuck, rather than the latest committee. I've identified the root cause as the shard 1 crosslink not being sent or processed by shard 0. As a long-term solution applicable to the mainnet, we're exploring options to ensure that validators are not excluded from the new committee when their signature performance metrics are not being updated, resulting in having 0 "signed" out of 0 "to sign".
+
+---
 **2024-4-5 Fri: Weekly update**
 
 During the week, we encountered issues with Shard 0 devnet, where the consensus went down twice. However, a simple restart of the cluster effectively resolved the problem on both occasions. Upon conducting a root cause analysis, I identified that a validator had mistakenly switched its consensus mode to "syncing" preventing its participation in the consensus process. Further analysis is still pending.
@@ -16,6 +22,7 @@ Furthermore, I meticulously tested and reviewed the [isbackup PR fix](https://gi
 
 Lastly, I provided comprehensive assistance to joskins, offering technical guidance and addressing issues related to contract deployment using Remix for an upcoming token pre-sale. 
 
+---
 **Q1 Impact and Performance Summary**:
 
 Throughout Q1, I've played a pivotal role in addressing technical challenges and advancing key initiatives within our project. Notably, I collaborated with team members on resolving issues such as testnet leader rotation activation hurdles and enhancing our mainnet oracle integration with Band. Moreover, my efforts in troubleshooting and providing support for various development tasks, including HIP30 state verification failures and devnet consensus loss investigations, have contributed to the overall progress and stability of our ecosystem.
