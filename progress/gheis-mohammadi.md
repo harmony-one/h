@@ -1,3 +1,8 @@
+**2024-04-13 Saturday**
+As we move towards achieving a fully decentralized network and implementing HIP32, effective communication between nodes becomes crucial. This necessitates having a reliable and operational stream sync, which is of utmost importance. Over the past few months, we've implemented numerous changes to both the stream codes and consensus module. However, these alterations have led to instability in the sync protocol and communication between the sync and consensus modules. Currently, my main focus is on addressing these issues. I'm working on a couple of code fixes and conducting tests to ensure that everything functions as expected.
+
+---
+
 **2024 Q1 Review**
 In Q1, my focus was on enhancing the functionality and stability of Harmony network. Throughout the quarter, I dedicated considerable efforts to resolving various issues including known blocks, stuck transactions, p2p client crashes, race conditions, configurations and logs, syncing issues and so on. These efforts were instrumental in maintaining the stability and reliability of our networks.
 
