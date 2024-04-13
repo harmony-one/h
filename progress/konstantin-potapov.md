@@ -1,3 +1,7 @@
+2024-04-13 Fri: This week i provided additional logging for consensus, block proposing and synchronization. Additionally, i created a PR without periodic synchronization calls. This was a drawback for a stuck node to force sync process, but calls for the method may cause consensus loss.
+
+---
+
 2024 Q1 Summary<br>
 
 Protocol Engineering:<br>
@@ -8,7 +12,7 @@ Furthermore, in my research endeavors, I delved deeper into the Groth16 native E
 
 ---
 
-2024-04-05 Fro: This week, I'm with Diego and Soph investigating the issue with external validator, which not being elected by the consensus. Additionally, i provided several PRs which increase the stability of the network. 
+2024-04-05 Fri: This week, I'm with Diego and Soph investigating the issue with external validator, which not being elected by the consensus. Additionally, i provided several PRs which increase the stability of the network. 
 
 ---
 
