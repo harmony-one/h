@@ -1,7 +1,12 @@
 
 **2-week Deliverables**
  Continue with ONE Resume, chat interface first, connect with vector store that Yuriy is building.
- 
+
+--- 
+
+2024-04-15 Tue: Refactoring and fixing the bugs.
+
+2024-04-15 Mon: Finished the new design for ONE Resume and integrated the Claude API.
 
 ---
 
@@ -18,8 +23,10 @@ Throughout Q1, tackling the technical challenges associated with React Native re
 
 Over the next two weeks, the focus will be on implementing hot reload for ONE (Voice) Map, enhancing its UI design, optimizing app performance, and fixing the swipe functionality bug, especially with larger text volumes. Aim to improve user experience in the Voice AI app following the Whisper integration and app submissions to TestFlight.
 
-
 --- 
+
+2024-04-12 Fri: Continue on the new design. 
+
 2024-04-11 Thu: Working on the ONE Resume new design https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=50-2&mode=design&t=aIFeyrYeh8r5G7aH-0
 
 2024-04-10 Wed: Ramzan Holiday
