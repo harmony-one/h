@@ -12,6 +12,10 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
+2024-04-15 Mon: Harmony Portfolio: added USD amount data for ERC20 user tokens in Dashboard (prices fetched from Harmony Bridge), [updated](https://harmony-portfolio.netlify.app/dashboard) the client
+
+---
+
 2024-04-12 Fri: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/cfc292e642d80c1f49c2aa8b9a0056a19c57470e) ERC20 tokens list in Dashboard, deployed an [update](https://harmony-portfolio.netlify.app/dashboard)
 
 2024-04-11 Thu: investingated issue with ERC20 contract indexer with Soph (Joskins need this data for rewards, based on ERC20 holders list), prepared [PR](https://github.com/harmony-one/explorer-v2-backend/pull/114/files) with fix, updated tokens indexer.
