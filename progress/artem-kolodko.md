@@ -8,7 +8,7 @@ During work on the Swap page in the Harmony Portfolio, I encountered difficultie
 
 **2-Week Deliverables by 2024-04-19:**
 
-Continue working on Harmony Portfolio: complete Swap page validations and error messsages (user balance, available amount, allowance), add USD amount for each token in user portfolio on [Dashboard page](https://portfolio.metamask.io). Implement Send & Receive [page](https://portfolio.metamask.io/send).
+Continue working on Harmony Portfolio: complete Swap page validations and error messages (user balance, available amount, allowance), add USD amount for each token in user portfolio on [Dashboard page](https://portfolio.metamask.io). Implement Send & Receive [page](https://portfolio.metamask.io/send).
 
 ---
 
