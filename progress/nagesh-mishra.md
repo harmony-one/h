@@ -4,7 +4,7 @@
 
 --- 
 
-2024-04-15 Tue: Refactoring and fixing the bugs.
+2024-04-16 Tue: Refactoring and fixing the bugs.
 
 2024-04-15 Mon: Finished the new design for ONE Resume and integrated the Claude API.
 
