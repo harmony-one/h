@@ -17,7 +17,7 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 ---
 2024-04-14 Sun: Editing graphic for ONE Show + sharing [community tweets](https://x.com/harmonyprotocol/status/1779688156369236249) on X.
 
-2024-04-13 Sat: Researching top notion websites via super.so and potion.so
+2024-04-13 Sat: Researching top notion websites via super.so and potion.so top templates listed [here](https://www.notion.so/harmonyone/Top-Notion-templates-harmony-one-f72fc964a9244c8192e8a9de45d37671?pvs=4)
 
 2024-04-12 Fri: /agi thread + community tweet onto Harmony.one
 
