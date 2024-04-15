@@ -12,6 +12,19 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 -----
 
+2024-04-15 Mon: Uploading [ONE Show onto Youtube](https://youtu.be/CQ7ASAIbTKg?si=YOqLZu1w2NyvXC3l) and sharing via [X](https://x.com/harmonyprotocol/status/1779973726584684796). [Co-marketing with Galaxii](https://x.com/harmonyprotocol/status/1779972624862658911) + downloading their IOS app and filming a demo. Working with Nagesh on Testflight launch.
+
+---
+2024-04-14 Sun: Editing graphic for ONE Show + sharing [community tweets](https://x.com/harmonyprotocol/status/1779688156369236249) on X.
+
+2024-04-13 Sat: Researching top notion websites via super.so and potion.so
+
+2024-04-12 Fri: /agi thread + community tweet onto Harmony.one
+
+2024-04-11 Thu:
+
+2024-04-10 Wed:
+
 2024-04-09 Tue: Design of the thumbnail for 'Data Availability on Shard 1' to be released on Friday. Downloading + editing community space & designing thumbnail, to be uploaded to Youtube. 
 
 2024-04-08 Mon: Joskins co-marketing, sync with Nagesh on [ONE Resume mocks](https://www.figma.com/file/s6yfrQGE31u3eXURyAiGYx/AIMM?type=design&node-id=0%3A1&mode=design&t=Z2Bfc9LWEFq7FNZJ-1). Resume review on Lever + marketing our open postings on Twitter. 
