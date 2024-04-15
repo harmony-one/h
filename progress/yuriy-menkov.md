@@ -12,6 +12,17 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-04-15 Mon: Studied the possibility of using SingleStore with AWS and use cases with Shard 1. Still lacking a general architectural understanding of the system. I'm planning to do another sync with Aaron.
+
+---
+
+2024-04-12 Fri: Synced with Aaron regarding the vector store. Discussed the [article](https://arxiv.org/pdf/2402.13435.pdf): not something we can copy and paste since it is uses a lot of LinkedIn proprietary data and unique structure. We decided that we could start development with some existing systems such as SingleStore
+
+2024-04-11 Thu: Started studying RAG and vector store for the LinkedIn resumes we have collected. Planning design vector store for Shard 1 Resume collection (have a system that can efficiently retrieve a reasonably small collection of relevant resume (100-500) from a very large pool (1M) given some context text descriptions)
+
+2024-04-10 Wed: Fixed several errors that prevented services from starting [op-batcher](https://github.com/ethereum-optimism/optimism/tree/develop/op-batcher) and [op-proposer](https://github.com/ethereum-optimism/optimism/tree/develop/op-proposer) services. Started testing the interaction of rollup layers using
+ [optimism sdk](https://docs.optimism.io/builders/chain-operators/tutorials/sdk).
+
 2024-04-09 Tue: Testing and fixing synchronization stage errors for the rollup services on an aws machine. Started deploying [op-batcher](https://github.com/ethereum-optimism/optimism/tree/develop/op-batcher) and [op-proposer](https://github.com/ethereum-optimism/optimism/tree/develop/op-proposer) services.
 
 2024-04-08 Mon: Deployed the op-node and op-g-eth services corrected for harmony shard 1 on an aws machine. [Generated](https://github.com/potvik/optimism/pull/1/commits/b3c3f939e29cfa2923bec950b41cc5c9a7e9fc44) artifacts for contracts and transferred them to the AWS instance. Started testing rollup synchronization step on an AWS machine.
