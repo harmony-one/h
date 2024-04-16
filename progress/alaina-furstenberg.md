@@ -1,6 +1,6 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
-2 week deliverables: Post partnerships, ecosystem news, industry news. Deliver mocks and guides for Portfolio and ONE Resume.
+2 week deliverables: Post partnerships, ecosystem news, community spaces, and product demos of ONE Resume/partnership products (1 tweet, 2 replies daily). Deliver iterations on ONE Resume and ONE Portfolio.
 
 ----
 
