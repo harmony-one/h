@@ -12,7 +12,7 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 -----
 
-2024-04-16 Tue: Writing + Publishing [Q1 Report](https://blog.harmony.one/p/q1-progress-on-harmony?r=1zilbf&utm_campaign=post&utm_medium=web). Designed thumbnail and shared via [X](https://x.com/harmonyprotocol/status/1780342906970075356). 
+2024-04-16 Tue: Writing + Publishing [Q1 Report](https://blog.harmony.one/p/q1-progress-on-harmony?r=1zilbf&utm_campaign=post&utm_medium=web). Designed thumbnail and shared via [X](https://x.com/harmonyprotocol/status/1780342906970075356). Operations sync with Amanda
 
 2024-04-15 Mon: Uploading [ONE Show onto Youtube](https://youtu.be/CQ7ASAIbTKg?si=YOqLZu1w2NyvXC3l) and sharing via [X](https://x.com/harmonyprotocol/status/1779973726584684796). [Co-marketing with Galaxii](https://x.com/harmonyprotocol/status/1779972624862658911) + downloading their IOS app and filming a demo. Working with Nagesh on Testflight launch.
 
