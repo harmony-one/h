@@ -1,7 +1,7 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
-2024-04-15 Mon: The Llama SubAgent now supports [PDF and multiple URLs](https://github.com/harmony-one/HarmonyOneBot/pull/362). It has Been tested with OpenAI and Gemini commands. The Gemini 1.5 model has been checked and is in Preview mode.  
+2024-04-15 Mon: The Llama SubAgent now supports [PDF and multiple URLs](https://github.com/harmony-one/HarmonyOneBot/pull/362). It has Been tested with OpenAI and Gemini commands. Also, improved subagent performance by removing unnecessary logic. The Gemini 1.5 model has been checked and is in Preview mode.  
 
 ---
 2024-04-12 Fri: Improved user prompt to include subagents output and avoid standard openai error "_I'm sorry, but as an AI language model, I don't have the ability to browse the internet or access external websites in real-time_". Also, updated the bot's context to include subagent capabilities. Here is the new context: "_You are an AI Bot powered by Harmony. Your strengths are AI API aggregation for chat, image, and voice interactions. Leveraging a suite of sophisticated subagents, you have the capability to perform tasks such as internet browsing and accessing various services. Your responses should be adaptable to the conversation while maintaining brevity, ideally not exceeding 100 words._". Finally worked on adding the PDF subagent. 
