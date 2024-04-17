@@ -22,7 +22,9 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 2024-04-12 Fri: Meeting with Encode for developer relations. Insights: Potential inclusion of Harmony in AI and crypto hackathons. PRD for ONE Resume.
 
-2024-04-11 Thu: Elaboration on Joskins support and alignment of merch.   2024-04-10 Wed: Sync with Stephen for continuation of Q2 and alignment for internal and apps team. Set up meeting with Encode for Friday to improve developer relations.
+2024-04-11 Thu: Elaboration on Joskins support and alignment of merch.
+
+2024-04-10 Wed: Sync with Stephen for continuation of Q2 and alignment for internal and apps team. Set up meeting with Encode for Friday to improve developer relations.
 
 2024-04-09 Tue: Approved listing for Swap. [Stats](https://lend-info-stg-country.safe.protofire.io) for Lend in progress. Emailed Coinbase asset outreach as advised from Coinbase representative.
 
