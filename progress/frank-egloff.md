@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
+2024-04-16 Tue: Refactored [harmony-llms-api](https://github.com/harmony-one/harmony-llm-api/pull/17) to work with the latest Gemini packages in order to support Gemini 1.5. Also added [/g15 and /gemini15 commands](https://github.com/harmony-one/HarmonyOneBot/pull/362) to 1Bot, and refactored the session object, and deleted unused modules. 
+
 2024-04-15 Mon: The Llama SubAgent now supports [PDF and multiple URLs](https://github.com/harmony-one/HarmonyOneBot/pull/362). It has Been tested with OpenAI and Gemini commands. Also, improved subagent performance by removing unnecessary logic. The Gemini 1.5 model has been checked and is in Preview mode.  
 
 ---
