@@ -8,6 +8,22 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-04-17 Wed: Meeting with Encode for AI/Crypto hackathon for pricing and potential outcomes. 
+
+2024-04-16 Tue: Continued Encode discussion for AI and Crypto developments. Updated deliverables. Discussed alternative approach to product development with user focus with Stephen.
+
+2024-04-15 Mon: Started coinbase requirement docs. Coordinated with Soph for social media hires. Backfill and outreach for daily updates.
+
+---
+
+2024-04-14 Sun: [3hr] Research for Bitcoin and Runes. Insights: programmability of bitcoin will continue to increase, chasing bitcoin would not lead to ideal results, better path is building infrastructure that allows people to easily navigate bitcoin as their fees become far too high and the network gets congested.
+
+2024-04-13 Sat: [1hr] Community outreach.
+
+2024-04-12 Fri: Meeting with Encode for developer relations. Insights: Potential inclusion of Harmony in AI and crypto hackathons. PRD for ONE Resume.
+
+2024-04-11 Thu: Elaboration on Joskins support and alignment of merch.   2024-04-10 Wed: Sync with Stephen for continuation of Q2 and alignment for internal and apps team. Set up meeting with Encode for Friday to improve developer relations.
+
 2024-04-09 Tue: Approved listing for Swap. [Stats](https://lend-info-stg-country.safe.protofire.io) for Lend in progress. Emailed Coinbase asset outreach as advised from Coinbase representative.
 
 2024-04-08 Mon: Q1 review for % split. Coordination for /progress, replacing new 2-week deliverables. Check in with Protofire for Blockscout, Lend, and potential for incentivized token for governance on Lend with % fee sharing from my original proposal.
