@@ -12,6 +12,8 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
+2024-04-17 Wed: Harmony Portfolio - added Receive page with QR code (similar to this one: https://portfolio.metamask.io/send?tab=receive); started working on validations on Send page
+
 2024-04-16 Tue: [Added](https://github.com/harmony-one/harmony-portfolio/commit/a98131b96b3fd285ec43ed2d661017af0c5566a2) basic components for Send & Receive page, [added](https://github.com/harmony-one/harmony-portfolio/commit/1f93617af13bfa3229da041e581325054d39452c) insufficiend balance message on Swap page and [calculation](https://github.com/harmony-one/harmony-portfolio/commit/22753efc82955901dd02513bde38981df586c731) of total USD value in Portfolio.
 
 2024-04-15 Mon: Harmony Portfolio: added USD amount data for ERC20 user tokens in Dashboard (prices fetched from Harmony Bridge), [updated](https://harmony-portfolio.netlify.app/dashboard) the client
