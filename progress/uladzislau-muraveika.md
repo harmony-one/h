@@ -1,3 +1,11 @@
+2024-04-18 Thursday: The main focuses after 1 week vacation:
+* I was focused on the Nginx rate-limiting solution and my main concern was how to properly monitor it.
+* I've done a research on the possible solutions and stopped on the following tool set:
+  *  [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) -> Prometheus -> Grafana
+* And on Thursday I've shown the my research to Soph, gotten feedback and started actual implementation
+
+---
+
 2024-04-05 Friday: The main focuses on this week:
 * finished setup of two snapshot nodes for the shard 0 and shard 1 in the testnet, users are already using them
 * aware team about fresh xz vulnerability - we are safe
