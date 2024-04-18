@@ -1,8 +1,22 @@
+2024-04-14 Sun: [1 hour] Moved some boxes out of the office.
+
+2024-04-13 Sat: [1 hour] Reviewed progress and code for performance reviews. 
+
+2024-04-12 Fri: Frameworked a extension system for automatic job application.
+
+2024-04-11 Thu: Tested using selenium for automatic job application. Ran into recaptcha issues.
+
+2024-04-10 Wed: Wrote basic form filling with selenium.
+
+2024-04-09 Tue: Sync on automatic job application matching (applicant side rather than employer side).
+
+2024-04-08 Mon: Revised and finalized performance reviews. 
+
 ---
 
-2023-04-07 Sun: Moved some big items out of the office.
+2023-04-07 Sun: [4 hours] Moved some big items out of the office.
 
-2023-04-06 Sat: Reviewed more system engineer resumes.
+2023-04-06 Sat: [1 hour] Reviewed more system engineer resumes.
 
 2023-04-05 Fri: Wrote and revised employee reviews.
 
