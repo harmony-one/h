@@ -8,7 +8,9 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
-2024-04-17 Wed: Meeting with Encode for AI/Crypto hackathon for pricing and potential outcomes. 
+2024-04-18 Thu: Drafted team Q2 assignments. Started 1Bot doc for real-time Harmony information with Tenacious. Coordination with Protofire for Lend. Insight: Lend needs additional liquidity for the automated money market to flow smoother, suggestion 10k USD total split accross each provided token.
+
+2024-04-17 Wed: Meeting with Encode for AI/Crypto hackathon for pricing and potential outcomes. Attended ONE show.
 
 2024-04-16 Tue: Continued Encode discussion for AI and Crypto developments. Updated deliverables. Discussed alternative approach to product development with user focus with Stephen.
 
