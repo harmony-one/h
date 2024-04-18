@@ -1,4 +1,14 @@
-2023-04-03 Wed: Reviewed applicant resumes and noted good and basd aspects for training. 
+---
+
+2023-04-07 Sun: Moved some big items out of the office.
+
+2023-04-06 Sat: Reviewed more system engineer resumes.
+
+2023-04-05 Fri: Wrote and revised employee reviews.
+
+2023-04-04 Thu: Manually reviewed applicants for system engineer.
+
+2023-04-03 Wed: Reviewed applicant resumes and noted good and bad aspects for training. 
 
 2023-04-02 Tue: Continued Lever API resume pulling.
 
