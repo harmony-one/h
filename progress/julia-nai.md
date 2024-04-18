@@ -1,3 +1,17 @@
+2 week: Minimal application agent. Apply for a specific job using an LLM and autofill to intelligently respond to all application questions based on resume and any user input.
+
+---
+
+2024-04-18 Thu: Packed boxes at the office. Packed swag and cleaned closet. Moved desk and some chairs out.
+
+2024-04-17 Wed: Synced on expectations for extension form filling. Set 2 week deliverables. 
+
+2024-04-16 Tue: Drafted system engineer requirements that are not listed in job description. Tested different input methods for ChatGPT to get best resume matches. 
+
+2024-04-15 Mon: Tested form filling with chrome extensions. Reviewed more system engineer applicants.
+
+---
+
 2024-04-14 Sun: [1 hour] Moved some boxes out of the office.
 
 2024-04-13 Sat: [1 hour] Reviewed progress and code for performance reviews. 
