@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
+2024-04-18 Thu: Finished implementing the [/pdf and /ctx commands](https://github.com/harmony-one/HarmonyOneBot/pull/362) and added logic to allow the same command to be shared between different bots. Also, started working on Claude's tool feature. 
+
 2024-04-17 Wed: Deployed the latest changes, including Gemini 1.5 to 1Bot. Started working on adding pdf and ctx commands. I had food poisoning and took the rest of the day off. 
 
 2024-04-16 Tue: Refactored [harmony-llms-api](https://github.com/harmony-one/harmony-llm-api/pull/17) to work with the latest Gemini packages in order to support Gemini 1.5. Also added [/g15 and /gemini15 commands](https://github.com/harmony-one/HarmonyOneBot/pull/362) to 1Bot, and refactored the session object, and deleted unused modules. 
