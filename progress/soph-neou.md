@@ -4,8 +4,14 @@ In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives ai
 
 Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
 
+
 ---
-**2024-4-14: Weekly update**
+**2024-4-19: Weekly update**
+
+AWay 3 days from Mon to Wed. In the last two days, I continued the investigation into the Harmony code base in order to address the consensus issue affecting shard 1 on the testnet and devnet.
+
+---
+**2024-4-12: Weekly update**
 
 Throughout the week, my focus has been on addressing the critical issue of the shard 1 testnet/devnet no committee problem, which resulted in a network without consensus. My goal has been to identify a solution to prevent this issue from recurring and to mitigate potential risks on the mainnet. While I was able to replicate the issue in localnet by Friday, finding a definitive fix remains uncertain. The challenge lies in shard 1 using the last epoch committee when it becomes stuck, rather than the latest committee. I've identified the root cause as the shard 1 crosslink not being sent or processed by shard 0. As a long-term solution applicable to the mainnet, we're exploring options to ensure that validators are not excluded from the new committee when their signature performance metrics are not being updated, resulting in having 0 "signed" out of 0 "to sign".
 
