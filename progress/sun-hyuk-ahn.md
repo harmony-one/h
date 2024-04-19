@@ -11,7 +11,13 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-04-16 Tue:
+2024-04-19 Fri:
+
+2024-04-18 Thu: Calculated throughput for our chain. Cleaned and packed boxes at the office for move out day.
+
+2024-04-17 Wed: Started benchmarking process, more into how Near and Celestia calculated the costs. Will talk to Soph on how to calculate our costs.
+
+2024-04-16 Tue: Started looking into resume matching for system engineers of 4 or more years. Discussed with Theo on the ongoing process and progress.
 
 2024-04-15 Mon: Continued working on the data availability article, as well as calculating costs. Trying to make a correlation with each block produced to the cost.
 
