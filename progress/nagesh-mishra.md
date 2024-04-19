@@ -3,6 +3,11 @@
  Continue with ONE Resume, chat interface first, connect with vector store that Yuriy is building.
 
 --- 
+2024-04-19 Fri: Forked Privy and began working on it.
+
+2024-04-18 Thu: Awaiting feedback on the latest build of ONE Resume.
+
+2024-04-17 Wed: Implemented keyboard hide functionality, added Toast messages, and deployed the changes.
 
 2024-04-16 Tue: Refactoring and fixing the bugs.
 
