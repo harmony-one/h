@@ -12,7 +12,7 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
-2024-04-19 Fri: investingating Polygon CDK: followed tutorial tried to run Rollup on local machine, but got some error in one of the docker containers. After some research [found](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/docs/running_local.md#warning) that it cannot be runned on ARM-powered Macs.
+2024-04-19 Fri: investingating Polygon CDK: followed [tutorial](https://docs.polygon.technology/cdk/get-started/quickstart-rollup/) tried to run Rollup on local machine, but got some error in one of the docker containers. After some research [found](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/docs/running_local.md#warning) that it cannot be runned on ARM-powered Macs.
 
 2024-04-18 Thu: started working on Polygon CDK, researching docs, [preparing](https://docs.polygon.technology/cdk/get-started/quickstart-rollup/) local environment to launch it on local machine to check how it works.
 
