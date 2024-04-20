@@ -1,3 +1,8 @@
+**2024-04-19 Saturday**
+Last week, my focus was on enhancing the stream sync code and block storage functionality. I submitted a pull request (PR) aimed at improving and refactoring the stream sync block storage. Currently, this PR is undergoing team review. It is expected to enhance the stream sync's stability, provide more useful logs, and serve as a valuable step towards debugging.
+
+---
+
 **2024-04-13 Saturday**
 As we move towards achieving a fully decentralized network and implementing HIP32, effective communication between nodes becomes crucial. This necessitates having a reliable and operational stream sync, which is of utmost importance. Over the past few months, we've implemented numerous changes to both the stream codes and consensus module. However, these alterations have led to instability in the sync protocol and communication between the sync and consensus modules. Currently, my main focus is on addressing these issues. I'm working on a couple of code fixes and conducting tests to ensure that everything functions as expected.
 
