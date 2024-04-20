@@ -1,4 +1,8 @@
-2024-04-13 Fri: This week i provided additional logging for consensus, block proposing and synchronization. Additionally, i created a PR without periodic synchronization calls. This was a drawback for a stuck node to force sync process, but calls for the method may cause consensus loss.
+2024-04-19 Fri: This week, I provided a feature for checking the synchronization state while a node is in the view change process. This prevents the node from possibly getting stuck. Additionally, I published several PRs to improve node logging.   
+
+---
+
+2024-04-12 Fri: This week i provided additional logging for consensus, block proposing and synchronization. Additionally, i created a PR without periodic synchronization calls. This was a drawback for a stuck node to force sync process, but calls for the method may cause consensus loss.
 
 ---
 
