@@ -8,6 +8,10 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-04-20 Sat: [5hr] Spent time assigning and detailing Q2 deliverables. As we are now one month into Q2, it's crucial that we have a stable set of objectives to ensure we meet our goals. I suggest that ongoing tasks either be prioritized for completion or clearly identified as discontinued. This approach will help us avoid any ambiguity in our direction and ensure that all products are completed to a higher standard.
+
+2024-04-19 Fri: Clearing offices.
+
 2024-04-18 Thu: Drafted team Q2 assignments. Started 1Bot doc for real-time Harmony information with Tenacious. Coordination with Protofire for Lend. Insight: Lend needs additional liquidity for the automated money market to flow smoother, suggestion 10k USD total split accross each provided token.
 
 2024-04-17 Wed: Meeting with Encode for AI/Crypto hackathon for pricing and potential outcomes. Attended ONE show.
