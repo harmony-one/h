@@ -9,9 +9,9 @@ Deploying the Story Protocol on Harmony presented a formidable task, particularl
 ---
 2024-04-20 Sat (2.5 hrs): Working on the 3 goals for Q2 by conducting market research, mainly on cross-chain projects.
 
-2024-04-19 Fri: Further work on Polygon CDK by folling through Roll-up tutorial, setting up Docker, building and testing Docker image, workaround for MacOS, configuring node deployment. 
+2024-04-19 Fri: Further work on Polygon CDK by folling through Roll-up tutorial, setting up Docker, building and testing Docker image, workaround for MacOS, configuring node deployment. Clearing office.
 
-2024-04-18 Thu: Research on Hummingbot through checking out their Discord channel, watching their YouTube videos, and looking through their github documentation.
+2024-04-18 Thu: Research on Hummingbot through checking out their Discord channel, watching their YouTube videos, and looking through their github documentation. Clearing office.
 
 2024-04-17 Wed: Investigated Polygon CDK, following through their CDK rollup tutorial.
 
