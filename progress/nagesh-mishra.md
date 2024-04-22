@@ -1,4 +1,8 @@
 
+2024-04-22 Mon: Set up the Privy TestFlight build but currently encountering issues with configuration due to a mismatch in the callback URL.
+
+---
+
 **2-week Deliverables**
  Continue with ONE Resume, chat interface first, connect with vector store that Yuriy is building.
 
