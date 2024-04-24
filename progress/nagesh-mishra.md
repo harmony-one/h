@@ -1,4 +1,8 @@
 
+2024-04-24 Wed: I've been encountering 403 errors in Privy, and it seems other developers are experiencing the same issue. I have reached out to developer support for assistance.
+
+2024-04-23 Tue: Corrected the callback URL mismatch but am still encountering a 403 error with the Privy SDK. Currently working on resolving this issue.
+
 2024-04-22 Mon: Set up the Privy TestFlight build but currently encountering issues with configuration due to a mismatch in the callback URL.
 
 ---
