@@ -12,6 +12,10 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
+2024-04-24 Wed: Polygon CDK - continue source code research; checking configs and main [docker-compose](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/test/docker-compose.yml) file.
+
+2024-04-23 Tue: Harmony Portfolio: [completed](https://harmony-portfolio.netlify.app/send) Send page with ONE tokens support (ERC20 need to be added as well). Polygon CDK - started researching sources to use it in Harmony blockchain.
+
 2024-04-22 Mon: continue on Polygon CDK: configured workaround for Apple M1 and finally launched network on local machine; launched test suit with sample transactions.
 
 ---
