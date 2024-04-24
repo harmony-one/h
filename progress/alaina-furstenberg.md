@@ -12,7 +12,18 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 -----
 
-2024-04-16 Thu: Finalized and shared [$1,000,000 transaction volume on Swap](https://x.com/harmonyprotocol/status/1781097509005488620). Office operations.
+2024-04-23 Tue: Synced with Soph and Protofire on redesigning favicon for blockchain explorer and on designing a new logos for Blockscout. 
+
+2024-04-22 Mon: Posting of ONE Show Episode 2 to [Youtube](https://youtu.be/7f6I9g9v5SA) and [Twitter](https://x.com/harmonyprotocol/status/1782555403504758828) + thumbnail design. Downloaded Galaxii on Ios and filmed demo. Iterated on harmony.one banner.
+
+---
+2024-04-21 Sun: [Thread on Harmony merch vendors](https://x.com/harmonyprotocol/status/1782555403504758828)
+
+2024-04-20 Sat: Editing of ONE Show Episode 2
+
+2024-04-19 Fri: Harmony community update, office move
+
+2024-04-18 Thu: Finalized and shared [$1,000,000 transaction volume on Swap](https://x.com/harmonyprotocol/status/1781097509005488620). Office operations.
 
 2024-04-17 Wed: Iterating on graphic for $1,000,000 transaction volume on Swap. [Promoted ONE Episode 2](https://x.com/harmonyprotocol/status/1780727662358810984), joining on the call. Downloaded Galaxii web3 tiktok, filmed a demo to be shared via X.
 
