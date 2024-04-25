@@ -7,14 +7,19 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
 ---
+2024-04-24 Wed: Conducted market research for A(G)I data (specifically $EAT and $3D), existing validation with model training, data performance, labeling, and respective economic values.
+
+2024-04-23 Tue: Researched for Social A(G)I: ranking, farcaster frames (Farcaster.country) for "Human Protocol for love" (Hot or Not emoji reactions), $MAP (like Aaron's frames, token minting for location check-ins.)
+
+2024-04-22 Mon: Aided with configuration debugging for Privy fork (Auth0 API key setup in swift project.) Looked into RUNE, zkproofs (AiMM: salary matching for candidates and recruiters, purchase data for e-commerce), and further work on Polygon CDK reading and following documentation.
 
 2024-04-21 Sun: (1.5 hrs): Looked into/play tested AnotherWorld in preparation for campaigns.
 
 2024-04-20 Sat (2.5 hrs): Working on the 3 goals for Q2 by conducting market research, mainly on cross-chain projects.
 
-2024-04-19 Fri: Further work on Polygon CDK by folling through Roll-up tutorial, setting up Docker, building and testing Docker image, workaround for MacOS, configuring node deployment. Clearing office.
+2024-04-19 Fri: Further work on Polygon CDK by folling through Roll-up tutorial, setting up Docker, building and testing Docker image, workaround for MacOS, configuring node deployment. Cleared office.
 
-2024-04-18 Thu: Research on Hummingbot through checking out their Discord channel, watching their YouTube videos, and looking through their github documentation. Clearing office.
+2024-04-18 Thu: Research on Hummingbot through checking out their Discord channel, watching their YouTube videos, and looking through their github documentation. Cleared office.
 
 2024-04-17 Wed: Investigated Polygon CDK, following through their CDK rollup tutorial.
 
