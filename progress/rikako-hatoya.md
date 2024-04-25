@@ -7,7 +7,7 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
 ---
-2024-04-24 Wed: Conducted market research for A(G)I data (specifically $EAT and $3D), existing validation with model training, data performance, labeling, and respective economic values.
+2024-04-24 Wed: Conducted market research for A(G)I data (specifically $EAT and $3D), existing validation with model training, data performance, labeling, and respective economic values. Worked on Q2 deliverables.
 
 2024-04-23 Tue: Researched for Social A(G)I: ranking, farcaster frames (Farcaster.country) for "Human Protocol for love" (Hot or Not emoji reactions), $MAP (like Aaron's frames, token minting for location check-ins.)
 
