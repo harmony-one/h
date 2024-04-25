@@ -1,3 +1,4 @@
+2024-04-25 Thu: I verified with the React app at https://github.com/privy-io/create-next-app, and it works fine, suggesting the issue lies with the iOS example or with any configuration. I've raised this issue again with developer support. A team member mentioned that custom auth is an enterprise-level feature, so it may not work without an enterprise account. Meanwhile, I'm waiting for the repositories for rainbow, wallet-core-ios, and app-monorepo to be forked.
 
 2024-04-24 Wed: I've been encountering 403 errors in Privy, and it seems other developers are experiencing the same issue. I have reached out to developer support for assistance.
 
