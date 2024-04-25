@@ -13,6 +13,8 @@ Deploying the Story Protocol on Harmony presented a formidable task, particularl
 
 2024-04-22 Mon: Aided with configuration debugging for Privy fork (Auth0 API key setup in swift project.) Looked into RUNE, zkproofs (AiMM: salary matching for candidates and recruiters, purchase data for e-commerce), and further work on Polygon CDK reading and following documentation.
 
+---
+
 2024-04-21 Sun: (1.5 hrs): Looked into/play tested AnotherWorld in preparation for campaigns.
 
 2024-04-20 Sat (2.5 hrs): Working on the 3 goals for Q2 by conducting market research, mainly on cross-chain projects.
@@ -28,6 +30,8 @@ Deploying the Story Protocol on Harmony presented a formidable task, particularl
 2024-04-09 Tue: Mon continued + also spent personal time at a software engineer meetup to build connections.
 
 2024-04-08 Mon: More candidate search on lists on Layoff.fyi, LinkedIn, and Twitter. Also revised summary of story protocol deploy and looked into further integrations useful for our community.
+
+---
 
 2024-04-07 Sun: Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
 
