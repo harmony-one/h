@@ -4,6 +4,14 @@ In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives ai
 
 Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
 
+---
+**2024-4-26: Weekly update**
+
+This week, I've been diving deep into some critical tasks. First off, I've been helping test and review the latest feature addition to the Blockscout explorer currently being deeloped by Protofire, focusing on cross-shard and shard 1 support.
+
+Additionally, I've been heavily involved in resolving the shard 1 consensus loss issue. After successfully replicating the problem and testing a fix in the localnet, I've outlined the steps for resolution. This includes creating a hard fork to reinstate internal node voting power, reverting the shard 1 last block, and allowing shard 1 to propose and add a new block with the latest shard state. However, while tackling this issue, I encountered some new challenges. Firstly and originally the devnet went down with internal nodes losing their voting power, requiring me to shift focus to the external nodes' current voting power. Furthermore, despite the leader being able to add the new last block, the final commit isn't being received by other nodes in the network. Unfortunately, attempts to restore consensus through block download via syncing have been unsuccessful, as we're currently encountering block nil errors. 
+
+In addition to these tasks, I've also been assisting Gheis with testing PR 4660 for a Travis CI bug. We identified that the issue stems from the latest commit using short-range sync instead of long-range sync, causing localnet to stop producing block. We're currently investigating why the consensus mode switches to sync when short-range sync is used in a new network.
 
 ---
 **2024-4-19: Weekly update**
