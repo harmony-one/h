@@ -8,6 +8,16 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-04-25 Thu: Encode funding discussions for web3 + AI hackathon, research and suggestions for Harmony Defi: complete Harmony Portfolio to have the essential defi primitives all in ONE seamless location, then add a perpetual dex with LP tokens for community to earn generated fees as well as trader fees.
+
+2024-04-24 Wed: More research and discussions with Zi for Layer 3 protocol, off boarding Theo with Amanda.
+
+2024-04-23 Tue: New initiative with Zi for an open social graph, a layer 3 protocol concept and early discussions.
+
+2024-04-22 Mon: Meeting with Nagesh for q2 deliverables, scheduled meeting with Zi for timeless integration tomorrow, will sync with Artem and Frank following the meeting.
+
+2024-04-21 Sun: [1hr] Harmony AI docs.
+
 2024-04-20 Sat: [5hr] Spent time assigning and detailing Q2 deliverables. As we are now one month into Q2, it's crucial that we have a stable set of objectives to ensure we meet our goals. I suggest that ongoing tasks either be prioritized for completion or clearly identified as discontinued. This approach will help us avoid any ambiguity in our direction and ensure that all products are completed to a higher standard.
 
 2024-04-19 Fri: Clearing offices.
