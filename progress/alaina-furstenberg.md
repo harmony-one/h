@@ -12,6 +12,12 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 -----
 
+2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
+
+2024-04-25 Thu:
+
+2024-04-24 Wed:
+
 2024-04-23 Tue: Synced with Soph and Protofire on redesigning favicon for blockchain explorer and on designing a new logos for Blockscout. 
 
 2024-04-22 Mon: Posting of ONE Show Episode 2 to [Youtube](https://youtu.be/7f6I9g9v5SA) and [Twitter](https://x.com/harmonyprotocol/status/1782555403504758828) + thumbnail design. Downloaded Galaxii on Ios and filmed demo. Iterated on harmony.one banner.
