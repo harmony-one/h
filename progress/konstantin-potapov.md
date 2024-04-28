@@ -1,3 +1,7 @@
+2024-04-26 Fri: This week i was working on block proposing code. I provided additional logging, and refactored code, for feature seamless integration 1 second finality. Also, i'm collaborating with Adam on groth16 solidity part, i asked him to help me integrate web3 frameworks with local harmony development.   
+
+---
+
 2024-04-19 Fri: This week, I provided a feature for checking the synchronization state while a node is in the view change process. This prevents the node from possibly getting stuck. Additionally, I published several PRs to improve node logging.   
 
 ---
