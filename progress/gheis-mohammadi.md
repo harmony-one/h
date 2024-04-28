@@ -1,3 +1,8 @@
+**2024-04-27 Saturday**
+Last week, our primary focus revolved around investigating why nodes switched to syncing mode despite being fully synchronized. Additionally, I delved into resolving NTP and local net block production issues. Furthermore, efforts were directed towards addressing the build issue encountered in my latest pull request.
+
+---
+
 **2024-04-19 Saturday**
 Last week, my focus was on enhancing the stream sync code and block storage functionality. I submitted a pull request [#4660](https://github.com/harmony-one/harmony/pull/4660) aimed at improving and refactoring the stream sync block storage. Currently, this PR is undergoing team review. It is expected to enhance the stream sync's stability, provide more useful logs, and serve as a valuable step towards debugging.
 
