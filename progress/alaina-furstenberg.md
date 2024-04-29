@@ -12,6 +12,10 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 -----
 
+2024-04-28 Sun: re-design of harmony.one banner, 7 iterations pending approval.
+
+2024-04-27 Sat:
+
 2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
 
 2024-04-25 Thu:
