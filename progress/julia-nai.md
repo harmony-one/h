@@ -1,6 +1,20 @@
-2 week: Minimal application agent. Apply for a specific job using an LLM and autofill to intelligently respond to all application questions based on resume and any user input.
+2024-04-26 Fri: Worked on identifying top 10 arb wallets with highest profits tading the 100 most-liquid assets in the last 100 days.
+
+2024-04-25 Thu: Looked into former BTC bridge on Harmony. Looked into accomidating OP_RETURN data, locking mechanisms, and frameworking how a rune bridge would work. Plans to deploy corresponding ERC20 contract for a rune and $100 in liquidity on swap for select few runes. 
+
+2024-04-24 Wed: Discussed Rune bridge on Harmony with Jackie. Sent and updated Q2 deliverables.
+
+2024-04-23 Tue:
+
+2024-04-22 Mon:
 
 ---
+
+2024-04-21 Sun: [1 hour] reached out to a potential system engineer candidate (did not hear back). 
+
+2024-04-20 Sat: [2 hours] Moved a desk out of the office. 
+
+2024-04-19 Fri: Moved everything out of office. Helped with storage unit moving.
 
 2024-04-18 Thu: Packed boxes at the office. Packed swag and cleaned closet. Moved desk and some chairs out.
 
