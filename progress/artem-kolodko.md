@@ -10,6 +10,8 @@ During work on the Swap page in the Harmony Portfolio, I encountered difficultie
 
 Continue working on Harmony Portfolio: complete Swap page validations and error messages (user balance, available amount, allowance), add USD amount for each token in user portfolio on [Dashboard page](https://portfolio.metamask.io). Implement Send & Receive [page](https://portfolio.metamask.io/send).
 
+2024-04-29 Mon: researching Layer 3 docs for Timeless with general description of decentralized protocols for open social graph ([link1](https://docs.google.com/document/d/1UzcdSHSmSiJDMoqyJxgUjFLq-b6ENHric3LGY3c5hZU/edit#heading=h.c19i328f5vkb), [link2](https://docs.google.com/document/d/1_X4Yltq5PH2mpRrJ5v__EXG2rePQs6W3502v9ltlxLQ/edit#heading=h.i6qb1k6n8fs6)).
+
 ---
 
 2024-04-24 Wed: Polygon CDK - continue source code research; checking configs and main [docker-compose](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/test/docker-compose.yml) file.
