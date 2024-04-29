@@ -8,6 +8,16 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-04-29 Mon: Operations with Amanda, organizing q2 DeFi initiative of copy trading for Frank and Yuri. Q2 prioritizations remain unclear, as we tack on additional tasks others are getting left behind, I.e. coinbase forms. I’ve created and updated Nagesh, Frank, and Yuriy on tasks. Until a clear structure for q2, I will ignore daily tasks until these larger objectives are completed. Notified Encode of our cancellation of the hackathon due to our prioritization of further developing DeFi infrastructure and AI data.
+
+---
+
+2024-04-28 Sun: [1hr] Scheduling call during upcoming week with Amanda.
+
+2024-04-27 Sat: [2hr] Research on intent based contract interactions, looking to bring this to 1bot, or Harmony Portfolio. Harmony users should have a seamless way of navigating DeFi across all chains in ONE location, this is the basis of something we can build based on the tools we have with 1bot on telegram and Harmony Portfolio web app, main worry is prioritization and product direction get in the way of either one reaching completion. 
+
+2024-04-26 Fri: Off boarding Theo with Amanda, finalizing resources for Zi’s layer 3, prepared for twitter space. 
+
 2024-04-25 Thu: Encode funding discussions for web3 + AI hackathon, research and suggestions for Harmony Defi: complete Harmony Portfolio to have the essential defi primitives all in ONE seamless location, then add a perpetual dex with LP tokens for community to earn generated fees as well as trader fees.
 
 2024-04-24 Wed: More research and discussions with Zi for Layer 3 protocol, off boarding Theo with Amanda.
