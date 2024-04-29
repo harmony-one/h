@@ -7,13 +7,17 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
 ---
+
+2024-04-29 Mon: TBD
+
+---
 2024-04-28 Sun (1.5 hrs): Looked into how to wrap tokens to ERC20 on Harmony blockchain using OpenZeppelin and Hardhat.
 
 2024-04-27 Sat (1.5 hrs): Ramping up to understand BTC Rune: their functionalities and overview.
 
 2024-04-26 Fri: Had a meeting with Jackie and discussed the AnotherWorld project. We went over Rune coins on MagicEden, viewing transactions on brc20 API (eventually automate the process), opened my bitcoin wallet, overview of the end-to-end prototype, and how we can create a platform to wrap BTC Rune to ERC20 on shard 1.
 
-2024-04-25 Thu:
+2024-04-25 Thu: Conducted more research on token economics and Rollkit. Reviewed Jackie's document on AnotherWorld-Rune project and conducted some research regarding it. Refined my Q2 deliverables.
 
 2024-04-24 Wed: Conducted market research for A(G)I data (specifically $EAT and $3D), existing validation with model training, data performance, labeling, and respective economic values. Worked on Q2 deliverables.
 
