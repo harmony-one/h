@@ -1,6 +1,10 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
+2024-04-26 Fri: Finished implementing the tool logic on [harmony-llm-api](https://github.com/harmony-one/harmony-llm-api/pull/19) and enabled the ticker symbol info retriever tool, which works with multiple ticker symbols. Also finished implementing the logic on [1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/362) and enabled the /ctool and /stool commands. Currently testing on 0Bot. Finally, the /new command logic was updated to refresh the conversation per active bot.
+
+2024-04-25 Thu: Day off due to flu.  
+
 2024-04-24 Wed: Day off due to flu.  
 
 2024-04-23 Tue: Refactored [tools logic](https://github.com/harmony-one/harmony-llm-api/pull/18), enabling multiple tools per call. Created ToolBase, YahooFinanceTool, and AnthropicHelper classes.  
