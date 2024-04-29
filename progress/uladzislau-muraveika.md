@@ -1,3 +1,16 @@
+2024-04-26 Friday: The main focuses on this week:
+* removed Binance dedicated RPC node after double confirmation.
+* added additional Layer Zero monitoring alarm for total transactions absence
+* renewed SSL on all mainnet RPC servers, previously created automation for this task works good.
+* nginx-module-vts -> Prometheus -> Grafana monitoring tool set:
+  * created POC for the devnet RPC instance
+  * haven't spent a lot of time due to load
+* as part of on-call:
+  * Testnet RPC server has issues with the filesystem - decided to switch to the backup node, contacted provider support.
+  * Helped to fix problems with watchdog monitoring on the devnet, root cause was in the stopped RPC
+
+---
+
 2024-04-18 Thursday: The main focuses after 1 week vacation:
 * I was focused on the Nginx rate-limiting solution and my main concern was how to properly monitor it.
 * I've done a research on the possible solutions and stopped on the following tool set:
