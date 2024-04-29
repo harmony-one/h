@@ -1,3 +1,10 @@
+
+2024-04-29 Mon: To activate the Privy native SDK, we require approval from the team, according to the development team. I submitted this request quite some time ago. Additionally, I've received the forked repositories for Rainbow, wallet-core-ios, and App-monorepo.
+
+--- 
+
+2024-04-26 Fri: Exploring various solutions to resolve the issues with the Privy SDK, work is ongoing.
+
 2024-04-25 Thu: I verified with the React app at https://github.com/privy-io/create-next-app, and it works fine, suggesting the issue lies with the iOS example or with any configuration. I've raised this issue again with developer support. A team member mentioned that custom auth is an enterprise-level feature, so it may not work without an enterprise account. Meanwhile, I'm waiting for the repositories for rainbow, wallet-core-ios, and app-monorepo to be forked.
 
 2024-04-24 Wed: I've been encountering 403 errors in Privy, and it seems other developers are experiencing the same issue. I have reached out to developer support for assistance.
