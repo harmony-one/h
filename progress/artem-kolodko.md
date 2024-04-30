@@ -10,6 +10,10 @@ During work on the Swap page in the Harmony Portfolio, I encountered difficultie
 
 Continue working on Harmony Portfolio: complete Swap page validations and error messages (user balance, available amount, allowance), add USD amount for each token in user portfolio on [Dashboard page](https://portfolio.metamask.io). Implement Send & Receive [page](https://portfolio.metamask.io/send).
 
+---
+
+2024-04-30 Tue: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/48e61e3b038b0501a281a40e49172552f1d5d165) support of ERC20 tokens send on Send & Receive page. Added erc20 balance check and MAX buttons, deployed an [update](https://harmony-portfolio.netlify.app/send). Researched [https://harmony.one/defi](https://harmony.one/defi) page, had a call with Yuriy about next project.
+
 2024-04-29 Mon: researching Layer 3 docs for Timeless with general description of decentralized protocols for open social graph ([link1](https://docs.google.com/document/d/1UzcdSHSmSiJDMoqyJxgUjFLq-b6ENHric3LGY3c5hZU/edit#heading=h.c19i328f5vkb), [link2](https://docs.google.com/document/d/1_X4Yltq5PH2mpRrJ5v__EXG2rePQs6W3502v9ltlxLQ/edit#heading=h.i6qb1k6n8fs6)).
 
 ---
