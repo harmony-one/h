@@ -1,4 +1,8 @@
 
+2024-05-01 Wed: Requested a testing environment from the Privy team and I have begun exploring the Rainbow repository at https://github.com/harmony-one/rainbow.
+
+2024-04-30 Tue: Expo SDK is an enterprise feature, so using it in production will mean you'd start on Privy's entry-level enterprise tier ($667/mo). 
+
 2024-04-29 Mon: To activate the Privy native SDK, we require approval from the team, according to the development team. I submitted this request quite some time ago. Additionally, I've received the forked repositories for Rainbow, wallet-core-ios, and App-monorepo.
 
 --- 
