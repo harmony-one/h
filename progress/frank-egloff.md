@@ -1,6 +1,11 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
+2024-04-30 Tue: I included the ToolBox class for related tools and added the CoinGecko toolbox with retrieving token prices and token ID tools. It is currently on 0Bot for testing.  
+
+2024-04-29 Mon: Tested and deployed to 1Bot /ctool and /stool commands, which allow access to the Anthropic tool feature. Started working on integrating AI into harmony.one/defi project.
+
+---
 2024-04-26 Fri: Finished implementing the tool logic on [harmony-llm-api](https://github.com/harmony-one/harmony-llm-api/pull/19) and enabled the ticker symbol info retriever tool, which works with multiple ticker symbols. Also finished implementing the logic on [1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/362) and enabled the /ctool and /stool commands. Currently testing on 0Bot. Finally, the /new command logic was updated to refresh the conversation per active bot.
 
 2024-04-25 Thu: Day off due to flu.  
