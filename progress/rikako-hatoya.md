@@ -10,7 +10,8 @@ Deploying the Story Protocol on Harmony presented a formidable task, particularl
 
 2024-04-30 Tue: Worked on scaffold-eth by deploying smart contract using Hardhat, and setup network configurations. [[Repo](https://github.com/rika97/scaffold-eth-2)]
 
-2024-04-29 Mon: Created a minimal prototype for Rune -> ERC20 wrap (deployed smart contract onto Harmony using OpenZeppelin and Remix).
+2024-04-29 Mon: Created a minimal prototype for Rune -> ERC20 wrap ([deployed](https://explorer.harmony.one/address/0x8b981a0afae43cdb85cb89fbac1d75a4021e6269?activeTab=0
+) smart contract onto Harmony using OpenZeppelin and Remix).
 
 ---
 2024-04-28 Sun (1.5 hrs): Looked into how to wrap tokens to ERC20 on Harmony blockchain using OpenZeppelin and Hardhat.
