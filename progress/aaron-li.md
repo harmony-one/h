@@ -1,4 +1,36 @@
-2024-4-4 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment. Testing job recommnedation server end-to-end
+2024-5-1 Wed (0.5h): (Continued) 
+
+2024-4-30 Tue (2h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot
+
+2024-4-25 Tue (1h): Discuss and review DeFi plans and Telegram bot products.
+
+2024-4-23 Tue (1h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure 
+
+2024-4-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples
+
+2024-4-21 Sun (7h): Research on using ElasticSearch for word-vector indexing and retrieval-augmented-generation, and related production-ready plugins (LangChain, LlamaIndex). Candidate recommendation system production server deployment, SSL setup, and debuggin issues with static files and separation of Python gunicorn worker and front-facing services (nginx). Research on Django database setup, credentials, synchronization. Constructing and deploying databases; Dependency simplification, ensuring server can replicate virtual environment, and bug-free execution under Python 3.11. Production service deployment. Debugging issues with SSL server in production. Research alternatives to gunicorn and performance. Evaluate, configure, deploy gunicorn for SSL in production. Make dependencies consistent
+
+2024-4-20 Sat (0.5h): Candidate recommendation system frontend barebone construction
+
+2024-4-19 Fri (2h): Review and document areas of improvements. Python and Django production environment setup at Debian server
+
+2024-4-16 Tue (5.5h): Burner statistics cross-contract aggregation, automatic inference of block range, chart update. Bug fixes and statistics, end-to-end verification of data integrity, deploy new statistics, charts, and data. Implement built-in semi-automatic oracle for market price update, and corresponding client-side live statistics calculation. Further discussions and planning on Shard1 retrieval-augmented generation architecture, candidate recommendation frontend and follow-up implementations, recovery devops
+
+2024-4-15 Mon (0.5h): Evaluation and feedback on comparisons of progress in specific aspects. Discussion on next.js and related framework. Review and experiment Gemini 1.5 API in context of job and candidate recommendation. Review, code evaluation, and feedback on progress of second group
+
+2024-4-14 Sun (0.5h): Renew key domains and setup automations. Quick documentation on steps to fix in case of incidents
+
+2024-4-12 Fri (4.5h): (Continued) and basic discussion on retrieval-augmented generation. Recovery discussions on sustainability and proposed solutions. Feedback and detailed evaluation of code and progress of first group
+
+2024-4-10 Wed (1.5h): Review and feedback on progress of first group. Recovery progress and statistics review. Discussion on plans, rate, sustainability, solutions
+
+2024-4-8 Mon (1.5h): Experiments and end-to-end testing of REST API on candidate recommendation server. Bug fixes. Remove Django sensitive information from repo
+
+2024-4-7 Sun (0.5h): (Continued)
+
+2024-4-6 Sat (1h): Candidate recommendation: bug fixes on server configuration, environment variable setting, and package and dependency management for deployment and remote development
+
+2024-4-4 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment 
 
 2024-4-3 Wed (0.5h): (Continued) and deploying REST server for job recommendation
 
