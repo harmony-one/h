@@ -18,9 +18,9 @@
 
 2024-04-24 Wed: Discussed Rune bridge on Harmony with Jackie. Sent and updated Q2 deliverables.
 
-2024-04-23 Tue:
+2024-04-23 Tue: Research runes and bridge support for BTC. 
 
-2024-04-22 Mon:
+2024-04-22 Mon: Sync with Theo on Zi's social network.
 
 ---
 
