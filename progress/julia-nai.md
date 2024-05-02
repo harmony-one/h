@@ -1,3 +1,17 @@
+2024-05-02 Thu:
+
+2024-05-01 Wed:
+
+2024-04-30 Tue:
+
+2024-04-29 Mon: 
+
+---
+
+2024-04-28 Sun:
+
+2024-04-27 Sat:
+
 2024-04-26 Fri: Worked on identifying top 10 arb wallets with highest profits tading the 100 most-liquid assets in the last 100 days.
 
 2024-04-25 Thu: Looked into former BTC bridge on Harmony. Looked into accomidating OP_RETURN data, locking mechanisms, and frameworking how a rune bridge would work. Plans to deploy corresponding ERC20 contract for a rune and $100 in liquidity on swap for select few runes. 
