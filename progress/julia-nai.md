@@ -1,10 +1,10 @@
 2024-05-02 Thu:
 
-2024-05-01 Wed:
+2024-05-01 Wed: Cleaned out office. Help move bottles. 
 
-2024-04-30 Tue:
+2024-04-30 Tue: Removed final items from office. 
 
-2024-04-29 Mon: 
+2024-04-29 Mon: Dumped last month transactions from arbitrum Uniswap. 
 
 ---
 
