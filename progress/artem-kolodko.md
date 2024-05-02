@@ -12,6 +12,8 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
+2024-05-02 Thu: Explorer support: it took some time, but finally [fixed](https://github.com/harmony-one/explorer-v2-frontend/pull/288) Explorer client build on [Netlify](https://app.netlify.com/sites/explorer-v2/deploys/6633ca1c8f683a0008c81e0b) side and deployed [Explorer](https://explorer.harmony.one/) update. ONE token price now fetched from Explorer API instead of direct request to Coingecko API; data on backend updated every 5 minutes.
+
 2024-05-01 Wed: Explorer support: Soph asked to refactor Coingecko requests from client side to our Explorer backend to reduce the number of requests to Coingecko API; added fix on [backend](https://github.com/harmony-one/explorer-v2-backend/pull/115) and explorer [client](https://github.com/harmony-one/explorer-v2-frontend/pull/286/files) side; updated backend. Client update failed during build on Netlify, investigating the problem.
 
 2024-04-30 Tue: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/48e61e3b038b0501a281a40e49172552f1d5d165) support of ERC20 tokens send on Send & Receive page. Added erc20 balance check and MAX buttons, deployed an [update](https://harmony-portfolio.netlify.app/send). Researched [https://harmony.one/defi](https://harmony.one/defi) page, had a call with Yuriy about next project.
