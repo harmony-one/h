@@ -1,4 +1,4 @@
-2024-05-02 Thu:
+2024-05-02 Thu: [Added](https://github.com/harmony-one/s/commit/7dbfe0595f3844e66157604fded23807fda61feb) test script for wallet profitability calculation on Arb Uniswap. 
 
 2024-05-01 Wed: Cleaned out office. Help move bottles. 
 
@@ -8,9 +8,9 @@
 
 ---
 
-2024-04-28 Sun:
+2024-04-28 Sun: [1 hour] Looked into new Video AI generation.
 
-2024-04-27 Sat:
+2024-04-27 Sat: [2 hours] Spoke with a potential System Engineer candidate. 
 
 2024-04-26 Fri: Worked on identifying top 10 arb wallets with highest profits tading the 100 most-liquid assets in the last 100 days.
 
@@ -24,7 +24,7 @@
 
 ---
 
-2024-04-21 Sun: [1 hour] reached out to a potential system engineer candidate (did not hear back). 
+2024-04-21 Sun: [1 hour] Reached out to a potential system engineer candidate (did not hear back). 
 
 2024-04-20 Sat: [2 hours] Moved a desk out of the office. 
 
