@@ -1,3 +1,28 @@
+2024-05-03 Weekly Update
+-Communication w/ Konstantin and Rika on contract deployment issues
+Looking into simplifying harmony contract deployment https://github.com/adsorptionenthalpy/harmony_contracts
+I then discovered https://github.com/harmony-one/hardhat-starter-pack that hasn't been updated for some time and relayed to members of the team to look into
+-Work on ChainForce network, multiplayer and blockchain components
+  - Implemented high score feature so there is data to upload chain data to local harmony instance
+    - contract implementation: leaderboard contract only invoked when a player's score has surpassed any score    	in the leaderboard
+    - Challenges: best method to retain achievement info offchain for later onchain push
+
+---
+
+2024-04-26 Weekly Update
+-time-off
+-Interviewed some devs in Boulder over lunch
+-Protocol PR reviews: Improve staged stream sync, log and cleanup, devnet vote power update https://github.com/harmony-one/harmony/pull/4660
+https://github.com/harmony-one/harmony/pull/4656
+https://github.com/harmony-one/harmony/pull/4662
+-Devops on-call - https://docs.google.com/document/d/1GtkLBK7tP1-nJ3xxaSMBawwVO3oOL_5rd-QyN9nk5aM
+
+---
+
+2024-05-19 Weekly Update
+-Wrapped up development for single-player offline demo release Chain Force https://github.com/harmony-one/Project-G/releases/tag/1a
+
+
 2024 Q1 Summary<br>
 
 Protocol Engineering:<br>
