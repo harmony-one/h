@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-04-19:**
 _Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
 
+2024-05-02 Thu: Tested and deployed token base security to harmony1bot and harmony-llms-api. Disabled translation prefixes on 1Bot, leaving only translation commands available. Reviewed and discussed harmony.one/defi architecture. Started reviewing [hyperlanexyz ecosystem](https://hyperlanexyz.notion.site/Hyperlane-Ecosystem-1e6d8175baf44ed88502cfba91becc45)
+
 2024-05-01 Wed: Included [token-base security](https://github.com/harmony-one/harmony-llm-api/pull/20) for harmony-llms-api endpoint, using bearer scheme and also httpOnly for web app calls. Updated 1bot to use the new security scheme and talked to Nagesh about updating the iOS app. Fixed issues with streaming on anthropic models and the is_supported method on anthropic tools. Changes deployed on 0Bot and harmony-llm-api-dev.fly.dev. 
 
 2024-04-30 Tue: I included the ToolBox class for related tools and added the CoinGecko toolbox with retrieving token prices and token ID tools. It is currently on 0Bot for testing.  
