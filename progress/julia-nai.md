@@ -1,6 +1,6 @@
 2024-05-02 Thu: [Added](https://github.com/harmony-one/s/commit/7dbfe0595f3844e66157604fded23807fda61feb) test script for wallet profitability calculation on Arb Uniswap. Calculate top 10 most profitable wallets (unrealized and realized to USD) from a subset of most recent transactions.
 
-2024-05-01 Wed: Cleaned out office. Help move bottles. 
+2024-05-01 Wed: Worked on calculating profitability of wallets on Arbitrum Uniswap. Cleaned out office. Help move bottles. 
 
 2024-04-30 Tue: Removed final items from office. 
 
