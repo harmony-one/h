@@ -4,6 +4,18 @@ In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives ai
 
 Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
 
+
+---
+**2024-5-3: Weekly update**
+
+1. The mainnet bootnode experienced higher-than-usual traffic this week, leading to elevated CPU and memory usage. Consequently, we upgraded all four instances to accommodate the increased load efficiently.
+
+2. We successfully restored consensus on shard 1 devnet after encountering obstacles with our streamsync code, which hindered node synchronization to the latest block and hindered consensus restoration. Multiple restarts were necessary to achieve full synchronization across all nodes. During troubleshooting sessions, we identified potential issues with streamsync and deployed PR 4660 to enhance code performance and improve log visibility. However, the root cause of the issue remains unidentified.
+
+3. I coordinated the update of the explorer dashboard client to minimize the number of requests to CoinGecko, reducing the volume from 7.8 million calls to less than 10,000 per month. Special thanks to Artem for implementing a cache at the API layer, which significantly optimized the process.
+
+4. I conducted a cost analysis comparing our current explorer expenses with Protofire's estimation for the upcoming Blockscout deployment focusing on the infrastructure cost. While Protofire's estimate appeared cheaper in April, my earlier projections suggested our costs were lower earlier this year. It's essential to note that our expenses are subject to fluctuations based on traffic and resource utilization, while Protofire cost should not while ensuring the retention of the entire transaction history.
+
 ---
 **2024-4-26: Weekly update**
 
