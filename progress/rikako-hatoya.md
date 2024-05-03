@@ -8,7 +8,11 @@ Deploying the Story Protocol on Harmony presented a formidable task, particularl
 
 ---
 
-2024-04-30 Tue: Worked on scaffold-eth by deploying smart contract using Hardhat, and setup network configurations. [[Repo](https://github.com/rika97/scaffold-eth-2)]
+2024-05-02 Thu: [Created](https://github.com/rika97/scaffold-eth-2/commit/94935a6fb664615ba08c567eac34054c5baa681b) and deployed factory contract for ERC20. [Added](https://github.com/rika97/scaffold-eth-2/commit/a13fda98989d72e7bd61ce07ed9f2aa1822ad843) some front-end for Rune deposit page. Looked into our ["hardhat-starter-pack"](https://github.com/harmony-one/hardhat-starter-pack) to make updates to our repo with Adam.
+
+2024-05-01 Wed: Made changes to configuration and fixed bugs so that contract now also works on Harmony, not just localnet ([commit](https://github.com/rika97/scaffold-eth-2/commit/aed2a4f71308ea99709fabe61780611d2bea03bb)). 
+
+2024-04-30 Tue: Deployed smart contract using Hardhat and Scaffold-eth, and setup network configurations. [[Repo](https://github.com/rika97/scaffold-eth-2)]
 
 2024-04-29 Mon: Created a minimal prototype for Rune -> ERC20 wrap ([deployed](https://explorer.harmony.one/address/0x8b981a0afae43cdb85cb89fbac1d75a4021e6269?activeTab=0
 ) smart contract onto Harmony using OpenZeppelin and Remix).
