@@ -7,7 +7,7 @@ I then discovered https://github.com/harmony-one/hardhat-starter-pack that hasn'
     - contract implementation: leaderboard contract only invoked when a player's score has surpassed any score in the leaderboard <br>
     - Challenges: best method to retain achievement info offchain for later onchain push<br>
 
---- <br>
+---
 
 2024-04-26 Weekly Update <br>
 -time-off<br>
@@ -17,12 +17,12 @@ https://github.com/harmony-one/harmony/pull/4656<br>
 https://github.com/harmony-one/harmony/pull/4662<br>
 -Devops on-call - https://docs.google.com/document/d/1GtkLBK7tP1-nJ3xxaSMBawwVO3oOL_5rd-QyN9nk5aM<br>
 
---- <br>
+---
 
 2024-05-19 Weekly Update<br>
 -Wrapped up development for single-player offline demo release Chain Force https://github.com/harmony-one/Project-G/releases/tag/1a<br>
 
---- <br>
+---
 
 2024 Q1 Summary<br>
 
