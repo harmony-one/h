@@ -12,6 +12,20 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-03 Fri: Got an update on the tasks from Theo, looking at the projects from the [post](https://twitter.com/ayyyeandy/status/1786017371490050270?s=12) and exploring them further on the opportunities fork to Harmony.
+
+2024-05-02 Thu: Synchronized with Frank regarding the integration of 1Bot and harmony-llm-api with swap, bridge and copy-trading services. Working on the overall system architecture.
+
+2024-05-01 Wed: Bridge support: Fixed several bridge explorer issues. On the recommendation of CoinGecko, we have prepared a bridge transition to a new API for fetching asset prices (new demo key plan). Continue to study available copy trading projects in various chains.
+
+2024-04-29 Tue: Studied the list of popular [GitHub projects](https://github.com/search?q=copytrad+forks%3A%3E1&type=repositories) dedicated to online copy trading. Look at several popular copy trade projects: [copycat dex](https://copycat.finance/) and [MQL-CopyTrade](https://github.com/jiowcl/MQL-CopyTrade). So far, it has not been possible to find ready-made solutions for onchain copy trading that could be migrated to Harmony.
+
+2024-04-28 Mon: Synchronized with Theo and Frank for new tasks. Started working on the [Cross-Chain Copy-Trade](https://www.x.country/harmony-2024-defi-a3e0e851036c45c8ace41bd2aadd6f56) project. I plan to focus on the bridge/swap services part. Started exploring available options for bridges from Arbitrium the 100 assets via layerzero or other services.
+
+---
+
+2024-04-25 Fri: Synchronized with Artem regarding  Layer 3 docs for Timeless with general description of decentralized protocols for open social graph ([link1](https://docs.google.com/document/d/1UzcdSHSmSiJDMoqyJxgUjFLq-b6ENHric3LGY3c5hZU/edit#heading=h.c19i328f5vkb), [link2](https://docs.google.com/document/d/1_X4Yltq5PH2mpRrJ5v__EXG2rePQs6W3502v9ltlxLQ/edit#heading=h.i6qb1k6n8fs6)). Сontinue to explore the implementation steps.
+
 2024-04-24 Thu: Сontinue to explore the implementation steps (technologies and architecture) and variants of using cross-chain social profiles in shard 1 (for data availability using celestia rollup) as "layer 3" for timeless.
 
 2024-04-24 Wed: Received from Theo and Zi new [documents](https://docs.google.com/document/d/1_X4Yltq5PH2mpRrJ5v__EXG2rePQs6W3502v9ltlxLQ/edit#heading=h.4ihjx9h9iq7m) on a general description of the concept of decentralized protocols for an open social graph. Continue study the possibility of building layer 3 protocol as an open social graph that users onboard to through his timeless wallet.
