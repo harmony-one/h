@@ -26,6 +26,8 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 2024-04-22 Mon: Meeting with Nagesh for q2 deliverables, scheduled meeting with Zi for timeless integration tomorrow, will sync with Artem and Frank following the meeting.
 
+---
+
 2024-04-21 Sun: [1hr] Harmony AI docs.
 
 2024-04-20 Sat: [5hr] Spent time assigning and detailing Q2 deliverables. As we are now one month into Q2, it's crucial that we have a stable set of objectives to ensure we meet our goals. I suggest that ongoing tasks either be prioritized for completion or clearly identified as discontinued. This approach will help us avoid any ambiguity in our direction and ensure that all products are completed to a higher standard.
@@ -55,6 +57,8 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 2024-04-09 Tue: Approved listing for Swap. [Stats](https://lend-info-stg-country.safe.protofire.io) for Lend in progress. Emailed Coinbase asset outreach as advised from Coinbase representative.
 
 2024-04-08 Mon: Q1 review for % split. Coordination for /progress, replacing new 2-week deliverables. Check in with Protofire for Blockscout, Lend, and potential for incentivized token for governance on Lend with % fee sharing from my original proposal.
+
+---
 
 2024-04-07 Sun: [2hr] Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
 
@@ -86,6 +90,8 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 2024-03-25 Mon: Meeting with Stephen to realign prioritize on Story Protocol and Portfolio. Started reviewing progress for q1 review. Built and tested resume analyzer using claude 3 api against Julia's resume. Conistent in scoring, short paragraph description, and 3 suggestions based on job description.
 
+---
+
 2024-03-24 Sun: Research on predictions market for salary. Insight: Thales has a simple UX but only supports up/down market. Overtime markets supports only sports betting, but their support for games is extensive. Polymarket covers the widest options with popular categories including elections, box office, sports, ETF approvals, etc. no markets for salary on any platform. [2hr]
 
 2024-03-23 Sat: Changed opus outputs to provide suggestions for resume improvements. Insights: base Claude still needs small adjustments, I.e. “more concise” “single sentences” “follow job description precisely” to yield best results. [3hr]
@@ -100,6 +106,8 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 2024-03-18 Mon: Continued research on AiMM, helped Alaina with Harmony Portfolio mocks.
 
+---
+
 2024-03-17 Sun: Market research on [AiMM](harmony.one/aimm). Looking into Ploymarket, specifically prediction market for salary and candidates. Insights: polymarket is banned in the US, decentralized matchmaking for the job industry may be a better solution than prediction markets. [5hr]
 
 2024-03-16 Sat: Continued search for voice first AI products or models. Insight: reinforcement learning is limited to the foundational knowledge base, AGI will need an [abstract layer](https://medium.com/autonomous-agents/enhancing-llms-reasoning-through-jepa-a-comprehensive-mathematical-deep-dive-301ec9c4d6f2). [3hr]
@@ -113,6 +121,8 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 2024-03-12 Tue: Meeting with DIA for alternative oracle solution to add options for dapps. Insight: Their architecture directly provides a solution to the previous oracles issue regarding the bridge hack. Documents will be shared tomorrow EOD. Long meeting with Stephen to align team for next two weeks of deliverables.
 
 2024-03-11 Mon: Moved progress from /x and /s to /h. Scheduled call with DIA for alternative oracle providers to boost support on Harmony. Insight: Investigating JEPA (Joint Embedding Predictive Architecture) for voice synthesis could be valuable following the video of [Lex Fridman with Yann LeCun](https://www.youtube.com/watch?v=5t1vTLU7s40), as its focus on predicting missing segments and learning semantic relationships in the audio signal might lead to improved control over traditional LLMs.
+
+---
 
 2024-03-10 Sun: Further look into providing valuable data for LLMs,resulting in a significant model improvement. Insight: Quality over quantity is the best approach to voice data. [Apple model improvements](https://machinelearning.apple.com/research/personal-voice). We may need to create a new performance benchmark as a standard, Word Error Rate (WER) does not account for natural sounding speech, and Mean Opinion Score (MOS) is an aggregated score of human listeners, quantifying MOS could be great for the entire synthesis space as we move forward. (7hr)
 
@@ -173,6 +183,8 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 2024-02-27 Tue: Flight back from Denver.
 
 2024-02-26 Mon: Extended morning conversations with community members in Denver, covering 2023 products, governance, and ecosystem updates. Participated in conversations with ex-harmony team, side event hackathon for devrel, and evening event at Imperial City.
+
+---
 
 2024-02-25 Sun: Focused on onboarding new projects as well as research into Bitcoin and AI expansion. Partnership with Cookbook.dev for AI smart contract and documentation, free beta. [16hr]
 
