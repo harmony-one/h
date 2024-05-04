@@ -1,3 +1,10 @@
+**2024-05-04 Saturday**
+Last week, I finalized PR 4460, which was reviewed and merged by the team to dev branch. We investigated a connection issue and observed that two peers could connect and successfully complete the handshake. However, when they started syncing blocks, the connection broke instantly. We thoroughly checked the stream logs, the handshake process, the stream client, the database layer for fetching blocks, context timeout, block size, and double-checked with RPC, and all of them appeared to be working fine. Our next theory focused on the rate limiter, but upon examination, it also seemed to be functioning properly. This issue is still under investigation.
+
+Additionally, there was an incident involving all boot nodes that, after upgrading, were unable to sync the peers list. Many validators reported this issue, prompting us to prioritize its resolution. Eventually, we disabled pprof, after which all boot nodes came back online, and the main net was successfully recovered.
+
+---
+
 **2024-04-27 Saturday**
 Last week, our primary focus revolved around investigating why nodes switched to syncing mode despite being fully synchronized. Additionally, I delved into resolving NTP and local net block production issues. Furthermore, efforts were directed towards addressing the build issue encountered in my latest pull request.
 
