@@ -7,6 +7,7 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
 ---
+2024-05-03 Fri: Looked into APIs for scraping and processing BTC Rune transaction data for our wrapping prototype. Looked into some of the projects mentioned in the "20 things to do" list tweet.
 
 2024-05-02 Thu: [Created](https://github.com/rika97/scaffold-eth-2/commit/94935a6fb664615ba08c567eac34054c5baa681b) and deployed factory contract for ERC20. [Added](https://github.com/rika97/scaffold-eth-2/commit/a13fda98989d72e7bd61ce07ed9f2aa1822ad843) some front-end for Rune deposit page. Looked into our ["hardhat-starter-pack"](https://github.com/harmony-one/hardhat-starter-pack) to make updates to our repo with Adam.
 
