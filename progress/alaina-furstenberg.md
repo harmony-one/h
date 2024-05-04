@@ -4,6 +4,22 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ----
 
+2024-05-05 Sun:
+
+2024-05-04 Sat:
+
+2024-05-03 Fri: harmony.one community update. Editing of the 'ONE Show' episode 3 + design of the thumbnail. 
+
+2024-05-02 Thu: Continued research of templates for rebuilding harmony.one website, looking for a template similar to [this website](https://gobblecube.ai/). 
+
+2024-05-01 Wed: [Promotion](https://x.com/harmonyprotocol/status/1785743066713952610) / attendance of the ONE Show Episode 3. 
+
+2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. 
+
+2024-04-29 Mon: 
+
+----
+
 **2024 Q1 Review (83.5 hours)**
 
 In Q1, I drove our Twitter engagement significantly, recording an 88% increase in activity, 27% more impressions, and maintaining a 4.0% engagement rate. This effort resulted in higher link clicks, retweets, and likes, reflecting robust community engagement. Our Substack saw steady traffic, slightly decreasing views but improving open rates, despite fewer postings.
