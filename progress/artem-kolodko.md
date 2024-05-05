@@ -12,6 +12,8 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
+2024-05-03 Fri: Harmony Portfolio: [fixed](https://github.com/harmony-one/harmony-portfolio/commit/80ffb5fa309a2cb9f59d0ef59eb9db6be489b5c5) USDT token price in Dashboard, started working on Bridge page. Explorer client support: [removed](https://github.com/harmony-one/explorer-v2-frontend/commit/8d1143d05a3e4c8dec57ae9a6ef2e5dfff7bf321) last data provider with direct request to Coingecko API (no more "Too many requests" from Coingecko, all data fetched from our backend with cache enabled).
+
 2024-05-02 Thu: Explorer support: it took some time, but finally [fixed](https://github.com/harmony-one/explorer-v2-frontend/pull/288) Explorer client build on [Netlify](https://app.netlify.com/sites/explorer-v2/deploys/6633ca1c8f683a0008c81e0b) side and deployed [Explorer](https://explorer.harmony.one/) update. ONE token price now fetched from Explorer API instead of direct request to Coingecko API; data on backend updated every 5 minutes.
 
 2024-05-01 Wed: Explorer support: Soph asked to refactor Coingecko requests from client side to our Explorer backend to reduce the number of requests to Coingecko API; added fix on [backend](https://github.com/harmony-one/explorer-v2-backend/pull/115) and explorer [client](https://github.com/harmony-one/explorer-v2-frontend/pull/286/files) side; updated backend. Client update failed during build on Netlify, investigating the problem.
