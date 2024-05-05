@@ -1,3 +1,7 @@
+2024-05-03 Fri: This week, i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging.
+
+---
+
 2024-04-26 Fri: This week i was working on block proposing code. I provided additional logging, and refactored code, for feature seamless integration 1 second finality. Also, i'm collaborating with Adam on groth16 solidity part, i asked him to help me integrate web3 frameworks with local harmony development.   
 
 ---
