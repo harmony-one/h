@@ -1,4 +1,4 @@
-2024-05-03 Fri: This week, i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging.
+2024-05-03 Fri: This week, i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging. And i was collaborating with Adam on harmony smart contract development. 
 
 ---
 
