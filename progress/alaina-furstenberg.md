@@ -16,7 +16,7 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. Research on super.so of the best Notion websites. 
 
-2024-04-29 Mon: [Thread](https://x.com/harmonyprotocol/status/1785073216987578408) outlining Q1 Techincal Progress + Research of Rune Protocol to better understand crypto space. Learned Bitcoin Runes is an attempt to clean up the BTC network, while allowing traders to enjoy their memecoins on the mother chain- showing the cultural prevalence of 'memes' in crypto. 
+2024-04-29 Mon: [Thread](https://x.com/harmonyprotocol/status/1785073216987578408) outlining Q1 Techincal Progress + [Research of Rune Protocol](https://x.com/stse/status/1783266688932454420) to better understand crypto space. Learned Bitcoin Runes is an attempt to clean up the BTC network, while allowing traders to enjoy their memecoins on the mother chain- showing the cultural prevalence of 'memes' in crypto. 
 
 ----
 
@@ -34,9 +34,9 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
 
-2024-04-25 Thu:
+2024-04-25 Thu: 
 
-2024-04-24 Wed:
+2024-04-24 Wed: Sync with Adam + [early release promotion](https://x.com/harmonyprotocol/status/1783202500272927015) of 'Project G'
 
 2024-04-23 Tue: Synced with Soph and Protofire on redesigning favicon for blockchain explorer and on designing a new logos for Blockscout. 
 
