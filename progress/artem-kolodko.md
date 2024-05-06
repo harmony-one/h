@@ -2,7 +2,11 @@
 
 **2-Week Deliverables by 2024-05-20:**
 
-Continue working on Harmony Portfolio: complete Swap page validations and error messages (user balance, available amount, allowance), add USD amount for each token in user portfolio on [Dashboard page](https://portfolio.metamask.io). Implement Send & Receive [page](https://portfolio.metamask.io/send).
+Harmony Portfolio: implement Bridge page that repeats all major features of the Harmony Bridge client: [https://bridge.harmony.one](https://bridge.harmony.one/one).
+
+---
+
+2024-05-06 Mon: synced with Yuriy on adding bridge page to Harmony Portfolio; started [researching](https://github.com/harmony-one/layerzero-bridge.frontend) main bridge client architecture to add same features on Harmony Portfolio page. Checked confidential data in harmony1bot logs: some logs can be improved but no sensitive data like hot wallet primary keys is printed in logs.
 
 ---
 
