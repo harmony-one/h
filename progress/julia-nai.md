@@ -1,3 +1,7 @@
+2024-05-06 Mon: 
+
+---
+
 2024-05-05 Sun: [3 hours] Engaged in health and wellness team building activities.
 
 2024-05-04 Sat: [2 hour] Looked into Dune analytics latencies and capabilities.
