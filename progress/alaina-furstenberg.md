@@ -4,9 +4,9 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 ----
 
-2024-05-05 Sun: Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) and adding elements from the Harmony website.
+2024-05-05 Sun: Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) to rebuild the Harmony website. This template features a more seamless interface with the capability of editing within a notion document.
 
-2024-05-04 Sat: Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) and promotion via X. 
+2024-05-04 Sat: Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) onto Youtube. Sent a promotional via X. 
 
 2024-05-03 Fri: harmony.one community update + [thread](https://x.com/harmonyprotocol/status/1786478962178437535). Editing of the 'ONE Show' episode 3 + design of the thumbnail. Continued iterations of ONE Portfolio Bridge feature on Figma.
 
