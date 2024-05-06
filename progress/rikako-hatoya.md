@@ -1,8 +1,8 @@
 
 ---
-2024-05-05 Sun [1 hr]: Saturday continued.
+2024-05-05 Sun (1 hr): Saturday continued.
 
-2024-05-04 Sat [1 hr]: Further look into debugging the configuration setup for hardhat starter pack.
+2024-05-04 Sat (1 hr): Further look into debugging the configuration setup for hardhat starter pack.
 
 2024-05-03 Fri: Looked into APIs for scraping and processing BTC Rune transaction data for our wrapping prototype. Looked into some of the projects mentioned in the "20 things to do" list tweet.
 
