@@ -1,5 +1,11 @@
-**2-Week Deliverables by 2024-04-19:**
-_Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot._ 
+**2-Week Deliverables by 2024-05-20:**
+Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot.
+
+---
+
+2024-05-03 Sun:
+
+2024-05-04 Sat:
 
 2024-05-03 Fri: Theo updated me on the next task: I had to work on the Arbitrum network. I also kept revising the Hyperlance and worked on the requested changes on the Harmony Swap site.
 
