@@ -6,9 +6,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-05-05 Sun:
+2024-05-05 Sun (x hours):
 
-2024-05-04 Sat:
+2024-05-04 Sat (x hours):
 
 2024-05-03 Fri:
 
@@ -22,9 +22,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-04-28 Sun:
+2024-04-28 Sun (x hours):
 
-2024-04-27 Sat:
+2024-04-27 Sat (x hours):
 
 2024-04-26 Fri:
 
@@ -38,9 +38,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-04-21 Sun:
+2024-04-21 Sun (x hours):
 
-2024-04-20 Sat:
+2024-04-20 Sat (x hours):
 
 2024-04-19 Fri:
 
@@ -54,7 +54,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-04-13 Sat: Began looking into the cost metrics for our shard 1 and how other chains calculate their costs.
+2024-04-14 Sun (x hours):
+
+2024-04-13 Sat (x hours): Began looking into the cost metrics for our shard 1 and how other chains calculate their costs.
 
 2024-04-12 Fri: Continued working on the article for data availability. Calculated throughput for our Shard 1, which is nearly 0 due to the lack of user activity.
 
@@ -68,7 +70,9 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-04-06 Sat: Continuing on working with different configurations as it is not fully working in terms of deployment.
+2024-04-07 Sun (x hours):
+
+2024-04-06 Sat (x hours): Continuing on working with different configurations as it is not fully working in terms of deployment.
 
 2024-04-05 Fri: Realized we need to disable block validation and add default baseFee in order to work with our chain.
 
