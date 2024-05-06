@@ -1,3 +1,7 @@
+2024-05-05 Sun: [3 hours] Engaged in health and wellness team building activities.
+
+2024-05-04 Sat: [2 hour] Looked into Dune analytics latencies and capabilities.
+
 2024-05-03 Fri: Some transactions (example below) report amountInUSD as 0 even though it should be 1040225855882354 unshETH. Removing dependancy on subgraph's USD values. 
 ```
 {
