@@ -1,7 +1,5 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
-2024 scope: My focus will be on enhancing our community engagement and boosting our social media presence by actively managing daily interactions and content. I'll post daily on platforms like X, Substack, and YouTube to highlight our partnerships, ecosystem news, and demos of AI-driven products like ONE Bot and ONE Portfolio. I will engage with our community through two daily replies and foster discussions in community spaces. Additionally, I will post educational content to help users understand the current crypto + AI landscape and how our products are innovating within that space. I will collaborate with the community to host regular calls, inviting guest speakers to share insights and discuss relevant topics. I will also continue to iterate and improve ONE Portfolio, incorporating feedback from the team and community. My success will be measured by increased user engagement, positive feedback on our AI developments, and active community participation. 
-
 ----
 
 2024-05-05 Sun: Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) to rebuild the Harmony website. This template features a more seamless interface with the capability of editing within a notion document.
@@ -14,29 +12,21 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 2024-05-01 Wed: [Promotion](https://x.com/harmonyprotocol/status/1785743066713952610) / attendance of the ONE Show Episode 3. Office operations
 
-2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. Research on super.so of the best Notion websites. 
+2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. Research on super.so of the best Notion websites. [Validator spotlight](https://x.com/harmonyprotocol/status/1785453650309194116F) tweet showcasing staking rewards going towards charity.
 
 2024-04-29 Mon: [Thread](https://x.com/harmonyprotocol/status/1785073216987578408) outlining Q1 Techincal Progress + [Research of Rune Protocol](https://x.com/stse/status/1783266688932454420) to better understand crypto space. Learned Bitcoin Runes is an attempt to clean up the BTC network, while allowing traders to enjoy their memecoins on the mother chain- showing the cultural prevalence of 'memes' in crypto. 
-
-----
-
-**2024 Q1 Review (83.5 hours)**
-
-In Q1, I drove our Twitter engagement significantly, recording an 88% increase in activity, 27% more impressions, and maintaining a 4.0% engagement rate. This effort resulted in higher link clicks, retweets, and likes, reflecting robust community engagement. Our Substack saw steady traffic, slightly decreasing views but improving open rates, despite fewer postings.
-
-On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills.
 
 -----
 
 2024-04-28 Sun: re-design of harmony.one banner, 7 iterations pending approval.
 
-2024-04-27 Sat:
+2024-04-27 Sat: 
 
 2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
 
 2024-04-25 Thu: 
 
-2024-04-24 Wed: Sync with Adam + [early release promotion](https://x.com/harmonyprotocol/status/1783202500272927015) of 'Project G'
+2024-04-24 Wed: Sync with Adam + [early release promotion](https://x.com/harmonyprotocol/status/1783202500272927015) of 'Project G'. 
 
 2024-04-23 Tue: Synced with Soph and Protofire on redesigning favicon for blockchain explorer and on designing a new logos for Blockscout. 
 
@@ -62,11 +52,11 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 2024-04-13 Sat: Researching top notion websites via super.so and potion.so top templates listed [here](https://www.notion.so/harmonyone/Top-Notion-templates-harmony-one-f72fc964a9244c8192e8a9de45d37671?pvs=4)
 
-2024-04-12 Fri: /agi thread + community tweet onto Harmony.one
+2024-04-12 Fri: /agi thread + community tweet onto Harmony.one. Sync with Coinmonster on status of Harmony merch.
 
-2024-04-11 Thu:
+2024-04-11 Thu: Research for the refresh of swap.harmony.one, referencing DEX websites like [Defi Llama](https://defillama.com/forks/Uniswap%20V3). Testing of /opus plus filming of demo featuring ONE Bot.
 
-2024-04-10 Wed:
+2024-04-10 Wed: [Envio partnership tweet](https://x.com/harmonyprotocol/status/1778204436353221114) and design of partnership graphic. 
 
 2024-04-09 Tue: Design of the thumbnail for 'Data Availability on Shard 1' to be released on Friday. Downloading + editing community space & designing thumbnail, to be uploaded to Youtube. 
 
@@ -88,7 +78,21 @@ On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlightin
 
 2024-04-01 Mon: Q1 self review and team review. /progress updates
 
+---
+
+**2024 scope**
+
+My focus will be on enhancing our community engagement and boosting our social media presence by actively managing daily interactions and content. I'll post daily on platforms like X, Substack, and YouTube to highlight our partnerships, ecosystem news, and demos of AI-driven products like ONE Bot and ONE Portfolio. I will engage with our community through two daily replies and foster discussions in community spaces. Additionally, I will post educational content to help users understand the current crypto + AI landscape and how our products are innovating within that space. I will collaborate with the community to host regular calls, inviting guest speakers to share insights and discuss relevant topics. I will also continue to iterate and improve ONE Portfolio, incorporating feedback from the team and community. My success will be measured by increased user engagement, positive feedback on our AI developments, and active community participation. 
+
 -----
+
+**2024 Q1 Review (83.5 hours)**
+
+In Q1, I drove our Twitter engagement significantly, recording an 88% increase in activity, 27% more impressions, and maintaining a 4.0% engagement rate. This effort resulted in higher link clicks, retweets, and likes, reflecting robust community engagement. Our Substack saw steady traffic, slightly decreasing views but improving open rates, despite fewer postings.
+
+On YouTube, we saw a 26% rise in views and a 90% jump in watch time, highlighting our successful content strategy that included new videos and shorts. I also managed projects solo, enhancing our Figma iterations and taking initiative in areas like project management and content creation, which included redesigning thumbnails and improving video editing skills.
+
+---
 
 2024-03-31 Sun: Reviewing harmony.one/aimm & writing out [user flow](https://www.notion.so/harmonyone/AIMM-e4b83ab00d4b4f0facd7aae3d694f4e1). Begininng q1 self review. (5 hours)
 
