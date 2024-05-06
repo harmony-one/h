@@ -8,6 +8,18 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-05-05 Sun: [1hr] Reached out to tenacious_defi for Harmony AI data docs.
+
+2024-05-04 Sat: [1hr] Review of Harmony x Swoop doc
+
+2024-05-03 Fri: Sync with Stephen, reassignment of remote engineers based on meeting.
+
+2024-05-02 Thu: Celebration of Stephen’s 6th year dinner. Further talks on Layer 3. Updates to harmony AI data docs. Template search for notion site to update main harmony website. Found quality options for main site upgrade, feedback was the price of the template was too cheap, changing search for expensive templates rather than quality templates.
+
+2024-05-01 Wed: Call with Nagesh and manager for 3 month contract pause, to resume August 6th. Continued work on Coinbase form. ONE Show twitter space.
+
+2024-04-30 Tue: Operations with Li and Q1 review sync with Amanda. 
+
 2024-04-29 Mon: Operations with Amanda, organizing q2 DeFi initiative of copy trading for Frank and Yuri. Q2 prioritizations remain unclear, as we tack on additional tasks others are getting left behind, I.e. coinbase forms. I’ve created and updated Nagesh, Frank, and Yuriy on tasks. Until a clear structure for q2, I will ignore daily tasks until these larger objectives are completed. Notified Encode of our cancellation of the hackathon due to our prioritization of further developing DeFi infrastructure and AI data.
 
 ---
