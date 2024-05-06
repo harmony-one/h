@@ -1,10 +1,4 @@
-**2024 Q1 Review (14 hours)**
 
-During the Q1, I contributed to the development team of the VoiceAI app, focusing on UI elements and writing tests. Developed an inscriptions indexer backend utilized in an inscriptions lottery. Maintained harmony1bot.
-
-Successfully launched a Human Protocol client at h.country: created a prototype for the client app, added support of key features such as routing, core user interface components, and Firebase integration. Started working on Harmony Portfolio client, a counterpart to the Metamask portfolio, with the alpha version scheduled for release by the end of March 2024.
-
-During work on the Swap page in the Harmony Portfolio, I encountered difficulties due to the need to copy some features from the Harmony Swap client (https://swap.harmony.one), which is based on Uniswap. Researching the client's code and Uniswap documentation took much more time than planned; however, I managed to implement basic operations: Swap Quote, Wrap (ONE -> WONE), and Unwrap. Currently in the process of implementing the final operation (Swap), after which I can move on to improving the user interface.
 
 **2-Week Deliverables by 2024-04-19:**
 
@@ -23,6 +17,10 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 2024-04-29 Mon: researching Layer 3 docs for Timeless with general description of decentralized protocols for open social graph ([link1](https://docs.google.com/document/d/1UzcdSHSmSiJDMoqyJxgUjFLq-b6ENHric3LGY3c5hZU/edit#heading=h.c19i328f5vkb), [link2](https://docs.google.com/document/d/1_X4Yltq5PH2mpRrJ5v__EXG2rePQs6W3502v9ltlxLQ/edit#heading=h.i6qb1k6n8fs6)).
 
 ---
+
+2024-04-26 Fri:
+
+2024-04-25 Thu:
 
 2024-04-24 Wed: Polygon CDK - continue source code research; checking configs and main [docker-compose](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/test/docker-compose.yml) file.
 
@@ -67,6 +65,18 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 2024-04-01 Mon: researched solution for integration of harmony1bot chat with OneResumeAI with Nagesh; continue working on web version of OneResumeAI.
 
 ---
+
+**2024 Q1 Review (14 hours)**
+
+During the Q1, I contributed to the development team of the VoiceAI app, focusing on UI elements and writing tests. Developed an inscriptions indexer backend utilized in an inscriptions lottery. Maintained harmony1bot.
+
+Successfully launched a Human Protocol client at h.country: created a prototype for the client app, added support of key features such as routing, core user interface components, and Firebase integration. Started working on Harmony Portfolio client, a counterpart to the Metamask portfolio, with the alpha version scheduled for release by the end of March 2024.
+
+During work on the Swap page in the Harmony Portfolio, I encountered difficulties due to the need to copy some features from the Harmony Swap client (https://swap.harmony.one), which is based on Uniswap. Researching the client's code and Uniswap documentation took much more time than planned; however, I managed to implement basic operations: Swap Quote, Wrap (ONE -> WONE), and Unwrap. Currently in the process of implementing the final operation (Swap), after which I can move on to improving the user interface.
+
+---
+
+2024-03-31 Sun:
 
 2024-03-30 Sat: [continue](https://github.com/harmony-one/harmony-portfolio/commits/main/) working on implementing erc20 tokens swap in Harmony Portfolio. Researched Uniswap code in existed swap.harmony.one client, but got an error in Uniswap SDK lib when tried same approach locally in Portfolio client. Looking for solutions, debugging lib code.
 
