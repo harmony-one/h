@@ -1,4 +1,4 @@
-2024-05-06 Mon: 
+2024-05-06 Mon: Tested coinmarketcap API with profitability calculator. Working on debugging rate limti. 
 
 ---
 
