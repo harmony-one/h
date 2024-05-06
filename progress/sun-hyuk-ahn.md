@@ -1,8 +1,3 @@
-**2024 Q1 Review (62 hours)**
-
-I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
-
-Prototyped human protocol using various tools and frameworks, and eventually implemented the Firestore based h.country. Specifically implemented keypair management, path commands using "/", as well as OAuth flow. At ETH Denver, introduced the application to ~30 users. Recently, I have deployed the Polaris EVM execution layer on Rollkit, a Cosmos SDK fork, and worked with Yuriy in launching Op Stack based, smart contract rollup on Celestia.
 
 
 **2-Week Deliverables by 2024-03-31:**
@@ -10,6 +5,42 @@ Prototyped human protocol using various tools and frameworks, and eventually imp
 Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
+
+2024-05-05 Sun:
+
+2024-05-04 Sat:
+
+2024-05-03 Fri:
+
+2024-05-02 Thu:
+
+2024-05-01 Wed:
+
+2024-04-30 Tue:
+
+2024-04-29 Mon:
+
+---
+
+2024-04-28 Sun:
+
+2024-04-27 Sat:
+
+2024-04-26 Fri:
+
+2024-04-25 Thu:
+
+2024-04-24 Wed:
+
+2024-04-23 Tue:
+
+2024-04-22 Mon:
+
+---
+
+2024-04-21 Sun:
+
+2024-04-20 Sat:
 
 2024-04-19 Fri:
 
@@ -48,6 +79,15 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 2024-04-02 Tue: Continued writing the article. Focused on the Celestia core concepts as well as sovereign vs smart contract rollup explanation. Continued to work on the contract debugging process. Implemented scripts to determine throughput and block sizes for Shard 1.
 
 2024-04-01 Mon: Working on OP Stack deployment, especially the core L1 contract. Trying to debug deployment failure for few contracts.
+
+---
+
+**2024 Q1 Review (62 hours)**
+
+I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
+
+Prototyped human protocol using various tools and frameworks, and eventually implemented the Firestore based h.country. Specifically implemented keypair management, path commands using "/", as well as OAuth flow. At ETH Denver, introduced the application to ~30 users. Recently, I have deployed the Polaris EVM execution layer on Rollkit, a Cosmos SDK fork, and worked with Yuriy in launching Op Stack based, smart contract rollup on Celestia.
+
 
 ---
 
