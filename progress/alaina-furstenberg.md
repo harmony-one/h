@@ -18,15 +18,15 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 
 -----
 
-2024-04-28 Sun: re-design of harmony.one banner, 7 iterations pending approval.
+2024-04-28 Sun: re-design of harmony.one banner, 7 iterations pending approval. (2 hours)
 
-2024-04-27 Sat: 
+2024-04-27 Sat: (0 hours)
 
 2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
 
-2024-04-25 Thu: 
+2024-04-25 Thu: Testing/Research of bridge platforms Portal, Orbit, Arbitrum, Axelar, Polygon. Taking the most simplistic elements and integrating into a Harmony branded interface. Figma [mocks here](https://www.figma.com/file/qDg2rk0BivJwe98nM0l1gN/Bridge.harmony.one?type=design&node-id=0%3A1&mode=design&t=OCbBfpulIMhvhqZo-1)
 
-2024-04-24 Wed: Sync with Adam + [early release promotion](https://x.com/harmonyprotocol/status/1783202500272927015) of 'Project G'. 
+2024-04-24 Wed: Sync with Adam + [early release promotion](https://x.com/harmonyprotocol/status/1783202500272927015) of 'Project G'. Testing of Project G- very fun and retro gameplay experience!
 
 2024-04-23 Tue: Synced with Soph and Protofire on redesigning favicon for blockchain explorer and on designing a new logos for Blockscout. 
 
