@@ -18,9 +18,9 @@ Continue working on Harmony Portfolio: complete Swap page validations and error 
 
 ---
 
-2024-04-26 Fri:
+2024-04-26 Fri: Paid Time Off.
 
-2024-04-25 Thu:
+2024-04-25 Thu: Paid Time Off.
 
 2024-04-24 Wed: Polygon CDK - continue source code research; checking configs and main [docker-compose](https://github.com/0xPolygonHermez/zkevm-node/blob/develop/test/docker-compose.yml) file.
 
