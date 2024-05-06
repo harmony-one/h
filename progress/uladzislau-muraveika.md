@@ -1,3 +1,21 @@
+2024-05-03 Friday: The main focuses on this week:
+* snapshot node migration - old one used 100% disk space from 7TB:
+  * we created new one with increased 14TB disk space
+  * fully setup
+  * sync up with network
+  * configure automatic snapshots
+  * tested against user traffic
+  * removed old one
+* helped with mitigation of increased load on our bootnodes, together with Kontastantin enabled pprof on nodes, it will help us to understand the root cause of issue
+* nginx-module-vts -> Prometheus -> Grafana monitoring tool set:
+  * haven't touched it due to load
+* as part of on-call:
+  * fixed 2 issues in watchdog
+    * beacon epoch monitoring - increased previous threshold to 120 seconds
+    * fixed devnet test nodes parsing
+
+---
+
 2024-04-26 Friday: The main focuses on this week:
 * removed Binance dedicated RPC node after double confirmation.
 * added additional Layer Zero monitoring alarm for total transactions absence
