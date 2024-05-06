@@ -1,4 +1,12 @@
 
+2024-05-06 Mon: Verified the Harmony-LLMS-API changes in production and deployed the updates to the TestFlight for the ONEResume app.
+
+--- 
+
+2024-05-03 Fri: Frank updated the Harmony-LLMS-API, and I've implemented those changes on the iOS side as well.
+
+2024-05-02 Thu: I began running the Rainbow React Native app locally but encountered Ruby-related issues on my M1 Mac and had a call with Theo about the work.
+
 2024-05-01 Wed: Requested a testing environment from the Privy team and I have begun exploring the Rainbow repository at https://github.com/harmony-one/rainbow.
 
 2024-04-30 Tue: Expo SDK is an enterprise feature, so using it in production will mean you'd start on Privy's entry-level enterprise tier ($667/mo). 
