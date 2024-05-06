@@ -1,22 +1,22 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
-2 week deliverables: Post partnerships, ecosystem news, community spaces, and product demos of ONE Resume/partnership products (1 tweet, 2 replies daily). Deliver iterations on ONE Resume and ONE Portfolio.
+2024 scope: My focus will be on enhancing our community engagement and boosting our social media presence by actively managing daily interactions and content. I'll post daily on platforms like X, Substack, and YouTube to highlight our partnerships, ecosystem news, and demos of AI-driven products like ONE Bot and ONE Portfolio. I will engage with our community through two daily replies and foster discussions in community spaces. Additionally, I will post educational content to help users understand the current crypto + AI landscape and how our products are innovating within that space. I will collaborate with the community to host regular calls, inviting guest speakers to share insights and discuss relevant topics. I will also continue to iterate and improve ONE Portfolio, incorporating feedback from the team and community. My success will be measured by increased user engagement, positive feedback on our AI developments, and active community participation. 
 
 ----
 
-2024-05-05 Sun:
+2024-05-05 Sun: Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) and adding elements from the Harmony website.
 
-2024-05-04 Sat: Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) and promotion via X. Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) and adding elements from the Harmony website.
+2024-05-04 Sat: Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) and promotion via X. 
 
-2024-05-03 Fri: harmony.one community update. Editing of the 'ONE Show' episode 3 + design of the thumbnail. 
+2024-05-03 Fri: harmony.one community update + [thread](https://x.com/harmonyprotocol/status/1786478962178437535). Editing of the 'ONE Show' episode 3 + design of the thumbnail. Continued iterations of ONE Portfolio Bridge feature on Figma.
 
-2024-05-02 Thu: Continued research of templates for rebuilding harmony.one website, looking for a template similar to [this website](https://gobblecube.ai/). 
+2024-05-02 Thu: Continued research of templates for rebuilding harmony.one website, looking for a template similar to [this website](https://gobblecube.ai/). Scheduled [community call](https://x.com/harmonyprotocol/status/1786478963692581303zz) with guest community party Tenacious and Swoop. 
 
-2024-05-01 Wed: [Promotion](https://x.com/harmonyprotocol/status/1785743066713952610) / attendance of the ONE Show Episode 3. 
+2024-05-01 Wed: [Promotion](https://x.com/harmonyprotocol/status/1785743066713952610) / attendance of the ONE Show Episode 3. Office operations
 
-2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. 
+2024-04-30 Tue: Syncing with Blockscout team on the application's design and favicon files. Research on super.so of the best Notion websites. 
 
-2024-04-29 Mon: 
+2024-04-29 Mon: [Thread](https://x.com/harmonyprotocol/status/1785073216987578408) outlining Q1 Techincal Progress + Research of Rune Protocol to better understand crypto space. Learned Bitcoin Runes is an attempt to clean up the BTC network, while allowing traders to enjoy their memecoins on the mother chain- showing the cultural prevalence of 'memes' in crypto. 
 
 ----
 
