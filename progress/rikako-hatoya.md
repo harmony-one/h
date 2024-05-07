@@ -1,3 +1,6 @@
+---
+
+2024-05-06 Mon: Explored with NFTs on MagicEden.
 
 ---
 2024-05-05 Sun (1 hr): Saturday continued.
