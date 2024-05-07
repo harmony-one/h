@@ -1,3 +1,5 @@
+2024-05-07 Tue: Searched Dune for highest volume wallets on ARB with some interaction with a DEX. Summarized 2023 R&D.
+
 2024-05-06 Mon: Tested coinmarketcap API with profitability calculator. Working on debugging rate limti. 
 
 ---
