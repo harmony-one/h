@@ -6,6 +6,8 @@ Harmony Portfolio: implement Bridge page that repeats all major features of the 
 
 ---
 
+2024-05-07 Tue: [added](https://github.com/harmony-one/harmony-portfolio/commit/55e340f86e8fc17dbe6a8a9e4638272f796de0a5) bridge data privider, updated bridge API methods in Harmony Portfolio client. Researching main Bridge client architecture.
+
 2024-05-06 Mon: synced with Yuriy on adding bridge page to Harmony Portfolio; started [researching](https://github.com/harmony-one/layerzero-bridge.frontend) main bridge client architecture to add same features on Harmony Portfolio page. Checked confidential data in harmony1bot logs: some logs can be improved but no sensitive data like hot wallet primary keys is printed in logs.
 
 ---
