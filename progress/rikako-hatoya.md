@@ -1,4 +1,3 @@
----
 
 2024-05-06 Mon: Explored with NFTs on MagicEden.
 
