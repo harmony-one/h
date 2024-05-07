@@ -1,11 +1,13 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot.
 
+2024-5-06 Mon: Checked the Hyperlance documentation; they provide the contracts on local and remote chains we want to bridge with. Talked with Yuriy about deploying Hyperlane on Harmony. Also, made some text/URL changes on the [Bridge site](https://github.com/harmony-one/layerzero-bridge.frontend/pull/26) and kept working on the requested changes on the Swap webpage.
+
 ---
 
-2024-05-03 Sun:
+2024-05-03 Sun: Reviewed 1Bot logging logic. 
 
-2024-05-04 Sat:
+2024-05-04 Sat: Started working on the tooltip text change on the swap site. 
 
 2024-05-03 Fri: Theo updated me on the next task: I had to work on the Arbitrum network. I also kept revising the Hyperlance and worked on the requested changes on the Harmony Swap site.
 
