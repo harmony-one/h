@@ -1,5 +1,7 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
+2024-05-07 Tue: Continued review of [DeFi space topics](https://docs.google.com/document/d/1MiS266hM9Ch81eOJmeFCFbXyTvdh8-UfPrkGahn_Fis/edit?usp=sharing). Beginninng mocks of swap.harmony.one
+
 2024-05-06 Mon: Sync on /progres. Updated everyone's /progress. Prepartion of Swoop x Harmony space, reviewing [this list of questions](https://docs.google.com/document/d/1MiS266hM9Ch81eOJmeFCFbXyTvdh8-UfPrkGahn_Fis/edit?usp=sharing). Office operations.
 
 ----
