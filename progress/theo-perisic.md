@@ -8,6 +8,12 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 
 ---
 
+2024-05-07 Tue: Work on new Harmony website. Insights: Super.so customization is extremely limited, but already an improvement on our current site.
+
+2024-05-06 Mon: Draft of DeFi strategy for Q2-Q4 prioritizing perpetual exchange first, building up to complete DeFi narrative that includes cross-chain, and AI to bring all initiatives together.
+
+---
+
 2024-05-05 Sun: [1hr] Reached out to tenacious_defi for Harmony AI data docs.
 
 2024-05-04 Sat: [1hr] Review of Harmony x Swoop doc
