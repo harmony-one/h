@@ -1,3 +1,5 @@
+2024-05-08 Wed: Harmony ONE twitter space with Alaina, Julia, Tenacious with Crypto Land DAO, and David from Swoop. Further website iterations, customization remains limited, webflow may be a better option.
+
 2024-05-07 Tue: Work on new Harmony website. Insights: Super.so customization is extremely limited, but already an improvement on our current site.
 
 2024-05-06 Mon: Draft of DeFi strategy for Q2-Q4 prioritizing perpetual exchange first, building up to complete DeFi narrative that includes cross-chain, and AI to bring all initiatives together.
