@@ -1,7 +1,9 @@
 **2-Week Deliverables by 2024-05-20:**
-Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot.
+2-Week Deliverables by 2024-05-20: Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
-2024-5-06 Mon: Checked the Hyperlance documentation; they provide the contracts on local and remote chains we want to bridge with. Talked with Yuriy about deploying Hyperlane on Harmony. Also, made some text/URL changes on the [Bridge site](https://github.com/harmony-one/layerzero-bridge.frontend/pull/26) and kept working on the requested changes on the Swap webpage.
+2024-05-07 Tue: Fixed one- and two-letter domain [issues in 1.country](https://github.com/harmony-one/1-country.frontend/pull/217), skipping Web2 registrations because we already control the domains. Also, fixed certificate handling, checking if the certificate needs to be renewed before creating it. After being reviewed by Artem, changes were published. Also, kept working on the swap site update. 
+
+2024-05-06 Mon: Checked the Hyperlance documentation; they provide the contracts on local and remote chains we want to bridge with. Talked with Yuriy about deploying Hyperlane on Harmony. Also, made some text/URL changes on the [Bridge site](https://github.com/harmony-one/layerzero-bridge.frontend/pull/26) and kept working on the requested changes on the Swap webpage.
 
 ---
 
@@ -20,6 +22,9 @@ Finish harmony1bot mayor refactoring to help integration with subagents and plug
 2024-04-29 Mon: Tested and deployed to 1Bot /ctool and /stool commands, which allow access to the Anthropic tool feature. Started working on integrating AI into harmony.one/defi project.
 
 ---
+**2-Week Deliverables by 2024-04-26:**
+Finish harmony1bot mayor refactoring to help integration with subagents and plugins (like voice commands) and add other subagents like PDF parsing. Also, create a demo of [anthropic tools](https://docs.anthropic.com/claude/docs/tool-use) on harmony1bot.
+
 2024-04-26 Fri: Finished implementing the tool logic on [harmony-llm-api](https://github.com/harmony-one/harmony-llm-api/pull/19) and enabled the ticker symbol info retriever tool, which works with multiple ticker symbols. Also finished implementing the logic on [1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/362) and enabled the /ctool and /stool commands. Currently testing on 0Bot. Finally, the /new command logic was updated to refresh the conversation per active bot.
 
 2024-04-25 Thu: Day off due to flu.  
