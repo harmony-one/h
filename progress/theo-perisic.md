@@ -1,13 +1,3 @@
-Q1 Review:
-
-In Q1, I managed and helped launch 4 distinct projects: Human-Protocol, Quest Lottery, Lend, and Flip. For each project I contributed to the product through UI/UX iterations, userflows, and minor frontend pushes, as well as operations by coordinating 12 individuals, 5 internal, 4 from the apps team, and 3 from protofire. I also extended this coordination to our community, helping the 7 recovery multisig custodians who increased recovery percentage by 6%, the most in a single quarter, and the 60+ eligible validator community for HIP-32 leading to a unanimous YES vote with 3 billion ONE.
-
-I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promoted 7 ecosystem projects, and onboarded a new infrastructure partner, Envio. The campaign with the OneScription team, led to their sold out inscription token, raising 1.8 million ONE. On my own time, I also attended 5 bi-weekly Harmony Ecosystem Roundup spaces to engage with the community.
-
-7 ecosystem project promotions: Galaxii, a decentralized TikTok alternative; MetaSMS, an encrypted messenger; Joskins, a platform for purchasing merch with ONE tokens; Knights&Peasants, a strategy blockchain game; OneScription, a gateway for converting Harmony inscriptions to ERC-20 tokens; AnotherWorld, a Ready Player One-inspired metaverse; and Coherence, an NFT marketplace.
-
----
-
 2024-05-07 Tue: Work on new Harmony website. Insights: Super.so customization is extremely limited, but already an improvement on our current site.
 
 2024-05-06 Mon: Draft of DeFi strategy for Q2-Q4 prioritizing perpetual exchange first, building up to complete DeFi narrative that includes cross-chain, and AI to bring all initiatives together.
@@ -91,6 +81,16 @@ I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promo
 2024-04-02 Tue: Review of on-chain AI products from @CryptoKoryo report. Story Protocol thread. Notified protofire for adding market data on frontend.
 
 2024-04-01 Mon: Made contact with MoonPay representative, awaiting feedback on their end. Full team review management and weekend hour tracking. Sync with Artem, Yuriy, Theo F, and Sun on OP Stack and Portfolio progress. OP Stack based rollup release on Shard 1 and article scheduled for Friday.
+
+---
+
+Q1 Review:
+
+In Q1, I managed and helped launch 4 distinct projects: Human-Protocol, Quest Lottery, Lend, and Flip. For each project I contributed to the product through UI/UX iterations, userflows, and minor frontend pushes, as well as operations by coordinating 12 individuals, 5 internal, 4 from the apps team, and 3 from protofire. I also extended this coordination to our community, helping the 7 recovery multisig custodians who increased recovery percentage by 6%, the most in a single quarter, and the 60+ eligible validator community for HIP-32 leading to a unanimous YES vote with 3 billion ONE.
+
+I also released the 2024 roadmap, engaged in twitter spaces and EthDenver, promoted 7 ecosystem projects, and onboarded a new infrastructure partner, Envio. The campaign with the OneScription team, led to their sold out inscription token, raising 1.8 million ONE. On my own time, I also attended 5 bi-weekly Harmony Ecosystem Roundup spaces to engage with the community.
+
+7 ecosystem project promotions: Galaxii, a decentralized TikTok alternative; MetaSMS, an encrypted messenger; Joskins, a platform for purchasing merch with ONE tokens; Knights&Peasants, a strategy blockchain game; OneScription, a gateway for converting Harmony inscriptions to ERC-20 tokens; AnotherWorld, a Ready Player One-inspired metaverse; and Coherence, an NFT marketplace.
 
 ---
 
