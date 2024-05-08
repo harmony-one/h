@@ -1,3 +1,4 @@
+2024-05-07 Tue: Look into Hyperlane/Nexus Bridge TIA, Arbitrum DeFi and Arcade, and some projects from Taiko ecosystem.
 
 2024-05-06 Mon: Explored with NFTs on MagicEden.
 
