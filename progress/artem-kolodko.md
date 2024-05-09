@@ -6,6 +6,8 @@ Harmony Portfolio: implement Bridge page that repeats all major features of the 
 
 ---
 
+2024-05-09 Thu: fetching bridge tokens from bridge API endpoints, [added](https://github.com/harmony-one/harmony-portfolio/commit/a0c58627d8c357b60aa2f1b829ea1cf0a044834f) modal with list of available tokens in Portfolio - Bridge page
+
 2024-05-08 Wed: contunue researching Harmony Bridge sources to implement bridge features in Portfolio. Look into [Synthetix](https://github.com/Synthetixio/synthetix-v3) repos to port it to Harmony chain.
 
 2024-05-07 Tue: [added](https://github.com/harmony-one/harmony-portfolio/commit/55e340f86e8fc17dbe6a8a9e4638272f796de0a5) bridge data privider, updated bridge API methods in Harmony Portfolio client. Researching main Bridge client architecture.
