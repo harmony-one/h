@@ -12,6 +12,16 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-09 Thu: Double check researching results from Tej - checked GMX and other protocols that forked GMX v1. Also don't found suitable protocol for us. Right now main problem that GMX repo doesn’t have the deployment script.
+
+2024-05-08 Wed: Inspected GMX v1 contracts deploy [logs](https://harmonyone.notion.site/Tej-Daily-tasks-and-progress-80ab954954c944acb7f2c3276ff7d439) from Tej. Have a problem that all protocols including the gmx itself didn’t share the deployment script so we need to write it ourselves. Looked at repo for gmx v1 from Tej on harmony GitHub [gmx-contracts](https://github.com/harmony-one/gmx-contracts).
+
+2024-05-07 Tue: Switched to [Port GMX v1](https://www.x.country/q2-tasks-for-defi-48202a8726aa4382800c964bd479060c). Started researching GMX v1 contracts [docs](https://gmx-docs.io/docs/api/contracts-v1/) and [github repo](https://github.com/gmx-io/gmx-contracts). Also looked at other gmx repos: [gmx-interface](https://github.com/gmx-io/gmx-interface) and [gmx-subgraph](https://github.com/gmx-io/gmx-subgraph).
+
+2024-05-06 Mon: Synced with Artem on adding bridge page to Harmony Portfolio. Made a review of the architecture and source code; Started researching and deploying hyperlane according to the [instructions](https://docs.hyperlane.xyz/docs/deploy-hyperlane).
+
+---
+
 2024-05-03 Fri: Got an update on the tasks from Theo, looking at the projects from the [post](https://twitter.com/ayyyeandy/status/1786017371490050270?s=12) and exploring them further on the opportunities fork to Harmony.
 
 2024-05-02 Thu: Synchronized with Frank regarding the integration of 1Bot and harmony-llm-api with swap, bridge and copy-trading services. Working on the overall system architecture.
