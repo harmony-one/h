@@ -1,3 +1,7 @@
+2024-05-09 Thu: Reviewed Q2 tasks for deliverables. Looked into LP-trader perpetual exchange on Jupiter, and Perps on Vertex.
+
+2024-05-08 Wed: Further work on 20 things to do list. Looked into Ambient Finance for LP, Phaver app (farcaster) and some quests, etc.
+
 2024-05-07 Tue: Look into Hyperlane/Nexus Bridge TIA, Arbitrum DeFi and Arcade, and some projects from Taiko ecosystem.
 
 2024-05-06 Mon: Explored with NFTs on MagicEden.
