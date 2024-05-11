@@ -1,5 +1,3 @@
-On-going: One tweet + two replies per day, 365/7 all the time.
-
 2024-05-10 Fri: harmony.one community update plus research top 10 uniswap v3 forks to update the swap.harmony.one interface. Insights: Of the top 10 v3 forks, I think Agni Finance has the most unique, brand-driven design. But sushiswap wins for simplest/most intuitive user flow. Mocks started in [this Figma file](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=hjEr0rbLCs5b0g7B-1).
 
 2024-05-09 Thu: Office operations + main website building using super.so. Duplicated the css into github, having issues with customization. Am working on creating a 1 v 1 parity of our current website, with an improved interface.
@@ -91,6 +89,8 @@ On-going: One tweet + two replies per day, 365/7 all the time.
 ---
 
 **2024 scope**
+
+On-going: One tweet + two replies per day, 365/7 all the time.
 
 My focus will be on enhancing our community engagement and boosting our social media presence by actively managing daily interactions and content. I'll post daily on platforms like X, Substack, and YouTube to highlight our partnerships, ecosystem news, and demos of AI-driven products like ONE Bot and ONE Portfolio. I will engage with our community through two daily replies and foster discussions in community spaces. Additionally, I will post educational content to help users understand the current crypto + AI landscape and how our products are innovating within that space. I will collaborate with the community to host regular calls, inviting guest speakers to share insights and discuss relevant topics. I will also continue to iterate and improve ONE Portfolio, incorporating feedback from the team and community. My success will be measured by increased user engagement, positive feedback on our AI developments, and active community participation. 
 
