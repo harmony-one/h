@@ -1,5 +1,7 @@
 On-going: One tweet + two replies per day, 365/7 all the time.
 
+2024-05-10 Fri: harmony.one community update plus research top 10 uniswap v3 forks to update the swap.harmony.one interface. Insights: Of the top 10 v3 forks, I think Agni Finance has the most unique, brand-driven design. But sushiswap wins for simplest/most intuitive user flow. Mocks started in [this Figma file](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=hjEr0rbLCs5b0g7B-1).
+
 2024-05-09 Thu: Office operations + main website building using super.so. Duplicated the css into github, having issues with customization. Am working on creating a 1 v 1 parity of our current website, with an improved interface.
 
 2024-05-08 Wed: Hosted the Harmony x Swoop: Future of DeFi on Harmony. Topics discussed include the website, cross-chain copy trading, Swap, Lend, and Harmony Portfolio. Talked at length about the difference between the 2020 & 2024 crypto environment plus what 'builds trust' within a community.
