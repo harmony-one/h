@@ -1,3 +1,5 @@
+2024-05-11 Sat (1.0 hr): Adjusting /progress for the team.
+
 2024-05-10 Fri: harmony.one community update plus research top 10 uniswap v3 forks to update the swap.harmony.one interface. Insights: Of the top 10 v3 forks, I think Agni Finance has the most unique, brand-driven design. But sushiswap wins for simplest/most intuitive user flow. Mocks started in [this Figma file](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=hjEr0rbLCs5b0g7B-1).
 
 2024-05-09 Thu: Office operations + main website building using super.so. Duplicated the css into github, having issues with customization. Am working on creating a 1 v 1 parity of our current website, with an improved interface.
