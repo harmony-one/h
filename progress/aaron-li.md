@@ -1,4 +1,20 @@
-2024-5-1 Wed (0.5h): (Continued) 
+2024-5-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options
+
+2024-5-9 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design
+
+2024-5-8 Wed (4.5h): Review on Harmony portofolio implementation, security, architecture. Quick review on Blockscout staking implementation in Elixir language. Research and review on perpetual DEX token design, mechanisms, usage and distribution
+
+2024-5-7 Tue (1.5h): Review and discuss Q2 Defi plans, compliant issues on token launch and decentralization, geofencing and potential legal issues, layer 2 usage and analytics. Discuss registration and renewal procedure for reserved domains
+
+2024-5-6 Mon (1h): Review and discuss data API access and latency between Dune, Nansen, dAppRadar, and alternatives. Debug and fix certificate issues for reewnable domains. 
+
+2024-5-4 Thu (3h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
+
+2024-5-3 Fri (3h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays
+
+2024-5-2 Thu (1h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects 
+
+2024-5-1 Wed (1h): (Continued) and discuss practical limitations, implementation steps, tasks
 
 2024-4-30 Tue (2h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot
 
