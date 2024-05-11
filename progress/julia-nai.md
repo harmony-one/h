@@ -1,3 +1,5 @@
+2024-05-10 Fri: Synced with Theo regarding li.fi and swoop integrations. 
+
 2024-05-09 Thu: Continued to work on accumulating Dune queries, assisted in clearing water jugs, and reviewed upcoming plans for prediction market.
 
 2024-05-08 Wed: Debugging issue with getting accurate pricing for tokens for wallet transaction tracking.
