@@ -1,9 +1,3 @@
-**Q2 devops and service roadmap**
-
-In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives aimed at enhancing the efficiency and reliability of our infrastructure. Foremost, we will focus on implementing the Blockscout Explorer for the Harmony Mainnet. This initiative aims to provide users with an intuitive interface to explore on-chain data comprehensively. By integrating Blockscout, we anticipate improved transparency and accessibility within our ecosystem, ultimately empowering users with better insights and decision-making capabilities.
-
-Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
-
 ---
 **2024-5-10: Weekly update**
 
@@ -54,6 +48,12 @@ Furthermore, I meticulously tested and reviewed the [isbackup PR fix](https://gi
 
 Lastly, I provided comprehensive assistance to joskins, offering technical guidance and addressing issues related to contract deployment using Remix for an upcoming token pre-sale. 
 
+---
+**Q2 devops and service roadmap**
+
+In the upcoming quarter, our DevOps roadmap prioritizes three key initiatives aimed at enhancing the efficiency and reliability of our infrastructure. Foremost, we will focus on implementing the Blockscout Explorer for the Harmony Mainnet. This initiative aims to provide users with an intuitive interface to explore on-chain data comprehensively. By integrating Blockscout, we anticipate improved transparency and accessibility within our ecosystem, ultimately empowering users with better insights and decision-making capabilities.
+
+Simultaneously, we are committed to implementing rate limits on Harmony RPCs to optimize performance and ensure service reliability. By regulating incoming traffic, this initiative aims to prevent overload and maintain the responsiveness of our RPC infrastructure. By proactively managing traffic flow, we anticipate enhancing the overall user experience for developers and validators, aligning with our goal of delivering seamless and efficient services. Additionally, we are preparing for the imminent replacement of RPC nodes facing disk full issues, prioritizing the stability and availability of our RPC services. Through these initiatives, we aim to uphold our commitment to providing a robust and dependable platform for our community.
 ---
 **Q1 Impact and Performance Summary**:
 
