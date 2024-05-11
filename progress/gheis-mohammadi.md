@@ -1,3 +1,8 @@
+**2024-05-11 Sat:**
+Last week, our primary focus was on resolving the boot node issues. We conducted several investigations into the matter, and although progress has been made, we are still actively working on it. Personally, I dedicated time to addressing the out-of-sync issue by meticulously reviewing logs and eliminating any unnecessary ones.
+
+---
+
 **2024-05-04 Sat:**
 Last week, I finalized [#4660](https://github.com/harmony-one/harmony/pull/4660), which was reviewed and merged by the team to dev branch. We investigated a connection issue and observed that two peers could connect and successfully complete the handshake. However, when they started syncing blocks, the connection broke instantly. We thoroughly checked the stream logs, the handshake process, the stream client, the database layer for fetching blocks, context timeout, block size, and double-checked with RPC, and all of them appeared to be working fine. Our next theory focused on the rate limiter, but upon examination, it also seemed to be functioning properly. This issue is still under investigation.
 
