@@ -1,3 +1,7 @@
+2024-05-10 Fri: Sync with Julia for OpenOcean integration for larger presence of Harmony on Swoop. Reached out to DIA to start discussions we previously moved on from, again working towards amplifying our ecosystem oracle support for each decentralized application.
+
+2024-05-09 Thu: Continued research on perpetual exchanges to add to current primitive offerings, initial planning of minimal product pulling from Jupiter and dydx.
+
 2024-05-08 Wed: Harmony ONE twitter space with Alaina, Julia, Tenacious with Crypto Land DAO, and David from Swoop. Further website iterations, customization remains limited, webflow may be a better option.
 
 2024-05-07 Tue: Work on new Harmony website. Insights: Super.so customization is extremely limited, but already an improvement on our current site.
