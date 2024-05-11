@@ -1,4 +1,4 @@
----
+
 **2024-5-10: Weekly update**
 
 This week, I've been actively involved in a new explorer project that resembles etherscan. We've developed a demo for mainnet shard 0, focusing solely on EVM indexing, which is currently undergoing indexing. Additionally, discussions are underway to obtain a quote that encompasses Harmony-specific features such as support for two shards, cross-shard transactions, and staking transactions. Meanwhile, progress continues on the Blockscout explorer, with approval pending for the mainnet infrastructure cost and plans for a testnet launch in the near future.
@@ -6,6 +6,7 @@ This week, I've been actively involved in a new explorer project that resembles 
 Despite our efforts, several ongoing issues across our network are hindering our progress with HIP32 implementation: 1) Mainnet bootnodes are experiencing panics, 2) There are pending crosslinks in the devnet, and 3) We're encountering streamsync issues. While the latter is not necessarily a blocker at the moment, achieving 0% internal vote power and complete decentralization remains a crucial goal for our future endeavors.
 
 ---
+
 **2024-5-3: Weekly update**
 
 1. The mainnet bootnode experienced higher-than-usual traffic this week, leading to elevated CPU and memory usage. Consequently, we upgraded all four instances to accommodate the increased load efficiently.
