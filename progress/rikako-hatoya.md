@@ -1,3 +1,5 @@
+2024-05-10 Fri: Debugging some configuration and look into for Harmony hardhat starterpack repo. Playing around with perpetual exchange and reading docs on Jupiter (JLP Pool, trading), GMX (look into trading and couple of ecosystem projects. Vertex is restricted in the U.S., looked into similar trading platforms.
+
 2024-05-09 Thu: Reviewed Q2 tasks for deliverables. Looked into LP-trader perpetual exchange on Jupiter, and Perps on Vertex.
 
 2024-05-08 Wed: Further work on 20 things to do list. Looked into Ambient Finance for LP, Phaver app (farcaster) and some quests, etc.
