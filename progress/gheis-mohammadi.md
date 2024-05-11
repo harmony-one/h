@@ -1,21 +1,21 @@
-**2024-05-04 Saturday**
+**2024-05-04 Sat:**
 Last week, I finalized [#4660](https://github.com/harmony-one/harmony/pull/4660), which was reviewed and merged by the team to dev branch. We investigated a connection issue and observed that two peers could connect and successfully complete the handshake. However, when they started syncing blocks, the connection broke instantly. We thoroughly checked the stream logs, the handshake process, the stream client, the database layer for fetching blocks, context timeout, block size, and double-checked with RPC, and all of them appeared to be working fine. Our next theory focused on the rate limiter, but upon examination, it also seemed to be functioning properly. This issue is still under investigation.
 
 Additionally, there was an incident involving all boot nodes that, after upgrading, were unable to sync the peers list. Many validators reported this issue, prompting us to prioritize its resolution. Eventually, we disabled pprof, after which all boot nodes came back online, and the main net was successfully recovered.
 
 ---
 
-**2024-04-27 Saturday**
+**2024-04-27 Sat:**
 Last week, our primary focus revolved around investigating why nodes switched to syncing mode despite being fully synchronized. Additionally, I delved into resolving NTP and local net block production issues. Furthermore, efforts were directed towards addressing the build issue encountered in my latest pull request.
 
 ---
 
-**2024-04-19 Saturday**
+**2024-04-19 Sat:**
 Last week, my focus was on enhancing the stream sync code and block storage functionality. I submitted a pull request [#4660](https://github.com/harmony-one/harmony/pull/4660) aimed at improving and refactoring the stream sync block storage. Currently, this PR is undergoing team review. It is expected to enhance the stream sync's stability, provide more useful logs, and serve as a valuable step towards debugging.
 
 ---
 
-**2024-04-13 Saturday**
+**2024-04-13 Sat:**
 As we move towards achieving a fully decentralized network and implementing HIP32, effective communication between nodes becomes crucial. This necessitates having a reliable and operational stream sync, which is of utmost importance. Over the past few months, we've implemented numerous changes to both the stream codes and consensus module. However, these alterations have led to instability in the sync protocol and communication between the sync and consensus modules. Currently, my main focus is on addressing these issues. I'm working on a couple of code fixes and conducting tests to ensure that everything functions as expected.
 
 ---
@@ -40,17 +40,17 @@ Overall, Q1 was marked by significant progress, with numerous issues addressed a
 
 ---
 
-**2024-04-06 Saturday:** Last week, we could address the p2p stream discoveries issue and successfully resolved it in the devnet node However, two other issues persist: high storage usage by stream sync and the transition from Syncing mode to Normal mode. After many discussions with the team and thorough code base analysis, we are actively addressing these priorities. Additionally, we continue to prioritize the recovery of devnet shard1, exploring the most efficient approach for its restoration.
+**2024-04-06 Sat:** Last week, we could address the p2p stream discoveries issue and successfully resolved it in the devnet node However, two other issues persist: high storage usage by stream sync and the transition from Syncing mode to Normal mode. After many discussions with the team and thorough code base analysis, we are actively addressing these priorities. Additionally, we continue to prioritize the recovery of devnet shard1, exploring the most efficient approach for its restoration.
 
 ---
 
-**2024-03-30 Saturday:** Last week, we encountered a storage issue where the team identified that the stream cache was consuming excessive storage. I conducted tests on the sync in the local network, and everything appeared to be fine, with storage usage within normal limits. However, we later observed that the stream service kept restarting, and the cleanup process wasn't triggered for unknown reasons. Currently, I am working on a pull request (PR) to address this cleanup issue.
+**2024-03-30 Sat:** Last week, we encountered a storage issue where the team identified that the stream cache was consuming excessive storage. I conducted tests on the sync in the local network, and everything appeared to be fine, with storage usage within normal limits. However, we later observed that the stream service kept restarting, and the cleanup process wasn't triggered for unknown reasons. Currently, I am working on a pull request (PR) to address this cleanup issue.
 
 Additionally, we faced problems with p2p stream discoveries as the node couldn't connect to other nodes, which were rejecting it. It seems the node was being blocked by others. We are actively working on resolving this issue as well.
 
 ---
 
-**2024-03-15 Friday:** Last week, we encountered a simple configuration issue. All devnet nodes were upgraded to the latest release, and snapshot generation was inadvertently enabled by default, causing several nodes to go down. To address this, I created a pull request and set the Snapshots Limit to zero by default for all networks. This effectively disabled snapshots permanently and resolved the issue.
+**2024-03-15 Fri:** Last week, we encountered a simple configuration issue. All devnet nodes were upgraded to the latest release, and snapshot generation was inadvertently enabled by default, causing several nodes to go down. To address this, I created a pull request and set the Snapshots Limit to zero by default for all networks. This effectively disabled snapshots permanently and resolved the issue.
 
 Subsequently, we encountered another issue where two nodes became stuck due to an increasing view ID, resulting in different block hashes. We investigated this issue and considered two theories: one related to the snapshot root hash and the other to potential root causes within stream sync. Upon investigation, I confirmed that stream sync could not be the issue, as it does not manipulate or increase view IDs. However, there remained a possibility of indirect conflicts with consensus. Our investigation revealed that one node had somehow received the wrong view ID from another node. We temporarily resolved this issue by disabling snapshots and resyncing the affected node using the snapshot database.
 
@@ -96,7 +96,7 @@ Additionally, I addressed a user-reported issue regarding transaction sending. U
 
 ---
 
-**2024-01-26 Friday:** We encountered an issue that could lead to panic errors on devnet nodes due to a null snapshot. This problem was triggered by fast sync tests in StreamNet and was affecting the decoupled nodes. I addressed this issue on the P2P client side by validating the snapshot creation result.
+**2024-01-26 Fri:** We encountered an issue that could lead to panic errors on devnet nodes due to a null snapshot. This problem was triggered by fast sync tests in StreamNet and was affecting the decoupled nodes. I addressed this issue on the P2P client side by validating the snapshot creation result.
 
 Subsequently, I resolved the snapshot creation issue, which was a blocker for state pruning as well. The snapshot creation was broken because of an incorrect root hash. The PR addresses that issue and also adds a new section in the configuration file for cache settings. It moves old cache settings under this new section as well. All the changes have been tested successfully and are ready to review and merge by team.
 
