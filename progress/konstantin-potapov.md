@@ -1,3 +1,7 @@
+2024-05-10 Fri: This week i reviewed dev branch, was reading HotStuff whitepaper and was investigating issues with bootnode and crosslink. 
+
+---
+
 2024-05-03 Fri: This week, i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging. And i was collaborating with Adam on harmony smart contract development. 
 
 ---
