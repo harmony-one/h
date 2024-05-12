@@ -1,3 +1,13 @@
+2024-05-10 Friday: The main focuses on this week(9th of May was a holiday):
+* nginx-module-vts -> Prometheus -> Grafana monitoring tool set:
+  * created a dashboard in Grafana to show the load state on Nginx
+  * created a playbook for the nginx custom build with nginx-module-vts included
+* as part of on-call:
+  * helped with bootnodes load problem mitigation - enabled logrotate(zip/remove) to run daily against excessive logging
+  * keep devnet stabilized through the week - time to time we lost consensus
+  * watchdog - updated user-list
+  * watchdog - moved threshold for the beacon chain monitoring to the config and updated it to the higher value
+
 2024-05-03 Friday: The main focuses on this week:
 * snapshot node migration - old one used 100% disk space from 7TB:
   * we created new one with increased 14TB disk space
