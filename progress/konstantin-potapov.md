@@ -1,4 +1,4 @@
-2024-05-10 Fri: This week i reviewed dev branch, was reading HotStuff whitepaper and was investigating issues with bootnode and crosslink. 
+2024-05-10 Fri: This week i reviewed dev branch, was reading HotStuff consensus protocol and was investigating issues with bootnode and crosslink. 
 
 ---
 
