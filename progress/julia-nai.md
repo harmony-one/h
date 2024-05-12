@@ -15,28 +15,6 @@
 2024-05-04 Sat: [2 hour] Looked into Dune analytics latencies and capabilities.
 
 2024-05-03 Fri: Some transactions (example below) report amountInUSD as 0 even though it should be 1040225855882354 unshETH. Removing dependancy on subgraph's USD values. 
-```
-{
-        "timestamp": "1714764083",
-        "amountInUSD": "0",
-        "amountOutUSD": "3.3648165786121118355541",
-        "amountIn": "1040225855882354",
-        "amountOut": "1097770763969099",
-        "hash": "0xe5308db6bbf1986ed50bd1f4185b48a22254d48032715f99aae201ff63b3fc44",
-        "pool": {
-          "id": "0xa57b643b814108b44df8cd0419602b9e3c3cd786"
-        },
-        "tokenIn": {
-          "symbol": "unshETH"
-        },
-        "tokenOut": {
-          "symbol": "WETH"
-        },
-        "account": {
-          "id": "0x0079ea086ba71b8dbbb341033458a3a38eecb42b"
-        }
-      },
-```
 
 2024-05-02 Thu: [Added](https://github.com/harmony-one/s/commit/7dbfe0595f3844e66157604fded23807fda61feb) test script for wallet profitability calculation on Arb Uniswap. Calculate top 10 most profitable wallets (unrealized and realized to USD) from a subset of most recent transactions.
 
