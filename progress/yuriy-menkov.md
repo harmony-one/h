@@ -12,6 +12,8 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-10 Fri: Continue researching [fork list](https://defillama.com/forks/GMX%20V1) and github [repos](https://github.com/gmx-io/gmx-contracts/forks). I haven’t been able to find a ready-made script for deploying and configuring all contracts yet, so I’m writing our own version based on what I can find in other projects. For example how this [implemented](https://github.com/acria-dominik/gmx-contracts/blob/master/scripts/deployAll.js) for acria-dominik project. 
+
 2024-05-09 Thu: Double check researching results from Tej - checked GMX and other protocols that forked GMX v1. Also don't found suitable protocol for us. Right now main problem that GMX repo doesn’t have the deployment script.
 
 2024-05-08 Wed: Inspected GMX v1 contracts deploy [logs](https://harmonyone.notion.site/Tej-Daily-tasks-and-progress-80ab954954c944acb7f2c3276ff7d439) from Tej. Have a problem that all protocols including the gmx itself didn’t share the deployment script so we need to write it ourselves. Looked at repo for gmx v1 from Tej on harmony GitHub [gmx-contracts](https://github.com/harmony-one/gmx-contracts).
