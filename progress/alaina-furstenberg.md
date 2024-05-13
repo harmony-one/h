@@ -1,4 +1,4 @@
-2024-05-11 Sat (1.0 hr): Adjusting /progress for the team.
+2024-05-11 Sat (1.0h): Adjusting /progress for the team.
 
 2024-05-10 Fri: harmony.one community update plus research top 10 uniswap v3 forks to update the swap.harmony.one interface. Insights: Of the top 10 v3 forks, I think Agni Finance has the most unique, brand-driven design. But sushiswap wins for simplest/most intuitive user flow. Mocks started in [this Figma file](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=hjEr0rbLCs5b0g7B-1).
 
@@ -12,9 +12,9 @@
 
 ----
 
-2024-05-05 Sun (2.0 hrs): Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) to rebuild the Harmony website. This template features a more seamless interface with the capability of editing within a notion document.
+2024-05-05 Sun (2.0 h): Experimenting with [this Notion template](https://harmony-one-landing-page.super.site) to rebuild the Harmony website. This template features a more seamless interface with the capability of editing within a notion document.
 
-2024-05-04 Sat (2.0 hrs): Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) onto Youtube. Sent a promotional via X. 
+2024-05-04 Sat (2.0 h): Publishing of [ONE Show episode 3](https://youtu.be/Fm8OPYU7-7o) onto Youtube. Sent a promotional via X. 
 
 2024-05-03 Fri: harmony.one community update + [thread](https://x.com/harmonyprotocol/status/1786478962178437535). Editing of the 'ONE Show' episode 3 + design of the thumbnail. Continued iterations of ONE Portfolio Bridge feature on Figma.
 
@@ -28,9 +28,9 @@
 
 -----
 
-2024-04-28 Sun (2.0 hrs): Re-design of harmony.one banner, 7 iterations pending approval. 
+2024-04-28 Sun (2.0 h): Re-design of harmony.one banner, 7 iterations pending approval. 
 
-2024-04-27 Sat (0 hrs):
+2024-04-27 Sat (0 h):
 
 2024-04-26 Fri: Design of Casey's Q1 Technical Report Thumbnail. Community section update. 
 
@@ -43,9 +43,9 @@
 2024-04-22 Mon: Posting of ONE Show Episode 2 to [Youtube](https://youtu.be/7f6I9g9v5SA) and [Twitter](https://x.com/harmonyprotocol/status/1782555403504758828) + thumbnail design. Downloaded Galaxii on Ios and filmed demo. Iterated on harmony.one banner.
 
 ---
-2024-04-21 Sun (1.0 hr): [Thread on Harmony merch vendors](https://x.com/harmonyprotocol/status/1782555403504758828)
+2024-04-21 Sun (1.0 h): [Thread on Harmony merch vendors](https://x.com/harmonyprotocol/status/1782555403504758828)
 
-2024-04-20 Sat (2.0 hrs): Editing of ONE Show Episode 2
+2024-04-20 Sat (2.0 h): Editing of ONE Show Episode 2
 
 2024-04-19 Fri: Harmony community update, office move
 
@@ -58,9 +58,9 @@
 2024-04-15 Mon: Uploading [ONE Show onto Youtube](https://youtu.be/CQ7ASAIbTKg?si=YOqLZu1w2NyvXC3l) and sharing via [X](https://x.com/harmonyprotocol/status/1779973726584684796). [Co-marketing with Galaxii](https://x.com/harmonyprotocol/status/1779972624862658911) + downloading their IOS app and filming a demo. Working with Nagesh on Testflight launch.
 
 ---
-2024-04-14 Sun (3.0 hrs): Editing graphic for ONE Show + sharing [community tweets](https://x.com/harmonyprotocol/status/1779688156369236249) on X.
+2024-04-14 Sun (3.0 h): Editing graphic for ONE Show + sharing [community tweets](https://x.com/harmonyprotocol/status/1779688156369236249) on X.
 
-2024-04-13 Sat (2.0 hrs): Researching top notion websites via super.so and potion.so top templates listed [here](https://www.notion.so/harmonyone/Top-Notion-templates-harmony-one-f72fc964a9244c8192e8a9de45d37671?pvs=4)
+2024-04-13 Sat (2.0 h): Researching top notion websites via super.so and potion.so top templates listed [here](https://www.notion.so/harmonyone/Top-Notion-templates-harmony-one-f72fc964a9244c8192e8a9de45d37671?pvs=4)
 
 2024-04-12 Fri: /agi thread + community tweet onto Harmony.one. Sync with Coinmonster on status of Harmony merch.
 
@@ -74,9 +74,9 @@
 
 ----- 
 
-2024-04-07 Sun (2.0 hrs): Design research for website banner, referencing other crypto platforms like Uniswap, Near, etc.
+2024-04-07 Sun (2.0 h): Design research for website banner, referencing other crypto platforms like Uniswap, Near, etc.
 
-2024-04-06 Sat (2.0 hrs): Design research on chat interfaces, referencing AI tools like chatgpt. Implemented design patterns, into my mocks. Will work with Nagesh to achieve same functionality. 
+2024-04-06 Sat (2.0 h): Design research on chat interfaces, referencing AI tools like chatgpt. Implemented design patterns, into my mocks. Will work with Nagesh to achieve same functionality. 
 
 2024-04-05 Fri: [harmony.one](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#39cb9481a69a4b8591b25373b827cef0) community update. Syncing with Joskins team on pre-sale $JKS token launch + [tweeting pre and post launch](https://x.com/harmonyprotocol/status/1776311117612228924).
 
