@@ -6,44 +6,6 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 ---
 
-2024-05-05 Sun (x hours):
-
-2024-05-04 Sat (x hours):
-
-2024-05-03 Fri:
-
-2024-05-02 Thu:
-
-2024-05-01 Wed:
-
-2024-04-30 Tue:
-
-2024-04-29 Mon:
-
----
-
-2024-04-28 Sun (x hours):
-
-2024-04-27 Sat (x hours):
-
-2024-04-26 Fri:
-
-2024-04-25 Thu:
-
-2024-04-24 Wed:
-
-2024-04-23 Tue:
-
-2024-04-22 Mon:
-
----
-
-2024-04-21 Sun (x hours):
-
-2024-04-20 Sat (x hours):
-
-2024-04-19 Fri:
-
 2024-04-18 Thu: Calculated throughput for our chain. Cleaned and packed boxes at the office for move out day.
 
 2024-04-17 Wed: Started benchmarking process, more into how Near and Celestia calculated the costs. Will talk to Soph on how to calculate our costs.
