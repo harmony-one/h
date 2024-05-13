@@ -1,5 +1,5 @@
 **2-Week Deliverables by 2024-05-20:**
-2-Week Deliverables by 2024-05-20: Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
+Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
 2024-05-10 Fri: Created the first version of the [deploy script for Vertex contracts](https://github.com/fegloff/vertex-contracts/pull/1) to the Harmony Testnet network and added comments to some contracts. Also, deployed locally mono-repo-apps and started checking out trade app architecture.
 
