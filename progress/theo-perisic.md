@@ -10,9 +10,9 @@
 
 ---
 
-2024-05-05 Sun (1.0hr): Reached out to tenacious_defi for Harmony AI data docs.
+2024-05-05 Sun (1.0h): Reached out to tenacious_defi for Harmony AI data docs.
 
-2024-05-04 Sat (1.0hr): Review of Harmony x Swoop doc
+2024-05-04 Sat (1.0h): Review of Harmony x Swoop doc
 
 2024-05-03 Fri: Sync with Stephen, reassignment of remote engineers based on meeting.
 
@@ -26,9 +26,9 @@
 
 ---
 
-2024-04-28 Sun (1.0hr): Scheduling call during upcoming week with Amanda.
+2024-04-28 Sun (1.0h): Scheduling call during upcoming week with Amanda.
 
-2024-04-27 Sat (2.0hr): Research on intent based contract interactions, looking to bring this to 1bot, or Harmony Portfolio. Harmony users should have a seamless way of navigating DeFi across all chains in ONE location, this is the basis of something we can build based on the tools we have with 1bot on telegram and Harmony Portfolio web app, main worry is prioritization and product direction get in the way of either one reaching completion. 
+2024-04-27 Sat (2.0h): Research on intent based contract interactions, looking to bring this to 1bot, or Harmony Portfolio. Harmony users should have a seamless way of navigating DeFi across all chains in ONE location, this is the basis of something we can build based on the tools we have with 1bot on telegram and Harmony Portfolio web app, main worry is prioritization and product direction get in the way of either one reaching completion. 
 
 2024-04-26 Fri: Off boarding Theo with Amanda, finalizing resources for Zi’s layer 3, prepared for twitter space. 
 
@@ -42,9 +42,9 @@
 
 ---
 
-2024-04-21 Sun (1.0hr): Harmony AI docs.
+2024-04-21 Sun (1.0h): Harmony AI docs.
 
-2024-04-20 Sat (5.0hr): Spent time assigning and detailing Q2 deliverables. As we are now one month into Q2, it's crucial that we have a stable set of objectives to ensure we meet our goals. I suggest that ongoing tasks either be prioritized for completion or clearly identified as discontinued. This approach will help us avoid any ambiguity in our direction and ensure that all products are completed to a higher standard.
+2024-04-20 Sat (5.0h): Spent time assigning and detailing Q2 deliverables. As we are now one month into Q2, it's crucial that we have a stable set of objectives to ensure we meet our goals. I suggest that ongoing tasks either be prioritized for completion or clearly identified as discontinued. This approach will help us avoid any ambiguity in our direction and ensure that all products are completed to a higher standard.
 
 2024-04-19 Fri: Clearing offices.
 
@@ -58,9 +58,9 @@
 
 ---
 
-2024-04-14 Sun (3.0hr): Research for Bitcoin and Runes. Insights: programmability of bitcoin will continue to increase, chasing bitcoin would not lead to ideal results, better path is building infrastructure that allows people to easily navigate bitcoin as their fees become far too high and the network gets congested.
+2024-04-14 Sun (3.0h): Research for Bitcoin and Runes. Insights: programmability of bitcoin will continue to increase, chasing bitcoin would not lead to ideal results, better path is building infrastructure that allows people to easily navigate bitcoin as their fees become far too high and the network gets congested.
 
-2024-04-13 Sat (1.0hr): Community outreach.
+2024-04-13 Sat (1.0h): Community outreach.
 
 2024-04-12 Fri: Meeting with Encode for developer relations. Insights: Potential inclusion of Harmony in AI and crypto hackathons. PRD for ONE Resume.
 
@@ -74,9 +74,9 @@
 
 ---
 
-2024-04-07 Sun (2.0hr): Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
+2024-04-07 Sun (2.0h): Looked into [open source local](https://clusteredbytes.pages.dev/posts/2024/fully-local-chat-with-pdf-app-using-llamaindex-ollama-nextjs/) frameworks to test for an open source version of ONE Resume without the need of Claude. Insight: not as consistent but with sufficient training this can be solved, cost would be removed.
 
-2024-04-06 Sat (3.0hr): Continued testing of Jobscan AI tooling. Insight: not very accurate scoring or ability to reach higher scoring using their suggestions, feels like a worse grammarly but for resumes, focused on keyword additions rather than honest review. 
+2024-04-06 Sat (3.0h): Continued testing of Jobscan AI tooling. Insight: not very accurate scoring or ability to reach higher scoring using their suggestions, feels like a worse grammarly but for resumes, focused on keyword additions rather than honest review. 
 
 2024-04-05 Fri: Opened communications with [Ta Da](https://ta-da.io/) to verify “Decentralized workforce enables high-volume, cost-effective, and region-specific data collection”.
 
