@@ -1,6 +1,6 @@
-2024-05-12 Sun: [1 hour] Reviewed integration with OpenOcean. 
+2024-05-12 Sun (1.0h): Reviewed integration with OpenOcean. 
 
-2024-05-11 Sat: [3 hours] Coallated dune queries into [dashboard](https://dune.com/aishlia/arbitrum-uniswap). Attempted 100 result pagination from subgraph queries. 
+2024-05-11 Sat (3.0h): Coallated dune queries into [dashboard](https://dune.com/aishlia/arbitrum-uniswap). Attempted 100 result pagination from subgraph queries. 
 
 2024-05-10 Fri: Synced with Theo regarding li.fi and swoop integrations. Compiled results from dune queries regarding top movers on Arbitrum Uniswap. 
 
@@ -14,9 +14,9 @@
 
 ---
 
-2024-05-05 Sun: [3 hours] Engaged in health and wellness team building activities.
+2024-05-05 Sun (3.0h): Engaged in health and wellness team building activities.
 
-2024-05-04 Sat: [2 hour] Looked into Dune analytics latencies and capabilities.
+2024-05-04 Sat (2.0h): Looked into Dune analytics latencies and capabilities.
 
 2024-05-03 Fri: Some transactions (example below) report amountInUSD as 0 even though it should be 1040225855882354 unshETH. Removing dependancy on subgraph's USD values. 
 
@@ -30,9 +30,9 @@
 
 ---
 
-2024-04-28 Sun: [1 hour] Looked into new Video AI generation.
+2024-04-28 Sun (1.0h): Looked into new Video AI generation.
 
-2024-04-27 Sat: [2 hours] Spoke with a potential System Engineer candidate. 
+2024-04-27 Sat (2.0h): Spoke with a potential System Engineer candidate. 
 
 2024-04-26 Fri: Worked on identifying top 10 arb wallets with highest profits tading the 100 most-liquid assets in the last 100 days.
 
@@ -46,9 +46,9 @@
 
 ---
 
-2024-04-21 Sun: [1 hour] Reached out to a potential system engineer candidate (did not hear back). 
+2024-04-21 Sun (1.0h): Reached out to a potential system engineer candidate (did not hear back). 
 
-2024-04-20 Sat: [2 hours] Moved a desk out of the office. 
+2024-04-20 Sat (2.0h): Moved a desk out of the office. 
 
 2024-04-19 Fri: Moved everything out of office. Helped with storage unit moving.
 
@@ -62,9 +62,9 @@
 
 ---
 
-2024-04-14 Sun: [1 hour] Moved some boxes out of the office.
+2024-04-14 Sun (1.0h): Moved some boxes out of the office.
 
-2024-04-13 Sat: [1 hour] Reviewed progress and code for performance reviews. 
+2024-04-13 Sat (1.0h): Reviewed progress and code for performance reviews. 
 
 2024-04-12 Fri: Frameworked a extension system for automatic job application.
 
@@ -78,9 +78,9 @@
 
 ---
 
-2023-04-07 Sun: [4 hours] Moved some big items out of the office.
+2023-04-07 Sun (4.0h): Moved some big items out of the office.
 
-2023-04-06 Sat: [1 hour] Reviewed more system engineer resumes.
+2023-04-06 Sat (1.0h): Reviewed more system engineer resumes.
 
 2023-04-05 Fri: Wrote and revised employee reviews.
 
