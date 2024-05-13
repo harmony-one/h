@@ -1,5 +1,5 @@
 
-**2024-5-10: Weekly update**
+**2024-05-10: Weekly update**
 
 This week, I've been actively involved in a new explorer project that resembles etherscan. We've developed a demo for mainnet shard 0, focusing solely on EVM indexing, which is currently undergoing indexing. Additionally, discussions are underway to obtain a quote that encompasses Harmony-specific features such as support for two shards, cross-shard transactions, and staking transactions. With the mainnet infrastructure cost approval, progress continues on the Blockscout explorer with plans to launch testnet launch in the coming days and mainnet next.
 
@@ -7,7 +7,7 @@ Despite our efforts, several ongoing issues across our network are hindering our
 
 ---
 
-**2024-5-3: Weekly update**
+**2024-05-03: Weekly update**
 
 1. The mainnet bootnode experienced higher-than-usual traffic this week, leading to elevated CPU and memory usage. Consequently, we upgraded all four instances to accommodate the increased load efficiently.
 
@@ -18,7 +18,7 @@ Despite our efforts, several ongoing issues across our network are hindering our
 4. I conducted a cost analysis comparing our current explorer expenses with Protofire's estimation for the upcoming Blockscout deployment focusing on the infrastructure cost. While Protofire's estimate appeared cheaper in April, my earlier projections suggested our costs were lower earlier this year. It's essential to note that our expenses are subject to fluctuations based on traffic and resource utilization, while Protofire cost should not while ensuring the retention of the entire transaction history.
 
 ---
-**2024-4-26: Weekly update**
+**2024-04-26: Weekly update**
 
 This week, I've been diving deep into some critical tasks. First off, I've been helping test and review the latest feature addition to the Blockscout explorer currently being deeloped by Protofire, focusing on cross-shard and shard 1 support.
 
@@ -27,17 +27,17 @@ Additionally, I've been heavily involved in resolving the shard 1 consensus loss
 In addition to these tasks, I've also been assisting Gheis with testing PR 4660 for a Travis CI bug. We identified that the issue stems from the latest commit using short-range sync instead of long-range sync, causing localnet to stop producing block. We're currently investigating why the consensus mode switches to sync when short-range sync is used in a new network.
 
 ---
-**2024-4-19: Weekly update**
+**2024-04-19: Weekly update**
 
 AWay 3 days from Mon to Wed. In the last two days, I continued the investigation into the Harmony code base in order to address the consensus issue affecting shard 1 on the testnet and devnet.
 
 ---
-**2024-4-12: Weekly update**
+**2024-04-12: Weekly update**
 
 Throughout the week, my focus has been on addressing the critical issue of the shard 1 testnet/devnet no committee problem, which resulted in a network without consensus. My goal has been to identify a solution to prevent this issue from recurring and to mitigate potential risks on the mainnet. While I was able to replicate the issue in localnet by Friday, finding a definitive fix remains uncertain. The challenge lies in shard 1 using the last epoch committee when it becomes stuck, rather than the latest committee. I've identified the root cause as the shard 1 crosslink not being sent or processed by shard 0. As a long-term solution applicable to the mainnet, we're exploring options to ensure that validators are not excluded from the new committee when their signature performance metrics are not being updated, resulting in having 0 "signed" out of 0 "to sign".
 
 ---
-**2024-4-5 Fri: Weekly update**
+**2024-04-05 Fri: Weekly update**
 
 During the week, we encountered issues with Shard 0 devnet, where the consensus went down twice. However, a simple restart of the cluster effectively resolved the problem on both occasions. Upon conducting a root cause analysis, I identified that a validator had mistakenly switched its consensus mode to "syncing" preventing its participation in the consensus process. Further analysis is still pending.
 
@@ -68,7 +68,7 @@ Detailing more the DevOps area, in the first quarter, I spearheaded several init
 Additionnaly, the devops team has made significant strides in advancing our technical capabilities and improving operational efficiency. Under my guidance and supervision, Ulad executed several key initiatives, including the establishment of two snapshot nodes for shard 0 and shard 1 in the testnet, which have already been embraced by users. We also focused on optimizing system performance by updating the Push-gateway runbook and creating RPC/nginx runbooks to streamline the process of updating our RPC. Additionally, we developed scripts to detect backup nodes in preparation for HIP32. These efforts align with our overarching objective of maintaining a secure, efficient, and resilient technical infrastructure.
 
 ---
-**2024-3-29 Fri**:
+**2024-03-29 Fri**:
 
 This week kicked off with Amanda and me diving into the intricacies of updating billing information on mission control. In addition to that, I lent a hand to community users grappling with blacklist address and wallet issues.
 
@@ -77,12 +77,12 @@ Unfortunately, our testnet leader rotation activation hit a snag. While Shard 0 
 On a brighter note, Band's recent update to their [network blockchain page](https://docs.bandchain.org/develop/supported-blockchains/) now includes our mainnet standard reference price address, enhancing the legitimacy of our mainnet oracle integration with Band.
 
 ---
-**2024-3-22 Fri**:
+**2024-03-22 Fri**:
 
 Throughout the week, I provided support for band/QiDAO and conducted checks for stuck blocks in devnet s1, while also assisting with investigations into validator s1 signature loss. Additionally, I troubleshooted issues related to Buggy validator state #4605 and pending undelegation not released with inactive validator #4632, uncovering corner cases with HIP30 that caused state verification failures. Towards the end of the week, I investigated shard 1 devnet consensus loss and identified a block verification failure at the prepare phase of block 1140307. 
 
 ---
-**2024-3-15 Fri**:
+**2024-03-15 Fri**:
 
 I've been quite busy this week! First off, I've kept in touch with validators to ensure the progress of HIP32, which is currently approved and awaiting the final decision on March 19th, check out the latest update the [HIP32 Vote dashboard] (https://vstats.fortune-validator.pro/proposals/0x2c862da1cc9036a13d0505cba3aeb44f99ae5b7b7c1ef011aa147f73be9022f0) thanks to David Fortune
 
@@ -93,7 +93,7 @@ On another front, I worked with Artem on testing a new endpoint that enables us 
 Lastly, I've been enhancing our internal operations and security by writing and updating multiple playbooks. You can find the latest changes and improvements in the following pull requests: [#139](https://github.com/harmony-one/ansible/pull/139), [#138](https://github.com/harmony-one/ansible/pull/138), [#137](https://github.com/harmony-one/ansible/pull/137), [#136](https://github.com/harmony-one/ansible/pull/136)
 
 ---
-**2024-3-8 Fri**:
+**2024-03-08 Fri**:
 
 This week, we released v2024.4.0 to facilitate testing without activating the HIP32 leader rotation. This decision aims to reduce potential errors and streamline troubleshooting processes if any issues arise.
 
@@ -102,7 +102,7 @@ Snapshot voting for HIP32 is underway, with unanimous support thus far. However,
 Addressing the need for incident response guidance within the validator community, I've drafted a [General instruction doc](https://docs.google.com/document/d/12n0-z7WRtJXBBJcphdl7-pGONGW7gRqCDurMsI_x5_8/edit) outlining procedures during such events. This document is currently under review and includes tooling suggestions for future development.
 
 ---
-**2024-3-1 Fri**:
+**2024-03-01 Fri**:
 
 I've assisted Protofire with the migration of Blockscout contracts and created the infra required for docs.lend.harmony.one.
 I then contributed to our playbook by adding gcloud cert map creation to help future subdomain ssl linked to dot country.
@@ -112,11 +112,11 @@ For the leader rotation, the isbackup feature was tested with the validator comm
 On the commnunity side, I helped with bridge users issue, including one user losing 2000 BSC-USDT during the bridge transfer. Yuriy is investigating, and I'm awaiting feedback. And I assisted two other blacklisted users with their inquiries for burning and unblacklisting their ONE account.
 
 ---
-**2024-2-23 Fri**:
+**2024-02-23 Fri**:
 I focused on analyzing content hosted on dot country domains using harmony.one SSL. To streamline the process, I developed automation for certificate creation, which you can find here: https://github.com/harmony-one/ansible/pull/126. Additionally, we provided support to several users encountering stuck transactions, particularly those using ledger and exchange platforms. Some of these issues are still tied to the blacklist implemented on the network.
 
 ---
-**2024-2-16 Fri**:
+**2024-02-16 Fri**:
 The focal point of this week was the unexpected Mainnet Shard 0 Outage and Crosslink stuck. Through collaborative efforts and rigorous code review, we successfully resolved the issue. For those interested, a detailed post-mortem report has been published here : https://talk.harmony.one/t/harmony-mainnet-stuck-incident-report-feb-10-2024/24087
 
 I dedicated time to enhancing our developer documentation by reorganizing and restructuring it for improved accessibility and usability. You can explore the latest updates at https://docs.harmony.one/home/developers.
@@ -126,14 +126,14 @@ In regards of the Harmony Cloud Accounting, I compiled and analyzed the costs in
 Lastly, I reviewed, researched, and tested automation processes for SSL certificate issuance. This initiative aimed to streamline security measures, particularly for non .country domains hosted on our .country infrastructure.
 
 ---
-**2024-2-9 Fri**:
+**2024-02-09 Fri**:
 
 The long release for v2024.0.0, detailed in [PR 4546](https://github.com/harmony-one/harmony/pull/4546), has undergone review. Testing will commence next week, with an anticipated release by the end of the following week, barring any unforeseen issues. This release will be non-mandatory.
 
 Regarding the upcoming [HIP32 hardfork](https://talk.harmony.one/t/hip32-complete-decentralization-of-validator-network), the initial estimate of March 13th may be postponed to the end of March. This adjustment is due to underestimating the time required for coordination with our validator community. Discussion are still ongoing.
 
 ---
-**2024-2-2 Fri**:
+**2024-02-02 Fri**:
 
 This week, progress was made in unblocking the leader rotation testing by addressing a corner case related to fast signature collection and achieving 100% vote before meeting the 67% quorum. The corresponding  [PR4626](https://github.com/harmony-one/harmony/pull/4625) has been created and confirmed working by Diego.
 
@@ -144,7 +144,7 @@ In addition, support was provided to two exchange partners facing challenges wit
 More details on my github profile https://github.com/sophoah
 
 ---
-**2024-1-26 Fri**:
+**2024-01-26 Fri**:
 
 Devnet leader rotation testing is underway, and we've identified issues that are currently under investigation (refer to Diego's update for details). Two migration tests are planned: 1) a temporary transition involving rotation with internal nodes, followed by rotation with no internal nodes (currently at this stage), and 2) a direct transaction to external leader rotation only (no internal). 
 
@@ -153,7 +153,7 @@ Additionally, I've reviewed, commented on, and approved 9 PRs across 2 GitHub re
 Lastly, the ongoing work on the harmony revert function, which introduced the 'block already exists' issue, is progressin. First [PR](https://github.com/harmony-one/harmony/pull/4608) test triggered [a panic error](https://github.com/harmony-one/harmony/issues/4616) and the [latest PR](https://github.com/harmony-one/harmony/pull/4617) is currently being tested.
 
 ---
-**2024-1-21 Sun**:
+**2024-01-21 Sun**:
 
 Our oneinscription partner sought our support for a successful launch on Friday at 13 UTC, and it was indeed a success. 1919 wallet addresses were sold out within a remarkable 13 minutes of the public release, generating 2817 transactions. 
 
@@ -164,7 +164,7 @@ The root cause of the pending transaction stuck issues reported by two major exc
 Regarding the pending delegation bug, after two updates to the allowed transactions list, blacklisted addresses can now 1) burn excess ONE and 2) send a transaction to themselves to cancel pending transactions. A [post on the forum](https://talk.harmony.one/t/technical-incident-report-staking-logic-vulnerability-and-exploitation/23660/15?u=sophoah) informed users of the need to burn, and a [script](https://github.com/harmony-one/ansible/pull/102) to identify cleaned accounts has been developed. Blacklisted addresses will be updated weekly to minimize leader restarts.
 
 ---
-**2024-1-15 Mon**:
+**2024-01-15 Mon**:
 
 Last week, Binance's transaction queue experienced three instances of getting stuck due to a missing transaction. Extensive troubleshooting was conducted, but there was no apparent reason for the transaction not being added to the chain. We suspect either the transaction was never added to a block and silently discarded or it never reached the leader node. To enhance visibility, we are incorporating additional logs and troubleshooting is continuing this week.
 
@@ -195,7 +195,7 @@ Additionally, I've reviewed and commented on multiple PRs, including [the automa
 Finally, I investigated the shard 1 signature loss reported by the validator community, tracing it back to the migration of our s1 leader node from Latitude. A workaround to swap the bls keys was suggested and doing further test with VPS could be beneficial as we move towards leader rotation to identify the correct VPS specs
 
 ---
-**2023-12-4 Mon**:
+**2023-12-04 Mon**:
 Management has approved a 1-year long-term contract for essential Harmony Base services, such as the archival node, aimed at cost savings. The November cloud cost report is pending finalization, awaiting GCP invoices.
 
 0% internal voting power discussions started on our social and internally, Validators are showing enthusiasm to embrace this challenge. Validator community will be engaged for testing in testnet. The hardfork is targeted for 1Q, and two technical challenges are in focus: 1) leader rotation with external validators and 2) leader consensus metrics (the proposed solution involves sending metrics to our Prometheus push gateway)
