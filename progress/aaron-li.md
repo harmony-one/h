@@ -1,210 +1,210 @@
-2024-5-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options
+2024-05-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options
 
-2024-5-9 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design
+2024-05-09 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design
 
-2024-5-8 Wed (4.5h): Review on Harmony portofolio implementation, security, architecture. Quick review on Blockscout staking implementation in Elixir language. Research and review on perpetual DEX token design, mechanisms, usage and distribution
+2024-05-08 Wed (4.5h): Review on Harmony portofolio implementation, security, architecture. Quick review on Blockscout staking implementation in Elixir language. Research and review on perpetual DEX token design, mechanisms, usage and distribution
 
-2024-5-7 Tue (1.5h): Review and discuss Q2 Defi plans, compliant issues on token launch and decentralization, geofencing and potential legal issues, layer 2 usage and analytics. Discuss registration and renewal procedure for reserved domains
+2024-05-07 Tue (1.5h): Review and discuss Q2 Defi plans, compliant issues on token launch and decentralization, geofencing and potential legal issues, layer 2 usage and analytics. Discuss registration and renewal procedure for reserved domains
 
-2024-5-6 Mon (1h): Review and discuss data API access and latency between Dune, Nansen, dAppRadar, and alternatives. Debug and fix certificate issues for reewnable domains. 
+2024-05-06 Mon (1h): Review and discuss data API access and latency between Dune, Nansen, dAppRadar, and alternatives. Debug and fix certificate issues for reewnable domains. 
 
-2024-5-4 Thu (3h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
+2024-05-04 Thu (3h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
 
-2024-5-3 Fri (3h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays
+2024-05-03 Fri (3h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays
 
-2024-5-2 Thu (1h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects 
+2024-05-02 Thu (1h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects 
 
-2024-5-1 Wed (1h): (Continued) and discuss practical limitations, implementation steps, tasks
+2024-05-01 Wed (1h): (Continued) and discuss practical limitations, implementation steps, tasks
 
-2024-4-30 Tue (2h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot
-
----
-
-2024-4-25 Thu (1h): Discuss and review DeFi plans and Telegram bot products.
-
-2024-4-23 Tue (1h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure 
-
-2024-4-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples
+2024-04-30 Tue (2h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot
 
 ---
 
-2024-4-21 Sun (7h): Research on using ElasticSearch for word-vector indexing and retrieval-augmented-generation, and related production-ready plugins (LangChain, LlamaIndex). Candidate recommendation system production server deployment, SSL setup, and debuggin issues with static files and separation of Python gunicorn worker and front-facing services (nginx). Research on Django database setup, credentials, synchronization. Constructing and deploying databases; Dependency simplification, ensuring server can replicate virtual environment, and bug-free execution under Python 3.11. Production service deployment. Debugging issues with SSL server in production. Research alternatives to gunicorn and performance. Evaluate, configure, deploy gunicorn for SSL in production. Make dependencies consistent
+2024-04-25 Thu (1h): Discuss and review DeFi plans and Telegram bot products.
 
-2024-4-20 Sat (0.5h): Candidate recommendation system frontend barebone construction
+2024-04-23 Tue (1h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure 
 
-2024-4-19 Fri (2h): Review and document areas of improvements. Python and Django production environment setup at Debian server
-
-2024-4-16 Tue (5.5h): Burner statistics cross-contract aggregation, automatic inference of block range, chart update. Bug fixes and statistics, end-to-end verification of data integrity, deploy new statistics, charts, and data. Implement built-in semi-automatic oracle for market price update, and corresponding client-side live statistics calculation. Further discussions and planning on Shard1 retrieval-augmented generation architecture, candidate recommendation frontend and follow-up implementations, recovery devops
-
-2024-4-15 Mon (0.5h): Evaluation and feedback on comparisons of progress in specific aspects. Discussion on next.js and related framework. Review and experiment Gemini 1.5 API in context of job and candidate recommendation. Review, code evaluation, and feedback on progress of second group
+2024-04-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples
 
 ---
 
-2024-4-14 Sun (0.5h): Renew key domains and setup automations. Quick documentation on steps to fix in case of incidents
+2024-04-21 Sun (7h): Research on using ElasticSearch for word-vector indexing and retrieval-augmented-generation, and related production-ready plugins (LangChain, LlamaIndex). Candidate recommendation system production server deployment, SSL setup, and debuggin issues with static files and separation of Python gunicorn worker and front-facing services (nginx). Research on Django database setup, credentials, synchronization. Constructing and deploying databases; Dependency simplification, ensuring server can replicate virtual environment, and bug-free execution under Python 3.11. Production service deployment. Debugging issues with SSL server in production. Research alternatives to gunicorn and performance. Evaluate, configure, deploy gunicorn for SSL in production. Make dependencies consistent
 
-2024-4-12 Fri (4.5h): (Continued) and basic discussion on retrieval-augmented generation. Recovery discussions on sustainability and proposed solutions. Feedback and detailed evaluation of code and progress of first group
+2024-04-20 Sat (0.5h): Candidate recommendation system frontend barebone construction
 
-2024-4-10 Wed (1.5h): Review and feedback on progress of first group. Recovery progress and statistics review. Discussion on plans, rate, sustainability, solutions
+2024-04-19 Fri (2h): Review and document areas of improvements. Python and Django production environment setup at Debian server
 
-2024-4-8 Mon (1.5h): Experiments and end-to-end testing of REST API on candidate recommendation server. Bug fixes. Remove Django sensitive information from repo
+2024-04-16 Tue (5.5h): Burner statistics cross-contract aggregation, automatic inference of block range, chart update. Bug fixes and statistics, end-to-end verification of data integrity, deploy new statistics, charts, and data. Implement built-in semi-automatic oracle for market price update, and corresponding client-side live statistics calculation. Further discussions and planning on Shard1 retrieval-augmented generation architecture, candidate recommendation frontend and follow-up implementations, recovery devops
 
----
-
-2024-4-7 Sun (0.5h): (Continued)
-
-2024-4-6 Sat (1h): Candidate recommendation: bug fixes on server configuration, environment variable setting, and package and dependency management for deployment and remote development
-
-2024-4-4 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment 
-
-2024-4-3 Wed (0.5h): (Continued) and deploying REST server for job recommendation
-
-2024-4-2 Tue (3h): Refactoring candidate matching implementation for more flexible model and data selection. Research on GPU VM instance pricing and options to run self-hosted large models. REST API for job candidate matching with flexible candidate number, model, and data source
-
-2024-4-1 Mon (2h): Backend and module implementation for candidate matching system based on job description
+2024-04-15 Mon (0.5h): Evaluation and feedback on comparisons of progress in specific aspects. Discussion on next.js and related framework. Review and experiment Gemini 1.5 API in context of job and candidate recommendation. Review, code evaluation, and feedback on progress of second group
 
 ---
 
-2024-3-30 Sat (4h): Prompt design for job matching from a pool of candidates. Review Claude SDK, documentations, unique designs. Claude and Gemini implementation and initial experiments for response performance. Cost analysis
+2024-04-14 Sun (0.5h): Renew key domains and setup automations. Quick documentation on steps to fix in case of incidents
 
-2024-3-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend 
+2024-04-12 Fri (4.5h): (Continued) and basic discussion on retrieval-augmented generation. Recovery discussions on sustainability and proposed solutions. Feedback and detailed evaluation of code and progress of first group
 
-2024-3-28 Thu (3.5h): Python server scaffolding and debugging on SSL settings. Setup data analysis environment. Review OpenAI fine-tuning documentations and practical options. Review Huggingface dataset SDK and designs. In-depth review of hackernews resume and job post dataset, and alternatives. Review Gemini models, environment settings, API usage and API key scopes.. 
+2024-04-10 Wed (1.5h): Review and feedback on progress of first group. Recovery progress and statistics review. Discussion on plans, rate, sustainability, solutions
 
-2024-3-27 Wed (4.5h): Review models and existing work using hackernews job data. Detailed examination of hackernews data and its patterns. Review existing implementation of GLRec and latest language models that support Chinese. Review feasibility of building AI systems in Rust. Review options for Python production server, type safety, performance, and API framework. Python data-analysis server security settings, production settings, debugging, and testing
-
-2024-3-26 Tue (9.5h): Systematic review of existing language-model based recommendation systems using survey paper. In-depth review of GLRect paper, methods, data, and cited work. Review and analysis of JobRecoGPT and compare against GLRec. Review and analysis of JobRecoGPT and compare against GLRec
-
-2024-3-25 Mon (6h): Review development trends of language-model based recommendation systems, classification, methods that stand test-of-time, and study effectiveness of methods under the context of long context-window. Briefly review cited work and related papers
+2024-04-08 Mon (1.5h): Experiments and end-to-end testing of REST API on candidate recommendation server. Bug fixes. Remove Django sensitive information from repo
 
 ---
 
-2024-3-24 Sun (4h): Review survey on integration of language models in existing recommendation systems, and roles that language models played when different techniques are employed
+2024-04-07 Sun (0.5h): (Continued)
 
-2024-3-20 Wed (0.5h): Debugging and resolving domain registration and certificate issue
+2024-04-06 Sat (1h): Candidate recommendation: bug fixes on server configuration, environment variable setting, and package and dependency management for deployment and remote development
 
-2024-3-18 Mon (1h): Review, comment, and discuss Bitcoin Swap Farcaster frame implementation. Review Celestia data availability modules
+2024-04-04 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment 
 
----
+2024-04-03 Wed (0.5h): (Continued) and deploying REST server for job recommendation
 
-2024-3-17 Sun (4h): In-depth review on models and state-of-the-art research most relevant to conversation AI focusing on voice with limited, unlabelled new training data. Review on V-JEPA, quick review on self-supervised learning with contextual target representation, VATT, PromptTTS 2, NaturalSpeech 2, T5. Discussion and analysis on NaturalSpeech3, Mega-TTS 2, voice conversion models such as SEF-VC, and others. Discuss, review, and experiment with VALL-E-X for cross-language audio generation. Experiment with Grok-1
+2024-04-02 Tue (3h): Refactoring candidate matching implementation for more flexible model and data selection. Research on GPU VM instance pricing and options to run self-hosted large models. REST API for job candidate matching with flexible candidate number, model, and data source
 
-2024-3-16 Sat (7.5h): Detailed review of analysis of data collection apps and platforms. Review Claude Opus and exceptional results on low resource language. Review data iimpact research, job and dating matching system outlines. Review speech models (Deep Speech, Google USM, Chirp, and others). Review analysis and unsolved problems on recruiting, job searching, job matching. Review relevant products, platforms, new language models for jobs and matching, adoption of AI in existing products. Review wallet infrastructure analysis, existing solutions. Review hackernews dataset and LinkedIn skill recognition model
-
-2024-3-15 Fri (5h): Review techniques and results of training and fine-tuning Whisper. Review zkBridge, product details, integration requirements. Review Inference Labs litepaper and documentation. Review Zero1 Labs and Axiom. Review local inference tools and machines. Detailed review of mytiki datasets, integrations, team, documentation, architecutre, SDK, and mechanisms. Review Caden datasets, background, B2B products and solutions
-
-2024-3-14 Thu (1.5h): Discussion on AI data intelligence demo proposals, and specific possibilities and plans. Review speech and lanauge model benchmarks, and adversarial approaches (SuperGLUE, HellaSwag, TruthfulQA)
-
-2024-3-13 Wed (2h): Review phishing email and potential malicious domain traces. Review Story Protocol and IP discussions. Review and discuss BTC swap Farcaster frame demo and its implementation.
-
-2024-3-11 Mon (0.5h): Batch legacy domain renewal and checkup operations. Certificate maintenance and automation
+2024-04-01 Mon (2h): Backend and module implementation for candidate matching system based on job description
 
 ---
 
-2024-3-10 Sun (2.5h): Discuss and help debug BTC swap Farcaster frame implementation and use of ngrok tunnel, debugging and validation methods. Configure development website (hiddenstate-0306). In-depth review and discuss B-squared protocol. Burner rate issue investigation. Research on voice models and benchmark. Quick review of VideoPoet
+2024-03-30 Sat (4h): Prompt design for job matching from a pool of candidates. Review Claude SDK, documentations, unique designs. Claude and Gemini implementation and initial experiments for response performance. Cost analysis
 
-2024-3-9 Sat (7h): Research on BitTensor incentive mechanisms and technical components. Research and discussion on BitTensor data universe code and data sources. Conceptualizing voice and map data products. In-depth review of BitTensor consensus protocol, staking, delegation, mining, validation, CLI and SDKs. (Continued) in-depth review of BitTensor subnets, design details, and OCR subnet example. Discussion on flaws, feasibility, and common issues of existing AI / data blockchain projects
+2024-03-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend 
 
-2024-3-8 Fri (3h): Review on car voice data collection and related technical work on language models. Research on BitTensor initial whitepaper, data gathering mechanisms, and underlying protocol, and relation to Polkadot parachain . Research on voice data gathering sources, analogue-VoIP devices, potential hardware on the market and plugins
+2024-03-28 Thu (3.5h): Python server scaffolding and debugging on SSL settings. Setup data analysis environment. Review OpenAI fine-tuning documentations and practical options. Review Huggingface dataset SDK and designs. In-depth review of hackernews resume and job post dataset, and alternatives. Review Gemini models, environment settings, API usage and API key scopes.. 
 
-2024-3-7 Thu (3.5h): Discussion and analysis on data categories, gathering methods, use cases and future potential
+2024-03-27 Wed (4.5h): Review models and existing work using hackernews job data. Detailed examination of hackernews data and its patterns. Review existing implementation of GLRec and latest language models that support Chinese. Review feasibility of building AI systems in Rust. Review options for Python production server, type safety, performance, and API framework. Python data-analysis server security settings, production settings, debugging, and testing
 
-2024-3-6 Wed (6h): Research and overview on 0G protocol design, use cases, code, contributors. Review Grass, its Chrome extension, and its growth metrics. Review 0G architecture, documentation, incentive and transaction mechanisms, API design, data aggregation, security models, and proof techniques. Review Farcaster account sharing methods and potential security issues. Review Farcaster account and security models. Setup and management of sharable Farcaster accounts (hiddenstate-0306)
+2024-03-26 Tue (9.5h): Systematic review of existing language-model based recommendation systems using survey paper. In-depth review of GLRect paper, methods, data, and cited work. Review and analysis of JobRecoGPT and compare against GLRec. Review and analysis of JobRecoGPT and compare against GLRec
 
-2024-3-5 Tue (1.5h): Review Sentry reported errors for Voice AI app, help debug and discuss solutions (local attestion timeout / rate limited, missing HTTP error message, fallbacks, persistency of error)
-
-2024-3-4 Mon (3.5h): (Continued) In-depth review on Lorenzo, Babylon, BOB, Celestia components 
+2024-03-25 Mon (6h): Review development trends of language-model based recommendation systems, classification, methods that stand test-of-time, and study effectiveness of methods under the context of long context-window. Briefly review cited work and related papers
 
 ---
 
-2024-3-3 Sun (4.5h): Review and research on AI Data tokens, Bitcoin interoperability SDK, Bitcoin Layer 2 systems, and Bitcoin inscription frameworks and projects
+2024-03-24 Sun (4h): Review survey on integration of language models in existing recommendation systems, and roles that language models played when different techniques are employed
 
-2024-3-2 Sat (1h): Add option to render SVG to PNG for iOS Warpcast compatibility. Debug sharp compatibility issues with cloud Debian and arm64 architecture. Deploy and test in production. Burner rate update
+2024-03-20 Wed (0.5h): Debugging and resolving domain registration and certificate issue
 
-2024-3-1 Fri (10h): Implement new map based frames with review and check-in. Implement counters for mint and 24-hour mint. Add mock-mint mode. Deploy and demo in production. Implement styled dynamic text at line-level for SVG. Improve location parsing and display. Allow optional location suffix, and natural syntax for users to override on location suffix. Debug and submit single-letter domain issues on Warpcast. Test redirect, proxy, CNAME, URL transform and various ways to circumvent the single-letter naked domain bug. Improve text and button display for map extension. Separate basic-map and map extensions. Implement permanent key-value storage for review and check-in. Deploy, configure and test redis for embedded web service. Implement safe mint, count, and balance query, and dynamic image for with cache control. Implement static statistical image API. Inscribe review and check-in location on-chain during mint. Deploy to production and test end-to-end
-
-2024-2-29 Thu (8h): (Continued) Breakdown and refactor Farcast implementations by extensions. Fix multiple implementations bugs and structural issues. Discussions, technical Q&A, and task planning on Farcaster frame implementations. Research on WARP tokens. Cloud configuration and deployment. Implement Redis client. Research on Redis data structures to use for temporal count and aggregation. Deploy, configure and test redis for embedded web service.  Debug dot-country purchase issues. Reconfiguration of lend.country documentation sites and discussion on SSL wildcard certificate renewal and auto-deployment issues
-
-2024-2-28 Wed (3.5h): Review and test fixes for Substack error message. Burner rate and mechanisms update, redeployment. Review and comment on DCReward on-chain minting implementation. Research on Promise pool, implement queued asynchronous minting with fast frame resposne. Review and finalize fixes for Substack error message issues. Review and revise on-chain minting code, metadata, and configurations based on DCReward.
-
-2024-2-26 Mon (0.5h): Analysis and debug of AWS to embedded web service redirect issues and unicode / ASCII encoding issues. Review embedded web service preview generation and special routes 
+2024-03-18 Mon (1h): Review, comment, and discuss Bitcoin Swap Farcaster frame implementation. Review Celestia data availability modules
 
 ---
 
-2024-2-24 Sat (2.5h): Farcaster integration debugging and discussions. Warpcast client - frame server interaction flow analysis. Access-controlled dot-country reward minting contract with metadata URI management. Dependencies and compiler upgrades. Bug fixes of Farcaster frame preview
+2024-03-17 Sun (4h): In-depth review on models and state-of-the-art research most relevant to conversation AI focusing on voice with limited, unlabelled new training data. Review on V-JEPA, quick review on self-supervised learning with contextual target representation, VATT, PromptTTS 2, NaturalSpeech 2, T5. Discussion and analysis on NaturalSpeech3, Mega-TTS 2, voice conversion models such as SEF-VC, and others. Discuss, review, and experiment with VALL-E-X for cross-language audio generation. Experiment with Grok-1
 
-2024-2-23 Thu (11.5h): Implementation and testing of dynamic rendered text in SVG with styling options. Alternative Farcaster frame use case exploration. Research on Google mapping embedding and SVG-based solutions. Research, experiment, and integration of static Google map image and styling, and interactions with Farcaster frame and its requirement. Bug fixes and Farcaster POST message validation analysis. Dynamic static, styled map image for Farcaster frame, callback route and error handling, end-to-end debugging, testing, deployment, demo, and production trial. Dynamic-image generation for Farcaster text frame, Farcaster text inscription initial frame, POST callback route and error handling, with debugging, and testing. End-to-end deploy, debugging, demo, and production trial for text-inscription Farcaster frames. Discussion of TODO on token minting in production.
+2024-03-16 Sat (7.5h): Detailed review of analysis of data collection apps and platforms. Review Claude Opus and exceptional results on low resource language. Review data iimpact research, job and dating matching system outlines. Review speech models (Deep Speech, Google USM, Chirp, and others). Review analysis and unsolved problems on recruiting, job searching, job matching. Review relevant products, platforms, new language models for jobs and matching, adoption of AI in existing products. Review wallet infrastructure analysis, existing solutions. Review hackernews dataset and LinkedIn skill recognition model
 
-2024-2-22 Thu (10.5h): Evaluate Substack page DOM structures, various DOM parsers, and experiment on adding Farcaster frame data through DOM manipulation. Finalizing Notion embedded page and Farcaster frame integration. Add customizable token name, initial Substack support, and fix issues in configuration. Farcaster frame and Substack integration. Resolve compatibility issues, add configuration syntax . Test through management UI. Initial implementation of Farcaster callback route. Add and implement unified parse settings for Substack and Notion, add Farcaster flags and extension syntax. Resolve Farcaster certificate validation issues for tunneled development host. Add HTTP support, configurable protocol, host extraction, default image in absense of OpenGraph image from Substack or Notion page. Fix missing frame properties, bugs, add redirect routes. Fix Farcaster frame-mint failure cases, redirect handling. Fix Farcaster message validation, add id extraction, lookup and owner address mapping. Fix hub client integration. End-to-end deploy, debugging, demo, and production trial of Notion and Substack default Farcaster integration. Demo and experiments on error handling and text-input submission and validation. End-to-end deploy, debugging, demo, and production trial of Notion and Substack default Farcaster integration. Demo and experiments on error handling and text-input submission and validation
+2024-03-15 Fri (5h): Review techniques and results of training and fine-tuning Whisper. Review zkBridge, product details, integration requirements. Review Inference Labs litepaper and documentation. Review Zero1 Labs and Axiom. Review local inference tools and machines. Detailed review of mytiki datasets, integrations, team, documentation, architecutre, SDK, and mechanisms. Review Caden datasets, background, B2B products and solutions
 
-2024-2-21 Wed (5.5h): Farcaster specification review, API and hub experimentation. Review and evaluate sample frame implementations and production apps. Initial implementations in dot-country embedder for integration. Design and implement Farcaster partial template and configurations. Integrate with existing opengraph renderer server implementation, and settings from embedded-web-services contracts
+2024-03-14 Thu (1.5h): Discussion on AI data intelligence demo proposals, and specific possibilities and plans. Review speech and lanauge model benchmarks, and adversarial approaches (SuperGLUE, HellaSwag, TruthfulQA)
 
-2024-2-20 Tue (4h): Review Farcaster FIPs, documentation for client development, core concepts, account, messages, and names. Evaluate Farcaster developer toolkit, community-developed packages, and simple demo frames related to mint and polling. Evaluate compatibility issues of server-side rendering and use of next.js. Evaluate Farcaster APIs, frame specifications, data schemes
+2024-03-13 Wed (2h): Review phishing email and potential malicious domain traces. Review Story Protocol and IP discussions. Review and discuss BTC swap Farcaster frame demo and its implementation.
 
-2024-2-19 Mon (3.5h): Review Human Protocol new developments, plans, and issues. Review Farcaster design, architecture, developer documentations, APIs, and frame integrations. 
-
----
-
-2024-2-12 Mon (0.5h): Evaluate and discuss Human Protocol demo apps, suggest features and engineering improvements
+2024-03-11 Mon (0.5h): Batch legacy domain renewal and checkup operations. Certificate maintenance and automation
 
 ---
 
-2024-2-11 Sun (0.5h): Compute, review, and discuss recovery analytics and implications of increased market rate for depegged assets. Update and aggregate results from multiple contracts belonging to a large round.
+2024-03-10 Sun (2.5h): Discuss and help debug BTC swap Farcaster frame implementation and use of ngrok tunnel, debugging and validation methods. Configure development website (hiddenstate-0306). In-depth review and discuss B-squared protocol. Burner rate issue investigation. Research on voice models and benchmark. Quick review of VideoPoet
 
-2024-2-09 Fri (4.5h): Configure, deploy and end-to-end testing for VPN with network congestion simulation. Create one-click VPN installation profiles for macOS and iOS. Manual Cisco VPN setup instructions. Fix DNS, certificate, and subdomain embedding issues with lend.country and docs.lend.country (reassigning nameserver, re-generate certificates, fix infinite redirect loop by Cloudflare, fix missing ownership on blockchain by manual registrations, manual configuration of DNS and notion embeddings, bifurcate subdomains and reassign nameserver to Cloudflare). h.country DNS and nameserver migration. Documentation for VPN server with traffic control. 
+2024-03-09 Sat (7h): Research on BitTensor incentive mechanisms and technical components. Research and discussion on BitTensor data universe code and data sources. Conceptualizing voice and map data products. In-depth review of BitTensor consensus protocol, staking, delegation, mining, validation, CLI and SDKs. (Continued) in-depth review of BitTensor subnets, design details, and OCR subnet example. Discussion on flaws, feasibility, and common issues of existing AI / data blockchain projects
 
-2024-2-08 Thu (6h): Review progress and discussion on Lottery and Human Protocol implementation. Research on Telegram group-wallet design based on Human Protocol / Minimal Social Wallet. Debugging and fixing L2TP IPSec VPN server and ppp issues caused by non-standard GCP cloud linux kernels. Research and experiment on options and tools for network emulation in GCP (Cloud Armor), docker (pumba), and vanilla Linux tools (netem).
+2024-03-08 Fri (3h): Review on car voice data collection and related technical work on language models. Research on BitTensor initial whitepaper, data gathering mechanisms, and underlying protocol, and relation to Polkadot parachain . Research on voice data gathering sources, analogue-VoIP devices, potential hardware on the market and plugins
 
-2024-2-07 Wed (5h): Resaerch and discuss Godaddy and ENS integration and examples. Review ENS DNSSEC implementation and OffchainDNSResolver. Discuss general ways to support new preview crawler. Review Cloudflare Page hosting and discussions on DNS requirement and nameserver migration and limitation. Initial review of Cloudflare API. Review Cloudflare worker and KV store documentations. Discuss choice of key-value database for fastest response. Review Cloudflare API documentation on batch domain activation. Review Cloudflare token architecture and access control, and configure limited scope tokens accordingly. Review OffchainDNSResolver contract and ENS-GoDaddy gasless domain registration architecture. Discuss downsides anad flaws. Migration of special 2-letter domains to Cloudflare. Fix social preview issues of embedded web services for farcaster, analyzed and expanded user agent matching list. Initial IPSec / IKEv2 VPN deployment, Debian isntance setup, Docker configuration. Initial testing of VPN server via Debian host machine instead of container CoreOS.
+2024-03-07 Thu (3.5h): Discussion and analysis on data categories, gathering methods, use cases and future potential
 
----
+2024-03-06 Wed (6h): Research and overview on 0G protocol design, use cases, code, contributors. Review Grass, its Chrome extension, and its growth metrics. Review 0G architecture, documentation, incentive and transaction mechanisms, API design, data aggregation, security models, and proof techniques. Review Farcaster account sharing methods and potential security issues. Review Farcaster account and security models. Setup and management of sharable Farcaster accounts (hiddenstate-0306)
 
-2024-2-02 Fri (1h): Research on plans and features in human protocol
+2024-03-05 Tue (1.5h): Review Sentry reported errors for Voice AI app, help debug and discuss solutions (local attestion timeout / rate limited, missing HTTP error message, fallbacks, persistency of error)
 
-2024-2-01 Thu (2h): Domain renewal documentation and script usage. Refine domain renewal document. Review discussions and progress on new projects on lottery, Telegram bot, inscription, and dot-country changes
-
-2024-1-31 Wed (1h): Review inscription backend services and change requested for embedded web services in catering 2-letter domains. Discuss minimal implementation and fork. Quick review and discussion on client side changes of dot-country
-
-2024-1-29 Mon (5h): Domain web2 renewal API, registrar domain info and expiring domain list API integration. Script for batch domain renewal, review existing user and test domains, end-to-end debugging and testing. Discuss erroneous Namecheap renewal API response and incorrect account and pricing setup with registry. Implement lookup-only mode for renewal script. Manual domain renewals and management. Discussion on enable-subdomain errors and ens-registrar-relay routes, and existing main implementations (Notion, Substack) for embeeded web service.
+2024-03-04 Mon (3.5h): (Continued) In-depth review on Lorenzo, Babylon, BOB, Celestia components 
 
 ---
 
-2024-1-28 Sun (4h): Docs for batch certificate renewal, management, access control, and modification guide. Refactor scripts for multi-purpose. Setup certificate management instances and access. Docs for manual certificate renewal for external domain. Renew certificates for key domains
+2024-03-03 Sun (4.5h): Review and research on AI Data tokens, Bitcoin interoperability SDK, Bitcoin Layer 2 systems, and Bitcoin inscription frameworks and projects
 
-2024-1-25 Thu (0.5h): Discussion and documentation on certificate generation, renewal, management, and processes
+2024-03-02 Sat (1h): Add option to render SVG to PNG for iOS Warpcast compatibility. Debug sharp compatibility issues with cloud Debian and arm64 architecture. Deploy and test in production. Burner rate update
 
-2024-1-23 Tue (2h): Review minimal social wallet POC and history. Review paper trading bot. Review partial evaluation implementations in blockchain and smart contracts, and analyze options.
+2024-03-01 Fri (10h): Implement new map based frames with review and check-in. Implement counters for mint and 24-hour mint. Add mock-mint mode. Deploy and demo in production. Implement styled dynamic text at line-level for SVG. Improve location parsing and display. Allow optional location suffix, and natural syntax for users to override on location suffix. Debug and submit single-letter domain issues on Warpcast. Test redirect, proxy, CNAME, URL transform and various ways to circumvent the single-letter naked domain bug. Improve text and button display for map extension. Separate basic-map and map extensions. Implement permanent key-value storage for review and check-in. Deploy, configure and test redis for embedded web service. Implement safe mint, count, and balance query, and dynamic image for with cache control. Implement static statistical image API. Inscribe review and check-in location on-chain during mint. Deploy to production and test end-to-end
 
-2024-1-22 Mon (2h): Legal research and analysis on Clark v. CFTC appellate opinion, injunction, history and applicability of CFTC no-action letters and enforcement practice. Legal analysis on prediction market risks and issues on developing, deploying, operating a platform, and importance of decentralization. 
+2024-02-29 Thu (8h): (Continued) Breakdown and refactor Farcast implementations by extensions. Fix multiple implementations bugs and structural issues. Discussions, technical Q&A, and task planning on Farcaster frame implementations. Research on WARP tokens. Cloud configuration and deployment. Implement Redis client. Research on Redis data structures to use for temporal count and aggregation. Deploy, configure and test redis for embedded web service.  Debug dot-country purchase issues. Reconfiguration of lend.country documentation sites and discussion on SSL wildcard certificate renewal and auto-deployment issues
 
----
+2024-02-28 Wed (3.5h): Review and test fixes for Substack error message. Burner rate and mechanisms update, redeployment. Review and comment on DCReward on-chain minting implementation. Research on Promise pool, implement queued asynchronous minting with fast frame resposne. Review and finalize fixes for Substack error message issues. Review and revise on-chain minting code, metadata, and configurations based on DCReward.
 
-2024-1-21 Sun (8h): Implement and deploy system services for email alias services. Auto renew certificate on regular schedule. End-to-end testing printer use cases, with SMTP and email alias forwarding. Research on prediction markets. Research on the history and various legal opinions regarding Polymarket and its terms of service. In-depth analysis of CFTC v. Polymarket. Research and analysis on Thales prediction market design, contracts, AMM, UMA oracle, and demo prediction market contract. Evaluate alternatives.
-
-2024-1-20 Sat (6.5h): Refine and finalize batch multi-certificate renewal scripts. Verify reserved and blocked domains. Quick review of ICANN rule. Debug and test premium domains. Sync all domain-related repositories. Review prediction market products, legal research on applicable laws and enforcement actions. Experiment with SMTP services for email alias services. Upgrade email alias services to latest common stack (ether v6, node 20). Debug various type and compile issues arising from hardhat, typechain, and typescript. Debug and implement workaround for missing Harmony protocol RPC implementation on eth_gasEstimate
-
-2024-1-19 Fri (6h): Review and analysis on inscription contract code: mint, buy, sell, withdraw, supply and balance control, and other internal logic. Review new Telegram embedded wallet proposal, analyze prior art, evaluate options to extend SMS Wallet and other design options. Debug and fix issues related to unable to manage domains using dot-country domain manager. Premium and reserved domain management. Implement batch multi-certificate renewal script
-
-2024-1-18 Thu (5.5h): Deploy certificate auto-renew automations on key dot-country and ai-bot services. Debug dot-country Substack embedder URL link hostname issues, analyze new scripts and page load mechanism from Substack. Experiment with a variety of DOM and Javascript listeners. Deploy temporary fix. Quick review of inscription contract code on security, integrity, and deployment issues. Review latest Multisig configuration and code change log. Discussion on technical and legal issues pertaining to raffle / lottery, prediction market, and similar mechanisms through NFT airdrops
-
-2024-1-17 Wed (4h): Analysis and in-depth review on amicus brief by DeFi Education Fund in SEC v. Coinbase, review hearing transcript and updates of the case, discuss legal authority on asset ownership in custodial service, distinguishing factors of ministerial v. managerial service providers, and how they apply to bridge and swap services
-
-2024-1-16 Tue (5.5h): Debug and discuss Multisig iOS RPC call issues. Review code and UI update progress. In-depth legal research and analysis on Underwood v. Coinbase, effect and importance of user agreement, asset title transfer, asset custody, control, transaction and order fulfilment mechanism, fees, and choice of assets on the platform. Review related cases such as Anderson v. Binance.
-
-2024-1-15 Mon (4.5h): Legal research on Uniswap terms of service, legal structures, and litigations. In-depth legal research and analysis on federal district court opinion and case files on Risley et al. v. Uniswap, cited case laws, statutes, alleged facts, and applicaibility to bridge / swap products
+2024-02-26 Mon (0.5h): Analysis and debug of AWS to embedded web service redirect issues and unicode / ASCII encoding issues. Review embedded web service preview generation and special routes 
 
 ---
 
-2024-1-14 Sun (5.5h): Analyze reusable components in SMS Wallet mini-wallet for minimal social wallet and modifications required for inscription use cases. Research and analysis on lottery, contest, sweepstake statute and case laws, and applications in on-chain transactions and inscriptions. Research on calldata limitations and block size historical changes. Quick review and discussions on Safe iOS code and configurations.
+2024-02-24 Sat (2.5h): Farcaster integration debugging and discussions. Warpcast client - frame server interaction flow analysis. Access-controlled dot-country reward minting contract with metadata URI management. Dependencies and compiler upgrades. Bug fixes of Farcaster frame preview
 
-2024-1-13 Sat (2h): Research on inscription technical development history, use cases, adoption, and minimal social wallet integration and design. Research and discussion on recovery supply issues and bugs in explorer backend for computing supplies
+2024-02-23 Thu (11.5h): Implementation and testing of dynamic rendered text in SVG with styling options. Alternative Farcaster frame use case exploration. Research on Google mapping embedding and SVG-based solutions. Research, experiment, and integration of static Google map image and styling, and interactions with Farcaster frame and its requirement. Bug fixes and Farcaster POST message validation analysis. Dynamic static, styled map image for Farcaster frame, callback route and error handling, end-to-end debugging, testing, deployment, demo, and production trial. Dynamic-image generation for Farcaster text frame, Farcaster text inscription initial frame, POST callback route and error handling, with debugging, and testing. End-to-end deploy, debugging, demo, and production trial for text-inscription Farcaster frames. Discussion of TODO on token minting in production.
 
-2024-1-12 Fri (2h): Implementing CNAME record setup for root subdomain in dot-country domains, testing and deployment end-to-end. Domain renewal and management. Review and research on inscription data carrying and retrieval capacity.
+2024-02-22 Thu (10.5h): Evaluate Substack page DOM structures, various DOM parsers, and experiment on adding Farcaster frame data through DOM manipulation. Finalizing Notion embedded page and Farcaster frame integration. Add customizable token name, initial Substack support, and fix issues in configuration. Farcaster frame and Substack integration. Resolve compatibility issues, add configuration syntax . Test through management UI. Initial implementation of Farcaster callback route. Add and implement unified parse settings for Substack and Notion, add Farcaster flags and extension syntax. Resolve Farcaster certificate validation issues for tunneled development host. Add HTTP support, configurable protocol, host extraction, default image in absense of OpenGraph image from Substack or Notion page. Fix missing frame properties, bugs, add redirect routes. Fix Farcaster frame-mint failure cases, redirect handling. Fix Farcaster message validation, add id extraction, lookup and owner address mapping. Fix hub client integration. End-to-end deploy, debugging, demo, and production trial of Notion and Substack default Farcaster integration. Demo and experiments on error handling and text-input submission and validation. End-to-end deploy, debugging, demo, and production trial of Notion and Substack default Farcaster integration. Demo and experiments on error handling and text-input submission and validation
 
-2024-1-11 Thu (2.5h): Review #393 (comment over defining test behavior using class variable instead), #394, #395, #396, #397, #398, #399 (concern over access control), #400, #401, #402, #403, #404, #405, #406 (comment on sampling rate), #407, #410, #411, #412, #414, #415 (note on TTS response streaming, and model name confusions), #392 (draft). Burner launch and resolving cache issues.
+2024-02-21 Wed (5.5h): Farcaster specification review, API and hub experimentation. Review and evaluate sample frame implementations and production apps. Initial implementations in dot-country embedder for integration. Design and implement Farcaster partial template and configurations. Integrate with existing opengraph renderer server implementation, and settings from embedded-web-services contracts
 
-2024-1-10 Wed (4.5h): Review #318, #319 (concern on confusion over exporting transcript / log), #320, #321 (concern over dropping support for other languages), #322, #323, #324, #325, #327, #328, #330, #331, #332 (comment on private key could derive address), #333, #334, #335, #336, #337, #338, #339, #340, #341, #343, #344, #348, #353, #354, #355, #361, #363, #368, #369, #370 (comment on JSON parsing complexity), #371 (comment on function signature modification solely for testing), #372, #373, #379, #381, #383, #385, #386, #380 (concern on conflicts and PR being left open), #387, #388, #389, #390, #391
+2024-02-20 Tue (4h): Review Farcaster FIPs, documentation for client development, core concepts, account, messages, and names. Evaluate Farcaster developer toolkit, community-developed packages, and simple demo frames related to mint and polling. Evaluate compatibility issues of server-side rendering and use of next.js. Evaluate Farcaster APIs, frame specifications, data schemes
 
-2024-1-9 Tue (2h): Recovery live stats, analytics and charts with WONE support. v7 client portal. New contract and revised parameters for large rounds. Technical Q&A. Domain management and renewal reversal
+2024-02-19 Mon (3.5h): Review Human Protocol new developments, plans, and issues. Review Farcaster design, architecture, developer documentations, APIs, and frame integrations. 
+
+---
+
+2024-02-12 Mon (0.5h): Evaluate and discuss Human Protocol demo apps, suggest features and engineering improvements
+
+---
+
+2024-02-11 Sun (0.5h): Compute, review, and discuss recovery analytics and implications of increased market rate for depegged assets. Update and aggregate results from multiple contracts belonging to a large round.
+
+2024-02-09 Fri (4.5h): Configure, deploy and end-to-end testing for VPN with network congestion simulation. Create one-click VPN installation profiles for macOS and iOS. Manual Cisco VPN setup instructions. Fix DNS, certificate, and subdomain embedding issues with lend.country and docs.lend.country (reassigning nameserver, re-generate certificates, fix infinite redirect loop by Cloudflare, fix missing ownership on blockchain by manual registrations, manual configuration of DNS and notion embeddings, bifurcate subdomains and reassign nameserver to Cloudflare). h.country DNS and nameserver migration. Documentation for VPN server with traffic control. 
+
+2024-02-08 Thu (6h): Review progress and discussion on Lottery and Human Protocol implementation. Research on Telegram group-wallet design based on Human Protocol / Minimal Social Wallet. Debugging and fixing L2TP IPSec VPN server and ppp issues caused by non-standard GCP cloud linux kernels. Research and experiment on options and tools for network emulation in GCP (Cloud Armor), docker (pumba), and vanilla Linux tools (netem).
+
+2024-02-07 Wed (5h): Resaerch and discuss Godaddy and ENS integration and examples. Review ENS DNSSEC implementation and OffchainDNSResolver. Discuss general ways to support new preview crawler. Review Cloudflare Page hosting and discussions on DNS requirement and nameserver migration and limitation. Initial review of Cloudflare API. Review Cloudflare worker and KV store documentations. Discuss choice of key-value database for fastest response. Review Cloudflare API documentation on batch domain activation. Review Cloudflare token architecture and access control, and configure limited scope tokens accordingly. Review OffchainDNSResolver contract and ENS-GoDaddy gasless domain registration architecture. Discuss downsides anad flaws. Migration of special 2-letter domains to Cloudflare. Fix social preview issues of embedded web services for farcaster, analyzed and expanded user agent matching list. Initial IPSec / IKEv2 VPN deployment, Debian isntance setup, Docker configuration. Initial testing of VPN server via Debian host machine instead of container CoreOS.
+
+---
+
+2024-02-02 Fri (1h): Research on plans and features in human protocol
+
+2024-02-01 Thu (2h): Domain renewal documentation and script usage. Refine domain renewal document. Review discussions and progress on new projects on lottery, Telegram bot, inscription, and dot-country changes
+
+2024-01-31 Wed (1h): Review inscription backend services and change requested for embedded web services in catering 2-letter domains. Discuss minimal implementation and fork. Quick review and discussion on client side changes of dot-country
+
+2024-01-29 Mon (5h): Domain web2 renewal API, registrar domain info and expiring domain list API integration. Script for batch domain renewal, review existing user and test domains, end-to-end debugging and testing. Discuss erroneous Namecheap renewal API response and incorrect account and pricing setup with registry. Implement lookup-only mode for renewal script. Manual domain renewals and management. Discussion on enable-subdomain errors and ens-registrar-relay routes, and existing main implementations (Notion, Substack) for embeeded web service.
+
+---
+
+2024-01-28 Sun (4h): Docs for batch certificate renewal, management, access control, and modification guide. Refactor scripts for multi-purpose. Setup certificate management instances and access. Docs for manual certificate renewal for external domain. Renew certificates for key domains
+
+2024-01-25 Thu (0.5h): Discussion and documentation on certificate generation, renewal, management, and processes
+
+2024-01-23 Tue (2h): Review minimal social wallet POC and history. Review paper trading bot. Review partial evaluation implementations in blockchain and smart contracts, and analyze options.
+
+2024-01-22 Mon (2h): Legal research and analysis on Clark v. CFTC appellate opinion, injunction, history and applicability of CFTC no-action letters and enforcement practice. Legal analysis on prediction market risks and issues on developing, deploying, operating a platform, and importance of decentralization. 
+
+---
+
+2024-01-21 Sun (8h): Implement and deploy system services for email alias services. Auto renew certificate on regular schedule. End-to-end testing printer use cases, with SMTP and email alias forwarding. Research on prediction markets. Research on the history and various legal opinions regarding Polymarket and its terms of service. In-depth analysis of CFTC v. Polymarket. Research and analysis on Thales prediction market design, contracts, AMM, UMA oracle, and demo prediction market contract. Evaluate alternatives.
+
+2024-01-20 Sat (6.5h): Refine and finalize batch multi-certificate renewal scripts. Verify reserved and blocked domains. Quick review of ICANN rule. Debug and test premium domains. Sync all domain-related repositories. Review prediction market products, legal research on applicable laws and enforcement actions. Experiment with SMTP services for email alias services. Upgrade email alias services to latest common stack (ether v6, node 20). Debug various type and compile issues arising from hardhat, typechain, and typescript. Debug and implement workaround for missing Harmony protocol RPC implementation on eth_gasEstimate
+
+2024-01-19 Fri (6h): Review and analysis on inscription contract code: mint, buy, sell, withdraw, supply and balance control, and other internal logic. Review new Telegram embedded wallet proposal, analyze prior art, evaluate options to extend SMS Wallet and other design options. Debug and fix issues related to unable to manage domains using dot-country domain manager. Premium and reserved domain management. Implement batch multi-certificate renewal script
+
+2024-01-18 Thu (5.5h): Deploy certificate auto-renew automations on key dot-country and ai-bot services. Debug dot-country Substack embedder URL link hostname issues, analyze new scripts and page load mechanism from Substack. Experiment with a variety of DOM and Javascript listeners. Deploy temporary fix. Quick review of inscription contract code on security, integrity, and deployment issues. Review latest Multisig configuration and code change log. Discussion on technical and legal issues pertaining to raffle / lottery, prediction market, and similar mechanisms through NFT airdrops
+
+2024-01-17 Wed (4h): Analysis and in-depth review on amicus brief by DeFi Education Fund in SEC v. Coinbase, review hearing transcript and updates of the case, discuss legal authority on asset ownership in custodial service, distinguishing factors of ministerial v. managerial service providers, and how they apply to bridge and swap services
+
+2024-01-16 Tue (5.5h): Debug and discuss Multisig iOS RPC call issues. Review code and UI update progress. In-depth legal research and analysis on Underwood v. Coinbase, effect and importance of user agreement, asset title transfer, asset custody, control, transaction and order fulfilment mechanism, fees, and choice of assets on the platform. Review related cases such as Anderson v. Binance.
+
+2024-01-15 Mon (4.5h): Legal research on Uniswap terms of service, legal structures, and litigations. In-depth legal research and analysis on federal district court opinion and case files on Risley et al. v. Uniswap, cited case laws, statutes, alleged facts, and applicaibility to bridge / swap products
+
+---
+
+2024-01-14 Sun (5.5h): Analyze reusable components in SMS Wallet mini-wallet for minimal social wallet and modifications required for inscription use cases. Research and analysis on lottery, contest, sweepstake statute and case laws, and applications in on-chain transactions and inscriptions. Research on calldata limitations and block size historical changes. Quick review and discussions on Safe iOS code and configurations.
+
+2024-01-13 Sat (2h): Research on inscription technical development history, use cases, adoption, and minimal social wallet integration and design. Research and discussion on recovery supply issues and bugs in explorer backend for computing supplies
+
+2024-01-12 Fri (2h): Implementing CNAME record setup for root subdomain in dot-country domains, testing and deployment end-to-end. Domain renewal and management. Review and research on inscription data carrying and retrieval capacity.
+
+2024-01-11 Thu (2.5h): Review #393 (comment over defining test behavior using class variable instead), #394, #395, #396, #397, #398, #399 (concern over access control), #400, #401, #402, #403, #404, #405, #406 (comment on sampling rate), #407, #410, #411, #412, #414, #415 (note on TTS response streaming, and model name confusions), #392 (draft). Burner launch and resolving cache issues.
+
+2024-01-10 Wed (4.5h): Review #318, #319 (concern on confusion over exporting transcript / log), #320, #321 (concern over dropping support for other languages), #322, #323, #324, #325, #327, #328, #330, #331, #332 (comment on private key could derive address), #333, #334, #335, #336, #337, #338, #339, #340, #341, #343, #344, #348, #353, #354, #355, #361, #363, #368, #369, #370 (comment on JSON parsing complexity), #371 (comment on function signature modification solely for testing), #372, #373, #379, #381, #383, #385, #386, #380 (concern on conflicts and PR being left open), #387, #388, #389, #390, #391
+
+2024-01-09 Tue (2h): Recovery live stats, analytics and charts with WONE support. v7 client portal. New contract and revised parameters for large rounds. Technical Q&A. Domain management and renewal reversal
 
 ---
 
