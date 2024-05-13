@@ -8,7 +8,9 @@
 
 2024-05-06 Mon (1h): Review and discuss data API access and latency between Dune, Nansen, dAppRadar, and alternatives. Debug and fix certificate issues for reewnable domains. 
 
-2024-05-04 Thu (3h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
+---
+
+2024-05-04 Sat (3h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
 
 2024-05-03 Fri (3h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays
 
