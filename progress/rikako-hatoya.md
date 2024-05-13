@@ -1,6 +1,6 @@
 2024-05-12 Sun (1 hr): Saturday continued, further progress on Q2 milestones☀.
 
-2024-05-11 Sat (1 hr): Further more look into GMX.
+2024-05-11 Sat (1 hr): Looking further into GMX.
 
 2024-05-10 Fri: Debugging some configuration and look into for Harmony hardhat starterpack repo. Playing around with perpetual exchange and reading docs on Jupiter (JLP Pool, trading), GMX (look into trading and couple of ecosystem projects). Vertex is restricted in the U.S., looked into similar trading platforms.
 
