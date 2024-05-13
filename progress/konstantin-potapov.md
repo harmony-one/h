@@ -1,4 +1,4 @@
-2024-05-10 Fri: This week i reviewed dev branch, was reading HotStuff consensus protocol and was investigating issues with bootnode and crosslink. 
+2024-05-10 Fri: This week, I reviewed the dev branch and investigated issues with the bootnode. I merged the pprof PR into the dev branch and created an issue with the dump for further investigation, which seems to be deeply rooted in the libp2p implementation. Additionally, I have been reading about the HotStuff consensus protocol and found a clear rust implementation.    
 
 ---
 
