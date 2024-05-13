@@ -1,6 +1,6 @@
-2024-05-12 Sun (1 hr): Saturday continued, further progress on Q2 milestones☀.
+2024-05-12 Sun (1.0h): Saturday continued, further progress on Q2 milestones☀.
 
-2024-05-11 Sat (1 hr): Looking further into GMX.
+2024-05-11 Sat (1.0h): Looking further into GMX.
 
 2024-05-10 Fri: Debugging some configuration and look into for Harmony hardhat starterpack repo. Playing around with perpetual exchange and reading docs on Jupiter (JLP Pool, trading), GMX (look into trading and couple of ecosystem projects). Vertex is restricted in the U.S., looked into similar trading platforms.
 
@@ -13,9 +13,9 @@
 2024-05-06 Mon: Explored with NFTs on MagicEden.
 
 ---
-2024-05-05 Sun (1 hr): Saturday continued.
+2024-05-05 Sun (1.0h): Saturday continued.
 
-2024-05-04 Sat (1 hr): Further look into debugging the configuration setup for hardhat starter pack.
+2024-05-04 Sat (1.0h): Further look into debugging the configuration setup for hardhat starter pack.
 
 2024-05-03 Fri: Looked into APIs for scraping and processing BTC Rune transaction data for our wrapping prototype. Looked into some of the projects mentioned in the "20 things to do" list tweet.
 
@@ -29,9 +29,9 @@
 ) smart contract onto Harmony using OpenZeppelin and Remix).
 
 ---
-2024-04-28 Sun (1.5 hrs): Looked into how to wrap tokens to ERC20 on Harmony blockchain using OpenZeppelin and Hardhat.
+2024-04-28 Sun (1.5h): Looked into how to wrap tokens to ERC20 on Harmony blockchain using OpenZeppelin and Hardhat.
 
-2024-04-27 Sat (1.5 hrs): Ramping up to understand BTC Rune: their functionalities and overview.
+2024-04-27 Sat (1.5h): Ramping up to understand BTC Rune: their functionalities and overview.
 
 2024-04-26 Fri: Had a meeting with Jackie and discussed the AnotherWorld project. We went over Rune coins on MagicEden, viewing transactions on brc20 API (eventually automate the process), opened my bitcoin wallet, overview of the end-to-end prototype, and how we can create a platform to wrap BTC Rune to ERC20 on shard 1.
 
@@ -45,9 +45,9 @@
 
 ---
 
-2024-04-21 Sun: (1.5 hrs): Looked into/play tested AnotherWorld in preparation for campaigns.
+2024-04-21 Sun: (1.5h): Looked into/play tested AnotherWorld in preparation for campaigns.
 
-2024-04-20 Sat (2.5 hrs): Working on the 3 goals for Q2 by conducting market research, mainly on cross-chain projects.
+2024-04-20 Sat (2.5h): Working on the 3 goals for Q2 by conducting market research, mainly on cross-chain projects.
 
 2024-04-19 Fri: Further work on Polygon CDK by folling through Roll-up tutorial, setting up Docker, building and testing Docker image, workaround for MacOS, configuring node deployment. Cleared office.
 
@@ -63,9 +63,9 @@
 
 ---
 
-2024-04-07 Sun: Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
+2024-04-07 Sun (1.0h): Looked for more resumes and linkedin profiles on the layoffs list on layoff.fyi.
 
-2024-04-06 Sat: Fri continued, also looked for candidates on slack channels for tech groups.
+2024-04-06 Sat (1.0h): Fri continued, also looked for candidates on slack channels for tech groups.
 
 2024-04-05 Fri: Looked for more resumes and profiles on LinkedIn search
 
