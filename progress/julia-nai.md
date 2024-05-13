@@ -1,6 +1,6 @@
 2024-05-12 Sun (1.0h): Reviewed integration with OpenOcean. 
 
-2024-05-11 Sat (3.0h): Coallated dune queries into [dashboard](https://dune.com/aishlia/arbitrum-uniswap). Attempted 100 result pagination from subgraph queries. 
+2024-05-11 Sat (3.0h): Collated dune queries into [dashboard](https://dune.com/aishlia/arbitrum-uniswap). Attempted 100 result pagination from subgraph queries. 
 
 2024-05-10 Fri: Synced with Theo regarding li.fi and swoop integrations. Compiled results from dune queries regarding top movers on Arbitrum Uniswap. 
 
