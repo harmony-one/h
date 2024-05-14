@@ -1,3 +1,7 @@
+2024-05-13 Mon: Looked into archetecture of Vertex. Created [dashboard](https://dune.com/aishlia/arbitrum-perp) for top 100 wallets on Vertex and GMX. 
+
+---
+
 2024-05-12 Sun (1.0h): Reviewed integration with OpenOcean. 
 
 2024-05-11 Sat (3.0h): Collated dune queries into [dashboard](https://dune.com/aishlia/arbitrum-uniswap). Attempted 100 result pagination from subgraph queries. 
