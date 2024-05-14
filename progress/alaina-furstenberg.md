@@ -1,4 +1,13 @@
-2024-05-11 Sat (1.0h): Adjusting /progress for the team.
+
+2024-05-12 Tue: 
+
+2024-05-13 Mon: [Mocks for swap.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=91%3A3&t=dupclP4PzX8SANEt-1) based off SushiSwap. Team operations regarding /progress. 
+
+---
+
+2024-05-12 Sun (1.0h): [Mocks for swap.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=91%3A3&t=dupclP4PzX8SANEt-1). Adjusting /progress for the team.
+
+2024-05-11 Sat (1.0h): Adjusting /progress for the team. 
 
 2024-05-10 Fri: harmony.one community update plus research top 10 uniswap v3 forks to update the swap.harmony.one interface. Insights: Of the top 10 v3 forks, I think Agni Finance has the most unique, brand-driven design. But sushiswap wins for simplest/most intuitive user flow. Mocks started in [this Figma file](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=hjEr0rbLCs5b0g7B-1).
 
