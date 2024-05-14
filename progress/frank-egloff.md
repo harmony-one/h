@@ -1,6 +1,9 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-13 Mon: Deployed all Vertex contracts to Harmony Testnet. Currently, reviewing trade app architecture and looking at how contracts, GraphQL, and API calls are handled.
+
+---
 2024-05-10 Fri: Created the first version of the [deploy script for Vertex contracts](https://github.com/fegloff/vertex-contracts/pull/1) to the Harmony Testnet network and added comments to some contracts. Also, deployed locally mono-repo-apps and started checking out trade app architecture.
 
 2024-05-09 Thu: Worked on porting contracts to the Harmony chain, checking all contracts, and creating a deploy script (work in progress). Also, talked with a Protofire representative regarding swap-interface local deployment issues.
@@ -12,7 +15,6 @@ Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. 
 2024-05-06 Mon: Checked the Hyperlance documentation; they provide the contracts on local and remote chains we want to bridge with. Talked with Yuriy about deploying Hyperlane on Harmony. Also, made some text/URL changes on the [Bridge site](https://github.com/harmony-one/layerzero-bridge.frontend/pull/26) and kept working on the requested changes on the Swap webpage.
 
 ---
-
 2024-05-03 Sun: Reviewed 1Bot logging logic. 
 
 2024-05-04 Sat: Started working on the tooltip text change on the swap site. 
