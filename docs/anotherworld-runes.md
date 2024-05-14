@@ -18,6 +18,19 @@ This project was devised to seamlessly transition BTC Rune into ERC20 tokens on 
 
 ![Project Image](https://github.com/harmony-one/h/assets/27670355/dd3e644a-8bad-4ac9-87e4-556b756e8ebe)
 
+#### How to Run the Code:
+
+To run the code, follow these steps:
+
+1. Clone the repository:
+`git clone https://github.com/rika97/scaffold-eth-2.git`
+2. Install dependencies:
+`yarn install`
+3. Deploy smart contracts to Harmony Mainnet:
+`yarn deploy --network harmony_mainnet`
+4. Start the frontend on localhost:
+`yarn start`
+
 ## Token Minting
 
 A smart contract dubbed "WrappedRune" was crafted and deployed onto Harmony Mainnet (shard1) to initiate the minting process of ERC20 tokens (_ticker: "wRUNE"). Minting privileges are exclusively bestowed upon the smart contract deployer through the meticulous use of the `_mint` function, which comes pre-configured with specifications such as total supply.
