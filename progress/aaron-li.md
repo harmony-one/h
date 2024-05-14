@@ -1,3 +1,7 @@
+2024-05-13 Mon (1.5h): Review Jupiter documentation and quick research on mechanisms and code. Analysis on key uncertainties for copy-trading, complete analysis on RPC, and polishing prior sections 
+
+2024-05-12 Sun (4h): Discussion and analysis on copy-trade data acquisition methods. Research on The Graph, Nansen, Arbitrum RPC, Dune queries in practice
+
 2024-05-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options
 
 2024-05-09 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design
