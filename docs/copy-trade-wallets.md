@@ -1,4 +1,10 @@
-## Transaction Analysis of the Past 100 Days from Arbitrum Uniswap
+# Table of Contents
+
+- [Arbitrum Uniswap - Transaction Analysis of the Past 100 Days](#arbitrum-uniswap---transaction-analysis-of-the-past-100-days)
+- [Arbitrum GMX - Transaction Analysis of the Past 100 Days](#arbitrum-gmx---transaction-analysis-of-the-past-100-days)
+- [Arbitrum Vertex - Transaction Analysis of the Past 100 Days](#arbitrum-vertex---transaction-analysis-of-the-past-100-days)
+
+## Arbitrum Uniswap - Transaction Analysis of the Past 100 Days
 
 ### Overview
 
@@ -30,3 +36,7 @@
 ### Profit Calculation
 
 - By utilizing a tax calculator, it's possible to calculate total profits for specific wallets, excluding any Centralized Exchange (CEX) activity.
+
+## Arbitrum GMX - Transaction Analysis of the Past 100 Days
+
+## Arbitrum Vertex - Transaction Analysis of the Past 100 Days
