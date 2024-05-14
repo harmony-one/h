@@ -4,7 +4,11 @@
 
 Harmony Portfolio: implement Bridge page that repeats all major features of the Harmony Bridge client: [https://bridge.harmony.one](https://bridge.harmony.one/one).
 
+While working on implementing the Bridge in the Harmony Portfolio, I aimed to utilize best practices – the design was inspired by the existing bridge in the Metamask Portfolio, familiar to users but with the internal logic of the Harmony Bridge. I encountered nuances in the implementation, some rooted in Layerzero, and each token transfer needed manual testing, consuming significantly more time; nevertheless, I managed to thoroughly understand the architecture of the current Harmony Bridge and start implementation within a few days, which was quite swift given the complexity of this application.
+
 ---
+
+2024-05-14 Tue: Look into Syntetix [deployment scripts](https://github.com/Synthetixio/synthetix-deployments) and docs
 
 2024-05-13 Mon: completed bridge MVP in Harmony Portfolio client, tested Arbitrum and BNB chains, [deployed](https://harmony-portfolio.netlify.app/dashboard) an update.
 
