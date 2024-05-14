@@ -1,3 +1,7 @@
+2024-05-13 Mon: Look into Dune analytics for daily users and profitable trades.
+
+---
+
 2024-05-12 Sun (1.0h): Saturday continued, further progress on Q2 milestones☀.
 
 2024-05-11 Sat (1.0h): Looking further into GMX.
