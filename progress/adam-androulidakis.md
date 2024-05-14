@@ -1,3 +1,15 @@
+
+2024-05-10 Friday - Weekly Update:
+-come up with an in-game beat, not too repetitive, too long or too short, and implement in uninterrupted loop <br>
+https://github.com/adsorptionenthalpy/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e <br>
+-analyze 3rd party defi contracts for port to harmony 
+-devops: investigate problems with bootnode
+-review fixes to boot node
+-migrate devsnode validator to new network
+-work on write-up: Harmony goals
+
+---
+
 2024-05-03 Weekly Update <br>
 -Communication w/ Konstantin and Rika on contract deployment issues
 Looking into simplifying harmony contract deployment https://github.com/adsorptionenthalpy/harmony_contracts <br>
