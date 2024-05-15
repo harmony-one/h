@@ -5,7 +5,8 @@
 - **Pairs:** SOL, ETH, WTBC
 - **Network:** Solana
 - **Leverage:** Up to 100x
-- **Overview:** Perpetual trading on Jupiter offers high leverage, potentially leading to significant gains but also magnifying losses. For example, I initiated a trial long position with Solana as collateral for WBTC-PERP at 100x leverage. 
+- **Overview:** Perpetual trading on Jupiter offers high leverage, potentially leading to significant gains but also magnifying losses.
+- **Trial:** For example, I initiated a trial long position with Solana as collateral for WBTC-PERP at 100x leverage. 
 - **Process:** Trading on Jupiter necessitates connecting a Solana wallet to MetaMask.
 - **Accepted Payment:** Jupiter accepts a wide variety of tokens (100+).
 
