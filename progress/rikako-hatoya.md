@@ -1,3 +1,5 @@
+2024-05-14 Tue: Summarized work for [AnotherWorld/Runes project](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md) and [perpetual trading](https://github.com/harmony-one/h/blob/main/docs/perpetual-trading.md). Tested out more features on Vertex.
+
 2024-05-13 Mon: Look into Dune analytics for daily users and profitable trades.
 
 ---
