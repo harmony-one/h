@@ -1,3 +1,13 @@
+2024-05-14 Tue: Completed LayerZero airdrop submission copy, waiting on csv from Yuriy for eligible wallets. Helped Julia with R&D documentation, filled first half of the document, Julia will complete next half by end of day.
+
+2024-05-13 Mon: Sync with Casey for coinbase form and Li for Binance marketing contact, established contact with LI.FI, LayerZero, and OpenOcean.
+
+---
+
+2024-05-12 Sun: [1hr] Read required messari articles on Synthetix Perpetuals.
+
+2024-05-11 Sat: [1hr] Continued discussions with David from Swoop, now we have a group with OpenOcean on telegram, next steps will include Swap support, or alternative suggestions on their end.
+
 2024-05-10 Fri: Sync with Julia for OpenOcean integration for larger presence of Harmony on Swoop. Reached out to DIA to start discussions we previously moved on from, again working towards amplifying our ecosystem oracle support for each decentralized application.
 
 2024-05-09 Thu: Continued research on perpetual exchanges to add to current primitive offerings, initial planning of minimal product pulling from Jupiter and dydx.
