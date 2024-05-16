@@ -1,3 +1,5 @@
+2024-05-16 Thu: CSV for bridging by May 1st snapshot complete. Current split for the Harmony LayzerZero Airdrop, Note: UNFINALIZED, (45% Users that have bridged OFTs, 30% Liquidity Providers, 15% Recovery Contributors, 10% Developer Account) sharing with Casey and Soph for feedback, and Layer Zero for potential issues.  2024-05-15 Wed: Following sync with Soph and Yuriy, expanded LayerZero allocations to include more than just bridging. (Swap liquidity providing included as well) Metric: 450k unique wallets have interacted with the Harmony LayerZero Bridge.  
+
 2024-05-14 Tue: Completed LayerZero airdrop submission copy, waiting on csv from Yuriy for eligible wallets. Helped Julia with R&D documentation, filled first half of the document, Julia will complete next half by end of day.
 
 2024-05-13 Mon: Sync with Casey for coinbase form and Li for Binance marketing contact, established contact with LI.FI, LayerZero, and OpenOcean.
