@@ -1,3 +1,5 @@
+2024-05-15 Wed: Worked on /chart with Alaina, added all the data for 14 rows (from "0x" to "Perp v2".) Working on GMX and dydx on dune.
+
 2024-05-14 Tue: Summarized work for [AnotherWorld/Runes project](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md) and [perpetual trading](https://github.com/harmony-one/h/blob/main/docs/perpetual-trading.md). Tested out more features on Vertex.
 
 2024-05-13 Mon: Look into Dune analytics for daily users and profitable trades.
