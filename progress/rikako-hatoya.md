@@ -1,4 +1,4 @@
-2024-05-15 Wed: Worked on /chart with Alaina, added all the data for 14 rows (from "0x" to "Perp v2".) Working on GMX and dydx on dune.
+2024-05-15 Wed: Worked on /chart with Alaina, added all the data for 14 rows (from "0x" to "Perp v2".) Looked through 10+ datasets on GMX perpetual, found the most relevant one and analyzed the most profitable trades for all users + top 1000 users with the most PnL on Dune ([documentation](https://github.com/harmony-one/h/blob/main/docs/profitable_trades.md), [dashboard](https://dune.com/rikaharmony/gmx-dydx-stats)). Searched for datasets for dydx perpetual.
 
 2024-05-14 Tue: Summarized work for [AnotherWorld/Runes project](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md) and [perpetual trading](https://github.com/harmony-one/h/blob/main/docs/perpetual-trading.md). Tested out more features on Vertex.
 
