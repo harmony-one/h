@@ -12,6 +12,12 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-16 Thu: Received new instructions from Theo regarding the terms of token allocation. We want to introduce 3 new categories: users that bridged, users that provided layerzero LP in Swap, users that hold at least $100 worth of layerzero OFT. For the first category we already have statistics, for the 3rd category we can obtain them based on bridge operations. I'm working on getting statistics on interaction with Swap.
+
+2024-05-15 Wed: LayerZero oken airdrop: completed firbase dump parser and generated several csv documents with a list of addresses and the number of operations on these addresses. In total, there were about 500k unique users based on the analysis of 1.5 million transactions. Continue work on gmx v1 deploy script.
+
+2024-05-14 Tue: LayerZero oken airdrop: Worked on calculating wallet distribution (users who bridged OFTs from 2022/07 to 091/2024). To do this, I have exported firebase db. At the moment there is a difficulty with the number of operations ~ 1.5 million - firebase does not allow running databases of this size on a local emulator or conert to csv another methods. Therefore, I am writing a parser that will go through all the dump files and pull out the necessary data. 
+
 2024-05-13 Mon: Continue working on harmony version for fmx v1 deploy/configure script. Switched to Layer Zero v2 and Sybil actions tasks. Started work on getting a statistic csv of everyone that has interacted with the bridge.
 
 ---
