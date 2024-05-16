@@ -1,6 +1,10 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-15 Wed: Continued working on Vertex's trade app porting and updating the Explorer app. However, had issues with the local environment with the corepack package and am working on fixing it.  
+
+2024-05-14 Tue: Kept reviewing Vertex's trade app architecture/logic. 
+
 2024-05-13 Mon: Deployed all Vertex contracts to Harmony Testnet. Currently, reviewing trade app architecture and looking at how contracts, GraphQL, and API calls are handled.
 
 ---
