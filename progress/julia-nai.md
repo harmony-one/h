@@ -1,3 +1,5 @@
+2024-05-15 Wed: Worked on collecting information for /chart. 
+
 2024-05-14 Tue: GME/SOL is currently the highest volume pair in the last 24h on Raydium AMM: the largest AMM on Jupiter by number of traders. However, SOL/USDC would likely be a top option because it is the highest TVL pool with some of the highest fees on Orca. It has almost 4.5x the liquidity of SOL/USDT. Within the last few months (since Oct 2023), Orca has been right behind Raydium as the second largest AMM on Jupiter. Lifinity v2 also has a $14B volume SOL/USDC pair. This is the highest volume of any pair on any AMM on Jupiter. Data sourced from [Dune](https://dune.com/ilemi/jupiter-aggregator-solana).
 
 2024-05-13 Mon: Looked into archetecture of Vertex. Created [dashboard](https://dune.com/aishlia/arbitrum-perp) for top 100 wallets on Vertex and GMX. 
