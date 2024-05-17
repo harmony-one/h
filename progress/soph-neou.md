@@ -1,3 +1,10 @@
+**2024-05-17: Weekly update**
+
+This week, I set up a new log collection server utilizing our Grafana/Loki/Promtail stack, which is now actively logging data from all the devnet nodes. User testing is currently in progress. Additionally, the testnet Blockscout Explorer was launched on Wednesday and accessible https://explorer.testnet.harmony.one
+
+On the protocol side, I collaborated with Gheis to address the mainnet bootnode issue, which a fix currently being tested without issue. Concurrently, I worked with Konstantin on resolving the crosslink issue in testnet/devnet, with multiple leads being pursued and 2 PRs ([4669](https://github.com/harmony-one/harmony/pull/4669) and [4671](https://github.com/harmony-one/harmony/pull/4671)) currently under review.
+
+--- 
 
 **2024-05-10: Weekly update**
 
