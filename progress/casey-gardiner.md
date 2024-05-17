@@ -1,4 +1,4 @@
-**Weekly Progress Update: 2024-05-17**
+**Weekly Progress Update: 2024-05-17**<br>
 **On-Call Responsibilities:**
 * Managed multiple issues related to testnet and mainnet.
 * Coordinated the release of the Blockscan Explorer with the Protofire team.
