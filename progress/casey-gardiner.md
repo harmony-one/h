@@ -1,3 +1,48 @@
+**Weekly Progress Update: 2024-05-17**
+**On-Call Responsibilities:**
+* Managed multiple issues related to testnet and mainnet.
+* Coordinated the release of the Blockscan Explorer with the Protofire team.
+* Primary focus on managing, testing, and fixing issues related to HIP-32 development.
+
+**Crosslink Boot Node Service File**<br>
+Troubleshooting Boot Node Issues:
+* Addressed Crosslink and Boot Node issues, with a PR from Konstantin focusing on fixes.
+* Identified the boot node issue as potentially stemming from the libP2P layer.
+* Tested QUIC protocol, various transporters, connection manager, and firewall settings without resolution.
+* Investigated metrics to understand the load and connections better, considering limiting boot node connections.
+* Planned to test the boot node on a different provider like AWS.
+* Discussed proper service file configuration for the boot node.
+* Ensured restart configurations were correct, with Soph double-checking for any other triggers.
+
+**Crosslink Validation and Processing:**
+* Addressed three crosslink validation issues: using the current committer to sign, forcing crosslinks due to no new blocks, and outdated thresholds.
+* Fixed the first two issues and continued work on the third.
+* Reviewed pending crosslinks during the snapshot DB restoration to mainnet.
+
+**Technical Discussions:**
+* Reviewed PRs and discussed ongoing updates for testnet and partner networks.
+* Analyzed the process costing heartbeat message and its functionality.
+* Monitored progress on boot nodes and reviewed pull requests.
+* Discussed the testnet explorer running on Blockscout and plans for Mainnet.
+
+**Research and Development**
+    
+**Coinbase Rosetta:**
+* Updated and tested Coinbase Rosetta documentation and integration (https://docs.cdp.coinbase.com/rosetta/docs/welcome/).
+* Worked on the Coinbase listing application with team members.
+
+**Validator Operations:**
+* Conducted extensive testing on current validator build operations.
+* Coordinated the update and upgrade of multiple modules and libraries to address ongoing issues.
+
+**Community Engagement and Outreach**
+
+**Event Planning:**
+* Researched possible venues and locations in Bangkok for Devcon in November to support the Harmony community.<br>
+
+This week has been marked by significant troubleshooting and coordination efforts, particularly related to HIP-32 development and validator operations. Focusing on technical configurations and community planning ensures ongoing progress and readiness for upcoming events and network updates.
+
+___
 **Harmony Protocol Q1 2024 Performance Report**
 
 Q1 of 2024 has been a period of significant advancements and solid growth for the Harmony Protocol, underpinned by strategic technical leadership, robust research initiatives, and active community engagement. As the Lead Protocol Engineer and Researcher, my contributions spanned various critical aspects of our project's development, from leading protocol discussions to conducting vital research that will shape the future of our network. This report outlines the essential areas of my involvement and their impact on the Harmony ecosystem.
