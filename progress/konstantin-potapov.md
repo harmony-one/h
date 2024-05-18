@@ -1,8 +1,12 @@
-2024-05-10 Fri: This week, I have reviewed the dev branch and investigated issues with the bootnode. I've merged the pprof PR into the dev and created an issue with the dump for further investigation, which seems to be deeply rooted in the libp2p implementation. Additionally, I've been reading about the HotStuff consensus protocol and its rust implementation.    
+2024-05-17 Fri: This week, I fixed three issues with crosslinks. Additionally, I removed the NthNextHmyExt method, which had a bug in its implementation but was not used in the production code.      
 
 ---
 
-2024-05-03 Fri: This week, i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging. And i was collaborating with Adam on harmony smart contract development. 
+2024-05-10 Fri: This week I have reviewed the dev branch and investigated issues with the bootnode. I've merged the pprof PR into the dev and created an issue with the dump for further investigation, which seems to be deeply rooted in the libp2p implementation. Additionally, I've been reading about the HotStuff consensus protocol and its rust implementation.    
+
+---
+
+2024-05-03 Fri: This week i implemented unpredictable leader rotation by VRF function. Additionally, i was working with Uladzislau on bootnodes update, they consumed too much resources, we increased limits and added profiling information for future debugging. And i was collaborating with Adam on harmony smart contract development. 
 
 ---
 
