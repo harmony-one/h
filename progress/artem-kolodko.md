@@ -8,6 +8,10 @@ While working on implementing the Bridge in the Harmony Portfolio, I aimed to ut
 
 ---
 
+2024-05-17 Fri: configured IPFS (it's required to deploy systetix), testing existed Syntetix deployment scripts for Arbitrum Sepolia
+
+2024-05-16 Thu: Syntetix deployment: researching [core protocol](https://github.com/Synthetixio/v3-contracts) repo and scripts, settings up local IPFS
+
 2024-05-15 Wed: Harmony Portfolio: [added](https://github.com/harmony-one/harmony-portfolio/commit/2e2fcd16366423d147a46251a9c73b050cc2ad1a) notification of latest bridge operation, if user close the page before it completes; continue working on [Systetix](https://github.com/Synthetixio/synthetix-deployments) deployment
 
 2024-05-14 Tue: Look into Syntetix [deployment scripts](https://github.com/Synthetixio/synthetix-deployments) and docs
