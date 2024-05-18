@@ -12,6 +12,7 @@ later, to address the boot node issue, I tested several solutions:
 - Tested only the TCP transporter and removed UDP.
 - Used default values for Kademlia (KDM).
 - Changed the multiplexer.
+- Disabled the libp2p host relayers
 - Disabled the firewall.
 - Readjusted log flags.
 - Updated the boot node service file.
