@@ -1,4 +1,4 @@
-**2024-19-18 Sat:**
+**2024-05-18 Sat:**
 Last week, my main focus was on resolving the boot node issue. The boot nodes kept restarting with several debug logs related to the lower layers of libp2p, such as the QUIC protocol, p2p multiplexers, and session failures. The upgrade of the mainnet boot nodes caused these problems, which stemmed from the lower layers, limiting our immediate control.
 
 Upon investigation, I discovered that several issues were addressed in newer versions of libp2p. I upgraded the main branch to the latest version of libp2p, refactored parts of the code, resolved all conflicts, and built a new binary. Testing this on the boot node improved stability, but some vague logs persisted.
