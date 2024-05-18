@@ -1,3 +1,5 @@
+2024-05-17 Fri: Filled "stats dashboard" and "liquidity: orders (orderbook), pools (LP, liquidty)" columns of /chart. Reviewed LayerZero airdrop forum post.
+
 2024-05-16 Thu: Began hunting down datasets for fee and rev figures on /chart.
 
 2024-05-15 Wed: Worked on collecting information for /chart. 
