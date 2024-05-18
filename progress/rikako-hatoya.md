@@ -1,3 +1,5 @@
+2024-05-17 Fri: Filled in "user guide", "whitepaper", "audit", "token symbol", "top contributor", "hacks/incidents" on /chart. Need to still complete "BTC bridge" and some of the "whitepapers" that I couldn't find.
+
 2024-05-16 Thu: Researched and added links for "Github", "docs", and "website" for /chart. Looked through existing charts and tables for dydx perpetual data on Dune to find the right asset for analyzing top traders and most profitable trades.
 
 2024-05-15 Wed: Worked on /chart with Alaina, added all the data for 14 rows (from "0x" to "Perp v2".) Looked through 10+ datasets on GMX perpetual, found the most relevant one and analyzed the most profitable trades for all users + top 1000 users with the most PnL on Dune ([documentation](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md), [dashboard](https://dune.com/rikaharmony/gmx-dydx-stats)). Searched for datasets for dydx perpetual.
