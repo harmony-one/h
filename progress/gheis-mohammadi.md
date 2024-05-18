@@ -1,3 +1,29 @@
+**2024-19-18 Sat:**
+Last week, my main focus was on resolving the boot node issue. The boot nodes kept restarting with several debug logs related to the lower layers of libp2p, such as the QUIC protocol, p2p multiplexers, and session failures. The upgrade of the mainnet boot nodes caused these problems, which stemmed from the lower layers, limiting our immediate control.
+
+Upon investigation, I discovered that several issues were addressed in newer versions of libp2p. I upgraded the main branch to the latest version of libp2p, refactored parts of the code, resolved all conflicts, and built a new binary. Testing this on the boot node improved stability, but some vague logs persisted.
+
+I then noticed that the QUIC protocol could be disabled. After disabling it and conducting further tests, the boot nodes remained unstable. 
+
+later, to address the boot node issue, I tested several solutions:
+
+- Added a few flags for the connection manager.
+- Used the default connection manager.
+- Tested only the TCP transporter and removed UDP.
+- Used default values for Kademlia (KDM).
+- Changed the multiplexer.
+- Disabled the firewall.
+- Readjusted log flags.
+- Updated the boot node service file.
+
+Despite these efforts, the instability persisted. Each test required updating the code, building the binary, deploying to the boot node, and waiting for results, which took a few hours each time.
+
+Ultimately, I disabled all libp2p features on the boot nodes, which resulted in stability. We monitored the stable system for a while, and things looked promising. Subsequently, I re-enabled the features one by one. This incremental approach proved successful, and the tests confirmed that the issue was resolved.
+
+I am now preparing the final PR to upgrade all boot nodes this week.
+
+---
+
 **2024-05-11 Sat:**
 Last week, our primary focus was on resolving the boot node issues. We conducted several investigations into the matter, and although progress has been made, we are still actively working on it. Personally, I dedicated time to addressing the out-of-sync issue by meticulously reviewing logs and eliminating any unnecessary ones.
 
