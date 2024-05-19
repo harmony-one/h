@@ -1,3 +1,5 @@
+2024-05-18 Sat: Finished filling in the remainder cells for /chart ("whitepaper", "BTC bridge", and some of "ETH bridge"). 
+
 2024-05-17 Fri: Filled in "user guide", "whitepaper", "audit", "token symbol", "top contributor", "hacks/incidents" on /chart. Need to still complete "BTC bridge" and some of the "whitepapers" that I couldn't find.
 
 2024-05-16 Thu: Researched and added links for "Github", "docs", and "website" for /chart. Looked through existing charts and tables for dydx perpetual data on Dune to find the right asset for analyzing top traders and most profitable trades.
