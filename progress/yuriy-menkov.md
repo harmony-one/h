@@ -12,6 +12,10 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-20 Mon: Updated script for a more correct selection of Uniswap liquidity pools owners. Now, to get all Uniswap operations, we load all Mint events from [Uniswap subgraph](https://api.thegraph.com/subgraphs/name/nick8319/uniswap-v3-harmony/graphql) api and then filter events by tokens, so that the Uniswap liquidity pool creation operation contain one or more bridge token; Continue work on gmx v1 scripts deploy.
+
+---
+
 2024-05-17 Fri: LayerZero oken airdrop: Created a script to load user balances through the explorer API - this is how we want to identify holders with a balance of more than $50; Studied the API and methods for downloading addresses of Swap LP holders - to compare x with LZ broge transfers and generate LP owners list; Reviewed the [proposal](https://www.notion.so/harmonyone/Harmony-LayerZero-Bridge-Form-d8bc6c090d274b9dad28a7b5191d4078) from Theo; Returning to gmx v1 tasks;
 
 2024-05-16 Thu: Received new instructions from Theo regarding the terms of token allocation. We want to introduce 3 new categories: users that bridged, users that provided layerzero LP in Swap, users that hold at least $100 worth of layerzero OFT. For the first category we already have statistics, for the 3rd category we can obtain them based on bridge operations. I'm working on getting statistics on interaction with Swap.
