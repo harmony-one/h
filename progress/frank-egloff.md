@@ -1,6 +1,12 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-19 Sun: Completed the required explorer updates: let's not show/flash empty blocks and hide "network utilization." The changes affect mobile and desktop versions. Send the corresponding [PR](https://github.com/fegloff/bs-frontend/pull/1) to Casey for review.
+
+2024-05-17 Fri: Finished the required explorer updates: autofocus on the search input field when loading, remove the red "testnet" label at the left top corner, capitalize "Harmony Testnet Explorer," spell out "txn hash" -> "transaction hash," "ETH" -> "ETH / ONE address," and remove "Dim" mode option. Send the corresponding [PR](https://github.com/protofire/bs-frontend/pull/13). 
+
+2024-05-16 Thu: Despite initial challenges with the Explorer local environment, the issue was that I was working on the wrong repo. Once forked the correct one ([protofire/bs-frontend](https://github.com/protofire/bs-frontend), I was able to make progress. Had personal matters to attend to.   
+
 2024-05-15 Wed: Continued working on Vertex's trade app porting and updating the Explorer app. However, had issues with the local environment with the corepack package and am working on fixing it.  
 
 2024-05-14 Tue: Kept reviewing Vertex's trade app architecture/logic. 
