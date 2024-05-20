@@ -109,3 +109,7 @@ Assuming these limitations can be overcome using other tools (such as Etherscan 
 
 Arbitrum offers both official RPC node and a long list of third-party RPC providers. See https://docs.arbitrum.io/build-decentralized-apps/reference/node-providers. The cost and complexity for setting up a self-hosted Arbitrum node is low: the minimum requirement appears to be 1TB NVMe SSD hard drive, 4-core CPU, and 16GB RAM, based on https://docs.arbitrum.io/run-arbitrum-node/run-full-node. This makes implementing a custom indexer using a self-hosted node a much superior option than Etherscan from a long-term cost perspective. 
 
+
+### Proprietary API
+
+Birdeye.so seems to have already analyzed trades and traders and can provide a sorted list of traders given a token or trading-pair. See documentation at: https://docs.birdeye.so/reference/get_defi-txs-pair. This is only available for some chains (including Arbitrum)
