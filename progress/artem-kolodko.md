@@ -8,6 +8,10 @@ While working on implementing the Bridge in the Harmony Portfolio, I aimed to ut
 
 ---
 
+2024-05-20 Mon: working on synthetix deployment: fixed issue with IPFS, almost completed test deploy on Arbitrum Sepolia, but got an error "Signer does not have publishing permissions on the "synthetix-perps-market" package". Didn't find any information about granting permissions, [asked](https://discord.com/channels/413890591840272394/459603818246701056/1242168007434698803) synthetix community to help in official Discord channel.
+
+---
+
 2024-05-17 Fri: configured IPFS (it's required to deploy systetix), testing existed Syntetix deployment scripts for Arbitrum Sepolia
 
 2024-05-16 Thu: Syntetix deployment: researching [core protocol](https://github.com/Synthetixio/v3-contracts) repo and scripts, settings up local IPFS
