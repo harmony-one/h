@@ -1,3 +1,5 @@
+---
+
 2024-05-19 Sun (1.0h): Revised for some missing cells on /chart. A lot of projects seemed to be missing whitepaper.
 
 2024-05-18 Sat (2.0h): Finished filling in the remainder cells for /chart ("whitepaper", "BTC bridge", and some of "ETH bridge"). 
