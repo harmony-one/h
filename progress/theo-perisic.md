@@ -1,3 +1,9 @@
+2024-05-19 Sun: (1.0 hr) Answering community questions for airdrop. No response yet from Layerzero on amount of allocation. 
+
+2024-05-18 Sat: (3.0 hr) Added list of eligible wallets for the current categories and percentage, finalization will occur after community and layer zero review.
+
+2024-05-17 Fri: Completion of LayerZero form, posted to community forum for review, deadline of review May 24th 2024, deadline for submission May 31st 2024.
+
 2024-05-16 Thu: CSV for bridging by May 1st snapshot complete. Current split for the Harmony LayzerZero Airdrop, Note: UNFINALIZED, (45% Users that have bridged OFTs, 30% Liquidity Providers, 15% Recovery Contributors, 10% Developer Account) sharing with Casey and Soph for feedback, and Layer Zero for potential issues.
 
 2024-05-15 Wed: Following sync with Soph and Yuriy, expanded LayerZero allocations to include more than just bridging. (Swap liquidity providing included as well) Metric: 450k unique wallets have interacted with the Harmony LayerZero Bridge.  
@@ -8,9 +14,9 @@
 
 ---
 
-2024-05-12 Sun: [1hr] Read required messari articles on Synthetix Perpetuals.
+2024-05-12 Sun: (1.0h) Read required messari articles on Synthetix Perpetuals.
 
-2024-05-11 Sat: [1hr] Continued discussions with David from Swoop, now we have a group with OpenOcean on telegram, next steps will include Swap support, or alternative suggestions on their end.
+2024-05-11 Sat: (1.0h) Continued discussions with David from Swoop, now we have a group with OpenOcean on telegram, next steps will include Swap support, or alternative suggestions on their end.
 
 2024-05-10 Fri: Sync with Julia for OpenOcean integration for larger presence of Harmony on Swoop. Reached out to DIA to start discussions we previously moved on from, again working towards amplifying our ecosystem oracle support for each decentralized application.
 
