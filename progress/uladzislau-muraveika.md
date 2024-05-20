@@ -1,3 +1,11 @@
+2024-05-17: Weekly update
+
+During this week, I tried different approaches for Nginx monitoring, found the most generic one, and started to roll it out to the devnet. It will help the team understand the current state of our RPC endpoints and how users are using them
+
+On the protocol side, I conducted an initial investigation into the bootnode issue and shared all the information, including Quic protocol usage, incoming IPs, and libp2p troubleshooting manuals, which helped Gheis and Soph with the fix. Additionally, I assisted in spinning up an AWS instance for the bootnode test.
+
+I helped validator users with testnet validator sync issues, which is crucial for the network usage.
+
 2024-05-10 Friday: The main focuses on this week(9th of May was a holiday):
 * nginx-module-vts -> Prometheus -> Grafana monitoring tool set:
   * created a dashboard in Grafana to show the load state on Nginx
