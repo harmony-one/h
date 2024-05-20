@@ -1,3 +1,5 @@
+2024-05-19 Sun (1.0h): Revised for some missing cells on /chart. A lot of projects seemed to be missing whitepaper.
+
 2024-05-18 Sat (2.0h): Finished filling in the remainder cells for /chart ("whitepaper", "BTC bridge", and some of "ETH bridge"). 
 
 2024-05-17 Fri: Filled in "user guide", "whitepaper", "audit", "token symbol", "top contributor", "hacks/incidents" on /chart. Need to still complete "BTC bridge" and some of the "whitepapers" that I couldn't find.
