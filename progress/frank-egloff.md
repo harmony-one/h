@@ -1,6 +1,9 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-20 Mon: Sent [PR](https://github.com/protofire/interface/pull/5) to change tooltip text on Swap Interface (_Network Fee are paid to the ~~Ethereum~~ Harmony network to secure transactions_). This task was delayed due to local deployment issues, which were tested with different node/yarn configurations on Mac M1 and Windows OS, with no success. There is an issue when running GraphQL scripts due to two files missing. The Protofire team sent me the missing files (src/graphql/data/schema.graphql and src/graphql/thegraph/schema.graphql) and the issue was resolved. Also, worked on adding Harmony metadata/token to the Vertex common package and trade app (will send a PR on Tuesday).  
+
+---
 2024-05-19 Sun: Completed the required explorer updates: _let's not show/flash empty blocks and hide "network utilization_. The changes affect mobile and desktop versions. Sent the corresponding [PR](https://github.com/fegloff/bs-frontend/pull/1) to Casey for review.
 
 2024-05-17 Fri: Finished the required explorer updates: _autofocus on the search input field when loading, remove the red "testnet" label at the left top corner, capitalize "Harmony Testnet Explorer," spell out "txn hash" -> "transaction hash," "ETH" -> "ETH / ONE address," and remove "Dim" mode option_. Sent the corresponding [PR](https://github.com/protofire/bs-frontend/pull/13). 
