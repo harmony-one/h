@@ -1,4 +1,5 @@
 2024-05-17 Friday - Updates:<br>
+
 Exploring further into 3rd party defi protocols (dydx, gains, oasis, ...)<br>
 -Analysis of GainsNetwork gTrade-v6 contracts https://github.com/GainsNetwork/gTrade-v6/tree/main/contracts and test deployments to local testnet <br>
 -exercise: liquid staking of stONE <> wstETH<br>
