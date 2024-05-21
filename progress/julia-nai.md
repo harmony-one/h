@@ -1,3 +1,11 @@
+2024-05-20 Mon: Read vertex edge medium post and review Interactive Broker. Begin filling "last commit" /chart column from repo sources. 
+
+---
+
+2024-05-19 Sun (1.0h): Read over substack [article](https://stse.substack.com/p/perps-invincible-summer-of-1000x) and links. 
+
+2024-05-18 Sat (1.0h): Sourcing missing "liquidity" column items.
+
 2024-05-17 Fri: Filled "stats dashboard" and "liquidity: orders (orderbook), pools (LP, liquidty)" columns of /chart. Reviewed LayerZero airdrop forum post.
 
 2024-05-16 Thu: Began hunting down datasets for fee and rev figures on /chart.
