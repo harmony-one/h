@@ -1,4 +1,4 @@
-2024-05-20 Mon:
+2024-05-20 Mon: Completed 'mainnet launch date'. Added some parts to 'forked from', 'block finality', 'roadmap', 'whitepaper', 'audit', 'BTC bridge'. Added 'twitter', 'blog', 'github', 'userguide' for newly added projects. Tomorrow: complete 'forked from', 'block finality', 'transaction finality', 'match finality'.
 
 ---
 
