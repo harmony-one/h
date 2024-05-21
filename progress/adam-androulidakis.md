@@ -1,4 +1,11 @@
-
+2024-05-17 Friday - Updates:
+Exploring further into 3rd party defi protocols (dydx, gains, oasis, ...)<br>
+-Analysis of GainsNetwork gTrade-v6 contracts https://github.com/GainsNetwork/gTrade-v6/tree/main/contracts and test deployments to local testnet <br>
+- exercise: liquid staking of stONE <> wstETH<br>
+- wrapping up writeup (WIP)<br>
+-investigate issues with devsnode validator. OS will not boot. Rebuilt OS and SSD appears to have read issues. <br>I went and physically bought a replacement drive and new drive should be up shortly<br>
+<br>
+---
 2024-05-10 Friday - Weekly Update: <br>
 -come up with an in-game beat, not too repetitive, too long or too short, and implement in uninterrupted loop <br>
 https://github.com/adsorptionenthalpy/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e <br>
