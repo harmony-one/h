@@ -12,7 +12,9 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
-2024-05-20 Mon: Updated script for a more correct selection of Uniswap liquidity pools owners. Now, to get all Uniswap operations, we load all Mint events from [Uniswap subgraph](https://api.thegraph.com/subgraphs/name/nick8319/uniswap-v3-harmony/graphql) api and then filter events by tokens, so that the Uniswap liquidity pool creation operation contain one or more bridge token; Continue work on gmx v1 scripts deploy.
+2024-05-21 Tue: [Completed](https://github.com/harmony-one/gmx-contracts/pull/1) draft version for gmx deploy script to harmony. Contracts deploy working correct, continue testing base cases with base [gmx tests](https://github.com/harmony-one/gmx-contracts/tree/master/test). Also inspecting gmx [frontend](https://github.com/gmx-io/gmx-interface) part to integrate it with harmony contracts.
+
+2024-05-20 Mon: Updated script for a more correct selection of Uniswap liquidity pools owners. Now, to get all Uniswap operations, we load all Mint events from [Uniswap subgraph](https://api.thegraph.com/subgraphs/name/nick8319/uniswap-v3-harmony/graphql) api and then filter events by tokens, so that the Uniswap liquidity pool creation operation contain one or more bridge token; Continue work on gmx v1 deploy script: fixed a bug with the gasPrice and gasLimit used, adjusted the binding to the native WONE token. 
 
 ---
 
