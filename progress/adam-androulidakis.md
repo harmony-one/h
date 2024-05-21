@@ -1,8 +1,8 @@
-2024-05-17 Friday - Updates:
+2024-05-17 Friday - Updates:<br>
 Exploring further into 3rd party defi protocols (dydx, gains, oasis, ...)<br>
 -Analysis of GainsNetwork gTrade-v6 contracts https://github.com/GainsNetwork/gTrade-v6/tree/main/contracts and test deployments to local testnet <br>
-- exercise: liquid staking of stONE <> wstETH<br>
-- wrapping up writeup (WIP)<br>
+-exercise: liquid staking of stONE <> wstETH<br>
+-wrapping up writeup (WIP)<br>
 -investigate issues with devsnode validator. OS will not boot. Rebuilt OS and SSD appears to have read issues. <br>I went and physically bought a replacement drive and new drive should be up shortly<br>
 <br>
 ---
