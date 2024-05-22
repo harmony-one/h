@@ -1,4 +1,7 @@
-2024-05-20 Mon: Completed 'mainnet launch date'. Added some parts to 'forked from', 'block finality', 'roadmap', 'whitepaper', 'audit', 'BTC bridge'. Added 'twitter', 'blog', 'github', 'userguide' for newly added projects. Tomorrow: complete 'forked from', 'block finality', 'transaction finality', 'match finality'.
+2024-05-21 Tue: Read ["Invincible Summer" post](https://stse.substack.com/p/perps-invincible-summer-of-1000x) and their links, researched into topics such as "order books", "history", "product roadmap", "synthetic margin trading", "crypto-native insurance", etc.
+Looked through "dydx v4", "GMX v2", "0x defi derivatives" contracts repo and docs. Looked into Solcasino and [top web3 gambling dApps](https://dappradar.com/rankings/category/gambling).
+
+2024-05-20 Mon: Completed 'mainnet launch date'. Added some parts to 'forked from', 'block finality', 'roadmap', 'whitepaper', 'audit', 'BTC bridge'. Added 'twitter', 'blog', 'github', 'userguide' for newly added projects. TO-DO: complete 'forked from', 'block finality', 'transaction finality', 'match finality'.
 
 ---
 
