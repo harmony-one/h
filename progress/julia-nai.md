@@ -1,3 +1,5 @@
+2024-05-21 Tue: Filled earnings, fees, users, and some interest column for top 10 on /chart. Researched Gains Network. Looked for forked public frontend (of 3 forks on DefiLlama, could not find public repo for any).
+
 2024-05-20 Mon: Read vertex edge medium post and review Interactive Broker. Begin filling "last commit" /chart column from repo sources. 
 
 ---
