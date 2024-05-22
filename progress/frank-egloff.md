@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-21 Tue: Continued working on Vertex's trade app, adding Harmony chain and One token. After Casey's review, sent PR to the Protofire team regarding the explorer block filter and worked on finding the development server issue on the Swap Interface app.
+
 2024-05-20 Mon: Sent [PR](https://github.com/protofire/interface/pull/5) to change tooltip text on Swap Interface (_Network Fee are paid to the ~~Ethereum~~ Harmony network to secure transactions_). This task was delayed due to local deployment issues, which were tested with different node/yarn configurations on Mac M1 and Windows OS, with no success. There is an issue when running GraphQL scripts due to two files missing. The Protofire team sent me the missing files (src/graphql/data/schema.graphql and src/graphql/thegraph/schema.graphql) and the issue was resolved. Also, worked on adding Harmony metadata/token to the Vertex common package and trade app (will send a PR on Tuesday).  
 
 ---
