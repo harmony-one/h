@@ -1,3 +1,13 @@
+2024-05-21 Tue (4.0h): (Continued) and review on option vault providers, Ribbon Finance, streaming premium analysis. Detailed review on Vertex design, Solidity implementations.
+
+2024-05-20 Mon (5h): Quick review on GMX code. Review on Phoenix technical designs, implementation, SDK, and settlement mechanism. Quick review on Defi derivative resources. Quick review on Vertex APIs. Detailed review and discussion on Vertex offchain order matching, sequencer, and hybrid automated market maker. Detailed research and review on Panoptic, streaming premium design, option vaults, and options activities in practice
+
+2024-05-19 Sun (3.5h): Review Perp Defi resource list and references. Quick review on Jupiter audits, security, stack, code, portability, and technical specification. Quick review on Birdeye trader data, TradingView integrations, calendar, and unique data sources. Review Jupiter API, research proposals, algorithmic trading discussions. Create notes on Jupiter
+
+2024-05-18 Sat (2h): Detailed review on design and history of Squeeth and related derivatives, and Jupiter pool design, dollar cost average design and mechanisms. Quick review on Phoenix exchange, orderbook contracts
+
+2024-05-17 Fri (3.5h): Detailed review and analysis of Jupiter design, mechanism, pools, and some code
+
 2024-05-13 Mon (1.5h): Review Jupiter documentation and quick research on mechanisms and code. Analysis on key uncertainties for copy-trading, complete analysis on RPC, and polishing prior sections 
 
 2024-05-12 Sun (4h): Discussion and analysis on copy-trade data acquisition methods. Research on The Graph, Nansen, Arbitrum RPC, Dune queries in practice
