@@ -1,3 +1,7 @@
+2024-05-21 Tue: Additions to coinbase doc for relevant ecosystem dapps and partners. 35 ecosystem dapps and partners added, will continue with formatting tomorrow.
+
+2024-05-20 Mon: Iterations on Layerzero, no updates on allocation amount from their team, removing core team developer allocation for complete community airdrop. 50% bridge users, 30% liquidity providers, 20% recovery contributors.
+
 2024-05-19 Sun: (1.0 hr) Answering community questions for airdrop. No response yet from Layerzero on amount of allocation. 
 
 2024-05-18 Sat: (3.0 hr) Added list of eligible wallets for the current categories and percentage, finalization will occur after community and layer zero review.
