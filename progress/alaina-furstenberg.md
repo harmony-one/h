@@ -1,5 +1,9 @@
 
-2024-05-12 Tue: 
+2024-05-14 Thu - 2024-05-22 Wed: Paid Time Off
+
+2024-05-13 Wed: Filling out harmony.one/chart, preparing twitter content for PTO, plus mocking [bridge.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=c0CrmLUp4quRSRQG-1)
+
+2024-05-12 Tue: Filling out harmony.one/chart and finalizing [mocks for swap.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=91%3A3&t=dupclP4PzX8SANEt-1)
 
 2024-05-13 Mon: [Mocks for swap.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=91%3A3&t=dupclP4PzX8SANEt-1) based off SushiSwap. Team operations regarding /progress. 
 
