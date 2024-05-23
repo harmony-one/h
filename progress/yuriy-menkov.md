@@ -12,6 +12,8 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-23 Thu: Worked on harmony gmx v1 interface: [added](https://github.com/harmony-one/gmx-interface/commit/6aebf5ac42468e44395d93272fd105869dfc2a5a) more harmony configuration settings, fixed bugs. Forked [gmx-subgraph](https://github.com/harmony-one/gmx-subgraph) to harmony. Inspected other backend services for gmx app: stats and main api. [Stats](https://github.com/gmx-io/gmx-stats) looks ok for migration. However, сould not find repositories for the main API service, continue research.
+
 2024-05-22 Wed: [Added](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) gmx contracts deploy notes (links, changes description, deploy instruction and logs). [Forked](https://github.com/harmony-one/gmx-interface) GMX app interface repo to harmony and [added]([https://github.com/harmony-one/gmx-interface/commits/harmony](https://github.com/harmony-one/gmx-interface/commit/73f9e097a6504034f7263ec71c93c3808dceb274)) harmony contracts for testing. Studing server side part integration required to run the gmx app. 
 
 2024-05-21 Tue: [Completed](https://github.com/harmony-one/gmx-contracts/pull/1) draft version for gmx deploy script to harmony. Contracts deploy working correct, continue testing base cases with base [gmx tests](https://github.com/harmony-one/gmx-contracts/tree/master/test). Also inspecting gmx [frontend](https://github.com/gmx-io/gmx-interface) part to integrate it with harmony contracts.
