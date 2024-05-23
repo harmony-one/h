@@ -1,3 +1,5 @@
+2024-05-22 Wed: Forked Yuriy's GMX v1 deploy code, looked into docs and worked through how to replicate.
+
 2024-05-21 Tue: Read ["Invincible Summer" post](https://stse.substack.com/p/perps-invincible-summer-of-1000x) and their links, researched into topics such as "order books", "history", "product roadmap", "synthetic margin trading", "crypto-native insurance", etc.
 Looked through "dydx v4", "GMX v2", "0x defi derivatives" contracts repo and docs. Looked into Solcasino and [top web3 gambling dApps](https://dappradar.com/rankings/category/gambling).
 
