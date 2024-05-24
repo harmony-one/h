@@ -1,3 +1,5 @@
+2024-05-23 Thu: Continued replicating GMX v1 code, read through contracts/docs. Read many articles and researched on trading: strategies, options trading, Messari & Delphi digital reports, perp comparisons.
+
 2024-05-22 Wed: Forked Yuriy's GMX v1 deploy code, looked into docs, and worked on replication + understanding code.
 
 2024-05-21 Tue: Read ["Invincible Summer" post](https://stse.substack.com/p/perps-invincible-summer-of-1000x) and their links, researched into topics such as "order books", "history", "product roadmap", "synthetic margin trading", "crypto-native insurance", etc.
