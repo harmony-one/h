@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-23 Thu: Fixed chains configuration issues. Had issues linking the Harmony chain to the wallet connection on the navigation component; working on it. 
+
 2024-05-22 Wed: Kept working on adding [Harmony chain and One token](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/1) to the Trade App and added HarmonyTestnet chain.
 
 2024-05-21 Tue: Continued working on Vertex's trade app, adding Harmony chain and One token. After Casey's review, sent PR to the Protofire team regarding the explorer block filter and worked on finding the development server issue on the Swap Interface app.
