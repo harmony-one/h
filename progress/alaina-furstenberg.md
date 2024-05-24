@@ -1,3 +1,6 @@
+2024-05-24 Fri: Harmony perps blog post + [twitter thread](https://x.com/harmonyprotocol/status/1794089105116070054). Updated the community section and continued writing the blog post on Blockscout Mainnet Explorer Launch, to be released Monday.
+
+2024-05-23 Thu: Beginning draft of blog post on Blockscout Mainnet Explorer Launch. Mocks on [bridge.harmony.one](https://www.figma.com/design/qDg2rk0BivJwe98nM0l1gN/swap-refresh?node-id=0%3A1&t=c0CrmLUp4quRSRQG-1) and continued revisions to the swap mocks.
 
 2024-05-14 Thu - 2024-05-22 Wed: Paid Time Off
 
