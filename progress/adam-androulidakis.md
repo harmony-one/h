@@ -1,6 +1,12 @@
+2024-05-24 Friday - Weekly update: <br>
+-Spent a good chunk of my week getting some of these validator nodes in order. Configured a new bare metal server from scratch using recovered keys and new hardware including 8TB Raid1. <br>
+-devops on-call duties (part 1) https://docs.google.com/document/d/1SQwAozqyNJBTbcX18YStZqQtMYyde46Nb-Z9jhgWrvs <br>
+-Review PRs fixing bootnode instability issues (w/ Gheis) 
+-Research on econ and finance topics and anything pertaining to "perpetuals/futures contracts"
+
 2024-05-17 Friday - Updates: <br>
 
-Exploring further into 3rd party defi protocols (dydx, gains, oasis)<br>
+-Exploring further into 3rd party defi protocols (dydx, gains, oasis)<br>
 -Analysis of GainsNetwork gTrade-v6 contracts https://github.com/GainsNetwork/gTrade-v6/tree/main/contracts and test deployments to local testnet <br>
 -exercise: liquid staking of stONE <> wstETH<br>
 -wrapping up writeup (WIP)<br>
