@@ -1,9 +1,11 @@
 **2024-05-25 Sat**
 Last week, I finalized the PR[#4674](https://github.com/harmony-one/harmony/pull/4674) to address the bootnode issue. This PR includes the following changes:
+
 - Removed QUIC, an unnecessary feature, and switched to TCP transport.
 - Made TLS/Noise, relays, and NAT optional features that can be disabled via configuration.
 - Added a dial timeout for the connection manager.
 - Allowed the use of the MPlex muxer in addition to Yamux.
+
 This PR was approved and successfully tested on two bootnodes on the mainnet, effectively resolving the issue. Subsequently, I implemented the same changes[#4676](https://github.com/harmony-one/harmony/pull/4676) for the dev branch. We hoped this PR would also help with the syncing issue, but it did not. The new P2P host configurations need to be carefully planned for mainnet deployment to ensure all nodes use consistent P2P protocol configurations. The team is working on a phased approach for this rollout.
 
 I reviewed a few PRs related to crosslink issues. These PRs have been updated, approved, and are ready for merging.
