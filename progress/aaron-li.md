@@ -1,4 +1,10 @@
-2024-05-21 Tue (4.0h): (Continued) and review on option vault providers, Ribbon Finance, streaming premium analysis. Detailed review on Vertex design, Solidity implementations.
+2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes 
+
+2024-05-23 Thu (4h): Quick review on recent regulatory compliance updates, content and impact of pending congressional bills, and updates for impactful cases on appeal
+
+2024-05-22 Wed (4.5h): Research and review on Vertex Edge and general system design, cross-margin design, health subaccounts, insurance, liquidation, PnL calculation 
+
+2024-05-21 Tue (4h): (Continued) and review on option vault providers, Ribbon Finance, streaming premium analysis. Detailed review on Vertex design, Solidity implementations.
 
 2024-05-20 Mon (5h): Quick review on GMX code. Review on Phoenix technical designs, implementation, SDK, and settlement mechanism. Quick review on Defi derivative resources. Quick review on Vertex APIs. Detailed review and discussion on Vertex offchain order matching, sequencer, and hybrid automated market maker. Detailed research and review on Panoptic, streaming premium design, option vaults, and options activities in practice
 
