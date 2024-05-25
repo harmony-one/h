@@ -1,6 +1,8 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-24 Fri: Fixed 1Bot multiple command handling due to context mixing on llms API calls. Also, added the [Openai GPT-4o model](https://github.com/harmony-one/HarmonyOneBot/pull/362), linked to /gpto command.
+
 2024-05-23 Thu: Fixed chains configuration issues. Had issues linking the Harmony chain to the wallet connection on the navigation component; working on it. 
 
 2024-05-22 Wed: Kept working on adding [Harmony chain and One token](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/1) to the Trade App and added HarmonyTestnet chain.
