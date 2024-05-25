@@ -1,3 +1,7 @@
+2024-05-24 Fri: This week, Soph discovered another way to sign crosslink. I implemented a new version that not only improves the sender side (as the previous version did) but also enhances the receiver side, making it more suitable for our needs. Additionally, I worked on asynchronous code, specifically on two functions that execute in an unpredictable order. The pull request for this is completed but is dependent on the functionality of another unmerged PR.        
+
+---
+
 2024-05-17 Fri: This week, I fixed three issues with crosslinks. Additionally, I removed the NthNextHmyExt method, which had a bug in its implementation but was not used in the production code.      
 
 ---
