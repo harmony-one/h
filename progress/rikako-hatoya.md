@@ -1,3 +1,5 @@
+2024-05-24 Fri: Continued market research by reading through the links as posted on "invincible summer". Looked up more into details of GMX technical overview (vault, routers, price feeds.)
+
 2024-05-23 Thu: Continued replicating GMX v1 code, read through contracts/docs. Read many articles and researched on trading: strategies, options trading, Messari & Delphi digital reports, perp comparisons.
 
 2024-05-22 Wed: Forked Yuriy's GMX v1 deploy code, looked into docs, and worked on replication + understanding code.
