@@ -1,4 +1,4 @@
-**2024-05-26 Sat**
+**2024-05-25 Sat**
 Last week, I finalized the PR[#4674](https://github.com/harmony-one/harmony/pull/4674) to address the bootnode issue. This PR includes the following changes:
 - Removed QUIC, an unnecessary feature, and switched to TCP transport.
 - Made TLS/Noise, relays, and NAT optional features that can be disabled via configuration.
