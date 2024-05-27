@@ -1,3 +1,11 @@
+**2024-05-24: Weekly update**
+
+I've continued working on crosslinks, spending significant time analyzing the overall logic for improvements and fixes in Konstantin's PR. The bootnode issue has been thoroughly tested on mainnet, resulting in confirmed improvements in service stability. Testing on devnet revealed connectivity issues with network nodes until all nodes were upgraded to the same version, suggesting a potential discrepancy in the new P2P configuration.
+
+Furthermore, devnet consensus has not remained stable for more than 48 hours. Multiple troubleshooting sessions indicated that nodes go out of sync even when they appear fully synced. To address this, we plan to test DNS sync to rule out a possible streamsync bug.
+
+---
+
 **2024-05-17: Weekly update**
 
 This week, I set up a new log collection server utilizing our Grafana/Loki/Promtail stack, which is now actively logging data from all the devnet nodes. User testing is currently in progress. Additionally, the testnet Blockscout Explorer was launched on Wednesday and accessible https://explorer.testnet.harmony.one
