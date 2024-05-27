@@ -1,3 +1,12 @@
+
+---
+
+2024-05-26 Sun:
+
+2024-05-25 Sat:
+
+2024-05-24 Fri:
+
 2024-05-23 Thu: Continued communications with layerzero team given the recent update, added to coinbase doc. Metric: 804+ Million transactions since mainnet on Harmony, almost 1 Billion! 
 
 2024-05-22 Wed: ONE Show X space speaker, topics covered: Layerzero, perpetuals, recovery elections, project spotlights, ideation on stake ONE to earn ALL assets (i.e. BTC ETH etc., potential implementation and integration with staking, swap, bridge, etc. to increase utility of staking ONE)
@@ -5,6 +14,8 @@
 2024-05-21 Tue: Additions to coinbase doc for relevant ecosystem dapps and partners. 35 ecosystem dapps and partners added, will continue with formatting tomorrow.
 
 2024-05-20 Mon: Iterations on Layerzero, no updates on allocation amount from their team, removing core team developer allocation for complete community airdrop. 50% bridge users, 30% liquidity providers, 20% recovery contributors.
+
+---
 
 2024-05-19 Sun: (1.0 hr) Answering community questions for airdrop. No response yet from Layerzero on amount of allocation. 
 
