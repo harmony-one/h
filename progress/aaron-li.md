@@ -1,34 +1,34 @@
-2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes 
+2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes. 
 
-2024-05-23 Thu (4h): Quick review on recent regulatory compliance updates, content and impact of pending congressional bills, and updates for impactful cases on appeal
+2024-05-23 Thu (4h): Quick review on recent regulatory compliance updates, content and impact of pending congressional bills, and updates for impactful cases on appeal.
 
-2024-05-22 Wed (4.5h): Research and review on Vertex Edge and general system design, cross-margin design, health subaccounts, insurance, liquidation, PnL calculation 
+2024-05-22 Wed (4.5h): Research and review on Vertex Edge and general system design, cross-margin design, health subaccounts, insurance, liquidation, PnL calculation.
 
 2024-05-21 Tue (4h): (Continued) and review on option vault providers, Ribbon Finance, streaming premium analysis. Detailed review on Vertex design, Solidity implementations.
 
-2024-05-20 Mon (5h): Quick review on GMX code. Review on Phoenix technical designs, implementation, SDK, and settlement mechanism. Quick review on Defi derivative resources. Quick review on Vertex APIs. Detailed review and discussion on Vertex offchain order matching, sequencer, and hybrid automated market maker. Detailed research and review on Panoptic, streaming premium design, option vaults, and options activities in practice
+2024-05-20 Mon (5h): Quick review on GMX code. Review on Phoenix technical designs, implementation, SDK, and settlement mechanism. Quick review on Defi derivative resources. Quick review on Vertex APIs. Detailed review and discussion on Vertex offchain order matching, sequencer, and hybrid automated market maker. Detailed research and review on Panoptic, streaming premium design, option vaults, and options activities in practice.
 
 ---
 
-2024-05-19 Sun (3.5h): Review Perp Defi resource list and references. Quick review on Jupiter audits, security, stack, code, portability, and technical specification. Quick review on Birdeye trader data, TradingView integrations, calendar, and unique data sources. Review Jupiter API, research proposals, algorithmic trading discussions. Create notes on Jupiter
+2024-05-19 Sun (3.5h): Review Perp Defi resource list and references. Quick review on Jupiter audits, security, stack, code, portability, and technical specification. Quick review on Birdeye trader data, TradingView integrations, calendar, and unique data sources. Review Jupiter API, research proposals, algorithmic trading discussions. Create notes on Jupiter.
 
-2024-05-18 Sat (2h): Detailed review on design and history of Squeeth and related derivatives, and Jupiter pool design, dollar cost average design and mechanisms. Quick review on Phoenix exchange, orderbook contracts
+2024-05-18 Sat (2h): Detailed review on design and history of Squeeth and related derivatives, and Jupiter pool design, dollar cost average design and mechanisms. Quick review on Phoenix exchange, orderbook contracts.
 
-2024-05-17 Fri (3.5h): Detailed review and analysis of Jupiter design, mechanism, pools, and some code
+2024-05-17 Fri (3.5h): Detailed review and analysis of Jupiter design, mechanism, pools, and some code.
 
-2024-05-13 Mon (1.5h): Review Jupiter documentation and quick research on mechanisms and code. Analysis on key uncertainties for copy-trading, complete analysis on RPC, and polishing prior sections 
+2024-05-13 Mon (1.5h): Review Jupiter documentation and quick research on mechanisms and code. Analysis on key uncertainties for copy-trading, complete analysis on RPC, and polishing prior sections.
 
 ---
 
-2024-05-12 Sun (4h): Discussion and analysis on copy-trade data acquisition methods. Research on The Graph, Nansen, Arbitrum RPC, Dune queries in practice
+2024-05-12 Sun (4h): Discussion and analysis on copy-trade data acquisition methods. Research on The Graph, Nansen, Arbitrum RPC, Dune queries in practice.
 
-2024-05-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options
+2024-05-10 Fri (5.5h): In-depth review of perpetual DEX analysis, collateral and fee distribution mechanisms, volumes, growth and adoptions. Review on dydx, GMX, Synthetix data. Quick additional review on Vertex and Jupiter. Quick review and discussion on depegged asset orderbook, recovery proposals, historical conclusions. Review Harmony Portfolio code development on bridging and token management. Review and discuss CSS systems and client framework options. Review, discuss, and close copy-trade tasks. Quick review on perpetual DEX fork options.
 
-2024-05-09 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design
+2024-05-09 Thu (1.5h): Review on perpetual DEX valuations, evolutions, design.
 
-2024-05-08 Wed (4.5h): Review on Harmony portofolio implementation, security, architecture. Quick review on Blockscout staking implementation in Elixir language. Research and review on perpetual DEX token design, mechanisms, usage and distribution
+2024-05-08 Wed (4.5h): Review on Harmony portofolio implementation, security, architecture. Quick review on Blockscout staking implementation in Elixir language. Research and review on perpetual DEX token design, mechanisms, usage and distribution.
 
-2024-05-07 Tue (1.5h): Review and discuss Q2 Defi plans, compliant issues on token launch and decentralization, geofencing and potential legal issues, layer 2 usage and analytics. Discuss registration and renewal procedure for reserved domains
+2024-05-07 Tue (1.5h): Review and discuss Q2 Defi plans, compliant issues on token launch and decentralization, geofencing and potential legal issues, layer 2 usage and analytics. Discuss registration and renewal procedure for reserved domains.
 
 2024-05-06 Mon (1h): Review and discuss data API access and latency between Dune, Nansen, dAppRadar, and alternatives. Debug and fix certificate issues for reewnable domains. 
 
@@ -36,27 +36,27 @@
 
 2024-05-04 Sat (3.0h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
 
-2024-05-03 Fri (3.0h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays
+2024-05-03 Fri (3.0h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays.
 
-2024-05-02 Thu (1.0h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects 
+2024-05-02 Thu (1.0h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects. 
 
-2024-05-01 Wed (1.0h): (Continued) and discuss practical limitations, implementation steps, tasks
+2024-05-01 Wed (1.0h): (Continued) and discuss practical limitations, implementation steps, tasks.
 
-2024-04-30 Tue (2.0h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot
+2024-04-30 Tue (2.0h): Review Another World rune mechanisms and project proposal. Review Telegram Bot analysis. Write specs and implementation plans for copy-trade features of SMS-Telegram Bot.
 
 ---
 
 2024-04-25 Thu (1.0h): Discuss and review DeFi plans and Telegram bot products.
 
-2024-04-23 Tue (1.0h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure 
+2024-04-23 Tue (1.0h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure.
 
-2024-04-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples
+2024-04-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples.
 
 ---
 
-2024-04-21 Sun (7.0h): Research on using ElasticSearch for word-vector indexing and retrieval-augmented-generation, and related production-ready plugins (LangChain, LlamaIndex). Candidate recommendation system production server deployment, SSL setup, and debuggin issues with static files and separation of Python gunicorn worker and front-facing services (nginx). Research on Django database setup, credentials, synchronization. Constructing and deploying databases; Dependency simplification, ensuring server can replicate virtual environment, and bug-free execution under Python 3.11. Production service deployment. Debugging issues with SSL server in production. Research alternatives to gunicorn and performance. Evaluate, configure, deploy gunicorn for SSL in production. Make dependencies consistent
+2024-04-21 Sun (7.0h): Research on using ElasticSearch for word-vector indexing and retrieval-augmented-generation, and related production-ready plugins (LangChain, LlamaIndex). Candidate recommendation system production server deployment, SSL setup, and debuggin issues with static files and separation of Python gunicorn worker and front-facing services (nginx). Research on Django database setup, credentials, synchronization. Constructing and deploying databases; Dependency simplification, ensuring server can replicate virtual environment, and bug-free execution under Python 3.11. Production service deployment. Debugging issues with SSL server in production. Research alternatives to gunicorn and performance. Evaluate, configure, deploy gunicorn for SSL in production. Make dependencies consistent.
 
-2024-04-20 Sat (0.5h): Candidate recommendation system frontend barebone construction
+2024-04-20 Sat (0.5h): Candidate recommendation system frontend barebone construction.
 
 2024-04-19 Fri (2.0h): Review and document areas of improvements. Python and Django production environment setup at Debian server
 
