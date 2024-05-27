@@ -12,6 +12,10 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-27 Mon: [Deployed](https://gmx-harmony.web.app/#/v1/swap) harmony-gmx v1 swap interface draft version. Now supported WONE,ONE and USDC tokens. [Working](https://github.com/harmony-one/gmx-interface/pull/1) on bug fixing, charts and stats integration. Reviewed Aaron's vertex [notes](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md).
+
+---
+
 2024-05-24 Fri: Migration gmx v1 to harmony: Have several issues with [gmx-harmony-subgraph](https://github.com/harmony-one/gmx-subgraph) synchronisation. Looks like several contracts was configured incorrect. Looking for a possible cause of the problem and checking the deployment step by step;
 
 2024-05-23 Thu: Worked on harmony gmx v1 interface: [added](https://github.com/harmony-one/gmx-interface/commit/6aebf5ac42468e44395d93272fd105869dfc2a5a) more harmony configuration settings, fixed bugs. Forked [gmx-subgraph](https://github.com/harmony-one/gmx-subgraph) to harmony. Inspected other backend services for gmx app: stats and main api. [Stats](https://github.com/gmx-io/gmx-stats) looks ok for migration. However, сould not find repositories for the main API service, continue research.
