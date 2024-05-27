@@ -8,6 +8,14 @@ While working on implementing the Bridge in the Harmony Portfolio, I aimed to ut
 
 ---
 
+2024-05-27 Mon: didn't find sequencer sources in Vertex Protocol [GitHub](https://github.com/orgs/vertex-protocol/repositories), asked in discord channel. Looking on Vertex architecture following Vertex protocol [review](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#key-designs), docs and web app. Issue with sequencer sources was also [addressed](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#some-issues) by Aaron in protocol review.
+
+---
+
+2024-05-24 Fri: Tried to adjust existed Cannon scripts to deploy Systetix on Harmony chain, tried different configs from their repo, getting errors on piblish ("Could not find any deployments"). Tried to get some help from Systetix dev channel in discord ([link](https://discord.com/channels/413890591840272394/459603818246701056/1243302442205188156)), but getting only common advices.
+
+2024-05-23 Thu: Researching Cannon deploy scripts and docs (framework that used by Systetix team to deploy the protocol)
+
 2024-05-22 Wed: [prepared PR](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/files) with Systetix deploy script; working on adjusting script for Harmony network 
 
 2024-05-21 Tue: cotinued working on Syntetix deployment: discussed deployment issues with Syntetix devs in discord channel, got some advices regarging cannon tool they use to build and publish; started preparing custom set of deployment scripts following their advice.
