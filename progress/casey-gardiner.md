@@ -1,3 +1,39 @@
+**Weekly Progress Update: 2024-05-24**<br>
+**Leadership and Project Management**<br>
+
+- **HIP-32 Development:**
+  - Continued testing and coordination efforts for HIP-32.
+  - Reviewed PRs related to HIP-32:
+    - **Removed Threshold 10 Epochs #4671:**
+      - Removed threshold for 10 blocks to fix devnet crosslinks.
+    - **Fix for Possible Race for New Block Post-Consensus Processing #4677:**
+      - Addressed potential race conditions during new block post-consensus processing.
+    - **Crosslink Heartbeat Verification Through Current Committee #4673:**
+      - Ensured crosslink heartbeats are signed by the current leader private key and verified correctly across epochs.
+
+- **Validator Operations:**
+  - Improved and implemented changes and configurations for devnode validators.
+  - Coordinated and audited new explorer changes to enhance user experience, working closely with Frank.
+
+#### Research and Development
+
+- **Research Paper:**
+  - Began writing a new research paper to explore and document innovative developments and strategic insights for Harmony Protocol.
+
+#### Community Engagement and Outreach
+
+- **Event Coordination:**
+  - Continued planning and coordination for upcoming community events and engagements during devcon in November.
+
+#### Upcoming Plans
+
+- **Rest and Relaxation:**
+  - Scheduled a few days of rest and relaxation next week to recharge and prepare for future tasks.
+
+This week has been focused on advancing HIP-32 development, enhancing validator operations, and starting new research initiatives. Coordination efforts with team members and the community continue to ensure smooth progress and prepare for upcoming events and projects.
+
+___
+
 **Weekly Progress Update: 2024-05-17**<br>
 **On-Call Responsibilities:**
 * Managed multiple issues related to testnet and mainnet.
