@@ -1,10 +1,12 @@
-2024-05-24 Friday - Weekly update: <br>
+2024-05-24 Fri:
 -Spent a good chunk of my week getting some of these validator nodes in order. Configured a new bare metal server from scratch using recovered keys and new hardware including 8TB Raid1. <br>
 -devops on-call duties (part 1) https://docs.google.com/document/d/1SQwAozqyNJBTbcX18YStZqQtMYyde46Nb-Z9jhgWrvs <br>
 -Review PRs fixing bootnode instability issues (w/ Gheis) <br>
 -Research on econ and finance topics and anything pertaining to "perpetuals/futures contracts" <br>
 
-2024-05-17 Friday - Updates: <br>
+---
+
+2024-05-17 Fri:
 
 -Exploring further into 3rd party defi protocols (dydx, gains, oasis)<br>
 -Analysis of GainsNetwork gTrade-v6 contracts https://github.com/GainsNetwork/gTrade-v6/tree/main/contracts and test deployments to local testnet <br>
@@ -15,7 +17,7 @@
 
 ---
 
-2024-05-10 Friday - Weekly Update: <br>
+2024-05-10 Fri: 
 -come up with an in-game beat, not too repetitive, too long or too short, and implement in uninterrupted loop <br>
 https://github.com/adsorptionenthalpy/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e <br>
 -analyze 3rd party defi contracts for port to harmony <br>
@@ -27,7 +29,7 @@ https://github.com/adsorptionenthalpy/Project-G/commit/25a06052816313c3e9a7e9e66
 
 ---
 
-2024-05-03 Weekly Update <br>
+2024-05-03 Fri: <br>
 -Communication w/ Konstantin and Rika on contract deployment issues
 Looking into simplifying harmony contract deployment https://github.com/adsorptionenthalpy/harmony_contracts <br>
 I then discovered https://github.com/harmony-one/hardhat-starter-pack that hasn't been updated for some time and relayed to members of the team to look into <br>
@@ -38,7 +40,7 @@ I then discovered https://github.com/harmony-one/hardhat-starter-pack that hasn'
 
 ---
 
-2024-04-26 Weekly Update <br>
+2024-04-26 Fri: <br>
 -time-off<br>
 -Interviewed some devs in Boulder over lunch<br>
 -Protocol PR reviews: Improve staged stream sync, log and cleanup, devnet vote power update https://github.com/harmony-one/harmony/pull/4660<br>
@@ -69,7 +71,7 @@ I completed a rather lengthy update of a formerly released Web3 plugin for the G
 
 ---
 
-2024-04-05 Friday: <br>
+2024-04-05 Fri: <br>
 Week Summary<br>
 -I was out on 4/4 using the time for tax preperation<br>
 -I attended some discussions with the team over Partie partnership opportunity<br>
@@ -78,7 +80,7 @@ Week Summary<br>
 -work on the project-g demo continues
 
 ---
-2024-03-29 Friday: <br>
+2024-03-29 Fri: <br>
 Week Summary<br>
 -devops on call: Review log https://docs.google.com/document/d/18faRFgN16IC_qyAUGUdSn0ZWv3JgEiR5Afm1xul1H6U<br>
  -carried out standard protocol duties, code reviews, meetings, etc<br>
@@ -87,22 +89,22 @@ Week Summary<br>
 
 ---
 
-2024-03-15 Friday: 
+2024-03-15 Fri: 
 Week summary<br>
 Focused on web3 gaming iniative, completing code port of web3 plugin originally built for godot 3.5 to godot 4.x. This can now be built with godot 4.2/4.3 source code on osx and linux (tested on Ubuntu 22) https://github.com/adsorptionenthalpy/godot-web3-plugin/tree/main-4.2. Currently building out a web3 game demo toward playable state to demonstrate the capabilities of framework. This is taking a little more time than initially estimated. 
 Reviewed incoming bugfixes and updates coming into Harmony dev, and some other housekeeping for some fixes that have been going stale. 
  
 ---
 
-2024-03-12 Tuesday: Reviewed PR #4642 that modifies the node to retrieve an address from BLS keys (Konstantin). Continued developing Chain Force demo concepts. Reached out to coinmonstore to arrange Harmony product listing. 
+2024-03-12 Tue: Reviewed PR #4642 that modifies the node to retrieve an address from BLS keys (Konstantin). Continued developing Chain Force demo concepts. Reached out to coinmonstore to arrange Harmony product listing. 
 
 ---
 
-2024-03-11 Monday: Branch feature/clear-stale-staking-data fell several months behind dev, updated to prevent future merge conflicts
+2024-03-11 Mon: Branch feature/clear-stale-staking-data fell several months behind dev, updated to prevent future merge conflicts
 
 ---
 
-2024-03-06 Wednesday: Reviewed team pull requests
+2024-03-06 Wed: Reviewed team pull requests
 
 https://github.com/harmony-one/harmony/pull/4636
 
@@ -112,45 +114,46 @@ https://github.com/harmony-one/harmony/pull/4639
 
 ---
 
-2024-02-23 to 2024-02-02
+2024-02-23 Fri to 2024-03-02 Sat:
 Out for Ethereum Denver Conference
 
 ---
-2024-02-20 Tuesday: Review of big pull request dev->main https://github.com/harmony-one/harmony/pull/4633
-2024-01-30 Tuesday: Reviewed snapshot fixes and merged PR# 4618 to dev https://github.com/harmony-one/harmony/pull/4618
+2024-02-20 Tue: Review of big pull request dev->main https://github.com/harmony-one/harmony/pull/4633
+
+2024-01-30 Tue: Reviewed snapshot fixes and merged PR# 4618 to dev https://github.com/harmony-one/harmony/pull/4618
 The last few weeks I have been shifting focus from protocol development to exploring Harmony's other initiatives involving gaming, account abstraction and security. 
 
 Project-G repository created on the 17th (currently private) https://github.com/harmony-one/Project-G tracks the early development efforts for some games being developed to showcase Harmony's technology stack.
 
 ---
  
-2024-01-17 Wednesday: Review of decider changes in PR# 4610 https://github.com/harmony-one/harmony/pull/4610
+2024-01-17 Wed: Review of decider changes in PR# 4610 https://github.com/harmony-one/harmony/pull/4610
 
 ---
 
-2024-01-09 Tuesday: WIP PR on pruning stale delegation data has been updated reflecting changes into main->dev and fixing missing code/logic in engine_test.go. Notified Diego, this is in his queue now.
+2024-01-09 Tues: WIP PR on pruning stale delegation data has been updated reflecting changes into main->dev and fixing missing code/logic in engine_test.go. Notified Diego, this is in his queue now.
 https://github.com/harmony-one/harmony/pull/4505
 Review of PR# 4602 https://github.com/harmony-one/harmony/pull/4602
 
 ---
 
-2024-01-1 Friday: Happy new year! Work on Harmony's Blockchain gaming initiatives have begun. I am currently updating and testing AA code changes from upstream before deployment
+2024-01-1 Fri: Happy new year! Work on Harmony's Blockchain gaming initiatives have begun. I am currently updating and testing AA code changes from upstream before deployment
 
 ---
 
-2023-12-21 Thursday: 
+2023-12-21 Thu: 
 Merge of main -> dev - Concluding my week on-site there was a lot of movement into the harmony/harmony-one main branch to carry out a security and api bug, and some other small fixes. This PR was opened to bring dev into sync and there were a few conflicts needing resolving. https://github.com/harmony-one/harmony/pull/4595 and https://github.com/harmony-one/harmony/pull/4600
 
 Attended weekly developer sync
 
 ---
 
-2023-12-15 Friday:  Attended whiteboard discussions on formal verification, smart contract security, coq, blockchain gaming. Had some collaboration with the protocol team on core issues.
+2023-12-15 Fri:  Attended whiteboard discussions on formal verification, smart contract security, coq, blockchain gaming. Had some collaboration with the protocol team on core issues.
 Concluded the day with Harmony holiday dinner!
 
 ---
 
-2023-12-14 Thursday:
+2023-12-14 Thu:
 Full review of PR https://github.com/harmony-one/harmony/pull/4588 authored by max mustermann. This PR would undo some of the my logical changes to getTransactionReceipt, recently merged into dev.
 
 ---
@@ -160,7 +163,7 @@ Arrived on-site in Palo Alto. Throughout the week we brainstormed on potential p
 
 ---
 
-2023-12-07 Thursday:
+2023-12-07 Thu:
 
 Worked on this PR that made a modification to getReceipt to only return details in harmony format. https://github.com/harmony-one/harmony/pull/4582 (This would eventually be redone by alternative logic on a future PR)
 
