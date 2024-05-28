@@ -1,3 +1,11 @@
+2024-05-27 Mon (Memorial Day, 2.0h): Watched [Synthetix V3 video](https://www.youtube.com/watch?v=66m9BKiQSDs), researched on Panoptic (read blog, twitter) and read a couple of blog posts by Guillaume Lambert on Medium.
+
+---
+
+2024-05-26 Sun (1.5h): Looked into Gammaswap Docs for Trade Perpetual options (PnL, Risk, etc). Also looked into "Black-scholes formula" on Khan academy and watched other parts of the "finance and capital markets" course.
+
+2024-05-25 Sat (1.5h): Read through [Panoptic Options Trading Strategies](https://panoptic.xyz/research/panoption-trading-strategies-the-basics), looked into Lemma Labs and InfinityPools.
+
 2024-05-24 Fri: Continued market research by reading through the links as posted on "invincible summer". Looked up more into details of GMX technical overview (vault, routers, price feeds.)
 
 2024-05-23 Thu: Continued replicating GMX v1 code, read through contracts/docs. Read many articles and researched on trading: strategies, options trading, Messari & Delphi digital reports, perp comparisons.
