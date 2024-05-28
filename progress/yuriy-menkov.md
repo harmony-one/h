@@ -12,6 +12,8 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 
 ---
 
+2024-05-28 Tue: Gmx v1 on harmony: redeployed contracts with new corrected adresses (native token, gov, hrc20 etc), fixed bugs with add liquidity functionality, continue testing. Working on deploy frontend demo to gm.country; Reviewed new proposal on the “RFP Submission" from Theo. Working on submiting a proposal: post proposal using OApps’ deployer address on Ethereum.
+
 2024-05-27 Mon: [Deployed](https://gmx-harmony.web.app/#/v1/swap) harmony-gmx v1 swap interface draft version. Now supported WONE,ONE and USDC tokens. [Working](https://github.com/harmony-one/gmx-interface/pull/1) on bug fixing, charts and stats integration. Reviewed Aaron's vertex [notes](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md).
 
 ---
