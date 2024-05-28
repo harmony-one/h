@@ -1,3 +1,15 @@
+2025-05-27 Mon: Memorial Day
+
+---
+
+2025-05-26 Sun: (1 hour) Joined Gains network discord to see developer updates. 
+
+2024-05-25 Sat:
+
+2024-05-24 Fri: Reached out to Panoptic for audit report. Reviewed gTrade docs to get a better understanding of contract process specifically referencing code for [collateral section](https://gains-network.gitbook.io/docs-home/gtrade-leveraged-trading/trade-collaterals). 
+
+2024-05-23 Thu: Tested [solcasino](https://solcasino.io/) and reviewed specifically their [crypto trading](https://docs.solcasino.io/info/litepaper#futures-trading) which offers 1000x leverage. Looked into liquidity requirements for such an offer and the limitations that solcasino places on their bets in order to mantain liquidity. 
+
 2024-05-22 Wed: Forked and began researching deploy process for [gTrade-V6](https://github.com/harmony-one/gTrade-v6) and [gTrade-V6.1](https://github.com/harmony-one/gTrade-v6.1).
 
 2024-05-21 Tue: Filled earnings, fees, users, and some interest column for top 10 on /chart. Researched Gains Network. Looked for forked public frontend (of 3 forks on DefiLlama, could not find public repo for any).
