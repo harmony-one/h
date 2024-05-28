@@ -1,6 +1,9 @@
 **2-Week Deliverables by 2024-05-20:**
 Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
+2024-05-27 Mon: Deployed GPT-4o model to 1Bot. The following commands and prefixes will work with gpt-4o: _/ask, /gpt, /gpt4, /new, and a. and dot prefixes_. The command _/gpt4_ works for gpt4 model and the command _/gpt32_ for gpt-4-32k model. Fixed an issue with edit telegram messages when processing a stream completion. Also, updated Grammy to the latest version (v1.23.1). Finally, still have issues with simultaneous command calls, and successfully tested a solution on the harmony-llm-api backend that will be implemented tomorrow.
+
+---
 2024-05-24 Fri: Fixed 1Bot multiple command handling due to context mixing on llms API calls. Also, added the [Openai GPT-4o model](https://github.com/harmony-one/HarmonyOneBot/pull/362), linked to /gpto command.
 
 2024-05-23 Thu: Fixed chains configuration issues. Had issues linking the Harmony chain to the wallet connection on the navigation component; working on it. 
