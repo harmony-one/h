@@ -1,8 +1,10 @@
+2024-05-28 Tue: Examine deploy process for Gain Network gtade stats [subgraph](https://github.com/GainsNetwork-org/gtrade-stats-subgraph) (housed under different github org Gains Network (Org) instead of GainsNetwork).
+
 2025-05-27 Mon: Memorial Day
 
 ---
 
-2025-05-26 Sun: (1 hour) Joined Gains network discord to see developer updates. 
+2024-05-26 Sun: (1.0h) Joined Gains network discord to see developer updates. 
 
 2024-05-25 Sat:
 
