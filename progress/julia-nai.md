@@ -1,4 +1,5 @@
-2024-05-28 Tue: Examine deploy process for Gain Network gtade stats [subgraph](https://github.com/GainsNetwork-org/gtrade-stats-subgraph) (housed under different github org Gains Network (Org) instead of GainsNetwork).
+2024-05-28 Tue: Examine deploy process for Gain Network gtade stats [subgraph](https://github.com/GainsNetwork-org/gtrade-stats-subgraph) (housed under different github org Gains Network (Org) instead of GainsNetwork). Read through [GNSPairInfoV6_1
+](https://github.com/harmony-one/gTrade-v6.1/commit/6a05625f36ade0260b8b7b50d52d56ab6734ee31) and noted considerations for Harmony deployment in commit message (and linter for whitespace).
 
 2025-05-27 Mon: Memorial Day
 
