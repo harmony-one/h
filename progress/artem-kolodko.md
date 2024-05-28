@@ -8,6 +8,8 @@ While working on implementing the Bridge in the Harmony Portfolio, I aimed to ut
 
 ---
 
+2024-05-28 Tue: prepared first version of Systhetix deployment script for Harmony network, published Cannot package ([commands and logs](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/6b404a2f6b88c975563095ee521712aebe411a25)). Cannon package seems to be published, but there is not transaction on Harmony chain. Asked Aaron to review [PR](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) and help with deployment issues.
+ 
 2024-05-27 Mon: didn't find sequencer sources in Vertex Protocol [GitHub](https://github.com/orgs/vertex-protocol/repositories), asked in discord channel. Looking on Vertex architecture following Vertex protocol [review](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#key-designs), docs and web app. Issue with sequencer sources was also [addressed](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#some-issues) by Aaron in protocol review.
 
 ---
