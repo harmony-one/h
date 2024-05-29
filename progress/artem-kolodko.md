@@ -1,13 +1,3 @@
-
-
-**2-Week Deliverables by 2024-05-20:**
-
-Harmony Portfolio: implement Bridge page that repeats all major features of the Harmony Bridge client: [https://bridge.harmony.one](https://bridge.harmony.one/one).
-
-While working on implementing the Bridge in the Harmony Portfolio, I aimed to utilize best practices – the design was inspired by the existing bridge in the Metamask Portfolio, familiar to users but with the internal logic of the Harmony Bridge. I encountered nuances in the implementation, some rooted in Layerzero, and each token transfer needed manual testing, consuming significantly more time; nevertheless, I managed to thoroughly understand the architecture of the current Harmony Bridge and start implementation within a few days, which was quite swift given the complexity of this application.
-
----
-
 2024-05-28 Tue: prepared first version of Synthetix deployment script for Harmony network, published Cannon package ([commands and logs](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/6b404a2f6b88c975563095ee521712aebe411a25)). Cannon package seems to be published, but there is not transaction on Harmony chain. Asked Aaron to review [PR](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) and help with deployment issues.
  
 2024-05-27 Mon: didn't find sequencer sources in Vertex Protocol [GitHub](https://github.com/orgs/vertex-protocol/repositories), asked in discord channel. Looking on Vertex architecture following Vertex protocol [review](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#key-designs), docs and web app. Issue with sequencer sources was also [addressed](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#some-issues) by Aaron in protocol review.
@@ -23,6 +13,14 @@ While working on implementing the Bridge in the Harmony Portfolio, I aimed to ut
 2024-05-21 Tue: cotinued working on Syntetix deployment: discussed deployment issues with Syntetix devs in discord channel, got some advices regarging cannon tool they use to build and publish; started preparing custom set of deployment scripts following their advice.
 
 2024-05-20 Mon: working on synthetix deployment: fixed issue with IPFS, almost completed test deploy on Arbitrum Sepolia, but got an error "Signer does not have publishing permissions on the "synthetix-perps-market" package" on the last step - protocol publishing. Didn't find any information about granting permissions, [asked](https://discord.com/channels/413890591840272394/459603818246701056/1242168007434698803) synthetix community to help in official Discord channel.
+
+---
+
+2-Week Deliverables by 2024-05-20:
+
+Harmony Portfolio: implement Bridge page that repeats all major features of the Harmony Bridge client: [https://bridge.harmony.one](https://bridge.harmony.one/one).
+
+While working on implementing the Bridge in the Harmony Portfolio, I aimed to utilize best practices – the design was inspired by the existing bridge in the Metamask Portfolio, familiar to users but with the internal logic of the Harmony Bridge. I encountered nuances in the implementation, some rooted in Layerzero, and each token transfer needed manual testing, consuming significantly more time; nevertheless, I managed to thoroughly understand the architecture of the current Harmony Bridge and start implementation within a few days, which was quite swift given the complexity of this application.
 
 ---
 
