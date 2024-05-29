@@ -1,8 +1,10 @@
-2024-05-27 Mon:
+2024-05-28 Tue: Uploaded and tweeted [One Show Episode 4](https://youtu.be/eEk_4uYj9Iw). Enrolled in beginner future's course, and learned about future contracts, contract size, and notional and tick values. Joined panoptic discord and began familiarizing myself with the GMX platform. Made edits to teams /progress.
+
+2024-05-27 Mon (2 hr): Memorial Day Holiday. Finalized my [Blockscout Blogpost](https://www.notion.so/harmonyone/Introducing-Harmony-s-New-Testnet-Explorer-Built-with-Protofire-d8fddb690463434ab3cb97fe49c49506). Per feedback from Soph, article will be released upon mainnet launch.
 
 ---
 
-2024-05-26 Sun: One Show Youtube import, office operations, and [Harmony Indonesia Announcement](https://x.com/harmonyprotocol/status/1794965735539888628)
+2024-05-26 Sun: [Design of Blockscout blog post thumbnail](https://www.canva.com/design/DAGGoosUy2k/tyIzlD3bN0751LLoOYHxOw/edit?utm_content=DAGGoosUy2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), office operations, and [Harmony Indonesia Announcement](https://x.com/harmonyprotocol/status/1794965735539888628)
 
 2024-05-25 Sat: ONE Show Thumbnail + Editing
 
