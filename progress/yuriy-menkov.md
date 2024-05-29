@@ -1,17 +1,3 @@
-**2024 Q1 Review (8 hours)**
-
-I developed the Inscriptions indexer backend and the OneScriptions hrc20 frontend. Additionally, I created the Inscriptions lottery main page and implemented the lottery backend and stats API. For the Human Protocol project, I focused on Firebase design and interaction, frontend features, locations features. 
-
-Added optimisations for the Human Protocol project: added firestore persistent Local Cache for all queries, connected infinity scroll for the actions table with lazy loading of 100 elements, optimized pages loading time (main page, feeds list) from 8 sec to 1 seс.
-
-I conducted an architecture study for a sovereign rollup on our Shard 1. Furthermore, I deployed and integrated an OP Stack Rollup with Harmony Shard 1, which is currently in progress.
-
-**2-Week Deliverables by 2024-03-31:**
-
-Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics for shard 1 as a data availability competitor to Near and Celestia (see Near's graphic)
-
----
-
 2024-05-28 Tue: Gmx v1 on harmony: redeployed contracts with new corrected adresses (native token, gov, hrc20 etc), fixed bugs with add liquidity functionality, continue testing. Working on deploy frontend demo to gm.country; Reviewed new proposal on the “RFP Submission" from Theo. Working on submiting a proposal: post proposal using OApps’ deployer address on Ethereum.
 
 2024-05-27 Mon: [Deployed](https://gmx-harmony.web.app/#/v1/swap) harmony-gmx v1 swap interface draft version. Now supported WONE,ONE and USDC tokens. [Working](https://github.com/harmony-one/gmx-interface/pull/1) on bug fixing, charts and stats integration. Reviewed Aaron's vertex [notes](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md).
@@ -112,6 +98,20 @@ Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics fo
 2024-04-02 Tue: Continue building custom [Op Stack rollup](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup) and deploying L1 contracts on Harmony Shard 1. A problem was discovered when deploying contracts. Create2 deployer that is used by Foundry (and therefore by script for deploying permit2) is not deployed on Harmony, and it cannot be deployed, because its transaction is presigned without chainId, and Harmony is EIP-155 protected, which requires chainId to be a part of the transaction.
 
 2024-04-01 Mon: Continue building custom [Op Stack rollup](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup). Configured configs for op-node and op-geth services to support Harmony Shard 1. Proceeded to deploying and configuring contracts.
+
+---
+
+2024 Q1 Review (8 hours)
+
+I developed the Inscriptions indexer backend and the OneScriptions hrc20 frontend. Additionally, I created the Inscriptions lottery main page and implemented the lottery backend and stats API. For the Human Protocol project, I focused on Firebase design and interaction, frontend features, locations features. 
+
+Added optimisations for the Human Protocol project: added firestore persistent Local Cache for all queries, connected infinity scroll for the actions table with lazy loading of 100 elements, optimized pages loading time (main page, feeds list) from 8 sec to 1 seс.
+
+I conducted an architecture study for a sovereign rollup on our Shard 1. Furthermore, I deployed and integrated an OP Stack Rollup with Harmony Shard 1, which is currently in progress.
+
+2-Week Deliverables by 2024-03-31:
+
+Build sovereign Celestia rollup on Harmony Shard 1, deliver benchmark metrics for shard 1 as a data availability competitor to Near and Celestia (see Near's graphic)
 
 ---
 
