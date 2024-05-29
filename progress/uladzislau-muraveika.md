@@ -1,3 +1,11 @@
+**2024-05-29: Weekly update**
+
+During 3 days on this week, I found the way how to rate limit users via nginx, with whitelisting feature for our partners. It will helps us to provide stable service for our regular users and mitigate abuse of our nodes.
+
+On the protocol side, I've helped with devnet update to the DNS sync, it will help to rule out a possible streamsync bug.
+
+---
+
 **2024-05-24: Weekly update**
 
 During this week, I finished Nginx monitoring, now we have a generic solution and the [Grafana dashboard](https://grafana.i.hmny.io/d/ZQAsi-Xiz/nginx-vts) for all networks. It is already give ideas what can be improved, such as removing defaults and deploying proper rate limiting
@@ -6,6 +14,8 @@ On the protocol side, I've helped with devnet updates to the latest version with
 
 Additionally, I aided a community member with the removal from blacklists.
 
+---
+
 2024-05-17: Weekly update
 
 During this week, I tried different approaches for Nginx monitoring, found the most generic one, and started to roll it out to the devnet. It will help the team understand the current state of our RPC endpoints and how users are using them
@@ -13,6 +23,8 @@ During this week, I tried different approaches for Nginx monitoring, found the m
 On the protocol side, I conducted an initial investigation into the bootnode issue and shared all the information, including Quic protocol usage, incoming IPs, and libp2p troubleshooting manuals, which helped Gheis and Soph with the fix. Additionally, I assisted in spinning up an AWS instance for the bootnode test.
 
 I helped validator users with testnet validator sync issues, which is crucial for the network usage.
+
+---
 
 2024-05-10 Friday: The main focuses on this week(9th of May was a holiday):
 * nginx-module-vts -> Prometheus -> Grafana monitoring tool set:
@@ -23,6 +35,8 @@ I helped validator users with testnet validator sync issues, which is crucial fo
   * keep devnet stabilized through the week - time to time we lost consensus
   * watchdog - updated user-list
   * watchdog - moved threshold for the beacon chain monitoring to the config and updated it to the higher value
+
+---
 
 2024-05-03 Friday: The main focuses on this week:
 * snapshot node migration - old one used 100% disk space from 7TB:
