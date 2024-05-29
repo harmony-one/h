@@ -1,11 +1,12 @@
+2024-05-27 Mon: [Commonwealth LayerZero Submission](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) published, under review from LayerZero team. Coinbase doc approved by Casey, moving to google docs to add edits from Stephen. Started Stargate communications.
 
 ---
 
-2024-05-26 Sun:
+2024-05-26 Sun: Testing [pump.fun](https://pump.fun/board) and [base.fun](https://www.base.fun/), spoke with Matt about potential Harmony fun.country product.
 
-2024-05-25 Sat:
+2024-05-25 Sat: Ideation with Tenacious for ecosystem project marketing and support guidelines.
 
-2024-05-24 Fri:
+2024-05-24 Fri: Completed coinbase doc, sent for review to Casey and Soph.
 
 2024-05-23 Thu: Continued communications with layerzero team given the recent update, added to coinbase doc. Metric: 804+ Million transactions since mainnet on Harmony, almost 1 Billion! 
 
