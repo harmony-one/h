@@ -1,6 +1,3 @@
-**2-Week Deliverables by 2024-05-20:**
-Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
-
 2024-05-28 Tue: Fixed simultaneous command calls on 1Bot. When commands run simultaneously, the message context could get mixed, and llms model requests get mixed as well. The solution was to create a single endpoint that handles all llms requests and redirects the request to the respective model resource (as python/flask defined namespace architecture) on harmony-llm-api. This solution requires normalizing streaming handling for Vertex/Gemini models on harmony-llm-api and 1Bot. Now, when a simultaneous command request is handled, each model will be managed by the corresponding LLMs. It will be deployed to 1Bot later today.
 
 2024-05-27 Mon: Deployed GPT-4o model to 1Bot. The following commands and prefixes will work with gpt-4o: _/ask, /gpt, /gpt4, /new, and a. and dot prefixes_. The command _/gpt4_ works for gpt4 model and the command _/gpt32_ for gpt-4-32k model. Fixed an issue with edit telegram messages when processing a stream completion. Also, updated Grammy to the latest version (v1.23.1). Finally, still have issues with simultaneous command calls, and successfully tested a solution on the harmony-llm-api backend that will be implemented tomorrow.
@@ -15,6 +12,9 @@ Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. 
 2024-05-21 Tue: Continued working on Vertex's trade app, adding Harmony chain and One token. After Casey's review, sent PR to the Protofire team regarding the explorer block filter and worked on finding the development server issue on the Swap Interface app.
 
 2024-05-20 Mon: Sent [PR](https://github.com/protofire/interface/pull/5) to change tooltip text on Swap Interface (_Network Fee are paid to the ~~Ethereum~~ Harmony network to secure transactions_). This task was delayed due to local deployment issues, which were tested with different node/yarn configurations on Mac M1 and Windows OS, with no success. There is an issue when running GraphQL scripts due to two files missing. The Protofire team sent me the missing files (src/graphql/data/schema.graphql and src/graphql/thegraph/schema.graphql) and the issue was resolved. Also, worked on adding Harmony metadata/token to the Vertex common package and trade app (will send a PR on Tuesday).  
+
+2-Week Deliverables by 2024-05-20:
+Finish Claude's tool implementation to have 1Bot ready for the Defi/AI project. Support Hyperlane and Dune implementation and work on the Arbitrum wallet finder. 
 
 ---
 2024-05-19 Sun: Completed the required explorer updates: _let's not show/flash empty blocks and hide "network utilization_. The changes affect mobile and desktop versions. Sent the corresponding [PR](https://github.com/fegloff/bs-frontend/pull/1) to Casey for review.
