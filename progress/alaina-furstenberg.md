@@ -1,3 +1,5 @@
+2024-05-29 Wed: [Tweet announcement for ChatGPT4o](https://x.com/harmonyprotocol/status/1795951553024565259). Continuation of the futures course, completing the Mechanics and Symbols and Products modules. Began iterating on a [new template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f) for the Harmony One website. 
+
 2024-05-28 Tue: Uploaded and tweeted [One Show Episode 4](https://youtu.be/eEk_4uYj9Iw). Enrolled in beginner future's course, and learned about future contracts, contract size, and notional and tick values. Joined panoptic discord and began familiarizing myself with the GMX platform. Made edits to teams /progress.
 
 2024-05-27 Mon (2 hr): Memorial Day Holiday. Finalized my [Blockscout Blogpost](https://www.notion.so/harmonyone/Introducing-Harmony-s-New-Testnet-Explorer-Built-with-Protofire-d8fddb690463434ab3cb97fe49c49506). Per feedback from Soph, article will be released upon mainnet launch.
