@@ -1,3 +1,13 @@
+2024-05-28 Wed (3h): (Continued) and review modified Synthetix configuration scripts for Harmony deployment and packaging. Review Cannon source code and documentation, debug deployment issues and workflow
+
+2024-05-28 Tue (1h): (Continued)
+
+2024-05-27 Mon (3h): Review Panoptic code and deep dive on documentation and mathematics
+
+2024-05-26 Sun (5h): Research and review on Surf exchange and protocol. Revisit Uniswap v3 technical details and analyze relation to options based on Panoptic analogy. Revisit Uniswap v3 paper, mathematics, and implementation. 
+
+2024-05-25 Sat (6.5h): Deep dive into Infinity Pool protocol and its mathematics, liquidity reserve mechanisms, option analogy, fixed term and revolving loans. Review Hubble exchange history and design. Quick review on Infinity Pool community discussions and developer topics. Reviewing dydx history and version changes. 
+
 2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes. 
 
 2024-05-23 Thu (4h): Quick review on recent regulatory compliance updates, content and impact of pending congressional bills, and updates for impactful cases on appeal.
