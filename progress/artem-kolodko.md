@@ -1,4 +1,4 @@
-2024-05-30 Thu: continue researching Cannon commands. Looks like package published on IPFS ([it's available on Cannon website](https://usecannon.com/packages/synthetix-test-harmony/latest/1666600000-main)) but not deployed; tried to deploy with `cannon deploy` with different set of arguments command but also not successful. Finally, I [raised a question](https://discord.com/channels/413890591840272394/459603818246701056/1245834477226299473) in Synthetix discord dev channel.
+2024-05-30 Thu: continue researching Cannon commands. Looks like package published on IPFS ([it's available on Cannon website](https://usecannon.com/packages/synthetix-test-harmony/latest/1666600000-main)) but not deployed; tried to deploy with `cannon deploy` with different set of arguments but also not successful. Finally, I [raised a question](https://discord.com/channels/413890591840272394/459603818246701056/1245834477226299473) in Synthetix discord dev channel.
 
 2024-05-29 Wed: continue researching Cannon docs to deploy a package; discussed deployment issues with Aaron
 
