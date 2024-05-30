@@ -1,3 +1,7 @@
+2024-05-30 Thu: continue researching Cannon commands. Looks like package is pusblished on IPFS ([it's available on Cannon website](https://usecannon.com/packages/synthetix-test-harmony/latest/1666600000-main)) but not deployed; tried to deploy with `cannon deploy` with different set of arguments command but also not successful. Finally, I [raised a question](https://discord.com/channels/413890591840272394/459603818246701056/1245834477226299473) in Synthetix discord dev channel.
+
+2024-05-29 Wed: continue researching Cannon docs to deploy a package; discussed deployment issues with Aaron
+
 2024-05-28 Tue: prepared first version of Synthetix deployment script for Harmony network, published Cannon package ([commands and logs](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/6b404a2f6b88c975563095ee521712aebe411a25)). Cannon package seems to be published, but there is not transaction on Harmony chain. Asked Aaron to review [PR](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) and help with deployment issues.
  
 2024-05-27 Mon: didn't find sequencer sources in Vertex Protocol [GitHub](https://github.com/orgs/vertex-protocol/repositories), asked in discord channel. Looking on Vertex architecture following Vertex protocol [review](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#key-designs), docs and web app. Issue with sequencer sources was also [addressed](https://github.com/harmony-one/h/blob/main/docs/review-notes-vertex-protocol.md#some-issues) by Aaron in protocol review.
