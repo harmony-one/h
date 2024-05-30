@@ -1,3 +1,5 @@
+2024-05-29 Wed: Looked into options trading, specifically by watching the options trading essentials [playlist](https://www.youtube.com/playlist?list=PLg1ZigTkffEYONORRq7FLA4XecwQ4OVuv).
+
 2024-05-28 Tue: Continue studying finance course on Khan academy, market research on Panoptic.
 
 2024-05-27 Mon (Memorial Day, 2.0h): Watched [Synthetix V3 video](https://www.youtube.com/watch?v=66m9BKiQSDs), researched on Panoptic (read blog, twitter) and read a couple of blog posts by Guillaume Lambert on Medium.
