@@ -1,3 +1,5 @@
+2024-05-31 Fri: [Harmony community update](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd) and [tweet](). Futures class modules market sectors and market products. Design research of options interfaces on Robinhood. Testing on GMX, insights pending.
+
 2024-05-30 Thu: [Thread on /perps](https://x.com/harmonyprotocol/status/1796293242885169291) and [promotion of the Joskins NFT Marketplace](https://x.com/harmonyprotocol/status/1796287489239568890). Continued futures class modules on trading hours and market participants. Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
 
 2024-05-29 Wed: [Tweet announcement for ChatGPT4o](https://x.com/harmonyprotocol/status/1795951553024565259). Continuation of the futures course, completing the Mechanics and Symbols and Products modules. Began iterating on a [new template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f) for the Harmony One website. 
