@@ -1,3 +1,5 @@
+2024-05-30 Thu: Office move out, watched dydx's Panoptic Eth-Denver talk and took screenshots of the slides, continued watching options trading essentials playlist.
+
 2024-05-29 Wed: Looked into options trading, specifically by watching the options trading essentials [playlist](https://www.youtube.com/playlist?list=PLg1ZigTkffEYONORRq7FLA4XecwQ4OVuv).
 
 2024-05-28 Tue: Continue studying finance course on Khan academy, market research on Panoptic.
