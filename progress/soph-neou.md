@@ -1,3 +1,13 @@
+2024-05-31 Fri:
+
+As anticipated last week during our investigation of the consensus loss in devnet, switching to DNS Sync has resulted in a stable consensus. Our next step is to enable streamsync on shard 1 while maintaining DNS Sync on shard 0 and continuing our troubleshooting efforts.
+
+Following the previous week's crosslink fix, Shard 1 testnet has been revived. However, upon revival, all nodes except the internal node are currently stuck.
+
+During the switch to DNS Sync, the latest P2P configuration code prevented communication between nodes, indicating a potential impact on the mainnet. Multiple tests have been conducted, but the lack of P2P logging has hindered our ability to pinpoint the issue. Gheis has proposed four different options to enhance visibility, and two of them are currently being tested.
+
+---
+
 2024-05-24 Fri:
 
 I've continued working on crosslinks, spending significant time analyzing the overall logic for improvements and fixes in Konstantin's PR. The bootnode issue has been thoroughly tested on mainnet, resulting in confirmed improvements in service stability. Testing on devnet revealed connectivity issues with network nodes until all nodes were upgraded to the same version, suggesting a potential discrepancy in the new P2P configuration.
