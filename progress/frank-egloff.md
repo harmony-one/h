@@ -1,3 +1,5 @@
+2024-05-30 Thu: Finished integrating Harmony's [Mainnet and testnet](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/1) as supported chains for the Trade app. Continued working on the Trade app integration.
+
 2024-05-29 Wed: Deployed 1Bot latest changes, and fixed [openai issue](https://github.com/harmony-one/HarmonyOneBot/pull/362) with system message which limits completion to 100 words. Kept working on trade app porting, had progress on enabling harmonyTestnet. 
 
 2024-05-28 Tue: Fixed simultaneous command calls on 1Bot. When commands run simultaneously, the message context could get mixed, and llms model requests get mixed as well. The solution was to create a single endpoint that handles all llms requests and redirects the request to the respective model resource (as python/flask defined namespace architecture) on harmony-llm-api. This solution requires normalizing streaming handling for Vertex/Gemini models on harmony-llm-api and 1Bot. Now, when a simultaneous command request is handled, each model will be managed by the corresponding LLMs. It will be deployed to 1Bot later today.
