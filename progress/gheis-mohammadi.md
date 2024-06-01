@@ -5,10 +5,15 @@ Initially, I realized that the flags were not properly set on the devnet boot no
 Initially, I realized that the flags were not properly set on the devnet boot node. I added the muxer flag for the boot node PR[#4679](https://github.com/harmony-one/harmony/pull/4679), which resolved the issue and brought it back online. After an in-depth study of the muxer, I discovered that the P2P host could support multiple muxers. This discovery led to a permanent fix for challenges related to different muxers. I then submitted the PR to add support for multiple muxers.
 
 To further investigate issues and improve migration to the new binary version, we needed better visibility into P2P connections. We previously lacked insight into the lower layers of P2P, which was necessary for monitoring connections. After extensive research, I suggested four approaches:
+
 1- Clone the KDM repository and add all required functionalities: This would be a temporary solution and would require significant effort to maintain and keep the repository updated with the latest KDM changes.
+
 2- Use the Host Peer Store: This approach requires a deeper study of P2P host connections and DHT data.
+
 3- Use the logger flag along with other boot parameters
+
 4- Use the TRACE_FILE environment variable and pass it to libp2p
+
 We tested options 3 and 4, and the team is currently using them to monitor connections. The next task will be to further implement option 3 for enhanced monitoring capabilities.
 
 ---
