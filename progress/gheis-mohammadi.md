@@ -1,3 +1,18 @@
+2024-06-01 Sat:
+This past week, we successfully resolved the boot node issue. The corresponding PR was reviewed and approved by the team, then deployed to the devnet boot nodes. All tests were successful. However, a significant challenge was that these changes required bringing main-net consensus down, and all validators had to use the latest version of the binary with the same P2P configurations. We worked on identifying configurations that were not backward compatible and found two key ones: Muxer and Security.
+
+Initially, I realized that the flags were not properly set on the devnet boot node. I added the muxer flag for the boot node, which resolved the issue and brought it back online. After an in-depth study of the muxer, I discovered that the P2P host could support multiple muxers. This discovery led to a permanent fix for challenges related to different muxers. I then submitted the PR[#4682](https://github.com/harmony-one/harmony/pull/4682) to add support for multiple muxers.
+Initially, I realized that the flags were not properly set on the devnet boot node. I added the muxer flag for the boot node PR[#4679](https://github.com/harmony-one/harmony/pull/4679), which resolved the issue and brought it back online. After an in-depth study of the muxer, I discovered that the P2P host could support multiple muxers. This discovery led to a permanent fix for challenges related to different muxers. I then submitted the PR to add support for multiple muxers.
+
+To further investigate issues and improve migration to the new binary version, we needed better visibility into P2P connections. We previously lacked insight into the lower layers of P2P, which was necessary for monitoring connections. After extensive research, I suggested four approaches:
+1- Clone the KDM repository and add all required functionalities: This would be a temporary solution and would require significant effort to maintain and keep the repository updated with the latest KDM changes.
+2- Use the Host Peer Store: This approach requires a deeper study of P2P host connections and DHT data.
+3- Use the logger flag along with other boot parameters
+4- Use the TRACE_FILE environment variable and pass it to libp2p
+We tested options 3 and 4, and the team is currently using them to monitor connections. The next task will be to further implement option 3 for enhanced monitoring capabilities.
+
+---
+
 2024-05-25 Sat:
 Last week, I finalized the PR[#4674](https://github.com/harmony-one/harmony/pull/4674) to address the bootnode issue. This PR includes the following changes:
 
