@@ -1,3 +1,6 @@
+2024-5-31 Fri: <br>
+-Out sick most of the week <br> 
+
 2024-05-24 Fri: <br>
 -Spent a good chunk of my week getting some of these validator nodes in order. Configured a new bare metal server from scratch using recovered keys and new hardware including 8TB Raid1. <br>
 -devops on-call duties (part 1) https://docs.google.com/document/d/1SQwAozqyNJBTbcX18YStZqQtMYyde46Nb-Z9jhgWrvs <br>
