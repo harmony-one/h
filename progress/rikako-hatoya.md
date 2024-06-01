@@ -1,3 +1,5 @@
+2024-06-01 Sat: Started to work on deploying clone of Yuriy's GMX replica to testnet.
+
 2024-05-31 Fri: Returned to previous tasks that were still pending: looked through GMX clone code, played around with https://gmx-harmony.web.app/, looked through "hardhat-starter-pack" for issues.
 
 2024-05-30 Thu: Office move out, watched dydx's Panoptic Eth-Denver talk and took screenshots of the slides, continued watching options trading essentials playlist.
