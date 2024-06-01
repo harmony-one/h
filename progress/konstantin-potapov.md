@@ -1,3 +1,7 @@
+2024-05-31 Fri: This week, Soph and I have been testing the crosslink fix on the devnet. It successfully synchronized all missing crosslinks, so we have moved further testing to the testnet. Additionally, I am continuing to work on leader broadcasting vote power through the network. This will enable us to debug the network even when we lack information about the leader.          
+
+---
+
 2024-05-24 Fri: This week, Soph discovered another way to sign crosslink. I implemented a new version that not only improves the sender side (as the previous version did) but also enhances the receiver side, making it more suitable for our needs. Additionally, I worked on asynchronous code, specifically on two functions that execute in an unpredictable order. The pull request for this is completed but is dependent on the functionality of another unmerged PR.        
 
 ---
