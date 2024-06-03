@@ -1,3 +1,5 @@
+2024-06-02 Sun: Continued working on deploying GMX clone to testnet.
+
 2024-06-01 Sat: Started to work on deploying clone of Yuriy's GMX replica to testnet.
 
 2024-05-31 Fri: Returned to previous tasks that were still pending: looked through GMX clone code, played around with https://gmx-harmony.web.app/, looked through "hardhat-starter-pack" for issues.
