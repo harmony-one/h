@@ -10,7 +10,7 @@
 
 2024-06-01 Sat: (3.0h) Reviewed Coinbase application. Adjusted wording and supplied suggested revised paragraphs and stradegies. 
 
-2024-05-31 Fri: Setup wework account and did in-person registration.
+2024-05-31 Fri: Setup WeWork account and did in-person registration. 
 
 2024-05-30 Thu: Added function docs for [GNSPairInfoV6_1.sol](https://github.com/harmony-one/gTrade-v6.1/commit/5ec303fa788637f3bb02e445274d5bf7abd9f173).
 
