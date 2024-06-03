@@ -3,9 +3,9 @@
 
 ---
 
-2024-06-02 Sun:
+2024-06-02 Sun (1.0 hr): Scan of team's /progress plus continuation of futures class modules.
 
-2024-06-01 Sat:
+2024-06-01 Sat (1.0 hr): Coordination with Ta-da, Galaxii, and Partie on upcoming marketing content.
 
 2024-05-31 Fri: [Harmony community update](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd) and [tweet](). Futures class modules market sectors and market products. Design research of options interfaces on Robinhood. Testing on GMX, insights pending.
 
