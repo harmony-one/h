@@ -1,3 +1,7 @@
+2024-06-03 Mon: Gmx v1 on harmony: part of the interface related to trading V2 has been removed, the current frontend is on the [stand](https://gmx-harmony.web.app/#/v1/swap). Tested the functionality related to the creation of long and shorts - an error was found related to the formation of amount - fixing it. Testing the formation of price charts.
+
+---
+
 2024-05-31 Fri: Gmx v1 on harmony: Resolved issue with wrong price on swap. [Created](https://github.com/potvik/gmx-contracts/commit/1391ca674d1db0b6863daadf8f93d1a59e92b544) new scripts for configuring tokens and add liqudity. Configured and [added](https://github.com/harmony-one/gmx-interface/commit/329be2d900c3d80e929f1eb51f4dc8317dce012d) new tokens to [demo](https://gmx-harmony.web.app/#/v1) stand - right now we can test WONE/BUSD/LINK swap, but with small liqudity. Working on docs for adding new tokens/liqudity.
 
 2024-05-30 Thu: Gmx v1 on harmony: continue to investigate the problem of contracts when swapping tokens, I managed to localize the problem in the VaultReader contract in the getVaultTokenInfoV4 method. Made several fixes for the Vault, VaultReader and GlpManager contracts. Testing a new build.
