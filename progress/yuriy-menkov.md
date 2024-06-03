@@ -1,4 +1,4 @@
-2024-06-03 Mon: Gmx v1 on harmony: part of the interface related to trading V2 has been removed, the current frontend is on the [stand](https://gmx-harmony.web.app/#/v1/swap). Tested the functionality related to the creation of long and shorts - an error was found related to the formation of amount - fixing it. Testing the formation of price charts.
+2024-06-03 Mon: Gmx v1 on harmony: part of the interface related to trading V2 has been removed, the current frontend is deployed on the [stand](https://gmx-harmony.web.app/#/v1/swap). Tested the functionality related to the creation of long and shorts - an error was found related to the formation of amount - fixing it. Testing the formation of price charts.
 
 ---
 
