@@ -1,4 +1,12 @@
-2024-05-28 Wed (3h): (Continued) and review modified Synthetix configuration scripts for Harmony deployment and packaging. Review Cannon source code and documentation, debug deployment issues and workflow
+2024-06-02 Sun (2.5h): Panoptics liquidation, forced exercise, risks. Panoptic security, pool and collateral tracking contract functions, put-call parity analogies, data structures
+
+2024-06-01 Sat (2.5h): (Continued) and Panoptic presentations, Streamia (option premium) details, commission and fee calculations, adversarial scenarios analysis
+
+2024-05-31 Fri (6h): Panoptic fee model and protocol specs. Review Panoptic tech specs, presentation, code. dydx security incident review and comparison to Panoptic mechanism. Risk analysis for bad debt on Panoptics and potential attacks
+
+2024-05-30 Thu (1h): Deep dive on Panoptic product, code and documentation
+
+2024-05-29 Wed (3h): (Continued) and review modified Synthetix configuration scripts for Harmony deployment and packaging. Review Cannon source code and documentation, debug deployment issues and workflow
 
 2024-05-28 Tue (1h): (Continued)
 
