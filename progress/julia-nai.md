@@ -6,11 +6,11 @@
 
 ---
 
-2024-06-02 Sun:
+2024-06-02 Sun: 
 
 2024-06-01 Sat: (3.0h) Reviewed Coinbase application. Adjusted wording and supplied suggested revised paragraphs and stradegies. 
 
-2024-05-31 Fri: 
+2024-05-31 Fri: Setup wework account and did in-person registration.
 
 2024-05-30 Thu: Added function docs for [GNSPairInfoV6_1.sol](https://github.com/harmony-one/gTrade-v6.1/commit/5ec303fa788637f3bb02e445274d5bf7abd9f173).
 
@@ -25,7 +25,7 @@
 
 2024-05-26 Sun: (1.0h) Joined Gains network discord to see developer updates. 
 
-2024-05-25 Sat:
+2024-05-25 Sat: (2.0h) Looked at LayerZero application and provided feedback.
 
 2024-05-24 Fri: Reached out to Panoptic for audit report. Reviewed gTrade docs to get a better understanding of contract process specifically referencing code for [collateral section](https://gains-network.gitbook.io/docs-home/gtrade-leveraged-trading/trade-collaterals). 
 
