@@ -1,9 +1,5 @@
 
 
-**2-Week Deliverables by 2024-03-31:**
-
-Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
-
 ---
 
 2024-04-18 Thu: Calculated throughput for our chain. Cleaned and packed boxes at the office for move out day.
@@ -45,6 +41,12 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 2024-04-02 Tue: Continued writing the article. Focused on the Celestia core concepts as well as sovereign vs smart contract rollup explanation. Continued to work on the contract debugging process. Implemented scripts to determine throughput and block sizes for Shard 1.
 
 2024-04-01 Mon: Working on OP Stack deployment, especially the core L1 contract. Trying to debug deployment failure for few contracts.
+
+---
+
+**2-Week Deliverables by 2024-03-31:**
+
+Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifically, need to change the existing Rollkit SDK so that 1) interaction with Celestia for data avilability occurs, 2) settlement happens in Harmony Shard 1, and 3) deploy smart contract (and necessary features) in order to handle settlement.
 
 ---
 
