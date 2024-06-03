@@ -4,6 +4,8 @@
 
 2024-05-27 Mon (3h): Review Panoptic code and deep dive on documentation and mathematics
 
+---
+
 2024-05-26 Sun (5h): Research and review on Surf exchange and protocol. Revisit Uniswap v3 technical details and analyze relation to options based on Panoptic analogy. Revisit Uniswap v3 paper, mathematics, and implementation. 
 
 2024-05-25 Sat (6.5h): Deep dive into Infinity Pool protocol and its mathematics, liquidity reserve mechanisms, option analogy, fixed term and revolving loans. Review Hubble exchange history and design. Quick review on Infinity Pool community discussions and developer topics. Reviewing dydx history and version changes. 
