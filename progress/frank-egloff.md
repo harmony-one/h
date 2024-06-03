@@ -1,3 +1,10 @@
+2024-06-02 Sun: Working on reviewing the Portfolio page on the Trade app. 
+
+2024-06-01 Sat: Deployed Vertex contracts on Harmony's mainnet and added [multichain deployment support](https://github.com/fegloff/vertex-contracts/pull/1). Linked clearinghouse, spotEngine, perpEngine, endpoint, and arbAirdrop contracts to Trade app. Using this [contract](https://www.coingecko.com/en/coins/harmony-horizen-bridged-usdc-harmony
+) for ONE_USDC token 
+
+2024-05-31 Fri: I was sick
+ 
 2024-05-30 Thu: Finished integrating Harmony's [Mainnet and testnet](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/1) as supported chains for the Trade app. Continued working on the Trade app integration.
 
 2024-05-29 Wed: Deployed 1Bot latest changes, and fixed [openai issue](https://github.com/harmony-one/HarmonyOneBot/pull/362) with system message which limits completion to 100 words. Kept working on trade app porting, had progress on enabling harmonyTestnet. 
