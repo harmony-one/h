@@ -1,3 +1,6 @@
+2024-06-03 Mon: Kept working on the Vertex Trade App, reviewing contract handling and external API calls using the @tanstack package. The app is not retrieving any financial information (as expected), but also neither account info (e.g. wallet balance), working on that. Also, forked the defi_greeks repo and started reviewing perpetuals/liquidity positions in Rust.
+
+---
 2024-06-02 Sun: Working on reviewing the Portfolio page on the Trade app. 
 
 2024-06-01 Sat: Deployed Vertex contracts on Harmony's mainnet and added [multichain deployment support](https://github.com/fegloff/vertex-contracts/pull/1). Linked clearinghouse, spotEngine, perpEngine, endpoint, and arbAirdrop contracts to Trade app. Using this [contract](https://www.coingecko.com/en/coins/harmony-horizen-bridged-usdc-harmony
