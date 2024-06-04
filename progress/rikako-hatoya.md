@@ -1,4 +1,4 @@
-2024-06-03 Min: Continued working on deploying GMX clone to testnet (status by 6PM, will update this later as I continue work).
+2024-06-03 Mon: Continued working on deploying GMX clone to testnet (status by 6PM, will update this later as I continue work).
 
 2024-06-02 Sun: Continued working on deploying GMX clone to testnet.
 
