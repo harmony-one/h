@@ -1,4 +1,4 @@
-2024-06-03 Mon: Completed in person wework pass for office work. Continued LayerZero due diligence conversations. Reviewed [panoptic and options](https://threesigma.xyz/blog/defi-options-landscape) report, and dydx [keynote](https://www.youtube.com/watch?v=Nfi0C32xt54).
+2024-06-03 Mon: Completed in person wework pass for office work. Continued LayerZero due diligence conversations. Reviewed [panoptic and options](https://threesigma.xyz/blog/defi-options-landscape) report, and dydx [keynote](https://www.youtube.com/watch?v=Nfi0C32xt54). insight: asside from infrastructure, successful perpetual exchanges carve out their target user: i.e. dydx is only concerned with hedge funds and large volume api professional traders, not looking at average retail. 
 
 ---
 
