@@ -1,6 +1,18 @@
-Out of Office: 2024-05-28 to 2024-05-31
+2024-06-03 Mon: Completed in person wework pass for office work. Continued LayerZero due diligence conversations. Reviewed [panoptic and options](https://threesigma.xyz/blog/defi-options-landscape) report, and dydx [keynote](https://www.youtube.com/watch?v=Nfi0C32xt54).
 
-2024-05-27 Mon: [Commonwealth LayerZero Submission](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) published, under review from LayerZero team. Coinbase doc approved by Casey, moving to google docs to add edits from Stephen. Started Stargate communications.
+---
+
+2024-06-02 Sun: (1.0hr) Options review from my time as an options trader prior to moving to crypto. 
+
+2024-06-01 Sat: (1.0hr) Discussions with non-crypto holders. insights: much less maximalism in masses, pushes the narrative that all chains are 1 dapp away from mass adoption.
+
+2024-05-29 Thu - 2024-05-31 Fri: Paid Time Off.
+
+2024-05-29 Wed: More testing of [base.fun](https://www.base.fun/) insight: when chasing quick gains, barriers of entry are the biggest forms of friction, larger than user experience. Started transition to Panoptic focus, tested 1000x leverage on solcasino.  
+
+2024-05-28 Tue: [Commonwealth LayerZero Submission](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) published, under review from LayerZero team. Coinbase doc approved by Casey, moving to google docs to add edits from Stephen. Started Stargate communications.
+
+2024-05-27 Mon: Memorial Day
 
 ---
 
