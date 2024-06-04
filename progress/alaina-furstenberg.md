@@ -1,5 +1,5 @@
 
-2024-06-03 Mon: [Promotion of ONE Show episode 5]() & Galaxii platform. Continuation of Future's modules and quiz on the first module. Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
+2024-06-03 Mon: [Promotion of ONE Show episode 5](https://x.com/harmonyprotocol/status/1797782035433423160) & Galaxii platform. Continuation of Future's modules and quiz on the first module. Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
 
 ---
 
