@@ -1,4 +1,6 @@
-2024-06-03 Mon: Kept working on the Vertex Trade App, reviewing contract handling and external API calls using the @tanstack package. The app is not retrieving any financial information (as expected), but also neither account info (e.g. wallet balance), working on that. Also, forked the defi_greeks repo and started reviewing perpetuals/liquidity positions in Rust.
+2024-06-04 Tue: Reviewed defi_greek repo, which contains a Rust library with functions to calculate various risk measures and greeks for financial derivatives, including perpetual contracts, options, and concentrated liquidity positions. Working on enabling a webservice (although I have yet to experience with Rust) that exposes these risk calculation functionalities to other applications, contracts, or systems.
+
+2024-06-03 Mon: Kept working on the Vertex Trade App, reviewing contract handling and external API calls using the @tanstack package. The app is not retrieving any financial information (as expected), but also neither account info (e.g. wallet balance), working on that. Also, [forked](https://github.com/fegloff/defi_greeks) the defi_greeks repo and started reviewing perpetuals/liquidity positions in Rust.
 
 ---
 2024-06-02 Sun: Working on reviewing the Portfolio page on the Trade app. 
