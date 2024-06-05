@@ -1,3 +1,5 @@
+2024-06-05 Wed: Gmx v1 on harmony: Fixed issue with long/shorts positions - problem was in incorrected configured Position Router. Redeployed contracts and updated version on [gm.country](https://gm.country). Long/Shorts positions creating correctly, however still have problem with displaying charts and positions lists. Working on issue resolving.
+
 2024-06-04 Tue: Gmx v1 on harmony: worked on deploying interface to gm.country (with Aaron). [Configured](https://github.com/gmx-io/gmx-stats/compare/master...harmony-one:gmx-stats:harmony) and deployed stats service, now testing prices charts with new service. Still have issue with long/shorts positions, continue debugging contracts.
 
 2024-06-03 Mon: Gmx v1 on harmony: part of the interface related to trading V2 has been removed, the current frontend is deployed on the [stand](https://gmx-harmony.web.app/#/v1/swap). Tested the functionality related to the creation of long and shorts - an error was found related to the formation of amount - fixing it. Testing the formation of price charts.
