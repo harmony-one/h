@@ -2,6 +2,8 @@
 
 2024-06-03 Mon: Continued working on deploying GMX clone to testnet (status by 6PM, will update this later as I continue work).
 
+---
+
 2024-06-02 Sun: Continued working on deploying GMX clone to testnet.
 
 2024-06-01 Sat: Started to work on deploying clone of Yuriy's GMX replica to testnet.
