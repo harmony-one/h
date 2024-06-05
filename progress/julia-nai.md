@@ -8,7 +8,7 @@
 
 ---
 
-2024-06-02 Sun: 
+2024-06-02 Sun: (1.0h) Read through protofire patches to see changes required for gTrade.
 
 2024-06-01 Sat: (3.0h) Reviewed Coinbase application. Adjusted wording and supplied suggested revised paragraphs and stradegies. 
 
