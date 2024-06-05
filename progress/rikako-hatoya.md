@@ -1,3 +1,5 @@
+2024-06-04 Tue: Watched through panoptic oracle-free options trading talk, looked for slides, took screenshots. Watched other talks by Guillaume Lambert ("Your Protocol's Token Will Go to Zero", "Quantum Trades", "Taking DeFi Options To The Next Level").
+
 2024-06-03 Mon: Continued working on deploying GMX clone to testnet (status by 6PM, will update this later as I continue work).
 
 2024-06-02 Sun: Continued working on deploying GMX clone to testnet.
