@@ -2,19 +2,19 @@
 
 ---
 
-2024-06-04 Tue: 
+2024-06-04 Tue: Tried to deploy with injected connecter to Harmony testnet and ran into compiler version issues. Read through protofire patches to see changes required for gTrade. 
 
 2024-06-03 Mon: Interfaced with OpenOcean team to [source](https://github.com/protofire/interface/blob/harmony/patches/%40uniswap%2Bsdk-core%2B4.0.6.patch) contract addresses for swap deploy. 
 
 ---
 
-2024-06-02 Sun: (1.0h) Read through protofire patches to see changes required for gTrade.
+2024-06-02 Sun: (1.0h) 
 
 2024-06-01 Sat: (3.0h) Reviewed Coinbase application. Adjusted wording and supplied suggested revised paragraphs and stradegies. 
 
 2024-05-31 Fri: Setup WeWork account and did in-person registration. 
 
-2024-05-30 Thu: Added function docs for [GNSPairInfoV6_1.sol](https://github.com/harmony-one/gTrade-v6.1/commit/5ec303fa788637f3bb02e445274d5bf7abd9f173).
+2024-05-30 Thu: Added function docs for [GNSPairInfoV6_1.sol](https://github.com/harmony-one/gTrade-v6.1/commit/5ec303fa788637f3bb02e445274d5bf7abd9f173). Noted changes that would have to be looked at prior to Harmony deploy.
 
 2024-05-29 Wed: Read through contract to understand and write overview notes. Added function docs for [GNSTradingV6_1.sol](https://github.com/harmony-one/gTrade-v6.1/commit/20ab621fc342322cf2f488d2269bfe2559d2a8c7). Reviewed Coinbase doc with Theo. 
 
