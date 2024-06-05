@@ -1,3 +1,7 @@
+2024-06-04 Tue (5.65h): UI and smart contract tasks planning with developers. Review updates, on-chain options development plans. Review Panoptic analysis on LP tokens, delta neutral synthetics and parity analysis. Review onchain option plans, related presentations, EIP 4626 vaults. Reivew dydx evolution and UX review. Revisit perp historical evolutions and theories, price impact and calculations in old and new AMM
+
+2024-06-03 Mon (2.82h): Review expirationless option analysis and comparison against native perpetual. DNS management for gm.country. Review analysis and products referenced in Three Sigma research on perpetual landscape. Review high frequency trading systems
+
 2024-06-02 Sun (2.5h): Panoptics liquidation, forced exercise, risks. Panoptic security, pool and collateral tracking contract functions, put-call parity analogies, data structures
 
 2024-06-01 Sat (2.5h): (Continued) and Panoptic presentations, Streamia (option premium) details, commission and fee calculations, adversarial scenarios analysis
