@@ -2,6 +2,8 @@
 
 ---
 
+2024-06-05 Wed: Shut down now unused AWS instance. Read through Three Sigma's Neferpitou [blog](https://threesigma.xyz/blog/neferpitou).
+
 2024-06-04 Tue: Tried to deploy with injected connecter to Harmony testnet and ran into compiler version issues. Read through protofire patches to see changes required for gTrade. 
 
 2024-06-03 Mon: Interfaced with OpenOcean team to [source](https://github.com/protofire/interface/blob/harmony/patches/%40uniswap%2Bsdk-core%2B4.0.6.patch) contract addresses for swap deploy. 
