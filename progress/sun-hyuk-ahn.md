@@ -1,4 +1,8 @@
+2024-06-12 Wed: Continued research for protocol design and began overviewing smart contracts.
 
+2024-06-11 Tue: Continued Panoptics protocol overview and began researching protocol design and roles. 
+
+2024-06-10 Mon: Studied options basics and Panoptics protocol overview.
 
 ---
 
