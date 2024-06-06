@@ -1,4 +1,8 @@
 
+2024-06-05 Wed: Catch-up sync with Li, [thread on Aaron's /progress](https://x.com/harmonyprotocol/status/1798412145757225016), [promotion of the ONE Show Episode 5](https://x.com/harmonyprotocol/status/1798462414889025610), and continuation of the Future's course module 2. Editing to /options, to be released Friday 6pm. 
+
+2024-06-04 Tue: Review of the Robinhood options video series + [design research of Robinhood options platform via Reddit](https://www.reddit.com/r/RobinhoodOptions/). Continuation of module 2 on the Future's course, plus a review of the team's /progress.
+
 2024-06-03 Mon: [Promotion of ONE Show episode 5](https://x.com/harmonyprotocol/status/1797782035433423160) & Galaxii platform. Continuation of Future's modules and quiz on the first module. Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
 
 ---
