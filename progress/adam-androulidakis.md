@@ -4,7 +4,7 @@
 -A note about deploying locally: some Harmony staff have reported issues with insufficient funds while deploying using a .env key for hardhat projects. The debug environment stores the keystore for prefunded accounts in /harmony/.hmy/keystore. Import these keys with `hmy keys import-ks`, and then `hmy keys export-private-key keyname` will provide a 32 bit key that can be easily be used in hardhat as `process.env.THE_PRIVATE_KEY` (saved in `.env` as `THE_PRIVATE_KEY=123456789KEY`) <br>
 -Deployed gain locally https://github.com/adsorptionenthalpy/harmony_gain, this requires a Uniswapv2 router which I am working on streamlining deployment on Harmony. The sweepstakes code will need to be stripped out if we want to use this as the contract doesn't seem available, this also involves removing references to some of the formulas within the solidity source. <br>
 -There is another set of contracts for GainsNetwork which may be preferable to the GainProtocol https://github.com/adsorptionenthalpy/gTrade-v6.1 these I have roughly deployed on Harmony locally but they also require interfaces to be initialized <br>
--Performed code reviews with members of the protocol team
+-Performed code reviews with members of the protocol team <br>
 -I am currently investigating problems with undelegation on protocol side of things <br>
 
 2024-5-31 Fri: <br>
