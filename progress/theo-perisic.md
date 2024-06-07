@@ -1,3 +1,11 @@
+2024-06-07 Fri: 
+
+2024-06-06 Thu: Wallet management. Reviewed R1 [community engagement proposal](https://talk.harmony.one/t/expanding-the-r1-ambassador-program-for-enhanced-community-engagement-v2/24724). Insight: has the potential to change the grant and milestone paradigm and leverage proof of stake to help bolster the ecosystem as well as promote development and engagement growth. Proposal should be finalized with more concrete milestones and time boxed stake.  
+
+2024-06-05 Wed: Submitted coinmarketcap form for layer 1 category inclusion. [Harmony ONE  X space](https://twitter.com/i/spaces/1zqJVqeAbjXGB) speaker.
+
+2024-06-04 Tue: Submitted coingecko form for layer 1 category. Read through [/options](https://xn--qv9h.s.country/p/on-chain-and-open-source-perpetual) and continued DeFi deep dive.
+
 2024-06-03 Mon: Completed in person wework pass for office work. Continued LayerZero due diligence conversations. Reviewed [panoptic and options](https://threesigma.xyz/blog/defi-options-landscape) report, and dydx [keynote](https://www.youtube.com/watch?v=Nfi0C32xt54). insight: asside from infrastructure, successful perpetual exchanges carve out their target user: i.e. dydx is only concerned with hedge funds and large volume api professional traders, not looking at average retail. 
 
 ---
