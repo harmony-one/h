@@ -1,3 +1,9 @@
+2024-06-07 Fri:
+
+This week's focus was on stabilizing our devnet and testnet environments by restoring and updating snapshot nodes. The objective is to ensure that the latest code in the development branch is stable and functioning correctly.
+
+---
+
 2024-05-31 Fri:
 
 As anticipated last week during our investigation of the consensus loss in devnet, switching to DNS Sync has resulted in a stable consensus. Our next step is to enable streamsync on shard 1 while maintaining DNS Sync on shard 0 and continuing our troubleshooting efforts.
