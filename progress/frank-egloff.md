@@ -1,3 +1,6 @@
+
+2024-06-06 Thu: Deployed defi_greeks API to fly.io. [Added](https://github.com/fegloff/defi_greeks/pull/1 ) fly.io configuration, environment, and logger logic, and also [API_DOC](https://github.com/harmony-one/defi_greeks/blob/main/API_DOCS.md) markdown documentation. Kept working on the Vertex Trade App, but still having issues retrieving account information.
+
 2024-06-05 Wed: Implemented the [first version of the defi_greek API](https://github.com/fegloff/defi_greeks/pull/1) with the following endpoints: _/concentrated-liquidity_ (Calculates greeks for concentrated liquidity positions in DeFi protocols), _/squeeth_ (Calculates greeks for Ethereum power perpetual contract positions), _/calculate_greeks_ (Calculates option greeks based on input parameters) and _/health_ endpoints. 
 
 2024-06-04 Tue: Reviewed defi_greek repo, which contains a Rust library with functions to calculate various risk measures and greeks for financial derivatives, including perpetual contracts, options, and concentrated liquidity positions. Working on enabling a webservice (although I have yet to experience with Rust) that exposes these risk calculation functionalities to other applications, contracts, or systems.
