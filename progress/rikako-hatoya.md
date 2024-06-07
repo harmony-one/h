@@ -1,3 +1,5 @@
+2024-06-06 Thu: Continued watching through remaining options trading videos, more reserach into dydx, started reading into /perps.
+
 2024-06-05 Wed: Continued watching through the links on options trading/Panoptic ("LPs are selling free options", "AD Derivs", "Introducing Panotpic", "KB7 Defi Guild", "Defi Toronto").
 
 2024-06-04 Tue: Watched through panoptic oracle-free options trading talk, looked for slides, took screenshots. Watched other talks by Guillaume Lambert ("Your Protocol's Token Will Go to Zero", "Quantum Trades", "Taking DeFi Options To The Next Level").
