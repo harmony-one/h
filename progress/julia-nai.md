@@ -2,6 +2,10 @@
 
 ---
 
+2024-06-07 Fri: (Planned) deploy gTrade and conduct basic interaction testing with CLI.
+
+2024-06-06 Thu: [Modified](https://github.com/harmony-one/gTrade-v6.1/commit/e46a524f12c67464378c165614cfbcac274305aa) truffle config for Harmony mainnet and testnet. 
+
 2024-06-05 Wed: Shut down now unused AWS instance. Read through Three Sigma's Neferpitou [blog](https://threesigma.xyz/blog/neferpitou) and tradable [code audit](https://cdn.sanity.io/files/qoqld077/production/356b9a2521c8cc51620dee102c7d0b757c70e6f6.pdf).
 
 2024-06-04 Tue: Tried to deploy with injected connecter to Harmony testnet and ran into compiler version issues. Read through protofire patches to see changes required for gTrade. 
