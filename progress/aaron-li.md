@@ -1,3 +1,9 @@
+2024-06-08 Sat (0.88h): Experiments and discussion on security issue and possible exploits. Review DeFi derivative analysis
+
+2024-06-06 Thu (5.37h): Review virtual automated market maker mechanisms and landscape. Quick review of Hubble, Ribbon Finance, Thetanuts, Rollbit, Floor (NFT) perpetual instrument design. Review and verify staking and security issue impact and resolution. Domain managements for gx.country, gpt.country, and similar ones. Escalate and follow up domain dispute. Review and examine audit and development work of prospective collaborator (SwiftGate, Teller Finance, Titles, Exactly Protocol, veRWA). Review Everything Perpetual and verify mathematical derivations and possible extensions. Quick review of GMX technical analysis, DeFi derivative analysis. Evaluate and verify security issue impact
+
+2024-06-05 Wed (7.32h): Investigate urgent staking and security issue. Research on time-weighted automated market maker and possible uses in derivatives. Research on liquidity mining, math for ever lasting option, power perpetual. Resolve domain trademark and logo misuse issues. Research and discuss licensing issues. 
+
 2024-06-04 Tue (5.65h): Review updates, on-chain options development plans. Review Panoptic analysis on LP tokens, delta neutral synthetics and parity analysis. Review onchain option plans, related presentations, EIP 4626 vaults. Reivew dydx evolution and UX review. Revisit perp historical evolutions and theories, price impact and calculations in old and new AMM. Discussion on expertise and familiarity of Panoptic UI and smart contract tasks planning with Alex. Discussion and resolving Chainlink oracle and CCIP deployment issues with Artem for use in Synthetix. 
 
 2024-06-03 Mon (2.82h): Review expirationless option analysis and comparison against native perpetual. DNS management for gm.country. Review analysis and products referenced in Three Sigma research on perpetual landscape. Review high frequency trading systems
