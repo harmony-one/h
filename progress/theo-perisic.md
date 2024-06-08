@@ -1,4 +1,4 @@
-2024-06-07 Fri: 
+2024-06-07 Fri: Initialized conversations with [Stargate Foundation](https://stargate.finance/) for integration and [Magic Square](https://magicsquare.io/) for marketing.
 
 2024-06-06 Thu: Wallet management. Reviewed R1 [community engagement proposal](https://talk.harmony.one/t/expanding-the-r1-ambassador-program-for-enhanced-community-engagement-v2/24724). Insight: has the potential to change the grant and milestone paradigm and leverage proof of stake to help bolster the ecosystem as well as promote development and engagement growth. Proposal should be finalized with more concrete milestones and time boxed stake.  
 
