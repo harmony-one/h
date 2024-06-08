@@ -1,3 +1,5 @@
+2024-06-07 Fri: Continued research and looking into links + relevant content on the protocols mentioned on /perps (Gauntlet, Gearbox, Vega, Voltz, etc).
+
 2024-06-06 Thu: Synced with Li. Continued watching through remaining options trading videos, more reserach into dydx, started reading /perps.
 
 2024-06-05 Wed: Continued watching through the links on options trading/Panoptic ("LPs are selling free options", "AD Derivs", "Introducing Panotpic", "KB7 Defi Guild", "Defi Toronto").
