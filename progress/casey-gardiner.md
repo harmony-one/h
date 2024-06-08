@@ -1,3 +1,57 @@
+### Weekly Progress Update: 2024-06-07
+
+#### HIP-32 Monitoring and Development
+
+- **HIP-32:**
+  - Continued monitoring and coordination of HIP-32 development.
+  - Maintained stable devnet and testnet environments.
+  - Managed and reviewed multiple PRs to ensure smooth progress.
+
+#### Bug Investigation
+
+- **Critical Issue with Pending Undelegations:**
+  - **Issue Summary:**
+    - Discovered a critical bug where funds were released but the pending undelegation object was not cleared.
+    - This posed a risk of a second release of pending undelegations and potential abuse to mint new ONE tokens.
+
+  - **Actions Taken:**
+    - Analyzed protocol behavior and confirmed the bug.
+    - Researched fixes to ensure proper clearing of pending undelegation objects.
+    - Report will be released shortly.
+
+#### Code Review and PR Management
+
+- **Reviewed PRs:**
+  - **Removed Threshold for 10 Epochs (#4671):**
+    - Fixed the threshold issue for devnet crosslinks.
+  - **Fix for Race Condition in New Block Post-Consensus (#4677):**
+    - Addressed potential race conditions during new block post-consensus processing.
+  - **Crosslink Heartbeat Verification (#4673):**
+    - Ensured crosslink heartbeats are signed and verified correctly across epochs.
+
+#### Research and Development
+
+- **Derivatives Smart Contracts:**
+  - Researched, optimized, and deployed derivatives smart contracts using Panoptic.
+  
+- **Superchain Research:**
+  - Investigated the decentralized shared sequencer approach used by Superchain.
+  
+- **Options and Derivatives Market:**
+  - Conducted extensive research on developments in the options and derivatives market.
+
+#### Partnerships and Collaborations
+
+- **Engagements:**
+  - Engaged with potential partners, including Partie, DelphiDigital, Coinbase, and Circle.
+
+- **Notable Meetings:**
+  - Had a productive sync with Li and discussed potential Web3 game development on Harmony.
+
+This week has been focused on ensuring the stability and progress of HIP-32, addressing critical bugs, and advancing research and development in derivatives smart contracts. Engaging with potential partners and preparing for upcoming initiatives are also key highlights.
+
+___
+
 **Weekly Progress Update: 2024-05-24**<br>
 **Leadership and Project Management**<br>
 
