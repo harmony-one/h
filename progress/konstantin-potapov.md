@@ -1,3 +1,7 @@
+2024-06-07 Fri: This week, I completed the task of broadcasting vote power across the network. I also resolved a panic issue during unsuccessful node termination that could potentially lead to state corruption. Additionally, I implemented a PoC for the HotStuff chained protocol, aiming to understand the differences between Harmony's implementation and HotStuff's approach.
+
+---
+
 2024-05-31 Fri: This week, Soph and I have been testing the crosslink fix on the devnet. It successfully synchronized all missing crosslinks, so we have moved further testing to the testnet. Additionally, I am continuing to work on leader broadcasting vote power through the network. This will enable us to debug the network even when we lack information about the leader.          
 
 ---
