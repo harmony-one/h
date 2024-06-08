@@ -1,5 +1,5 @@
-2024-06-09 Sat:
-Last week, I replicated the same changes on P2P configurations and muxers for the main net. I pushed the PR to the bootnode_fix branch, which is cloned from the main net, and it is currently under review by the team.
+2024-06-08 Sat:
+Last week, I replicated the same changes on P2P configurations and muxers for the main net. I pushed the PR to the bootnode_fix branch, which is cloned from the main branch, and it is currently under review by the team.
 
 We conducted a study to make decisions about security configurations, and it is under investigation by the DevOps team using the visibility provided by the P2P trace file.
 
