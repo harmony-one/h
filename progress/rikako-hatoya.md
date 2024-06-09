@@ -1,4 +1,4 @@
-2024-06-08 Sat: looked into how to deploy onto my domain with AWS S3 bucket. Looked into developing more about GMX (improving features.)
+2024-06-08 Sat: looked into how to deploy onto my domain with AWS S3 bucket. Looking into deployment configurations with gmx-interface.
 
 2024-06-07 Fri: Continued research and looking into links + relevant content on the protocols mentioned on /perps (Gauntlet, Gearbox, Vega, Voltz, etc).
 
