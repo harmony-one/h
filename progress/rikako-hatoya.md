@@ -1,4 +1,4 @@
-2024-06-09 Sun (3.5h): Updated GMX-interface with my deployed contracts and commited to a [forked repo](https://github.com/rika97/gmx-interface/tree/harmony). Working on debugging some contract deploys and updating user interface with charts, looking into ["gmx-subgraph"](https://github.com/harmony-one/gmx-subgraph).
+2024-06-09 Sun (3.5h): Updated GMX-interface with my deployed contracts and commited to a [forked repo](https://github.com/rika97/gmx-interface/tree/harmony). Working on debugging some contract deploys and updating user interface with charts, looking into ["gmx-subgraph"](https://github.com/harmony-one/gmx-subgraph) (network chart does not seem to be displaying correctly, also trying to figure out the contract address configuration for "Synthetcis" by looking into the deploy script.
 
 2024-06-08 Sat (2.5h): looked into how to deploy onto my domain with AWS S3 bucket. Looking into deployment configurations with gmx-interface.
 
