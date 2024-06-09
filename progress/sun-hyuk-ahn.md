@@ -1,3 +1,9 @@
+2024-06-15 Sat (6): Spent time overviewing Streamia (Streaming Premia) especially on how it completes fee tracking in Uniswap, and fee and liquidity tracking Panoptics. Will continue tomorrow and work to see if I can work fork off and deploy.
+
+2024-06-14 Fri: Researched uniswap v3, especially how it interacts with Panoptics as the main pool. Dived into Uniswap v3 smart contracts as well.
+
+2024-06-13 Thu: Went deeper into general options trading, realized I lack deep understanding options in order to fully understand the protocol logic.
+
 2024-06-12 Wed: Continued research for protocol design and began overviewing smart contracts.
 
 2024-06-11 Tue: Continued Panoptics protocol overview and began researching protocol design and roles. 
