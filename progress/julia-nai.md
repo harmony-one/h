@@ -2,7 +2,7 @@
 
 ---
 
-2024-06-07 Fri: (Planned) deploy gTrade and conduct basic interaction testing with CLI.
+2024-06-07 Fri: Had a check in and life update with Li. (Planned) deploy gTrade and conduct basic interaction testing with CLI.
 
 2024-06-06 Thu: [Modified](https://github.com/harmony-one/gTrade-v6.1/commit/e46a524f12c67464378c165614cfbcac274305aa) truffle config for Harmony mainnet and testnet. Included both mainnet and testnet in .env.
 
