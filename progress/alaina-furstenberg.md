@@ -1,6 +1,6 @@
 2024-06-09 Sun (1.0 hr): [Upload of ONE Show Episode 5](https://youtu.be/p6wQZFtxMSk), [sharing on twitter](https://x.com/harmonyprotocol/status/1800214360109064274), reorganizing /progress
 
-2024-06-08 Sat (1.0 hr): Editing of ONE Show Episode 5, design of thumbnail and looping gif
+2024-06-08 Sat (1.0 hr): Editing of ONE Show Episode 5, [design of thumbnail and looping gif](https://www.canva.com/design/DAGCcUSOYnQ/DFRI3d4qNCEMq2IYfM0Xlw/edit?utm_content=DAGCcUSOYnQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 2024-06-07 Fri: Harmony one community update, posting of harmony.one/options on Substack and on [Twitter as a thread](https://x.com/harmonyprotocol/status/1799249971419783374). Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f). Testing of GMX V1.
 
