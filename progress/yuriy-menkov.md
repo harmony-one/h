@@ -1,3 +1,7 @@
+2024-06-10 Mon: Gmx v1 on harmony: received feedback from Rikako on the deployment script and made corrections - [added](https://github.com/potvik/gmx-contracts/commit/d77fdf035cdd60b43ad72ceb3c641e2c3c42fc1a) deployment of the PositionRouter contract and setting up token pairs; Redeployed priceFeed contracts for tokens with correct [Harmony ChainlinkAggregator](https://docs.harmony.one/home/developers/tools/oracles/chainlink) integration. Updated contracts for gmx-stats subgraph and continue testing.
+
+---
+
 2024-06-07 Fri: Gmx v1 on harmony: [fixed](https://gx-country.web.app/#/v1) all titles, meta and icons in the interface. Waiting for approval from Aaron for deployment to gx.country. During the gmx subgraph research, it turned out that we had the integration of contracts with ChainlinkAggregator configured incorrectly. Reworking the deployment script for the correct interaction of VaultPriceFeed contracts with harmony ChainLink.
 
 2024-06-06 Thu: Gmx v1 on harmony: investigated the issue related to the [license](https://gov.gmx.io/t/labs-proposal/788) to use the gmx interface source code and contracts - since registrar suspended the domain and ask for official permission from GMX. Worked on changing the ux interface to remove corporate logos and gmx names from there. Continue working on stats service integration/launching: pools, positions lists.
