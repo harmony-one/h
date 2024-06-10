@@ -1,3 +1,10 @@
+2024-06-09 Sun (1.0 hr): Upload of ONE Show Episode 5, sharing on twitter, reorganizing /h
+
+2024-06-08 Sat (1.0 hr): Editing of ONE Show Episode 5
+
+2024-06-07 Fri: Harmony one community update, posting of harmony.one/options on Substack and on [Twitter as a thread](https://x.com/harmonyprotocol/status/1799249971419783374). Continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f). Testing of GMX V1.
+
+2024-06-06 Thu: Sharing of [Casey's /progress on Twitter](https://x.com/harmonyprotocol/status/1798869161583706415z). Continuation of module 3 on the Future's course.
 
 2024-06-05 Wed: Catch-up sync with Li, [thread on Aaron's /progress](https://x.com/harmonyprotocol/status/1798412145757225016), [promotion of the ONE Show Episode 5](https://x.com/harmonyprotocol/status/1798462414889025610), and continuation of the Future's course module 2. Editing to /options, to be released Friday 6pm. 
 
