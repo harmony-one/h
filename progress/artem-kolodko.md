@@ -1,4 +1,4 @@
-2024-06-10 Mon: started disussion with Difeng Jiang - manager from Chainlink Labs - regarding launching CCIP on Harmony chain; shared some basic details and requirements from our side. Continue working on other problems with Synthetix deployment: investigating error "could not populate arachnid signer address" that was raised during the deployment script run.
+2024-06-10 Mon: started discussion with Difeng Jiang - manager from Chainlink Labs - regarding launching CCIP on Harmony chain; shared some basic details and requirements from our side. Continue working on other problems with Synthetix deployment: investigating error "could not populate arachnid signer address" that was raised during the deployment script run.
 
 ---
 
