@@ -1,3 +1,13 @@
+2024-06-11 Tue: Further Panoptic discussions in discord about PLP (Passive Liquidity Provider). Research on Perpetual exchange liquidity tokens, [GLP](https://gmx-docs.io/docs/tokenomics/rewards/) for GMX, [JLP](https://jup.ag/perps-earn) for Jupiter, and [dydx](https://docs.dydx.exchange/users-rewards/staking_rewards) token for dydx. Insight: of these tokens, dydx requires the token to be staked in order to receive the benefits of fee distribution.
+
+2024-06-10 Mon: Discussions with Panoptic CEO. Research on dapp tokenomics from leading applications: Lido, Wormhole, Aave. Insight: although tokenomics from these and other tokens can be useful, focusing solely on perpetual exchanges and DEXs would be better for our use case.
+
+---
+
+2024-06-09 Sun: (1.0hr) Deliverable realignment, hold on bridge and marketing listing progression, change to Panoptic focus.
+
+2024-06-08 Sat: (1.0hr) Review of [highest TVL bridge](https://defillama.com/protocols/Cross%20Chain). Insight: Stargate highest with ~$240m, average daily volume ~$24m
+
 2024-06-07 Fri: Initialized conversations with [Stargate Foundation](https://stargate.finance/) for integration and [Magic Square](https://magicsquare.io/) for marketing.
 
 2024-06-06 Thu: Wallet management. Reviewed R1 [community engagement proposal](https://talk.harmony.one/t/expanding-the-r1-ambassador-program-for-enhanced-community-engagement-v2/24724). Insight: has the potential to change the grant and milestone paradigm and leverage proof of stake to help bolster the ecosystem as well as promote development and engagement growth. Proposal should be finalized with more concrete milestones and time boxed stake.  
