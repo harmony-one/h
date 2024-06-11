@@ -2,6 +2,14 @@
 
 ---
 
+2024-06-10 Mon: Debugging deployment error for gTrade being thrown by GNSPairInfosV6_1. Deployment is failing with 2_deploy_contract. No longer encountering underpricing error. 
+
+---
+
+2024-06-09 Sun: (1.0h) Created infura account and looked into how infura works and familiarized myself with the layout and operation. 
+
+2024-06-08 Sat: (2.0h) Debugging `"Migrations" -- transaction underpriced.` error on deployment of gTrade. Attempted to raise gasPrice to web3.utils.toWei('1000', 'gwei'). 
+
 2024-06-07 Fri: Had a check in and life update with Li. (Planned) deploy gTrade and conduct basic interaction testing with CLI.
 
 2024-06-06 Thu: [Modified](https://github.com/harmony-one/gTrade-v6.1/commit/e46a524f12c67464378c165614cfbcac274305aa) truffle config for Harmony mainnet and testnet. Included both mainnet and testnet in .env.
