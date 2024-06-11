@@ -1,3 +1,5 @@
+2024-06-11 Tue: worked on deploying arachnid create2 contract that is necessary for Synthetix deployment. Found [repo](https://github.com/Arachnid/deterministic-deployment-proxy) with original contract, created deployment [script](https://github.com/ArtemKolodko/deterministic-deployment-proxy/pull/1/files) for Harmony chain, but got an error with chainid mismatch for compiled contract and target network; working on fix.
+
 2024-06-10 Mon: started discussion with Difeng Jiang - manager from Chainlink Labs - regarding launching CCIP on Harmony chain; shared some basic details and requirements from our side. Continue working on other problems with Synthetix deployment: investigating error "could not populate arachnid signer address" that was raised during the deployment script run.
 
 ---
