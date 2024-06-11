@@ -1,3 +1,5 @@
+2024-06-11 Tue: Gmx v1 on harmony: [updated](https://github.com/harmony-one/gmx-interface/commit/caaac57c1d51f075dd9d82096acf1130644062c3) ux - removed unnecessary texts and meta data; Updated contracts for gmx-raw subgraph (required to display a list of positions). Continue integration and testing subgraphs with gmx stats service. Working on new documentation on connecting and integrating subgraphs.
+
 2024-06-10 Mon: Gmx v1 on harmony: received feedback from Rikako on the deployment script and made corrections - [added](https://github.com/potvik/gmx-contracts/commit/d77fdf035cdd60b43ad72ceb3c641e2c3c42fc1a) deployment of the PositionRouter contract and setting up token pairs; Redeployed priceFeed contracts for tokens with correct [Harmony ChainlinkAggregator](https://docs.harmony.one/home/developers/tools/oracles/chainlink) integration. Updated contracts for gmx-stats subgraph and continue testing.
 
 ---
