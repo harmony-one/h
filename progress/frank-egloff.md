@@ -1,3 +1,5 @@
+2024-06-11 Tue: Continue working on mocking [Vertex SDK methods](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2). Had issues deploying the current Vertext version on fly.io, working on fixing the configuration issues. 
+
 2024-06-10 Mon: Started working on Vertex Client SDK Mock for Vertex app monorepo and also working to deploy the first version of the Trade App on fe.country.  
 
 ---
