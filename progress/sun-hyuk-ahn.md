@@ -1,3 +1,9 @@
+2024-06-17 Tue: Spent time going over `PanopticFactory.sol` and `PanopticPool.sol` which deploys an options market on top of an existing Uniswap v3 pool and manages positions, collateral, liquidations and forced exercises, respectively. Also, spent time going over `UniswapV3Pool.sol`, a dependency, and how it acts as a "short put" in Panoptics term. Having some trouble grasping the concept and will go over it tomorrow once more.
+
+2024-06-17 Mon: Continued Streamia research and overview. Spent time going over `SemiFungiblePositionManager.sol` contract that manages liquidity pool position. Still feel the lack of experience regarding options but will first go over smart contracts.
+
+---
+
 2024-06-15 Sat (6): Spent time overviewing Streamia (Streaming Premia) especially on how it completes fee tracking in Uniswap, and fee and liquidity tracking Panoptics. Will continue tomorrow and work to see if I can work fork off and deploy.
 
 2024-06-14 Fri: Researched uniswap v3, especially how it interacts with Panoptics as the main pool. Dived into Uniswap v3 smart contracts as well.
