@@ -12,7 +12,7 @@
 
 2024-06-03 Mon (2.82h): Review expirationless option analysis and comparison against native perpetual. DNS management for gm.country. Review analysis and products referenced in Three Sigma research on perpetual landscape. Review high frequency trading systems
 
---
+---
 
 2024-06-02 Sun (2.5h): Panoptics liquidation, forced exercise, risks. Panoptic security, pool and collateral tracking contract functions, put-call parity analogies, data structures
 
