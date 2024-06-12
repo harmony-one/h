@@ -8,7 +8,7 @@ Additionally, I managed the completion of comprehensive Coinbase documentation, 
 
 ---
 
-Q2 Review: [DRAFT (OLD)]
+Q2 Review: [DRAFT-OLD]
 
 In Q2, I reengaged with key platforms like [Coinbase](https://www.coinbase.com/) and [Moonpay](https://www.moonpay.com/) and began discussions with potential partners including [Stargate](https://stargate.finance/), [OpenOcean](https://openocean.finance/), [Synapse](https://synapseprotocol.com/), and [Li.Fi](http://li.fi/). These preliminary talks are critical for enhancing Harmony’s functionality and expanding access to liquidity, positioning us for potential inclusion in industry leading cross-chain bridge and DEX applications.
 
