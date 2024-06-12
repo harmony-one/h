@@ -1,4 +1,6 @@
 
+2024-06-12 Wed:
+
 2024-06-11 Tue: [Tweet on harmony.one/options](https://x.com/harmonyprotocol/status/1800640588272058501). Sync with Theo on designing harmony.one website plus syncing on the landing page for ONE Bot. Design review of [Panoptic.xyz](https://beta.panoptic.xyz/new-position?tokenId=0xa374094527e1673a)... insights here.
 
 2024-06-10 Mon: [Thread](https://x.com/harmonyprotocol/status/1800239467565130164) on team's /progress, reorganizing archived files on /progress, GMX insights as noted [here](https://www.notion.so/harmonyone/GMX-1e73ac5501be48acaecd68a0b67d6c91?pvs=4). Module 3 of the futures course and continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
