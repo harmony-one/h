@@ -1,3 +1,14 @@
+Q2 Review: [DRAFT]
+
+In Q2, I reengaged with key platforms like [Coinbase](https://www.coinbase.com/) and [Moonpay](https://www.moonpay.com/) and began discussions with potential partners including [Stargate](https://stargate.finance/), [OpenOcean](https://openocean.finance/), [Synapse](https://synapseprotocol.com/), and [Li.Fi](http://li.fi/). These preliminary talks are critical for enhancing Harmony’s functionality and expanding access to liquidity, positioning us for potential inclusion in industry leading cross-chain bridge and DEX applications.
+
+Further, I initiated discussions with the [Encode](https://www.encode.club/) team about a possible hackathon focused on Web3 and AI, preparing the groundwork if we choose to proceed. I've also been cultivating a growing partnership with [TA-DA](https://ta-da.io/), a web3 version of Mechanical Turk, designed to ensure higher quality task completions. Moreover, I participated in 3 community X spaces and 1 larger space in collaboration with [Swoop](https://swoop.exchange/), one of the leaders in cross-chain aggregation, enhancing our community outreach and engagement. In addition to this I oversaw internal operational tasks such as employee off-boarding, pausing contracts, and 2 office location changes, ensuring smooth transitions and continuous operation efficiency.
+
+I led the successful coordination and submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) and crafted a new [perpetual dex proposal]([https://harmonyone.notion.site/Perps-PRD-d11c3efa2cf6457b96105bc9a5a65dd7?pvs=4](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21)) that incorporates liquidity provider tokens to enhance trading dynamics. Additionally, I managed the completion of comprehensive Coinbase documentation, detailing 38 unique applications utilizing the Harmony protocol, from DeFi apps to essential infrastructure tools, this document is now undergoing internal finalization.
+
+---
+
+
 2024-06-11 Tue: Further Panoptic discussions in discord about PLP (Passive Liquidity Provider). Research on Perpetual exchange liquidity tokens, [GLP](https://gmx-docs.io/docs/tokenomics/rewards/) for GMX, [JLP](https://jup.ag/perps-earn) for Jupiter, and [dydx](https://docs.dydx.exchange/users-rewards/staking_rewards) token for dydx. Insight: of these tokens, dydx requires the token to be staked in order to receive the benefits of fee distribution.
 
 2024-06-10 Mon: Discussions with Panoptic CEO. Research on dapp tokenomics from leading applications: Lido, Wormhole, Aave. Insight: although tokenomics from these and other tokens can be useful, focusing solely on perpetual exchanges and DEXs would be better for our use case.
