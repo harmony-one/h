@@ -1,4 +1,6 @@
-2024-06-08 Sat (0.88h): Experiments and discussion on security issue and possible exploits. Review DeFi derivative analysis
+2024-06-11 Tue (3.33h): Setup gx.country, fe.country. GCP access control for Vertex deployment. Synthetix deployer contract and deployment debugging and discussions. Review Foundry, Forge script, Anvil. Review Panoptic presentation and development progress. Research and review user experience issues on perp DEX, deposit and withdraw, and problematic scenarios
+
+2024-06-08 Sat (2.07h): Experiments and discussion on security issue and possible exploits. Review DeFi derivative analysis
 
 2024-06-06 Thu (5.37h): Review virtual automated market maker mechanisms and landscape. Quick review of Hubble, Ribbon Finance, Thetanuts, Rollbit, Floor (NFT) perpetual instrument design. Review and verify staking and security issue impact and resolution. Domain managements for gx.country, gpt.country, and similar ones. Escalate and follow up domain dispute. Review and examine audit and development work of prospective collaborator (SwiftGate, Teller Finance, Titles, Exactly Protocol, veRWA). Review Everything Perpetual and verify mathematical derivations and possible extensions. Quick review of GMX technical analysis, DeFi derivative analysis. Evaluate and verify security issue impact
 
