@@ -1,5 +1,7 @@
 **2024 Q2 Review**
-I integrated GPT-4o to 1Bot, implemented token-based security and refactored the codebase to facilitate adding new large language models and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues and improved user experience.
+I integrated GPT-4o to 1Bot, implemented token-based security and refactored the codebase to facilitate adding new large language models and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues.
+
+
 
 
 [Draft 1]
