@@ -1,3 +1,5 @@
+2024-06-13 Thu: Gmx v1 on harmony: localized the problem in the stats subgraph - removed some of the problematic contracts and events that interfered with synchronization, also updated the versions of ts packages for assembling the subgraph. Deploying a new subgraph version and continuing to test the statistics service; Also worked on deploy statistic service to fly.io;
+
 2024-06-12 Wed: Created a script to check how many bridge wallets for airdrop LayerZero transferred more than 10, 100, 1000 USD (requested by Theo); Gmx v1 on harmony: Several more problems were found when integrating the gmx stats service with the gmx-harmony subgraph, continue debugging to localize the problem.
 
 2024-06-11 Tue: Gmx v1 on harmony: [updated](https://github.com/harmony-one/gmx-interface/commit/caaac57c1d51f075dd9d82096acf1130644062c3) ux - removed unnecessary texts and meta data; Updated contracts for gmx-raw subgraph (required to display a list of positions). Continue integration and testing subgraphs with gmx stats service. Working on new documentation on connecting and integrating subgraphs.
