@@ -1,7 +1,7 @@
 **2024 Q2 Review**
-I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024565259), implemented token-based security and refactored the codebase to facilitate adding new large language models and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues.
+I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024565259), implemented token-based security and refactored the codebase to facilitate adding new large language models, including Claude, Sonnet, Haiku, and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues.
 
-Porting and deploying Vertex Trade contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives) and improved 1.country one-and-two-letter domain handling and certificate management.
+Porting and deploying Vertex Trade contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API which provides endpoints for calculating risk measures and greeks for various financial derivatives and improved 1.country one-and-two-letter domain handling and certificate management.
 
 
 [Draft 1]
