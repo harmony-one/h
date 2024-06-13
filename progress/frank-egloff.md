@@ -1,3 +1,20 @@
+**2024 Q2 Review**
+I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024565259), implemented token-based security and refactored the codebase to facilitate adding new large language models, including Claude, Sonnet, Haiku, and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues.
+
+Porting and deploying Vertex Trade contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API which provides endpoints for calculating risk measures and greeks for various financial derivatives and improved 1.country one-and-two-letter domain handling and certificate management.
+
+---
+
+[Draft 1]
+During the second quarter, I enhanced 1Bot's functionality, security, and performance by integrating the GPT-4o model, implementing token-based security, and refactoring the codebase to facilitate adding new llms, models and subagent integration. Key features added include model-specific conversation handling and access to Anthropic tool feature. I fixed simultaneous command call issues and improved user experience.
+
+Worked on porting the Vertex Trade App to Harmony. This involved developing a deploy script and successfully deploying all Vertex contracts to both the Harmony Mainnet and Testnet chains. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Despite encountering some deployment and testing challenges, I continued in mocking the Vertex SDK methods and review the Trade app to ensure its compatibility on the Harmony network.
+
+Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
+
+---
+
+
 2024-06-12 Wed: After trying different approaches to handle the methods specific to the Harmony chain without affecting the functionality of the existing components on Vertex's Trade app (like creating a separate HarmonyVertexClientContextProvider while keeping the existing VertexClientContextProvider), was able to find a more [straightforward approach](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) that will help a gradual migration of each method that calls Vertex endpoints. On the data package (@vertex-protocol/web-data), created a harmonyClient module that replicates the structure of the VertexClient class but added the isHarmony attribute to check on what chain the app is working and also included the harmonyClient on VertexClientContext, making it available to the whole app. Made changes on a subaccount and quotePrice hooks to call harmonyClient methods if the isHarmony attribute is true. Still had issues deploying the app on fly.io, and testing the build script locally also didn't work (having issues with CSS directives).    
 
 2024-06-11 Tue: Continue working on mocking [Vertex SDK methods](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2). Had issues deploying the current Vertext version on fly.io, working on fixing the configuration issues. 
