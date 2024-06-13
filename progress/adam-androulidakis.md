@@ -1,3 +1,20 @@
+2024 Q2 Review - Draft
+
+On the protocol side of things, all efforts have been focused on aiding the team with finalizing all requirements that will conclude delivery of HIP-32. Lately this has been hampered by p2p issues impacting network synchronization and undelegating from validators I am working with other developers to solve.  <br>
+
+In developer operations role, I reviewed important pull requests with other developers of the team like usual and helped to maintain operations of our network. I will have been on-call for a total of 28 business days before the end of the quarter, marking almost a month of being bombarded by some highly sensitive alerts. <br>
+
+Chain Force was a complex exercise from the pervious quarter which saw a pre-release on Apr 16th. This delivered a gameplay concept which seemed to receive fairly positive feedback on social media https://github.com/harmony-one/Project-G/releases/tag/1a. My last commit (May 5th) was a music track I made for the demo level, but this is not part of the pre-release. https://github.com/harmony-one/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e <br>
+Development was suspended in favor of other projects. Along with the relative written godot SDKs, it is now being handled by a 3rd party I coordinate with on rare occasion. Information about what is in store for Phase 2 can be found here: https://github.com/harmony-one/Project-G/blob/main/log <br>
+
+In addition, I am finalizing my write-up that ties together Harmony Blockchain, Gaming, AI goals that was delayed from being out sick a couple of weeks. This will be ready release before the end of the quarter. <br>
+
+For the remainder of Q2 I have focused on defi/perps and deploying a set of contracts that match up with our goal of releasing useful perpetuals trading tools. 
+After an abundance of research I am now outlining the requirements and writing/preparing the necessary contracts. This involved getting Hardhat and other frameworks working correctly on the Harmony localnets and understanding how to properly deploy/test/use uniswap router contracts. Testing: https://github.com/harmony-one/harmony_uniswapv3 <br>
+
+
+---
+
 2024-6-7 Fri:
 -Watched a bunch of videos while recovering from my illness, research, etc: https://github.com/adsorptionenthalpy/perp_resources<br>
 -There were problems with hardhat deploying contracts onto harmony local (debug) and mainnet. This should be fixed now. https://github.com/adsorptionenthalpy/harmony_hardhat. This hardhat scaffold contains two original FIO smart contracts for an erc20 and erc721 token with built in elected oracles and operating custodians that may prove useful in wrapping/unwrapping tokens securely.<br>
