@@ -1,3 +1,5 @@
+2024-06-12 Wed: Looking into opening positions and swap function/liquidity for GMX fork. Further looking into resolving the display for charts.
+
 2024-06-11 Tue: Currently working with Soph to get AWS setup. Looked further into GMX-subgraphs repo, looked through Yuriy's progress+work to work through deployign stats.
 
 2024-06-10 Mon: Redeployed more contracts for GMX with help from Yuriy and re-rendered my gmx-interface accordingly. Looked into how to display the chart positions on the front-end by looking into GMX subgraphs.
