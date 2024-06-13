@@ -1,3 +1,11 @@
+2024 Q2 Review
+
+Finalizing all requirements to deliver HIP-32, focusing on peer-to-peer issues impacting network synchronization and undelegating from validators. For the remainder of Q2 I have focused on DeFi and perpetuals and deploying a set of contracts that match up with our goal of releasing useful perpetuals trading tools. I am now outlining the requirements and writing/preparing the necessary contracts. This involved getting Hardhat and other frameworks working correctly on the Harmony localnets and understanding how to properly deploy/test/use [uniswap]([url](https://github.com/harmony-one/harmony_uniswapv3) router contracts.
+
+Delivered gameplay concept for [Chain Force](https://github.com/harmony-one/Project-G/releases/tag/1a) with [music track](https://github.com/harmony-one/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e). Along with the relative written godot SDKs, it is now being handled by a 3rd party I coordinate with for [phase 2](https://github.com/harmony-one/Project-G/blob/main/log). Finalizing my write-up that ties together Harmony blockchain, gaming, AI goals.
+
+---
+
 2024 Q2 Review - Draft
 
 On the protocol side of things, all efforts have been focused on aiding the team with finalizing all requirements that will conclude delivery of HIP-32. Lately this has been hampered by p2p issues impacting network synchronization and undelegating from validators I am working with other developers to solve.  <br>
