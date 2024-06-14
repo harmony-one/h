@@ -14,6 +14,7 @@ Additional tasks completed include implementing and deploying the defi_greeks AP
 
 ---
 
+2024-06-13 Thu: Worked on engineClient, indexerClient, and subaccount mock calls. Had issues with the Trade app's local build. The issue is related to the trading page, which is accessing a dts-bundle-generator module that can't be resolved. Working on workarounds.
 
 2024-06-12 Wed: After trying different approaches to handle the methods specific to the Harmony chain without affecting the functionality of the existing components on Vertex's Trade app (like creating a separate HarmonyVertexClientContextProvider while keeping the existing VertexClientContextProvider), was able to find a more [straightforward approach](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) that will help a gradual migration of each method that calls Vertex endpoints. On the data package (@vertex-protocol/web-data), created a harmonyClient module that replicates the structure of the VertexClient class but added the isHarmony attribute to check on what chain the app is working and also included the harmonyClient on VertexClientContext, making it available to the whole app. Made changes on a subaccount and quotePrice hooks to call harmonyClient methods if the isHarmony attribute is true. Still had issues deploying the app on fly.io, and testing the build script locally also didn't work (having issues with CSS directives).    
 
