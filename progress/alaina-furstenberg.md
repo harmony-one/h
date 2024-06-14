@@ -1,5 +1,7 @@
 
-2024-06-12 Wed:
+2024-06-13 Thu: [Promotion](https://x.com/harmonyprotocol/status/1801393150034079976) and attendance of TGI-3. Had an operational call with BPM. Continued on the future's course, module 4.
+
+2024-06-12 Wed: Filming of Galaxii demos, [promotion of TGI-3](https://x.com/harmonyprotocol/status/1801024547820560669). Module 3 of the futures course and continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
 
 2024-06-11 Tue: [Tweet on harmony.one/options](https://x.com/harmonyprotocol/status/1800640588272058501). Sync with Theo on designing harmony.one website plus syncing on the landing page for ONE Bot. Design review of [Panoptic.xyz](https://beta.panoptic.xyz/new-position?tokenId=0xa374094527e1673a)... insights here.
 
