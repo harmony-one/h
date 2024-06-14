@@ -16,6 +16,11 @@ I led the successful coordination and submission of the [LayerZero airdrop](http
 
 ---
 
+2024-06-14 Fri:
+
+2024-06-13 Thu: Community discussions for integrations and marketing. Attended stephen + zi X space and livestream.
+
+2024-06-12 Wed: Q2 review drafting and discussions with Li.
 
 2024-06-11 Tue: Further Panoptic discussions in discord about PLP (Passive Liquidity Provider). Research on Perpetual exchange liquidity tokens, [GLP](https://gmx-docs.io/docs/tokenomics/rewards/) for GMX, [JLP](https://jup.ag/perps-earn) for Jupiter, and [dydx](https://docs.dydx.exchange/users-rewards/staking_rewards) token for dydx. Insight: of these tokens, dydx requires the token to be staked in order to receive the benefits of fee distribution.
 
