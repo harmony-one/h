@@ -2,6 +2,10 @@
 
 ---
 
+2024-06-13 Thu: Testing deploy on Harmony Testnet. Validate all contract interactions and confirm the absence of errors in the deployment logs.
+
+2024-06-12 Wed: Set up testnet enviroment. Continued to work on debugging. 
+
 2024-06-11 Tue: (Planned) Continue to debug deployment script. Investigate potential issue with gas limit and compiler version. 
 
 2024-06-10 Mon: Debugging deployment error for gTrade being thrown by GNSPairInfosV6_1. Deployment is failing with 2_deploy_contract. No longer encountering underpricing error. 
