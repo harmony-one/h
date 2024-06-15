@@ -1,3 +1,5 @@
+2024-06-14 Fri: Continued Thursday's work, and started looking into [GMX synthetics](https://github.com/gmx-io/gmx-synthetics) contracts.
+
 2024-06-13 Thu: Further continued work on liquidity function, positions, stats. Tuned into Stephen and Zi's live twitter space.
 
 2024-06-12 Wed: Looking into opening positions and swap function/liquidity for GMX fork. Further looking into resolving the display for charts.
