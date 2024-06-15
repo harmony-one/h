@@ -1,3 +1,7 @@
+2024-06-14 Fri: This week we were investigating the issue with undeletations. I created 1 pr with fix, and 4 with different activation for mainnet and devnet. Additionally created PR that fixes race error, and another one for minor improvements which was found during the investigation.
+
+---
+
 2024-06-07 Fri: This week, I completed the task of broadcasting vote power across the network. I also resolved a panic issue during unsuccessful node termination that could potentially lead to state corruption. Additionally, I implemented a PoC for the HotStuff chained protocol, aiming to understand the differences between Harmony's implementation and HotStuff's approach.
 
 ---
