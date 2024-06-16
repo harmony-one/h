@@ -1,3 +1,10 @@
+2024-06-15 Sat:
+Last week, we focused on resolving the undelegation issue, with the entire team actively working and discussing it. We have been thoroughly investigating the problem and reviewing various parts of the code. We have nearly identified the root cause or, at the very least, have developed a few hot fixes.
+
+The primary issue was related to validator validation and the validator max rate. Specifically, some validators already have invalid max rates, causing their validations to fail in the codebase. Although this issue was previously fixed, it wasn't applied to the main branch and will be included in the next hard fork (HF). So far, the team has implemented a max rate hard fork and selected the appropriate epoch for mainnet, testnet, and devnet.
+
+---
+
 2024-06-08 Sat:
 Last week, I replicated the same changes on P2P configurations and muxers for the main net. I pushed the PR to the bootnode_fix branch, which is cloned from the main branch, and it is currently under review by the team.
 
