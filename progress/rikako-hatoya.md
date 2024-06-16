@@ -1,14 +1,14 @@
-2024-06-14 Sat: Worked on refining Q2 goals with specific links and metrics. Also currently rewriting progress updates so far.
+2024-06-14 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
 
-2024-06-14 Fri: Continued Thursday's work, and started looking into [GMX synthetics](https://github.com/gmx-io/gmx-synthetics) contracts.
+2024-06-14 Fri: Continued the refinement of Thursday's work and initiated an in-depth analysis of the GMX synthetics by cloning repo, reading through the contracts and the deployment scripts to see how each of the functions work and if this can be deployed to shard 1.
 
-2024-06-13 Thu: Further continued work on liquidity function, positions, stats. Tuned into Stephen and Zi's live twitter space.
+2024-06-13 Thu: Further continued work on liquidity function, positions, stats modules on GMX-subgraph. Listened to twitter space. Initiated an in-depth analysis of the GMX synthetics contracts by reading through the ReadMe on General & Technical Overview, understanding the swaps, position orders, order pricing, oracle prices, funding fees, etc.
 
-2024-06-12 Wed: Looking into opening positions and swap function/liquidity for GMX fork. Further looking into resolving the display for charts.
+2024-06-12 Wed: Investigated the processes for opening positions and the swap function within the GMX fork to enhance liquidity management. Additionally, focused on resolving display issues for charts to ensure accurate and user-friendly visual data representation.
 
-2024-06-11 Tue: Currently working with Soph to get AWS setup. Looked further into GMX-subgraphs repo, looked through Yuriy's progress+work to work through deployign stats.
+2024-06-11 Tue: Currently working with Soph to get AWS setup. Further examined the prices and stats code from the GMX-subgraph repository and reviewed Yuriy's progress to streamline the deployment of statistical data.
 
-2024-06-10 Mon: Redeployed more contracts for GMX with help from Yuriy and re-rendered my gmx-interface accordingly. Looked into how to display the chart positions on the front-end by looking into GMX subgraphs.
+2024-06-10 Mon: Redeployed several GMX contracts with Yuriy's assistance and updated the GMX interface to reflect these changes. Explored methods to display chart positions on the front end by leveraging mapping and helper functions from the GMX subgraph repo, ensuring accurate real-time data visualization.
 
 ---
 
