@@ -1,4 +1,6 @@
 
+2024-06-14 Fri: Harmony one community update, designing the thumbnail of TGI-3 and trimming on Youtube. Continution of futures course and edits to ONE Bot homepage.
+
 2024-06-13 Thu: [Promotion](https://x.com/harmonyprotocol/status/1801393150034079976) and attendance of TGI-3. Had an operational call with BPM. Continued on the future's course, module 4.
 
 2024-06-12 Wed: Filming of Galaxii demos, [promotion of TGI-3](https://x.com/harmonyprotocol/status/1801024547820560669). Module 3 of the futures course and continued edits to the [website template](https://app.bullet.so/share/ad5d7d74-59c3-4120-bac6-c5abd9e1bc3f).
