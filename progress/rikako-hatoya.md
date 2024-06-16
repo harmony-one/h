@@ -1,3 +1,5 @@
+2024-06-14 Sat: Worked on refining Q2 goals with specific links and metrics. Also currently rewriting progress updates so far.
+
 2024-06-14 Fri: Continued Thursday's work, and started looking into [GMX synthetics](https://github.com/gmx-io/gmx-synthetics) contracts.
 
 2024-06-13 Thu: Further continued work on liquidity function, positions, stats. Tuned into Stephen and Zi's live twitter space.
