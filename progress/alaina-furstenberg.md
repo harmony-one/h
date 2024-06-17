@@ -1,5 +1,6 @@
 
-Q2 Review [DRAFT]:
+2024 Q2 Review DRAFT (32.5 hours)
+
 In q2, I led a dynamic community Twitter space with Swoop, attended by 97 community members. My efforts extended beyond hosting spaces, as I tweeted daily and actively engaged with community partners to co-market various products within the Harmony ecosystem. These promotional activities covered a range of projects including Project G, Galaxii, Swoop, Cryptoland DAO, Joskins, One Bot, Swap, Partie, Ta-da, and reporting consistently on /progress. This comprehensive approach promoted visibility, transparency, and engagement of the Harmony community.
 
 Additionally, I contributed extensively to the Harmony ecosystem through the creation of detailed mocks for several key projects such as bridge.harmony.one, swap.harmony.one, the Harmony portfolio, and the main page for One Bot. I also developed and refined mocks for the [harmony.one](http://harmony.one/) website, ensuring a cohesive and user-friendly design. My creative endeavors included writing a blog post on Blockscout, set for release with the mainnet launch, and editing and uploading episodes 1-5 of the ONE Show. I designed 7 iterations of the [harmony.one](http://harmony.one/) banner, although focus was shifted to revamping the website entirely. Additionally, I'm enrolled in a course on futures and learned to use GMX, which is essential to understanding and promoting new initiatives like harmony.one/perps and harmony.one/options. Alongside this, I conducted market research and helped fill out harmony.one/chart, and grew my understanding of the players in the perpetuals space.
@@ -10,9 +11,9 @@ Additionally, I contributed extensively to the Harmony ecosystem through the cre
 
 ---
 
-2024-06-16 Sun: Continuation of future's course plus helping Theo fill out forms for Magic Square to list Swap and Lend.
+2024-06-16 Sun (2.0 hr): Continuation of future's course plus helping Theo fill out forms for Magic Square to list Swap and Lend.
 
-2024-06-15 Sat: Continuation of futures course.
+2024-06-15 Sat (1.0 hr): Continuation of futures course.
 
 2024-06-14 Fri: [Harmony one community update](https://www.harmony.one/), designing the thumbnail of TGI-3 and trimming on Youtube. Continution of futures course and edits to ONE Bot homepage.
 
@@ -58,9 +59,9 @@ Additionally, I contributed extensively to the Harmony ecosystem through the cre
 
 ---
 
-2024-05-26 Sun: [Design of Blockscout blog post thumbnail](https://www.canva.com/design/DAGGoosUy2k/tyIzlD3bN0751LLoOYHxOw/edit?utm_content=DAGGoosUy2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), office operations, and [Harmony Indonesia Announcement](https://x.com/harmonyprotocol/status/1794965735539888628)
+2024-05-26 Sun (2.5 hrs): [Design of Blockscout blog post thumbnail](https://www.canva.com/design/DAGGoosUy2k/tyIzlD3bN0751LLoOYHxOw/edit?utm_content=DAGGoosUy2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), office operations, and [Harmony Indonesia Announcement](https://x.com/harmonyprotocol/status/1794965735539888628)
 
-2024-05-25 Sat: ONE Show Thumbnail + Editing
+2024-05-25 Sat (1.0 hr): ONE Show Thumbnail + Editing
 
 2024-05-24 Fri: Harmony perps blog post + [twitter thread](https://x.com/harmonyprotocol/status/1794089105116070054). Updated the community section and continued writing the blog post on Blockscout Mainnet Explorer Launch, to be released Monday.
 
