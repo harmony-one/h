@@ -3,9 +3,9 @@
 ---
 
 **2024 Q2 Review DRAFT (≈29 hours)**\
-During Q2, I focused on deploying and debugging the gTrade platform on the Harmony network. I modified the truffle configuration for both Harmony mainnet and testnet, setting up the testnet environment and troubleshooting deployment errors, including issues with gas limits and compiler versions. I successfully created an Infura account and became familiar with its operations. I tested contract deployments, validated contract interactions, and worked on resolving compatibility issues with Harmony's EVM. Additionally, I provided documentation and function docs for critical smart contracts, including GNSPairInfoV6_1 and GNSTradingV6_1. I also engaged in a thorough review of various community and product efforts including Coinbase listing and LayerZero token allocation forum post and documentation. I researched, used, and analyzed relevant perpetual exchanges, blog posts, articles, and documentation related to perpetual exchange architecture and options trading. I also filled in
+During Q2, I created a scraping script to pull resumes from our own Lever applicants with Lever API and wrote a form filling system with seleneium to automatically fill job applications. I frameworked and prototyped a browser extension to do the aforementioned automated filling. I compared different LLM parsing methods and services for ranking and scoring resumes in terms of job fitness and scraped 1000 resumes from public sources from people looking for work. I interviewed two potential system engineer candidates from the resumes obtained. I created Dune queries to analyze Arbitrum Uniswap stats related to which specific wallets have highest volume, and I created some preliminary scripts for determining highest profit wallets from Arbitrum Uniswap's subgraph. I also contributed the following to /chart: code license, last commit, frontend deploy repo, stats dashboard link, type of liquidity: orders, earning: 2024 Q1, and tx fees: 2024 Q1.
 
-I created a scraping script to pull resumes from our own Lever applicants with Lever API and wrote a form filling system with seleneium to automatically fill job applications. I frameworked and prototyped a browser extension to do the aforementioned automated filling. I compared different LLM parsing methods and services for ranking and scoring resumes in terms of job fitness and scraped 1000 resumes from public sources from people looking for work. I interviewed two potential system engineer candidates from the resumes obtained. I created Dune queries to analyze Arbitrum Uniswap stats related to which specific wallets have highest volume, and I created some preliminary scripts for determining highest profit wallets from Arbitrum Uniswap's subgraph. I also contributed the following to /chart: code license, last commit, frontend deploy repo, stats dashboard link, type of liquidity: orders, earning: 2024 Q1, and tx fees: 2024 Q1.
+I focused on deploying and debugging the gTrade platform on the Harmony network. I modified the truffle configuration for both Harmony mainnet and testnet, setting up the testnet environment and troubleshooting deployment errors, including issues with gas limits and compiler versions. I successfully created an Infura account and became familiar with its operations. I tested contract deployments, validated contract interactions, and worked on resolving compatibility issues with Harmony's EVM. I researched, used, and analyzed relevant perpetual exchanges, blog posts, articles, and documentation related to perpetual exchange architecture and options trading. Additionally, I provided function documentation and function docs for critical smart contracts, including GNSPairInfoV6_1 and GNSTradingV6_1. I also engaged in a thorough review of various community and product efforts including Coinbase listing and LayerZero token allocation forum post and documentation. 
 
 ---
 
@@ -13,11 +13,11 @@ I created a scraping script to pull resumes from our own Lever applicants with L
 
 2024-06-15 Sat: (0.5h) Summed weekend hours for Q2 review. 
 
-2024-06-14 Fri: Worked on Q2 progress update to be reviewed with Li next week. 
+2024-06-14 Fri: Worked on Q2 progress update to be reviewed with Li next week. Went through daily updates, code commits, dashboards, spreadsheets, scripts, docs, and syncs to summarize contributions so-far in Q2. 
 
 2024-06-13 Thu: Tested the deploy of gTrade on Harmony Testnet. Validated the contract interactions in an attempt to debug further issues with Harmony EVM version compatability. 
 
-2024-06-12 Wed: Set up testnet enviroment. Continued to work on debugging. 
+2024-06-12 Wed: Set up my testnet enviroment by creating new wallet on testnet and getting small amount of funds to deploy with. I also continued to work on debugging the deployment script, as I am still running into errors with the mainnet deploy. 
 
 2024-06-11 Tue: Continue to debug deployment script. Investigate potential issue with gas limit and compiler version. 
 
