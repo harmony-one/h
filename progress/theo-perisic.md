@@ -24,7 +24,7 @@ I led the successful coordination and submission of the [LayerZero airdrop](http
 
 2024-06-15 Sat: Testing [panoptic beta](https://deeznuts.panoptic.xyz/) and [Jupiter mainnet](https://jup.ag/perps). Insights: panoptic requires previous knowledge of options or at least following an onboarding flow for how to trade options, Jupiter advantage is you can jump in an trade up or down easily. 
 
-2024-06-14 Fri: X space with community, more deep dive into panoptic. Insights: do we need to separate options from panoptic and perpetuals from dydx, is there a process to include both? Dydx: institutional investor, Jupiter: retail. What is the end use profile for our perpetuals market?
+2024-06-14 Fri: X space with community, more deep dive into panoptic. Insights: do we need to separate options from panoptic and perpetuals from dydx, is there a process to include both? Dydx: institutional investor, Jupiter: retail. What is the end user profile for our perpetuals market?
 
 2024-06-13 Thu: Community discussions for integrations and marketing. Attended stephen + zi X space and livestream.
 
