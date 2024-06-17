@@ -1,3 +1,13 @@
+## Q2 Deliverables [Draft]
+
+In the second quarter, I was assigned to the Another World project, where I implemented smart contracts on Harmony's shard 1 to seamlessly transition Bitcoin Runes into ERC20 tokens. This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes. Detailed documentation of this project can be found [here](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md).
+
+Additionally, I conducted research on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features, as documented [here](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md). Using Dune analytics, I analyzed the most profitable trades on GMX, focusing on the PnL of top traders and their trading pairs, further detailed [here](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md). I also worked on replicating the GMX platform and adapting its configurations to function on Harmony's shard 1. This task involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. Currently, I am configuring the display of charts and positions and addressing AWS account errors. The interface will soon be deployed to the front-end.
+
+
+
+---
+
 2024-06-15 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals (will upload them later before Monday.)
 
 2024-06-14 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
