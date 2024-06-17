@@ -1,4 +1,11 @@
-## Q2 Deliverables [Draft]
+## Q2 Deliverables 
+
+For Another World, I implemented smart contracts on Harmony's shard 1 to [transition Bitcoin Runes into ERC20 tokens] (https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md). This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes.
+
+
+---
+
+[Draft]
 
 In the second quarter, I was assigned to the Another World project, where I implemented smart contracts on Harmony's shard 1 to seamlessly transition Bitcoin Runes into ERC20 tokens. This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes. Detailed documentation of this project can be found [here](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md).
 
