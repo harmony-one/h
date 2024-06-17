@@ -1,4 +1,11 @@
 
+Q2 Review [DRAFT]:
+In q2, I led a dynamic community Twitter space with Swoop, attended by 97 community members. My efforts extended beyond hosting spaces, as I tweeted daily and actively engaged with community partners to co-market various products within the Harmony ecosystem. These promotional activities covered a range of projects including Project G, Galaxii, Swoop, Cryptoland DAO, Joskins, One Bot, Swap, Partie, Ta-da, and reporting consistently on /progress. This comprehensive approach promoted visibility, transparency, and engagement of the Harmony community.
+
+Additionally, I contributed extensively to the Harmony ecosystem through the creation of detailed mocks for several key projects such as bridge.harmony.one, swap.harmony.one, the Harmony portfolio, and the main page for One Bot. I also developed and refined mocks for the [harmony.one](http://harmony.one/) website, ensuring a cohesive and user-friendly design. My creative endeavors included writing a blog post on Blockscout, set for release with the mainnet launch, and editing and uploading episodes 1-5 of the ONE Show. I designed 7 iterations of the [harmony.one](http://harmony.one/) banner, although focus was shifted to revamping the website entirely. Additionally, I'm enrolled in a course on futures and learned to use GMX, which is essential to understanding and promoting new initiatives like harmony.one/perps and harmony.one/options. Alongside this, I conducted market research and helped fill out harmony.one/chart, and grew my understanding of the players in the perpetuals space.
+
+---
+
 2024-06-17 Mon: Continuing the forms for listing Swap, Lend, and Timeless on Magic Square. Writing Q2 Review. Continuation of the ONE Bot homepage interface.
 
 ---
