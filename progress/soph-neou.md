@@ -1,3 +1,9 @@
+2024-06-14 Fri:
+
+We spent several days thoroughly analyzing the staking bug and understanding how the validator max rate affects pending undelegation. After gaining a clear understanding, I began leading the v2024.1.0 release, which includes planning for a hard fork scheduled to occur at epoch 1976.
+
+---
+
 2024-06-07 Fri:
 
 This week's focus was on stabilizing our devnet and testnet environments by restoring and updating snapshot nodes. The objective is to ensure that the latest code in the development branch is stable and functioning correctly.
