@@ -1,3 +1,9 @@
+2024-06-16 Sun (1.9h): Review ApeX, Gearbox, Nekodex, Perpetual Protocol, vAMM. Analyze lending, option, perpetual markets.
+
+2024-06-15 Sat (1.8h): Review Gamma Protocol and Convexity Protocol.
+
+2024-06-14 Fri (4.1h): Security issue impact re-evaluation. Research on option trading user interfaces and experience. Review Perennial.
+
 2024-06-13 Thu (2.8h): Panoptic code, onboarding flow, beta UI/UX, long presentations.
 
 2024-06-12 Wed (2.0h): Review external security incident report. Debug deployment error for deterministic deployment proxy. Resolve issues with chain signature in Synthetix deployment. Debug deployment error for deterministic deployment proxy. Research on Deribit, Opyn, diffusion model. Research on Panoptic code, license. possible frontend. Examining dydx licenses and code structure.
