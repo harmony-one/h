@@ -16,7 +16,15 @@ I led the successful coordination and submission of the [LayerZero airdrop](http
 
 ---
 
-2024-06-14 Fri:
+2024-06-17 Mon: [Magic Square](https://magic.store/) confirmed partnership with 3 listed projects upon completion of forms for Swap, Lend, and Timeless or Perpetual (depending on completion date). Tested [squeeth](https://www.opyn.co/strategies/crab?ct=US). Insight: platform navigation is simple and straight forward, two prominent strategies around ETH, including USDC for hedging against ETH and ETH for leveraged bullish positions. *ETH side of squeeth affected by [Euler Finance](https://www.chainalysis.com/blog/euler-finance-flash-loan-attack/) exploit. The simplicity and minimalism should be replicated for our perpetual market.
+
+---
+
+2024-06-16 Sun: Additional Jupiter testing. Insights: Jupiter now supports swaps, perpetuals, and now [bridging](https://jup.ag/bridge-compare) all within 1 page. We started something similar with Harmony Portfolio, worth looking into to expand and add perpetual market to 1 location for ease of use. 
+
+2024-06-15 Sat: Testing [panoptic beta](https://deeznuts.panoptic.xyz/) and [Jupiter mainnet](https://jup.ag/perps). Insights: panoptic requires previous knowledge of options or at least following an onboarding flow for how to trade options, Jupiter advantage is you can jump in an trade up or down easily. 
+
+2024-06-14 Fri: X space with community, more deep dive into panoptic. Insights: do we need to separate options from panoptic and perpetuals from dydx, is there a process to include both? Dydx: institutional investor, Jupiter: retail. What is the end use profile for our perpetuals market?
 
 2024-06-13 Thu: Community discussions for integrations and marketing. Attended stephen + zi X space and livestream.
 
