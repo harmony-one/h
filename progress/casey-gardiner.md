@@ -1,3 +1,29 @@
+### Weekly Progress Update: 2024-06-14
+
+#### Protocol Upgrade and Bug Resolution
+
+- **Hard Fork Update / Emergency Upgrade:**
+  - Focused on resolving a critical issue requiring a hard fork update.
+  - Collaborated with the team to push out the emergency upgrade (v2024.1.0) for mainnet activation around June 20th.
+  - Coordinated with partners to confirm the upgrade and ensure smooth deployment.
+
+- **Report Publication:**
+  - Wrote and published a detailed report on the bug and the hard fork upgrade. The full report can be found [here](https://talk.harmony.one/t/harmony-protocol-bug-report-hard-fork-v2024-1-0/24761).
+
+#### Conference Preparation
+
+- **ETH.CC Conference:**
+  - Started preparations for the ETH.CC conference in Brussels on July 5th.
+  - Signed up for events and planned the trip.
+
+#### Research and Development
+
+- **Derivatives Smart Contracts:**
+  - Continued working on derivatives smart contracts, although progress was limited due to the focus on the bug and emergency upgrade.
+
+This week was primarily dedicated to addressing the critical protocol issue and ensuring the successful deployment of the emergency upgrade. Preparations for the upcoming ETH.CC conference and some continued work on derivatives smart contracts.
+
+___
 ### Weekly Progress Update: 2024-06-07
 
 #### HIP-32 Monitoring and Development
