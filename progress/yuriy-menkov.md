@@ -1,3 +1,17 @@
+Q2 Review - Draft
+
+Gmx v1 on harmony: forked repos: [contracts](https://github.com/harmony-one/gmx-contracts-v1), [interface](https://github.com/harmony-one/gmx-interface), [stats](https://github.com/harmony-one/gmx-stats/pull/1/files) and [subgraph](https://github.com/harmony-one/gmx-subgraph/pull/1/files); Created contracts deploy [script](https://github.com/potvik/gmx-contracts/blob/gmx_v1_deploy_script/scripts/deployAll.js). Created [scripts](https://github.com/potvik/gmx-contracts/tree/gmx_v1_deploy_script/scripts) for adding tokens and liquidity. Added [docs](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) with deploy steps description; Added harmony chain support to all repos. Updated interface with new contracts and token pairs: ONE, WONE, BUSD, LINK. Updated subgraph with new contracts. Resolved subgraph build and sync issues. Updated stats service. Configured sync and deploy for all services: [subgraph](https://thegraph.com/studio/subgraph/gmx-h-stats/playground), [stats](https://gmx-stats.fly.dev/harmony), [interface](https://gx-country.web.app). I have successfully tested adding liquidity, swap and position creation. There are still a few bugs related to the display of charts in the interface. It is also necessary to test the remaining gmx features separately.
+
+LayerZero token airdrop: created scripts to collect statistics for all users who used the layerzero bridge. Created scripts for get statistics on Swap liquidity pools that used tokens transferred through the bridge (via swap subgraph). Reviewed and publish the [proposal](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp).
+
+Researched LlamaIndex and extended/configured demo [app](https://github.com/harmony-one/rag-llama-together): powered by [LlamaIndex](https://www.llamaindex.ai/) and [Together.ai](https://www.together.ai/) RAG chatbot using Next.js bootstrapped with [LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/tree/main). Also using Mixtral (through Together AI Inference) and [Together Embeddings](https://docs.together.ai/docs/embeddings-rag). It'll embed the PDF file in data, generate embeddings stored locally, then give you a RAG chatbot to ask questions to.
+
+---
+
+2024-06-17 Mon: Worked on compiling my Q2 results. Gmx v1 on harmony: continue work on the deployment and integration of interface services, gmx stats and subgraph - for displaying graphs (still not displayed in the final interface).
+
+---
+
 2024-06-14 Fri: Gmx v1 on harmony: Fixed sync issue for stats subgraph and [deployd](https://thegraph.com/studio/subgraph/gmx-h-stats/playground) new version. Current subgraph sources [here](https://github.com/harmony-one/gmx-subgraph/pull/1/files). [Updated](https://github.com/harmony-one/gmx-stats/pull/1/files) harmony-gmx-stats with new subgraph urls and harmony contracts. [Deployed](https://gmx-stats.fly.dev/harmony) harmony-gmx-stats to fly.io. Still have issue with volume charts, other should working correct.
 
 2024-06-13 Thu: Gmx v1 on harmony: localized the problem in the stats subgraph - removed some of the problematic contracts and events that interfered with synchronization, also updated the versions of ts packages for assembling the subgraph. Deploying a new subgraph version and continuing to test the statistics service; Also worked on deploy statistic service to fly.io;
