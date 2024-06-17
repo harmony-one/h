@@ -1,3 +1,11 @@
+Q2 Review [DRAFT]
+
+Worked on the Synthetix protocol port to Harmony Blockchain. In the process, I encountered different kind of problems, from the currently unavailable Chainlink and Pyth oracles in Harmony to the unfamiliar environment for building and deploying smart contracts - [Cannon](https://usecannon.com/). Nevertheless, managed to solve part of the problems and to [deploy](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) the protocol with not-working oracles. I am currently investigating the possibility of using BAND oracles instead of Chainlink, and after that I will move directly to testing Synthetix protocol in the Harmony chain.
+
+I've made good progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/dashboard), the analog of Metamask Portfolio: implemented basic Swap and Bridge page functionality in a single client; this actually required reverse-engineering the existing separate Uniswap and Harmony Bridge client apps. The portfolio is not 100% complete yet, and some things require more testing and UI improvements, but we may publish it later this year.
+
+---
+
 2024-06-14 Fri: [excluded](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/fc14415d516c7f028bc0ce667c7661a6abdc6f6c) Chainlink CCIP from Synthetix deployment script; deloyed Synthetix contracts to Harmony Mainnet Shard 0, addresses are available in the [deployer address](https://explorer.harmony.one/address/0x98f0c3d42b8dafb1f73d8f105344c6a4434a0109) transactions history. Two things to be done before testing: implement mocked Chainlink feed contracts (I used a random address) and verify deployed contracts; existed verification script for Cannon deployment will not work for Harmony (it's written for Etherscan API), so I'll need to find a way to verify it using our verification service.
 
 2024-06-13 Thu: did some research on [Synthetix v2](https://github.com/Synthetixio/synthetix/tree/v2.101.2/contracts): it [utilize](https://github.com/Synthetixio/synthetix/blob/v2.101.2/contracts/ExchangeRates.sol) Chainlink price feeds, but doesn't require Pyth and Chainlink CCIP (like v3), so it should be easier to launch. We will need to implement mocked oracle contracts to replace Chainlink feed. Launched Synthetix [v2 client](https://github.com/Synthetixio/js-monorepo/tree/master/v2/ui) locally.
