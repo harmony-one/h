@@ -1,4 +1,8 @@
 
+2024-06-17 Mon: Continuing the forms for listing Swap, Lend, and Timeless on Magic Square. Writing Q2 Review. Continuation of the ONE Bot homepage interface.
+
+---
+
 2024-06-16 Sun: Continuation of future's course plus helping Theo fill out forms for Magic Square to list Swap and Lend.
 
 2024-06-15 Sat: Continuation of futures course.
