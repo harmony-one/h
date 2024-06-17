@@ -1,3 +1,15 @@
+2024-6-14 Fri: <br>
+<br>
+
+-Code reviews and approval of hotfixes <br>
+-Carried out devops on-call duties: https://docs.google.com/document/d/1m_tMXh0K5fCmuCeXV-tJSmwDUFkcH2tvJzUAmXgAbvA/ <br>
+-Continued to work on deploying a set of perp contracts. I am still sorting out the dependencies and working on the ground work <br>
+-Attended a review meeting with Li <br>
+-We have been looking into an issue with undelegation and are now waiting to coordinate deploying the fix <br>
+-Attended discussions on HIP-32 issues with the devops team <br>
+
+---
+
 2024 Q2 Review
 
 Finalizing all requirements to deliver HIP-32, focusing on peer-to-peer issues impacting network synchronization and undelegating from validators. I am now focused on deploying a set of contracts that match up with our goal of releasing useful perpetuals trading tools. I am outlining the requirements and writing/preparing the necessary contracts and getting Hardhat and other frameworks working correctly on the Harmony localnets to properly deploy/test/use [Uniswap v3](https://github.com/harmony-one/harmony_uniswapv3) router contracts.
