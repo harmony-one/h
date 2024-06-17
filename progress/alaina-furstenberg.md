@@ -1,4 +1,6 @@
 
+2024-06-16 Sun: Continuation of future's course plus helping Theo fill out forms for Magic Square to list Swap and Lend.
+
 2024-06-15 Sat: Continuation of futures course.
 
 2024-06-14 Fri: [Harmony one community update](https://www.harmony.one/), designing the thumbnail of TGI-3 and trimming on Youtube. Continution of futures course and edits to ONE Bot homepage.
