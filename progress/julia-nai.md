@@ -9,11 +9,15 @@ I focused on deploying and debugging the gTrade platform on the Harmony network.
 
 ---
 
+2024-06-17 Mon: Scheduled Q2 review with Li. Continued to work on debugging the gTrade deployment. 
+
+---
+
 2024-06-16 Sun: (1.5h) Reviewed Q2 review. 
 
 2024-06-15 Sat: (0.5h) Summed weekend hours for Q2 review. 
 
-2024-06-14 Fri: Worked on Q2 progress update to be reviewed with Li next week. Went through daily updates, code commits, dashboards, spreadsheets, scripts, docs, and syncs to summarize contributions so-far in Q2. 
+2024-06-14 Fri: Went through daily updates, code commits, dashboards, spreadsheets, scripts, docs, and syncs to summarize contributions so-far in Q2. Worked on Q2 progress update to be reviewed with Li next week. 
 
 2024-06-13 Thu: Tested the deploy of gTrade on Harmony Testnet. Validated the contract interactions in an attempt to debug further issues with Harmony EVM version compatability. 
 
