@@ -1,3 +1,5 @@
+2024-06-17 Mon (4.6h): Follow up on security incident and impact. Review Perpetual Protocol v2 details. Examine premium domain renewal failures. Review Opyn strategies and recent security issue. Fix DNS record issues, batch renew domains, add options to handle domains in the grace period. Review security incidents that may have impacted ETH^2
+
 2024-06-16 Sun (1.9h): Review ApeX, Gearbox, Nekodex, Perpetual Protocol, vAMM. Analyze lending, option, perpetual markets.
 
 2024-06-15 Sat (1.8h): Review Gamma Protocol and Convexity Protocol.
