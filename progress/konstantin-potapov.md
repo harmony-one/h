@@ -1,3 +1,14 @@
+## 2024 Q2 Summary
+
+During Q2, I created 27 PRs with new functionalities and improvements:
+- Based on an investigation by Soph, I identified the root cause and implemented a solution for the undeletions issue.
+- I investigated the crosslinks problem, pinpointed the bug introduced in HIP30, and implemented a fix for crosslink processing.
+- I developed a new consensus message for broadcasting vote power across the network.
+- Additionally, I implemented a PoC for the HotStuff chained protocol, available here. This work provided me with deeper insights into the differences between Harmony's implementation and HotStuff's approach.
+The current status of 1-second finality is approximately 30%. I have a clear vision for its implementation, but it requires time to align the two consensus protocols while the second is not yet activated. 
+
+---
+
 2024-06-14 Fri: This week we were investigating the issue with undeletations. I created 1 pr with fix, and 4 with different activation for mainnet and devnet. Additionally created PR that fixes race error, and another one for minor improvements which was found during the investigation.
 
 ---
