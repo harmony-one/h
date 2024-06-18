@@ -4,6 +4,9 @@ I created detailed mock designs for [bridge.harmony.one](https://www.figma.com/d
 
 
 
+
+---
+
 DRAFT (32.5 hours)
 
 In Q2, I led a dynamic community Twitter space with Swoop, attended by 97 community members. My efforts extended beyond hosting spaces, as I tweeted daily and actively engaged with community partners to co-market various products within the Harmony ecosystem. These promotional activities covered a range of projects including [Project G](https://x.com/harmonyprotocol/status/1783202500272927015), [Galaxii](https://x.com/harmonyprotocol/status/1797785935704174611), [Coinmonster Merch](https://x.com/harmonyprotocol/status/1782220916489097342) [Swoop](https://x.com/DavidOnchain/status/1788265460116414519), [ONE Show](https://x.com/harmonyprotocol/status/1795878369856503985), [Blockscout Testnet](https://x.com/harmonyprotocol/status/1790796723704807469), [Joskins](https://x.com/harmonyprotocol/status/1796287489239568890), [One Bot](https://x.com/harmonyprotocol/status/1795951553024565259), [Swap](https://x.com/harmonyprotocol/status/1781097509005488620), Partie, Ta-da, and reporting consistently on [/progress](https://x.com/harmonyprotocol/status/1802776533993656656). This comprehensive approach promoted visibility, transparency, and engagement of the Harmony community.
