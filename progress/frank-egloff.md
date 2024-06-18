@@ -13,6 +13,10 @@ Worked on porting the Vertex Trade App to Harmony. This involved developing a de
 Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+
+2024-06-17 Mon: Talked with Theo regarding the Trading View advance charts key, which is required for the trading module. Added other market and context indexer mock calls for the Portfolio Overview and Portfolio Marging Manager components. Working on fixing the formatTimestamp error that appears when changing to the Harmony chain. 
+
+---
 2024-06-14 Fri: Added market, context indexer client, and engineClient mock calls. Fixed nextjs.config file/webpack cache issue. Need a [Traving View advanced charts](https://www.tradingview.com/charting-library-docs/) API key to solve charting_library error that is blocking the App building process.
 
 2024-06-13 Thu: Worked on engineClient, indexerClient, and subaccount mock calls. Had issues with the Trade app's local build. The issue is related to the trading page, which is accessing a dts-bundle-generator module that can't be resolved. Working on workarounds.
