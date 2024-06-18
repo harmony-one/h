@@ -12,11 +12,13 @@ In the second quarter, I was assigned to the Another World project, where I impl
 
 Additionally, I conducted research on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features, as documented [here](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md). Using Dune analytics, I analyzed the most profitable trades on GMX, focusing on the PnL of top traders and their trading pairs, further detailed [here](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md). I also worked on replicating the GMX platform and adapting its configurations to function on Harmony's shard 1. This task involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. Currently, I am configuring the display of charts and positions and addressing AWS account errors. The interface will soon be deployed to the front-end.
 
+---
 
+2024-6-16 Mon: Worked through my Q2 deliverables with Li, got AWS debugged with Soph, reworking through my previous /progress adding links/metrics to make my deliverables so far more clear. Currently working on GMX (will update this page again later tonight.)
 
 ---
 
-2024-06-15 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals (will upload them later before Monday.)
+2024-06-15 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals.
 
 2024-06-14 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
 
