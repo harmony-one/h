@@ -6,6 +6,8 @@ I've made good progress on [Harmony Portfolio](https://harmony-portfolio.netlify
 
 ---
 
+2024-06-18 Tue: solved issue with Band oracles test contract (with help from Soph), deployed and played with [test contracts](https://github.com/harmony-one/band_oracle). New Explorer: helped Protofire team with determining the range of blocks with transactions spam from 2021-2022. Started research how to [add](https://docs.harmony.one/home/developers/tools/oracles/oracle-band-protocol#cc5a) Band oracles into existing contract.
+
 2024-06-17 Mon: researched Band oracles to use it in Synthetix protocol: checked [docs](https://docs.harmony.one/home/developers/tools/oracles/oracle-band-protocol) and band oracles [test repo](https://github.com/harmony-one/band_oracle), run scripts. Unfortunately, contract returns only "0x" for all test requests. Deployed new [test contract](https://explorer.harmony.one/address/0x79b310d3070c581bd42681587a81427cd4b38b1c), but results are the same. Asked Soph for help, because he was working on Band tests before, according to Github [commits](https://github.com/harmony-one/band_oracle/commits/main/).
 
 ---
