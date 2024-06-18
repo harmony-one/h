@@ -9,7 +9,7 @@ I focused on deploying and debugging the gTrade platform on the Harmony network.
 
 ---
 
-2024-06-17 Mon: Scheduled Q2 review with Li. Continued to work on debugging the gTrade deployment. 
+2024-06-17 Mon: Scheduled my Q2 review with Li and edited my Q2 review draft. Continued to work on debugging the gTrade deployment. 
 
 ---
 
