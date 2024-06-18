@@ -8,6 +8,8 @@ Researched LlamaIndex and extended/configured demo [app](https://github.com/harm
 
 ---
 
+2024-06-18 Tue: Gmx v1 on harmony:  Resolved deploy issue, now frontend on [gx.country](https://gx.country/#/v1). Worked on migration Gmx priceFeed contracts from Chainlink (chainlink pricefeed deprecated on Harmony) to [BandChain](https://docs.harmony.one/home/developers/tools/oracles/oracle-band-protocol). Researched the reasons why volume is not saved for charts, [fixed](https://github.com/harmony-one/gmx-subgraph/commit/4bf1a26f27124c79221a6161ce45e53de7e866db) several subgraph issues and deployed a new version. Continue testing.
+
 2024-06-17 Mon: Worked on compiling my Q2 results. Gmx v1 on harmony: continue work on the deployment and integration of interface services, gmx stats and subgraph - for displaying graphs (still not displayed in the final interface).
 
 ---
