@@ -16,6 +16,8 @@ I led the successful coordination and submission of the [LayerZero airdrop](http
 
 ---
 
+2024-06-18 Tue: Discussions with panoptic. Insight: panoptic is looking to launch on all layer 2s which support uniswap v3 this year, should we engage for Harmony layer 1 support, continue with our own implementation, or pursue both? Completed [Binance Marketing review](https://www.notion.so/harmonyone/Binance-Marketing-Trading-Review-cb6fc96845e64bceb478093b0facf31a).
+
 2024-06-17 Mon: [Magic Square](https://magic.store/) confirmed partnership with 3 listed projects upon completion of forms for Swap, Lend, and Timeless or Perpetual (depending on completion date). Tested [squeeth](https://www.opyn.co/strategies/crab?ct=US). Insight: platform navigation is simple and straight forward, two prominent strategies around ETH, including USDC for hedging against ETH and ETH for leveraged bullish positions. *ETH side of squeeth affected by [Euler Finance](https://www.chainalysis.com/blog/euler-finance-flash-loan-attack/) exploit. The simplicity and minimalism should be replicated for our perpetual market.
 
 ---
