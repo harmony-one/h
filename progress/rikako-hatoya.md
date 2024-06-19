@@ -14,6 +14,8 @@ Additionally, I conducted research on perpetual trading platforms such as Jupite
 
 ---
 
+2024-06-17 Tue: Continued with rewriting my past progress (will upload them once finished). Checked out Yuriy's updates on the positions feature of GMX-subgraph Harmony fork (storeVolumeBySource), and worked on deploying some of the missing contracts in deployAll script for GMX-contracts.
+
 2024-6-16 Mon: Worked through my Q2 deliverables with Li, got AWS debugged with Soph, reworking through my previous /progress adding links/metrics to make my deliverables so far more clear. Currently working on GMX (will update this page again later tonight.)
 
 ---
