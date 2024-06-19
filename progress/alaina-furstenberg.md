@@ -14,6 +14,8 @@ Additionally, I contributed extensively to the Harmony ecosystem through the cre
 
 ---
 
+2024-06-19 Wed: Juneteenth Holiday. Promotion of [ONE Show Episode 6](https://x.com/harmonyprotocol/status/1803519774313554050) and [TGI Infinity](https://x.com/harmonyprotocol/status/1803520897837572129) on Twitter
+
 2024-06-18 Tue: Syncing with Li to revise and draft my Q2 report. Design of [4 banners](https://www.canva.com/design/DAGIhMJ-v90/K7umSg7P9Q8rnwgFDRStiw/edit?utm_content=DAGIhMJ-v90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for /blog in promotion of Galaxii, Coherence, Joskins, and Knights/Peasants. Submission of Swap and Lend on Magic Square. Wrote a [thread on X about the upcoming hard fork](https://x.com/harmonyprotocol/status/1803163573990072456).
 
 2024-06-17 Mon: Continuing the forms for listing Swap, Lend, and Timeless on Magic Square. Writing Q2 Review. Continuation of the ONE Bot homepage interface.
