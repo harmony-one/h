@@ -13,6 +13,7 @@ Worked on porting the Vertex Trade App to Harmony. This involved developing a de
 Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+2024-06-18 Tue: Added [TransparentUpgradeableProxy contract](https://github.com/fegloff/vertex-contracts/pull/1) to the Vertex Contract repo. This contract is labeled querier contract on the Vertex monorepo. The contract was found through the Arbitrum explorer and still needs to be deployed due to the implementation contract needing to be included as part of the constructor parameters. The portfolio overview page doesn't present errors on loading thanks to the mock methods implemented, but now working on issues related to fund deposit. Still can't deploy the app due to the Trading View API key. 
 
 2024-06-17 Mon: Talked with Theo regarding the Trading View advance charts key, which is required for the trading module. Added other market and context indexer mock calls for the Portfolio Overview and Portfolio Marging Manager components. Working on fixing the formatTimestamp error that appears when changing to the Harmony chain. 
 
