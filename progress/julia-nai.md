@@ -30,6 +30,8 @@ I focused on deploying and debugging the gTrade platform on the Harmony network.
 
 ---
 
+2024-06-19 Wed: Federal Holiday Juneteenth
+
 2024-06-18 Tue: Worked with Li for numerous iterations of the Q2 review for newsletter and internal use. Added links for relevant points in the review. 
 
 2024-06-17 Mon: Scheduled my Q2 review with Li and edited my Q2 review draft. Continued to work on debugging the gTrade deployment. 
