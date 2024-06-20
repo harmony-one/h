@@ -14,15 +14,17 @@ Additionally, I conducted research on perpetual trading platforms such as Jupite
 
 ---
 
-2024-06-17 Tue: Continued with rewriting my past progress (will upload them once finished). Checked out Yuriy's updates on the positions feature of GMX-subgraph Harmony fork (storeVolumeBySource), and worked on deploying some of the missing contracts in deployAll script for GMX-contracts.
+2024-06-19 Wed (1.0h): Holiday. Reworked theough /progress and some AWS for gmx fork deployment.
 
-2024-6-16 Mon: Worked through my Q2 deliverables with Li, got AWS debugged with Soph, reworking through my previous /progress adding links/metrics to make my deliverables so far more clear. Currently working on GMX (will update this page again later tonight.)
+2024-06-18 Tue: Continued with rewriting my past progress (will upload them once finished). Checked out Yuriy's updates on the positions feature of GMX-subgraph Harmony fork (storeVolumeBySource), and worked on deploying some of the missing contracts in deployAll script for GMX-contracts.
+
+2024-6-17 Mon: Worked through my Q2 deliverables with Li, got AWS debugged with Soph, reworking through my previous /progress adding links/metrics to make my deliverables so far more clear. Currently working on GMX (will update this page again later tonight.)
 
 ---
 
-2024-06-15 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals.
+2024-06-16 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals.
 
-2024-06-14 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
+2024-06-15 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
 
 2024-06-14 Fri: Continued the refinement of Thursday's work and initiated an in-depth analysis of the GMX synthetics by cloning repo, reading through the contracts and the deployment scripts to see how each of the functions work and if this can be deployed to shard 1.
 
