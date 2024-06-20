@@ -1,4 +1,12 @@
-2024-06-17 Mon (4.6h): Follow up on security incident and impact. Review Perpetual Protocol v2 details. Examine premium domain renewal failures. Review Opyn strategies and recent security issue. Fix DNS record issues, batch renew domains, add options to handle domains in the grace period. Review security incidents that may have impacted ETH^2
+2024-06-20 Thu (3h): Security incident script review, impact re-evaluation, protocol code review. Review analysis on Opyn, Squeeth, and related marketplaces.
+
+2024-06-19 Wed (3.3h): Finalize domain management utility (renew, cert generation, cert renewal, metadata fix, and metadata sync). Opyn code and history review. Substack preview issue in notion.
+
+2024-06-18 Tue (3.8h):  Security issue script minor fix and manual address and transaction inspections. Domain management utility. Opyn code and history review. Substack preview issue in notion
+
+2024-06-17 Mon (4.6h): Follow up on security incident and impact. Review Perpetual Protocol v2 details. Examine premium domain renewal failures. Review Opyn strategies and recent security issue. Fix DNS record issues, batch renew domains, add options to handle domains in the grace period. Review security incidents that may have impacted ETH^2.
+
+---
 
 2024-06-16 Sun (1.9h): Review ApeX, Gearbox, Nekodex, Perpetual Protocol, vAMM. Analyze lending, option, perpetual markets.
 
