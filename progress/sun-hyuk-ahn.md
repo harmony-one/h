@@ -1,6 +1,8 @@
-2024-06-17 Tue: Spent time going over `PanopticFactory.sol` and `PanopticPool.sol` which deploys an options market on top of an existing Uniswap v3 pool and manages positions, collateral, liquidations and forced exercises, respectively. Also, spent time going over `UniswapV3Pool.sol`, a dependency, and how it acts as a "short put" in Panoptics term. Having some trouble grasping the concept and will go over it tomorrow once more.
+2024-06-19 Wed: Went over capital efficiency section of Panoptics. Began deploying `PanopticFactory.sol` and configuring variables specific to Harmony so that it interacts with Uniswap. Currently Harmony only has Uniswap on Mainnet so looking for a way to deploy and play around using Testnet.
 
-2024-06-17 Mon: Continued Streamia research and overview. Spent time going over `SemiFungiblePositionManager.sol` contract that manages liquidity pool position. Still feel the lack of experience regarding options but will first go over smart contracts.
+2024-06-18 Tue: Spent time going over `PanopticFactory.sol` and `PanopticPool.sol` which deploys an options market on top of an existing Uniswap v3 pool and manages positions, collateral, liquidations and forced exercises, respectively. Also, spent time going over `UniswapV3Pool.sol`, a dependency, and how it acts as a "short put" in Panoptics term.
+
+2024-06-17 Mon: Continued Streamia research and overview. Spent time going over `SemiFungiblePositionManager.sol` contract that manages liquidity pool position.
 
 ---
 
