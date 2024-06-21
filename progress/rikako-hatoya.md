@@ -14,6 +14,8 @@ Additionally, I conducted research on perpetual trading platforms such as Jupite
 
 ---
 
+2024-06-20 Thu: Read through substack docs on Timeless Story + ETH^2 (Power Perpetuals, Jumbo Crab) and their links. Joined Launchpad live. Went over some document work with Amanda. Attended Kush's TGI-AI event.
+
 2024-06-19 Wed (1.0h): Holiday. Reworked theough /progress and some AWS for gmx fork deployment.
 
 2024-06-18 Tue: Continued with rewriting my past progress (will upload them once finished). Checked out Yuriy's updates on the positions feature of GMX-subgraph Harmony fork (storeVolumeBySource), and worked on deploying some of the missing contracts in deployAll script for GMX-contracts.
