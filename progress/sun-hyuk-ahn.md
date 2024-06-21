@@ -1,3 +1,10 @@
+**2024 Q2 Review**
+I focused on launching data availability rollup on shard 1. Researched into how Harmony's Shard 1 compares to Celestia and NEAR as data availability layer. Deployed sovereign rollup using [Rollkit](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin) and launched Polaris in order for it to be EVM compatible. Also deployed [OP rollup](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/), a smart contract rollup, as it was more suitable for Harmony.
+
+Researched Panoptics protocol, a perpetual options trading protocol utilizing Uniswap v3. Began deploying `PanopticFactory.sol` and `PanopticPool.sol` to enable options trading.
+
+---
+
 2024-06-19 Wed: Went over capital efficiency section of Panoptics. Began deploying `PanopticFactory.sol` and configuring variables specific to Harmony so that it interacts with Uniswap. Currently Harmony only has Uniswap on Mainnet so looking for a way to deploy and play around using Testnet.
 
 2024-06-18 Tue: Spent time going over `PanopticFactory.sol` and `PanopticPool.sol` which deploys an options market on top of an existing Uniswap v3 pool and manages positions, collateral, liquidations and forced exercises, respectively. Also, spent time going over `UniswapV3Pool.sol`, a dependency, and how it acts as a "short put" in Panoptics term.
