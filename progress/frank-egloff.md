@@ -13,8 +13,9 @@ Worked on porting the Vertex Trade App to Harmony. This involved developing a de
 Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+2024-06-19 Thu: Fixed [BigDecimal type issues](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) with Arbitrum and Harmony chains, and now the Portfolio overview and deposit components are showing USDC assets for the Harmony chain. Kept working on deposit logic for the Harmony chain.
 
-2024-06-19 Wed: Added [HarmonyContract mock](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) for utility methods that work with contracts through Vertex SDK packages. Kept working on mock methods for Portfolio Overview and deposit components and worked on fixing issues with deposit logic that don't work with Anthropic and Harmony chains.  
+2024-06-19 Wed: Added [HarmonyContract mock](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) for utility methods that work with contracts through Vertex SDK packages. Kept working on mock methods for Portfolio Overview and deposit components and worked on fixing issues with deposit logic that don't work with Arbitrum and Harmony chains.  
 
 2024-06-18 Tue: Added [TransparentUpgradeableProxy contract](https://github.com/fegloff/vertex-contracts/pull/1) to the Vertex Contract repo. This contract is labeled querier contract on the Vertex monorepo. The contract was found through the Arbitrum explorer and still needs to be deployed due to the implementation contract needing to be included as part of the constructor parameters. The portfolio overview page doesn't present errors on loading thanks to the mock methods implemented, but now working on issues related to fund deposit. Still can't deploy the app due to the Trading View API key. 
 
