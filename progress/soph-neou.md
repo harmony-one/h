@@ -1,3 +1,8 @@
+2024-06-21 Fri:
+
+This week has been hectic as we prepared for the successful execution of the v2024.1.0 hard fork release, which took place on June 20th, 2024, at around 00:09 AM UTC. I've been working closely with the validator community and our partners to resolve any issues before the deadline. Additionally, I have spent the remainder of my time identifying the extent of the bug.
+
+---
 2024-06-14 Fri:
 
 We spent several days thoroughly analyzing the staking bug and understanding how the validator max rate affects pending undelegation. After gaining a clear understanding, I began leading the v2024.1.0 release, which includes planning for a hard fork scheduled to occur at epoch 1976.
