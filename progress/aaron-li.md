@@ -1,4 +1,4 @@
-2024-06-20 Thu (3h): Security incident script review, impact re-evaluation, protocol code review. Review analysis on Opyn, Squeeth, and related marketplaces.
+2024-06-20 Thu (8.3h): Security incident script review, impact re-evaluation, protocol code review. Review analysis on Opyn, Squeeth, Lyra, related option protocols, vaults, related tools (such as Pyth), and historical product evolutions. Review option trading interfaces
 
 2024-06-19 Wed (3.3h): Finalize domain management utility (renew, cert generation, cert renewal, metadata fix, and metadata sync). Opyn code and history review. Substack preview issue in notion.
 
