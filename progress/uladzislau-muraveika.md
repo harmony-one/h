@@ -1,3 +1,16 @@
+**2024-06-21: Weekly update**
+The main focus during this week was the testnet snapshot service automation and now we have here the mainnet-like disaster recovery approach -  hot copy for the community and extra copies in the STORJ. It will help our community to spin up nodes in matter of 20 minutes instead of 3 days with sync from Genesis.
+
+Additionally, I've standardized the testnet environment - all Harmony managed external validators are managed and monitored from one place now. This action will save our time on the future network support.
+
+And finally, I've done small cleanup of unused test servers. Aftermath - saved money.
+
+---
+
+**2024-05-30 to 2024-06-16: I was on PTO**
+
+---
+
 **2024-05-29: Weekly update**
 
 During 3 days on this week, I found the way how to rate limit users via nginx, with whitelisting feature for our partners. It will helps us to provide stable service for our regular users and mitigate abuse of our nodes.
