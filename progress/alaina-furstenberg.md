@@ -14,7 +14,7 @@ Additionally, I contributed extensively to the Harmony ecosystem through the cre
 
 ---
 
-2024-06-21 Fri: [Harmony community update](https://harmony.one), design of [TGI Infinity thumbnail](https://www.youtube.com/live/c7MTqWKdBtU?si=Ys_pAf7DegpFZeWe) and trimming on Youtube. Marketing of Galaxii application. Continuation of module 4 on the future's course.
+2024-06-21 Fri: [Harmony community update](https://harmony.one), design of [TGI Infinity thumbnail](https://www.youtube.com/live/c7MTqWKdBtU?si=Ys_pAf7DegpFZeWe) and trimming on Youtube. Marketing of Galaxii application. Thread on team's /progress. Continuation of module 4 on the future's course.
 
 2024-06-20 Thu: [Marketing thread for TGI Infinity](https://x.com/harmonyprotocol/status/1803848673337749781), sync with Harmony One Indonesia on plans to co-market. Completion of Lend submission to Magic Square.
 
