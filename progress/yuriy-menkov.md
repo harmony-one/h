@@ -15,6 +15,10 @@ Researched LlamaIndex and extended/configured demo [app](https://github.com/harm
 
 ---
 
+2024-06-21 Fri: Gmx v1 on harmony: Worked on updating the gmx subgraph for token price aggregation - in the current version uses secondary priceFeed events and chainlinkAggregator, reworking it to interact with Band Protocol. Also researching other oracles we can use on Harmony for second PriceFeed.
+
+2024-06-20 Thu: Gmx v1 on harmony: completed integration of the primary price feed with Band Protocol, updated deploy scripts and redeployed contracts. Worked on secondary price feed configuration and testing (currently returns an incorrect price when using 2 priceFeed with test values)
+
 2024-06-19 Wed: Gmx v1 on harmony: fixed volume charts issue, updated [gmx stats]( gmx-stats.fly.dev) service - now volume display correctly. Synced with Artem about Band Protocol integration, continue working on new gmx priceFeed contracts and subgraphs (for supporting new price change events).
 
 2024-06-18 Tue: Gmx v1 on harmony:  Resolved deploy issue, now frontend on [gx.country](https://gx.country/#/v1). Worked on migration Gmx priceFeed contracts from Chainlink (chainlink pricefeed deprecated on Harmony) to [BandChain](https://docs.harmony.one/home/developers/tools/oracles/oracle-band-protocol). Researched the reasons why volume is not saved for charts, [fixed](https://github.com/harmony-one/gmx-subgraph/commit/4bf1a26f27124c79221a6161ce45e53de7e866db) several subgraph issues and deployed a new version. Continue testing.
