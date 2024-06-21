@@ -16,6 +16,10 @@ I led the successful coordination and submission of the [LayerZero airdrop](http
 
 ---
 
+2024-06-20 Thu: Completion of ZRO LayerZero Airdrop. Tuned into Timeless Story, Power Perpetuals, Meme Launchpad [X Space](https://x.com/harmonyprotocol/status/1803901043140628754).  
+
+2024-06-19 Wed: Speaker for [Harmony X Space](https://x.com/Tenacious_DeFi/status/1803563071031459934). Highlighted Topics: website updates, gmx/panoptic, R1 [staking proposal and forum post](https://talk.harmony.one/t/expanding-the-r1-ambassador-program-for-enhanced-community-engagement-v2/24724/3), hard fork, overview of current space, DeFi.
+
 2024-06-18 Tue: Discussions with panoptic. Insight: panoptic is looking to launch on all layer 2s which support uniswap v3 this year, should we engage for Harmony layer 1 support, continue with our own implementation, or pursue both? Completed [Binance Marketing review](https://www.notion.so/harmonyone/Binance-Marketing-Trading-Review-cb6fc96845e64bceb478093b0facf31a).
 
 2024-06-17 Mon: [Magic Square](https://magic.store/) confirmed partnership with 3 listed projects upon completion of forms for Swap, Lend, and Timeless or Perpetual (depending on completion date). Tested [squeeth](https://www.opyn.co/strategies/crab?ct=US). Insight: platform navigation is simple and straight forward, two prominent strategies around ETH, including USDC for hedging against ETH and ETH for leveraged bullish positions. *ETH side of squeeth affected by [Euler Finance](https://www.chainalysis.com/blog/euler-finance-flash-loan-attack/) exploit. The simplicity and minimalism should be replicated for our perpetual market.
