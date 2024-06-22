@@ -1,3 +1,11 @@
+2024-06-21 Fri: 
+- The current status of 1-second finality is approximately 40%. 
+- I refactored block proposing, because current implementation does not allow to propose blocks from consensus, it fails with cyclic dependencies. 
+- I improved reward calculation frequency, which made our tests execution 2x times faster.
+- I implemented minor improvements for the consensus, which were found during the investigation of the undeletions issue and the hotstuff consensus research.
+
+---
+
 ## 2024 Q2 Summary
 
 During Q2, I created 27 PRs with new functionalities and improvements:
