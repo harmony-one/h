@@ -1,3 +1,5 @@
+2024-06-21 Thu (6.2h): Analysis and discussion on landscape and priority, oracles. Examine, compare, review Band and Pyth oracles. Detailed review of Band oracle innerworkings, code, library, contracts, compatibility issues. Review third-party research, comparisons and analysis. Review Pyth documentation, usage, community notes. Review Pods Yield, Olive Network, Hegic. Quick review on KeeperDAO / Rook, Vega, tranched yield products, early versions of Ribbon and Theta vaults, and various projects from 2022.
+
 2024-06-20 Thu (8.3h): Security incident script review, impact re-evaluation, protocol code review. Review analysis on Opyn, Squeeth, Lyra, related option protocols, vaults, related tools (such as Pyth), and historical product evolutions. Review option trading interfaces
 
 2024-06-19 Wed (3.3h): Finalize domain management utility (renew, cert generation, cert renewal, metadata fix, and metadata sync). Opyn code and history review. Substack preview issue in notion.
