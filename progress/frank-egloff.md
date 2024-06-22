@@ -13,6 +13,8 @@ Worked on porting the Vertex Trade App to Harmony. This involved developing a de
 Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+2024-06-20 Fri: Day off
+
 2024-06-19 Thu: Fixed [BigDecimal type issues](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) with Arbitrum and Harmony chains, and now the Portfolio overview and deposit components are showing USDC assets for the Harmony chain. Kept working on deposit logic for the Harmony chain.
 
 2024-06-19 Wed: Added [HarmonyContract mock](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) for utility methods that work with contracts through Vertex SDK packages. Kept working on mock methods for Portfolio Overview and deposit components and worked on fixing issues with deposit logic that don't work with Arbitrum and Harmony chains.  
