@@ -14,6 +14,8 @@ Additionally, I conducted research on perpetual trading platforms such as Jupite
 
 ---
 
+2024-06-22 Sat (1.0h): Looked into further documentation and links on /etgh-power: Pods Yield, Olive Network, and Power Perpetuals.
+
 2024-06-21 Fri: Continued reading through links on "on-chain & open source perpetual". Also read through on opyn protocols (crab strategy, ribbon, impermanent loss, pods finance, olive network). Started looking into replicating [Ribbon Finance v2 theta vault](https://github.com/ribbon-finance/ribbon-v2). 
 
 2024-06-20 Thu: Read through substack docs on Timeless Story + ETH^2 (Power Perpetuals, Jumbo Crab) and their links. Joined Launchpad live. Went over some document work with Amanda. Attended Kush's TGI-AI event.
