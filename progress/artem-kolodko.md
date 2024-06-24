@@ -6,6 +6,10 @@ I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/
 
 ---
 
+2024-06-24 Mon: working on integration Band oracles with Synthetix v3: [refactored](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/73b2aab266106aaba1165dca595f86b62d21be62) inner oracles manager logic to support Band oracles node, [fixed](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/2d7335f32428fdc166b1aa51e05327f866fd325b) imports; continue working on BandNode unit test.
+
+---
+
 2024-06-21 Fri: Synthetix v3: [working](https://github.com/ArtemKolodko/synthetix-v3/pull/1/files) on Band oracles integration tests
 
 2024-06-20 Thu: Band oracles: created and verified Band oracle test [contract](https://explorer.harmony.one/address/0x182ab0923eca5889ffbf462e9995ed0f6332d4f7?activeTab=6) to validate oracle values in Explorer (currently only Bitcoin price supported). [Continue](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/b693f4b924176441a27120752243732078f737f2) working on integrating Synthetix with Band data feed.
