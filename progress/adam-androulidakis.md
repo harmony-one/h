@@ -1,3 +1,13 @@
+2024-6-21 Fri: <br>
+
+-Early in the week the team was making many preparations for a hard fork release. <br>
+-This week I concluded dev-ops on-call duties for the month of June <br>
+-I have been focused on research into potential security pitfalls with perpetual futures contracts, and understanding risks and recovery procedures and previous incidents with relative protocols <br>
+-Sorted out several issues with dependencies and understanding unknowns during pre-deployment verification <br>
+-Out Wednesday for personal day <br>
+-Attended code review sessions with other protocol engineers throughout the week, leading to review and approval of a few essential pull requests awaiting merge <br>
+
+
 2024-6-14 Fri: <br>
 <br>
 
