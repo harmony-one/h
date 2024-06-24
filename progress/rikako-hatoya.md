@@ -1,4 +1,4 @@
-**Q2 Review**
+**2024 Q2 Review**
 
 For [Another World](https://x.com/harmonyprotocol/status/1775979150630596911), I implemented smart contracts on Harmony's shard 1 to [transition Bitcoin Runes into ERC20 tokens](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md). This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes.
 
