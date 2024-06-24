@@ -6,6 +6,12 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
+2024-06-24 Mon: Re-engaged [Stargate](https://stargate.finance/) and submitted application for [Pyth Network](https://pyth.network/) for Harmony integrations.
+
+2024-06-23 Sun: Reached out to LayerZero directly for Harmony support.
+
+2024-06-22 Sat: Continued looking into smart contract claiming for ZRO.
+
 2024-06-21 Fri: LayerZero troubleshooting, current issue: multisig users unable to claim. Wrote complete guide for [Harmony ZRO claim](https://x.com/theoperisic/status/1804429287472402625). Metric: Harmony community ZRO airdrop valuation ~$1.2m USD (at launch)
 
 2024-06-20 Thu: Completion of ZRO LayerZero Airdrop. Tuned into Timeless Story, Power Perpetuals, Meme Launchpad [X Space](https://x.com/harmonyprotocol/status/1803901043140628754).  
