@@ -1,16 +1,8 @@
-Q2 Review 
+**2024 Q2 Review **
 
 I'm working on porting Synthetix protocol to Harmony. The blockers have been the unavailable Chainlink and Pyth oracles on Harmony and an unfamiliar environment, [Cannon](https://usecannon.com/), for building and deploying smart contracts. I managed to solve part of the problems and to [deploy](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) the protocol without oracles for now. I am currently investigating using BAND oracles, and after that I will move directly to testing Synthetix protocol on the Harmony chain.
 
 I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/dashboard), the analog of Metamask Portfolio: implemented basic Swap and Bridge page functionality in a single client. This actually required reverse-engineering the existing separate Uniswap and Harmony Bridge client apps. The portfolio project requires more testing and UI improvements before we will consider publishing it.
-
----
-
-[DRAFT]
-
-Worked on the Synthetix protocol port to the Harmony Blockchain. In the process, I encountered different kind of problems, from the currently unavailable Chainlink and Pyth oracles in Harmony to the unfamiliar environment for building and deploying smart contracts - [Cannon](https://usecannon.com/). Nevertheless, managed to solve part of the problems and to [deploy](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) the protocol with not-working oracles. I am currently investigating the possibility of using BAND oracles instead of Chainlink, and after that I will move directly to testing Synthetix protocol in the Harmony chain.
-
-I've made good progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/dashboard), the analog of Metamask Portfolio: implemented basic Swap and Bridge page functionality in a single client; this actually required reverse-engineering the existing separate Uniswap and Harmony Bridge client apps. The portfolio is not 100% complete yet, and some things require more testing and UI improvements, but we may publish it later this year.
 
 ---
 
