@@ -1,16 +1,8 @@
-## Q2 Deliverables 
+**Q2 Review**
 
 For [Another World](https://x.com/harmonyprotocol/status/1775979150630596911), I implemented smart contracts on Harmony's shard 1 to [transition Bitcoin Runes into ERC20 tokens](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md). This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes.
 
 Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md) on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features. Using Dune analytics, I analyzed the [most profitable trades on GMX](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md), focusing on the profit-and-loss of top traders and their trading pairs. I also worked on replicating GMX and adapting its configurations to function on Harmony's shard 1. This involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. The interface will soon be deployed to the front-end.
-
----
-
-[Draft]
-
-In the second quarter, I was assigned to the Another World project, where I implemented smart contracts on Harmony's shard 1 to seamlessly transition Bitcoin Runes into ERC20 tokens. This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes. Detailed documentation of this project can be found [here](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md).
-
-Additionally, I conducted research on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features, as documented [here](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md). Using Dune analytics, I analyzed the most profitable trades on GMX, focusing on the PnL of top traders and their trading pairs, further detailed [here](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md). I also worked on replicating the GMX platform and adapting its configurations to function on Harmony's shard 1. This task involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. Currently, I am configuring the display of charts and positions and addressing AWS account errors. The interface will soon be deployed to the front-end.
 
 ---
 2024-06-23 Sun (1.5h): Saturday continued. Looked into Topaze Blue, partially collateralized options with Opyn (tutorial video), AD Derivs, Defi options and derivatives.
