@@ -1,18 +1,8 @@
-Q2 Review [DRAFT]
+**Q2 Review**
 
 I led the submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) for 449,000 wallets (users, liquidity providers, and recovery contributors), resulting in ZRO tokens distributed among the Harmony community (~$1.2m at launch). I also crafted a new [perpetual decentralized exchange proposal](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21) that incorporates liquidity provider tokens to enhance trading dynamics. I re-engaged with 10 key platforms like Coinbase and Moonpay and potential integrations including Stargate, OpenOcean, Synapse, and Li.Fi with the aim of enhancing Harmony’s access to liquidity with industry leading cross-chain bridge and exchange applications.
 
 I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/1794241670621573339?t=TnZXgjcx1cKzkWmx9TXPYg&s=19) and 1 larger space in collaboration with [Swoop](https://swoop.exchange/), one of the leaders in cross-chain aggregation, with 4,600 community members tuning in. Additionally, I managed the completion of comprehensive Coinbase documentation, detailing 38 unique applications utilizing Harmony, from DeFi to essential infrastructure tools; this document is now undergoing internal finalization.
-
----
-
-Q2 Review: [DRAFT-OLD]
-
-In Q2, I reengaged with key platforms like [Coinbase](https://www.coinbase.com/) and [Moonpay](https://www.moonpay.com/) and began discussions with potential partners including [Stargate](https://stargate.finance/), [OpenOcean](https://openocean.finance/), [Synapse](https://synapseprotocol.com/), and [Li.Fi](http://li.fi/). These preliminary talks are critical for enhancing Harmony’s functionality and expanding access to liquidity, positioning us for potential inclusion in industry leading cross-chain bridge and DEX applications.
-
-Further, I initiated discussions with the [Encode](https://www.encode.club/) team about a possible hackathon focused on Web3 and AI, preparing the groundwork if we choose to proceed. I've also been cultivating a growing partnership with [TA-DA](https://ta-da.io/), a web3 version of Mechanical Turk, designed to ensure higher quality task completions. Moreover, I participated in 3 community X spaces and 1 larger space in collaboration with [Swoop](https://swoop.exchange/), one of the leaders in cross-chain aggregation, enhancing our community outreach and engagement. In addition to this I oversaw internal operational tasks such as employee off-boarding, pausing contracts, and 2 office location changes, ensuring smooth transitions and continuous operation efficiency.
-
-I led the successful coordination and submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp). I also crafted a new [perpetual dex proposal]([https://harmonyone.notion.site/Perps-PRD-d11c3efa2cf6457b96105bc9a5a65dd7?pvs=4](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21)) that incorporates liquidity provider tokens to enhance trading dynamics. Additionally, I managed the completion of comprehensive Coinbase documentation, detailing 38 unique applications utilizing the Harmony protocol, from DeFi apps to essential infrastructure tools, this document is now undergoing internal finalization.
 
 ---
 
