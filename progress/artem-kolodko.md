@@ -1,4 +1,4 @@
-**2024 Q2 Review **
+**2024 Q2 Review**
 
 I'm working on porting Synthetix protocol to Harmony. The blockers have been the unavailable Chainlink and Pyth oracles on Harmony and an unfamiliar environment, [Cannon](https://usecannon.com/), for building and deploying smart contracts. I managed to solve part of the problems and to [deploy](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) the protocol without oracles for now. I am currently investigating using BAND oracles, and after that I will move directly to testing Synthetix protocol on the Harmony chain.
 
