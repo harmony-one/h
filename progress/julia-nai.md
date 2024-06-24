@@ -2,7 +2,7 @@
 
 ---
 
-**2024 Q2 Review DRAFT v0.4 (≈29 hours)**\
+**2024 Q2 Review (29 hours)**\
 I focused on deploying and debugging gTrade on Harmony. I modified the [truffle](https://github.com/harmony-one/gTrade-v6.1/commit/e46a524f12c67464378c165614cfbcac274305aa) configuration for both Harmony mainnet and testnet, setting up the testnet environment and troubleshooting [deployment](https://github.com/harmony-one/gTrade-v6.1/commit/f705adfaeaebe11a5c3d2153805bb0027c5afb90) errors, including issues with gas limits and compiler versions. Additionally, I created function documentation for smart contracts in gTrade including [GNSPairInfoV6_1](https://github.com/harmony-one/gTrade-v6.1/commit/5ec303fa788637f3bb02e445274d5bf7abd9f173) and [GNSTradingV6_1](https://github.com/harmony-one/gTrade-v6.1/commit/20ab621fc342322cf2f488d2269bfe2559d2a8c7). I also reviewed various posts/documents including Coinbase listing and LayerZero token allocation [forum post](https://talk.harmony.one/t/harmony-layerzero-airdrop/24700) and documentation.
 
 I created [Dune queries](https://dune.com/aishlia/arbitrum-uniswap) to analyze Arbitrum Uniswap stats related to which specific wallets have highest volume, and I created some preliminary [scripts](https://github.com/harmony-one/s/commit/7dbfe0595f3844e66157604fded23807fda61feb) for determining highest profit wallets from Arbitrum Uniswap's subgraph. I also contributed the following to perpetuals industry analysis [/chart](https://harmony.one/chart): code license, last commit, frontend deploy repo, stats dashboard link, type of liquidity (orders), earning 2024 Q1, and tx fees 2024 Q1.
