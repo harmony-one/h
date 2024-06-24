@@ -13,8 +13,9 @@ In the second quarter, I was assigned to the Another World project, where I impl
 Additionally, I conducted research on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features, as documented [here](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md). Using Dune analytics, I analyzed the most profitable trades on GMX, focusing on the PnL of top traders and their trading pairs, further detailed [here](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md). I also worked on replicating the GMX platform and adapting its configurations to function on Harmony's shard 1. This task involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. Currently, I am configuring the display of charts and positions and addressing AWS account errors. The interface will soon be deployed to the front-end.
 
 ---
+2024-06-23 Sun (1.5h): Saturday continued. Looked into Topaze Blue, partially collateralized options with Opyn (tutorial video), AD Derivs, Defi options and derivatives.
 
-2024-06-22 Sat (1.0h): Looked into further documentation and links on /etgh-power: Pods Yield, Olive Network, and Power Perpetuals.
+2024-06-22 Sat (1.0h): Looked into further documentation and links on /eth-power: Pods Yield, Olive Network, and Power Perpetuals.
 
 2024-06-21 Fri: Continued reading through links on "on-chain & open source perpetual". Also read through on opyn protocols (crab strategy, ribbon, impermanent loss, pods finance, olive network). Started looking into replicating [Ribbon Finance v2 theta vault](https://github.com/ribbon-finance/ribbon-v2). 
 
