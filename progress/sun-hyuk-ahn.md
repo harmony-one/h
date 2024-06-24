@@ -33,6 +33,12 @@ Researched Panoptics protocol, a perpetual options trading protocol utilizing Un
 
 ---
 
+2024-05-01 - 2024-06-07: Out of office (28 days)
+
+---
+
+2024-04-19 Fri: Continued throughput calculation and difference for Near and Celestia.
+
 2024-04-18 Thu: Calculated throughput for our chain. Cleaned and packed boxes at the office for move out day.
 
 2024-04-17 Wed: Started benchmarking process, more into how Near and Celestia calculated the costs. Will talk to Soph on how to calculate our costs.
