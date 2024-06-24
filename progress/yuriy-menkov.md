@@ -6,6 +6,10 @@ For LayerZero token airdrop, I created scripts to collect statistics for all use
 
 ---
 
+2024-06-22 Mon: Researched various options for gmx secondary price feed (used to compare prices and identify deviations). Current implementation of GMX contracts relies on keppers (more about it [in the following doc (Price Feeds section).](https://gmx-io.notion.site/gmx-io/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353)). To get the price, kepper can use both oracle and the api of one/several cex. Found a good [implementation of keeper](https://github.com/redstone-finance/gmx-contracts/blob/master/scripts/redstone/keeper/keeper.js) from the redstone-finance team. Working on migration and integration of keeper with our contracts and CoinBase api.
+
+---
+
 2024-06-21 Fri: Gmx v1 on harmony: Worked on updating the gmx subgraph for token price aggregation - in the current version uses secondary priceFeed events and chainlinkAggregator, reworking it to interact with Band Protocol. Also researching other oracles we can use on Harmony for second PriceFeed.
 
 2024-06-20 Thu: Gmx v1 on harmony: completed integration of the primary price feed with Band Protocol, updated deploy scripts and redeployed contracts. Worked on secondary price feed configuration and testing (currently returns an incorrect price when using 2 priceFeed with test values)
