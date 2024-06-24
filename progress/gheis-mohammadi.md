@@ -1,5 +1,6 @@
-2024 Q2 Review
-Throughout this quarter, I implemented over 10 major PRs, contributing significantly to network improvements. During the Q2, I focused on critical improvements to enhance our network's stability and performance. One major achievement was addressing P2P stream discovery issues, ensuring stable operation of devnet nodes, and resolving high storage usage and syncing problems. I also refactored the stream sync block storage, significantly improving stability and logging capabilities, aiding in more effective debugging processes.
+**2024 Q2 Review**
+
+Throughout this quarter, I implemented over 10 major PRs, contributing significantly to network improvements. Moving towards HIP-32, I focused on critical improvements to enhance our network's stability and performance. One major achievement was addressing P2P stream discovery issues, ensuring stable operation of devnet nodes, and resolving high storage usage and syncing problems. I also refactored the stream sync block storage, significantly improving stability and logging capabilities, aiding in more effective debugging processes.
 
 Resolving persistent boot node issues was another highlight. This issue was getting a big impact on validators. By upgrading to the latest version of libp2p, refactoring code, and meticulously testing various configurations, I managed to stabilize the boot nodes. The implemented changes, encapsulated in key pull requests such as #4674 and #4676, ensured seamless network operation. Additionally, I enhanced P2P connection monitoring by implementing logger flags and the environment variables, providing the team with better visibility.
 
