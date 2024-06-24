@@ -5,6 +5,11 @@ I focused on launching data availability rollup on shard 1. Researched into how 
 Researched Panoptics protocol, a perpetual options trading protocol utilizing Uniswap v3. Began deploying `PanopticFactory.sol` and `PanopticPool.sol` to enable options trading.
 
 ---
+2024-06-22 Sat: Continued Uniswap v3 Testnet and Panoptic smart contract deployment (ETA 06/24 (Mon)).
+
+2024-06-21 Fri: Continued Uniswap v3 Testnet deployment. Also, continued the progress left on 06/19 (Wed) on `PanopticFactory.sol` to coordinate with Uniswap v3.
+
+2024-06-20 Thu: Researched into at Uniswap v3 developer documentation. Began to deploy Uniswap v3 to Testnet.
 
 2024-06-19 Wed: Went over capital efficiency section of Panoptics. Began deploying `PanopticFactory.sol` and configuring variables specific to Harmony so that it interacts with Uniswap. Currently Harmony only has Uniswap on Mainnet so looking for a way to deploy and play around using Testnet.
 
