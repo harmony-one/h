@@ -1,17 +1,8 @@
-Q2 Review
+**2024 Q2 Review**
 
 Porting GMX v1 to Harmony: [contracts](https://github.com/harmony-one/gmx-contracts-v1), [interface](https://github.com/harmony-one/gmx-interface), [stats](https://github.com/harmony-one/gmx-stats/pull/1/files) and [subgraph](https://github.com/harmony-one/gmx-subgraph/pull/1/files); Created contracts deploy [script](https://github.com/potvik/gmx-contracts/blob/gmx_v1_deploy_script/scripts/deployAll.js), created [scripts](https://github.com/potvik/gmx-contracts/tree/gmx_v1_deploy_script/scripts) for adding tokens and liquidity, added [docs](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) with deploy steps description, added Harmony chain support to all repos. Configured sync and deploy for all services: [subgraph](https://thegraph.com/studio/subgraph/gmx-h-stats/playground), [stats](https://gmx-stats.fly.dev/harmony), [interface](https://gx-country.web.app). I have successfully tested adding liquidity, swap and position creation.
 
 For LayerZero token airdrop, I created scripts to collect statistics for all users who used the LayerZero bridge and scripts for statistics on Swap liquidity pools that used tokens transferred through the bridge (via Swap subgraph). Reviewed and publish the [proposal](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp).
-
----
-Draft
-
-Gmx v1 on harmony: forked repos: [contracts](https://github.com/harmony-one/gmx-contracts-v1), [interface](https://github.com/harmony-one/gmx-interface), [stats](https://github.com/harmony-one/gmx-stats/pull/1/files) and [subgraph](https://github.com/harmony-one/gmx-subgraph/pull/1/files); Created contracts deploy [script](https://github.com/potvik/gmx-contracts/blob/gmx_v1_deploy_script/scripts/deployAll.js). Created [scripts](https://github.com/potvik/gmx-contracts/tree/gmx_v1_deploy_script/scripts) for adding tokens and liquidity. Added [docs](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) with deploy steps description; Added harmony chain support to all repos. Updated interface with new contracts and token pairs: ONE, WONE, BUSD, LINK. Updated subgraph with new contracts. Resolved subgraph build and sync issues. Updated stats service. Configured sync and deploy for all services: [subgraph](https://thegraph.com/studio/subgraph/gmx-h-stats/playground), [stats](https://gmx-stats.fly.dev/harmony), [interface](https://gx-country.web.app). I have successfully tested adding liquidity, swap and position creation. There are still a few bugs related to the display of charts in the interface. It is also necessary to test the remaining gmx features separately.
-
-LayerZero token airdrop: created scripts to collect statistics for all users who used the layerzero bridge. Created scripts for get statistics on Swap liquidity pools that used tokens transferred through the bridge (via swap subgraph). Reviewed and publish the [proposal](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp).
-
-Researched LlamaIndex and extended/configured demo [app](https://github.com/harmony-one/rag-llama-together): powered by [LlamaIndex](https://www.llamaindex.ai/) and [Together.ai](https://www.together.ai/) RAG chatbot using Next.js bootstrapped with [LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/tree/main). Also using Mixtral (through Together AI Inference) and [Together Embeddings](https://docs.together.ai/docs/embeddings-rag). It'll embed the PDF file in data, generate embeddings stored locally, then give you a RAG chatbot to ask questions to.
 
 ---
 
