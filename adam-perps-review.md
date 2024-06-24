@@ -31,6 +31,7 @@ http://submit.utahwfc.org/2024_Papers/paper_4.pdf <br>
 https://fnce.wharton.upenn.edu/wp-content/uploads/2024/02/UrbanJermann2_29_24-1.pdf <br>
 https://www.marketvector.com/uploads/Perpetual%20swaps_A%20never%20ending%20Story.pdf<br>
 https://gbbcouncil.org/wp-content/uploads/2021/11/GSMI-2.0-Introduction-to-Crypto-Derivatives.pdf<br>
+https://www.stern.nyu.edu/sites/default/files/assets/documents/Duron-Carielo_Is%20There%20A%20Future%20In%20Perpetual%20Futures.pdf
 
 Sites: <br>
 https://docs.perp.com/  <br>
@@ -42,3 +43,8 @@ https://www.gainprotocol.com/ <br>
 Deploying uniswap routers <br> 
 https://www.youtube.com/watch?v=m0OhfGLh4nc <br> 
 https://medium.com/coinmonks/deploy-interact-with-uniswap-v2-pair-locally-with-hardhat-and-ethers-js-v6-f8f5dd436930 <br>
+
+Security: 
+https://medium.com/@alfred.capital/the-risks-of-trading-perpetual-futures-contracts-are-you-prepared-bc8b0ab0d1eb <br>
+https://medium.com/chainlight/retrospecting-unhealthy-order-allowance-vulnerability-in-perpetual-protocol-49b3c07230dc <br>
+https://medium.com/chainlight/retrospecting-liquidation-fee-vulnerability-in-perpetual-protocol-c914cadd575a <br>
