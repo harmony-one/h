@@ -1,16 +1,8 @@
 **2024 Q2 Review**
+
 I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024565259), implemented token-based security and refactored the codebase to facilitate adding new large language models, including Claude, Sonnet, Haiku, and subagent integration. Added model-specific conversation handling and access to Anthropic tool feature, to check stocks and Web3 tokens. I fixed simultaneous command call issues.
 
 Porting and deploying [Vertex Trade](https://github.com/harmony-one/vertex-web-monorepo-snapshot) contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API which provides endpoints for calculating risk measures and greeks for various financial derivatives and improved 1.country one-and-two-letter domain handling and certificate management.
-
----
-
-[Draft 1]
-During the second quarter, I enhanced 1Bot's functionality, security, and performance by integrating the GPT-4o model, implementing token-based security, and refactoring the codebase to facilitate adding new llms, models and subagent integration. Key features added include model-specific conversation handling and access to Anthropic tool feature. I fixed simultaneous command call issues and improved user experience.
-
-Worked on porting the Vertex Trade App to Harmony. This involved developing a deploy script and successfully deploying all Vertex contracts to both the Harmony Mainnet and Testnet chains. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Despite encountering some deployment and testing challenges, I continued in mocking the Vertex SDK methods and review the Trade app to ensure its compatibility on the Harmony network.
-
-Additional tasks completed include implementing and deploying the defi_greeks API (which provides endpoints for calculating risk measures and greeks for various financial derivatives), updating protofire/Swap and protofire/Explorer Interface, and improving 1.country one-and-two-letter domain handling and certificate management.
 
 ---
 2024-06-20 Fri: Day off
