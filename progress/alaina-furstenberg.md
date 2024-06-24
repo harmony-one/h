@@ -6,11 +6,15 @@ Also, I led a community Twitter space with Swoop, attended by 97 community membe
 
 ---
 
+2024-06-24 Mon: [Sharing/promotion of TGI S*](https://x.com/harmonyprotocol/status/1805300758973497467). Continuation of module 4 of the futures course.
+
+---
+
 2024-06-23 Sun (1.0 hr): Running TGI infinity through storylines, to produce 2 minute short clips to share via twitter/youtube.
 
 2024-06-22 Sat (2.0 hrs): Editing & uploading [ONE Show Episode 6](https://youtu.be/zDGG0H8f4Og) sharing Theo's [thread on the claiming the ZRO airdrop](https://x.com/harmonyprotocol/status/1804548642143097276).
 
-2024-06-21 Fri: [Harmony community update](https://harmony.one), design of [TGI Infinity thumbnail](https://www.youtube.com/live/c7MTqWKdBtU?si=Ys_pAf7DegpFZeWe) and trimming on Youtube. Marketing of Galaxii application. Thread on team's /progress. Continuation of module 4 on the future's course.
+2024-06-21 Fri: [Harmony community update](https://harmony.one), design of [TGI Infinity thumbnail](https://www.youtube.com/live/c7MTqWKdBtU?si=Ys_pAf7DegpFZeWe) and trimming on Youtube. Marketing of Galaxii application. [Thread on team's /progress](https://x.com/harmonyprotocol/status/1804280205923782738). Continuation of module 4 on the future's course.
 
 2024-06-20 Thu: [Marketing thread for TGI Infinity](https://x.com/harmonyprotocol/status/1803848673337749781), sync with Harmony One Indonesia on plans to co-market. Completion of Lend submission to Magic Square.
 
