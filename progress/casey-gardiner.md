@@ -1,3 +1,22 @@
+### Weekly Progress Update: 2024-06-21
+
+#### Protocol Upgrade and Bug Resolution
+
+- **Hard Fork Update / Emergency Upgrade:**
+  - Focused on resolving the critical issue identified last week.
+  - Ensured the successful deployment of the emergency upgrade (v2024.1.0) for mainnet activation.
+  - Coordinated with partners to confirm the upgrade and monitored the process to ensure a smooth transition.
+
+- **Validation of ONE Token Mints:**
+  - Began the process of validating any potentially bad ONE token mints post-upgrade.
+
+#### Research and Development
+
+- **Derivatives Smart Contracts:**
+  - Minimal progress this week due to the primary focus on the bug resolution and hard fork upgrade.
+
+This week was dedicated to addressing the critical protocol issue, ensuring the successful deployment of the hard fork upgrade, and beginning the validation process for ONE token mints.
+
 ### Weekly Progress Update: 2024-06-14
 
 #### Protocol Upgrade and Bug Resolution
