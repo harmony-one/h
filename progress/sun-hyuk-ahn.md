@@ -5,7 +5,12 @@ I focused on launching data availability rollup on shard 1. Researched into how 
 Researched Panoptics protocol, a perpetual options trading protocol utilizing Uniswap v3. Began deploying `PanopticFactory.sol` and `PanopticPool.sol` to enable options trading.
 
 ---
-2024-06-22 Sat: Continued Uniswap v3 Testnet and Panoptic smart contract deployment (ETA 06/24 (Mon)).
+
+2024-06-24 Mon: Deployed Panoptic to Sepolia network. Deployed a new pool for Panoptics on Sepolia. Comparing the variables used for Sepolia and the required ones for Harmony to properly deploy. Need to find the WONE in order to deploy the `PanopticFactory.sol`.
+
+---
+
+2024-06-22 Sat: Continued Uniswap v3 Testnet and Panoptic smart contract deployment.
 
 2024-06-21 Fri: Continued Uniswap v3 Testnet deployment. Also, continued the progress left on 06/19 (Wed) on `PanopticFactory.sol` to coordinate with Uniswap v3.
 
