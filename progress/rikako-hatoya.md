@@ -5,6 +5,10 @@ For [Another World](https://x.com/harmonyprotocol/status/1775979150630596911), I
 Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md) on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features. Using Dune analytics, I analyzed the [most profitable trades on GMX](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md), focusing on the profit-and-loss of top traders and their trading pairs. I also worked on replicating GMX and adapting its configurations to function on Harmony's shard 1. This involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. The interface will soon be deployed to the front-end.
 
 ---
+
+2024-06-24 Mon: Read into Uniswap math insights series on [Medium](https://medium.com/@med456789d), looking into LP hedging and Bachelier model. Cloned Uniswap's [v3-core](https://github.com/Uniswap/v3-core) and looked into their smart contracts (Factory, Pool, PoolDeployer, interface.)
+
+---
 2024-06-23 Sun (1.5h): Saturday continued. Looked into Topaze Blue, partially collateralized options with Opyn (tutorial video), AD Derivs, Defi options and derivatives.
 
 2024-06-22 Sat (1.0h): Looked into further documentation and links on /eth-power: Pods Yield, Olive Network, and Power Perpetuals.
