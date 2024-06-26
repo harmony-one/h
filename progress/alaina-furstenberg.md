@@ -6,6 +6,8 @@ Also, I led a community Twitter space with Swoop, attended by 97 community membe
 
 ---
 
+2024-06-25 Tue: Continued sharing and [promotion of TGI-S*](https://x.com/harmonyprotocol/status/1805681714121130224). Design of thumbnail for [TGI-S* youtube livestream](https://www.youtube.com/live/Sbzdlc-jZug?si=bd0b5MAODe8GPEhc). Continuation of module 4 of the futures course. Promotion of ONE Show Episode 6 and design of Joskins use case collage.
+
 2024-06-24 Mon: [Sharing/promotion of TGI S*](https://x.com/harmonyprotocol/status/1805300758973497467). Continuation of module 4 of the futures course. Parsing through Storyline generated clips, editing subtitles, posting a [thread on twitter to highlight TGI infinity clips](https://x.com/harmonyprotocol/status/1805363770291896636).
 
 ---
