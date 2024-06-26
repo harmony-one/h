@@ -5,6 +5,9 @@ I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024
 Porting and deploying [Vertex Trade](https://github.com/harmony-one/vertex-web-monorepo-snapshot) contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API which provides endpoints for calculating risk measures and greeks for various financial derivatives and improved 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+2024-06-25 Tue: Medical emergency, catching up
+on Wednesday.
+
 2024-06-24 Mon: Worked on Portfolio's deposit logic. The deposit logic interacts with the (upgradable) Endpoint contract, calling the depositCollateral method. The Endpoint contract was deployed on Harmony Mainnet, but the initialize method has yet to be called. The method receives a sequencer contract address as a parameter, among other nonpublic contracts. The sequencer contract is linked to the order book, which is the main feature of Vertex mixed architecture. To keep working on the mock Vertex Trade app, I'm working on a mock sequencer contract (needs to create Sactions and OffchainExchange mock contracts, too). The only contract of the Vertex contract repo that uses the sequencer is the Endpoint contract. Also, added a mock method to the subaccount mock client.
 
 ---
