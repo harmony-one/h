@@ -6,6 +6,8 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
+2024-06-25 Tue: Space [AMA announcement](https://x.com/harmonyprotocol/status/1805681714121130224) and progress on Binance post listings team [form](https://www.notion.so/harmonyone/Binance-Post-Listing-Team-3f9154522afa46dca46c63f51a2517e5).
+
 2024-06-24 Mon: Re-engaged [Stargate](https://stargate.finance/) and submitted application for [Pyth Network](https://pyth.network/) for Harmony integrations.
 
 2024-06-23 Sun: Reached out to LayerZero directly for Harmony support.
