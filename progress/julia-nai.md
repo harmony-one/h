@@ -10,6 +10,20 @@ I created [Dune queries](https://dune.com/aishlia/arbitrum-uniswap) to analyze A
 
 ---
 
+2024-06-25 Tue: Tried to deploy gTrade contracts through Remix per Casey's suggestion. Adjusted Q2 review per Li's edits. 
+
+2024-06-24 Mon: Resolved issue with MacOS, had to re-setup most enviroments and redo some lost work. 
+
+---
+
+2024-06-23 Sun: (0.00 h) Was not able to resolve MacOS bug.
+
+2024-06-22 Sat: (0.00 h) Was not able to resolve MacOS bug.
+
+2024-06-21 Fri: Ran into MacOS bug rendering laptop inoperable. 
+
+2024-06-20 Thu: Reviewed LayerZero token distribution launch. Synced with Sun on new initiatives and Q2 review. 
+
 2024-06-19 Wed: Federal Holiday Juneteenth
 
 2024-06-18 Tue: Worked with Li for numerous iterations of the Q2 review for newsletter and internal use. Added links for relevant points in the review. 
