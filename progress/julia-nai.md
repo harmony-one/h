@@ -12,7 +12,7 @@ I created [Dune queries](https://dune.com/aishlia/arbitrum-uniswap) to analyze A
 
 2024-06-25 Tue: Tried to deploy gTrade contracts through Remix per Casey's suggestion. Adjusted Q2 review per Li's edits. 
 
-2024-06-24 Mon: Resolved issue with MacOS, had to re-setup most enviroments and redo some lost work. 
+2024-06-24 Mon: Resolved issue with MacOS, had to re-setup enviroments and redo some lost work. 
 
 ---
 
