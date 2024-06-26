@@ -1,4 +1,12 @@
-2024-06-21 Thu (6.2h): Analysis and discussion on landscape and priority, oracles. Examine, compare, review Band and Pyth oracles. Detailed review of Band oracle innerworkings, code, library, contracts, compatibility issues. Review third-party research, comparisons and analysis. Review Pyth documentation, usage, community notes. Review Pods Yield, Olive Network, Hegic. Quick review on KeeperDAO / Rook, Vega, tranched yield products, early versions of Ribbon and Theta vaults, and various projects from 2022.
+2024-06-25 Tue (4.7h): Review SynFutures analysis, docs, analytics. Review Uniswap greeks, Pyth analysis. Quick review on Contango  
+
+2024-06-24 Mon (3.7h): Debug LayerZero claim issue. Examine Squeeth analytics. Review Drift protocol and analytics, oracle risks for bridge and staked assets. Review SynFutures analysis, docs, analytics.
+
+---
+
+2024-06-23 Sun (0.8h): Review Drift, product, and presentation
+
+2024-06-21 Fri (6.2h): Analysis and discussion on landscape and priority, oracles. Examine, compare, review Band and Pyth oracles. Detailed review of Band oracle innerworkings, code, library, contracts, compatibility issues. Review third-party research, comparisons and analysis. Review Pyth documentation, usage, community notes. Review Pods Yield, Olive Network, Hegic. Quick review on KeeperDAO / Rook, Vega, tranched yield products, early versions of Ribbon and Theta vaults, and various projects from 2022.
 
 2024-06-20 Thu (8.3h): Security incident script review, impact re-evaluation, protocol code review. Review analysis on Opyn, Squeeth, Lyra, related option protocols, vaults, related tools (such as Pyth), and historical product evolutions. Review option trading interfaces
 
