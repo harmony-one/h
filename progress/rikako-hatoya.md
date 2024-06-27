@@ -6,6 +6,8 @@ Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/
 
 ---
 
+2024-06-26 Wed: Continuation on power perpetuals: cloned Squeeth monorepo, read through gitbook documentation (crab and zenbull strategies, payoff diagrams, auction, oSQTH.) Worked on setting up environment + dependencies for packages/frontend, also looked through core contracts and deploy script for hardhat local deployment.
+
 2024-06-25 Tue: Looked into Yuriy's GMX v1 updates and worked on replicating them (keepers scripts integration, deploy scripts.) Investigated S3 buckets for deploy. Continued with research on Opyn ETH (incentives for LPs, Bull Strategy, Liquidity, etc.)
 
 2024-06-24 Mon: Read into Uniswap math insights series on [Medium](https://medium.com/@med456789d), looking into LP hedging and Bachelier model. Cloned Uniswap's [v3-core](https://github.com/Uniswap/v3-core) and looked into their smart contracts (Factory, Pool, PoolDeployer, interface.)
