@@ -6,6 +6,8 @@ For LayerZero token airdrop, I created scripts to collect statistics for all use
 
 ---
 
+2024-06-24 Wed: [Created](https://github.com/harmony-one/gmx-price-keeper) a separate service (based on nest.js) for price feed keeper. It will be deployed on fly.io. The service consists of two parts: Price feed keeper (submits prices routinely for swaps) and Position keeper (submits prices when executing a position).
+
 2024-06-23 Tue: Worked on keepers scripts integration. [Added](https://github.com/harmony-one/gmx-contracts-v1/pull/1/commits/8b9ef57049f825cf479d414933b3d0c27039d6e8) draft version for set price keepers scripts. Setting Price functionality and next price calculation working correctly. Working on coinbase api integration and and migration to the structure of an independent service.
 
 2024-06-22 Mon: Researched various options for gmx secondary price feed (used to compare prices and identify deviations). Current implementation of GMX contracts relies on keppers (more about it [in the following doc (Price Feeds section).](https://gmx-io.notion.site/gmx-io/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353)). To get the price, kepper can use both oracle and the api of one/several cex. Found a good [implementation of keeper](https://github.com/redstone-finance/gmx-contracts/blob/master/scripts/redstone/keeper/keeper.js) from the redstone-finance team. Working on migration and integration of keeper with our contracts and CoinBase api.
