@@ -6,7 +6,9 @@ Researched Panoptics protocol, a perpetual options trading protocol utilizing Un
 
 ---
 
-2024-06-25 Tue: Deployed a new pool for the Sepolia Panoptic ([transactions](https://sepolia.etherscan.io/address/0x6fb20da8f132a4849dc1b20bf25b74c1c2a94126)). Successfully deployed the protocol on Harmony Mainnet. Here are addresses of the contracts: [SemiFungiblePositionManager](https://explorer.harmony.one/address/0xdc76db9ea5436cb59ad5ea9d39acb44f29f05602), [PanopticPool](https://explorer.harmony.one/address/0x59a885B64FA250EF87D28274FC254D9E45665786), [CollateralTracker](https://explorer.harmony.one/address/0xdc9C08a86B142E48ddDa4432BE7B3795C65A45d0), and [PanopticFactory](https://explorer.harmony.one/address/0x4AE81fd45e6bdb8c009DcCA13648691E04d40ca2). Need to work on the interface as Panoptic's frontend is not open sourced.
+2024-06-26 Wed: Began to work on the frontend for Panoptics. Reached out to their core team to see if their interface is open sourced.
+
+2024-06-25 Tue: Deployed a new pool for the Sepolia Panoptic ([transactions](https://sepolia.etherscan.io/address/0x6fb20da8f132a4849dc1b20bf25b74c1c2a94126)). Successfully deployed the protocol on Harmony Mainnet. Here are addresses of the contracts: [SemiFungiblePositionManager](https://explorer.harmony.one/address/0xdc76db9ea5436cb59ad5ea9d39acb44f29f05602), [PanopticPool](https://explorer.harmony.one/address/0x59a885B64FA250EF87D28274FC254D9E45665786), [CollateralTracker](https://explorer.harmony.one/address/0xdc9C08a86B142E48ddDa4432BE7B3795C65A45d0), and [PanopticFactory](https://explorer.harmony.one/address/0x4AE81fd45e6bdb8c009DcCA13648691E04d40ca2).
 
 2024-06-24 Mon: Deployed Panoptic to Sepolia network. Comparing the variables used for Sepolia and the required ones for Harmony to properly deploy. Need to find the WONE in order to deploy the `PanopticFactory.sol`.
 
