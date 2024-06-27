@@ -6,6 +6,8 @@ I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/
 
 ---
 
+2024-06-27 Thu: spent some time researching how to publish Cannon package to specific network, finally [updated](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/992fa8cd823af6174077f1f1269f382827e1e198) publish script to deploy new oracles package. Received error message regarding missing arachnid create2 contract on Harmony chain, asked Aaron for any help with that.
+
 2024-06-26 Wed: Synthetix and Band oracles: [prepared](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/fb052d20f50eb9e1d6ba56ec8e85c0185d86ef4f) alpha version of Cannon package with band oracles support, [created](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/c9d999cedb42e09d60058a855936dce923af8c5b) Band oracles config in synthetix-deployent repo. Having some issues with publishing alpha version to Cannot registry (it's required to publish new version of Sythetix protocol), working on resolving these issues.
 
 2024-06-25 Tue: Band oracles & Synthetix: [added](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/30d0af2b03f08e77a21f2e18412302b91a55f6f7) integration test, implented mocked Band oracles node
