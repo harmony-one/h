@@ -6,6 +6,8 @@ For LayerZero token airdrop, I created scripts to collect statistics for all use
 
 ---
 
+2024-06-28 Fri: Configured gmx keeper service deployment to fly.io. Service APIs are available [here](https://gmx-keeper.fly.dev/api) (now only metrics). Reworked FastPriceFeed deployment scripts to correctly add signers (multiple watcher accounts are currently setup to have the ability to send the transaction to enable spreads). Continue test/bug fixing, writing documentation on using the service and API extension for more convenient testing.
+
 2024-06-27 Thu: [Worked](https://github.com/harmony-one/gmx-price-keeper/commit/a5817f73dc3d1eb349d4c4d1d792f9af2a290f0f) on Position keeper part - added eventLogger for tracking PositionRouter contract events and updating the price in the FastPriceFeed contract when executing a position. Continue working on keeper service deployment and complex service testing. 
 
 2024-06-26 Wed: [Created](https://github.com/harmony-one/gmx-price-keeper) a separate service (based on nest.js) for price feed keeper. It will be deployed on fly.io. The service consists of two parts: Price feed keeper (submits prices routinely for swaps) and Position keeper (submits prices when executing a position).
