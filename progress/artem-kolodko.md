@@ -6,6 +6,8 @@ I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/
 
 ---
 
+2024-06-28 Fri: worked on issue with deploying updated Synthetix oracle manager - debugged Cannon library sources, it's expecting that utility create2 [contract](https://github.com/Arachnid/deterministic-deployment-proxy) to be deployed on address [0x4e59b44847b379578588920ca78fbf26c0b4956c](https://explorer.harmony.one/address/0x4e59b44847b379578588920ca78fbf26c0b4956c) on Harmony chain. It's currently a blocker, asked Aaron to help with this issue.
+
 2024-06-27 Thu: spent some time researching how to publish Cannon package to specific network, finally [updated](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/992fa8cd823af6174077f1f1269f382827e1e198) publish script to deploy new oracles package. Received error message regarding missing arachnid create2 contract on Harmony chain, asked Aaron for any help with that.
 
 2024-06-26 Wed: Synthetix and Band oracles: [prepared](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/fb052d20f50eb9e1d6ba56ec8e85c0185d86ef4f) alpha version of Cannon package with band oracles support, [created](https://github.com/ArtemKolodko/synthetix-deployments/pull/1/commits/c9d999cedb42e09d60058a855936dce923af8c5b) Band oracles config in synthetix-deployent repo. Having some issues with publishing alpha version to Cannot registry (it's required to publish new version of Sythetix protocol), working on resolving these issues.
