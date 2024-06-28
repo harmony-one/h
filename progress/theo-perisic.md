@@ -12,6 +12,8 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 2024-06-24 Mon: Re-engaged [Stargate](https://stargate.finance/) and submitted application for [Pyth Network](https://pyth.network/) for Harmony integrations.
 
+---
+
 2024-06-23 Sun: Reached out to LayerZero directly for Harmony support.
 
 2024-06-22 Sat: Continued looking into smart contract claiming for ZRO.
