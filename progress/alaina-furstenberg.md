@@ -6,6 +6,8 @@ Also, I led a community Twitter space with Swoop, attended by 97 community membe
 
 ---
 
+2024-06-28 Fri: Updated harmony.one community section. Wrote a [thread](https://x.com/harmonyprotocol/status/1806805192928879041) recapping the team's /progress. Continuation of the futures course module 4.
+
 2024-06-27 Thu: [Promotion](https://x.com/harmonyprotocol/status/1806391074140868807) of community voting to list Swap on the Magic Store and TGI-S*. Running TGI-S* to through Storylines, to post another thread tomomrrow. Reviewed [Binance documentation](https://www.notion.so/harmonyone/Binance-Doc-3f9154522afa46dca46c63f51a2517e5)
 
 2024-06-26 Wed: [Promotion of TGI-S*](https://x.com/harmonyprotocol/status/1806093674927071473) and [community lead space](https://x.com/harmonyprotocol/status/1806093673303842885) prior to collect AMA questions. Helping Theo with [Binance documentation](https://www.notion.so/harmonyone/Binance-Doc-3f9154522afa46dca46c63f51a2517e5) by providing the social media links.
