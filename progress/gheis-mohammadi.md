@@ -1,3 +1,9 @@
+**2024-06-29 Sat:**
+
+Last week, after a successful hard fork, we shifted our focus back to the HIP32 requirements, moving towards the necessary enhancements and improvements. Some old boot nodes couldn't get enough peers after the upgrade, and I am already addressing that issue. The first solution I tried involved testing different P2P configurations that are compatible with both old and new versions. I am also incorporating some code from older versions and working on the TLS and security aspects. The investigation is still ongoing, and I will continue working on it.
+
+---
+
 **2024 Q2 Review**
 
 Throughout this quarter, I implemented major PRs, contributing significantly to network improvements. Moving towards HIP-32, I focused on critical improvements to enhance our network's stability and performance. One major achievement was addressing P2P stream discovery issues, ensuring stable operation of devnet nodes, and resolving high storage usage and syncing problems PR[#4676](https://github.com/harmony-one/harmony/pull/4676). I also refactored the stream sync block storage, significantly improving stability PR[#4660](https://github.com/harmony-one/harmony/pull/4660) and logging capabilities PR[#4667](https://github.com/harmony-one/harmony/pull/4667), aiding in more effective debugging processes.
