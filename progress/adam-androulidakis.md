@@ -1,3 +1,13 @@
+2024-6-28 Fri: <br>
+Weekly summary <br>
+-Attended general engineering and devops discussions (Tuesday/Thursday) <br>
+-Performed code reviews/approvals and other general protocol duties <br>
+-We are still trying to deploy some Gains network contracts, there still seem to be some resources missing such as a storage contract we are unable to locate. I am uncertain if we are going to proceed with this one. I have scheduled some time to coordinate with other members of the team and the custodians of the platform to bring this task to a close <br>
+-Reviewed some of the most recent contracts that were published in Harmony's repositories such as gmx_contracts <br>
+-I reviewed several of our publications and reports to maintain sychronization with our teams progress and goals <br>
+
+---
+
 2024-6-21 Fri: <br>
 
 -Early in the week the team was making many preparations for a hard fork release. <br>
@@ -7,6 +17,7 @@
 -Out Wednesday for personal day <br>
 -Attended code review sessions with other protocol engineers throughout the week, leading to review and approval of a few essential pull requests awaiting merge <br>
 
+---
 
 2024-6-14 Fri: <br>
 <br>
