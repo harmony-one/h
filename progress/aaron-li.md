@@ -1,3 +1,13 @@
+2024-06-30 Sun (1.1h): Debug and discussion regarding issues with addresses from deploying contracts using pre-determined signatures due to RLP encoding differences. Possible solutions on tooling and Synthetix.
+
+2024-06-29 Sat (2.6h): Debug RLP encoding and v-signature recovery issues, and deploy fixed-address create2 factory. node operations and infrastructure update
+
+2024-06-28 Fri (3.2h): Review Orderly. Analysis, discussions, articles related to Opyn, Squeeth, and other derivatives (Panoptics, Smilee, GoodEntry)
+
+2024-06-27 Thu (2.2h): Debug Safe address issues for LayerZero claim. Debug arachnid Create2 contract issues. Review Contango analysis and documentations
+
+2024-06-26 Wed (0.6h): Review Contango analysis and documentations 
+
 2024-06-25 Tue (4.7h): Review SynFutures analysis, docs, analytics. Review Uniswap greeks, Pyth analysis. Quick review on Contango  
 
 2024-06-24 Mon (3.7h): Debug LayerZero claim issue. Examine Squeeth analytics. Review Drift protocol and analytics, oracle risks for bridge and staked assets. Review SynFutures analysis, docs, analytics.
