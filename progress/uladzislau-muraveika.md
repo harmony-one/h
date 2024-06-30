@@ -1,3 +1,14 @@
+**2024-06-28: Weekly update**
+The main focus during this week was the removal of the old Tesntet explorer. Result have only one Blockscout explorer and don't pay for the old one. As extra point - it was a great training for the further mainnet explorer removal.
+
+On the protocol side, I've rapidly fixed problems with Travis CI, base image was changed by the Travis. And as consequence this unblocked developers CI builds on the dev branch.
+
+On the community side, I'm creating a fresh SnapDB snapshot which will use around 50 GB instead of 550 GB and help validators to spend less on the storage.
+
+And finally, I'm working on the staking backend migration to the cheaper server. It will save us around 88% on costs.
+
+---
+
 **2024-06-21: Weekly update**
 The main focus during this week was the testnet snapshot service automation and now we have here the mainnet-like disaster recovery approach -  hot copy for the community and extra copies in the STORJ. It will help our community to spin up nodes in matter of 20 minutes instead of 3 days with sync from Genesis.
 
