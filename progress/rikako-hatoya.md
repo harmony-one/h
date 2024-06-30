@@ -6,6 +6,8 @@ Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/
 
 ---
 
+2024-06-29 Sat (1.5h): Worked through understanding Yuriy's keepers scripts. Specifically, replicating [position keeper for GMX](https://github.com/harmony-one/gmx-price-keeper/commit/a5817f73dc3d1eb349d4c4d1d792f9af2a290f0f) and [Service API](https://gmx-keeper.fly.dev/api).
+
 2024-06-28 Fri: Looked into [Balaji & Dalio substack](https://stse.substack.com/p/balaji-and-dalio-dollar-crisis-vs), "changing world order" and "how the economic machine works" video, Balajis substack posts (fiat crisis, bond villain, etc). Looked into Squeeth portal, [variance perpetuals](https://research.opyn.co/variance-perpetuals), continued further looking into Squeeth monorepo.
 
 2024-06-27 Thu: Continued further work on Squeeth monorepo by looking into their code for subgraphs and interface. Tuned into TGI-S*. Read through more links posted on /ETH^2 (OPYN AMA, etc).
