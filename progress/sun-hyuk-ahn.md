@@ -5,6 +5,10 @@ I focused on launching data availability rollup on shard 1. Researched into how 
 Researched Panoptics protocol, a perpetual options trading protocol utilizing Uniswap v3. Began deploying `PanopticFactory.sol` and `PanopticPool.sol` to enable options trading.
 
 ---
+2024-06-30 Sun: Able to create pools through scripts. Working on creating option calls through command line (and / or) scripts.
+
+2024-06-29 Sat: Testing out Panoptics and replicating the strategies through command line.
+
 2024-06-28 Fri: Panoptics app finally up. Referencing the frontend to replicate. Continued frontend work.
 
 2024-06-27 Thu: Panoptics app has been down since yesterday. Reached out to the team again to get access. Began working on frontend to interact with the smart contracts.
