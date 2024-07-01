@@ -1,3 +1,8 @@
+2024-06-28 Fri:
+- Updated go-lib-p2p to the latest version, which can potentially fix issue with bootnode. 
+- Updated golang version to the latest, it passed 25% tests, total progress about 70%. 
+- Moved tests from separate repository to the project. Having additional repo gives only disadvantages for the small team, forcing us to support 2 different repos aimed to the same goal. 
+
 2024-06-21 Fri: 
 - The current status of 1-second finality is approximately 40%. 
 - I refactored block proposing, because current implementation does not allow to propose blocks from consensus, it fails with cyclic dependencies. 
