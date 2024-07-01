@@ -10,6 +10,12 @@ I created [Dune queries](https://dune.com/aishlia/arbitrum-uniswap) to analyze A
 
 ---
 
+2024-06-30 Sun: (1.5h) Explore gTrade Dune [analytics](https://dune.com/gains/gtrade_stats) page. Sync with Adam on the shared issues that he ran into regarding being unable to locate certain contracts required for deploy.
+
+2024-06-29 Sat: (0.5h) Messaging gTrade team regarding issues with finding contracts. 
+
+2024-06-28 Fri: Fixed wework account issue. Discussed truffle issues with Sun and started looking for forkable front ends. 
+
 2024-06-27 Thu: Synced with Adam regarding Gains Network. Compared progress and work and similar frameworks alongside deployment issues. 
 
 2024-06-26 Wed: Finished setting up MacOS enviroment. Tested gains network to review documentation. 
