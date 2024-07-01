@@ -6,6 +6,10 @@ I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/
 
 ---
 
+2024-07-01 Mon: researched [Synthetix V1](https://github.com/Synthetixio/synthetix/tree/v1.0.1) dtext of using Oracle contracts, sent full report to Aaron for review
+
+---
+
 2024-06-28 Fri: worked on issue with deploying updated Synthetix oracle manager - debugged Cannon library sources, it's expect that utility create2 [contract](https://github.com/Arachnid/deterministic-deployment-proxy) to be deployed on address [0x4e59b44847b379578588920ca78fbf26c0b4956c](https://explorer.harmony.one/address/0x4e59b44847b379578588920ca78fbf26c0b4956c) on Harmony chain. It's currently a blocker, asked Aaron to help with this issue.
 
 2024-06-27 Thu: spent some time researching how to publish Cannon package to specific network, finally [updated](https://github.com/ArtemKolodko/synthetix-v3/pull/1/commits/992fa8cd823af6174077f1f1269f382827e1e198) publish script to deploy new oracles package. Received error message regarding missing arachnid create2 contract on Harmony chain, asked Aaron for any help with that.
