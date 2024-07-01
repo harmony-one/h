@@ -1,8 +1,12 @@
 **2024 Q2 Review**
 
-I led the submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) for 449,000 wallets (users, liquidity providers, and recovery contributors), resulting in ZRO tokens distributed among the Harmony community (~$1.2m at launch). I also crafted a new [perpetual decentralized exchange proposal](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21) that incorporates liquidity provider tokens to enhance trading dynamics. I re-engaged with 10 key platforms like Coinbase and Moonpay and potential integrations including Stargate, OpenOcean, Synapse, and Li.Fi with the aim of enhancing Harmony’s access to liquidity with industry leading cross-chain bridge and exchange applications.
+I led the submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) for 449,000 wallets (users, liquidity providers, and recovery contributors), resulting in ZRO tokens distributed among the Harmony community (~$1.5m at launch). I also crafted a new [perpetual decentralized exchange proposal](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21) that incorporates liquidity provider tokens to enhance trading dynamics. I re-engaged with 10 key platforms like Coinbase and Moonpay and potential integrations including Stargate, OpenOcean, Synapse, and Li.Fi with the aim of enhancing Harmony’s access to liquidity with industry leading cross-chain bridge and exchange applications.
 
 I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/1794241670621573339?t=TnZXgjcx1cKzkWmx9TXPYg&s=19) and 1 larger space in collaboration with [Swoop](https://swoop.exchange/), one of the leaders in cross-chain aggregation, with 4,600 community members tuning in. Additionally, I managed the completion of comprehensive Coinbase documentation, detailing 38 unique applications utilizing Harmony, from DeFi to essential infrastructure tools; this document is now undergoing internal finalization.
+
+---
+
+2024-07-01 Mon: Troubleshooting with Ulad and Recovery1 for multisig claim. Current issue: ZRO claim not recognizing Harmony smart contract address. Modulo claim successful through [metadata work around](https://harmonyone.notion.site/Multi-Chain-Multisig-Address-475080ac0bc84ddbb8c9421897bc8e40?pvs=4). Asked Coingecko for [Swap](swap.harmony.one) verification.
 
 ---
 
