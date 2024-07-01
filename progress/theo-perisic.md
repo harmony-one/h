@@ -6,9 +6,9 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
-2024-06-30 Sun: Simplified draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
+2024-06-30 Sun: (4.0hr) Simplified draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
 
-2024-06-29 Sat: Started draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
+2024-06-29 Sat: (1.0hr) Started draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
 
 2024- 06-28 Fri: Operations and research on JUP token and [Jupiter platform strategy](https://crypto.news/jupiter-exchange-launches-giant-unified-market-initiative/). Insights: Goal is unified market. Plan: Bring memecoins, real-world assets, decentralized and perpetual exchanges, stocks, and forex into a single market.
 
@@ -22,9 +22,9 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
-2024-06-23 Sun: Reached out to LayerZero directly for Harmony support.
+2024-06-23 Sun: (1.0hr) Reached out to LayerZero directly for Harmony support.
 
-2024-06-22 Sat: Continued looking into smart contract claiming for ZRO.
+2024-06-22 Sat: (3.0hr) Continued looking into smart contract claiming for ZRO.
 
 2024-06-21 Fri: LayerZero troubleshooting, current issue: multisig users unable to claim. Wrote complete guide for [Harmony ZRO claim](https://x.com/theoperisic/status/1804429287472402625). Metric: Harmony community ZRO airdrop valuation ~$1.2m USD (at launch)
 
@@ -38,9 +38,9 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
-2024-06-16 Sun: Additional Jupiter testing. Insights: Jupiter now supports swaps, perpetuals, and now [bridging](https://jup.ag/bridge-compare) all within 1 page. We started something similar with Harmony Portfolio, worth looking into to expand and add perpetual market to 1 location for ease of use. 
+2024-06-16 Sun: (4.0hr) Additional Jupiter testing. Insights: Jupiter now supports swaps, perpetuals, and now [bridging](https://jup.ag/bridge-compare) all within 1 page. We started something similar with Harmony Portfolio, worth looking into to expand and add perpetual market to 1 location for ease of use. 
 
-2024-06-15 Sat: Testing [panoptic beta](https://deeznuts.panoptic.xyz/) and [Jupiter mainnet](https://jup.ag/perps). Insights: panoptic requires previous knowledge of options or at least following an onboarding flow for how to trade options, Jupiter advantage is you can jump in an trade up or down easily. 
+2024-06-15 Sat: (2.0hr) Testing [panoptic beta](https://deeznuts.panoptic.xyz/) and [Jupiter mainnet](https://jup.ag/perps). Insights: panoptic requires previous knowledge of options or at least following an onboarding flow for how to trade options, Jupiter advantage is you can jump in an trade up or down easily. 
 
 2024-06-14 Fri: X space with community, more deep dive into panoptic. Insights: do we need to separate options from panoptic and perpetuals from dydx, is there a process to include both? Dydx: institutional investor, Jupiter: retail. What is the end user profile for our perpetuals market?
 
@@ -84,9 +84,9 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
-2024-05-26 Sun: Testing [pump.fun](https://pump.fun/board) and [base.fun](https://www.base.fun/), spoke with Matt about potential Harmony fun.country product.
+2024-05-26 Sun: (3.0hr) Testing [pump.fun](https://pump.fun/board) and [base.fun](https://www.base.fun/), spoke with Matt about potential Harmony fun.country product.
 
-2024-05-25 Sat: Ideation with Tenacious for ecosystem project marketing and support guidelines.
+2024-05-25 Sat: (1.0hr) Ideation with Tenacious for ecosystem project marketing and support guidelines.
 
 2024-05-24 Fri: Completed coinbase doc, sent for review to Casey and Soph.
 
