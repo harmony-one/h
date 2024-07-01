@@ -74,7 +74,7 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 2024-06-01 Sat: (1.0hr) Discussions with non-crypto holders. insights: much less maximalism in masses, pushes the narrative that all chains are 1 dapp away from mass adoption.
 
-2024-05-29 Thu - 2024-05-31 Fri: Paid Time Off.
+2024-05-30 Thu - 2024-05-31 Fri: Paid Time Off.
 
 2024-05-29 Wed: More testing of [base.fun](https://www.base.fun/) insight: when chasing quick gains, barriers of entry are the biggest forms of friction, larger than user experience. Started transition to Panoptic focus, tested 1000x leverage on solcasino.  
 
