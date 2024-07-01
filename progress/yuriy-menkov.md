@@ -6,6 +6,10 @@ For LayerZero token airdrop, I created scripts to collect statistics for all use
 
 ---
 
+2024-07-01 Mon: Added more APIs for the keeper service: getting the average price for a token, updating the price, getting the price based on the first or second priceFeed (for debugging). The logic for calculating the median price (obtained from coinbase, redstone etc) has also been updated. Engaged in comprehensive testing: keeper - gmx swap - subgraph.
+
+---
+
 2024-06-28 Fri: Configured gmx keeper service deployment to fly.io. Service APIs are available [here](https://gmx-keeper.fly.dev/api) (now only metrics). Reworked FastPriceFeed deployment scripts to correctly add signers (multiple watcher accounts are currently setup to have the ability to send the transaction to enable spreads). Continue test/bug fixing, writing documentation on using the service and API extension for more convenient testing.
 
 2024-06-27 Thu: [Worked](https://github.com/harmony-one/gmx-price-keeper/commit/a5817f73dc3d1eb349d4c4d1d792f9af2a290f0f) on Position keeper part - added eventLogger for tracking PositionRouter contract events and updating the price in the FastPriceFeed contract when executing a position. Continue working on keeper service deployment and complex service testing. 
