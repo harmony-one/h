@@ -37,9 +37,9 @@ Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/
 
 ---
 
-2024-06-16 Sun: Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals.
+2024-06-16 Sun (2.0h): Continued work with GMX synthetics scripts, specifically working on config, and further looking into more contracts (oracle system, pricing, fees, and market). Further worked on refining my Q2 goals.
 
-2024-06-15 Sat: Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
+2024-06-15 Sat (1.0h): Refined Q2 goals by incorporating specific links and metrics to ensure clarity and measurable outcomes. Additionally, rewrote progress updates to provide a clear and comprehensive overview of achievements and areas needing attention.
 
 2024-06-14 Fri: Continued the refinement of Thursday's work and initiated an in-depth analysis of the GMX synthetics by cloning repo, reading through the contracts and the deployment scripts to see how each of the functions work and if this can be deployed to shard 1.
 
