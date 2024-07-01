@@ -6,6 +6,14 @@ I participated in 3 community [X spaces](https://x.com/Tenacious_DeFi/status/179
 
 ---
 
+2024-06-30 Sun: Simplified draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
+
+2024-06-29 Sat: Started draft for [Harmony DeFi](https://harmonyone.notion.site/Jupiter-Strategy-Harmony-DeFi-0dea5583769c44548c008eb5952d0b23?pvs=4).
+
+2024- 06-28 Fri: Operations and research on JUP token and [Jupiter platform strategy](https://crypto.news/jupiter-exchange-launches-giant-unified-market-initiative/). Insights: Goal is unified market. Plan: Bring memecoins, real-world assets, decentralized and perpetual exchanges, stocks, and forex into a single market.
+
+2024- 06- 27 Thu: Sourcing AMA from validators, ecosystem developers, and community members for [TGI space](https://x.com/harmonyprotocol/status/1806392237682753644), attended [Validator DAO space](https://x.com/DaoHarmony/status/1806375922905333868).
+
 2024-06-26 Wed: Completion of [Binance Document](https://www.notion.so/harmonyone/Binance-Post-Listing-Team-3f9154522afa46dca46c63f51a2517e5). Operations and community outreach for upcoming AMA.
 
 2024-06-25 Tue: Space [AMA announcement](https://x.com/harmonyprotocol/status/1805681714121130224) and progress on Binance post listings team [form](https://www.notion.so/harmonyone/Binance-Post-Listing-Team-3f9154522afa46dca46c63f51a2517e5).
