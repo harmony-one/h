@@ -1,4 +1,4 @@
-**2024 Q2 Review**
+**2024 Q2 Review (49 Hours)**
 
 I led the submission of the [LayerZero airdrop](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp) for 449,000 wallets (users, liquidity providers, and recovery contributors), resulting in ZRO tokens distributed among the Harmony community (~$1.5m at launch). I also crafted a new [perpetual decentralized exchange proposal](https://www.notion.so/d11c3efa2cf6457b96105bc9a5a65dd7?pvs=21) that incorporates liquidity provider tokens to enhance trading dynamics. I re-engaged with 10 key platforms like Coinbase and Moonpay and potential integrations including Stargate, OpenOcean, Synapse, and Li.Fi with the aim of enhancing Harmony’s access to liquidity with industry leading cross-chain bridge and exchange applications.
 
