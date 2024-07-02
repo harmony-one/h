@@ -1,9 +1,9 @@
 2024-07-05 Fri: (-8.0h) Out of office 
 
-2024-07-01 Mon: Deployed following contracts with placeholder contract address for storage contract. Working with Adam to identify the correct contracts (apparently not available in repo) that are required for gTrade deploy. Merged [PR#1](https://github.com/harmony-one/gTrade-v6.1/pull/1) in which Adam modified my deployer script to include the required addresses.
-GNSPairInfosV6_1: 0xdCe20BD5aE9d1ff37b3Fe6Ad5A3B133e2714a078
-GNSTradingCallbacksV6_1: 0xB962e264D7194C84bb1f9Ba6Bd9CEd880710bAaB
-GNSTradingV6_1: 0x5e20FF1E578A164B6947f183E064807603F655B5
+2024-07-01 Mon: Deployed following contracts with placeholder contract address for storage contract on mainnet. Working with Adam to identify the correct contracts (apparently not available in repo) that are required for gTrade deploy. Merged [PR#1](https://github.com/harmony-one/gTrade-v6.1/pull/1) in which Adam modified my deployer script to include the required addresses. \
+GNSPairInfosV6_1: 0xdCe20BD5aE9d1ff37b3Fe6Ad5A3B133e2714a078 \
+GNSTradingCallbacksV6_1: 0xB962e264D7194C84bb1f9Ba6Bd9CEd880710bAaB \
+GNSTradingV6_1: 0x5e20FF1E578A164B6947f183E064807603F655B5 \
 
 ---
 
