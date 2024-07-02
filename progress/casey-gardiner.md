@@ -1,3 +1,19 @@
+### Weekly Progress Update: 2024-06-28
+
+#### Protocol Investigation
+
+- **Maxrate Issue Investigation:**
+  - Investigated the impact of the MaxRate issue identified in previous reports.
+  - Communicated with involved wallets and their clients to discuss the next steps and provide guidance.
+
+#### Conference Preparation
+
+- **ETH.CC Conference:**
+  - Departed for ETH.CC in Brussels, preparing for the conference events and engagements.
+
+This week was focused on investigating the maxrate issue, communicating with stakeholders, and preparing for and traveling to the ETH.CC conference in Brussels.
+
+___
 ### Weekly Progress Update: 2024-06-21
 
 #### Protocol Upgrade and Bug Resolution
@@ -17,6 +33,7 @@
 
 This week was dedicated to addressing the critical protocol issue, ensuring the successful deployment of the hard fork upgrade, and beginning the validation process for ONE token mints.
 
+___
 ### Weekly Progress Update: 2024-06-14
 
 #### Protocol Upgrade and Bug Resolution
