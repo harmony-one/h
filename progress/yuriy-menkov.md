@@ -1,3 +1,5 @@
+2024-07-02 Tue: Tested the subgraph with events of the FastPriceFeedEvents contract using the new keeper. Worked on changing part of the subgraph: replacing ChainLinkAggregator events handlers. Also began deploying testnet contracts with a large number of tokens to demonstrate realistic pools, etc.
+
 2024-07-01 Mon: Added more APIs for the keeper service: getting the average price for a token, updating the price, getting the price based on the first or second priceFeed (for debugging). The logic for calculating the median price (obtained from coinbase, redstone etc) has also been updated. Engaged in comprehensive testing: keeper - gmx swap - subgraph.
 
 ---
