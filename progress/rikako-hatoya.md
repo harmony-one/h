@@ -1,12 +1,13 @@
+2024-07-01 Mon: Debugging issues regarding to setting DNS and CNAME configurations for rh.country (will come back to this later since I need account access to cloudflare). Further looking through the keeper service API to update GMX interface replica.
+
+---
+
 **2024 Q2 Review (36.5 Hours)**
 
 For [Another World](https://x.com/harmonyprotocol/status/1775979150630596911), I implemented smart contracts on Harmony's shard 1 to [transition Bitcoin Runes into ERC20 tokens](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md). This project involved a two-step process: first, creating a smart contract to mint tokens (wrapped Rune), and second, developing another smart contract (token factory) to serve as a custodian for the wrapped Runes.
 
 Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md) on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features. Using Dune analytics, I analyzed the [most profitable trades on GMX](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md), focusing on the profit-and-loss of top traders and their trading pairs. I also worked on replicating GMX and adapting its configurations to function on Harmony's shard 1. This involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. The interface will soon be deployed to the front-end.
 
----
-
-2024-07-01 Mon: Debugging issues regarding to setting DNS and CNAME configurations for rh.country (will come back to this later since I need account access to cloudflare). Further looking through the keeper service API to update GMX interface replica.
 
 ---
 
