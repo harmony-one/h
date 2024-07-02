@@ -1,3 +1,5 @@
+2024-07-02 Tue: tested Synthetix V1 compile script: [fixed](https://github.com/ArtemKolodko/synthetix/pull/1/files) multiple bugs, mostly related to the outdated python and solidity libs, and compiled contract sources. Started researching deploy script.
+
 2024-07-01 Mon: researched [Synthetix V1](https://github.com/Synthetixio/synthetix/tree/v1.0.1) dtext of using Oracle contracts, sent full report to Aaron for review
 
 ---
