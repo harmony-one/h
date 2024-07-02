@@ -1,4 +1,4 @@
-**2024 Q2 Review**
+**2024 Q2 Review (62 Hours)**
 
 I focused on launching data availability rollup on shard 1. Researched into how Harmony's Shard 1 compares to Celestia and NEAR as data availability layer. Deployed sovereign rollup using [Rollkit](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin) and launched Polaris in order for it to be Ethereum Virtual Machine compatible. Also deployed [Optimistic rollup](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/), a smart contract rollup, as it was more suitable for Harmony.
 
