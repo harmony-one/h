@@ -6,6 +6,10 @@ Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/
 
 ---
 
+2024-07-01 Mon: Debugging issues regarding to setting DNS and CNAME configurations for rh.country (will come back to this later since I need account access to cloudflare). Further looking through the keeper service API to update GMX interface replica.
+
+---
+
 2024-06-30 Sun (1.0h): Worked on configuring rh.country to deploy my gmx-interface.
 
 2024-06-29 Sat (1.5h): Worked through understanding Yuriy's keepers scripts. Specifically, replicating [position keeper for GMX](https://github.com/harmony-one/gmx-price-keeper/commit/a5817f73dc3d1eb349d4c4d1d792f9af2a290f0f) and [Service API](https://gmx-keeper.fly.dev/api).
