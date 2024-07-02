@@ -1,12 +1,12 @@
+2024-07-01 Mon: researched [Synthetix V1](https://github.com/Synthetixio/synthetix/tree/v1.0.1) dtext of using Oracle contracts, sent full report to Aaron for review
+
+---
+
 **2024 Q2 Review**
 
 I'm working on porting Synthetix protocol to Harmony. The blockers have been the unavailable Chainlink and Pyth oracles on Harmony and an unfamiliar environment, [Cannon](https://usecannon.com/), for building and deploying smart contracts. I managed to solve part of the problems and to [deploy](https://github.com/ArtemKolodko/synthetix-deployments/pull/1) the protocol without oracles for now. I am currently investigating using BAND oracles, and after that I will move directly to testing Synthetix protocol on the Harmony chain.
 
 I've made progress on [Harmony Portfolio](https://harmony-portfolio.netlify.app/dashboard), the analog of Metamask Portfolio: implemented basic Swap and Bridge page functionality in a single client. This actually required reverse-engineering the existing separate Uniswap and Harmony Bridge client apps. The portfolio project requires more testing and UI improvements before we will consider publishing it.
-
----
-
-2024-07-01 Mon: researched [Synthetix V1](https://github.com/Synthetixio/synthetix/tree/v1.0.1) dtext of using Oracle contracts, sent full report to Aaron for review
 
 ---
 
