@@ -5,6 +5,15 @@ I integrated [GPT-4o to 1Bot](https://x.com/harmonyprotocol/status/1795951553024
 Porting and deploying [Vertex Trade](https://github.com/harmony-one/vertex-web-monorepo-snapshot) contracts to Harmony. To address the mono-repo's reliance on the Vertex-typescript-sdk, I implemented a harmonyClient module designed to handle mock calls while facilitating the gradual porting of all API calls to the Harmony network. Additionally, I deployed defi_greeks API which provides endpoints for calculating risk measures and greeks for various financial derivatives and improved 1.country one-and-two-letter domain handling and certificate management.
 
 ---
+2024-07-01 Mon: Fixed [Verifier contract](https://github.com/fegloff/vertex-contracts/pull/1) initialize method issue. Redeployed all contracts after changes were made to the initialize method on the Verifier contract. Reinitialized the Endpoint contract but still had issues with the deposit logic on the Trade App. Kept working on this and other contract initialization methods.
+
+---
+2024-06-30 Sun: Worked on Verifier initialize method.
+
+2024-06-28 Fri: Medical emergency.
+
+2024-06-27 Thu: Medical emergency.
+
 2024-06-26 Wed: Created and deployed MockSequencer and MockSanction contracts. Created initializer script to handle contract initializations. Initialized Endpoint contract, but having issues initializing Verifier contract. Time is limited due to the medical emergency.
 
 2024-06-25 Tue: Medical emergency, catching up on Wednesday.
