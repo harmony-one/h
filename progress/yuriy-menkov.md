@@ -1,12 +1,12 @@
+2024-07-01 Mon: Added more APIs for the keeper service: getting the average price for a token, updating the price, getting the price based on the first or second priceFeed (for debugging). The logic for calculating the median price (obtained from coinbase, redstone etc) has also been updated. Engaged in comprehensive testing: keeper - gmx swap - subgraph.
+
+---
+
 **2024 Q2 Review**
 
 Porting GMX v1 to Harmony: [contracts](https://github.com/harmony-one/gmx-contracts-v1), [interface](https://github.com/harmony-one/gmx-interface), [stats](https://github.com/harmony-one/gmx-stats/pull/1/files) and [subgraph](https://github.com/harmony-one/gmx-subgraph/pull/1/files); Created contracts deploy [script](https://github.com/potvik/gmx-contracts/blob/gmx_v1_deploy_script/scripts/deployAll.js), created [scripts](https://github.com/potvik/gmx-contracts/tree/gmx_v1_deploy_script/scripts) for adding tokens and liquidity, added [docs](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) with deploy steps description, added Harmony chain support to all repos. Configured sync and deploy for all services: [subgraph](https://thegraph.com/studio/subgraph/gmx-h-stats/playground), [stats](https://gmx-stats.fly.dev/harmony), [interface](https://gx-country.web.app). I have successfully tested adding liquidity, swap and position creation.
 
 For LayerZero token airdrop, I created scripts to collect statistics for all users who used the LayerZero bridge and scripts for statistics on Swap liquidity pools that used tokens transferred through the bridge (via Swap subgraph). Reviewed and publish the [proposal](https://commonwealth.im/layerzero/discussion/21730-harmony-bridge-rfp).
-
----
-
-2024-07-01 Mon: Added more APIs for the keeper service: getting the average price for a token, updating the price, getting the price based on the first or second priceFeed (for debugging). The logic for calculating the median price (obtained from coinbase, redstone etc) has also been updated. Engaged in comprehensive testing: keeper - gmx swap - subgraph.
 
 ---
 
