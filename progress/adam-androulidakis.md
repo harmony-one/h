@@ -33,9 +33,13 @@ Weekly summary <br>
 
 **2024 Q2 Review**
 
-Finalizing all requirements to deliver HIP-32, focusing on peer-to-peer issues impacting network synchronization and undelegating from validators. I am now focused on deploying a set of contracts that match up with our goal of releasing useful perpetuals trading tools. I am outlining the requirements and writing/preparing the necessary contracts and getting Hardhat and other frameworks working correctly on the Harmony localnets to properly deploy/test/use [Uniswap v3](https://github.com/harmony-one/harmony_uniswapv3) router contracts.
+Finalizing all requirements to deliver HIP-32, focusing on peer-to-peer issues impacting network synchronization and undelegating from validators. I am now focused on deploying a set of contracts that match up with our goal of releasing useful perpetuals trading tools. I am outlining the requirements and writing/preparing the necessary contracts and getting Hardhat and other frameworks working correctly on the Harmony localnets to properly deploy/test/use [Uniswap v3](https://github.com/harmony-one/harmony_uniswapv3) router contracts. <br> 
 
-Delivered gameplay concept for [Chain Force](https://github.com/harmony-one/Project-G/releases/tag/1a) with [music track](https://github.com/harmony-one/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e). Along with the relative written godot SDKs, it is now being handled by an [external developer](https://github.com/harmony-one/Project-G/blob/main/log) I coordinate with. Lastly, I'm finalizing my write-up that ties together Harmony blockchain, gaming, AI goals.
+Delivered gameplay concept for [Chain Force](https://github.com/harmony-one/Project-G/releases/tag/1a) with [music track](https://github.com/harmony-one/Project-G/commit/25a06052816313c3e9a7e9e66be4faa2f29fbe5e). Along with the relative written godot SDKs, it is now being handled by an [external developer](https://github.com/harmony-one/Project-G/blob/main/log) I coordinate with. Lastly, I'm finalizing my write-up that ties together Harmony blockchain, gaming, AI goals. <br>
+
+Hours <br>
+252 Devops <br>
+338 Protocol, Meetings, Discussions, Research <br>
 
 ---
 
