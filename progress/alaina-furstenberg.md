@@ -4,6 +4,15 @@ I created full mock designs for [bridge.harmony.one](https://www.figma.com/desig
 
 Also, I led a community Twitter space with Swoop, attended by 97 community members. I tweeted daily to engage community partners to co-market products within the Harmony ecosystem. These include [Galaxii](https://x.com/harmonyprotocol/status/1797785935704174611), [Coinmonster Merch](https://x.com/harmonyprotocol/status/1782220916489097342) [Blockscout Testnet](https://x.com/harmonyprotocol/status/1790796723704807469), [Joskins NFT marketplace](https://x.com/harmonyprotocol/status/1796287489239568890), [GPT4-o on One Bot](https://x.com/harmonyprotocol/status/1795951553024565259), [$1M Swap milestone](https://x.com/harmonyprotocol/status/1781097509005488620). I've also promoted our lastest initiatives in [/options](https://🧠.s.country/p/on-chain-and-open-source-perpetual) and [/perps](https://🧠.s.country/p/perps-invincible-summer-of-1000x) by cross-posting on Substack and sharing [educational threads](https://x.com/harmonyprotocol/status/1800640588272058501).
 
+
+2024-07-04 Thu: Fourth of July Holiday
+
+2024-07-03 Wed:
+
+2024-07-02 Tue:
+
+2024-07-01 Mon: Continued editing of TGI S on Storylines. Drafted thread to be posted tomorrow. Promotion of ONE Show Episode 5. Continuation of the mobile designs for Harmony portfolio.
+
 ---
 
 2024-06-30 Sun (2.0 hrs): Running TGI S* through Storylines, editing and selecting best videos. 
