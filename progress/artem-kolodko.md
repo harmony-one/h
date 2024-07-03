@@ -1,3 +1,5 @@
+2024-07-03 Wed: Synthetix v1.0.1: fixed deployment script bugs, mostly related to outdated web3 python library, and deployed Synthetix V1 to Harmony Mainnet. Created [PR](https://github.com/ArtemKolodko/synthetix/pull/1/files) and full [deployment logs](https://github.com/ArtemKolodko/synthetix/pull/1/files#diff-4bca52b34ed845521283b68253f10f57a0be7608eda9f08b98f15cde853aa2d6) with contract addresses.
+
 2024-07-02 Tue: tested Synthetix V1 compile script: [fixed](https://github.com/ArtemKolodko/synthetix/pull/1/files) multiple bugs, mostly related to the outdated python and solidity libs, and compiled contract sources. Started researching deploy script.
 
 2024-07-01 Mon: researched [Synthetix V1](https://github.com/Synthetixio/synthetix/tree/v1.0.1) dtext of using Oracle contracts, sent full report to Aaron for review
