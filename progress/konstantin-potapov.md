@@ -13,13 +13,8 @@
 
 ## 2024 Q2 Summary
 
-During Q2, I created 27 PRs with new functionalities and improvements:
-- Based on an investigation by Soph, I identified the root cause and implemented a solution for the undeletions issue.
-- I investigated the crosslinks problem, pinpointed the bug introduced in HIP30, and implemented a fix for crosslink processing.
-- I developed a new consensus message for broadcasting vote power across the network.
-- I implemented unpredictable leader switch using the VRF function.
-- Additionally, I implemented a PoC for the HotStuff chained protocol, available [here](https://github.com/Frozen/gohotstuffimpl). This work provided me with deeper insights into the differences between Harmony's implementation and HotStuff's approach.
-The current status of 1-second finality is approximately 30%. I have a clear vision for its implementation, but it requires time to align the two consensus protocols while the second is not yet activated. 
+Soph and I identified the root cause and implemented a solution for the undeletions issue; I investigated the crosslinks bug and implemented a fix for crosslink processing. I developed a new consensus message for broadcasting vote power across the network. 
+I implemented unpredictable leader switch using the VRF function. I implemented a PoC for the HotStuff chained protocol, available [here](https://github.com/Frozen/gohotstuffimpl), it shows differences between Harmony's implementation and HotStuff's approach. 
 
 ---
 
