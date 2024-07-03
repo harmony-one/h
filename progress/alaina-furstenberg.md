@@ -1,10 +1,10 @@
 2024-07-04 Thu: Fourth of July Holiday
 
-2024-07-03 Wed:
+2024-07-03 Wed: Writing and publishing of Q2 progress report to Substack + Twitter. Promotion and attendance of ONE Show Episode 7. Testing of gx.country, insights include: . Beginning the design of graphhics/banners for three sigma.
 
-2024-07-02 Tue:
+2024-07-02 Tue: [Promotion of JKS factory](https://x.com/harmonyprotocol/status/1808205148730413492). Review of community questions for ONE Show Episode 7. Updating team /progress. 
 
-2024-07-01 Mon: Continued editing of TGI S on Storylines. Drafted thread to be posted tomorrow. Promotion of ONE Show Episode 5. Continuation of the mobile designs for Harmony portfolio.
+2024-07-01 Mon: Continued editing of TGI S on Storylines. [Promotion of ONE Show Episode 7](https://x.com/harmonyprotocol/status/1807929385133216074). Continuation of the mobile designs for Harmony portfolio.
 
 ---
 
