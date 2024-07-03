@@ -1,4 +1,4 @@
-2024-07-02 Tue:
+2024-07-02 Tue: Learning to use command line interface to create options. Creating a walkthrough to guide others as well.
 
 2024-07-01 Mon: Writing scripts to create various option calls. Searching through ways to trigger to command line interface.
 
