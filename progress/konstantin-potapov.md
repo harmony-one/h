@@ -14,7 +14,8 @@
 **2024 Q2 Review**
 
 Soph and I identified the root cause and implemented a solution for the undeletions issue; I investigated the crosslinks bug and implemented a fix for crosslink processing. I developed a new consensus message for broadcasting vote power across the network. 
-I implemented unpredictable leader switch using the verifiable random function. I implemented a prototype for the HotStuff chained protocol, available [here](https://github.com/Frozen/gohotstuffimpl), hotstuff contains block proposing on each signing from validator side, but this approach is only partially appliable for us, because it implies rollback in the worst case, but harmony not. 
+I implemented unpredictable leader switch using the verifiable random function. I implemented a prototype for the HotStuff chained protocol, available [here](https://github.com/Frozen/gohotstuffimpl).
+HotStuff involves block proposing with each validator signing, but this approach is only partially applicable for us, as it implies rollback in the worst-case scenario, which Harmony does not. 
 
 ---
 
