@@ -1,3 +1,5 @@
+2024-07-03 Wed: currently still working, will update progress by 11pm
+
 2024-07-02 Tue: Deployed production build of gmx-interface (first to cloudflare but isn't compatible with 1.country so moved to netlify.) Worked on updating the interface to integrate keepers API for price feed.
 
 2024-07-01 Mon: Debugging issues regarding to setting DNS and CNAME configurations for rh.country (will come back to this later since I need account access to cloudflare). Further looking through the keeper service API to update GMX interface replica.
