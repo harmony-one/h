@@ -6,8 +6,6 @@
 
 2024-07-01 Mon: Troubleshooting with Ulad and Recovery1 for multisig claim. Current issue: ZRO claim not recognizing Harmony smart contract address. Modulo claim successful through [metadata work around](https://harmonyone.notion.site/Multi-Chain-Multisig-Address-475080ac0bc84ddbb8c9421897bc8e40?pvs=4). Asked Coingecko for [Swap](https://swap.harmony.one/) verification.
 
-2024-07-01 Mon: Troubleshooting with Ulad and Recovery1 for multisig claim. Current issue: ZRO claim not recognizing Harmony smart contract address. Modulo claim successful through [metadata work around](https://harmonyone.notion.site/Multi-Chain-Multisig-Address-475080ac0bc84ddbb8c9421897bc8e40?pvs=4). Asked Coingecko for [Swap](https://swap.harmony.one/) verification.
-
 ---
 
 **2024 Q2 Review (49 Hours)**
