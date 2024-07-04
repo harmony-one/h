@@ -1,6 +1,10 @@
 2024-07-05 Fri: (-8.0h) Out of office 
 
-2024-07-01 Tue: Tested publish and verification of previously deployed contracts. Got an undefined error. Deployed a test contract and verified it to ensure optimizer number is working properly.
+2024-07-04 Thu: Federal Holiday 
+
+2024-07-03 Wed: Continued to work on verification of deployed contracts to test interactivity. Tested interactions through remix deploy for GNSPairInfosV6_1. 
+
+2024-07-02 Tue: Tested publish and verification of previously deployed contracts. Got an undefined error. Deployed a test contract and verified it to ensure optimizer number is working properly.
 
 2024-07-01 Mon: Deployed following contracts with placeholder contract address for storage contract on mainnet. Working with Adam to identify the correct contracts (apparently not available in repo) that are required for gTrade deploy. Merged [PR#1](https://github.com/harmony-one/gTrade-v6.1/pull/1) in which Adam modified my deployer script to include the required addresses. \
 GNSPairInfosV6_1: 0xdCe20BD5aE9d1ff37b3Fe6Ad5A3B133e2714a078 \
