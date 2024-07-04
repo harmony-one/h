@@ -1,3 +1,11 @@
+2024-07-04 Thu: July 4th.
+
+2024-07-03 Wed: Q3 preparation. Top priority: GMX v1. Scheduled sync with Yuriy. X Speaker for [ONEShow](https://x.com/Tenacious_DeFi/status/1805680489581220324). Topics covered: DeFi on Harmony, Lessons from Jupiter, Novel staking initiative from R1 team, and the advantages of decentralized applications that fully leverage a layer 1 infrastructure.
+
+2024-07-02 Tue: Review of [Aperture Finance](https://www.aperture.finance/), as an AI intent based application above Uniswap V3 for potential implementation for an all inclusive ONE platform for Swap, Lend, Bridge, Perp, Options, etc. Additional wallet creation successful for R1 team, issue remains while attempting to claim via wallet connect. 
+
+2024-07-01 Mon: Troubleshooting with Ulad and Recovery1 for multisig claim. Current issue: ZRO claim not recognizing Harmony smart contract address. Modulo claim successful through [metadata work around](https://harmonyone.notion.site/Multi-Chain-Multisig-Address-475080ac0bc84ddbb8c9421897bc8e40?pvs=4). Asked Coingecko for [Swap](https://swap.harmony.one/) verification.
+
 2024-07-01 Mon: Troubleshooting with Ulad and Recovery1 for multisig claim. Current issue: ZRO claim not recognizing Harmony smart contract address. Modulo claim successful through [metadata work around](https://harmonyone.notion.site/Multi-Chain-Multisig-Address-475080ac0bc84ddbb8c9421897bc8e40?pvs=4). Asked Coingecko for [Swap](https://swap.harmony.one/) verification.
 
 ---
