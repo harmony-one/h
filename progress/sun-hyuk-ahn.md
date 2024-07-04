@@ -1,3 +1,5 @@
+2024-07-03 Wed: Creating scripts for the command line interface usage. Starting the pool, depositing the collateral, then minting options are quite complicated solely through command line interface. Thus, created scripts that can be used in the command line interface to perform the mentioned functioned ([walkthrough](https://brazen-need-a0a.notion.site/Panoptics-Guide-9e2897891a61485bb34c81c27a71aaaf)).
+
 2024-07-02 Tue: Learning to use command line interface to create options. Creating a walkthrough to guide others as well.
 
 2024-07-01 Mon: Writing scripts to create various option calls. Searching through ways to trigger to command line interface.
