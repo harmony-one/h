@@ -1,3 +1,5 @@
+2024-07-04 Thu (1.0h): Fourth of July. Further continued looking into integrating gmx repos (keeper, gmx-stats) to reflect on interface.
+
 2024-07-03 Wed: Looking into how to integrate price keeper to contracts and price feed configuration. Also working on deploying gmx-stats.
 
 2024-07-02 Tue: Deployed production build of gmx-interface (first to cloudflare but isn't compatible with 1.country so moved to netlify.) Worked on updating the interface to integrate keepers API for price feed.
