@@ -1,3 +1,9 @@
+2024-07-05 Fri:
+
+Script was finalized this week and the impact of the pending undelegation bug has been relatively minor. Additionally, remediation efforts for the [SSH regression](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server#detect-and-remediate-cve-2024-6387-with-qualys-totalcloud-container-security) have been ongoing, with 90% of the internal servers upgraded with the assistance of Ulad. However, a few servers will still require a software/OS reinstallation. Finally, Shard 1 mainnet RPC has been under maintenance since Tuesday due to a `block already known` issue. We have restarted the synchronization of the archival data and are planning to set up a new snapshot node to expedite future restorations.
+
+---
+
 **2024 Q2 Review**
 
 Throughout Q2 2024, significant strides were made in enhancing the stability and reliability of our network environments, particularly in the devnet and testnet. In April, our efforts focused on resolving critical consensus issues in shard 1, improving security, and developing the new Blockscout explorer. We addressed downtime issues in Shard 0 and ensured the integrity of our infrastructure through comprehensive security checks. In May, we stabilized the devnet consensus by switching to DNS Sync, launched the [testnet Blockscout Explorer](https://explorer.testnet.harmony.one/), and continued refining crosslink logic to improve network reliability. Intensive troubleshooting and collaboration with team members led to effective solutions for connectivity issues caused by old P2P configuration.
