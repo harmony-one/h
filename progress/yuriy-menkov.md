@@ -1,3 +1,7 @@
+2024-07-05 Fri: Synchronized with Theo about the current state of the gmx project and future goals. We identified [adding liquidity](https://gmx-docs.io/docs/providing-liquidity/v1) as the highest priority goal, and began work on integrating functionality for buying GLP and adding liquidity across the interface. I’m also considering the possibility of using already existing uniswap pools, similar to jupiter.
+
+2024-07-04 Thu: [Updated](https://github.com/harmony-one/gmx-price-keeper/commit/9369d4832512de3cc635350f1fdf9cc2e062b367) keeper service (refactoring and bug fixes). Worked on adding test tokens on the mainnet fmx - looking for a way to create liquidity without using real native tokens, so as not to lose balance during the testing process.
+
 2024-07-03 Wed: Tried to deploy the gmx ecosystem on the testnet - but there were problems with the deployment of the subgraph (not supported on the testnet). Therefore, for the demonstration I decided to use the existing version on the mainnet and then add test tokens to it (deployed several test tokens). Reconfigured Vault and Price Keeper for new test tokens. Working on interface updated. Also summarize the results (review of the working functionality) to form a list of remaining technical tasks.
 
 2024-07-02 Tue: Tested the subgraph with events of the FastPriceFeedEvents contract using the new keeper. Worked on changing part of the subgraph: replacing ChainLinkAggregator events handlers. Also began deploying testnet contracts with a large number of tokens to demonstrate realistic pools, etc.
