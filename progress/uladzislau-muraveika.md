@@ -1,3 +1,14 @@
+**2024-07-05: Weekly update**
+The main focus during this week is automation for staking backend and new cheaper server setup, now it is in final testing phase. Justification is simple - save money on the traffic and server.
+
+On the security side, I was alarmed team about [RegreSSHion vulnerability in the OpenSSH](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server) and helped Soph with infrastructure checks and fixes.
+
+On the community side, I've created and tested new 100 GB SnapDB snapshot, share it with validator community, collected the feedback about the suitable size. This will help our validator community to have predictable snapshot size and timing when the SnapDB snapshot should be created.
+
+Additionally, I was working on the archival RPC 1 node recreation, I've used server with faster NVMe SSD disk, it helped to recreate the RPC in matter of 4 days instead of 3-4 weeks.
+
+---
+
 **2024-06-28: Weekly update**
 The main focus during this week was the removal of the old Tesntet explorer. Result have only one Blockscout explorer and don't pay for the old one. As extra point - it was a great training for the further mainnet explorer removal.
 
