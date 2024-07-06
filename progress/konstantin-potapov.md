@@ -1,3 +1,11 @@
+2024-07-05 Fri:
+- UpdateMaxCommissionFee function covered with tests. 
+- Provided fix for the node bootstrap process, which was using incorrect method to calculate connected peers. 
+- Fixed the `PeerConnectivity` method, which was using iteration over 20k elements in the worst case, now it has no iteration at all.
+- Removed trailing zeros from the Decimal.String method.
+- Resolved connection issues in the tests package of the Harmony p2p library. 
+- Golang version update: passed 50% of tests, current progress is 80%.
+
 2024-06-28 Fri:
 - Updated go-lib-p2p to the latest version, which can potentially fix issue with bootnode. 
 - Updated golang version to the latest, it passed 25% tests, total progress about 70%. 
