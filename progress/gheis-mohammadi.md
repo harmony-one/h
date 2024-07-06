@@ -1,3 +1,22 @@
+**2024-06-06 Sat:**
+Last week was quite productive. I created a new branch in GitHub ([compare branch](https://github.com/harmony-one/harmony/compare/main...mainnet/bootnode/8717ccf61)), which is the old code from last year. It has the exact same HEAD commit as what the old boot nodes are using. The idea of this branch is to check the QUIC protocol removal without touching anything else.
+
+Later, I created PR [#4705](https://github.com/harmony-one/harmony/pull/4705). This PR enables security by default. The reason is that we are trying to avoid a mainnet split or consensus downtime. So, we want to have as much of the same P2P configurations as we have in the mainnet. This PR has already been merged into the dev branch.
+
+We agreed on an upgrade plan for bootnodes, which will proceed as follows:
+1. Upgrade mainnet bootnodes 01/02/03 to the latest dev version with PR #4705.
+2. Test the latest dev version on 1 or 2 mainnet nodes first (we will also ask a few validators in the community with backup nodes to test as well).
+3. Upgrade devnet/testnet bootnodes and validator nodes with the latest dev version.
+4. Deploy the dev release to all mainnet nodes.
+
+This plan should ensure a smooth upgrade process.
+
+Next, I created another PR [#4707](https://github.com/harmony-one/harmony/pull/4707) to remove QUIC from the current mainnet for testing. This PR improves the P2P host connection manager and removes QUIC transporters from the P2P host. We will test this on 2 or 3 boot nodes first next week.
+
+I also created PR [#4704](https://github.com/harmony-one/harmony/pull/4704). This pull request introduces a new command in the Makefile to create a Linux executable more quickly by only building the main binary without recompiling dependencies. The existing `linux_static` command remains unchanged and continues to perform a full build, including all dependencies (mcl & bls). The new command is named `linux_static_quick`.
+
+---
+
 **2024-06-29 Sat:**
 
 Last week, after a successful hard fork, we shifted our focus back to the HIP32 requirements, moving towards the necessary enhancements and improvements. Some old boot nodes couldn't get enough peers after the upgrade, and I am already addressing that issue. The first solution I tried involved testing different P2P configurations that are compatible with both old and new versions. I am also incorporating some code from older versions and working on the TLS and security aspects. The investigation is still ongoing, and I will continue working on it.
