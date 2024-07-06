@@ -1,4 +1,6 @@
-2024-07-04 Thu (1.0h): Fourth of July. Further continued looking into integrating gmx repos (keeper, gmx-stats) to reflect on interface.
+2024-07-05 Fri: Work on replicating refactored keeper service code and further continued work on integrating the apis to reflect on interface.
+
+2024-07-04 Thu (1.0h): Holiday: Fourth of July. Further continued looking into integrating gmx repos (keeper, gmx-stats) to reflect on interface.
 
 2024-07-03 Wed: Looking into how to integrate price keeper to contracts and price feed configuration. Also working on deploying gmx-stats.
 
