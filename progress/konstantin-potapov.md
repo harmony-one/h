@@ -1,5 +1,5 @@
 2024-07-05 Fri:
-- UpdateMaxCommissionFee function covered with tests. 
+- `UpdateMaxCommissionFee` function covered with tests. 
 - Provided fix for the node bootstrap process, which was using incorrect method to calculate connected peers. 
 - Fixed the `PeerConnectivity` method, which was using iteration over 20k elements in the worst case, now it has no iteration at all.
 - Removed trailing zeros from the Decimal.String method.
