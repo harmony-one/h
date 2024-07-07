@@ -1,4 +1,4 @@
-2024-07-06 Sat (1.0h): Tested gx.country, 
+2024-07-06 Sat (1.5h): Tested gx.country. Read through S*: Social Finance, Sueprchain, Synthetic Futures on Substack and looked through some of their links.
 
 2024-07-05 Fri: Work on replicating refactored keeper service code and further continued work on integrating the apis to reflect on interface.
 
