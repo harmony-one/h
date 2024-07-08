@@ -1,3 +1,7 @@
+2024-07-05 Fri: completed Synthetix v2 deployment script, created [PR](https://github.com/ArtemKolodko/synthetix/pull/2/files); full list of deployed contracts available in [this file](https://github.com/ArtemKolodko/synthetix/pull/2/files#diff-0bb1fbd32dcd1d4dc9fd150564ba5e695d6b9adad04fb70ecd52ca287d445119). Started working on launching Synthetix v2 client locally.
+
+2024-07-04 Thu: tried last attempt to deploy Synthetix v2 and found a way to avoid using Cannon library. Changing scripst to deploy on Harmony network.
+
 2024-07-03 Wed: Synthetix v1.0.1: fixed deployment script bugs, mostly related to outdated web3 python library, and deployed Synthetix V1 to Harmony Mainnet. Created [PR](https://github.com/ArtemKolodko/synthetix/pull/1/files) and full [deployment logs](https://github.com/ArtemKolodko/synthetix/pull/1/files#diff-4bca52b34ed845521283b68253f10f57a0be7608eda9f08b98f15cde853aa2d6) with contract addresses.
 
 2024-07-02 Tue: tested Synthetix V1 compile script: [fixed](https://github.com/ArtemKolodko/synthetix/pull/1/files) multiple bugs, mostly related to the outdated python and solidity libs, and compiled contract sources. Started researching deploy script.
