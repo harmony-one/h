@@ -1,3 +1,7 @@
+2024-07-08 Mon: Integrated functionality for [buying GLP](https://gx.country/#/buy_glp) and [adding liquidity](https://gmx-docs.io/docs/providing-liquidity/v1) across the interface. After buying GLP tokens will automatically be staked and user will start earning Escrowed GMX. There are problems with the correct calculation of prices and commissions on this page - working on fixing.
+
+---
+
 2024-07-05 Fri: Synchronized with Theo about the current state of the gmx project and future goals. We identified [adding liquidity](https://gmx-docs.io/docs/providing-liquidity/v1) as the highest priority goal, and began work on integrating functionality for buying GLP and adding liquidity across the interface. I’m also considering the possibility of using already existing uniswap pools, similar to jupiter.
 
 2024-07-04 Thu: [Updated](https://github.com/harmony-one/gmx-price-keeper/commit/9369d4832512de3cc635350f1fdf9cc2e062b367) keeper service (refactoring and bug fixes). Worked on adding test tokens on the mainnet fmx - looking for a way to create liquidity without using real native tokens, so as not to lose balance during the testing process.
