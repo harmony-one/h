@@ -8,6 +8,16 @@ Hours <br>
 252 Devops <br>
 338 Protocol, Meetings, Discussions, Research <br>
 
+
+---
+
+2024-7-5 Fri: <br>
+Weekly summary <br>
+
+-Limited availability July 4th/5th for Holiday <br>
+-Monthly on-call duties starting July 2nd https://docs.google.com/document/d/1avXs9G3s2mQCNpoK8OkuVvqBWAz_DfsFYOePWqKwIRM <br>
+-Worked with team getting the gTrades contracts to work correctly after assisting with the deployment. I am waiting for a response on a pending support request with gainsNetwork regarding missing the resources we need to operate the protocol correctly. However, the support ticket was closed immediately and my account placed in timeout on the gainsNetwork discord server. I have reached out to their team in other ways but until I can obtain the missing resources and complete my assessment I cannot recommend use of gTrades <br>
+
 ---
 
 2024-6-28 Fri: <br>
