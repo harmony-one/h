@@ -1,3 +1,11 @@
+2024-07-08 Mon:
+
+2024-07-07 Sun: Continued research for launch. High-level Insight: prioritizing liquidity provision through fee sharing, competitive pricing, and a platform liquidity token looks to be the best approach to significant growth and user adoption for perpetual exchanges.
+
+2024-07-06 Sat: Dive into previous [launch campaigns](https://harmonyone.notion.site/Launch-Review-Safe-dYdX-GMX-b204075fc0474c99833ed94749495a91?pvs=4), including Safe, DYDX, and GMX.
+
+2024-07-05 Fri: Discussions with Recovery Multisig Custodians about recovery allocations. Currently modulo has not burned recent allocations, whereas Recovery 1 has been able to burn 100%. Over the counter market will potentially be released by modulo to account for this, also giving the ability to prioritize specific pre-hack wallets yet to participate in recovery. Sync with Yuriy, prioritization of assets to be listed for GMX v1 launch.
+
 2024-07-04 Thu: July 4th.
 
 2024-07-03 Wed: Q3 preparation. Top priority: GMX v1. Scheduled sync with Yuriy. X Speaker for [ONEShow](https://x.com/Tenacious_DeFi/status/1805680489581220324). Topics covered: DeFi on Harmony, Lessons from Jupiter, Novel staking initiative from R1 team, and the advantages of decentralized applications that fully leverage a layer 1 infrastructure.
