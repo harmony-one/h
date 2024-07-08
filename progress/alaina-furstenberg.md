@@ -2,7 +2,7 @@
 
 ---
 
-2024-07-07 Sun: Wrote and posted a thread on /perps.
+2024-07-07 Sun: [Wrote and posted a thread on /perps](https://x.com/harmonyprotocol/status/1810171320119996561).
 
 2024-07-06 Sat: Continuation of graphics for three sigma.
 
