@@ -1,6 +1,8 @@
+2024-07-04 Fri: Finalizing [Q2 progress report](https://blog.harmony.one/p/q2-progress-on-harmony?r=1zilbf&utm_campaign=post&utm_medium=web), sent out via Substack and posted a [thread to Twitter](https://x.com/harmonyprotocol/status/1809355210139267503). Updated harmony.one community section. Continuation of graphics for three sigma.
+
 2024-07-04 Thu: Fourth of July Holiday
 
-2024-07-03 Wed: Writing and publishing of Q2 progress report to Substack + Twitter. Promotion and attendance of ONE Show Episode 7. Testing of gx.country, insights include: . Beginning the design of graphhics/banners for three sigma.
+2024-07-03 Wed: Writing and publishing of Q2 progress report to Substack + Twitter. Promotion and attendance of ONE Show Episode 7. Testing of gx.country. Beginning the design of graphhics/banners for three sigma.
 
 2024-07-02 Tue: [Promotion of JKS factory](https://x.com/harmonyprotocol/status/1808205148730413492). Review of community questions for ONE Show Episode 7. Updating team /progress. 
 
