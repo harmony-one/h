@@ -1,3 +1,9 @@
+2024-07-09 Mon: Began implementing the built in server mentioned below.
+
+---
+
+2024-07-08 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - CLI implementation would be to create a simple built-in server that serves an empty-looking web page, which the CLI program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the CLI program to proceed with the next step.
+
 2024-07-06 Sat: Continued updating the scripts and asking peers for the script optimization.
 
 2024-07-05 Fri: Continuing the walkthrough as well as debugging the script on closing the pool (technically selling / transferring the option to another user).
