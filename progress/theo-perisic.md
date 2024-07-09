@@ -1,3 +1,5 @@
+2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
+
 2024-07-08 Mon:
 
 2024-07-07 Sun: Continued research for launch. High-level Insight: prioritizing liquidity provision through fee sharing, competitive pricing, and a platform liquidity token looks to be the best approach to significant growth and user adoption for perpetual exchanges.
