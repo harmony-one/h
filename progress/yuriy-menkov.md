@@ -1,3 +1,5 @@
+2024-07-09 Tue: Continued work on integrating the liquidity addition page ([buying GLP](https://gx.country/#/buy_glp)). There are still several errors related to the fact that the price of glp is incorrectly calculated relative to tokens. Localized the problem in the contract settings during deployment - working on a fix.
+
 2024-07-08 Mon: Integrated functionality for [buying GLP](https://gx.country/#/buy_glp) and [adding liquidity](https://gmx-docs.io/docs/providing-liquidity/v1) across the interface. After buying GLP tokens will automatically be staked and user will start earning Escrowed GMX. There are problems with the correct calculation of prices and commissions on this page - working on fixing.
 
 ---
