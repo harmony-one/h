@@ -1,3 +1,7 @@
+2024-07-08 Mon: [found](https://github.com/ArtemKolodko/synthetix-js-monorepo) Synthetix v2 UI sources, researching codebase to add new contracts deployed on Harmony network
+
+---
+
 2024-07-05 Fri: completed Synthetix v2 deployment script, created [PR](https://github.com/ArtemKolodko/synthetix/pull/2/files); full list of deployed contracts available in [this file](https://github.com/ArtemKolodko/synthetix/pull/2/files#diff-0bb1fbd32dcd1d4dc9fd150564ba5e695d6b9adad04fb70ecd52ca287d445119). Started working on launching Synthetix v2 client locally.
 
 2024-07-04 Thu: tried last attempt to deploy Synthetix v2 and found a way to avoid using Cannon library. Changing scripst to deploy on Harmony network.
