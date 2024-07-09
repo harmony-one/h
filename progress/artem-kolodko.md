@@ -1,3 +1,5 @@
+2024-07-09 Tue: [working](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/files) on adding Harmony support to Synthetix v2 client: updated menu, adding contracts build and addresses
+
 2024-07-08 Mon: [found](https://github.com/ArtemKolodko/synthetix-js-monorepo) Synthetix v2 UI sources, researching codebase to add new contracts deployed on Harmony network
 
 ---
