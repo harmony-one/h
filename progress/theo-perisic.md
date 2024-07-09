@@ -2,6 +2,8 @@
 
 2024-07-08 Mon:
 
+---
+
 2024-07-07 Sun: Continued research for launch. High-level Insight: prioritizing liquidity provision through fee sharing, competitive pricing, and a platform liquidity token looks to be the best approach to significant growth and user adoption for perpetual exchanges.
 
 2024-07-06 Sat: Dive into previous [launch campaigns](https://harmonyone.notion.site/Launch-Review-Safe-dYdX-GMX-b204075fc0474c99833ed94749495a91?pvs=4), including Safe, DYDX, and GMX.
