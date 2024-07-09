@@ -1,6 +1,8 @@
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
 
-2024-07-08 Mon:
+2024-07-09 Tue: Q3 planning with Li, and hand-off sync with Alaina and Yuriy for upcoming paid time off. Reached out again to Binance team for marketing push.
+
+2024-07-08 Mon: Addressing recovery contributors section of LayerZero airdrop. Team sync following recent operation changes.
 
 ---
 
