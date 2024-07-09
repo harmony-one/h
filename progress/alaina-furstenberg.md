@@ -1,4 +1,4 @@
-2024-07-09 Tue: Thread of team's /progress. Beginning the user guide documention for gmx v1 and synthetix v1. Promotion of the latest Blockscout release.
+2024-07-09 Tue: Thread of team's /progress. Beginning the [user guide + write up documention for gmx v1 and synthetix v1](https://www.notion.so/harmonyone/user-guide-write-up-on-gmx-v1-synthetix-v1-6fe355f2bef248d49291bdbe6a67d616?pvs=4). Promotion of the latest Blockscout release.
 
 2024-07-08 Mon: Revision of Q2 progress update, including specific metrics from Twitter engagement. [Edited/upload ONE Show episode 7](https://www.youtube.com/watch?v=BIWUBqtg-8c) and [promoted to X](https://x.com/harmonyprotocol/status/1810431731184587222). Promotion of Casey's travels at ETHCC. Testing of gx.country. 
 
