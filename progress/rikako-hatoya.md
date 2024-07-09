@@ -1,4 +1,4 @@
-2024-07-08 Mon: TBD
+2024-07-08 Mon: Connected with Yuriy on GMX, still working on implementing keeper API, and looking through the workarounds for subgraph issue. Will update in a few hours again (still working tonight).
 
 ---
 
