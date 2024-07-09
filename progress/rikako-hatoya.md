@@ -1,4 +1,4 @@
-2024-07-08 Mon: Connected with Yuriy on GMX, still working on implementing keeper API, and looking through the workarounds for subgraph issue. Will update in a few hours again (still working tonight).
+2024-07-08 Mon: Connected with Yuriy on GMX, still working on implementing keeper API, and looking through the workarounds for subgraph issue. Will update in a few hours again (still working tonight). Updated my /progress with summary of project links for each quarter (listed under each review section.)
 
 ---
 
@@ -24,6 +24,20 @@ For [Another World](https://x.com/harmonyprotocol/status/1775979150630596911), I
 
 Additionally, I conducted [research](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md) on perpetual trading platforms such as Jupiter and Vertex, with a particular focus on their leverage features. Using Dune analytics, I analyzed the [most profitable trades on GMX](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md), focusing on the profit-and-loss of top traders and their trading pairs. I also worked on replicating GMX and adapting its configurations to function on Harmony's shard 1. This involved the complex analysis and deployment of repositories such as GMX-contracts, GMX-stats, and GMX-synthetics. The interface will soon be deployed to the front-end.
 
+
+**2024 Q2 Relevant Deliverables Links Summary**
+ - AnotherWorld Rune to ERC20 wrapper
+   - [Code Repo](https://github.com/rika97/scaffold-eth-2)
+   - [Documentation](https://github.com/harmony-one/h/blob/main/docs/anotherworld-runes.md)
+   - [WrappedRune Factory contract](https://explorer.harmony.one/address/0x97E633cC18473799cED685f6E90A01f302788B17?shard=0)
+   - [WrappedRune contract](https://explorer.harmony.one/token/0xB485E2367b18077fE6126DdE60Ba01Ee33800d4c?shard=0)
+ - Perps
+   - [GMX Top Traders Dune Analysis Documentation](https://github.com/harmony-one/h/blob/main/docs/top-gmx-traders.md)
+   - [GMX Top Traders Dune Analysis Dashboard](https://dune.com/rikaharmony/gmx-dydx-stats)
+   - [Leveraged Perpetual Trading Platforms](https://github.com/harmony-one/h/blob/main/docs/leveraged-perp-trades.md)
+   - [GMX on Harmony (Yuriy's work, not mine)](https://gx.country/)
+   - [GMX on Harmony replicated on rh.country](https://rh.country/#/v1)
+   - [/chart (perps market research)](https://docs.google.com/spreadsheets/d/1u8dfUT5hRPi-9F80NWSIvoS9hG5yHc1lKwqLgej62Kg/edit?gid=0#gid=0)
 
 ---
 
@@ -228,6 +242,34 @@ Later in Q1, I analyzed AGI market trends, tested frames on Farcaster, and exami
 
 Deploying the Story Protocol on Harmony presented a formidable task, particularly in ensuring the seamless deployment of all 29 contracts upon which this singular contract depended. This endeavor also involved intricate configuration adjustments, transitioning the original contract deployed on Polygon to align with the parameters of Shard 1. Notably, amidst these complexities, the implementation of the royalty policy contract emerged as a pivotal feature, empowering users to specify dividend allocations for a designated IPID, thereby enhancing the platform's functionality and versatility.
 
+**2024 Q1 Relevant Deliverables Links Summary**
+
+ - Story Protocol
+   - [Royalty Policy IAP contract on Harmony](https://explorer.harmony.one/address/0x54ef56ee76d696d33b9ba469a3bb5235aff46370?activeTab=6)
+ - Human Protocol
+   - [Human Protocol Github Repo (deprecated, moved to h.country)](https://github.com/harmony-one/human-protocol)
+   - [h.country Github Repo](https://github.com/harmony-one/h.country)
+   - [h.country Website](https://h.country/)
+ - ONE Map
+   - [ONE Map Github Repo (deprecated)](https://github.com/harmony-one/1/tree/main/map)
+   - [ONE Map Github Repo (new version)](https://github.com/harmony-one/1/tree/main/socialMap/SocialMap)
+   - [ONE Map on App Store](https://apps.apple.com/jp/app/one-voice-map/id6477570243?l=en-US)
+ - Farcaster (Warpcast frames)
+   - [Neynar API (back-end for fetching farcaster info)](https://github.com/rika97/neynar)
+ - s.country
+   - [Website for Handling Social Media oAuth login: Github Repo](https://github.com/harmony-one/s/tree/main/s-game)
+   - [OTP Connection Handling Website](https://65bbe0909d7fba10443b4511--sgame-test.netlify.app/)
+   - [Harmony Transaction Handler on Telegram (Bot)](https://t.me/harmony_telegram_bot)
+   - [Harmony Transaction Handler on Telegram (Bot): Github Repo](https://github.com/Aishlia/PaperTradesBot)
+ - Multisig Wallet
+   - [Gnosis Safe Harmony Fork](https://github.com/harmony-one/safe)
+   - [Harmony Safe (Gnosis Safe Harmony Fork on App Store testflight)](https://appstoreconnect.apple.com/apps/6476511661/distribution/ios/version/inflight)
+ - Market Research
+   - [ETH Denver talks/projects (Notion)](https://harmonyone.notion.site/Projects-98f4c496c68f444ab1f1b3b885abfdeb)
+   - [Harmony Community Projects Master Sheet (Notion)](https://www.notion.so/harmonyone/Master-Sheet-88c9a7016be04cb4a711cd97a53ec703)
+ - Others
+   - [Soulbound Tokens Inscription](https://github.com/rika97/s/tree/main/s-nft)
+   - [Uniswap Single Swap Protocol](https://github.com/rika97/s/tree/main/s_swap) 
 ---
 
 2024-03-31 Sun (2.5 hours): Same as Sat. Looked into more resumes for my tasked keywords ("data engineer", "5 YOE", "modeling, security, indexing").
