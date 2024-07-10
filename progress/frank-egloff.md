@@ -1,3 +1,5 @@
+2024-07-09 Tue: Still had issues adding products to the spot and perp engine contracts. Checked other contracts logic and created script to add spot and perp engines to clearingHouse contract, but had the same error when trying to register a product. Adding some emit events to flagging the contract method logic. On 1Bot, added [content policy violation](https://github.com/harmony-one/HarmonyOneBot/pull/362) error handling for the /dalle command (pushed live).    
+
 2024-07-08 Mon: Working on adding products to spotEngine and perpEngine contracts. The offchainExchange address is used as the order book contract (one of the required parameters). Had gas issues, working on solving them. Expecting that after fixing the product addition, the deposit logic will be fulfilled.
 
 ---
