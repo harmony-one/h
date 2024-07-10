@@ -1,6 +1,6 @@
-2024-07-09 Tue (3.5h): Synthetix custom deploy and oracle review, and dependency security review. 
+2024-07-09 Tue (4.8h): Synthetix custom deploy and oracle review, and dependency security review. Evalaute Synthetix oracle integration with Band Protocol.
 
-2024-07-08 Mon (2.1h): Review "Panoptic Guide" and associated trading scripts. Panoptic experimentation. Panoptic contract deep dive and debugging
+2024-07-08 Mon (2.4h): Review "Panoptic Guide" and associated trading scripts. Panoptic experimentation. Panoptic contract deep dive and debugging. Research and evalaute perps^2 and options
 
 ---
 
