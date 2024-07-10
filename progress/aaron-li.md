@@ -1,3 +1,19 @@
+2024-07-09 Tue (3.5h): Synthetix custom deploy and oracle review, and dependency security review. 
+
+2024-07-08 Mon (2.1h): Review "Panoptic Guide" and associated trading scripts. Panoptic experimentation. Panoptic contract deep dive and debugging
+
+---
+
+2024-07-07 Sun (1h): Experiment with modified Panoptic. Debugging remapping, foundry
+
+2024-07-05 Fri (1.1h): (Continued) and review derivative articles
+
+2024-07-04 Thu (1.3h): Revisit Panoptic contracts and derivative variables. Review change of meaning in implied volatility, vega, volatility skew. Experiment with local deployments
+
+2024-07-03 Wed (0.5h): Domain Debugging. Security issue review and confirmation. Review derivative development status and plans
+
+---
+
 2024-06-30 Sun (1.1h): Debug and discussion regarding issues with addresses from deploying contracts using pre-determined signatures due to RLP encoding differences. Possible solutions on tooling and Synthetix.
 
 2024-06-29 Sat (2.6h): Debug RLP encoding and v-signature recovery issues, and deploy fixed-address create2 factory. node operations and infrastructure update
