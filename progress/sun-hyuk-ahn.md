@@ -1,3 +1,7 @@
+2024-07-11 Wed: Continuing the core functionalities (pool and positions) and implementing mobile wallet connection.
+
+2024-07-10 Tue: Working on functionality for opening pools and positions.
+
 2024-07-09 Mon: Began implementing the built in server mentioned below.
 
 ---
