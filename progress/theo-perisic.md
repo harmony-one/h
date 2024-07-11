@@ -1,5 +1,7 @@
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
 
+2024-07-10 Wed: Organizing yuriy’s progress left for gmx. Supplying Binance with concise recovery information. Current recovery status: 24.55% recovered. Completed initial [GMX launch plan](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51) and coordinated with Alaina, Rika, and Yuriy.
+
 2024-07-09 Tue: Q3 planning with Li, and hand-off sync with Alaina and Yuriy for upcoming paid time off. Reached out again to Binance team for marketing push.
 
 2024-07-08 Mon: Addressing recovery contributors section of LayerZero airdrop. Team sync following recent operation changes.
