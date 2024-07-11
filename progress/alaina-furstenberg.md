@@ -1,3 +1,7 @@
+2024-07-11 Thu: Thread on /options. Connecting with Hugo at three sigma to outline our marketing strategies and exchange brand materials.
+
+2024-07-10 Wed: Brief sync with Theo to review of [gx.country launch checklist](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51). Preparing a graphic for the MVP launch on July 15th. Wrote edits to my blogpost promoting Blockscout's Mainnet Launch, to be posted on Friday.
+
 2024-07-09 Tue: [Thread of team's /progress](https://x.com/harmonyprotocol/status/1811097663628267815). Beginning the [user guide + write up documention for gmx v1 and synthetix v1](https://www.notion.so/harmonyone/user-guide-write-up-on-gmx-v1-synthetix-v1-6fe355f2bef248d49291bdbe6a67d616?pvs=4). [Promotion of the latest Blockscout](https://x.com/harmonyprotocol/status/1811101807789379645) release. 
 
 2024-07-08 Mon: Revision of Q2 progress update, including specific metrics from Twitter engagement. [Edited/upload ONE Show episode 7](https://www.youtube.com/watch?v=BIWUBqtg-8c) and [promoted to X](https://x.com/harmonyprotocol/status/1810431731184587222). Promotion of Casey's travels at ETHCC. Testing of gx.country. 

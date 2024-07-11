@@ -35,6 +35,23 @@ npx hardhat compile
 npx hardhat run ./scripts/deployAll.js --network mainnet
 ```
 
+4) Deploy priceFeedTimelock contract, used tokenManager address from previous step
+```
+npx hardhat run ./scripts/peripherals/deployPriceFeedTimelock.js --network mainnet
+```
+
+5) Deploy and configure fastPriceFeed contract (it stores the price received by the price keeper service
+):
+
+5.1) set tokens configs [here](https://github.com/potvik/gmx-contracts/blob/keepers/scripts/core/deployPriceFeed.js#L14)
+
+5.2) set contracts address (priceFeedTimelock, VaultPriceFeed etc) from previous steps
+
+5.3) Start script
+```
+npx hardhat run ./scripts/core/deployPriceFeed.js --network mainnet
+```
+
 ***Next steps:***
 Then you need to copy paste all deployed addresses to json config to use it with frontend app
 
