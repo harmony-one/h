@@ -67,7 +67,7 @@ Researched and deployed Panoptics protocol, a perpetual options trading protocol
 
 ---
 
-2024-05-01 - 2024-06-07: Out of office (28 days)
+2024-05-01 - 2024-06-07: Paid time off (28 days)
 
 ---
 
