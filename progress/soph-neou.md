@@ -1,3 +1,13 @@
+2024-07-12
+
+This week has been productive with a strong focus on resolving key technical issues and maintaining our infrastructure. I tested multiple bootnode setups and identified overlooked settings, which led to the review of Gheis' PRs [4707 - improve p2p connection manager](https://github.com/harmony-one/harmony/pull/4707) and [4710 - add connection manager high water mark flag to boot node](https://github.com/harmony-one/harmony/pull/4710). During the bootnode version upgrade, I also upgraded their operating systems to address last week's SSH CVE regression vulnerability.
+
+In parallel, I assisted the Sushi team in troubleshooting swap issues involving ONE as the output and investigated a shard 0 RPC node stuck issue. This issue is assumed to be caused by heavy computation during the epoch change, which subsequently triggered a corner case in the current DNS sync protocol. I also reviewed watchdog [PR #97](https://github.com/harmony-one/watchdog/pull/97), which aims to support a localnet version to facilitate protocol engineering work. 
+
+Finally, we successfully launched the new explorer, [https://explorer.harmony.one](https://explorer.harmony.one), on Tuesday marking a significant milestone for the network
+
+---
+
 2024-07-05 Fri:
 
 Script was finalized this week and the impact of the pending undelegation bug has been relatively minor. Additionally, remediation efforts for the [SSH regression](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server#detect-and-remediate-cve-2024-6387-with-qualys-totalcloud-container-security) have been ongoing, with 90% of the internal servers upgraded with the assistance of Ulad. However, a few servers will still require a software/OS reinstallation. Finally, Shard 1 mainnet RPC has been under maintenance since Tuesday due to a `block already known` issue. We have restarted the synchronization of the archival data and are planning to set up a new snapshot node to expedite future restorations.
