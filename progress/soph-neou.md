@@ -1,4 +1,4 @@
-2024-07-12
+2024-07-12 Fri:
 
 This week has been productive with a strong focus on resolving key technical issues and maintaining our infrastructure. I tested multiple bootnode setups and identified overlooked settings, which led to the review of Gheis' PRs [4707 - improve p2p connection manager](https://github.com/harmony-one/harmony/pull/4707) and [4710 - add connection manager high water mark flag to boot node](https://github.com/harmony-one/harmony/pull/4710). During the bootnode version upgrade, I also upgraded their operating systems to address last week's SSH CVE regression vulnerability.
 
