@@ -1,4 +1,6 @@
-2024-07-11 Thu (4.2h): Review Panoptic test code, test failures, and deployment parameters. Key domain renewal and certificate management. Synthetix oracle integration with Band. Review Foundry/Cannon configuration files for Panoptic and Synthetix, deployment scripts, and efficient ways for customization
+2024-07-11 Fri (0.6h): Fix Panoptic test failures
+
+2024-07-11 Thu (4.6h): Review Panoptic test code, test failures, and deployment parameters. Key domain renewal and certificate management. Synthetix oracle integration with Band. Review Foundry/Cannon configuration files for Panoptic and Synthetix, deployment scripts, and efficient ways for customization. Certificate renewal automation issues
 
 2024-07-10 Wed (1.7h): Analyze, discuss, debug Synthetix v2 oracle code (Chainlink data feed, Pyth). Review points system, Synthetix v2 oracles 
 
