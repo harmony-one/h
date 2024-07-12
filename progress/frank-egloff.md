@@ -1,3 +1,5 @@
+2024-07-11 Thu: Reviewed the deposit operation at the contract level. Refactored deploy and initialization scripts, which fixes contracts initialization, to correctly assign Spot and Perp engines to the endpoint contracts, among other improvements. 
+
 2024-07-10 Wed: Kept working with Vertex contracts and Vertex trade app. Was able to add products to the SpotEngine contract. Also added OffchainExchange initialization. Updating the deploy/initialization script is due to contract prerequisites. 
 
 2024-07-09 Tue: Still had issues adding products to the spot and perp engine contracts. Checked other contracts logic and created script to add spot and perp engines to clearingHouse contract, but had the same error when trying to register a product. Adding some emit events to flagging the contract method logic. On 1Bot, added [content policy violation](https://github.com/harmony-one/HarmonyOneBot/pull/362) error handling for the /dalle command (pushed live).    
