@@ -1,4 +1,4 @@
-2024-07-11 Thu: Thread on /opyn. Connecting with Hugo at three sigma to outline our marketing strategies and exchange brand materials. Promotion of the Magic Store listing of Swap
+2024-07-11 Thu: [Thread on /opyn](https://x.com/harmonyprotocol/status/1811566478430519496). Connecting with Hugo at three sigma to outline our marketing strategies and exchange brand materials. [Promotion](https://x.com/harmonyprotocol/status/1811553344349229541) of the Magic Store listing of Swap
 
 2024-07-10 Wed: Brief sync with Theo to review of [gx.country launch checklist](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51). Preparing a graphic for the MVP launch on July 15th. Wrote edits to my blogpost promoting Blockscout's Mainnet Launch, to be posted on Friday.
 
