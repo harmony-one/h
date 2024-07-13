@@ -1,5 +1,7 @@
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
 
+2024-07-12 Fri: Continuation of [Harmony DeFi document](https://www.notion.so/harmonyone/Harmony-DeFi-1c2e88b425ea48088613c84bf49cd2de) pushing Harmony to evolve from forking primitives to becoming the industry leader in DeFi.
+
 2024-07-11 Thu: Initial work on Harmony DeFi narrative following discussion with Li, current plan is to break down larger vision into 1-3 day chunks. Review of [GMX](https://defillama.com/protocol/gmx-v2#information) v1 vs v2.
 
 2024-07-10 Wed: Organizing yuriy’s progress left for gmx. Supplying Binance with concise recovery information. Current recovery status: 24.55% recovered. Completed initial [GMX launch plan](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51) and coordinated with Alaina, Rika, and Yuriy.
