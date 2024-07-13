@@ -1,3 +1,12 @@
+**2024-07-12: Weekly update**
+First of all, I've done migration of the staking backend, thanks to the automation ansible playbook and initial testing end-users haven't faced any downtime. Old expensive infra setup was removed - 88% costs saved.
+
+The main focus during this week was the localnet watchdog setup. I've changed both the frontend and backend code to support it. Main advantage - now our protocol dev team now can have full network observability on the localnet via 2 `make` commands.
+
+Finally, I've started preparation for the old explorer infra removal to save money on infra costs.
+
+---
+
 **2024-07-05: Weekly update**
 The main focus during this week is automation for staking backend and new cheaper server setup, now it is in final testing phase. Justification is simple - save money on the traffic and server.
 
