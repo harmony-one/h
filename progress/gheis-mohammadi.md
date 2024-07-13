@@ -1,3 +1,19 @@
+**2024-07-13 Sat:**
+
+Last week, after several discussions and evaluations of the expected impacts, we finalized the decision to upgrade the boot nodes. Boot nodes 1 and 2, and later boot node 3, were successfully upgraded with [PR #4707](https://github.com/harmony-one/harmony/pull/4707). This PR improves the P2P host connection manager and removes QUIC transporters. The upgrade was successful, carried out without disturbing the network or bringing consensus down. We are closely monitoring the boot nodes post-upgrade. This was a significant step towards upgrading all boot nodes on the mainnet without any disruption. The next step is to upgrade the last boot node and then apply security configurations for the boot nodes in the mainnet.
+
+Next, we addressed the number of connections boot nodes can accept. The current high water mark was set at 192. The team decided to increase this limit for boot node connections. I created [PR #4710](https://github.com/harmony-one/harmony/pull/4710), which adds a new flag to the P2P host for boot nodes to adjust the high water mark, preventing any limit on boot node connections.
+
+I also created [PR #4711](https://github.com/harmony-one/harmony/pull/4711) to replicate a Travis fix for the hotfix branch. This helps resolve build issues and ensures successful builds in the `mainnet_hotfix` branch.
+
+We encountered another issue where only active validators among DNS nodes could participate in syncing. Soph updated the list of DNS nodes, which helped to address the issue, but I am still investigating to find the root cause. My investigation led to the discovery of a few minor bugs (unrelated to the issue), which I fixed in [PR #4713](https://github.com/harmony-one/harmony/pull/4713).
+
+Additionally, there is an issue with `eth_call` that could potentially fail when `gasPrice` is not included in the request. Addressing this will be my next task.
+
+Lastly, I conducted code reviews for several PRs that the team is working on.
+
+---
+
 **2024-07-06 Sat:**
 Last week was quite productive. I created a new branch in GitHub ([compare branch](https://github.com/harmony-one/harmony/compare/main...mainnet/bootnode/8717ccf61)), which is the old code from last year. It has the exact same HEAD commit as what the old boot nodes are using. The idea of this branch is to check the QUIC protocol removal without touching anything else.
 
