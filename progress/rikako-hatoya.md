@@ -1,3 +1,5 @@
+2024-07-12 Fri: Deployed keepers script locally (planning to also replicate deploying on host service). Debugging issues related to adding fastpricefeed to reflect on keepers. Looking into gmx-subgraph pricing issue.
+
 2024-07-11 Thu: Read through Theo's Harmony perpetual launch plan gmx. Worked on debugging scripts for deploying pricefeedtimelock,  vaultpricefeed and checked for missing contracts from deloyAll script.
 
 2024-07-10 Wed: Re-deployed contracts for [deployPriceFeedTimeLock](https://github.com/rika97/gmx-contracts/pull/1) in gmx-contracts and updated contracts from deployAll script into [gmx-interface](https://github.com/rika97/gmx-interface/pull/1). Deploy script was not working as expected due to signer problem, updated script for deploy PriceFeedTimelock.js. Working on debugging contract address error regarding PositionRouter and also investigating missing components in deployAll script such as tokenManager.
