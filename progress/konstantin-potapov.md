@@ -1,5 +1,5 @@
 2024-07-12 Fri:
-- Investigated the issue with the hash generation in localnet testing. Go@1.21 changed behavior of the ecdsa key generation function, so it can provide fieerent private keys for the same input. Described [here](https://github.com/golang/go/blob/release-branch.go1.21/src/crypto/ecdsa/ecdsa.go#L153)
+- Investigated the issue with the hash generation in localnet testing. Go@1.21 changed behavior of the ecdsa key generation function, so it can provide different private keys for the same input. Described [here](https://github.com/golang/go/blob/release-branch.go1.21/src/crypto/ecdsa/ecdsa.go#L153)
 - Updated hotstuff description and commit messages. It can be found [here](https://github.com/Frozen/gohotstuffimpl)
 
 2024-07-05 Fri:
