@@ -1,4 +1,4 @@
-2024-07-12 Fri: [Fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/3647a79e508dd72904e49b4085b477b7ceb0f5d1) runtime errors, related to contract imports and number conversions, deployed synthetix client to [https://harmony-synthetix.netlify.app/](https://harmony-synthetix.netlify.app/). 
+2024-07-12 Fri: [Fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/3647a79e508dd72904e49b4085b477b7ceb0f5d1) runtime errors, related to contract imports and number conversions, deployed synthetix client to [https://harmony-synthetix.netlify.app/](https://harmony-synthetix.netlify.app/). Minting is not working right now, need prepare new contracts with no mocks and real oracles support.
 
 2024-07-11 Thu: [updated](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/fa4efa17240121822e03879edeed54a5688ed4e1) codegen script in Synthetix v2 UI repo; fixed Synthetix instance initialization with correct harmony contracts import. Continue Synthetix subgraphs research.
 
