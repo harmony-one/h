@@ -1,3 +1,9 @@
+2024-07-14 Sat: Began looking at [Ink](https://github.com/vadimdemedes/ink), which provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+
+2024-07-13 Fri: Analyzed the fix for the failing test with Aaron. USDC uses the highest 1 bit in the balance for blacklist status, but the tests set initial balance to be max uint256, which sets all bits to 1. All tests are passing now. Will redeploy the fixed smart contract.
+
+2024-07-12 Thu: Noticed that some tests were failing for the core smart contracts. Began implementing a fix.
+
 2024-07-11 Wed: Continuing the core functionalities (pool and positions) and implementing mobile wallet connection.
 
 2024-07-10 Tue: Working on functionality for opening pools and positions.
