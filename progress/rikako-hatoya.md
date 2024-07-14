@@ -1,3 +1,5 @@
+2024-07-13 Sat (2.0h): Further look into gmx-subgraph pricing issue (how to configure for Harmony.) Also looked into 
+some recordings from EthCC 2024.
 2024-07-12 Fri: Deployed keepers script locally (planning to also replicate deploying on host service). Debugging issues related to adding fastpricefeed to reflect on keepers. Looking into gmx-subgraph pricing issue.
 
 2024-07-11 Thu: Read through Theo's Harmony perpetual launch plan gmx. Worked on debugging scripts for deploying pricefeedtimelock,  vaultpricefeed and checked for missing contracts from deloyAll script.
