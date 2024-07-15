@@ -1,3 +1,9 @@
+
+
+2024-07-15 Mon: [Added](https://github.com/harmony-one/gmx-contracts/pull/2/commits/5898cf388c9b4dcbbc08eacaa3dc97f7377eb905) script for auto configuring new tokens by list (ONE, 1ETH, wBTC, 1USDC, 1USDT). Deployed [new version](https://gx.country/) with new contracts, token lists and ux fixes. Synced with Alaina about MVP version. Working on fixing bugs that appear during testing. (Now one of the known bugs is the display of long positions - it seems that the problem is in the configuration of the OrderBook contract)
+
+---
+
 2024-07-12 Fri: Working on updating GLP (and other) token names in the interface and at the contract level. Also working on fixing a page crash due to caching of old addresses in the local storage. Also plan to add the final set of supported tokens: ONE, 1ETH, wBTC, 1USDC, 1USDT. 
 
 2024-07-11 Thu: [Fixed](https://github.com/potvik/gmx-contracts/commit/44106a0add88d14a33577ffb7d0cbdc707c3c096) issue on adding liquidity via interface (mintAndStakeGlp method): added several missing contracts and corrected the address of the native token during deployment and initialization of RewardRouter. [Updated](https://github.com/harmony-one/gmx-interface/commit/2ce7418d5f4ce86aa3220f645f80c7a903477ce7) interface with new contracts addresses.
