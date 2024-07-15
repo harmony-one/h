@@ -1,4 +1,4 @@
-2024-07-15 Mon: Updating the ONE Bot user guide and answering community questions on Twitter and in ONE Bot love. Launch tweet promoting gx.country, syncing with three sigma on the official launch tweets. 
+2024-07-15 Mon: Updating the ONE Bot user guide and answering community questions on Twitter and in ONE Bot love. Found bugs in ONE Bot, in the payment process and in /bard, synced with Frank to correct these bugs and update the user guide. Launch tweet promoting gx.country, syncing with three sigma on the official launch tweets. 
 
 ---
 
