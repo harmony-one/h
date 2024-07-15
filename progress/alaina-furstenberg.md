@@ -1,6 +1,16 @@
+2024-07-15 Mon: Updating the ONE Bot user guide and answering community questions on Twitter and in ONE Bot love. Launch tweet promoting gx.country, syncing with three sigma on the official launch tweets. 
+
+---
+
+2024-07-14 Sun (1.0 hr): Testing of gx.country in preparation for mvp launch. 
+
+2024-07-13 Sat (1.0 hr): Syncing with Soph to answer community questions in the community telegram.
+
+2024-07-12 Fri: Update of [harmony community section](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd). Continuation of writing the Blockscout post. Testing of gx.country and Blockscout, synced with Protofire on UX changes. Began drafting a [marketing campaign for three sigma here](), collected their brand assets.  
+
 2024-07-11 Thu: [Thread on /opyn](https://x.com/harmonyprotocol/status/1811566478430519496). Connecting with Hugo at three sigma to outline our marketing strategies and exchange brand materials. [Promotion](https://x.com/harmonyprotocol/status/1811553344349229541) of the Magic Store listing of Swap
 
-2024-07-10 Wed: Brief sync with Theo to review of [gx.country launch checklist](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51). Preparing a graphic for the MVP launch on July 15th. Wrote edits to my blogpost promoting Blockscout's Mainnet Launch, to be posted on Friday.
+2024-07-10 Wed: Brief sync with Theo to review of [gx.country launch checklist](https://www.notion.so/harmonyone/Launch-Plan-GMX-5544d1d4c88941c087b05f815e35fb51). Preparing a graphic for the MVP launch on July 15th. Wrote edits to my blogpost promoting Blockscout's Mainnet Launch, completed [here](https://www.notion.so/harmonyone/Introducing-Harmony-s-New-Mainnet-Explorer-Built-with-Protofire-d8fddb690463434ab3cb97fe49c49506?pvs=4)
 
 2024-07-09 Tue: [Thread of team's /progress](https://x.com/harmonyprotocol/status/1811097663628267815). Beginning the [user guide + write up documention for gmx v1 and synthetix v1](https://www.notion.so/harmonyone/user-guide-write-up-on-gmx-v1-synthetix-v1-6fe355f2bef248d49291bdbe6a67d616?pvs=4). [Promotion of the latest Blockscout](https://x.com/harmonyprotocol/status/1811101807789379645) release. 
 
