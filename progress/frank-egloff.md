@@ -1,3 +1,5 @@
+2024-07-12 Fri: Added MockQuoteToken (for price reference, fee denomination, liquidity provision, margin, and collateral deposits, etc.) and MockUsdcToken, added localhost/hardhat chain for local testing. Added a [deposit script](https://github.com/fegloff/vertex-contracts/pull/1) to test the depositCollateral method locally on the contract level because it was not working on the Trade App site, and the local test was successful.
+
 2024-07-11 Thu: Reviewed the deposit operation at the contract level. Refactored deploy and initialization scripts, which fixes contracts initialization, to correctly assign Spot and Perp engines to the endpoint contracts, among other improvements. 
 
 2024-07-10 Wed: Kept working with Vertex contracts and Vertex trade app. Was able to add products to the SpotEngine contract. Also added OffchainExchange initialization. Updating the deploy/initialization script is due to contract prerequisites. 
