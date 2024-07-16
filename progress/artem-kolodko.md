@@ -1,4 +1,4 @@
-2024-07-15 Mon: couple of fixed in Synthetix v2 client: [included](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/bff8c0d148f37cdd3c74b92bf27caf27abb723ec) Reward contract, [disabled](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/418f6ed32098a49acea2f02ff2f16623e45a55af) some optional features. Debugging error in Mint quote: "No aggregator for asset".
+2024-07-15 Mon: fixes in Synthetix v2 client: [included](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/bff8c0d148f37cdd3c74b92bf27caf27abb723ec) Reward contract, [disabled](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/418f6ed32098a49acea2f02ff2f16623e45a55af) some optional features. Debugging error in Mint quote: "No aggregator for asset".
 
 ---
 
