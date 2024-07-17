@@ -1,6 +1,8 @@
-2024-07-15 Mon (4.6h): Implementation of band oracle contract with Chainlink and Pyth interfaces. Evaluate code contributions and commits. Band oracle reader deployment and usage notes
+2024-07-15 Tue (4.6h): Implementation of band oracle contract with Chainlink and Pyth interfaces. Evaluate code contributions and commits. Band oracle reader deployment and usage notes
 
-2024-07-15 Sun (5.9h): Deep dive on Panoptic and Synthetix code and their use of Cannon and Foundry. Debug Cannon, Foundry, review their implementations and practicality for use in developing in CLI and frontend tools. 
+2024-07-15 Mon (5.9h): Deep dive on Panoptic and Synthetix code and their use of Cannon and Foundry. Debug Cannon, Foundry, review their implementations and practicality for use in developing in CLI and frontend tools. 
+
+---
 
 2024-07-14 Sun (0.3h): (Continued)
 
