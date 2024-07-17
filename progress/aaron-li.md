@@ -1,4 +1,12 @@
-2024-07-11 Fri (0.6h): Fix Panoptic test failures
+2024-07-15 Mon (4.6h): Implementation of band oracle contract with Chainlink and Pyth interfaces. Evaluate code contributions and commits. Band oracle reader deployment and usage notes
+
+2024-07-15 Sun (5.9h): Deep dive on Panoptic and Synthetix code and their use of Cannon and Foundry. Debug Cannon, Foundry, review their implementations and practicality for use in developing in CLI and frontend tools. 
+
+2024-07-14 Sun (0.3h): (Continued)
+
+2024-07-13 Sat (1.7h): Experiment with Cannon build and configuration for Synthetix. Review Cannon tools, upgradeable proxy storage collision avoidance, and related hardhat plugin
+
+2024-07-12 Fri (4.1h): Fix Panoptic test failures. Review Panoptic test code. Prepare developing liquidity provider command line tool. 
 
 2024-07-11 Thu (4.6h): Review Panoptic test code, test failures, and deployment parameters. Key domain renewal and certificate management. Synthetix oracle integration with Band. Review Foundry/Cannon configuration files for Panoptic and Synthetix, deployment scripts, and efficient ways for customization. Certificate renewal automation issues
 
