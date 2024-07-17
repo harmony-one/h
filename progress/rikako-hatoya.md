@@ -1,4 +1,4 @@
-2024-07-16 Tue: Monday continued. Still having troubles with redeploying some of the contracts, looking into scripts to figure out the issue of when adding address to interface (seems to be mistmatch when using address from deployAll). Also working on syncing interface.
+2024-07-16 Tue: Monday continued. Still having troubles with redeploying some of the contracts, looking into scripts to figure out the issue of when adding address to interface (seems to be mistmatch when using address from deployAll). Also working on syncing interface with new addresses from contracts, and looking into hardhat.config and helpers.js to debug deployPriceFeedTimelock with framesigner issue.
 
 2024-07-15 Mon: Working on updating all contracts to display liquidity and price correctly. Also working on token configuration for GMX (deploying set-tokens script).
 
