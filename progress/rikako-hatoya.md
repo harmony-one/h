@@ -1,3 +1,5 @@
+2024-07-16 Tue: Monday continued. Still having troubles with redeploying some of the contracts, looking into scripts to figure out the issue of when adding address to interface (seems to be mistmatch when using address from deployAll). Also working on syncing interface.
+
 2024-07-15 Mon: Working on updating all contracts to display liquidity and price correctly. Also working on token configuration for GMX (deploying set-tokens script).
 
 2024-07-14 Sun (1.5h): Bugs in current deploy on rh.country for gmx-interface found: prices for opening positions (long, short, swap) are not corrrectly rendering, looking into this issue. Also looked into [liquidity (rewardRouter) fix](https://github.com/potvik/gmx-contracts/commit/44106a0add88d14a33577ffb7d0cbdc707c3c096) and bug for adding positionRouter contract to interface.
