@@ -29,6 +29,7 @@
 
 This week marked significant progress through successful networking at the ETHcc conference, addressing issues within the lending platform, and continuing support for the HIP-32 release despite team changes.
 
+___
 ### Weekly Progress Update: 2024-06-28
 
 #### Protocol Investigation
