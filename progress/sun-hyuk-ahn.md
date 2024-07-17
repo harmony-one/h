@@ -1,18 +1,24 @@
-2024-07-14 Sat: Began looking at [Ink](https://github.com/vadimdemedes/ink), which provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the CLI functionality to mint options.
 
-2024-07-13 Fri: Analyzed the fix for the failing test with Aaron. USDC uses the highest 1 bit in the balance for blacklist status, but the tests set initial balance to be max uint256, which sets all bits to 1. All tests are passing now. Will redeploy the fixed smart contract.
-
-2024-07-12 Thu: Noticed that some tests were failing for the core smart contracts. Began implementing a fix.
-
-2024-07-11 Wed: Continuing the core functionalities (pool and positions) and implementing mobile wallet connection.
-
-2024-07-10 Tue: Working on functionality for opening pools and positions.
-
-2024-07-09 Mon: Began implementing the built in server mentioned below.
+2024-06-16 Mon: Completed the fix and made a fork. Deployed the smart contracts.
 
 ---
 
-2024-07-08 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - CLI implementation would be to create a simple built-in server that serves an empty-looking web page, which the CLI program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the CLI program to proceed with the next step.
+2024-07-13 Sat: Began looking at [Ink](https://github.com/vadimdemedes/ink), which provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+
+2024-07-12 Fri: Analyzed the fix for the failing test with Aaron. USDC uses the highest 1 bit in the balance for blacklist status, but the tests set initial balance to be max uint256, which sets all bits to 1. All tests are passing now. Will redeploy the fixed smart contract.
+
+2024-07-11 Thu: Noticed that some tests were failing for the core smart contracts. Began implementing a fix.
+
+2024-07-10 Wed: Continuing the core functionalities (pool and positions) and implementing mobile wallet connection.
+
+2024-07-09 Tue: Working on functionality for opening pools and positions.
+
+2024-07-08 Mon: Began implementing the built in server mentioned below.
+
+---
+
+2024-07-07 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - CLI implementation would be to create a simple built-in server that serves an empty-looking web page, which the CLI program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the CLI program to proceed with the next step.
 
 2024-07-06 Sat: Continued updating the scripts and asking peers for the script optimization.
 
