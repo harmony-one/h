@@ -1,3 +1,7 @@
+2024-07-17 Wed: reviewed Aaron's [PR](https://github.com/ArtemKolodko/synthetix/pull/3), started integration of Band oracles with Synthetix deployment script
+
+2024-07-16 Tue: sick time-off
+
 2024-07-15 Mon: fixes in Synthetix v2 client: [included](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/bff8c0d148f37cdd3c74b92bf27caf27abb723ec) Reward contract, [disabled](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/418f6ed32098a49acea2f02ff2f16623e45a55af) some optional features. Debugging error in Mint quote: "No aggregator for asset".
 
 ---
