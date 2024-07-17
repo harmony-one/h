@@ -1,3 +1,5 @@
+2024-07-16 Tue: [Testing of gx.country](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4), synced with Yuriy to resolve issues discovered. Tweet about team's progress updates. [Knights and Quests promotional tweet](https://x.com/harmonyprotocol/status/1813429712137724366).
+
 2024-07-15 Mon: Updating the ONE Bot user guide and answering community questions on Twitter and in ONE Bot love. Found bugs in ONE Bot, in the payment process and in /bard, synced with Frank to correct these bugs and update the user guide. Launch tweet promoting gx.country, syncing with three sigma on the official launch tweets. 
 
 ---
