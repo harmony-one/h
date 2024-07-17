@@ -1,4 +1,6 @@
+2024-07-17 Wed: Worked on bug fixes based on Alaina and Rikako's feedback: negative liquidation price in ux, issue with position list display, etc.; Worked on technical tests fpr swap, buy USDG, creating long/short positions.
 
+2024-07-16 Tue: [Updated](https://github.com/harmony-one/gmx-contracts-v1/pull/1/commits/f3b1b1dff9cb4c0e334133b79324f384a03ccc3b) deploy script: added OrderBook, redid the section with setting up PositionRouter and PositionManager contracts (This update resolved issue with long positions creation). [Updated](https://github.com/harmony-one/gmx-interface/pull/5/files) interface with new contracts.
 
 2024-07-15 Mon: [Added](https://github.com/harmony-one/gmx-contracts/pull/2/commits/5898cf388c9b4dcbbc08eacaa3dc97f7377eb905) script for auto configuring new tokens by list (ONE, 1ETH, wBTC, 1USDC, 1USDT). Deployed [new version](https://gx.country/) with new contracts, token lists and ux fixes. Synced with Alaina about MVP version. Working on fixing bugs that appear during testing. (Now one of the known bugs is the display of long positions - it seems that the problem is in the configuration of the OrderBook contract)
 
