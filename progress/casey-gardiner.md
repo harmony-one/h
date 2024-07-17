@@ -1,3 +1,34 @@
+### Weekly Progress Update: 2024-07-16
+
+#### Conference Success and Networking
+
+- **ETHcc Conference:**
+  - Attended the main ETHcc conference and over 27 side events, including ETH Brussels, L2 Day, Open Finance Day, Chainlink Day, and multiple Gitcoin Passport events.
+  - Met with multiple partners of Harmony, including validators and ecosystem projects.
+  - Participated in two closed-door roundtable sessions with Ethereum Foundation Geth L2 growth teams.
+  - Promoted Harmony to more than 100 individuals, discussing current projects and future growth steps.
+  - Attended a private dinner with Vitalik and several industry leaders.
+  - Enjoyed the best rave in Web3, rAAVE!
+  - Met with multiple meme coins to promote Harmony's features and attract them to our chain.
+
+#### Protocol Development and Issue Investigation
+
+- **Lending Platform Issue:**
+  - Investigating an issue with the lending platform and beginning an after-action report.
+  - Considering a possible migration to v3.
+
+- **HIP-32 Release:**
+  - Continuing to support the team in the release of HIP-32.
+  - Getting caught up with the latest issues and reviewing Pull Requests.
+
+#### Team Management
+
+- **Team Changes:**
+  - Adam has exited the protocol team, resulting in only 2 engineers on the on-call schedule.
+  - Working with other team members to fill in the gaps and manage the on-call schedule effectively.
+
+This week marked significant progress through successful networking at the ETHcc conference, addressing issues within the lending platform, and continuing support for the HIP-32 release despite team changes.
+
 ### Weekly Progress Update: 2024-06-28
 
 #### Protocol Investigation
