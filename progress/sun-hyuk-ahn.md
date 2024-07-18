@@ -1,3 +1,5 @@
+2024-06-18 Wed: Continued working on the mint functionality. Attempting to simplify the process of minting various options.
+
 2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the CLI functionality to mint options.
 
 2024-06-16 Mon: Completed the fix and made a fork. Deployed the smart contracts.
