@@ -1,3 +1,7 @@
+2024-07-17 Wed: Kept working on wallet connection logic and fixed an issue not allowing wallet balance to show on the Vertex Trade app. The problem was related to publicClient's multicall method of the Wagmi package. Added custom multicall hook for not supported chains.  
+
+2024-07-16 Tue: Worked on the Vertex Trade app wallet connection (it's not showing wallet balance) and deposit methods on the Harmony Testnet chain. Had to update mock JSON files to use the mockTokens address (it's not enough to update config files). 
+
 2024-07-15 Mon: Deployed Vertex contracts on the testnet chain for testing on the Vertex Trade app, including mock tokens. Refactored the defi app code to support the harmony testnet chain. On 1Bot disabled bard's model command due to its discontinuation to become Gemini (1bot supports Gemini 1.5, too).
 
 ---
