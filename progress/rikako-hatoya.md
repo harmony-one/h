@@ -3,6 +3,7 @@
 2. Redeployed deployPriceFeed with correct addresses (priceFeedAddressWONE, woneTokenAddress, priceFeedTimelock, positionRouter, deployer)
 3. [Updated](https://github.com/rika97/gmx-price-keeper/commit/0723cfcc79d27fb9273d993c515171e116b8fc75) gmx-price keeper with correct addresses.
 4. [Updated](https://github.com/rika97/gmx-interface/pull/6) gmx-interface with new contract addresses and deployed on [rh.country](https://rh.country/#/v1) with latest commit. 
+
 Contract addresses so far stored here:
  - [deployAll](https://github.com/rika97/gmx-contracts/commit/ff5ae0ce780230c0ba79396f5f6a270e32cd76a2#commitcomment-144359366)
  - [fastPriceFeed + Vault](https://github.com/rika97/gmx-contracts/pull/7)
