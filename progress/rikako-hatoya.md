@@ -1,4 +1,6 @@
 2024-07-18 Thu: 
+
+**Summary:** Re-deployed "set-tokens" + "deployPriceFeed", and updated "gmx-interface" + "keepers" with new addresses. rh.country is now up-to-date with gx.country.
 1. [Modified and redeployed](https://github.com/rika97/gmx-contracts/commit/660e8aefb5c0762c82bbfa0ef5b0761de0dee987) set-tokens script with correct addresses (vaultAddress, vaultPriceFeedAddress).
 2. Redeployed deployPriceFeed with correct addresses (priceFeedAddressWONE, woneTokenAddress, priceFeedTimelock, positionRouter, deployer)
 3. [Updated](https://github.com/rika97/gmx-price-keeper/commit/0723cfcc79d27fb9273d993c515171e116b8fc75) gmx-price keeper with correct addresses.
