@@ -1,3 +1,11 @@
+**2024-07-20 Sat:**
+Last week, I investigated the `eth_call` issue and reviewed my findings with Soph. We discovered that a client specific contract was causing the issue. Additionally, we identified the need to upgrade certain functions in the EVM to enhance compatibility and reduce issues with newer versions of smart contracts.
+
+I also performed code checks in stream sync and fixed a small bug. You can find the details of the bug fix in [pull request #4714](https://github.com/harmony-one/harmony/pull/4714). Alongside this, I updated some deprecated code in our code base that was generating warnings, which is documented in [pull request #4715](https://github.com/harmony-one/harmony/pull/4715).
+
+Regarding bootnodes, we found that the main net nodes are using an old version of Yamux. To address this, we need the newest version of libp2p. The team has already upgraded Golang, and the next step is to upgrade libp2p to ensure improved performance and compatibility.
+
+
 **2024-07-13 Sat:**
 
 Last week, after several discussions and evaluations of the expected impacts, we finalized the decision to upgrade the boot nodes. Boot nodes 1 and 2, and later boot node 3, were successfully upgraded with [PR #4707](https://github.com/harmony-one/harmony/pull/4707). This PR improves the P2P host connection manager and removes QUIC transporters. The upgrade was successful, carried out without disturbing the network or bringing consensus down. We are closely monitoring the boot nodes post-upgrade. This was a significant step towards upgrading all boot nodes on the mainnet without any disruption. The next step is to upgrade the last boot node and then apply security configurations for the boot nodes in the mainnet.
