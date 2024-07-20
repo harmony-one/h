@@ -1,3 +1,5 @@
+2024-07-18 Thu: Fixed several bugs in the contract settings that interfered with the execution of positions. Also for a complete ecosystem - started working on the position keeper service (keeper executes the position at the current index price). Received feedback from Rikako on contract deployment scripts - based on this optimizing deployment scripts to make them simpler and easier to understand for auditing (plan to finish by Monday). 
+
 2024-07-17 Wed: Worked on bug fixes based on Alaina and Rikako's feedback: negative liquidation price in ux, issue with position list display, etc.; Worked on technical tests fpr swap, buy USDG, creating long/short positions.
 
 2024-07-16 Tue: [Updated](https://github.com/harmony-one/gmx-contracts-v1/pull/1/commits/f3b1b1dff9cb4c0e334133b79324f384a03ccc3b) deploy script: added OrderBook, redid the section with setting up PositionRouter and PositionManager contracts (This update resolved issue with long positions creation). [Updated](https://github.com/harmony-one/gmx-interface/pull/5/files) interface with new contracts.

@@ -1,3 +1,11 @@
+2024-07-19 Fri:
+
+This week has been focused on troubleshooting, support, and addressing critical issues. I continued troubleshooting the Sushi revert issue, which could only be replicated under the exact conditions experienced by the Sushi team. During testing, I used `eth_call` with `gasPrice` while calling `totalSupply` on the WONE contract without any issues. Additionally, I provided support for Blockscout users who reported several issues: the search bar couldn't find addresses that had never been used on-chain, account and block information used by other dashboards contained a "#" that prevented direct access, and staking data were no longer available. For the staking data issue, I suggested linking to the staking dashboard showing the portfolio page which is currently pending implementation.
+
+I implemented playbook and security fixes on the monitoring server and managed the transition of the AWS account for Harmony Lend staging and production under the Harmony AWS account. I also completed the June cloud accounting, which revealed a slight decrease in our overall cloud costs.
+
+---
+
 2024-07-12 Fri:
 
 This week has been productive with a strong focus on resolving key technical issues and maintaining our infrastructure. I tested multiple bootnode setups and identified overlooked settings, which led to the review of Gheis' PRs [4707 - improve p2p connection manager](https://github.com/harmony-one/harmony/pull/4707) and [4710 - add connection manager high water mark flag to boot node](https://github.com/harmony-one/harmony/pull/4710). During the bootnode version upgrade, I also upgraded their operating systems to address last week's SSH CVE regression vulnerability.

@@ -1,3 +1,5 @@
+2024-07-18 Thu: deployed BandOracleReader with BTC and ETH currencies; [re-runned](https://github.com/ArtemKolodko/synthetix/pull/2/commits/e251ec352ac6050b856f51c5f6efd3e36b82ddba) harmony deploy iwth new aggregator addresses, started testing
+
 2024-07-17 Wed: reviewed Aaron's [PR](https://github.com/ArtemKolodko/synthetix/pull/3), started integration of Band oracles with Synthetix deployment script
 
 2024-07-16 Tue: sick time-off

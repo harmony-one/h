@@ -1,3 +1,5 @@
+2024-07-18 Thu: Was able to retrieve the wallet balance using the custom multi-call hook and make a deposit. Checked TradvingView Advance integration with the Trade app, and it seems that using the free version will require significant refactoring. The TradingView library is required to access the Trade feature. Need to check how the data feed component could affect the refactoring.
+
 2024-07-17 Wed: Kept working on wallet connection logic and fixed an issue not allowing wallet balance to show on the Vertex Trade app. The problem was related to publicClient's multicall method of the Wagmi package. Added custom multicall hook for not supported chains.  
 
 2024-07-16 Tue: Worked on the Vertex Trade app wallet connection (it's not showing wallet balance) and deposit methods on the Harmony Testnet chain. Had to update mock JSON files to use the mockTokens address (it's not enough to update config files). 
