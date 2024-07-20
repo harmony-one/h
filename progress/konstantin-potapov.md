@@ -2,7 +2,7 @@
 - Updated golang version to 1.21 version, it passed all tests, total progress 100%. 
 - Investigated and fixed issue with different hashes for the same genesis block. Go@1.21 provides different dots on the curve for the same input, so i hardcoded exact dots.
 - Tested and merged PR with fix for the peer storage. Improved getting connected peers method from linear complexity to constant.
-- Finalized watchdog integration with the localnet. Collaborated with Ulad Merged.
+- Finalized watchdog integration with the localnet. Collaborated with Ulad. Merged.
 - Created new issue and started investigation of the watchdog crushes. 
 - Collaborated with Ulad for the go@1.21 devnet testing. Test results showed that the node has problems connecting to other nodes. We will continue investigation on monday. 
 
