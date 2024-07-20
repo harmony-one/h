@@ -1,4 +1,6 @@
-2024-07-18 Thu (1.2h+): Notes for Panoptic test failure and fix
+2024-07-19 Thu (7.9h): Analyze and debug Panoptic collateral tracker, all internal functions, and math implementation details
+
+2024-07-18 Thu (3.3h): Notes for Panoptic test failure and fix. Analyze Panoptic pool code. Plan on command-line based account health monitoring, auto liquidation, and exercise tools
 
 2024-07-17 Wed (2.6h): Lending market security issue review. Analyze Panoptic implementation for liquidation and forced exercise tool development. Notes for Panoptic test failure and fix.
 
