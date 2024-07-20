@@ -5,6 +5,7 @@ I also performed code checks in stream sync and fixed a small bug. You can find 
 
 Regarding bootnodes, we found that the main net nodes are using an old version of Yamux. To address this, we need the newest version of libp2p. The team has already upgraded Golang, and the next step is to upgrade libp2p to ensure improved performance and compatibility.
 
+---
 
 **2024-07-13 Sat:**
 
