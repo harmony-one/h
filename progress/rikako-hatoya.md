@@ -1,3 +1,5 @@
+2024-07-19 Fri: Working on updating gmx-interface with all GLP symbols to GXP. Update UI by removing options other than ONE and USDC. 
+
 2024-07-18 Thu: 
 
 **Summary:** Re-deployed "set-tokens" + "deployPriceFeed", and updated "gmx-interface" + "keepers" with new addresses. rh.country is now up-to-date with gx.country.
