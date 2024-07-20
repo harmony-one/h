@@ -1,3 +1,11 @@
+2024-07-19 Fri:
+- Updated golang version to 1.21 version, it passed all tests, total progress 100%. 
+- Investigated and fixed issue with different hashes for the same genesis block. Go@1.21 provides different dots on the curve for the same input, so i hardcoded exact dots.
+- Tested and merged PR with fix for the peer storage. Improved getting connected peers method from linear complexity to constant.
+- Finalized watchdog integration with the localnet. Collaborated with Ulad Merged.
+- Created new issue and started investigation of the watchdog crushes. 
+- Collaborated with Ulad for the go@1.21 devnet testing. Test results showed that the node has problems connecting to other nodes. We will continue investigation on monday. 
+
 2024-07-12 Fri:
 - Investigated the issue with the hash generation in localnet testing. Go@1.21 changed behavior of the ecdsa key generation function, so it can provide different private keys for the same input. Described [here](https://github.com/golang/go/blob/release-branch.go1.21/src/crypto/ecdsa/ecdsa.go#L153)
 - Updated hotstuff description and commit messages. It can be found [here](https://github.com/Frozen/gohotstuffimpl)
