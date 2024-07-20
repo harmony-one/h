@@ -1,3 +1,6 @@
+2024-07-19 Fri: [Competed](https://github.com/harmony-one/gmx-price-keeper/commit/41954f309f190bd3c84f6f432397bfaa6be4edf4) position keeper service module. [Fixed](https://github.com/harmony-one/gmx-contracts-v1/pull/3) several contracts settings on deploy: liquidation fee usd was too high and blocked ececution for increased positions, also changed access settings for routers. Continue working on production deploy script/docs.
+
+
 2024-07-18 Thu: Fixed several bugs in the contract settings that interfered with the execution of positions. Also for a complete ecosystem - started working on the position keeper service (keeper executes the position at the current index price). Received feedback from Rikako on contract deployment scripts - based on this optimizing deployment scripts to make them simpler and easier to understand for auditing (plan to finish by Monday). 
 
 2024-07-17 Wed: Worked on bug fixes based on Alaina and Rikako's feedback: negative liquidation price in ux, issue with position list display, etc.; Worked on technical tests fpr swap, buy USDG, creating long/short positions.
