@@ -1,3 +1,5 @@
+2024-07-20 Sat (3.5h): Investigated code for GMX referrals and how they work, wrote a summary [here](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md). Doing the same for Dashboard, and looking into how they interact with gmx-stats.
+
 2024-07-19 Fri: Updated gmx-interface with all GLP (for UI text) to GXP ([PR here](https://github.com/harmony-one/gmx-interface/pull/6)). Moved my gmx-interface replica from fork to a new repo [here](https://github.com/rika97/gmx-interface-replica) and redeployed to rh.country (created a new clean slate fork so I can PR to harmony-one/gmx-interface without including my version of config addresses). Currently also working on updating all GLP variable names to GXP and also removing deprecate options in /buy_glp.
 
 2024-07-18 Thu: 
