@@ -1,18 +1,11 @@
+2024-07-21 Sun (2.0h): Investigated GMX app (dashboard and leaderboard) and looked into their code (gmx-stats, gmx-subgraph, gmx-interface). Looked into how they were querying subgraph data and [updated](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md) notes on how they are deployed.
+
 2024-07-20 Sat (3.5h): Investigated code for GMX referrals and how they work (distribution, tiers, referral codes), wrote a summary [here](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md). Doing the same for Dashboard, and looking into how they interact with gmx-stats.
 
-2024-07-19 Fri: Updated gmx-interface with all GLP (for UI text) to GXP ([PR here](https://github.com/harmony-one/gmx-interface/pull/6)). Moved my gmx-interface replica from fork to a new repo [here](https://github.com/rika97/gmx-interface-replica) and redeployed to rh.country (created a new clean slate fork so I can PR to harmony-one/gmx-interface without including my version of config addresses). Currently also working on updating all GLP variable names to GXP and also removing deprecate options in /buy_glp.
+2024-07-19 Fri: Updated gmx-interface with all GLP (for UI text) to GXP ([PR here](https://github.com/harmony-one/gmx-interface/pull/6)). Moved my gmx-interface replica from fork to a new repo [here](https://github.com/rika97/gmx-interface-replica) and redeployed to rh.country (created a new clean slate fork so I can PR to harmony-one/gmx-interface without including my version of config addresses). 
 
 2024-07-18 Thu: 
-
-**Summary:** Re-deployed "set-tokens" + "deployPriceFeed", and updated "gmx-interface" + "keepers" with new addresses. rh.country is now up-to-date with gx.country.
-1. [Modified and redeployed](https://github.com/rika97/gmx-contracts/commit/660e8aefb5c0762c82bbfa0ef5b0761de0dee987) set-tokens script with correct addresses (vaultAddress, vaultPriceFeedAddress).
-2. Redeployed deployPriceFeed with correct addresses (priceFeedAddressWONE, woneTokenAddress, priceFeedTimelock, positionRouter, deployer)
-3. [Updated](https://github.com/rika97/gmx-price-keeper/commit/0723cfcc79d27fb9273d993c515171e116b8fc75) gmx-price keeper with correct addresses.
-4. [Updated](https://github.com/rika97/gmx-interface/pull/6) gmx-interface with new contract addresses and deployed on [rh.country](https://rh.country/#/v1) with latest commit. 
-
-Contract addresses so far stored here:
- - [deployAll](https://github.com/rika97/gmx-contracts/commit/ff5ae0ce780230c0ba79396f5f6a270e32cd76a2#commitcomment-144359366)
- - [fastPriceFeed + Vault](https://github.com/rika97/gmx-contracts/pull/7)
+[Modified and redeployed](https://github.com/rika97/gmx-contracts/commit/660e8aefb5c0762c82bbfa0ef5b0761de0dee987) "set-tokens" + "deployPriceFeed", and updated [price-keeper](https://github.com/rika97/gmx-price-keeper/commit/0723cfcc79d27fb9273d993c515171e116b8fc75) + ["gmx-interface"](https://github.com/rika97/gmx-interface/pull/6) with new addresses. rh.country is now up-to-date with gx.country and contract addresses are stored at [deployAll](https://github.com/rika97/gmx-contracts/commit/ff5ae0ce780230c0ba79396f5f6a270e32cd76a2#commitcomment-144359366) and [fastPriceFeed + Vault](https://github.com/rika97/gmx-contracts/pull/7).
 
 2024-07-17 Wed: Redeployed all contracts [https://github.com/rika97/gmx-contracts/pull/5] with deployAll script and also deployed priceFeedTimeLock (all deployed contract addresses are [here](https://github.com/rika97/gmx-contracts/commit/ff5ae0ce780230c0ba79396f5f6a270e32cd76a2#comments)). Adjusted some of the token configs to deploy fastPriceFeed contract but still looking into JSON-RPC issue with Ethers frameSigner: getSigner() (perhaps related to hardhat config, node network cannot be run/ port on "http://127.0.0.1:8545" does not start.) Removed getSigner() method for now and deployed deployPriceFeed [https://github.com/rika97/gmx-contracts/pull/6] (all addresses commented [here](https://github.com/rika97/gmx-contracts/pull/6)). Updated gmx-interface with some of the new addresses for the meanwhile [https://github.com/rika97/gmx-interface/pull/3].
 
