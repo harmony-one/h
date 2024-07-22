@@ -22,5 +22,6 @@
  - Detailed stats given at ["V1 Analytics"](https://stats.gmx.io/arbitrum) uses [gmx-stats](https://github.com/gmx-io/gmx-stats): relies on [dataProvider](https://github.com/gmx-io/gmx-stats/blob/master/src/dataProvider.js) to fetch data (traders, volume, fees, etc). dataProvider uses [useGraph()](https://github.com/gmx-io/gmx-stats/blob/5e6db5569ad06753cd8027f2b0e38ffe7b7f3695/src/dataProvider.js#L283), which queries data from GraphQL subgraph
 
 ## Leaderboard
+ - Fetches leaderboard data and positions by querying subgraph with GraphQL
 
 ## Earn
