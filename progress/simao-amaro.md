@@ -9,3 +9,5 @@ I deployed Euler V1 to the testnet and set up the Hardhat configuration. I forke
 I added Foundry scripts to Euler V1 for activating USDC and WETH markets. I redeployed Opyn Squeeth, deployed the Zen Bull Strategy and Zen Bull Netting contracts with new Euler dependencies, and created Makefiles and notes.md for the new deployments.
 
 2024-07-12 Fri: I tested the Zen Bull Strategy and Zen Bull Netting contracts on the testnet.
+
+2024-07-22 Mon: I tested Panoptic core contracts on the testnet. They failed due to dependencies on existing Uniswap pools, which required mocking them.
