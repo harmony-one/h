@@ -1,3 +1,7 @@
+2024-07-22 Mon: Aaron fixed a bug in BandOracle proxy, and I updated Harmony  Synthetix deployment. Price quote on Mint page is working now!  Deployed client update: [https://harmony-synthetix.netlify.app/staking/mint](https://harmony-synthetix.netlify.app/staking/mint). To test price estimate, select Harmony in the top right network selector, connect wallet and type something in stake or borrow inputs on Mint page, quotes will be fetched from the contract. Currently it's using only Bitcoin price, later I'll update the feeds accordingly to the actual token (ETH, SNX, BTC).
+
+---
+
 2024-07-19 Fri: got an error while adding custom oracles aggregator to ExchangeRates contract. While debugging the problem, [created](https://github.com/ArtemKolodko/synthetix/pull/2/commits/e0d4bdaf371e935e66ba01245aab0a5402da9033) a script to test previously deployed BandOracleReader contract, and found a bug in BandOracleReader contract: latestRound method return error, which maybe caused the original error. Sent all information to Aaron (he is an author of BandOracleReader contract).
  
 2024-07-18 Thu: deployed BandOracleReader with BTC and ETH currencies; [re-runned](https://github.com/ArtemKolodko/synthetix/pull/2/commits/e251ec352ac6050b856f51c5f6efd3e36b82ddba) harmony deploy with new aggregator addresses, started testing
