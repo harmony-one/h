@@ -95,7 +95,15 @@ Researched and deployed Panoptics protocol, a perpetual options trading protocol
 
 ---
 
-2024-05-01 - 2024-06-07: Paid time off (28 days)
+2024-04-25 - 2024-06-07: Paid time off (32 days)
+
+---
+
+2024-04-24 Wed: Reviewing the draft with Julia and Theo.
+
+2024-04-23 Tue: Worked on a script for calculating the cost. Discussed with Diego on the script accuracy as well as the provided price data.
+
+2024-04-22 Mon: Discussed with Theo on the resume matching service. Looking through system engineer resumes.
 
 ---
 
@@ -110,8 +118,6 @@ Researched and deployed Panoptics protocol, a perpetual options trading protocol
 2024-04-15 Mon: Continued working on the data availability article, as well as calculating costs. Trying to make a correlation with each block produced to the cost.
 
 ---
-
-2024-04-14 Sun (x.xh):
 
 2024-04-13 Sat (x.xh): Began looking into the cost metrics for our shard 1 and how other chains calculate their costs.
 
