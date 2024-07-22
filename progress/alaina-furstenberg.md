@@ -1,3 +1,11 @@
+2024-07-22 Mon: Thread on /panoptics & /progress. Marketing of ONE Show episode 8. Top insight from today's testing of gx.country:
+
+---
+
+2024-07-21 Sun (1.0 hr): 
+
+2024-07-20 Sat (1.0 hr): ONE Bot Love engagement & question sourcing on X for ONE Show Episode 8.
+
 2024-07-19 Fri: Harmony one community section update and tweet. Team progress thread. Community engagement in ONE Bot love and continued updates of [ONE Bot user guide](https://harmonyone.notion.site/Getting-Started-on-harmony1bot-ad0e403158364da093952242afabe658?pvs=4). Continued iterations of the [gx.country graphics](https://www.canva.com/design/DAGLUhMpUWY/uQJE37o6n5YokZODToeE1Q/edit?utm_content=DAGLUhMpUWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 2024-07-18 Thu: [Thread about /perps](https://x.com/harmonyprotocol/status/1814097589836640404). Use of Midjourney to create [gx.country graphics](https://www.canva.com/design/DAGLUhMpUWY/uQJE37o6n5YokZODToeE1Q/edit?utm_content=DAGLUhMpUWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) with Three Sigma. Continued [gx.country testing](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4).
