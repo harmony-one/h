@@ -1,3 +1,13 @@
+2024-06-23 Mon:
+
+---
+
+2024-06-21 Sat: Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
+
+2024-06-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using CLI. Development on transferring and burning options.
+
+2024-06-19 Thu: Continuing the minting options development. Noticing a problem where it makes users hard to visualize the price points without a visual graph.
+
 2024-06-18 Wed: Continued working on the mint functionality. Attempting to simplify the process of minting various options.
 
 2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the CLI functionality to mint options.
