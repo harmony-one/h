@@ -4,7 +4,7 @@
 
 2024-07-21 Sun (1.0 hr): 
 
-2024-07-20 Sat (1.0 hr): ONE Bot Love engagement & question sourcing on X for ONE Show Episode 8.
+2024-07-20 Sat (1.0 hr): ONE Bot Love engagement & [question sourcing](https://docs.google.com/document/d/1dnbJ7LGCxs7Y-qid7feiXiuHkQz5On6V04AyLXRyYgw/edit?usp=sharing) on X for ONE Show Episode 8.
 
 2024-07-19 Fri: Harmony one community section update and tweet. Team progress thread. Community engagement in ONE Bot love and continued updates of [ONE Bot user guide](https://harmonyone.notion.site/Getting-Started-on-harmony1bot-ad0e403158364da093952242afabe658?pvs=4). Continued iterations of the [gx.country graphics](https://www.canva.com/design/DAGLUhMpUWY/uQJE37o6n5YokZODToeE1Q/edit?utm_content=DAGLUhMpUWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
