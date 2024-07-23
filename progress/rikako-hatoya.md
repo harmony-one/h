@@ -1,3 +1,5 @@
+2024-07-22 Mon: Looked into how code for "leaderboard" stats work with subsquid+GraphQL client, and features on "earn" page (vesting, staking, esGMX/rewards, incentive program, voting). Further investigating how [V1 contracts](https://github.com/gmx-io/gmx-interface/blob/master/src/config/contracts.ts) for [staking](https://docs.gmx.io/docs/api/contracts-v1#staking) works, and updated some notes [here](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md).
+
 2024-07-21 Sun (2.0h): Investigated GMX app (dashboard and leaderboard) and looked into their code (gmx-stats, gmx-subgraph, gmx-interface). Looked into how they were querying subgraph data and [updated](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md) notes on how they are deployed.
 
 2024-07-20 Sat (3.5h): Investigated code for GMX referrals and how they work (distribution, tiers, referral codes), wrote a summary [here](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md). Doing the same for Dashboard, and looking into how they interact with gmx-stats.
