@@ -1,3 +1,5 @@
+2024-07-23 Tue: working on different bugs in Synthetix client: "current network does not support EIP-1559" on minting attempt and minting initial [SNX token](https://explorer.harmony.one/address/one1gj68vrrcdnkklcv2240lu7uann27u9dghsuk2l) supply to use in staking. Deployed BandOracleReader [contract](https://explorer.harmony.one/address/one1dj60qgw3v0fcwehfq56tyxn3kgy9kcdg25nfuy?tab=txs&shard=0) with ONE token price.
+
 2024-07-22 Mon: Aaron fixed a bug in BandOracle proxy, and I updated Harmony  Synthetix deployment. Price quote on Mint page is working now!  Deployed client update: [https://harmony-synthetix.netlify.app/staking/mint](https://harmony-synthetix.netlify.app/staking/mint). To test price estimate, select Harmony in the top right network selector, connect wallet and type something in stake or borrow inputs on Mint page, quotes will be fetched from the contract. Currently it's using only Bitcoin price, later I'll update the feeds accordingly to the actual token (ETH, SNX, BTC).
 
 ---
