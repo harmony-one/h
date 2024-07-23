@@ -1,3 +1,6 @@
+2024-07-22 Mon: Enabled faucet feature to mint testnet funds for Harmony Testnet on Vertex App and currently working on the withdraw feature.
+
+---
 2024-07-19 Fri: Checked TradingView data feed integration with Vertex Trade App, and transitioning to a free alternative would require a significant effort. Reviewed and created a list of missing components to port Vertex to Harmony and sent it to Li. Pushed the latest changes to Vertex Defi App [PR](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2 ) and Vertex contracts [PR](https://github.com/fegloff/vertex-contracts/pull/1).  
 
 2024-07-18 Thu: Was able to retrieve the wallet balance using the custom multi-call hook and make a deposit. Checked TradvingView Advance integration with the Trade app, and it seems that using the free version will require significant refactoring. The TradingView library is required to access the Trade feature. Need to check how the datafeed component could affect the refactoring.
