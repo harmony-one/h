@@ -2,21 +2,16 @@ GMX v1 contracts deploy
 ==============
 
 Original gmx contracts repo: https://github.com/gmx-io/gmx-contracts
+
 Docs at https://gmxio.gitbook.io/gmx/contracts
 
-**Harmony fork: https://github.com/harmony-one/gmx-contracts-v1**
-
-***Changes:***
-1) Updated hardhat version https://github.com/harmony-one/gmx-contracts-v1/commit/49a700fad69b2b2d25fe51306fbea968297a60ec
-2) Configured deploy config: https://github.com/harmony-one/gmx-contracts-v1/blob/master/hardhat.config.js
-3) Added token configurations: https://github.com/harmony-one/gmx-contracts-v1/blob/master/scripts/core/tokens.js#L125
-4) Added full deploy script https://github.com/harmony-one/gmx-contracts-v1/blob/master/scripts/deployAll.js  
+**Harmony fork: https://github.com/harmony-one/h-gmx-contracts**
 
 ***How to deploy:***
 
 1) Clone and build repo
 ```
-git clone git@github.com:harmony-one/gmx-contracts-v1.git
+git clone git@github.com:harmony-one/h-gmx-contracts.git
 npm install -g npx
 npx hardhat compile
 ```
@@ -30,26 +25,9 @@ npx hardhat compile
 }
 ```
 
-3) Run deploy script (example of deployment logs at the bottom of the page)
+3) Run deploy script
 ```
-npx hardhat run ./scripts/deployAll.js --network mainnet
-```
-
-4) Deploy priceFeedTimelock contract, used tokenManager address from previous step
-```
-npx hardhat run ./scripts/peripherals/deployPriceFeedTimelock.js --network mainnet
-```
-
-5) Deploy and configure fastPriceFeed contract (it stores the price received by the price keeper service
-):
-
-5.1) set tokens configs [here](https://github.com/potvik/gmx-contracts/blob/keepers/scripts/core/deployPriceFeed.js#L14)
-
-5.2) set contracts address (priceFeedTimelock, VaultPriceFeed etc) from previous steps
-
-5.3) Start script
-```
-npx hardhat run ./scripts/core/deployPriceFeed.js --network mainnet
+npx hardhat run ./scripts/harmony/deployAll.js --network mainnet
 ```
 
 ***Next steps:***
