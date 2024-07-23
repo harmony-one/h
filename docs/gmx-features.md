@@ -22,6 +22,14 @@
  - Detailed stats given at ["V1 Analytics"](https://stats.gmx.io/arbitrum) uses [gmx-stats](https://github.com/gmx-io/gmx-stats): relies on [dataProvider](https://github.com/gmx-io/gmx-stats/blob/master/src/dataProvider.js) to fetch data (traders, volume, fees, etc). dataProvider uses [useGraph()](https://github.com/gmx-io/gmx-stats/blob/5e6db5569ad06753cd8027f2b0e38ffe7b7f3695/src/dataProvider.js#L283), which queries data from GraphQL subgraph
 
 ## Leaderboard
- - Fetches leaderboard data and positions by querying subgraph with GraphQL. Processes competition data in [CompetitionPrizes](https://github.com/gmx-io/gmx-interface/blob/master/src/pages/LeaderboardPage/components/CompetitionPrizes.tsx) and fetches data using [LeaderboardAccountBase](https://github.com/gmx-io/gmx-interface/blob/master/src/domain/synthetics/leaderboard/index.ts)
+ - Trading competition to incentivize GMX on Arbitrum
+ - Fetches leaderboard data and positions by querying subgraph with GraphQL. Processes competition data in [CompetitionPrizes](https://github.com/gmx-io/gmx-interface/blob/master/src/pages/LeaderboardPage/components/CompetitionPrizes.tsx) and fetches data using [LeaderboardAccountBase](https://github.com/gmx-io/gmx-interface/blob/master/src/domain/synthetics/leaderboard/index.ts) using subsquid with Apollo client
 
 ## Earn
+ - Staking
+   - Multiplier Points every second, 100% APR can be staked for fee rewards
+   - Boost Percentage = 100 * (Staked Multiplier Points) / (Staked GMX + Staked esGMX).
+   - GMX and esGMX is staked by RewardRouter depositing to StakedGmxTracker
+ - Vest
+   - esGMX is coverted to GMX every second with a full vesting period of 365 days (can be claimed at anytime)
+   - 
