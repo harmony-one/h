@@ -20,29 +20,21 @@ Details:
 3) Rename GLP to GXP [commit](https://github.com/harmony-one/h-gmx-contracts/commit/c5e3f2075bda68576b8e19c352ff7c56a236fbc3)
 4) **Added deployAll script and configs** [commit](https://github.com/harmony-one/h-gmx-contracts/commit/3edccd0ffeedf8b44e471b7bdacb97d73bc19a33) - In fact, this is a major update that requires careful checking, because when deploying and setting up contracts, many parameters and access settings are used
 
+Important files:
+1) tokens.js - here is a list of tokens connected to gmx Vault
+2) config.js - here is a config with addresses that will have access to contact management
+3) deployAll.js - deployment script and settings
+
 ***How to deploy:***
 
-1) Clone and build repo
-```
-git clone git@github.com:harmony-one/h-gmx-contracts.git
-npm install -g npx
-npx hardhat compile
-```
+https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md
 
-2) Set deploy ENV to env.json (MAINNET_DEPLOY_KEY and DEPLOYER_PK may be the same)
-```
-{
-    "MAINNET_DEPLOY_KEY": "",
-    "DEPLOYER_PK": "",
-    "MAINNET_URL": "https://api.harmony.one"
-}
-```
+Gmx Price Keeper
+==============
 
-3) Run deploy script
-```
-npx hardhat run ./scripts/harmony/deployAll.js --network mainnet
-```
+Also, to update prices and execute positions, we have developed a separate Price Keeper Service - which downloads prices from various open APIs and saves them in the secondPriceFeed contract.
 
-***Next steps:***
-Then you need to copy paste all deployed addresses to json config to use it with frontend app and keeper service
+Repo: https://github.com/harmony-one/gmx-price-keeper
+
+API: https://gmx-keeper.fly.dev/api
 
