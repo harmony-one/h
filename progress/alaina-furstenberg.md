@@ -1,6 +1,6 @@
-2024-07-23 Tue: Posting of /panoptics thread & [core protocol sync](https://youtu.be/v5LdrPceOyU?si=DIY5cm5FtSWwAakz). Creation of [Harmony ∩ Bitcoin > DeFi slides](https://www.figma.com/design/3sRwpawbXMUJv4oPxR7FQs/Harmony-%2B-Bitcoin-%3E-DeFi?node-id=0-1&t=jsL2kEX69rX8p7X7-1). Preparation to discuss marketing campaigns with GMX team tomorrow
+2024-07-23 Tue: Posting of [/panoptics thread](https://x.com/harmonyprotocol/status/1815917581460726062) & [core protocol sync](https://youtu.be/v5LdrPceOyU?si=DIY5cm5FtSWwAakz). Creation of [Harmony ∩ Bitcoin > DeFi slides](https://www.figma.com/design/3sRwpawbXMUJv4oPxR7FQs/Harmony-%2B-Bitcoin-%3E-DeFi?node-id=0-1&t=jsL2kEX69rX8p7X7-1). Preparation to discuss marketing campaigns with GMX team tomorrow
 
-2024-07-22 Mon: Writing of threads on /panoptics & /progress. Marketing of ONE Show episode 8. Top insight from today's testing of gx.country:
+2024-07-22 Mon: [Writing of threads on /panoptics](https://www.notion.so/harmonyone/thread-on-panoptics-08103af91ba847b7b1e4a8f9c61de2a7?pvs=4) & /progress. Marketing of ONE Show episode 8. Top insight from today's testing of gx.country:
 
 ---
 
