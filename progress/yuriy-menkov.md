@@ -1,4 +1,4 @@
-2024-07-24 Wed: Had a meeting with Pablo and Alania about the launch of gmx. Worked on fixes based on feedback from Pablo. Deployed an updated version of the interface.
+2024-07-24 Wed: Had a meeting with Pablo and Alania about the launch of gmx. Worked on fixes based on feedback from Pablo. Deployed an updated version of the contracts/interface/keeper.
 
 2024-07-23 Tue: [Forked](https://github.com/harmony-one/h-gmx-contracts) a completely new gmx-contracts repository so that it had all the latest changes and also transferred edited [deployment scripts](https://github.com/harmony-one/h-gmx-contracts/commit/3edccd0ffeedf8b44e471b7bdacb97d73bc19a33) and other changes to it. Updated [deployment](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) documentation and [changelog](https://github.com/harmony-one/h/blob/main/docs/gmx-changes.md). Synced with Aaron to start a security audit.
 
