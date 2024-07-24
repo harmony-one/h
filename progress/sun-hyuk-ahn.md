@@ -1,3 +1,5 @@
+2024-06-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the CLI to properly interact with smart contracts.
+
 2024-06-23 Mon: Fixed the bug and now able to create options repeatedly. Encountered several bugs (UniswapV3 interaction when creating a pool, option creation) and began to debug them.
 
 ---
