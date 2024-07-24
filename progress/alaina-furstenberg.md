@@ -1,10 +1,12 @@
-2024-07-22 Mon: Thread on /panoptics & /progress. Marketing of ONE Show episode 8. Top insight from today's testing of gx.country:
+2024-07-23 Tue: Posting of /panoptics thread & [core protocol sync](https://youtu.be/v5LdrPceOyU?si=DIY5cm5FtSWwAakz). Creation of [Harmony ∩ Bitcoin > DeFi slides](https://www.figma.com/design/3sRwpawbXMUJv4oPxR7FQs/Harmony-%2B-Bitcoin-%3E-DeFi?node-id=0-1&t=jsL2kEX69rX8p7X7-1). Preparation to discuss marketing campaigns with GMX team tomorrow
+
+2024-07-22 Mon: Writing of threads on /panoptics & /progress. Marketing of ONE Show episode 8. Top insight from today's testing of gx.country:
 
 ---
 
-2024-07-21 Sun (1.0 hr): 
+2024-07-21 Sun (1.0 hr): Draft of /progress thread and review of team's /progress writings.
 
-2024-07-20 Sat (1.0 hr): ONE Bot Love engagement & [question sourcing](https://docs.google.com/document/d/1dnbJ7LGCxs7Y-qid7feiXiuHkQz5On6V04AyLXRyYgw/edit?usp=sharing) on X for ONE Show Episode 8.
+2024-07-20 Sat (1.0 hr): [Question sourcing](https://docs.google.com/document/d/1dnbJ7LGCxs7Y-qid7feiXiuHkQz5On6V04AyLXRyYgw/edit?usp=sharing) on X for ONE Show Episode 8.
 
 2024-07-19 Fri: Harmony one community section update and tweet. Team progress thread. Community engagement in ONE Bot love and continued updates of [ONE Bot user guide](https://harmonyone.notion.site/Getting-Started-on-harmony1bot-ad0e403158364da093952242afabe658?pvs=4). Continued iterations of the [gx.country graphics](https://www.canva.com/design/DAGLUhMpUWY/uQJE37o6n5YokZODToeE1Q/edit?utm_content=DAGLUhMpUWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
