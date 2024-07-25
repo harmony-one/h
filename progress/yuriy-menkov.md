@@ -1,3 +1,5 @@
+2024-07-25 Thu: Fixed a problem with displaying charts: [added](https://github.com/harmony-one/gmx-subgraph/commit/a31cbb6f1b03c05556da9c1256da085abd1f8ce8) gmx-h-prices subgraph, [updated](https://github.com/harmony-one/gmx-stats/commit/78451b479b7bf1f79706893ad40626e9f6e3d749) gmx-stats service. [Reviewed](https://github.com/harmony-one/gmx-interface/pull/7) and merged Rikako's interface updates. Received the first feedback on the security audit from Aaron - he highlighted the main vulnerabilities associated with the work of keepers. I will prepare additional documentation describing the work of these services and related contracts.
+
 2024-07-24 Wed: Had a meeting with Pablo and Alania about the launch of gmx. Worked on fixes based on feedback from Pablo. Deployed an updated version of the contracts/interface/keeper.
 
 2024-07-23 Tue: [Forked](https://github.com/harmony-one/h-gmx-contracts) a completely new gmx-contracts repository so that it had all the latest changes and also transferred edited [deployment scripts](https://github.com/harmony-one/h-gmx-contracts/commit/3edccd0ffeedf8b44e471b7bdacb97d73bc19a33) and other changes to it. Updated [deployment](https://github.com/harmony-one/h/blob/main/docs/gmx-v1-deploy.md) documentation and [changelog](https://github.com/harmony-one/h/blob/main/docs/gmx-changes.md). Synced with Aaron to start a security audit.
@@ -7,7 +9,6 @@
 ---
 
 2024-07-19 Fri: [Competed](https://github.com/harmony-one/gmx-price-keeper/commit/41954f309f190bd3c84f6f432397bfaa6be4edf4) position keeper service module. [Fixed](https://github.com/harmony-one/gmx-contracts-v1/pull/3) several contracts settings on deploy: liquidation fee usd was too high and blocked ececution for increased positions, also changed access settings for routers. Continue working on production deploy script/docs.
-
 
 2024-07-18 Thu: Fixed several bugs in the contract settings that interfered with the execution of positions. Also for a complete ecosystem - started working on the position keeper service (keeper executes the position at the current index price). Received feedback from Rikako on contract deployment scripts - based on this optimizing deployment scripts to make them simpler and easier to understand for auditing (plan to finish by Monday). 
 
