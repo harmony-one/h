@@ -11,3 +11,7 @@ I added Foundry scripts to Euler V1 for activating USDC and WETH markets. I rede
 2024-07-12 Fri: I tested the Zen Bull Strategy and Zen Bull Netting contracts on the testnet.
 
 2024-07-22 Mon: I tested Panoptic core contracts on the testnet. They failed due to dependencies on existing Uniswap pools, which required mocking them.
+
+2024-07-23 Tue: I tested Panoptic core contracts on a forked mainnet. I started creating CLI scripts for interacting with the Panoptic contracts.
+
+2024-07-24 Wed: I started testing Opyn Squeeth on a forked mainnet. I started creating CLI scripts for interacting with the core contracts.
