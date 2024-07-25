@@ -1,4 +1,18 @@
-2024-07-19 Thu (7.9h): Analyze and debug Panoptic collateral tracker, all internal functions, and math implementation details
+2024-07-23 Thu (3.3h): Security audit on GX deployments, modifications, relevant server components, and contract snippets. Discussion on liquidity provider risk and incentives for GMX, Synthetix, Opyn, Panoptic 
+
+2024-07-23 Wed (2.1h): Security audit on GX. Review comments on lending market. Revisit notes on Euler v2 and Ethena. Discussion on Vertex missing components. Revisit GMX, Synthetix, Opyn, Panoptic liquidity provision mechanisms and prepare notes
+
+2024-07-23 Tue (7.5h): Debugging Synthetix ProxyERC20 and SNX token source. Debugging SNX oracle. Security audit on GX. Fix sites failed to auto-renew SSL. Fix URL redirect configuration endpoint bug which left residual CNAME record and prevents redirections taking effect. Fix domain manager API path which prevents CNAME and redirect configuration from functioning. Fix notion page URL configuration and parsing bug in page manager. Migrate new special domain. Write lending market operation and security guide
+
+2024-07-22 Mon (0.9h): Band oracle reader production debugging
+
+---
+
+2024-07-21 Sun (1.4h): (Continued) and review lending market security incidents
+
+2024-07-20 Sat (2.1h): (Continued) and liquidation and forced exercise internal implementations, correctness and potential corner cases handled by type casting and bit operations.
+
+2024-07-19 Fri (7.9h): Analyze and debug Panoptic collateral tracker, all internal functions, and math implementation details
 
 2024-07-18 Thu (3.3h): Notes for Panoptic test failure and fix. Analyze Panoptic pool code. Plan on command-line based account health monitoring, auto liquidation, and exercise tools
 
