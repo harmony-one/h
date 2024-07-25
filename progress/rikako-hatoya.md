@@ -1,3 +1,5 @@
+2024-07-24 Wed: [Updated](https://github.com/harmony-one/gmx-interface/pull/7) UI (fixed links, modified navigation header, modified GLP to GXP) for gmx-interface. Deployed new contracts with [h-gmx-contracts](https://github.com/harmony-one/h-gmx-contracts), updated [interface](https://github.com/rika97/gmx-interface-replica/pull/1) and [price-keepers](https://github.com/rika97/gmx-price-keeper/pull/1) with new addresses.
+
 2024-07-23 Tue: Working on replicating new updated deploy script for gmx-contracts and keepers. Also working on updating UI/UX for price-updates/graphs, and fixing some links on interface.
 
 2024-07-22 Mon: Looked into how code for "leaderboard" stats work with subsquid+GraphQL client, and features on "earn" page (vesting, staking, esGMX/rewards, incentive program, voting). Further investigating how [V1 contracts](https://github.com/gmx-io/gmx-interface/blob/master/src/config/contracts.ts) for [staking](https://docs.gmx.io/docs/api/contracts-v1#staking) works, and updated some notes [here](https://github.com/harmony-one/h/blob/main/docs/gmx-features.md).
