@@ -1,4 +1,4 @@
-2024-07-23 Thu (3.3h): Security audit on GX deployments, modifications, relevant server components, and contract snippets. Discussion on liquidity provider risk and incentives for GMX, Synthetix, Opyn, Panoptic 
+2024-07-23 Thu (4.4h): Security audit on GX deployments, modifications, relevant server components, and contract snippets. Discussion on liquidity provider risk and incentives for GMX, Synthetix, Opyn, Panoptic. Vertex modification code and mock review
 
 2024-07-23 Wed (2.1h): Security audit on GX. Review comments on lending market. Revisit notes on Euler v2 and Ethena. Discussion on Vertex missing components. Revisit GMX, Synthetix, Opyn, Panoptic liquidity provision mechanisms and prepare notes
 
