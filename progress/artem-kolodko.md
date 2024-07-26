@@ -1,3 +1,7 @@
+2024-07-26 Fri: created new Synthetix deployment on Harmony with increased SNX supply (100 mil tokens) for testing purposes, updated contract addresses in client, deployed [client](https://harmony-synthetix.netlify.app/) update; continue testing.
+
+2024-07-25 Thu: investigated and [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/36369d88664f857eaf3442dbbccee14c55d6c79a) error on Mint operation in Synthetix client. Deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app).
+
 2024-07-24 Wed: [summarized](2024-07-23 Tue:) Synthetix deployment process on Harmony with updated scripts and docs. Dicsussed creation of SNX-like token with Aaron, we need to have similar token with real price to use it in client. Working on adding token supply in deployment scripts to have some SNX on balance to test.
 
 2024-07-23 Tue: working on different bugs in Synthetix client: "current network does not support EIP-1559" on minting attempt and minting initial [SNX token](https://explorer.harmony.one/address/one1gj68vrrcdnkklcv2240lu7uann27u9dghsuk2l) supply to use in staking. Deployed BandOracleReader [contract](https://explorer.harmony.one/address/one1dj60qgw3v0fcwehfq56tyxn3kgy9kcdg25nfuy?tab=txs&shard=0) with ONE token price.
