@@ -1,3 +1,5 @@
+2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
+
 2024-06-25 Wed: Worked on debugging and configuring options for the various option creation.
 
 2024-06-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the CLI to properly interact with smart contracts. CLI now properly creating liquidity pools for both Uniswap V3 and Panoptics.
