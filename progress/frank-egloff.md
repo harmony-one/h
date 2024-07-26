@@ -1,3 +1,5 @@
+2024-07-25 Thu: I am working on a mock call of the Withdraw feature due to its use of the Vertex SDK and query endpoint to handle the call. I also talked to Aaron and started to work on deploying the Vertex Token on the Harmony testnet chain. Finally, I am investigating a way to work with mock graphs instead of using TradingView Advance and free versions. 
+
 2024-07-24 Wed: Talked to Aaron about the Vertex Trading App and listed the components required to have minimal functionalities. Also, worked on fixing the mock data handling on the withdraw feature, which is disabling the feature.
 
 2024-07-23 Tue: Fixed [formatTimestamp](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) method issues with Harmony mock data. Added spot property to harmonyClient to handle spot engine mock calls and added a method to retrieve the maximum withdrawable amount per token. Kept working on the withdrawal feature.
