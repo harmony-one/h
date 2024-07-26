@@ -1,3 +1,11 @@
+2024-07-26
+
+I worked on the BEP2 ONE sunset, investigating the sunset procedure, tech documentation, and researching/coordinating the different accounts related to it. This effort led to the recovery of 50 BNB (equivalent to $30,000) back to the Harmony treasury. However, I have yet to find a solution for users who still have ONE on the BEP2 network. I am actively working with management and exchanges to determine the best course of action for these users.
+
+Additionally, I assisted three community members with staking issues, supported two community node operators, and helped one exchange partner with their node operation. We also made a significant breakthrough with the mainnet bootnode issue. Thanks to Gheis' latest PR 4717, the bootnode service was successfully installed on two of the four mainnet bootnodes, resulting in improved stability.
+
+---
+
 2024-07-19 Fri:
 
 This week has been focused on troubleshooting, support, and addressing critical issues. I continued troubleshooting the Sushi revert issue, which could only be replicated under the exact conditions experienced by the Sushi team. During testing, I used `eth_call` with `gasPrice` while calling `totalSupply` on the WONE contract without any issues. Additionally, I provided support for Blockscout users who reported several issues: the search bar couldn't find addresses that had never been used on-chain, account and block information used by other dashboards contained a "#" that prevented direct access, and staking data were no longer available. For the staking data issue, I suggested linking to the staking dashboard showing the portfolio page which is currently pending implementation.
