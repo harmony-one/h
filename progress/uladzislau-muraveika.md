@@ -1,9 +1,19 @@
+**2024-07-26: Weekly update**
+
+On the infra side, I rolled out automated, tested rate-limits solution and applied it to devnet - which has whitelisting functionality based on IPv4 CIDR masks, log rate-limited users in a separate log, have a dashboard with a current state of Nginx. We already have excessive rate-limited users in the devnet. Next steps will be to collect our partner IPv4s, whitelist them and only apply this solution to testnet and mainnet.
+
+On the protocol side, I've fixed release CI to have same code version as we have run in CI, previously it was hardcoded `main` branch. Advantage will be the great user experience from our docker image users. [Details](https://github.com/harmony-one/harmony/pull/4716)
+
+Also I've helped Konstantin with the harmony/bootnode golang 1.21 node testing. After several initial testing round node was stabilized. Also We've tested all 6 possible computability cases - (old 1.19 /new 1.21 harmony node vs old 1.19 /new 1.21 bootnode) and of them were passed in the devnet. Waiting for the full devnet/testnet testing, but, probably, 1.21 version will be the following after HIP32 release.
+
+---
+
 **2024-07-19: Weekly update**
 
 My current week focus was the fixes for ongoing issues and small improvements.
 
 There were several topics from the infrastructure side.
-Automatic SSL renewal on our internal Grafana, benefit - we wouldn't be doing it manually. Removal of old in-house Explorer infra, benefit - illuminate double spending on infra costs.
+Automatic SSL renewal on our internal Grafana, benefit - we wouldn't be doing it manually. Removal of old in-house Explorer infra, benefit - eliminate double spending on infra costs.
 I've also applied rate limits on the devnet and load tested how nginx will work under the load, advantage - mitigate load spikes on the RPC endpoints.
 And one item, after complaints from on-call engineers, I've added a separate disk usage alarm with a higher threshold for our archival and snapshot nodes, this reduced our monitoring noise.
 On the protocol side, I've helped Konstantin with the rollout of the golang 1.21 node to the devnet. It will help us to understand network behavior after the golang and libp2p update.
