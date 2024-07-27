@@ -1,3 +1,5 @@
+2024-06-27 Fri: CLI now accepting user inputs for the option creation (ETA 06/31 Wed).
+
 2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
 
 2024-06-25 Wed: Worked on debugging and configuring options for the various option creation.
