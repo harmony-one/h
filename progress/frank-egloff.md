@@ -1,4 +1,6 @@
-2024-07-25 Thu: I am working on a mock call of the Withdraw feature due to its use of the Vertex SDK and query endpoint to handle the call. I also talked to Aaron and started to work on deploying the Vertex Token on the Harmony testnet chain. Finally, I am investigating a way to work with mock graphs instead of using TradingView Advance and free versions. 
+2024-07-26 Fri: Finished the [withdraw mock call](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) on the Vertex Trade Client. Also added the [VertexToken contract](https://github.com/fegloff/vertex-contracts/pull/1) to the Vertex Contracts repo and the logic to deploy it through a Proxy. Updated the deploy and initializer scripts. Finally, Kept working on using mock graphs instead of the TradingView library.
+
+2024-07-25 Thu: Working on a mock call of the Withdraw feature due to its use of the Vertex SDK and query endpoint to handle the call. Also talked to Aaron and started to work on deploying the Vertex Token on the Harmony testnet chain. Finally, investigating a way to work with mock graphs instead of using TradingView Advance and free versions. 
 
 2024-07-24 Wed: Talked to Aaron about the Vertex Trading App and listed the components required to have minimal functionalities. Also, worked on fixing the mock data handling on the withdraw feature, which is disabling the feature.
 
