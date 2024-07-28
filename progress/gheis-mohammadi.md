@@ -1,3 +1,14 @@
+**2024-07-27 Sat:**
+My primary focus this week was to find a final solution to stabilize the boot nodes and fix the crashes on mainnet. While the issues were fixed on devnet, mainnet still had its own instabilities. The investigation led to the following PR: [harmony-one/harmony#4717](https://github.com/harmony-one/harmony/pull/4717).
+
+This PR updates the p2p host configuration to maintain the same values as the current mainnet setup. It ensures that both muxers are supported, making the host fully backward-compatible. The primary goal of this PR is to address mainnet boot node crashes caused by the old muxer and security configurations.
+
+The PR was deployed on two boot nodes on mainnet and showed promising results. The boot nodes have been stable for a few days, indicating that the PR has likely fixed the connectivity issues. Consequently, the team merged it into the `main_hotfix` branch.
+
+My next focus is on improving visibility into boot nodes' performance and connections. Currently, boot nodes do not execute any RPCs and do not expose connection data to monitoring. I am working on adding an RPC server to them, which requires many code additions and tests. I will continue working on this next week as well.
+
+---
+
 **2024-07-20 Sat:**
 Last week, I investigated the `eth_call` issue and reviewed my findings with Soph. We discovered that a client specific contract was causing the issue. Additionally, we identified the need to upgrade certain functions in the EVM to enhance compatibility and reduce issues with newer versions of smart contracts.
 
