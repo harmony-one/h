@@ -1,3 +1,11 @@
+2024-07-26 Fri:
+- Fixed issue with zero division
+- Tested new golang version and the latest go-lib-p2p version on devnet in different combinations with bootnode. 
+- Found and fixed issue with security incompatibility.
+- Found and fixed issue with multiplexer incompatibility.
+- Tested new code in testnet environment, it was successful.
+- Tested mainnet compatibility, contains differences in security parameter. Will continue on Monday.  
+
 2024-07-19 Fri:
 - Updated golang version to 1.21 version, it passed all tests, total progress 100%. 
 - Investigated and fixed issue with different hashes for the same genesis block. Go@1.21 provides different dots on the curve for the same input, so i hardcoded exact dots.
