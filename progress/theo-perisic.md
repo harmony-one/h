@@ -1,3 +1,5 @@
+2024-07-26 Fri: Review of gmx progress and sync with Yuriy. [Dex screener listing form](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) for Swap, waiting on Protofire for missing information.
+
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
 
 2024-07-12 Fri: Continuation of [Harmony DeFi document](https://www.notion.so/harmonyone/Harmony-DeFi-1c2e88b425ea48088613c84bf49cd2de) pushing Harmony to evolve from forking primitives to becoming the industry leader in DeFi.
