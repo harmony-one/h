@@ -19,3 +19,5 @@ I added Foundry scripts to Euler V1 for activating USDC and WETH markets. I rede
 2024-07-25 Thu: I created and tested a CLI script for opening a position in Opyn Squeeth. Additionally, I pushed work in progress repositories for [panoptic](https://github.com/0x73696d616f/panoptic-v1-core), [squeeth](https://github.com/0x73696d616f/squeeth-monorepo), [euler](https://github.com/0x73696d616f/euler-contracts) and helpers uniswap deployer [deploy-v3](https://github.com/0x73696d616f/deploy-v3), [canonical-weth](https://github.com/0x73696d616f/canonical-weth).
 
 2024-07-26 Thu: I created and tested a CLI script for liquidating a position in Opyn Squeeth.
+
+2024-07-29 Mon: I created and tested withdraw, deposit, and burn CLI scripts for Opyn Squeeth. I cleaned up the Opyn Squeeth repo and Euler V1 [repo](https://github.com/0x73696d616f/euler-contracts/commit/98ae2ae4346f94777ea7cab9a790d5db4516fc5a).
