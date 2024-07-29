@@ -1,4 +1,8 @@
-2024-07-26 Fri: created new Synthetix deployment on Harmony with increased SNX supply (100 mil tokens) for testing purposes, updated contract addresses in client, deployed [client](https://harmony-synthetix.netlify.app/) update. Had a great progress, because finally I was able to borron sUSD token in exchange for SNX. The only thing is missing is oracles data for SNX token: it's not available in BAND oracles. currently I'm using BTC price for testing.
+2024-07-29 Mon: [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/a5d1c2957538ec2a4fbc3ad75de25e6b139879e0) Burn transaction call in Synthetix client; fixed Explorer links, deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app/). Checking Synthetix [litepaper](https://developer.synthetix.io/litepaper/).
+
+---
+
+2024-07-26 Fri: created new Synthetix deployment on Harmony with increased SNX supply (100 mil tokens) for testing purposes, updated contract addresses in client, deployed [client](https://harmony-synthetix.netlify.app/) update. Had a great progress, because finally I was able to borrow sUSD token for SNX. The only missing thing is oracles data for SNX token: it's not available in BAND oracles. currently I'm using BTC price for testing.
 
 2024-07-25 Thu: investigated and [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/36369d88664f857eaf3442dbbccee14c55d6c79a) error in Mint operation in Synthetix client. Deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app). Working on new contracts deployment with increased SNX supply.
 
