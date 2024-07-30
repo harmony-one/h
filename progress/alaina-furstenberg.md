@@ -1,10 +1,10 @@
-2024-07-29 Mon: Promotion of Memlayer Hackathon Award
+2024-07-29 Mon: [Promotion](https://x.com/harmonyprotocol/status/1818054854046269807) of Memlayer Hackathon Award. Synthetix Testing insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). 
 
 ---
 
-2024-07-28 Sun:
+2024-07-28 Sun [1.0 hrs]: GMX Testing continued and Memlayer early access form.
 
-2024-07-27 Sat:
+2024-07-27 Sat [1.0 hrs]: GMX Testing, insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4).
 
 2024-07-26 Fri: [Promotion](https://x.com/harmonyprotocol/status/1816936280737137058) and management of b.country event. [Thread](https://x.com/harmonyprotocol/status/1816961022370160905) of harmony community highlights. Syncing with Artem to test Synthetix v2.
 
