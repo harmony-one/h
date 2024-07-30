@@ -1,3 +1,6 @@
+2024-07-29 Mon: Checked issues with 1.country site and payment database connection issues on Harmony1Bot. Also worked on the Vertex Trade App mocking TradingView components.
+
+---
 2024-07-26 Fri: Finished the [withdraw mock call](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) on the Vertex Trade Client. Also added the [VertexToken contract](https://github.com/fegloff/vertex-contracts/pull/1) to the Vertex Contracts repo and the logic to deploy it through a Proxy. Updated the deploy and initializer scripts. Finally, Kept working on using mock graphs instead of the TradingView library.
 
 2024-07-25 Thu: Working on a mock call of the Withdraw feature due to its use of the Vertex SDK and query endpoint to handle the call. Also talked to Aaron and started to work on deploying the Vertex Token on the Harmony testnet chain. Finally, investigating a way to work with mock graphs instead of using TradingView Advance and free versions. 
