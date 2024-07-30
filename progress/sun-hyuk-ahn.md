@@ -1,3 +1,7 @@
+2024-06-29 Mon: Continued development for option creation. Noticed an increase in gas when using the CLI rather than the script. Attempting to decrease optimize the gas usage.
+
+---
+
 2024-06-27 Fri: CLI now accepting user inputs for the option creation (ETA 06/31 Wed).
 
 2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
