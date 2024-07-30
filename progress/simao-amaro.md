@@ -2,6 +2,8 @@
 
 2024-07-29 Mon: I created and tested withdraw, deposit, and burn command line interface (CLI) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/cli/Makefile) for Opyn Squeeth. I cleaned up the Opyn Squeeth repository and Euler V1 [repository](https://github.com/0x73696d616f/euler-contracts/commit/98ae2ae4346f94777ea7cab9a790d5db4516fc5a).
 
+---
+
 2024-07-26 Fri: I created and tested a command line interface (CLI) script for liquidating a position in Opyn Squeeth.
 
 2024-07-25 Thu: I created and tested a command line interface (CLI) script for opening a position in Opyn Squeeth. Additionally, I pushed work in progress repositories for [panoptic](https://github.com/0x73696d616f/panoptic-v1-core), [squeeth](https://github.com/0x73696d616f/squeeth-monorepo), [euler](https://github.com/0x73696d616f/euler-contracts) and helpers uniswap deployer [deploy-v3](https://github.com/0x73696d616f/deploy-v3), [canonical-weth](https://github.com/0x73696d616f/canonical-weth).
@@ -11,6 +13,8 @@
 2024-07-23 Tue: I tested Panoptic core contracts on a forked mainnet. I started creating command line interface (CLI) scripts for interacting with the Panoptic contracts.
 
 2024-07-22 Mon: I tested Panoptic core contracts on the testnet. They failed due to dependencies on existing Uniswap pools, which required mocking them.
+
+---
 
 2024-07-12 Fri: I tested the Zen Bull Strategy and Zen Bull Netting contracts on the testnet.
 
