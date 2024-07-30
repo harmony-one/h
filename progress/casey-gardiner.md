@@ -1,3 +1,29 @@
+### Weekly Progress Update: 2024-07-30
+
+#### HIP-30 Development
+
+- **HIP-30 Progress:**
+  - Continued work on HIP-30, including forking code changes and various testing improvements.
+  - Focused on broadcasting vote power and P2P host configurations.
+
+#### Code Review and Testing
+
+- **Golang Upgrade:**
+  - Tested and reviewed code changes for the upgrade to Golang 1.22.
+
+- **MaxRate Issue:**
+  - Completed a post-bug report on the latest MaxRate issue. The full report can be found [here](https://talk.harmony.one/t/harmony-protocol-bug-report-hard-fork-v2024-1-0/24761/4).
+
+- **Zero Division Panic Fix:**
+  - Reviewed and tested the fix for the zero division panic issue (#4720). The details can be found [here](https://github.com/harmony-one/harmony/pull/4720).
+
+#### Upcoming On-Call Responsibilities
+
+- **On-Call Duties:**
+  - Will be on-call next week, handling all DevOps operations during the US timezone.
+
+This week focused on advancing HIP-30, upgrading to Golang 1.22, addressing recent issues, and preparing for on-call responsibilities next week.
+___
 ### Weekly Progress Update: 2024-07-16
 
 #### Conference Success and Networking
