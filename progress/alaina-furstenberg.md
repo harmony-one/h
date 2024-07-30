@@ -1,3 +1,11 @@
+2024-07-29 Mon: Promotion of Memlayer Hackathon Award
+
+---
+
+2024-07-28 Sun:
+
+2024-07-27 Sat:
+
 2024-07-26 Fri: [Promotion](https://x.com/harmonyprotocol/status/1816936280737137058) and management of b.country event. [Thread](https://x.com/harmonyprotocol/status/1816961022370160905) of harmony community highlights. Syncing with Artem to test Synthetix v2.
 
 2024-07-25 Thu: [Thread](https://x.com/harmonyprotocol/status/1816527987468284179) on harmony.one/btc. Uploading and sharing of [Core Protocol Sync](https://youtu.be/aFMf5HRp7-Q?si=HrjV8iO8GEpoUJ9Z). Noticed our navigation across bridge, swap, lend, and gx.country is varied... rewriting to standardize our navigation across Harmony platforms and syncing with Yuriy to implement.
