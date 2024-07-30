@@ -1,3 +1,7 @@
+2024-07-29 Mon: Sync with Pablo for Harmony DeFi and gmx fork. Reached out to [Staking Rewards](https://www.stakingrewards.com/) team for Harmony listing. Finalized DEX Screener [listing submission](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) with Protofire information. 
+
+---
+
 2024-07-26 Fri: Review of gmx progress and sync with Yuriy. [Dex screener listing form](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) for Swap, waiting on Protofire for missing information.
 
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
