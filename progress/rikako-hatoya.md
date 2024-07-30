@@ -1,3 +1,5 @@
+2024-07-29 Mon: Continued looking through the links on finance for dependent type security, languages & formalism. Further continued testing gmx-interface and looking into gmx-synthetics.
+
 2024-07-28 Sun (1.5h): Looked into [b.country](https://stse.substack.com/p/bitcoin-futures-and-options-on-harmony) and [Chaos Summer](https://stse.substack.com/p/invincible-summer-fight-to-recovery). Also looked into [strong proofs for secure finance](https://stse.substack.com/p/dependent-types-as-strong-proofs), reading into links on formal security, dependent-type security and OTPs.
 
 2024-07-27 (1.5h) Sat: continued looking through gmx contracts for rewards and leaderboard. Continued testing ux and seeing features for improvement.
