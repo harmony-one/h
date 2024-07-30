@@ -1,4 +1,4 @@
-2024-07-29 Mon: [Promotion](https://x.com/harmonyprotocol/status/1818054854046269807) of Memlayer Hackathon Award. Synthetix Testing insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). 
+2024-07-29 Mon: [Promotion](https://x.com/harmonyprotocol/status/1818054854046269807) of Memlayer Hackathon Award. Synthetix Testing insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). Call with Band Protocol to connect on marketing campaigns, call notes [here]().
 
 ---
 
