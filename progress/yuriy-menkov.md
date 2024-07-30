@@ -1,3 +1,9 @@
+2024-07-30 Tue: [Integrated](https://github.com/harmony-one/gmx-interface/commit/eec8abaa5e9485af794690b36891e86d531a1353) dashboard page to gmx interface. Got feedback on the [security audit](https://docs.google.com/document/d/1N6vLiH4Z691rMn62uZSaUCj5l2jXgJdDmz_ZYCeeCMM/edit?usp=sharing) from Aaron - researching the highlighted points and generate a report on the necessary list of services to eliminate potential vulnerabilities. 
+
+2024-07-29 Mon: Connected a band oracle [contract](https://github.com/ArtemKolodko/synthetix/pull/3/files) with a chainlink interface as first price feed (for now only for WBTC). Tested the price update. Fixed gmx interface ui issues.
+
+---
+
 2024-07-26 Fri: Created a [document](https://docs.google.com/document/d/1N6vLiH4Z691rMn62uZSaUCj5l2jXgJdDmz_ZYCeeCMM/edit?usp=sharing) to discuss security audit. Added more information about using keepers and price oracles. Continue the security audit with Aaron. Working on the integration [BandOracleReader](https://github.com/ArtemKolodko/synthetix/pull/3/files) (from Aaron) as priceFeed for gmx Vault. it looks like we will be able to use the same oracles for gmx and synthetix, which is much more convenient and safer.
 
 2024-07-25 Thu: Fixed a problem with displaying charts: [added](https://github.com/harmony-one/gmx-subgraph/commit/a31cbb6f1b03c05556da9c1256da085abd1f8ce8) gmx-h-prices subgraph, [updated](https://github.com/harmony-one/gmx-stats/commit/78451b479b7bf1f79706893ad40626e9f6e3d749) gmx-stats service. [Reviewed](https://github.com/harmony-one/gmx-interface/pull/7) and merged Rikako's interface updates. Received the first feedback on the security audit from Aaron - he highlighted the main vulnerabilities associated with the work of keepers. I will prepare additional documentation describing the work of these services and related contracts.
