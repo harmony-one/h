@@ -1,3 +1,5 @@
+2024-07-30 Tue: Updated trading charts hooks and other files to use mock types, turning off the use of TradingView Advance libraries (85% progress). Talked to Soph regarding 1bot payments database issues throwing the Connection terminated unexpectedly error. The database zombie machine is down, and we need to back up the databases before creating a new zombie machine that will complete the architecture (primary, replica, and zombie). Tomorrow, the backup will take place.
+
 2024-07-29 Mon: Checked issues with 1.country site and payment database connection issues on Harmony1Bot. Also worked on the Vertex Trade App mocking TradingView components.
 
 ---
