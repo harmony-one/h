@@ -1,3 +1,10 @@
+I wanted to take a moment to express my sincere gratitude for the opportunity to work with Harmony. For almost 2 years, I have had the privilege of collaborating with an incredibly talented and dedicated team. The experiences and knowledge I have gained during my time here have been invaluable.
+
+I am proud of the work we have accomplished together, particularly our recent advancements with HIP-30 and the successful resolution of several critical issues. The support and camaraderie I have experienced at Harmony have been truly remarkable. I am grateful for the friendships and professional relationships I have built with both the remote team and the SF team.
+
+While I am saddened to leave, I am optimistic about the future and excited about the new opportunities that lie ahead. I will always cherish my time at Harmony and look forward to seeing the team and project continue to succeed.
+
+___
 ### Weekly Progress Update: 2024-07-30
 
 #### HIP-30 Development
