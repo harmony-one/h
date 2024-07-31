@@ -1,3 +1,5 @@
+2024-07-30 Tue: Conducted research on Mode Network (livespace, ModeMax, posts on blog: mode.mirror.xyz, X, discord). Looked into Harmony GMX Security audit and Yuriy's priceFeed update using band oracle integration.
+
 2024-07-29 Mon: Continued looking through the links on finance for dependent type security, languages & formalism. Further continued testing gmx-interface and looking into gmx-synthetics.
 
 ---
