@@ -1,3 +1,5 @@
+2024-07-30 Wed: Worked on adding a new watcher service for price feed keeper - which should monitor the state of the price in contracts and [disable](https://github.com/harmony-one/h-gmx-contracts/blob/master/contracts/oracle/FastPriceFeed.sol#%20L287) receiving prices from second price keeper if it becomes incorrect (In accordance with the security requirements of secondPriceFeed developers and security audit from Aaron).
+
 2024-07-30 Tue: [Integrated](https://github.com/harmony-one/gmx-interface/commit/eec8abaa5e9485af794690b36891e86d531a1353) dashboard page to gmx interface. Got feedback on the [security audit](https://docs.google.com/document/d/1N6vLiH4Z691rMn62uZSaUCj5l2jXgJdDmz_ZYCeeCMM/edit?usp=sharing) from Aaron - researching the highlighted points and generate a report on the necessary list of services to eliminate potential vulnerabilities. 
 
 2024-07-29 Mon: Connected a band oracle [contract](https://github.com/ArtemKolodko/synthetix/pull/3/files) with a chainlink interface as first price feed (for now only for WBTC). Tested the price update. Fixed gmx interface ui issues.
