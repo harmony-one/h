@@ -4,11 +4,11 @@
 
 2024-07-28 Sun (1.5h): Looked into [b.country](https://stse.substack.com/p/bitcoin-futures-and-options-on-harmony) and [Chaos Summer](https://stse.substack.com/p/invincible-summer-fight-to-recovery). Also looked into [strong proofs for secure finance](https://stse.substack.com/p/dependent-types-as-strong-proofs), reading into links on formal security, dependent-type security and OTPs.
 
-2024-07-27 (1.5h) Sat: continued looking through gmx contracts for rewards and leaderboard. Continued testing ux and seeing features for improvement.
+2024-07-27 Sat (1.5h): Continued looking through gmx contracts for rewards and leaderboard. Continued testing ux and seeing features for improvement.
 
 2024-07-26 Fri: Reading through [GMX v1 docs](https://docs.gmx.io/docs/trading/v1) to get insight on topics/organization of documentation, brainstorming ideas on how to write on our version. Further looking into the rest of the features not yet replicated in our fork: understanding how rewards/incentives work by reading through contracts, looking through community projects on ecosystem (Copin, Blueberry, etc.)
 
-2024-07-25 Thu: Synced with Li, and kept further working on GMX. Tried interface with new price keeper/contracts update, tested current UX of gx.country to observe notable bugs/modifications, created a [Gitbook](https://harmony-5.gitbook.io/harmony-gmx-docs) to start writing Harmony's version of GMX docs.
+2024-07-25 Thu: Kept further working on GMX: Tried interface with new price keeper/contracts update, tested current UX of gx.country to observe notable bugs/modifications. Created a [Gitbook](https://harmony-5.gitbook.io/harmony-gmx-docs) to start writing Harmony's version of GMX docs.
 
 2024-07-24 Wed: [Updated](https://github.com/harmony-one/gmx-interface/pull/7) UI (fixed links, modified navigation header, modified GLP to GXP) for gmx-interface. Deployed new contracts with [h-gmx-contracts](https://github.com/harmony-one/h-gmx-contracts), updated [interface](https://github.com/rika97/gmx-interface-replica/pull/1) and [price-keepers](https://github.com/rika97/gmx-price-keeper/pull/1) with new addresses.
 
