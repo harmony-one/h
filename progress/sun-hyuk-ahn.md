@@ -1,10 +1,10 @@
-2024-06-30 Tue: Continued to work on the gas estimation when sending transactions. The method for retrieving gas estimation called from `geth` seems to not be compatible for Harmony (worked for other networks `Sepolia`). Currently using an arbitrary value for gas estimation but will attempt to solve this tomorrow. 
+2024-06-30 Tue: Continued to work on the gas estimation when sending transactions. The method for retrieving gas estimation called from `geth` seems to not be compatible for Harmony (worked for other networks for different chains). Currently using an arbitrary value for gas estimation but will attempt to solve this tomorrow. 
 
 2024-06-29 Mon: Continued development for option creation. Noticed an increase in gas when using the CLI rather than the script. Attempting to decrease optimize the gas usage.
 
 ---
 
-2024-06-27 Fri: CLI now accepting user inputs for the option creation (ETA 06/31 Wed).
+2024-06-27 Fri: CLI now accepting user inputs for the option creation (ETA 07/01 Thu).
 
 2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
 
