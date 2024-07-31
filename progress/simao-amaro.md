@@ -1,3 +1,5 @@
+2024-07-31 Wed: I started writing [guide.md](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/guide.md) for executing profitable trades on Opyn Squeeth.
+
 2024-07-30 Tue: I deployed and tested Opyn Squeeth core contracts and strategies to mainnet. I improved the folder structure, [Core](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/hardhat/Makefile), [Zen-Bull-Vault](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/zen-bull-vault/Makefile) and [Zen-Bull-Netting](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/zen-bull-netting/Makefile) Makefiles, deployment scripts, and [notes](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/notes.md).
 
 2024-07-29 Mon: I created and tested withdraw, deposit, and burn command line interface (CLI) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/cli/Makefile) for Opyn Squeeth. I cleaned up the Opyn Squeeth repository and Euler V1 [repository](https://github.com/0x73696d616f/euler-contracts/commit/98ae2ae4346f94777ea7cab9a790d5db4516fc5a).
