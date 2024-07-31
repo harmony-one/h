@@ -1,3 +1,5 @@
+2024-07-31 Wed: replaces all Synthetix to SY in the client; added Harmony logo to the network select. Deployed client update: [https://sy.country/](https://sy.country/).
+
 2024-07-30 Tue: [updated](https://github.com/ArtemKolodko/synthetix/blob/0d9262e1af01a9fb0cecd6ab6ae836209006d5be/v2-harmony-deployment.md) complete guide how to deploy Synthetix on Harmony and run client. Helped Aaron with DNS records for sy.country domain. Testing Synthetix [client](https://harmony-synthetix.netlify.app/).
 
 2024-07-29 Mon: [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/a5d1c2957538ec2a4fbc3ad75de25e6b139879e0) Burn transaction call in Synthetix client; fixed Explorer links, deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app/). Checking Synthetix [litepaper](https://developer.synthetix.io/litepaper/).
