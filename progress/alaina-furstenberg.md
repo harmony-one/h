@@ -1,3 +1,5 @@
+2024-07-31 Wed: Brainstorming of marketing concepts for #cryptoisboring campaign with brand protocol, ideas listed [here](https://www.notion.so/harmonyone/band-protocol-x-harmony-call-832b2e0c929141048466ebb7f4155dd2?pvs=4). [Thread](https://x.com/harmonyprotocol/status/1818819563238441246) about harmony.one/btc. Synthetix testing, insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). 
+
 2024-07-30 Tue: Call with Band Protocol to connect on marketing campaigns, call notes [here](https://www.notion.so/harmonyone/band-protocol-x-harmony-call-832b2e0c929141048466ebb7f4155dd2?pvs=4). [Thread](https://x.com/harmonyprotocol/status/1818423957076480326) on team's /progress. Synthetix Testing insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). 
 
 2024-07-29 Mon: [Promotion](https://x.com/harmonyprotocol/status/1818054854046269807) of Memlayer Hackathon Award. Synthetix Testing insights [here](https://www.notion.so/harmonyone/gmx-testing-bb4ae9ea85f84c3983403d69c593c36a?pvs=4). 
