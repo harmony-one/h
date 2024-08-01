@@ -1,16 +1,16 @@
 2024-06-30 Tue: Continued to work on the gas estimation when sending transactions. The method for retrieving gas estimation called from `geth` seems to not be compatible for Harmony (worked for other networks for different chains). Currently using an arbitrary value for gas estimation but will attempt to solve this tomorrow. 
 
-2024-06-29 Mon: Continued development for option creation. Noticed an increase in gas when using the CLI rather than the script. Attempting to decrease optimize the gas usage.
+2024-06-29 Mon: Continued development for option creation. Noticed an increase in gas when using the command line interface rather than the script. Attempting to decrease optimize the gas usage.
 
 ---
 
-2024-06-27 Fri: CLI now accepting user inputs for the option creation (ETA 07/01 Thu).
+2024-06-27 Fri: command line interface now accepting user inputs for the option creation (ETA 07/01 Thu).
 
 2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
 
 2024-06-25 Wed: Worked on debugging and configuring options for the various option creation.
 
-2024-06-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the CLI to properly interact with smart contracts. CLI now properly creating liquidity pools for both Uniswap V3 and Panoptics.
+2024-06-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the command line interface to properly interact with smart contracts. command line interface now properly creating liquidity pools for both Uniswap V3 and Panoptics.
 
 2024-06-23 Mon: Fixed the bug and now able to create options repeatedly. Encountered several bugs (UniswapV3 interaction when creating a pool, option creation) and began to debug them.
 
@@ -18,13 +18,13 @@
 
 2024-06-21 Sat: Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
 
-2024-06-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using CLI. Development on transferring and burning options.
+2024-06-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using command line interface. Development on transferring and burning options.
 
 2024-06-19 Thu: Continuing the minting options development. Noticing a problem where it makes users hard to visualize the price points without a visual graph.
 
 2024-06-18 Wed: Continued working on the mint functionality. Attempting to simplify the process of minting various options.
 
-2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the CLI functionality to mint options.
+2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the command line interface functionality to mint options.
 
 2024-06-16 Mon: Completed the fix and made a fork. Deployed the smart contracts.
 
@@ -44,7 +44,7 @@
 
 ---
 
-2024-07-07 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - CLI implementation would be to create a simple built-in server that serves an empty-looking web page, which the CLI program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the CLI program to proceed with the next step.
+2024-07-07 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - command line interface implementation would be to create a simple built-in server that serves an empty-looking web page, which the command line interface program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the command line interface program to proceed with the next step.
 
 2024-07-06 Sat: Continued updating the scripts and asking peers for the script optimization.
 
@@ -171,7 +171,7 @@ Deploy a rollup on shard 1 that utilizes Celestia for data availability. Specifi
 
 **2024 Q1 Review (62 hours)**
 
-I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use CLI in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
+I implemented a minimal on chain flip service that handled cross chain asset bridging. The services has handled around ~300 transactions for Base and BSC combined. I've also implemented BTC-EVM wallet which allows for users to use command line interface in order to manage accounts in both Bitcoin and EVM based chains derived from the same keypair.
 
 Prototyped human protocol using various tools and frameworks, and eventually implemented the Firestore based h.country. Specifically implemented keypair management, path commands using "/", as well as OAuth flow. At ETH Denver, introduced the application to ~30 users. Recently, I have deployed the Polaris EVM execution layer on Rollkit, a Cosmos SDK fork, and worked with Yuriy in launching Op Stack based, smart contract rollup on Celestia.
 
@@ -305,13 +305,13 @@ Note that these are brief layout of the specification after the initial research
 
 2024-02-03 Sat (4.0h): Researched into ElastiCache Redis. Configured the initial settings for ElastiCache and implemented Typescript interaction with ElastiCache. (2 hours)
 
-2024-02-02 Fri: Implemented BTC CLI wallet. Discussed new initiative. Benchmarked Redis performance.
+2024-02-02 Fri: Implemented BTC command line interface wallet. Discussed new initiative. Benchmarked Redis performance.
 
 2024-02-01 Thu: Fixed q.country lottery endpoints to reflect Telegram entries. Dived into certificate renewals for dotcountry. Attended Sui event and showcased Flip and BTC wallet.
 
 2024-01-31 Wed: Implemented Telegram embeds for 02/01 lottery. Manually implemented cross shard transactions for Flip (had to find a workaround as all the libraries were outdated).
 
-2024-01-30 Tue: Updated 1.country frontend client to host Notion and Substack embed on inscription. Notion is working as expected but have to find a fix for Substack.
+2024-01-30 Tue: Updated 1.country frontend command line interfaceent to host Notion and Substack embed on inscription. Notion is working as expected but have to find a fix for Substack.
 
 2024-01-29 Mon: Launched 01/30 Lottery. Implemented dotcountry redirect logic.
 
@@ -434,9 +434,9 @@ Note that these are brief layout of the specification after the initial research
 
 2023-11-27 Wed: Fixed Network manager handling bug. Refactor and cleanup in app purchase process. In app purchase server side bug fix (hand off to Artem).
 
-2023-11-26 Tue: Benchmarked latencies for head vs subsequent, which came out to 1.6s vs 1.3s (1hr session). The cause is due to the initial setup on the client (audio buffers and sockets) and server-side (authorization). Fixed expiration update [bug](https://github.com/harmony-one/x/commit/51c175aaa66b0e460e555d39972b74db1254732a).
+2023-11-26 Tue: Benchmarked latencies for head vs subsequent, which came out to 1.6s vs 1.3s (1hr session). The cause is due to the initial setup on the command line interfaceent (audio buffers and sockets) and server-side (authorization). Fixed expiration update [bug](https://github.com/harmony-one/x/commit/51c175aaa66b0e460e555d39972b74db1254732a).
 
-2023-11-25 Mon: Fixed color switch bug on a new context. Implemented perceived latency on the client side. Measured latency to be an average of 1.4 seconds. Testing different chunking sizes to improve latency. 
+2023-11-25 Mon: Fixed color switch bug on a new context. Implemented perceived latency on the command line interfaceent side. Measured latency to be an average of 1.4 seconds. Testing different chunking sizes to improve latency. 
 
 ---
 
