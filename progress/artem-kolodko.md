@@ -1,3 +1,5 @@
+2024-08-01 Thu: created a bot [band-oracle-updater](https://github.com/ArtemKolodko/band-oracle-updater) that trigger [BandOracleReader](https://github.com/ArtemKolodko/band-oracle-reader) contract update. Bot will be used in Synthetix and GMX release as part of the oracles system.
+
 2024-07-31 Wed: replaced all Synthetix to SY in the client; added Harmony logo to the network select. Deployed client update: [https://sy.country/](https://sy.country/).
 
 2024-07-30 Tue: [updated](https://github.com/ArtemKolodko/synthetix/blob/0d9262e1af01a9fb0cecd6ab6ae836209006d5be/v2-harmony-deployment.md) complete guide how to deploy Synthetix on Harmony and run client. Helped Aaron with DNS records for sy.country domain. Testing Synthetix [client](https://harmony-synthetix.netlify.app/).
