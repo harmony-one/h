@@ -1,3 +1,5 @@
+2024-08-01 Thu: I continued enhancing [opyn-squeeth-trading.md](https://github.com/harmony-one/h/blob/main/docs/opyn-squeeth-trading.md) (previously [guide.md](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/guide.md)) for executing profitable trades on Opyn Squeeth. I worked on manipulating the oracle price to test the trading strategies.
+
 2024-07-31 Wed: I started writing [guide.md](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/guide.md) for executing profitable trades on Opyn Squeeth.
 
 2024-07-30 Tue: I deployed and tested Opyn Squeeth core contracts and strategies to mainnet. I improved the folder structure, [Core](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/hardhat/Makefile), [Zen-Bull-Vault](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/zen-bull-vault/Makefile) and [Zen-Bull-Netting](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/packages/zen-bull-netting/Makefile) Makefiles, deployment scripts, and [notes](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/notes.md).
