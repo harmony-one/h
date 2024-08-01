@@ -1,4 +1,10 @@
-2024-07-26
+2024-08-01 Thu:
+
+This week, I coordinated closely with Harmony management and Binance to facilitate the reopening of BEP2 ONE deposit, ensuring that users who were previously stuck could regain access to their assets. Additionally, I assisted Frank with the restoration of the Harmony ONE bot's PostgreSQL database cluster, ensuring the system's functionality was restored. I also completed the offboarding process for Casey, ensuring that his access was removed from all relevant systems and platforms.
+
+---
+
+2024-07-26 Fri:
 
 I worked on the BEP2 ONE sunset, investigating the sunset procedure, tech documentation, and researching/coordinating the different accounts related to it. This effort led to the recovery of 50 BNB (equivalent to $30,000) back to the Harmony treasury. However, I have yet to find a solution for users who still have ONE on the BEP2 network. I am actively working with management and exchanges to determine the best course of action for these users.
 
