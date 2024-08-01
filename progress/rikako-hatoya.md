@@ -1,3 +1,5 @@
+2024-07-31 Wed: Started looking into Synthetix: tested stake & borrow (SNX tokens) on sy.country. Worked on replicating Harmony's synthetix: cloned [synthetix Harmony fork](https://github.com/ArtemKolodko/synthetix/tree/harmony_new_deployment) and [synthetix-js-monorepo](https://github.com/ArtemKolodko/synthetix-js-monorepo), worked on deploying contracts and BandOracleReader (reading through [Aaron's notes](https://github.com/polymorpher/synthetix-v2/blob/band-oracle/oracle-notes.md) on oracles.)
+
 2024-07-30 Tue: Conducted research on Mode Network (livespace, ModeMax, posts on blog: mode.mirror.xyz, X, discord). Looked into Harmony GMX Security audit and Yuriy's priceFeed update using band oracle integration.
 
 2024-07-29 Mon: Continued looking through the links on finance for dependent type security, languages & formalism. Further continued testing gmx-interface and looking into gmx-synthetics.
