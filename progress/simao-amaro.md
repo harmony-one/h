@@ -1,3 +1,5 @@
+2024-08-02 Fri: I worked on doing a profitable liquidation (Opyn Squeeth). The [Euler](https://github.com/harmony-one/euler-contracts) and [Opyn](https://github.com/harmony-one/squeeth-monorepo) repositories were moved from my profile to the Harmony Organization.
+
 2024-08-01 Thu: I continued enhancing [opyn-squeeth-trading.md](https://github.com/harmony-one/h/blob/main/docs/opyn-squeeth-trading.md) (previously [guide.md](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/guide.md)) for executing profitable trades on Opyn Squeeth. I worked on manipulating the oracle price to test the trading strategies.
 
 2024-07-31 Wed: I started writing [guide.md](https://github.com/0x73696d616f/squeeth-monorepo/blob/main/guide.md) for executing profitable trades on Opyn Squeeth.
