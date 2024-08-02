@@ -1,3 +1,20 @@
+2024-08-02 Fri
+- Updated golang to 1.22.
+- With Ulad tested made additional tests golang 1.22. Version 1.22 does not have incompatibility or stability issues. Results can be found https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235
+
+**Research on 1-Second Finality and Validator Rewards in Block Signing**
+
+In the context of Byzantine Fault Tolerance (BFT) protocols, achieving consensus requires collecting 67% of the votes. To optimize our protocol for validator rewards and block signing without significant changes, i have identified two potential approaches:
+
+*Reward Splitting Among Validators Who Sign the Block*:
+
+In this approach, rewards are distributed among the validators who successfully sign a block. This method encourages competition among validators, potentially increasing operational costs and leading to greater centralization within our network. Networking efficiency will become crucial, as a single high-performance server will be more profitable than multiple lower-performance servers. As a result, servers may be concentrated in the same data center to minimize latency.
+
+*Reward Splitting Independent of Block Signing*:
+Here, rewards are split among all validators regardless of whether they sign the block. This makes block signing optional for individual validators, yet incentivizes collective action, as the total reward increases when all validators sign the block as quickly as possible. This approach simplifies the reward distribution process and enhances performance.
+
+Currently, our protocol does not support identifying a block proposer. While theoretically, we could distribute rewards between the block proposer and the validators, implementing this would necessitate significant protocol modifications. These changes would include updates to block proposing, consensus mechanisms, reward calculation, crosslinks, and the introduction of a new block version.   
+
 2024-07-26 Fri:
 - Fixed issue with zero division
 - Tested new golang version and the latest go-lib-p2p version on devnet in different combinations with bootnode. 
