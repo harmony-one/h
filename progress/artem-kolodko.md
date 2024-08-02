@@ -1,3 +1,5 @@
+2024-08-02 Fri: [updated](https://github.com/ArtemKolodko/synthetix/blob/d8eeb652f434add77d8180f768f813c5a5666bf1/v2-harmony-deployment.md) Synthetix V2 deployment instructions with information about oracle feeds. Tested [band-oracle-updater](https://github.com/harmony-one/band-oracle-updater) bot locally. Continue testing [https://sy.country/](https://sy.country/) client. Scheduled call to discuss Synthetix launch with Pablo from ThreeSigma on Monday (Aug 05).
+
 2024-08-01 Thu: created a bot [band-oracle-updater](https://github.com/ArtemKolodko/band-oracle-updater) that trigger [BandOracleReader](https://github.com/ArtemKolodko/band-oracle-reader) contract update. Bot will be used in Synthetix and GMX releases as a part of the oracles system.
 
 2024-07-31 Wed: replaced all Synthetix to SY in the client; added Harmony logo to the network select. Deployed client update: [https://sy.country/](https://sy.country/).
