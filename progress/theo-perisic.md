@@ -1,3 +1,5 @@
+2024-08-01 Thu: Reviewed Token2049 events from [list](https://lu.ma/token2049) provided, sync with Alaina with findings. Insights: strong VC and developer showcases to capitalize on. Bullet points for [Harmony 2024 article](https://harmonyone.notion.site/Harmony-2024-Decentralized-Open-Source-Community-Driven-bb89f767d26d4aafa6a27ee08342688d?pvs=4) for event attendees focusing on concise points and top to bottom flow of relevant information.
+
 2024-07-29 Mon: Sync with Pablo for Harmony DeFi and gmx fork. Reached out to [Staking Rewards](https://www.stakingrewards.com/) team for Harmony listing. Finalized DEX Screener [listing submission](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) with Protofire information. 
 
 ---
