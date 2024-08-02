@@ -1,32 +1,36 @@
-2024-06-30 Tue: Continued to work on the gas estimation when sending transactions. The method for retrieving gas estimation called from `geth` seems to not be compatible for Harmony (worked for other networks for different chains). Currently using an arbitrary value for gas estimation but will attempt to solve this tomorrow. 
+2024-08-01 Thu: Testing and developing option transferring functionality.
 
-2024-06-29 Mon: Continued development for option creation. Noticed an increase in gas when using the command line interface rather than the script. Attempting to decrease optimize the gas usage.
+2024-07-31 Wed: Finalizing the command line interface gas estimation issue. Began to work on transferring options.
 
----
+2024-07-30 Tue: Continued to work on the gas estimation when sending transactions. The method for retrieving gas estimation called from `geth` seems to not be compatible for Harmony (worked for other networks for different chains). Currently using an arbitrary value for gas estimation but will attempt to solve this tomorrow. 
 
-2024-06-27 Fri: command line interface now accepting user inputs for the option creation (ETA 07/01 Thu).
-
-2024-06-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
-
-2024-06-25 Wed: Worked on debugging and configuring options for the various option creation.
-
-2024-06-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the command line interface to properly interact with smart contracts. command line interface now properly creating liquidity pools for both Uniswap V3 and Panoptics.
-
-2024-06-23 Mon: Fixed the bug and now able to create options repeatedly. Encountered several bugs (UniswapV3 interaction when creating a pool, option creation) and began to debug them.
+2024-07-29 Mon: Continued development for option creation. Noticed an increase in gas when using the command line interface rather than the script. Attempting to decrease optimize the gas usage.
 
 ---
 
-2024-06-21 Sat: Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
+2024-07-27 Fri: command line interface now accepting user inputs for the option creation (ETA 07/01 Thu).
 
-2024-06-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using command line interface. Development on transferring and burning options.
+2024-07-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
 
-2024-06-19 Thu: Continuing the minting options development. Noticing a problem where it makes users hard to visualize the price points without a visual graph.
+2024-07-25 Wed: Worked on debugging and configuring options for the various option creation.
 
-2024-06-18 Wed: Continued working on the mint functionality. Attempting to simplify the process of minting various options.
+2024-07-24 Tue: Worked on fixing the configuration for `geth`. The more recent versions support RPC methods that is called when interacting with contracts. These are not support in our network. Had to change configurations in order for the command line interface to properly interact with smart contracts. command line interface now properly creating liquidity pools for both Uniswap V3 and Panoptics.
 
-2024-06-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the command line interface functionality to mint options.
+2024-07-23 Mon: Fixed the bug and now able to create options repeatedly. Encountered several bugs (UniswapV3 interaction when creating a pool, option creation) and began to debug them.
 
-2024-06-16 Mon: Completed the fix and made a fork. Deployed the smart contracts.
+---
+
+2024-07-21 Sat: Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
+
+2024-07-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using command line interface. Development on transferring and burning options.
+
+2024-07-19 Thu: Continuing the minting options development. Noticing a problem where it makes users hard to visualize the price points without a visual graph.
+
+2024-07-18 Wed: Continued working on the mint functionality. Attempting to simplify the process of minting various options.
+
+2024-07-17 Tue: Completed deploying the WONE and USDC pool. Continued working on the command line interface functionality to mint options.
+
+2024-07-16 Mon: Completed the fix and made a fork. Deployed the smart contracts.
 
 ---
 
