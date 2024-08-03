@@ -1,4 +1,4 @@
-2024-08-03 Sat (1.0 hr): Revision of 'Onchain Futures' banner/graphic. Tweet of footprint dashboard.
+2024-08-03 Sat (1.0 hr): Revision of 'Onchain Futures' banner/graphic. [Tweet](https://x.com/harmonyprotocol/status/1819855668087750737) of footprint dashboard.
 
 2024-08-02 Fri: Harmony [community update](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd), plus [thread](https://x.com/harmonyprotocol/status/1819506006927565264). Posting the 2024 [Ecosystem report thread]() and cross-posting on [Substack](). Continued research of Token 2049 for Stephen to speak at, events listed [here](https://www.notion.so/harmonyone/Token2049-Event-List-ab83758ea636416b84d08f9552bfc53f). Writing [responses to Reddit questions](), response pending on account access.
 
