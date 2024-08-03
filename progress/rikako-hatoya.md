@@ -1,3 +1,5 @@
+2024-08-02 Fri: Updated some constants for token/chain configs. Continued looking into React hook/ethers bug raised from signer in the Stake Modal in StakeV1.
+
 2024-08-01 Thu: Working on adapting "Earn" page for GMX Harmony fork. Debugging some configuration issues raised in StakeV1 and tokens.ts.
 
 2024-07-31 Wed: Started looking into Synthetix: tested stake & borrow (SNX tokens) on sy.country. Worked on replicating Harmony's synthetix: cloned [synthetix Harmony fork](https://github.com/ArtemKolodko/synthetix/tree/harmony_new_deployment) and [synthetix-js-monorepo](https://github.com/ArtemKolodko/synthetix-js-monorepo), worked on deploying contracts and BandOracleReader (reading through [Aaron's notes](https://github.com/polymorpher/synthetix-v2/blob/band-oracle/oracle-notes.md) on oracles.)
