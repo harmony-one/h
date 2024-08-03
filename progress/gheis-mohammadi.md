@@ -1,3 +1,10 @@
+**2024-08-02 Sat:**
+Last week, my main focus was increasing the visibility of boot nodes. I am working on adding an RPC server to the boot node since it currently lacks any RPC and does not expose any information or metadata. I am addressing this in a pull request, aiming to add at least a few APIs to allow better and more efficient monitoring. This way, we can observe and monitor the connectivity and peers connected to the boot node. This work is in progress, and the code is already in the feature/boot_rpc branch.
+
+The progress is at 70%, with thousands of lines of code added. I will continue working on this next week as well.
+
+---
+
 **2024-07-27 Sat:**
 My primary focus this week was to find a final solution to stabilize the boot nodes and fix the crashes on mainnet. While the issues were fixed on devnet, mainnet still had its own instabilities. The investigation led to the following PR: [harmony-one/harmony#4717](https://github.com/harmony-one/harmony/pull/4717).
 
