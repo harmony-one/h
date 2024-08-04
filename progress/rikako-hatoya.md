@@ -1,4 +1,4 @@
-2024-08-03 Sat (2.0h): Continued debugging the ethers signer problem in stake. Looked into Simaro's Opyn Squeeth documentation/monorepo.
+2024-08-03 Sat (2.0h): Continued debugging the ethers signer problem in stake. Read through Simaro's Opyn Squeeth documentation/monorepo.
 
 2024-08-02 Fri: Updated some constants for token/chain configs. Continued looking into React hook/ethers bug raised from signer in the Stake Modal in StakeV1.
 
