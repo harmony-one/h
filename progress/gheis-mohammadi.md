@@ -26,7 +26,6 @@ Regarding bootnodes, we found that the main net nodes are using an old version o
 ---
 
 **2024-07-13 Sat:**
-
 Last week, after several discussions and evaluations of the expected impacts, we finalized the decision to upgrade the boot nodes. Boot nodes 1 and 2, and later boot node 3, were successfully upgraded with [PR #4707](https://github.com/harmony-one/harmony/pull/4707). This PR improves the P2P host connection manager and removes QUIC transporters. The upgrade was successful, carried out without disturbing the network or bringing consensus down. We are closely monitoring the boot nodes post-upgrade. This was a significant step towards upgrading all boot nodes on the mainnet without any disruption. The next step is to upgrade the last boot node and then apply security configurations for the boot nodes in the mainnet.
 
 Next, we addressed the number of connections boot nodes can accept. The current high water mark was set at 192. The team decided to increase this limit for boot node connections. I created [PR #4710](https://github.com/harmony-one/harmony/pull/4710), which adds a new flag to the P2P host for boot nodes to adjust the high water mark, preventing any limit on boot node connections.
