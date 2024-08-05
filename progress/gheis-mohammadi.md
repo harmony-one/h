@@ -1,12 +1,10 @@
-**2024-08-02 Sat:**
-Last week, my main focus was increasing the visibility of boot nodes. I am working on adding an RPC server to the boot node since it currently lacks any RPC and does not expose any information or metadata. I am addressing this in a pull request, aiming to add at least a few APIs to allow better and more efficient monitoring. This way, we can observe and monitor the connectivity and peers connected to the boot node. This work is in progress, and the code is already in the feature/boot_rpc branch.
+2024-08-02 Sat: Last week, my main focus was increasing the visibility of boot nodes. I am working on adding an RPC server to the boot node since it currently lacks any RPC and does not expose any information or metadata. I am addressing this in a pull request, aiming to add at least a few APIs to allow better and more efficient monitoring. This way, we can observe and monitor the connectivity and peers connected to the boot node. This work is in progress, and the code is already in the feature/boot_rpc branch.
 
 The progress is at 70%, with thousands of lines of code added. I will continue working on this next week as well.
 
 ---
 
-**2024-07-27 Sat:**
-My primary focus this week was to find a final solution to stabilize the boot nodes and fix the crashes on mainnet. While the issues were fixed on devnet, mainnet still had its own instabilities. The investigation led to the following PR: [harmony-one/harmony#4717](https://github.com/harmony-one/harmony/pull/4717).
+2024-07-27 Sat: My primary focus this week was to find a final solution to stabilize the boot nodes and fix the crashes on mainnet. While the issues were fixed on devnet, mainnet still had its own instabilities. The investigation led to the following PR: [harmony-one/harmony#4717](https://github.com/harmony-one/harmony/pull/4717).
 
 This PR updates the p2p host configuration to maintain the same values as the current mainnet setup. It ensures that both muxers are supported, making the host fully backward-compatible. The primary goal of this PR is to address mainnet boot node crashes caused by the old muxer and security configurations.
 
@@ -16,8 +14,7 @@ My next focus is on improving visibility into boot nodes' performance and connec
 
 ---
 
-**2024-07-20 Sat:**
-Last week, I investigated the `eth_call` issue and reviewed my findings with Soph. We discovered that a client specific contract was causing the issue. Additionally, we identified the need to upgrade certain functions in the EVM to enhance compatibility and reduce issues with newer versions of smart contracts.
+2024-07-20 Sat: Last week, I investigated the `eth_call` issue and reviewed my findings with Soph. We discovered that a client specific contract was causing the issue. Additionally, we identified the need to upgrade certain functions in the EVM to enhance compatibility and reduce issues with newer versions of smart contracts.
 
 I also performed code checks in stream sync and fixed a small bug. You can find the details of the bug fix in [pull request #4714](https://github.com/harmony-one/harmony/pull/4714). Alongside this, I updated some deprecated code in our code base that was generating warnings, which is documented in [pull request #4715](https://github.com/harmony-one/harmony/pull/4715).
 
@@ -25,8 +22,7 @@ Regarding bootnodes, we found that the main net nodes are using an old version o
 
 ---
 
-**2024-07-13 Sat:**
-Last week, after several discussions and evaluations of the expected impacts, we finalized the decision to upgrade the boot nodes. Boot nodes 1 and 2, and later boot node 3, were successfully upgraded with [PR #4707](https://github.com/harmony-one/harmony/pull/4707). This PR improves the P2P host connection manager and removes QUIC transporters. The upgrade was successful, carried out without disturbing the network or bringing consensus down. We are closely monitoring the boot nodes post-upgrade. This was a significant step towards upgrading all boot nodes on the mainnet without any disruption. The next step is to upgrade the last boot node and then apply security configurations for the boot nodes in the mainnet.
+2024-07-13 Sat: Last week, after several discussions and evaluations of the expected impacts, we finalized the decision to upgrade the boot nodes. Boot nodes 1 and 2, and later boot node 3, were successfully upgraded with [PR #4707](https://github.com/harmony-one/harmony/pull/4707). This PR improves the P2P host connection manager and removes QUIC transporters. The upgrade was successful, carried out without disturbing the network or bringing consensus down. We are closely monitoring the boot nodes post-upgrade. This was a significant step towards upgrading all boot nodes on the mainnet without any disruption. The next step is to upgrade the last boot node and then apply security configurations for the boot nodes in the mainnet.
 
 Next, we addressed the number of connections boot nodes can accept. The current high water mark was set at 192. The team decided to increase this limit for boot node connections. I created [PR #4710](https://github.com/harmony-one/harmony/pull/4710), which adds a new flag to the P2P host for boot nodes to adjust the high water mark, preventing any limit on boot node connections.
 
@@ -40,8 +36,7 @@ Lastly, I conducted code reviews for several PRs that the team is working on.
 
 ---
 
-**2024-07-06 Sat:**
-Last week was quite productive. I created a new branch in GitHub ([compare branch](https://github.com/harmony-one/harmony/compare/main...mainnet/bootnode/8717ccf61)), which is the old code from last year. It has the exact same HEAD commit as what the old boot nodes are using. The idea of this branch is to check the QUIC protocol removal without touching anything else.
+2024-07-06 Sat: Last week was quite productive. I created a new branch in GitHub ([compare branch](https://github.com/harmony-one/harmony/compare/main...mainnet/bootnode/8717ccf61)), which is the old code from last year. It has the exact same HEAD commit as what the old boot nodes are using. The idea of this branch is to check the QUIC protocol removal without touching anything else.
 
 Later, I created PR [#4705](https://github.com/harmony-one/harmony/pull/4705). This PR enables security by default. The reason is that we are trying to avoid a mainnet split or consensus downtime. So, we want to have as much of the same P2P configurations as we have in the mainnet. This PR has already been merged into the dev branch.
 
@@ -59,15 +54,11 @@ I also created PR [#4704](https://github.com/harmony-one/harmony/pull/4704). Thi
 
 ---
 
-**2024-06-29 Sat:**
-
-Last week, after a successful hard fork, we shifted our focus back to the HIP32 requirements, moving towards the necessary enhancements and improvements. Some old boot nodes couldn't get enough peers after the upgrade, and I am already addressing that issue. The first solution I tried involved testing different P2P configurations that are compatible with both old and new versions. I am also incorporating some code from older versions and working on the TLS and security aspects. The investigation is still ongoing, and I will continue working on it.
+2024-06-29 Sat: Last week, after a successful hard fork, we shifted our focus back to the HIP32 requirements, moving towards the necessary enhancements and improvements. Some old boot nodes couldn't get enough peers after the upgrade, and I am already addressing that issue. The first solution I tried involved testing different P2P configurations that are compatible with both old and new versions. I am also incorporating some code from older versions and working on the TLS and security aspects. The investigation is still ongoing, and I will continue working on it.
 
 ---
 
-**2024 Q2 Review**
-
-Throughout this quarter, I implemented major PRs, contributing significantly to network improvements. Moving towards HIP-32, I focused on critical improvements to enhance our network's stability and performance. One major achievement was addressing P2P stream discovery issues, ensuring stable operation of devnet nodes, and resolving high storage usage and syncing problems PR[#4676](https://github.com/harmony-one/harmony/pull/4676). I also refactored the stream sync block storage, significantly improving stability PR[#4660](https://github.com/harmony-one/harmony/pull/4660) and logging capabilities PR[#4667](https://github.com/harmony-one/harmony/pull/4667), aiding in more effective debugging processes.
+2024 Q2 Review: Throughout this quarter, I implemented major PRs, contributing significantly to network improvements. Moving towards HIP-32, I focused on critical improvements to enhance our network's stability and performance. One major achievement was addressing P2P stream discovery issues, ensuring stable operation of devnet nodes, and resolving high storage usage and syncing problems PR[#4676](https://github.com/harmony-one/harmony/pull/4676). I also refactored the stream sync block storage, significantly improving stability PR[#4660](https://github.com/harmony-one/harmony/pull/4660) and logging capabilities PR[#4667](https://github.com/harmony-one/harmony/pull/4667), aiding in more effective debugging processes.
 
 Resolving persistent boot node issues was another highlight. This issue was getting a big impact on validators. By upgrading to the latest version of libp2p, refactoring code, and meticulously testing various configurations, I managed to stabilize the boot nodes PR[#4674](https://github.com/harmony-one/harmony/pull/4674). The implemented changes, encapsulated in key pull requests such as PR[#4682](https://github.com/harmony-one/harmony/pull/4682) and PR[#4679](https://github.com/harmony-one/harmony/pull/4679) to add support for multiple muxers, ensured seamless network operation. Additionally, I enhanced P2P connection monitoring by implementing logger flags and the environment variables, providing the team with better visibility.
 
@@ -75,15 +66,13 @@ A major problem with pending undelegations on the mainnet required thorough anal
 
 ---
 
-2024-06-15 Sat:
-Last week, we focused on resolving the undelegation issue, with the entire team actively working and discussing it. We have been thoroughly investigating the problem and reviewing various parts of the code. We have nearly identified the root cause or, at the very least, have developed a few hot fixes.
+2024-06-15 Sat: Last week, we focused on resolving the undelegation issue, with the entire team actively working and discussing it. We have been thoroughly investigating the problem and reviewing various parts of the code. We have nearly identified the root cause or, at the very least, have developed a few hot fixes.
 
 The primary issue was related to validator validation and the validator max rate. Specifically, some validators already have invalid max rates, causing their validations to fail in the codebase. Although this issue was previously fixed, it wasn't applied to the main branch and will be included in the next hard fork (HF). So far, the team has implemented a max rate hard fork and selected the appropriate epoch for mainnet, testnet, and devnet.
 
 ---
 
-2024-06-08 Sat:
-Last week, I replicated the same changes on P2P configurations and muxers for the main net. I pushed the PR to the bootnode_fix branch, which is cloned from the main branch, and it is currently under review by the team.
+2024-06-08 Sat: Last week, I replicated the same changes on P2P configurations and muxers for the main net. I pushed the PR to the bootnode_fix branch, which is cloned from the main branch, and it is currently under review by the team.
 
 We conducted a study to make decisions about security configurations, and it is under investigation by the DevOps team using the visibility provided by the P2P trace file.
 
@@ -91,8 +80,7 @@ We had a delegation issue reported by validators. The team has initiated an in-d
 
 ---
 
-2024-06-01 Sat:
-This past week, we successfully resolved the boot node issue. The corresponding PR was reviewed and approved by the team, then deployed to the devnet boot nodes. All tests were successful. However, a significant challenge was that these changes required bringing main-net consensus down, and all validators had to use the latest version of the binary with the same P2P configurations. We worked on identifying configurations that were not backward compatible and found two key ones: Muxer and Security.
+2024-06-01 Sat: This past week, we successfully resolved the boot node issue. The corresponding PR was reviewed and approved by the team, then deployed to the devnet boot nodes. All tests were successful. However, a significant challenge was that these changes required bringing main-net consensus down, and all validators had to use the latest version of the binary with the same P2P configurations. We worked on identifying configurations that were not backward compatible and found two key ones: Muxer and Security.
 
 Initially, I realized that the flags were not properly set on the devnet boot node. I added the muxer flag for the boot node, which resolved the issue and brought it back online. After an in-depth study of the muxer, I discovered that the P2P host could support multiple muxers. This discovery led to a permanent fix for challenges related to different muxers. I then submitted the PR[#4682](https://github.com/harmony-one/harmony/pull/4682) to add support for multiple muxers.
 Initially, I realized that the flags were not properly set on the devnet boot node. I added the muxer flag for the boot node PR[#4679](https://github.com/harmony-one/harmony/pull/4679), which resolved the issue and brought it back online. After an in-depth study of the muxer, I discovered that the P2P host could support multiple muxers. This discovery led to a permanent fix for challenges related to different muxers. I then submitted the PR to add support for multiple muxers.
@@ -111,8 +99,7 @@ We tested options 3 and 4, and the team is currently using them to monitor conne
 
 ---
 
-2024-05-25 Sat:
-Last week, I finalized the PR[#4674](https://github.com/harmony-one/harmony/pull/4674) to address the bootnode issue. This PR includes the following changes:
+2024-05-25 Sat: Last week, I finalized the PR[#4674](https://github.com/harmony-one/harmony/pull/4674) to address the bootnode issue. This PR includes the following changes:
 
 - Removed QUIC, an unnecessary feature, and switched to TCP transport.
 - Made TLS/Noise, relays, and NAT optional features that can be disabled via configuration.
@@ -127,8 +114,7 @@ We are still working on the OUT OF SYNC issue. This issue persists on devnet, an
 
 ---
 
-2024-05-18 Sat:
-Last week, my main focus was on resolving the boot node issue. The boot nodes kept restarting with several debug logs related to the lower layers of libp2p, such as the QUIC protocol, p2p multiplexers, and session failures. The upgrade of the mainnet boot nodes caused these problems, which stemmed from the lower layers, limiting our immediate control.
+2024-05-18 Sat: Last week, my main focus was on resolving the boot node issue. The boot nodes kept restarting with several debug logs related to the lower layers of libp2p, such as the QUIC protocol, p2p multiplexers, and session failures. The upgrade of the mainnet boot nodes caused these problems, which stemmed from the lower layers, limiting our immediate control.
 
 Upon investigation, I discovered that several issues were addressed in newer versions of libp2p. I upgraded the main branch to the latest version of libp2p, refactored parts of the code, resolved all conflicts, and built a new binary. Testing this on the boot node improved stability, but some vague logs persisted.
 
@@ -154,13 +140,11 @@ I am now preparing the final PR to upgrade all boot nodes this week.
 
 ---
 
-2024-05-11 Sat:
-Last week, our primary focus was on resolving the boot node issues. We conducted several investigations into the matter, and although progress has been made, we are still actively working on it. Personally, I dedicated time to addressing the out-of-sync issue by meticulously reviewing logs and eliminating any unnecessary ones.
+2024-05-11 Sat: Last week, our primary focus was on resolving the boot node issues. We conducted several investigations into the matter, and although progress has been made, we are still actively working on it. Personally, I dedicated time to addressing the out-of-sync issue by meticulously reviewing logs and eliminating any unnecessary ones.
 
 ---
 
-2024-05-04 Sat:
-Last week, I finalized [#4660](https://github.com/harmony-one/harmony/pull/4660), which was reviewed and merged by the team to dev branch. We investigated a connection issue and observed that two peers could connect and successfully complete the handshake. However, when they started syncing blocks, the connection broke instantly. We thoroughly checked the stream logs, the handshake process, the stream client, the database layer for fetching blocks, context timeout, block size, and double-checked with RPC, and all of them appeared to be working fine. Our next theory focused on the rate limiter, but upon examination, it also seemed to be functioning properly. This issue is still under investigation.
+2024-05-04 Sat: Last week, I finalized [#4660](https://github.com/harmony-one/harmony/pull/4660), which was reviewed and merged by the team to dev branch. We investigated a connection issue and observed that two peers could connect and successfully complete the handshake. However, when they started syncing blocks, the connection broke instantly. We thoroughly checked the stream logs, the handshake process, the stream client, the database layer for fetching blocks, context timeout, block size, and double-checked with RPC, and all of them appeared to be working fine. Our next theory focused on the rate limiter, but upon examination, it also seemed to be functioning properly. This issue is still under investigation.
 
 Additionally, there was an incident involving all boot nodes that, after upgrading, were unable to sync the peers list. Many validators reported this issue, prompting us to prioritize its resolution. Eventually, we disabled pprof, after which all boot nodes came back online, and the main net was successfully recovered.
 
