@@ -1,14 +1,10 @@
-**2024-08-02: Weekly update**
-
-On the infra side, I've faced DOS attacks(>60K requests/second) on our mainnet RPCs resulting in overloaded nodes thus I've rolled out rate-limits to the mainnet to limit such possibilities and help us provide stable service to our users and partners.
+2024-08-02: On the infra side, I've faced DOS attacks(>60K requests/second) on our mainnet RPCs resulting in overloaded nodes thus I've rolled out rate-limits to the mainnet to limit such possibilities and help us provide stable service to our users and partners.
 
 On the protocol side, I continue to help with the golang version update, it has been updated to the latest long time support - 1.22. I've done several compatibility tests in mainnet with all possible libp2p variations, results were differ from the results in devnet, and I need to do more testing.
 
 ---
 
-**2024-07-26: Weekly update**
-
-On the infra side, I rolled out automated, tested rate-limits solution and applied it to devnet - which has whitelisting functionality based on IPv4 CIDR masks, log rate-limited users in a separate log, have a dashboard with a current state of Nginx. We already have excessive rate-limited users in the devnet. Next steps will be to collect our partner IPv4s, whitelist them and only apply this solution to testnet and mainnet.
+2024-07-26: On the infra side, I rolled out automated, tested rate-limits solution and applied it to devnet - which has whitelisting functionality based on IPv4 CIDR masks, log rate-limited users in a separate log, have a dashboard with a current state of Nginx. We already have excessive rate-limited users in the devnet. Next steps will be to collect our partner IPv4s, whitelist them and only apply this solution to testnet and mainnet.
 
 On the protocol side, I've fixed release CI to have same code version as we have run in CI, previously it was hardcoded `main` branch. Advantage will be the great user experience from our docker image users. [Details](https://github.com/harmony-one/harmony/pull/4716)
 
@@ -16,11 +12,7 @@ Also I've helped Konstantin with the harmony/bootnode golang 1.21 node testing. 
 
 ---
 
-**2024-07-19: Weekly update**
-
-My current week focus was the fixes for ongoing issues and small improvements.
-
-There were several topics from the infrastructure side.
+2024-07-19: My current week focus was the fixes for ongoing issues and small improvements. There were several topics from the infrastructure side.
 Automatic SSL renewal on our internal Grafana, benefit - we wouldn't be doing it manually. Removal of old in-house Explorer infra, benefit - eliminate double spending on infra costs.
 I've also applied rate limits on the devnet and load tested how nginx will work under the load, advantage - mitigate load spikes on the RPC endpoints.
 And one item, after complaints from on-call engineers, I've added a separate disk usage alarm with a higher threshold for our archival and snapshot nodes, this reduced our monitoring noise.
@@ -28,18 +20,13 @@ On the protocol side, I've helped Konstantin with the rollout of the golang 1.21
 
 ---
 
-**2024-07-12: Weekly update**
-
-First of all, I've done migration of the staking backend, thanks to the automation ansible playbook and initial testing end-users haven't faced any downtime. Old expensive infra setup was removed - 88% costs saved.
-
-The main focus during this week was the localnet watchdog setup. I've changed both the frontend and backend code to support it. Main advantage - now our protocol dev team now can have full network observability on the localnet via 2 `make` commands.
+2024-07-12: First of all, I've done migration of the staking backend, thanks to the automation ansible playbook and initial testing end-users haven't faced any downtime. Old expensive infra setup was removed - 88% costs saved. The main focus during this week was the localnet watchdog setup. I've changed both the frontend and backend code to support it. Main advantage - now our protocol dev team now can have full network observability on the localnet via 2 `make` commands.
 
 Finally, I've started preparation for the old explorer infra removal to save money on infra costs.
 
 ---
 
-**2024-07-05: Weekly update**
-The main focus during this week is automation for staking backend and new cheaper server setup, now it is in final testing phase. Justification is simple - save money on the traffic and server.
+2024-07-05: The main focus during this week is automation for staking backend and new cheaper server setup, now it is in final testing phase. Justification is simple - save money on the traffic and server.
 
 On the security side, I was alarmed team about [RegreSSHion vulnerability in the OpenSSH](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server) and helped Soph with infrastructure checks and fixes.
 
@@ -49,8 +36,7 @@ Additionally, I was working on the archival RPC 1 node recreation, I've used ser
 
 ---
 
-**2024-06-28: Weekly update**
-The main focus during this week was the removal of the old Tesntet explorer. Result have only one Blockscout explorer and don't pay for the old one. As extra point - it was a great training for the further mainnet explorer removal.
+2024-06-28: The main focus during this week was the removal of the old Tesntet explorer. Result have only one Blockscout explorer and don't pay for the old one. As extra point - it was a great training for the further mainnet explorer removal.
 
 On the protocol side, I've rapidly fixed problems with Travis CI, base image was changed by the Travis. And as consequence this unblocked developers CI builds on the dev branch.
 
@@ -60,8 +46,7 @@ And finally, I'm working on the staking backend migration to the cheaper server.
 
 ---
 
-**2024-06-21: Weekly update**
-The main focus during this week was the testnet snapshot service automation and now we have here the mainnet-like disaster recovery approach -  hot copy for the community and extra copies in the STORJ. It will help our community to spin up nodes in matter of 20 minutes instead of 3 days with sync from Genesis.
+2024-06-21: The main focus during this week was the testnet snapshot service automation and now we have here the mainnet-like disaster recovery approach -  hot copy for the community and extra copies in the STORJ. It will help our community to spin up nodes in matter of 20 minutes instead of 3 days with sync from Genesis.
 
 Additionally, I've standardized the testnet environment - all Harmony managed external validators are managed and monitored from one place now. This action will save our time on the future network support.
 
@@ -69,21 +54,17 @@ And finally, I've done small cleanup of unused test servers. Aftermath - saved m
 
 ---
 
-**2024-05-30 to 2024-06-16: I was on PTO**
+2024-05-30 to 2024-06-16: Paid Time Off
 
 ---
 
-**2024-05-29: Weekly update**
-
-During 3 days on this week, I found the way how to rate limit users via nginx, with whitelisting feature for our partners. It will helps us to provide stable service for our regular users and mitigate abuse of our nodes.
+2024-05-29: During 3 days on this week, I found the way how to rate limit users via nginx, with whitelisting feature for our partners. It will helps us to provide stable service for our regular users and mitigate abuse of our nodes.
 
 On the protocol side, I've helped with devnet update to the DNS sync, it will help to rule out a possible streamsync bug.
 
 ---
 
-**2024-05-24: Weekly update**
-
-During this week, I finished Nginx monitoring, now we have a generic solution and the [Grafana dashboard](https://grafana.i.hmny.io/d/ZQAsi-Xiz/nginx-vts) for all networks. It is already give ideas what can be improved, such as removing defaults and deploying proper rate limiting
+2024-05-24: During this week, I finished Nginx monitoring, now we have a generic solution and the [Grafana dashboard](https://grafana.i.hmny.io/d/ZQAsi-Xiz/nginx-vts) for all networks. It is already give ideas what can be improved, such as removing defaults and deploying proper rate limiting
 
 On the protocol side, I've helped with devnet updates to the latest version with fixed bootnode issue and share my ideas and concerns about further mainnet rollout with Gheis and Soph.
 
@@ -91,9 +72,7 @@ Additionally, I aided a community member with the removal from blacklists.
 
 ---
 
-2024-05-17: Weekly update
-
-During this week, I tried different approaches for Nginx monitoring, found the most generic one, and started to roll it out to the devnet. It will help the team understand the current state of our RPC endpoints and how users are using them
+2024-05-17: During this week, I tried different approaches for Nginx monitoring, found the most generic one, and started to roll it out to the devnet. It will help the team understand the current state of our RPC endpoints and how users are using them
 
 On the protocol side, I conducted an initial investigation into the bootnode issue and shared all the information, including Quic protocol usage, incoming IPs, and libp2p troubleshooting manuals, which helped Gheis and Soph with the fix. Additionally, I assisted in spinning up an AWS instance for the bootnode test.
 
