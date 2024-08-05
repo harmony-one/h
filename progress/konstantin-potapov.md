@@ -1,6 +1,4 @@
-2024-08-02 Fri
-- Updated golang to 1.22.
-- With Ulad tested made additional tests golang 1.22. Version 1.22 does not have incompatibility or stability issues. Results can be found https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235
+2024-08-02 Fri: Updated golang to 1.22. With Ulad tested made additional tests golang 1.22. Version 1.22 does not have incompatibility or stability issues. Results can be found https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235
 
 **Research on 1-Second Finality and Validator Rewards in Block Signing**
 
@@ -15,6 +13,8 @@ Here, rewards are split among all validators regardless of whether they sign the
 
 Currently, our protocol does not support identifying a block proposer. While theoretically, we could distribute rewards between the block proposer and the validators, implementing this would necessitate significant protocol modifications. These changes would include updates to block proposing, consensus mechanisms, reward calculation, crosslinks, and the introduction of a new block version.   
 
+---
+
 2024-07-26 Fri:
 - Fixed issue with zero division
 - Tested new golang version and the latest go-lib-p2p version on devnet in different combinations with bootnode. 
@@ -22,6 +22,8 @@ Currently, our protocol does not support identifying a block proposer. While the
 - Found and fixed issue with multiplexer incompatibility.
 - Tested new code in testnet environment, it was successful.
 - Tested mainnet compatibility, contains differences in security parameter. Will continue on Monday.  
+
+---
 
 2024-07-19 Fri:
 - Updated golang version to 1.21 version, it passed all tests, total progress 100%. 
@@ -31,9 +33,11 @@ Currently, our protocol does not support identifying a block proposer. While the
 - Created new issue and started investigation of the watchdog crushes. 
 - Collaborated with Ulad for the go@1.21 devnet testing. Test results showed that the node has problems connecting to other nodes. We will continue investigation on monday. 
 
-2024-07-12 Fri:
-- Investigated the issue with the hash generation in localnet testing. Go@1.21 changed behavior of the ecdsa key generation function, so it can provide different private keys for the same input. Described [here](https://github.com/golang/go/blob/release-branch.go1.21/src/crypto/ecdsa/ecdsa.go#L153)
-- Updated hotstuff description and commit messages. It can be found [here](https://github.com/Frozen/gohotstuffimpl)
+---
+
+2024-07-12 Fri: Investigated the issue with the hash generation in localnet testing. Go@1.21 changed behavior of the ecdsa key generation function, so it can provide different private keys for the same input. Described [here](https://github.com/golang/go/blob/release-branch.go1.21/src/crypto/ecdsa/ecdsa.go#L153). Updated hotstuff description and commit messages. It can be found [here](https://github.com/Frozen/gohotstuffimpl)
+
+---
 
 2024-07-05 Fri:
 - `UpdateMaxCommissionFee` function covered with tests. 
@@ -42,6 +46,8 @@ Currently, our protocol does not support identifying a block proposer. While the
 - Removed trailing zeros from the Decimal.String method.
 - Resolved connection issues in the tests package of the Harmony p2p library. 
 - Golang version update: passed 50% of tests, current progress is 80%.
+
+---
 
 2024-06-28 Fri:
 - Updated go-lib-p2p to the latest version, which can potentially fix issue with bootnode. 
