@@ -1,3 +1,11 @@
+2024-08-05 Mon: Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
+
+---
+
+2024-08-03 Sat (8 hr): Continued working on the repeated transaction bug. Setting wait time after sending a transaction seems to resolve the issue but do not know the exact cause at the moment.
+
+2024-08-02 Fri: Working on repeated transaction sending. At the moment, first two to three transactions are working but the ones sent after sometimes result in failures. 
+
 2024-08-01 Thu: Testing and developing option transferring functionality.
 
 2024-07-31 Wed: Finalizing the command line interface gas estimation issue. Began to work on transferring options.
