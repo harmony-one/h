@@ -1,4 +1,4 @@
-2024-08-05 Mon: Working with protofire to include block explorer contracts in csv format for [Artimis support(https://www.artemis.xyz/). Pyth network support for Harmony mainnet outreach.
+2024-08-05 Mon: Working with protofire to include block explorer contracts in csv format for [Artimis support](https://www.artemis.xyz/). Pyth network support for Harmony mainnet outreach.
 
 ---
 
