@@ -1,3 +1,7 @@
+2024-08-05 Mon: Working with protofire to include block explorer contracts in csv format for [Artimis support(https://www.artemis.xyz/). Pyth network support for Harmony mainnet outreach.
+
+---
+
 2024-08-02 Fri: Coinbase submission complete. Harmony 2024 article iterations for different users. Next steps include building out DeFi and GMX technical documentation as we await responses from Coinbase (listings) and Binance (marketing) teams.
 
 2024-08-01 Thu: Reviewed Token2049 events from [list](https://lu.ma/token2049) provided, sync with Alaina with findings. Insights: strong VC and developer showcases to capitalize on. Bullet points for [Harmony 2024 article](https://harmonyone.notion.site/Harmony-2024-Decentralized-Open-Source-Community-Driven-bb89f767d26d4aafa6a27ee08342688d?pvs=4) for event attendees focusing on concise points and top to bottom flow of relevant information.
