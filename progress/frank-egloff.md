@@ -1,3 +1,5 @@
+2024-08-06 Tue: Deployed Vertex Trade App on [fly.io](https://vertex-trade.fly.dev/). Configured Dockerfile and fly.toml to work with Next.js monorepo. Fixing deploy errors related to ChainDev handling (supporting multiple chain environments such as local, testnet, harmonyMainnet, among others), package.json build scripts, and Sentry configuration.
+
 2024-08-05 Mon: Refactoring TradingView mock interfaces/types to resolve [build script issues](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/3). Successfully running Vertex Trade App's dev and build scripts locally with Harmony Testnet chain integration. Continuing efforts to deploy Vertex App in fly.io and in Harmony mainnet.
 
 ---
