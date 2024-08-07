@@ -1,3 +1,5 @@
+2024-08-06 Tue: I continued developing the automated tests. I focused on resolving a persistent [issue](https://github.com/0x73696d616f/squeeth-monorepo/commit/28b5b88363f62d0096dc715bfe32f3d5f153ce90) with the Uniswap Swap Router.
+
 2024-08-05 Mon: I [worked](https://github.com/harmony-one/squeeth-monorepo/commit/65b92ceb5eab89636fe577218c279d7a5e32b15a) on automated tests and scripts for profitable long trades.
 
 2024-08-02 Fri: I worked on doing a profitable liquidation (Opyn Squeeth). The [Euler](https://github.com/harmony-one/euler-contracts) and [Opyn](https://github.com/harmony-one/squeeth-monorepo) repositories were moved from my profile to the Harmony Organization.
