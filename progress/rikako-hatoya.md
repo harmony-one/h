@@ -2,6 +2,8 @@
 
 2024-08-05 Mon: Continued working on testing squeeth monorepo. Worked through udnerstanding CLI scripts (MintAndDeposit, BurnAmount, DepositCollateral.) 
 
+---
+
 2024-08-04 Sun (1.5h): Started replicating Opyn squeeth trading (setting up configurations.) Working on testing to suggest improvements.
 
 2024-08-03 Sat (2.0h): Continued debugging the ethers signer problem in stake. Read through Simaro's Opyn Squeeth documentation/monorepo.
