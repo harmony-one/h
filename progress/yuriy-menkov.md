@@ -1,3 +1,5 @@
+2024-08-06 Tue: Reviewed the draft technical [documentation](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb) from Theo and Pablo. Worked om resolving earn page issues: stake v1 feature, reward stats display etc.
+
 2024-08-05 Mon: Created an integration test to check price keeper service work (secondPriceFeed oracle) in different cases: correct price update, case when price keeper stopped updating the price, case when price keeper is hacked and sets a false price - blocking and switching to firts priceFeed (band oracle). Switched to working on the Earn page (together with Rikako).
 
 ---
