@@ -1,3 +1,5 @@
+2024-08-06 Tue: Sync with Colossus staking for bug bounty and institutional staking solutions for Harmony moving forward. Created initial draft of [technical documentation for GX](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb#551e929924d647e796c82349e09a4802) and sync with Pablo and Yuriy. Prepared Protofire rate limit update.
+
 2024-08-05 Mon: Working with protofire to include block explorer contracts in csv format for [Artimis support](https://www.artemis.xyz/). Pyth network support for Harmony mainnet outreach.
 
 ---
