@@ -2,7 +2,7 @@
 
 2024-08-06 Tue: resolved issue with missing graphql file and launched [swap.country](https://swap.country/) client locally, did initial research how to add 1SY token to swap UI. Preparing new, pre-production Synthetix deployment with renamed SNX -> 1SY token.
 
-2024-08-05 Mon: call with Pablo from Three Sigma, got a positive feedback about https://sy.country; agreed to check it again before going live. Checked indexing of s.country: access to DNS record is required, asked Aaron to help. We'll need to launch 1SNX token on the exchange to have fair token price, the best candidate is swap.country. Cloned [swap.country repo](https://github.com/protofire/interface/tree/harmony) locally, working on fixing installation bugs related to graphql schema.
+2024-08-05 Mon: call with Pablo from Three Sigma, got a positive feedback about sy.country; agreed to check it again before going live. Checked indexing of s.country: access to DNS record is required, asked Aaron to help. We'll need to launch 1SNX token on the exchange to have fair token price, the best candidate is swap.country. Cloned [swap.country repo](https://github.com/protofire/interface/tree/harmony) locally, working on fixing installation bugs related to graphql schema.
 
 ---
 
