@@ -1,3 +1,5 @@
+2024-08-08 Wed: [deployed](https://github.com/ArtemKolodko/synthetix/pull/2/commits/40b11fd2a1020dad5257a0dd82f279c65cfa0901) new version of Synthetix with renamed system token (SNX -> 1SY); 1SY token in [Explorer](https://explorer.harmony.one/address/one1lz8tmx0p7am0hlggrphpak76m9y3znguj8wdsl). Updated [sy.country](https://sy.country/). Working on adding 1SY token to swap.country.
+
 2024-08-07 Wed: researched swap.country client and [added](https://github.com/ArtemKolodko/swap-token-list/pull/1) test 1SY token to swap.country client tokens list, tested liquidity provision and [swapped](https://explorer.harmony.one/tx/0xcd550607a9c1e9a7bbb61bf0f41badce45b37b3723fc2d2f9f615b5d59e05ca2) ONE -> 1SY. The next step is to add 1SY price feed to Band oracles, I'll ask Aaron to help with that. [Launched](https://fly.io/apps/band-oracles-updater) band-oracle-updater app on fly.io.
 
 2024-08-06 Tue: resolved issue with missing graphql file and launched [swap.country](https://swap.country/) client locally, did initial research how to add 1SY token to swap UI. Preparing new, pre-production Synthetix deployment with renamed SNX -> 1SY token.
