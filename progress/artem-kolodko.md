@@ -1,26 +1,26 @@
 2024-08-07 Wed: researched swap.country client and [added](https://github.com/ArtemKolodko/swap-token-list/pull/1) test 1SY token to swap.country client tokens list, tested liquidity provision and [swapped](https://explorer.harmony.one/tx/0xcd550607a9c1e9a7bbb61bf0f41badce45b37b3723fc2d2f9f615b5d59e05ca2) ONE -> 1SY. The next step is to add 1SY price feed to Band oracles, I'll ask Aaron to help with that. [Launched](https://fly.io/apps/band-oracles-updater) band-oracle-updater app on fly.io.
 
-2024-08-06 Tue: resolved issue with missing graphql file and launched [https://swap.country/](https://swap.country/) client locally, did initial research how to add 1SY token to swap UI. Preparing new, pre-production Synthetix deployment with renamed SNX -> 1SY token.
+2024-08-06 Tue: resolved issue with missing graphql file and launched [swap.country](https://swap.country/) client locally, did initial research how to add 1SY token to swap UI. Preparing new, pre-production Synthetix deployment with renamed SNX -> 1SY token.
 
 2024-08-05 Mon: call with Pablo from Three Sigma, got a positive feedback about https://sy.country; agreed to check it again before going live. Checked indexing of s.country: access to DNS record is required, asked Aaron to help. We'll need to launch 1SNX token on the exchange to have fair token price, the best candidate is https://swap.country/. Cloned [swap.country repo](https://github.com/protofire/interface/tree/harmony) locally, working on fixing installation bugs related to graphql schema.
 
 ---
 
-2024-08-02 Fri: [updated](https://github.com/ArtemKolodko/synthetix/blob/d8eeb652f434add77d8180f768f813c5a5666bf1/v2-harmony-deployment.md) Synthetix V2 deployment instructions with information about oracle feeds. Tested [band-oracle-updater](https://github.com/harmony-one/band-oracle-updater) bot locally. Continue testing [https://sy.country/](https://sy.country/) client. Scheduled call to discuss Synthetix launch with Pablo from ThreeSigma on Monday (Aug 05).
+2024-08-02 Fri: [updated](https://github.com/ArtemKolodko/synthetix/blob/d8eeb652f434add77d8180f768f813c5a5666bf1/v2-harmony-deployment.md) Synthetix V2 deployment instructions with information about oracle feeds. Tested [band-oracle-updater](https://github.com/harmony-one/band-oracle-updater) bot locally. Continue testing [sy.country](https://sy.country/) client. Scheduled call to discuss Synthetix launch with Pablo from ThreeSigma on Monday (Aug 05).
 
 2024-08-01 Thu: created a bot [band-oracle-updater](https://github.com/ArtemKolodko/band-oracle-updater) that trigger [BandOracleReader](https://github.com/ArtemKolodko/band-oracle-reader) contract update. Bot will be used in Synthetix and GMX releases as a part of the oracles system.
 
-2024-07-31 Wed: replaced all Synthetix to SY in the client; added Harmony logo to the network select. Deployed client update: [https://sy.country/](https://sy.country/).
+2024-07-31 Wed: replaced all Synthetix to SY in the client; added Harmony logo to the network select. Deployed client update: [sy.country/](https://sy.country/).
 
 2024-07-30 Tue: [updated](https://github.com/ArtemKolodko/synthetix/blob/0d9262e1af01a9fb0cecd6ab6ae836209006d5be/v2-harmony-deployment.md) complete guide how to deploy Synthetix on Harmony and run client. Helped Aaron with DNS records for sy.country domain. Testing Synthetix [client](https://harmony-synthetix.netlify.app/).
 
-2024-07-29 Mon: [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/a5d1c2957538ec2a4fbc3ad75de25e6b139879e0) Burn transaction call in Synthetix client; fixed Explorer links, deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app/). Checking Synthetix [litepaper](https://developer.synthetix.io/litepaper/).
+2024-07-29 Mon: [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/a5d1c2957538ec2a4fbc3ad75de25e6b139879e0) Burn transaction call in Synthetix client; fixed Explorer links, deployed client update: [harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app/). Checking Synthetix [litepaper](https://developer.synthetix.io/litepaper/).
 
 ---
 
 2024-07-26 Fri: created new Synthetix deployment on Harmony with increased SNX supply (100 mil tokens) for testing purposes, updated contract addresses in client, deployed [client](https://harmony-synthetix.netlify.app/) update. Had a great progress, because finally I was able to borrow sUSD token for SNX. The only missing thing is oracles data for SNX token: it's not available in BAND oracles. currently I'm using BTC price for testing.
 
-2024-07-25 Thu: investigated and [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/36369d88664f857eaf3442dbbccee14c55d6c79a) error in Mint operation in Synthetix client. Deployed client update: [https://harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app). Working on new contracts deployment with increased SNX supply.
+2024-07-25 Thu: investigated and [fixed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/36369d88664f857eaf3442dbbccee14c55d6c79a) error in Mint operation in Synthetix client. Deployed client update: [harmony-synthetix.netlify.app](https://harmony-synthetix.netlify.app). Working on new contracts deployment with increased SNX supply.
 
 2024-07-24 Wed: Synthetix deployment process on Harmony with updated scripts and docs. Discussed creation of SNX-like token with Aaron, we need to have similar token with real price to use it in client. Working on adding token supply in deployment scripts to have some SNX on balance to test.
 
