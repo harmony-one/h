@@ -1,3 +1,5 @@
+2024-08-07 Wed: [Promotion of TGI](https://x.com/harmonyprotocol/status/1821255188570894697) and wrote a [thread](https://x.com/harmonyprotocol/status/1821255188570894697) explaining the session's topic. [Promotion](https://x.com/harmonyprotocol/status/1821255188570894697) of ONE Show Episode 9. Syncing with Protofire to implement a 'download csv' feature on Blockscout to fulfill Artemis application. Applying to main and side events for speaking roles at Token2049.
+
 2024-08-06 Tue: Tweet promoting [ONE Show Episode 8](https://x.com/harmonyprotocol/status/1820961673827823920) on Youtube and [episode 9](https://x.com/harmonyprotocol/status/1820961107135361209) to be streamed tomorrow. Synced with Theo on marketing materials for protofire public rpcs updated rate limits. Editing of graphics for 🧠.s.country. 
 
 2024-08-05 Mon: Promotion of TGI next Thurs and scheduling the space on [Youtube](https://youtube.com/live/yoQa5ExJVaI?feature=share). Application to list Harmony on Artemis. Editing, [uploading](https://youtu.be/NAMOq0eH23M?si=qk5Gnt5m1qVGO9vt), and designing thumbnail of ONE Show Episode 8.
