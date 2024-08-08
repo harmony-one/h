@@ -1,6 +1,8 @@
+2024-08-07 Wed: Looked into squeeth-monorepo, compiled some trade executions for test, looked into ISwapRouter.sol and Test.sol for exactInputSingle issue as well as understanding overall code. Continued looking into signer data for earn page on gmx.
+
 2024-08-06 Tue: Continued debugging signer in StakeV1 (for GMX Earn page). Signer bug comes from delay due to improper React useEffect hook when fecthed from useWallet.ts, was able to fix useWallet.ts to return signer after data loaded from wagmi's useWalletClient but still trying to fix rerendering issues in StakeV1.js.
 
-2024-08-05 Mon: Continued working on testing squeeth monorepo. Worked through udnerstanding CLI scripts (MintAndDeposit, BurnAmount, DepositCollateral.) 
+2024-08-05 Mon: Continued working on testing squeeth monorepo. Worked through understanding CLI scripts (MintAndDeposit, BurnAmount, DepositCollateral.) 
 
 ---
 
