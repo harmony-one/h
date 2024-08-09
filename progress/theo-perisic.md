@@ -10,6 +10,10 @@
 
 ---
 
+2024-08-04 Sun: (1.0h) Drafted preliminary thoughts on bug bounty for Colossus.
+
+2024-08-03 Sat: (1.0h) Reviewed and refined bullet points version of Harmony 2024 article, focusing on making it more impactful for event attendees.
+
 2024-08-02 Fri: Coinbase submission complete. Harmony 2024 article iterations for different users. Next steps include building out DeFi and GMX technical documentation as we await responses from Coinbase (listings) and Binance (marketing) teams.
 
 2024-08-01 Thu: Reviewed Token2049 events from [list](https://lu.ma/token2049) provided, sync with Alaina with findings. Insights: strong VC and developer showcases to capitalize on. Bullet points for [Harmony 2024 article](https://harmonyone.notion.site/Harmony-2024-Decentralized-Open-Source-Community-Driven-bb89f767d26d4aafa6a27ee08342688d?pvs=4) for event attendees focusing on concise points and top to bottom flow of relevant information.
@@ -22,9 +26,17 @@
 
 ---
 
+2024-07-28 Sun: (3.0h) Continued work on Harmony DeFi narrative, breaking down larger vision into actionable weekly goals. Prepared talking points for upcoming sync with Pablo regarding Harmony DeFi and GMX fork.
+
+2024-07-27 Sat: (2.0h) Further review of GMX progress. Started drafting initial ideas for technical documentation structure for GX.
+
 2024-07-26 Fri: Review of gmx progress and sync with Yuriy. [Dex screener listing form](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) for Swap, waiting on Protofire for missing information.
 
 2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
+
+2024-07-14 Sun: (1.0h) Refined the structure of the Harmony DeFi document, ensuring a clear progression from current state to future vision.
+
+2024-07-13 Sat: (4.0h) Continued research on GMX v1 vs v2, focusing on potential improvements for Harmony's implementation. Started outlining key points for the Harmony DeFi document, emphasizing innovative approaches.
 
 2024-07-12 Fri: Continuation of [Harmony DeFi document](https://www.notion.so/harmonyone/Harmony-DeFi-1c2e88b425ea48088613c84bf49cd2de) pushing Harmony to evolve from forking primitives to becoming the industry leader in DeFi.
 
@@ -38,9 +50,9 @@
 
 ---
 
-2024-07-07 Sun: Continued research for launch. High-level Insight: prioritizing liquidity provision through fee sharing, competitive pricing, and a platform liquidity token looks to be the best approach to significant growth and user adoption for perpetual exchanges.
+2024-07-07 Sun: (2.0h) Continued research for launch. High-level Insight: prioritizing liquidity provision through fee sharing, competitive pricing, and a platform liquidity token looks to be the best approach to significant growth and user adoption for perpetual exchanges.
 
-2024-07-06 Sat: Dive into previous [launch campaigns](https://harmonyone.notion.site/Launch-Review-Safe-dYdX-GMX-b204075fc0474c99833ed94749495a91?pvs=4), including Safe, DYDX, and GMX.
+2024-07-06 Sat: (2.0h) Dive into previous [launch campaigns](https://harmonyone.notion.site/Launch-Review-Safe-dYdX-GMX-b204075fc0474c99833ed94749495a91?pvs=4), including Safe, DYDX, and GMX.
 
 2024-07-05 Fri: Discussions with Recovery Multisig Custodians about recovery allocations. Currently modulo has not burned recent allocations, whereas Recovery 1 has been able to burn 100%. Over the counter market will potentially be released by modulo to account for this, also giving the ability to prioritize specific pre-hack wallets yet to participate in recovery. Sync with Yuriy, prioritization of assets to be listed for GMX v1 launch.
 
