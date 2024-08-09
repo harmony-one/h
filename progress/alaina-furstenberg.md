@@ -1,3 +1,7 @@
+2024-08-09 Fri: Tweet on the updated harmony.one community section. Tweet of testing from synthetix. Continued inquiries for speaking positions at Token2049.
+
+2024-08-08 Thu: [Promotion of TGI](https://x.com/harmonyprotocol/status/1821656263987712340). Syncing with Theo on the marketing for the RPC rate announcement and on listing Swap of DeFi Llama, which requires assistance from Protofire to merge the PR. Found issues in harmony.one/buy with the binance on-ramp showing a 404 error, need to test if it's only possible with a VPN. Plus, I noticed the Harmony Mainnet network on Metamask has a Base logo. 
+
 2024-08-07 Wed: [Promotion of TGI](https://x.com/harmonyprotocol/status/1821255188570894697) and wrote a [thread](https://x.com/harmonyprotocol/status/1821255188570894697) explaining the session's topic. [Promotion](https://x.com/harmonyprotocol/status/1821255188570894697) of ONE Show Episode 9. Syncing with Protofire to implement a 'download csv' feature on Blockscout to fulfill Artemis application. Applying to main and side events for speaking roles at Token2049.
 
 2024-08-06 Tue: Tweet promoting [ONE Show Episode 8](https://x.com/harmonyprotocol/status/1820961673827823920) on Youtube and [episode 9](https://x.com/harmonyprotocol/status/1820961107135361209) to be streamed tomorrow. Synced with Theo on marketing materials for protofire public rpcs updated rate limits. Editing of graphics for 🧠.s.country. 
