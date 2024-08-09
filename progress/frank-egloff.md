@@ -1,3 +1,7 @@
+2024-08-08 Thu: Configured fly.io custom domain to link vertex-trade project URL with [fe.country](https://fe.country), following Aaron's DNS mapping of fe.country to the Vertex application. Conducting an ongoing review of the Vertex trading page and associated module, focusing on perpetual trades functionality. Simultaneously analyzing a perpetual contract implementation to gain deeper insights into its structure and behavior.
+
+2024-08-08 Thu: Configured fly.io link vertex-tarde project URL with fe.country, after Aaron mapped fe.country DNS with vertex app. Worked on reviewing Vertex trading page and module to work on mock perp trades. Also, checked perpetual contracts implementations. 
+
 2024-08-07 Wed: Updated [Dockerfile to enhance performance](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2). Modified quote token to USDT on Harmony test network. Reviewed perpetual contract logic and tokens on Harmony bridge. Talked to Aaron about updating country DNS records to link Vertex fly.io URL to fe.country.
 
 2024-08-06 Tue: Deployed Vertex Trade App on [fly.io](https://vertex-trade.fly.dev/). Configured Dockerfile and fly.toml to work with Next.js monorepo. Fixing deploy errors related to ChainDev handling (supporting multiple chain environments such as local, testnet, harmonyMainnet, among others), package.json build scripts, and Sentry configuration.
