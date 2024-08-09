@@ -1,3 +1,11 @@
+2024-08-09: On the protocol side, I finished testing the golang version update, discussed results and asked for help from the team - [link](https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235).
+
+Additionally,  I've improved our continuous integration for the main repo after discussion with Konstantin about the current setup. It was a problem with hardcoded branches to the `harmony-test` repo, which leads to extra work if you change things like the Golang version update. [My solution](https://github.com/harmony-one/harmony/pull/4730) will help protocol devs to have an easier way to run against any `harmony-test` repo version.
+
+Finally, I'm helping a new devops engineer onboard Harmony. I've helped with localnet setup and guided how to use a watchdog tool.
+
+---
+
 2024-08-02: On the infra side, I've faced DOS attacks(>60K requests/second) on our mainnet RPCs resulting in overloaded nodes thus I've rolled out rate-limits to the mainnet to limit such possibilities and help us provide stable service to our users and partners.
 
 On the protocol side, I continue to help with the golang version update, it has been updated to the latest long time support - 1.22. I've done several compatibility tests in mainnet with all possible libp2p variations, results were differ from the results in devnet, and I need to do more testing.
