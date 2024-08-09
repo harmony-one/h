@@ -1,3 +1,6 @@
+2024-08-08 Thu: Synced with Pablo and Theo about the most relevant additional features on top of GMX. We decided that the simplest and most relevant would be the integration of autocompounder. Morphex (gmx fork) does it natively. Researched morphex [staked GLP contract](https://github.com/morphex-labs/morphex-contracts/blob/main/contracts/staking/StakedGlp.sol). Working on integrating these contracts into our ecosystem.
+
+
 2024-08-07 Wed: Synchronized with Pablo about adding additional features for GMX v1. Researched [features](https://www.notion.so/harmonyone/Campaigns-and-Incentives-06f7083707614025a6d92b9d32f054ce) that can be implemented on top of GMX: Autocompounding vaults, Leverage GLP, [Delta-netutral vault](https://medium.com/deus-ex-dao/deep-dive-into-rage-trades-delta-neutral-vaults-3e8f71af82c3) (by example [Umami delta-neutral vaults](https://frogsanon.neworder.network/articles/delta-neutral-yield-with-umami-finance) for GMX).
 
 2024-08-06 Tue: Reviewed the draft technical [documentation](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb) from Theo and Pablo. Worked om resolving earn page issues: stake v1 feature, reward stats display etc.
