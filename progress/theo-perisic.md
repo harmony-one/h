@@ -1,3 +1,9 @@
+2024-08-09 Fri: Sync with Pablo. Insight: GMX token discussion and alternative path to incentivize traders and liquidity providers further than GMX. Currently GMX only incentivizes liquidity providers and governance.
+
+2024-08-08 Thu: Operations and unboarding. Attended [Harmony X space](https://x.com/harmonyprotocol/status/1821672065247932911). Iterations for [technical documentation](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb#551e929924d647e796c82349e09a4802): Oracle explanations and adding How-To guide for GX.
+
+2024-08-07 Wed: [ONEshow](https://x.com/Tenacious_DeFi/status/1821348517753053416) speaker. Sync with David from Swoop for contacts with 4 bridge and DEX aggregators. (Odos, Kyber, Li.Fi, 0x) Prioritizing finalizing Swap listing on OpenOcean.
+
 2024-08-06 Tue: Sync with Colossus staking for bug bounty and institutional staking solutions for Harmony moving forward. Created initial draft of [technical documentation for GX](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb#551e929924d647e796c82349e09a4802) and sync with Pablo and Yuriy. Prepared Protofire rate limit update.
 
 2024-08-05 Mon: Working with protofire to include block explorer contracts in csv format for [Artimis support](https://www.artemis.xyz/). Pyth network support for Harmony mainnet outreach.
