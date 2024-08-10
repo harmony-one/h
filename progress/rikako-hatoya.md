@@ -1,3 +1,5 @@
+2024-08-09 Fri: Viewed Harmony X Space recording, further looked into CLI scripts for squeeth (MintAndShort, MintAndLP, OpenLong). Started working on perp trading with telegram wallet (created wallet+bought tokens on Tonkeeper, purchased telegram account on Fragment), tested with Storm Trade Bot by opening a position (TON-USDCM).
+
 2024-08-08 Thu: Facing some issues with hardhat when deploying some of the contracts in squeeth, working on debugging. Also looked into the new swap router updates (DeploySwapRouter.sol, GetCode.sol).
 
 2024-08-07 Wed: Looked into squeeth-monorepo, compiled some trade executions for test, looked into ISwapRouter.sol and Test.sol for exactInputSingle issue as well as understanding overall code + reviewing recent commits. Continued looking into signer data for earn page on gmx.
