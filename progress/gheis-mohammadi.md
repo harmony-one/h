@@ -1,3 +1,16 @@
+**2024-08-10 Sat:**
+Last week was pretty productive as I worked on improving different parts of the Harmony project. One of the things I tackled was the Network Time Protocol (NTP) functionality. In [PR #4728](https://github.com/harmony-one/harmony/pull/4728), I reworked the NTP setup to support multiple servers, which should make time synchronization more reliable. I also fixed an issue where the NTP queries were timing out in localnet environments by extending the timeout from 10 to 30 seconds. Plus, I made some tweaks to error handling and logging to make troubleshooting easier.
+
+I also fixed an annoying issue where the allowedtxs.txt file would cause errors if it wasn’t in the .hmy directory. In [PR #4731](https://github.com/harmony-one/harmony/pull/4731), I added a simple check to make sure the file exists before moving forward, which should help avoid any unexpected hiccups during setup.
+
+Another important fix was in [PR #4724](https://github.com/harmony-one/harmony/pull/4724), where I addressed a problem with the boot node address parsing. The script would sometimes mess up if there was extra printed info which goes on the same line as the address, leading to boot failures. I adjusted it so that the address is printed on a new line, which should fix the boot process.
+
+I also took some time to clean up the debug scripts in [PR #4729](https://github.com/harmony-one/harmony/pull/4729). Now, unnecessary error messages won’t pop up when trying to delete non-existent directories or files, which should make the debugging process a little less noisy.
+
+Lastly, I made good progress on the boot node RPC feature [boot/rpc](https://github.com/harmony-one/harmony/compare/dev...feature/boot_rpc). It’s about 90% done, though there’s a build issue I’m currently looking into. Once that’s sorted out, this feature will give us a solid RPC interface for boot nodes, making boot node monitoring a lot more efficient.
+
+---
+
 2024-08-02 Sat: Last week, my main focus was increasing the visibility of boot nodes. I am working on adding an RPC server to the boot node since it currently lacks any RPC and does not expose any information or metadata. I am addressing this in a pull request, aiming to add at least a few APIs to allow better and more efficient monitoring. This way, we can observe and monitor the connectivity and peers connected to the boot node. This work is in progress, and the code is already in the feature/boot_rpc branch.
 
 The progress is at 70%, with thousands of lines of code added. I will continue working on this next week as well.
