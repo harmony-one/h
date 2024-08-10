@@ -1,4 +1,4 @@
-2024-08-09 Fri: Tweet on the updated harmony.one community section. Tweet of testing from synthetix. Continued inquiries for speaking positions at Token2049.
+2024-08-09 Fri: [Tweet](https://x.com/harmonyprotocol/status/1822063188621533443) on the updated harmony.one community section. Continued inquiries for speaking positions at Token2049. Syncing with Artem on SNX Tokens and [my testing of Synthetix](https://www.notion.so/harmonyone/SYN-Testing-Notes-c65a5c8a93f549e4ac240160484cde54).
 
 2024-08-08 Thu: [Promotion of TGI](https://x.com/harmonyprotocol/status/1821656263987712340). Syncing with Theo on the marketing for the RPC rate announcement and on listing Swap of DeFi Llama, which requires assistance from Protofire to merge the PR. Found issues in harmony.one/buy with the binance on-ramp showing a 404 error, need to test if it's only possible with a VPN. Plus, I noticed the Harmony Mainnet network on Metamask has a Base logo. 
 
