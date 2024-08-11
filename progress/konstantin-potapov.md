@@ -1,3 +1,9 @@
+2024-08-09 Fri:
+- Collaborated with Ulad to update harmony-test repo. Even it flexible to run various branches and not the default one, it's impossible to configure to run certain golang version instead of default. We were working on additional arguments which could be provided on start.  
+- Created new version of commission split, where necessary to sign only 67% of the validators. It allows to skip waiting time for the rest of the validators, but requires code changes in the network and the signing layers, and i working to achieve it being stable.  
+- Created new fix for the theoretical zero division issue, it does not happen, but when harmony nodes count will be zero, it will. Issue was provided by Soph.
+- Was reviewing Pull Requests, merging and providing feedback.
+
 2024-08-02 Fri: Updated golang to 1.22. With Ulad tested made additional tests golang 1.22. Version 1.22 does not have incompatibility or stability issues. Results can be found https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235
 
 **Research on 1-Second Finality and Validator Rewards in Block Signing**
