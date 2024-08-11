@@ -1,3 +1,5 @@
+2024-08-09 Fri: Implemented PerpetualContract with constructor parameters for productId, collateral token address, and Oracle address. Incorporated productId to align with PerpEngine's addProduct method, which differs from SpotEngine's token address usage. Enhanced Oracle contract constructor with a boolean parameter, enabling selection between a custom oracle for testing and Chainlink integration for staging/production environments.   
+
 2024-08-08 Thu: Configured fly.io custom domain to link vertex-trade project URL with [fe.country](https://fe.country), following Aaron's DNS mapping of fe.country to the Vertex application. Conducting an ongoing review of the Vertex trading page and associated module, focusing on perpetual trades functionality. Simultaneously analyzing a perpetual contract implementation to gain deeper insights into its structure and behavior.
 
 2024-08-08 Thu: Configured fly.io link vertex-tarde project URL with fe.country, after Aaron mapped fe.country DNS with vertex app. Worked on reviewing Vertex trading page and module to work on mock perp trades. Also, checked perpetual contracts implementations. 
