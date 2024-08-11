@@ -1,6 +1,26 @@
-2024-07-23 Thu (4.4h): Security audit on GX deployments, modifications, relevant server components, and contract snippets. Discussion on liquidity provider risk and incentives for GMX, Synthetix, Opyn, Panoptic. Vertex modification code and mock review
+2024-08-09 Sat (1.1h): Panoptic CLI - continued, fix bugs with hooks, make network selection dynamic, research on MetaMask SDK and integration methods through CLI
 
-2024-07-23 Wed (2.1h): Security audit on GX. Review comments on lending market. Revisit notes on Euler v2 and Ethena. Discussion on Vertex missing components. Revisit GMX, Synthetix, Opyn, Panoptic liquidity provision mechanisms and prepare notes
+2024-08-09 Fri (8.1h): Panoptic CLI - continued, implementing hooks and basic stats, help, and config functionalities
+
+2024-08-08 Thu (3.2h): Panoptic CLI - local deployment simulation, forking mainnet states from different blockchains, type and linting system setup, debugging spec-noncomforming RPC response issues. Exchange deployment on domain - debugging and DNS record remapping. Debug Synthetix token naming
+
+2024-08-05 Mon (2h): Panoptic CLI - scaffolding and local deployment. Domain DNS record setting feature discussion and planning. Derivative discussion and review
+
+2024-08-02 Fri (1.7h): Review Panoptic simulation report
+
+2024-07-30 Tue (1.5h): Pantopic semi-fungible position manager math and state variablesanalysis. Domain management and DNS record setting implementation planning. Uniswap v3 SDK review.
+
+2024-07-29 Mon (3h): GX liveness and safety review. Discussion on Keeper, watcher, oracle update mechanisms, and potential monitoring dashboard. Quick evaluation on progress and code quality. Pantopic semi-fungible position manager review
+
+---
+
+2024-07-28 Sun (0.25h): Pantopic semi-fungible position manager review
+
+2024-07-26 Fri (2.25h): Analysis and discussion on Synthetix token minting, staking, allocation, and deployment. Vertex protocol token and quote token usage analysis and discussion
+
+2024-07-25 Thu (4.4h): Security audit on GX deployments, modifications, relevant server components, and contract snippets. Discussion on liquidity provider risk and incentives for GMX, Synthetix, Opyn, Panoptic. Vertex modification code and mock review
+
+2024-07-24 Wed (2.1h): Security audit on GX. Review comments on lending market. Revisit notes on Euler v2 and Ethena. Discussion on Vertex missing components. Revisit GMX, Synthetix, Opyn, Panoptic liquidity provision mechanisms and prepare notes
 
 2024-07-23 Tue (7.5h): Debugging Synthetix ProxyERC20 and SNX token source. Debugging SNX oracle. Security audit on GX. Fix sites failed to auto-renew SSL. Fix URL redirect configuration endpoint bug which left residual CNAME record and prevents redirections taking effect. Fix domain manager API path which prevents CNAME and redirect configuration from functioning. Fix notion page URL configuration and parsing bug in page manager. Migrate new special domain. Write lending market operation and security guide
 
