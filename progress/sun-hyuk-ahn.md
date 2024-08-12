@@ -1,4 +1,4 @@
-2024-08-12 Mon (On call 12 hr): 
+2024-08-12 Mon (On call 12 hr): CLI completion ETA 08/14 (Wed).
 
 ---
 
