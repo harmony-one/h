@@ -1,3 +1,7 @@
+2024-08-12 Mon: [renamed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/9f96c642c51b762983d6a4bd427c6c208a17b928) SNX -> 1SY token in [sy.country](https://sy.country/) client, deployed an update. Checking possible bug in staking dashboard validator profile update (request from Soph).
+
+---
+
 2024-08-09 Fri: [added](https://github.com/protofire/interface/pull/7/files) [1SY](https://github.com/ArtemKolodko/swap-token-list/pull/1/files) token to swap.country (for now running locally), provided liquidity and tested ONE/1SY pair swap. swap.country pull requests ready for review, will be merged to main branch after we'll implement oracles feed for 1SY token.
 
 2024-08-08 Thu: [deployed](https://github.com/ArtemKolodko/synthetix/pull/2/commits/40b11fd2a1020dad5257a0dd82f279c65cfa0901) new version of Synthetix with renamed system token (SNX -> 1SY); 1SY token in [Explorer](https://explorer.harmony.one/address/one1lz8tmx0p7am0hlggrphpak76m9y3znguj8wdsl). Updated [sy.country](https://sy.country/). Working on adding 1SY token to swap.country.
