@@ -1,4 +1,16 @@
-2024-08-05 Mon: Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
+2024-08-12 Mon (On call 12 hr): 
+
+---
+
+2024-08-09 Fri (On call 12 hr): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
+
+2024-08-08 Thu (On call 12 hr): Updating CLI option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
+
+2024-08-07 Wed (On call 12 hr): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
+
+2024-08-06 Tue (On call 12 hr): Running into out of gas error and working to fix it. Transactions receipts show as successful and the explorer shows successful but running into `out of gas` error for the internal transactions.
+
+2024-08-05 Mon (On call 12 hr): Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
 
 ---
 
@@ -16,7 +28,7 @@
 
 ---
 
-2024-07-27 Fri: command line interface now accepting user inputs for the option creation (ETA 07/01 Thu).
+2024-07-27 Fri: command line interface now accepting user inputs for the option creation (ETA 08/01 Thu).
 
 2024-07-26 Thu: During option creation, there are various arguments that need to be supplemented by the user. Finding the optimal way to do so without visualization.
 
