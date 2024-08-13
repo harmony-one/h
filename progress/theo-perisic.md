@@ -1,3 +1,9 @@
+2024-08-12 Mon: Sync with Pablo for trader incentives, working through tokenomics for GX platform and GXP. Update marketing with [Harmony 2024 report](https://stse.substack.com/p/harmony-2024-ecosystem-sustainable), Token2049 attendance, and [Mainnet metrics via Blockscout explorer](https://explorer.harmony.one/stats): 8m+ addresses, 800m+ transactions, 143k contracts. 
+
+2024-08-11 Sun: (3.0h) Attended [CryptoLandDAO](https://twitter.com/Crypto_LandDAO) community space. Review of fee splits from leading perpetual exchanges.
+
+2024-08-10 Sat: (1.0h) Communications with metamaks representative to fix Harmony mobile logo.
+
 2024-08-09 Fri: Sync with Pablo. Insight: GMX token discussion and alternative path to incentivize traders and liquidity providers further than GMX. Currently GMX only incentivizes liquidity providers and governance.
 
 2024-08-08 Thu: Operations and unboarding. Attended [Harmony X space](https://x.com/harmonyprotocol/status/1821672065247932911). Iterations for [technical documentation](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb#551e929924d647e796c82349e09a4802): Oracle explanations and adding How-To guide for GX.
