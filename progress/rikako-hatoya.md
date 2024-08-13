@@ -1,5 +1,7 @@
 2024-08-12 Mon: Tested telegram apps such as staking (Tonstakers, TonPad), wallets such as Telenova and Pixel Wallet, and looked into NotCoin. Also looked into more apps listed on Tonkeeper.
 
+---
+
 2024-08-11 Sun (1.5h): Tested for non-US username on telegram. Looking into ways to override territorial issues.
 
 2024-08-10 Sat (2.0h): Tested with TON Space on Telegram wallet, found main that the main feature was that minted NFTs for Telegram Usernames ([contract here](https://tonviewer.com/EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi)) shows as "Collectibles" within the app (still in beta mode but users can also see transactions, stake, and swap within the app.) Tested more NFT and Utilities apps on Tonkeeper, found interesting apps such as TON Domains, TON Midjourney, and TON VPN (can be used with OpenVPN).
