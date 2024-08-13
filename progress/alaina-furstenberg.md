@@ -2,9 +2,9 @@
 
 ---
 
-2024-08-11 Sun: Follow up with Protofire on adding a csv export to Blockscout. Followed up on messages to Bounce Finance for speaking roles at Token2049.
+2024-08-11 Sun (1.0 hr): Follow up with Protofire on adding a csv export to Blockscout. Followed up on messages to Bounce Finance for speaking roles at Token2049.
 
-2024-08-10 Sat: Design of Telegram graphic for 🧠.s.country.
+2024-08-10 Sat (1.0 hr): Design of Telegram graphic for 🧠.s.country. Review of team's /progress formatting.
 
 2024-08-09 Fri: [Tweet](https://x.com/harmonyprotocol/status/1822063188621533443) on the updated harmony.one community section. Continued [inquiries](https://www.notion.so/harmonyone/Contacted-Events-to-Speak-beb2a3e8e4514fed91f788137227a6c2?pvs=4) for speaking positions at Token2049. Syncing with Artem on SNX Tokens and [my testing of Synthetix](https://www.notion.so/harmonyone/SYN-Testing-Notes-c65a5c8a93f549e4ac240160484cde54).
 
