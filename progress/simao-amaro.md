@@ -1,4 +1,6 @@
-2024-08-09 Fri: I added and tested Close Long, Close Short CLI [scripts](https://github.com/0x73696d616f/squeeth-monorepo/commit/a7bdcc5a82720bb156c2546329c8b2b9450b05cf). I investigated a present issue with the Uniswap Quoter.
+2024-08-12 Mon: I added Crab StrategyV2 deposit and withdraw Command Line Interface (CLI) scripts. I [resolved](https://github.com/0x73696d616f/squeeth-monorepo/commit/ac6e577c0485ca80966b7db9e6747206097d1214) the Uniswap Quoter issue.
+
+2024-08-09 Fri: I added and tested Close Long, Close Short Command Line Interface (CLI) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/commit/a7bdcc5a82720bb156c2546329c8b2b9450b05cf). I investigated a present issue with the Uniswap Quoter.
 
 2024-08-08 Thu: I added and tested Mint and Short, Mint and Liquidity Provision and Open Long Command Line Interface (CLI) scripts [1](https://github.com/0x73696d616f/squeeth-monorepo/commit/fa1a72a7c7a8c769338d71142a50a950a21c5b08), [2](https://github.com/0x73696d616f/squeeth-monorepo/commit/70f04330b8f9c7bb59159a346525b058cf36b040) and [3](https://github.com/0x73696d616f/squeeth-monorepo/commit/2b3f6297739cb414bbd3aadf55cd441235a2032b).
 
