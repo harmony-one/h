@@ -1,3 +1,7 @@
+2024-08-12 Mon: Corrected and improved the update of Rewards scripts. Worked on adding paired wGXP with native-protocol token, GMX, to form our native liquidity pair (wGXP-GMX) without the need for a or second native liquidity pair. Synchronized with Artem regarding bug in staking dashboard validator profile update (request from Soph) - looks like there is a problem with SSR caching.
+
+---
+
 2024-08-09 Fri: Worked on autocompounder feature. Expanded the deployment script by adding the StakedGlp contract to the deployment (provide a way to transfer staked GLP tokens by unstaking from the sender and staking for the receiver). Testing with RewardRouterV2.
 
 2024-08-08 Thu: Synced with Pablo and Theo about the most relevant additional features on top of GMX. We decided that the simplest and most relevant would be the integration of autocompounder. Morphex (gmx fork) does it natively. Researched morphex [staked GLP contract](https://github.com/morphex-labs/morphex-contracts/blob/main/contracts/staking/StakedGlp.sol). Working on integrating these contracts into our ecosystem.
