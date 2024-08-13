@@ -1,3 +1,11 @@
+2024-08-12 Mon: [Thread](https://x.com/harmonyprotocol/status/1823096082878071005) on the relation between the yen, US dollar, and BTC. Editing of ONE Show episode 9, to be uploaded tomorrow. Experimentation with Gen 3 on Runway ML. Insights: Image to video generation is weak, text to video generation, when prompted correctly, is more successful.
+
+---
+
+2024-08-11 Sun: Follow up with Protofire on adding a csv export to Blockscout. Followed up on messages to Bounce Finance for speaking roles at Token2049.
+
+2024-08-10 Sat: Design of Telegram graphic for 🧠.s.country.
+
 2024-08-09 Fri: [Tweet](https://x.com/harmonyprotocol/status/1822063188621533443) on the updated harmony.one community section. Continued [inquiries](https://www.notion.so/harmonyone/Contacted-Events-to-Speak-beb2a3e8e4514fed91f788137227a6c2?pvs=4) for speaking positions at Token2049. Syncing with Artem on SNX Tokens and [my testing of Synthetix](https://www.notion.so/harmonyone/SYN-Testing-Notes-c65a5c8a93f549e4ac240160484cde54).
 
 2024-08-08 Thu: [Promotion of TGI](https://x.com/harmonyprotocol/status/1821656263987712340). Syncing with Theo on the marketing for the RPC rate announcement and on listing Swap of DeFi Llama, which requires assistance from Protofire to merge the PR. Found issues in harmony.one/buy with the binance on-ramp showing a 404 error, need to test if it's only possible with a VPN. Plus, I noticed the Harmony Mainnet network on Metamask has a Base logo. 
