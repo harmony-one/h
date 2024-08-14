@@ -1,3 +1,7 @@
+2024-08-14 Wed: Continue work on new deploying and configuring scripts with new staking contracts for autocompounder feature. Reviewed and integrated an new oracles [synth-oracle](https://github.com/polymorpher/synth-oracle/tree/main/contracts) from Aaron for gmx first priceFeed.
+
+2024-08-13 Tue: [Added](https://github.com/harmony-one/h-gmx-contracts/commit/e7e4e1f2a45cc42a9b39d0d4965bcb3256dc5f4e) RewardRouterV4 and [StakingRewardRouter](https://github.com/harmony-one/h-gmx-contracts/commit/83044f2ec3dcfcfcf217d1ddbc2ed8624fd9987a) based on contracts that use [morphex.trade](https://docs.morphex.trade). Worked on updating the deployment scripts and integrating new contracts into the current system.
+
 2024-08-12 Mon: Corrected and improved the update of Rewards scripts. Worked on adding paired wGXP with native-protocol token, GMX, to form our native liquidity pair (wGXP-GMX) without the need for a or second native liquidity pair. Synchronized with Artem regarding bug in staking dashboard validator profile update (request from Soph) - looks like there is a problem with SSR caching.
 
 ---
