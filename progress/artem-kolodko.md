@@ -1,3 +1,5 @@
+2024-08-13 Tue: [created](https://github.com/ArtemKolodko/synthetix/pull/2/commits/4eedacf9c72c0e8f6ee1537053166a63a3d94259) a script to change the price feed for existed synth (preparation for 1SY feed launch). Researched Synthetix [litepaper](https://developer.synthetix.io/litepaper/) to better understand the core principles and what kind of projects can be launched on top of SY.
+
 2024-08-12 Mon: [renamed](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/9f96c642c51b762983d6a4bd427c6c208a17b928) SNX -> 1SY token in [sy.country](https://sy.country/) client, deployed an update. Checking possible bug in staking dashboard validator profile update (request from Soph).
 
 ---
