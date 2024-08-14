@@ -1,3 +1,5 @@
+2024-08-13 Tue: Reviewed GX from Pablo and suggested fee parity with competitors with % of fees to larger trading competitions rather than rebates, potentially resulting in GMX fee % parity but with more incentives for traders. GXP would remain at 70% fee collection for liquidity providers. Spoke with recovery multisig custodians (RMC) for elections.
+
 2024-08-12 Mon: Sync with Pablo for trader incentives, working through tokenomics for GX platform and GXP. Update marketing with [Harmony 2024 report](https://stse.substack.com/p/harmony-2024-ecosystem-sustainable), Token2049 attendance, and [Mainnet metrics via Blockscout explorer](https://explorer.harmony.one/stats): 8m+ addresses, 800m+ transactions, 143k contracts. 
 
 2024-08-11 Sun: (3.0h) Attended [CryptoLandDAO](https://twitter.com/Crypto_LandDAO) community space. Review of fee splits from leading perpetual exchanges.
