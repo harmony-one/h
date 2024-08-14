@@ -1,3 +1,5 @@
+2024-08-13 Tue: Fixed [deploy and initialization scripts](https://github.com/fegloff/vertex-contracts/pull/1), enhancing Perpetual and PerpOracle contracts. Introduced OrderBook contract and modified hardhat configuration file to support deployments across multiple chains. Progressed with the review of the Vertex trading page, focusing on perpetual operations.
+
 2024-08-12 Mon: Enhanced PerpOracle contract by introducing randomness to the getCustomPrice method, improving price simulation for testing scenarios. Created deploy scripts for Perpetual and PerpOracle contracts. Implemented scripts to set initial custom price for USDC token and add product to PerpEngine contract, facilitating contract initialization. Developing a basic order book contract as an alternative to the OffchainExchange contract.
 
 ---
