@@ -1,3 +1,5 @@
+2024-08-13 Tue: I added a profitable trades Command Line Interface (CLI) script. I added a forked test showing the profitable trades. [Link](https://github.com/0x73696d616f/squeeth-monorepo/commit/4fe8aaefd311d1daf1b97feb97e07ee7fe577bb9).
+
 2024-08-12 Mon: I added Crab StrategyV2 deposit and withdraw Command Line Interface (CLI) scripts. I [resolved](https://github.com/0x73696d616f/squeeth-monorepo/commit/ac6e577c0485ca80966b7db9e6747206097d1214) the Uniswap Quoter issue.
 
 ---
