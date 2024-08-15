@@ -1,3 +1,5 @@
+2024-08-14 Wed: Tested Telegram wallet P2P market by creating new overseas account. Started working on recreating [lottery](https://github.com/carokiainfox/Lottery) on Telegram app by creating a new bot, currently working on implementing bot commands and integrating TON.
+
 2024-08-13 Tue: Read/watched and researched through the links on [/yen](https://xn--qv9h.s.country/p/black-forex-yen-carry-trade-yield) (dollarendgame, delphi digital). Resolving telegram wallet region issues (requested verification but their automated process is faulty, cannot does not detect residency document in foreign languages. Changing number to JP number did not work. Currently working on making new account with JP number.)
 
 2024-08-12 Mon: Tested telegram apps such as staking (Tonstakers, TonPad), wallets such as Telenova and Pixel Wallet, and looked into NotCoin. Also looked into more apps listed on Tonkeeper.
