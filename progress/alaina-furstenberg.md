@@ -1,3 +1,7 @@
+2024-08-14 Wed: [Thread](https://x.com/harmonyprotocol/status/1823874019206291834) on TON's impact on GameFi growth. Promotional [tweet](https://x.com/harmonyprotocol/status/1823814677773918259) summarizing of ONE Show episode 9. Follow up on speaking opportunities. 
+
+2024-08-13 Tue: Upload of [ONE Show Episode 9](https://youtu.be/x25nTWQpgqw?si=F6uWJeoHZ3IPYsgL) and re-design of thumbnails for episodes 1, 6, and 9. Purchased more credits to test Gen 3 on Runway, insights: it's too tedious testing generation by generation, with clear direction employing a script to [automate the generations](https://useapi.net/docs/articles/runway-bash) (with an unlimited subscription) is the easiest way to get several generations. 
+
 2024-08-12 Mon: [Thread](https://x.com/harmonyprotocol/status/1823096082878071005) on the relation between the yen, US dollar, and BTC. Editing of ONE Show episode 9, to be uploaded tomorrow. Experimentation with Gen 3 on Runway ML. Insights: Image to video generation is weak, text to video generation, when prompted correctly, is more successful.
 
 ---
