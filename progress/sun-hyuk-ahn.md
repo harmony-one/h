@@ -1,10 +1,12 @@
-2024-08-12 Mon (On call 12 hr): CLI completion ETA 08/14 (Wed).
+2024-08-22 Tue (On call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
+
+2024-08-12 Mon (On call 12 hr): Command line interface completion ETA 08/14 (Wed).
 
 ---
 
 2024-08-09 Fri (On call 12 hr): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
 
-2024-08-08 Thu (On call 12 hr): Updating CLI option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
+2024-08-08 Thu (On call 12 hr): Updating command line interface option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
 
 2024-08-07 Wed (On call 12 hr): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
 
