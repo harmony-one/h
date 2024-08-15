@@ -1,3 +1,7 @@
+2024-08-15 Thu: I added deposit and withdraw CLI (Command Line Interface) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/commit/65b92ceb5eab89636fe577218c279d7a5e32b15a) for the Zen Bull Vault strategy.
+
+2024-08-14 Wed: I added withdraw and burn LP (Liquidity Provision) CLI (Command Line Interface) [script](https://github.com/0x73696d616f/squeeth-monorepo/commit/9e5c304636d17d3c9e284df6a419628fcae4762f).
+
 2024-08-13 Tue: I added a profitable trades Command Line Interface (CLI) script. I added a forked test showing the profitable trades. [Link](https://github.com/0x73696d616f/squeeth-monorepo/commit/4fe8aaefd311d1daf1b97feb97e07ee7fe577bb9).
 
 2024-08-12 Mon: I added Crab StrategyV2 deposit and withdraw Command Line Interface (CLI) scripts. I [resolved](https://github.com/0x73696d616f/squeeth-monorepo/commit/ac6e577c0485ca80966b7db9e6747206097d1214) the Uniswap Quoter issue.
