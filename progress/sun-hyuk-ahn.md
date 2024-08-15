@@ -1,3 +1,5 @@
+2024-08-23 Wed: Continued working on strategy creation. Working on different calculation that will allow for the strategy creation once user inputs the required values when creating options. Also, cleaning up repo in order to be made for public.
+
 2024-08-22 Tue (On call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
 
 2024-08-12 Mon (On call 12 hr): Command line interface completion ETA 08/14 (Wed).
