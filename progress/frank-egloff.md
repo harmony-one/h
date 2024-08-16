@@ -1,3 +1,5 @@
+2024-08-15 Thu: [Implemented PerpetualFactory contract](https://github.com/fegloff/vertex-contracts/pull/1) to streamline creation of new perpetual contracts. Fixed critical issues in perpetual contract creation process, focusing oracle price setting and proper order book initialization. Refined initialization script to efficiently handle perp engine and post-engine tasks.
+
 2024-08-14 Wed: Integrating USDC, USDT, WBTC, WONE, and ETH from Harmony mainnet into Vertex Decentralized Finance Trade application. Updating frontend components, generating mock data, and modifying contract scripts to support these new tokens. 
 
 2024-08-13 Tue: Fixed [deploy and initialization scripts](https://github.com/fegloff/vertex-contracts/pull/1), enhancing Perpetual and PerpOracle contracts. Introduced OrderBook contract and modified hardhat configuration file to support deployments across multiple chains. Progressed with the review of the Vertex trading page, focusing on perpetual operations.
