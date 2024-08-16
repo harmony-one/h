@@ -1,3 +1,7 @@
+2024-08-15 Thu: [Confirmation from Metamask team](https://github.com/MetaMask/metamask-mobile/pull/10600) for resolving issue with Harmony logo on mobile version. Will be live in version 7.29.0. Reviewed potential telegram mini-app for DeFi.
+
+2024-08-14 Wed: Swap listing approvals for Binance smart chain USDT. Made contact with Pyth developer, moving conversation to a dedicated Pyth <> Harmony channel. Current plan is to integrate Pyth price feeds for our DeFi suite on Harmony mainnet.
+
 2024-08-13 Tue: Reviewed GX from Pablo and suggested fee parity with competitors with % of fees to larger trading competitions rather than rebates, potentially resulting in GMX fee % parity but with more incentives for traders. GXP would remain at 70% fee collection for liquidity providers. Spoke with recovery multisig custodians (RMC) for elections.
 
 2024-08-12 Mon: Sync with Pablo for trader incentives, working through tokenomics for GX platform and GXP. Update marketing with [Harmony 2024 report](https://stse.substack.com/p/harmony-2024-ecosystem-sustainable), Token2049 attendance, and [Mainnet metrics via Blockscout explorer](https://explorer.harmony.one/stats): 8m+ addresses, 800m+ transactions, 143k contracts. 
