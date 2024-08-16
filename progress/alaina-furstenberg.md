@@ -1,3 +1,7 @@
+2024-08-16 Fri: Harmony community section update and tweet. Design of graphics for Hold1. Focusing on designing graphics that market new user rewards & also more intensive infographics that explain the mechanics.
+
+2024-08-15 Thu: [Thread](https://x.com/harmonyprotocol/status/1824226923100409949) on harmony.one/perps. Testing of staking on sy.country, successfully staked 2500 1SY and swapped trade 1SY / 1USDC pair on Swap. Synced with Artem on my experience and on next steps for dev testinng. ONE Bot Love group engagement. 
+
 2024-08-14 Wed: [Thread](https://x.com/harmonyprotocol/status/1823874019206291834) on TON's impact on GameFi growth. Promotional [tweet](https://x.com/harmonyprotocol/status/1823814677773918259) summarizing of ONE Show episode 9. Follow up on speaking opportunities. 
 
 2024-08-13 Tue: Upload of [ONE Show Episode 9](https://youtu.be/x25nTWQpgqw?si=F6uWJeoHZ3IPYsgL) and re-design of thumbnails for episodes 1, 6, and 9. Purchased more credits to test Gen 3 on Runway, insights: it's too tedious testing generation by generation, with clear direction employing a script to [automate the generations](https://useapi.net/docs/articles/runway-bash) (with an unlimited subscription) is the easiest way to get several generations. 
