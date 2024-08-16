@@ -1,3 +1,17 @@
+2024-08-16: On the protocol side, as result of previous week work, I've pointed Konstantin work to the harmony-test repo with [go1.22 branch](https://github.com/harmony-one/harmony/pull/4736).
+
+On the infra side: I've set up STORJ snapshots for the shard 1 archival node, it wouldn't sky-rocket our costs(only 6$ per 3 month 120 GB), but give us a reliable shared backup feature. Previously, we had a problem with db corruption on the RPC node, this will mitigate consequences for such scenarios.
+
+Additionally, I'm currently checking the issue with the beacon stuck, that we have from time to time in all our chains.
+
+And finally, there were infra incidents on Wednesday like SnapDB server outage, testnet validators fork, and outages our infra providers which I've fixed.
+
+---
+
+2024-08-12: Small 1 day PTE
+
+---
+
 2024-08-09: On the protocol side, I finished testing the golang version update, discussed results and asked for help from the team - [link](https://github.com/harmony-one/harmony/pull/4722/#discussion_r1702049235).
 
 Additionally,  I've improved our continuous integration for the main repo after discussion with Konstantin about the current setup. It was a problem with hardcoded branches to the `harmony-test` repo, which leads to extra work if you change things like the Golang version update. [My solution](https://github.com/harmony-one/harmony/pull/4730) will help protocol devs to have an easier way to run against any `harmony-test` repo version.
