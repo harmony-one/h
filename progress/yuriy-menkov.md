@@ -1,3 +1,5 @@
+2024-08-15 Thu: Worked on scripts for testing the full staking cycle from deposit to get claimable rewards using contracts: RewardRouterV4, StakedGmxTracker, BonusGmxTracker, FeeGmxTracker. Get errors at the step when RewardRouter deposits the StakedGmxTracker tokens into the BonusGmxTracker - debugging the problem, working on fixing it and selecting the correct configuration.
+
 2024-08-14 Wed: Continue work on new deploying and configuring scripts with new staking contracts for autocompounder feature. Reviewed and integrated an new oracles [synth-oracle](https://github.com/polymorpher/synth-oracle/tree/main/contracts) from Aaron for gmx first priceFeed.
 
 2024-08-13 Tue: [Added](https://github.com/harmony-one/h-gmx-contracts/commit/e7e4e1f2a45cc42a9b39d0d4965bcb3256dc5f4e) RewardRouterV4 and [StakingRewardRouter](https://github.com/harmony-one/h-gmx-contracts/commit/83044f2ec3dcfcfcf217d1ddbc2ed8624fd9987a) based on contracts that use [morphex.trade](https://docs.morphex.trade). Worked on updating the deployment scripts and integrating new contracts into the current system.
