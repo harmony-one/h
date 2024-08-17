@@ -1,4 +1,4 @@
-2024-08-16 Fri: Continued working on Hold1: looked into smart contract logic for "Hold1 train" (step 4). Also worked on implementing user regsitration and management on telegram bot (step 5).
+2024-08-16 Fri: Continued working on Hold1: looked into + outlined process for smart contract logic to implement "Hold1 train" (step 4). Also worked on implementing user regsitration and management on telegram bot (step 5).
 
 2024-08-15 Thu: Created [Harmony Lottery website](https://rika97.github.io/HarmonyLotteryWebsite/) using [Github Pages](https://github.com/rika97/HarmonyLotteryWebsite/tree/master), created [Telegram bot](https://github.com/rika97/HarmonyLottery) (@HarmonyLotteryBot) which now has 4 interactive commands (/register, /buyticket, /draw, /winners), and deployed bot server on Heroku. Now working on step 5 of [Lottery](https://github.com/carokiainfox/Lottery), by creating user database for implementing lottery logic with mongoose.
 
