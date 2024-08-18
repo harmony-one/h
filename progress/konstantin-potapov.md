@@ -1,3 +1,9 @@
+2024-08-16 Fri:
+- Working on branch with 1 second finality and 67% signers count. It passed 75% of tests
+- Was investigating the `context deadline` issue occurring on the localnet with Streamsync. During the investigation, I discovered duplicated connections. When a connection is replaced with a new one, any requests in progress on the old connection are discarded, leading to the deadline error. However, I have yet to determine the root cause of the connection duplication.
+- Fixed an issue with `legacysync` where incorrect ports were being used, causing shard 0 to receive information intended for shard 1. This miscommunication forced unnecessary synchronization, disrupting consensus and preventing the proposal of new blocks. 
+- Reviewing and merging pull requests.  
+
 2024-08-09 Fri:
 - Collaborated with Ulad to update harmony-test repo. Even it flexible to run various branches and not the default one, it's impossible to configure to run certain golang version instead of default. We were working on additional arguments which could be provided on start.  
 - Created new version of commission split, where necessary to sign only 67% of the validators. It allows to skip waiting time for the rest of the validators, but requires code changes in the network and the signing layers, and i working to achieve it being stable.  
