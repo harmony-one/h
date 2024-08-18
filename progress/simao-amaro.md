@@ -1,3 +1,5 @@
+2024-08-16 Fri: I [fixed](https://github.com/0x73696d616f/squeeth-monorepo/commit/329c9ebc127edcc35de33a49371144dcf7adc96b) the withdraw-lp script by explicitly specifiying `msg.sender` to all scripts. I continued debugging why transactions are showing as pending when initiated from Foundry.
+
 2024-08-15 Thu: I added deposit and withdraw CLI (Command Line Interface) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/commit/65b92ceb5eab89636fe577218c279d7a5e32b15a) for the Zen Bull Vault strategy.
 
 2024-08-14 Wed: I added withdraw and burn LP (Liquidity Provision) CLI (Command Line Interface) [script](https://github.com/0x73696d616f/squeeth-monorepo/commit/9e5c304636d17d3c9e284df6a419628fcae4762f).
