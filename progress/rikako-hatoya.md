@@ -1,3 +1,5 @@
+2024-08-17 Sat (2.0h): Brainstormed and came up with an overview on how to integrate the Hold1 lottery train with telegram bot and the list of commands/app structure required (user database, trains, transactions, contracts, etc). [Updated](https://github.com/rika97/HarmonyLottery/commit/58d5b7fc8fbb36e05e72a37a496945fa5e59c0f0) bot commands from those listed on /Lottery to commands required for implementing Hold1.
+
 2024-08-16 Fri: Continued working on Hold1: looked into + outlined process for smart contract logic to implement "Hold1 train" (step 4). Also worked on implementing user regsitration and management on telegram bot (step 5).
 
 2024-08-15 Thu: Created [Harmony Lottery website](https://rika97.github.io/HarmonyLotteryWebsite/) using [Github Pages](https://github.com/rika97/HarmonyLotteryWebsite/tree/master), created [Telegram bot](https://github.com/rika97/HarmonyLottery) (@HarmonyLotteryBot) which now has 4 interactive commands (/register, /buyticket, /draw, /winners), and deployed bot server on Heroku. Now working on step 5 of [Lottery](https://github.com/carokiainfox/Lottery), by creating user database for implementing lottery logic with mongoose.
