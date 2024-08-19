@@ -6,6 +6,8 @@
 
 2024-08-05 Mon (2h): Panoptic CLI - scaffolding and local deployment. Domain DNS record setting feature discussion and planning. Derivative discussion and review
 
+---
+
 2024-08-02 Fri (1.7h): Review Panoptic simulation report
 
 2024-07-30 Tue (1.5h): Pantopic semi-fungible position manager math and state variablesanalysis. Domain management and DNS record setting implementation planning. Uniswap v3 SDK review.
