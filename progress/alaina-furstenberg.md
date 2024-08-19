@@ -1,3 +1,11 @@
+2024-08-19 Mon:
+
+---
+
+2024-08-18 Sun (1.0 hr): [Thread](https://x.com/harmonyprotocol/status/1825383667843141990) on team's /progress. Correcting formatting of the team's progress.
+
+2024-08-17 Sat (1.0 hr):
+
 2024-08-16 Fri: Harmony community section update and tweet. Design of graphics for Hold1. Focusing on designing graphics that market new user rewards & also more intensive infographics that explain the mechanics.
 
 2024-08-15 Thu: [Thread](https://x.com/harmonyprotocol/status/1824226923100409949) on harmony.one/perps. Testing of staking on sy.country, successfully staked 2500 1SY and swapped trade 1SY / 1USDC pair on Swap. Synced with Artem on my experience and on next steps for dev testinng. ONE Bot Love group engagement. 
