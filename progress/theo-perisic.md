@@ -1,5 +1,3 @@
----
-
 2024-08-18 Sun: (3.0h) Continued [Recovery Multisig Elections document](https://harmonyone.notion.site/Recovery-Multisig-Custodians-RMC-fae72d9bbb214620a46bc51578c44591?pvs=4).
 
 2024-08-17 Sat: (1.0h) Planned Recovery Multisig Elections document, will include past year of stats regarding the elected individuals.
