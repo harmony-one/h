@@ -1,3 +1,7 @@
+2024-08-19 Mon: [sy.country](https://sy.country/) testing; [minor](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/6b3195bfcd4bdb80aa9f1df5efc3fded0a9fba57) interface fix related to 1SY token name. Synced with Li, Yuriy on the current status; continue on SY docs and testing.
+
+---
+
 2024-08-16 Fri: combined all information about Synthetics and oracles deployment into [one document](https://github.com/ArtemKolodko/synthetix/pull/2/commits/f92766194a1f4fca5ad65f7aacb63d4f3c97e786#diff-70c19f96c212f266fc91ab7a021a7919eaa7fa77315a264e6c1a2d1d6dc8f5a7). Provided more liquidity to 1SY/1USDC [pool](https://swap.country/#/pools/869), tested trade on swap.country and 1SY oracles prices.
 
 2024-08-15 Thu: tested new synth oracles and [updated](https://github.com/ArtemKolodko/synthetix/pull/2/files#diff-bd1f4a8d6b9fc2a14c0ca58971b1b633d2068d11a8734c5df3814f89765ffe4b) "production" SY contracts with a new price feeds. [sy.country](https://sy.country/) works now with actual values for 1SY token, taken from swap.country ([1SY address](https://explorer.harmony.one/address/one1lz8tmx0p7am0hlggrphpak76m9y3znguj8wdsl)). We can start e2e tests: provide liquidity on swap.country, trade 1SY / 1USDC, check token price on sy.country and stake.
