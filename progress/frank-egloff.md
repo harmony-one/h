@@ -1,4 +1,4 @@
-2024-08-16 Fri: Deployed and initialized Vertex contract on Harmony mainnet. Launched client app with Harmony Mainnet configuration on fe.country. Resolved token listing issues on Vertex client Apps's trade page.
+2024-08-16 Fri: Deployed and initialized Vertex contract on Harmony mainnet. Launched client app with Harmony Mainnet configuration on fe.country. Resolved token listing issues on [Vertex client Apps' trade page](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2).
 
 2024-08-15 Thu: [Implemented PerpetualFactory contract](https://github.com/fegloff/vertex-contracts/pull/1) to streamline creation of new perpetual contracts. Fixed critical issues in perpetual contract creation process, focusing oracle price setting and proper order book initialization. Refined initialization script to efficiently handle perp engine and post-engine tasks.
 
