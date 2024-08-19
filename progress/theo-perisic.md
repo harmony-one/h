@@ -6,6 +6,8 @@
 
 2024-08-12 Mon: Sync with Pablo for trader incentives, working through tokenomics for GX platform and GXP. Update marketing with [Harmony 2024 report](https://stse.substack.com/p/harmony-2024-ecosystem-sustainable), Token2049 attendance, and [Mainnet metrics via Blockscout explorer](https://explorer.harmony.one/stats): 8m+ addresses, 800m+ transactions, 143k contracts. 
 
+---
+
 2024-08-11 Sun: (3.0h) Attended [CryptoLandDAO](https://twitter.com/Crypto_LandDAO) community space. Review of fee splits from leading perpetual exchanges.
 
 2024-08-10 Sat: (1.0h) Communications with metamaks representative to fix Harmony mobile logo.
