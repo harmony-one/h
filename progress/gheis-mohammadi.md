@@ -1,12 +1,10 @@
-**2024-08-17 Sat:**
-Last week, I focused on preparing the [PR #4735](https://github.com/harmony-one/harmony/pull/4735) for the RPC feature for boot nodes and resolving issues with building of the PR. After conducting numerous tests and systematically removing each RPC feature to identify the problematic one, I found the root cause of the build issue. I am currently exploring solutions, and it appears that different configurations may be required for boot RPCs instead of using the same configs as the Harmony node. Once resolved, I will add more endpoints and finalize the tests.
+2024-08-17 Sat: Last week, I focused on preparing the [PR #4735](https://github.com/harmony-one/harmony/pull/4735) for the RPC feature for boot nodes and resolving issues with building of the PR. After conducting numerous tests and systematically removing each RPC feature to identify the problematic one, I found the root cause of the build issue. I am currently exploring solutions, and it appears that different configurations may be required for boot RPCs instead of using the same configs as the Harmony node. Once resolved, I will add more endpoints and finalize the tests.
 
 Additionally, I made a small [PR #4737](https://github.com/harmony-one/harmony/pull/4737) to update the Makefile. This update includes several commands that were previously missing from the output of the make help command.
 
 ---
 
-**2024-08-10 Sat:**
-Last week was pretty productive as I worked on improving different parts of the Harmony project. One of the things I tackled was the Network Time Protocol (NTP) functionality. In [PR #4728](https://github.com/harmony-one/harmony/pull/4728), I reworked the NTP setup to support multiple servers, which should make time synchronization more reliable. I also fixed an issue where the NTP queries were timing out in localnet environments by extending the timeout from 10 to 30 seconds. Plus, I made some tweaks to error handling and logging to make troubleshooting easier.
+2024-08-10 Sat: Last week was pretty productive as I worked on improving different parts of the Harmony project. One of the things I tackled was the Network Time Protocol (NTP) functionality. In [PR #4728](https://github.com/harmony-one/harmony/pull/4728), I reworked the NTP setup to support multiple servers, which should make time synchronization more reliable. I also fixed an issue where the NTP queries were timing out in localnet environments by extending the timeout from 10 to 30 seconds. Plus, I made some tweaks to error handling and logging to make troubleshooting easier.
 
 I also fixed an annoying issue where the allowedtxs.txt file would cause errors if it wasn’t in the .hmy directory. In [PR #4731](https://github.com/harmony-one/harmony/pull/4731), I added a simple check to make sure the file exists before moving forward, which should help avoid any unexpected hiccups during setup.
 
