@@ -1,3 +1,11 @@
+---
+
+2024-08-18 Sun: (3.0h) Continued [Recovery Multisig Elections document](https://harmonyone.notion.site/Recovery-Multisig-Custodians-RMC-fae72d9bbb214620a46bc51578c44591?pvs=4).
+
+2024-08-17 Sat: (1.0h) Planned Recovery Multisig Elections document, will include past year of stats regarding the elected individuals.
+
+2024-08-16 Fri: Draft for [recovery progress and marketing plan](https://www.notion.so/harmonyone/Recovery-Marketing-Update-db6bc50b5af1429d86541dafd68cd8d5).
+
 2024-08-15 Thu: [Confirmation from Metamask team](https://github.com/MetaMask/metamask-mobile/pull/10600) for resolving issue with Harmony logo on mobile version. Will be live in version 7.29.0. Reviewed potential telegram mini-app for DeFi.
 
 2024-08-14 Wed: Swap listing approvals for Binance smart chain USDT. Made contact with Pyth developer, moving conversation to a dedicated Pyth <> Harmony channel. Current plan is to integrate Pyth price feeds for our DeFi suite on Harmony mainnet.
