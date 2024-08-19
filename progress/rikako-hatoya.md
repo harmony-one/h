@@ -1,3 +1,5 @@
+2024-08-18 Sun (1.5h): Started working on the [smart contract](https://github.com/rika97/Hold1-contracts/blob/main/contract.sol) for lottery train: outlined some of the functions needed and implemented some logic. Working on figuring out how to setup user database system and connect it to this contract (to fetch data such as friends, new user, etc.)
+
 2024-08-17 Sat (2.0h): Brainstormed and came up with an overview on how to integrate the Hold1 lottery train with telegram bot and the list of commands/app structure required (outlined some tasks [here](https://github.com/rika97/HarmonyLottery/blob/main/README.md).) [Updated](https://github.com/rika97/HarmonyLottery/commit/58d5b7fc8fbb36e05e72a37a496945fa5e59c0f0) bot commands from those listed on /Lottery to commands required for implementing Hold1.
 
 2024-08-16 Fri: Continued working on Hold1: looked into + outlined process for smart contract logic to implement "Hold1 train" (step 4). Also worked on implementing user regsitration and management on telegram bot (step 5).
