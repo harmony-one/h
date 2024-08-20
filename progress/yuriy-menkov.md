@@ -1,3 +1,9 @@
+2024-08-19 Mon: Continue to work on a simple demo for the auto compounder feature within the gmx application. Implemented a page with the ability to staked GXP for deposits. Testing and debugging. Synced with Li, Frank and Artem about goals and roadmaps.
+
+---
+
+2024-08-16 Fri: Researched morphex app sources to reproduce [earn wMLP](https://www.morphex.trade/wrapper) and [Rewards](https://www.morphex.trade/earn) features. Unfortunately, there are no sources for ux, but the algorithm is clear from the documentation. Started working on a simple demo to demonstrate the auto compounder feature.
+
 2024-08-15 Thu: Worked on scripts for testing the full staking cycle from deposit to get claimable rewards using contracts: RewardRouterV4, StakedGmxTracker, BonusGmxTracker, FeeGmxTracker. Get errors at the step when RewardRouter deposits the StakedGmxTracker tokens into the BonusGmxTracker - debugging the problem, working on fixing it and selecting the correct configuration.
 
 2024-08-14 Wed: Continue work on new deploying and configuring scripts with new staking contracts for autocompounder feature. Reviewed and integrated an new oracles [synth-oracle](https://github.com/polymorpher/synth-oracle/tree/main/contracts) from Aaron for gmx first priceFeed.
