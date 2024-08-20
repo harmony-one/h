@@ -1,3 +1,7 @@
+2024-08-19 Mon: I [fixed](https://github.com/0x73696d616f/squeeth-monorepo/commit/69256a6f8c302f544e7ee0c2424685ba634b04af) the profitable trades script by using the `msg.sender` to provide liquidity. I continued debugging why transactions are showing as pending when initiated from Foundry.
+
+---
+
 2024-08-16 Fri: I [fixed](https://github.com/0x73696d616f/squeeth-monorepo/commit/329c9ebc127edcc35de33a49371144dcf7adc96b) the withdraw-lp script by explicitly specifiying `msg.sender` to all scripts. I continued debugging why transactions are showing as pending when initiated from Foundry.
 
 2024-08-15 Thu: I added deposit and withdraw CLI (Command Line Interface) [scripts](https://github.com/0x73696d616f/squeeth-monorepo/commit/65b92ceb5eab89636fe577218c279d7a5e32b15a) for the Zen Bull Vault strategy.
