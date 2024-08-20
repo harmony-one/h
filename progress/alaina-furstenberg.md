@@ -1,10 +1,12 @@
-2024-08-19 Mon:
+2024-08-20 Tue: Beginning to digitize the infographic, early promotion of HOD1 on X. Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress.
+
+2024-08-19 Mon: Sketch of infographic to promote HOD1 plus design of visual assets on Midjourney for the HOD1 promotion article. 
 
 ---
 
 2024-08-18 Sun (1.0 hr): [Thread](https://x.com/harmonyprotocol/status/1825383667843141990) on team's /progress. Correcting formatting of the team's progress.
 
-2024-08-17 Sat (1.0 hr):
+2024-08-17 Sat (1.0 hr): Redesign of thumbnail for ONE Show Episode 2.
 
 2024-08-16 Fri: Harmony community section update and tweet. Design of graphics for Hold1. Focusing on designing graphics that market new user rewards & also more intensive infographics that explain the mechanics.
 
