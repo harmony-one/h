@@ -1,4 +1,4 @@
-2024-08-20 Tue: Beginning to digitize the infographic, early promotion of HOD1 on X. Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress.
+2024-08-20 Tue: Beginning to digitize the infographic, early promotion of HOD1 on X. Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress. Protofire RPC update on X.
 
 2024-08-19 Mon: Sketch of infographic to promote HOD1 plus design of visual assets on Midjourney for the HOD1 promotion article. 
 
