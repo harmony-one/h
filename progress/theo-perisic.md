@@ -1,3 +1,5 @@
+2024-08-20 Tue: Edits on 2025 Roadmap document. Sent Swap factory address to Defillama from TEC Viva and Kratos messages. Continued conversations with Pyth team, awaiting internal decision.
+
 2024-08-19 Mon: Spoke with Pyth team for Harmony mainnet integration, added feedback and questions for 2025 roadmap. Reached out to Rome Protocol. Rome Protocol's shared sequencer could enhance Harmony's cross-chain bridges, improving transaction finality, security, and user experience. Added Recovery Multisig Custodian details to document leading up to elections.
 
 ---
