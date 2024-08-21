@@ -1,3 +1,5 @@
+2024-08-20 Tue: I could not figure out why transactions stay pending on Foundry. I started working on the profitable trades script for the synthetix codebase.
+
 2024-08-19 Mon: I [fixed](https://github.com/0x73696d616f/squeeth-monorepo/commit/69256a6f8c302f544e7ee0c2424685ba634b04af) the profitable trades script by using the `msg.sender` to provide liquidity. I continued debugging why transactions are showing as pending when initiated from Foundry.
 
 ---
