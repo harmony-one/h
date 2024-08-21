@@ -1,3 +1,5 @@
+2024-08-20 Tue: After discussing the roadmap with the team, we decided that we are making 2 versions of GMX - in the first we fix the already working functionality (and have passed the security audit) and at the same time I am working on a version with new features: I have divided the code base and working on a separate repository and interface for the autocompounder version.
+
 2024-08-19 Mon: Continue to work on a simple demo for the auto compounder feature within the gmx application. Implemented a page with the ability to staked GXP for deposits. Testing and debugging. Synced with Li, Frank and Artem about goals and roadmaps.
 
 ---
