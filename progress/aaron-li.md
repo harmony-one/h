@@ -1,10 +1,26 @@
-2024-08-09 Sat (1.1h): Panoptic CLI - continued, fix bugs with hooks, make network selection dynamic, research on MetaMask SDK and integration methods through CLI
+2024-08-19 Mon (5.5h): Fix duplicated client instantiation for each hook in Panoptic command-line-interface. Revised type interfaces for better error handling and prevention. Implement error handling and early-stop for invalid input or output. Implement price calculation and conversion from Uniswap internal format. Add user command prompt components and fix display output errors. Roadmap discussions. Research on smart contract vaults, oracles.
 
-2024-08-09 Fri (8.1h): Panoptic CLI - continued, implementing hooks and basic stats, help, and config functionalities
+2024-08-16 Sun (0.5h): (Continued) and preparing roadmap topics
 
-2024-08-08 Thu (3.2h): Panoptic CLI - local deployment simulation, forking mainnet states from different blockchains, type and linting system setup, debugging spec-noncomforming RPC response issues. Exchange deployment on domain - debugging and DNS record remapping. Debug Synthetix token naming
+2024-08-16 Fri (1.5h): Find solutions and debug on type inference issues of dynamically loaded smart contract application-binary interface in Viem. Implement typechain-like generation script for application-binary interface
 
-2024-08-05 Mon (2h): Panoptic CLI - scaffolding and local deployment. Domain DNS record setting feature discussion and planning. Derivative discussion and review
+2024-08-14 Wed (4.2h): Debug and test newly implemented Uniswap V3 spot oracles in production. Debug on Synthetix pools. Testing statistics of collateral and pool pair verification end-to-end. 
+
+2024-08-13 Tue (6.3h): Implement and test Synthetix V2 compatible oracle based Uniswap V3 spot prices. Research and experiment on Uniswap squared-price formats and related math precision issues. Continued on Panoptic hooks
+
+2024-08-12 Mon (6.8h): Experiment and implement scripts to manipulate trading account balances in both tokens and native assets using swaps, minting, and impersonation. Creating scripts to replicate the process and local states for Panoptic and Uniswap pools in one execution
+
+---
+
+2024-08-11 Sun (4h): Panoptic command-line-interface - continued. Setting up pool and contract instances, reading basic statistics, fix type system issues
+
+2024-08-10 Sat (1.1h): Panoptic command-line-interface - continued, fix bugs with hooks, make network selection dynamic, research on MetaMask SDK and integration methods through CLI
+
+2024-08-09 Fri (8.1h): Panoptic command-line-interface - continued, implementing essential React hook components for trading pairs and collaterals, to make automated state update conditioned on other changing variables. Implement basic statistics reading, calculation, and parsing. Implement command line argument parsing, basic help message, and their schema configurations
+
+2024-08-08 Thu (3.2h): Panoptic command-line-interface - Local deployment simulation by making use of existing deployed pools and production data on Uniswap and Panoptic from forked blockchain states using Ethereum mainnet, Harmony, and local Anvil. Setting up type and linting systems. Debugging spec-noncomforming RPC response issues. Configure and deploy new exchange products. dDbugging and DNS record remapping. Debug Synthetix token naming
+
+2024-08-05 Mon (2h): Panoptic command-line-interface - scaffolding and local deployment. Domain DNS record setting feature discussion and planning. Derivative discussion and review
 
 ---
 
