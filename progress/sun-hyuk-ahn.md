@@ -1,6 +1,16 @@
-2024-08-23 Wed: Continued working on strategy creation. Working on different calculation that will allow for the strategy creation once user inputs the required values when creating options. Also, cleaning up repo in order to be made for public.
+2024-08-20 Tue: Fixed the bug. The transactions must be sent using `legacy` mode. If not, the transactions will be processed in ununiformed order. Will make the repo public tomorrow.
 
-2024-08-22 Tue (On call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
+2024-08-19 Mon: Continued working on fixing the continuous bug. Seems to be problem with legacy and / or slow mode. Will continue tomorrow on fixing the cause.
+
+---
+
+2024-08-16 Fri: Preparing demo to share with teammates. Noticed a bug when continuously creating pool and options. Working on debugging the cause.
+
+2024-08-15 Thu: Finalizing crab and bull strategy development. Continued cleaning up repo.
+
+2024-08-14 Wed: Continued working on strategy creation. Working on different calculation that will allow for the strategy creation once user inputs the required values when creating options. Also, cleaning up repo in order to be made for public.
+
+2024-08-13 Tue (On call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
 
 2024-08-12 Mon (On call 12 hr): Command line interface completion ETA 08/14 (Wed).
 
