@@ -1,3 +1,5 @@
+2024-08-20 Tue: completed basic 1SY oracles test: staked 1SY on sy.country, provided more liquidity for [1SY / 1USDC pool](https://info.swap.harmony.one/#/harmony/tokens/0xf88ebd99e1f776fbfd08186e1edbdad949114d1c), traded pair to impact 1SY price and checked that collaterization ratio changed according the token price change. Added Synthetix V2 deployment docs to [/h/docs/synthetix-v2-deployment.md](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md).
+
 2024-08-19 Mon: [sy.country](https://sy.country/) testing; [minor](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1/commits/6b3195bfcd4bdb80aa9f1df5efc3fded0a9fba57) interface fix related to 1SY token name. Synced with Li, Yuriy on the current status; continue on SY docs and testing.
 
 ---
