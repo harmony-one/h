@@ -1,3 +1,5 @@
+2024-08-21 Wed: Analyzed Order Form logic, identified and fixed execution conversion price (token order/quote token) issue blocking order processing. Added key market mock calls for tokens latest prices (getLatestMarketPrices method) and perp order placement (placeOrder method). Next steps: expand mock call coverage and fix conversion for tokens with prices lower than the quote token.
+
 2024-08-20 Tue: Tested TimesWalletBot on private and group chats; the wallet is linked to the user, not the chat ID. Shared repository URL and key script location with Simao. Diving deeper into Perp/Spot order logic implementation on Vertex Client App.
 
 2024-08-19 Mon: Presented Vertex porting project status to Artem and Simao. Deployed Vertex token to Harmony mainnet, updating Client App with token address and product ID. Post token listing fixes, analyzing trade page logic for Harmony mainnet integration. Tomorrow, seeking Simao's collaboration on Vertex contract refinements.
