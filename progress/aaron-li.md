@@ -1,5 +1,7 @@
 2024-08-19 Mon (5.5h): Fix duplicated client instantiation for each hook in Panoptic command-line-interface. Revised type interfaces for better error handling and prevention. Implement error handling and early-stop for invalid input or output. Implement price calculation and conversion from Uniswap internal format. Add user command prompt components and fix display output errors. Roadmap discussions. Research on smart contract vaults, oracles.
 
+---
+
 2024-08-16 Sun (0.5h): (Continued) and preparing roadmap topics
 
 2024-08-16 Fri (1.5h): Find solutions and debug on type inference issues of dynamically loaded smart contract application-binary interface in Viem. Implement typechain-like generation script for application-binary interface
