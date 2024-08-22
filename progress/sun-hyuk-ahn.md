@@ -1,3 +1,5 @@
+2024-08-21 Wed: [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation.
+
 2024-08-20 Tue: Fixed the bug. The transactions must be sent using `legacy` mode. If not, the transactions will be processed in ununiformed order. Will make the repo public tomorrow.
 
 2024-08-19 Mon: Continued working on fixing the continuous bug. Seems to be problem with legacy and / or slow mode. Will continue tomorrow on fixing the cause.
