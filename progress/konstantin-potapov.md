@@ -4,6 +4,8 @@
 - Fixed an issue with `legacysync` where incorrect ports were being used, causing shard 0 to receive information intended for shard 1. This miscommunication forced unnecessary synchronization, disrupting consensus and preventing the proposal of new blocks. 
 - Reviewing and merging pull requests.  
 
+---
+
 2024-08-09 Fri:
 - Collaborated with Ulad to update harmony-test repo. Even it flexible to run various branches and not the default one, it's impossible to configure to run certain golang version instead of default. We were working on additional arguments which could be provided on start.  
 - Created new version of commission split, where necessary to sign only 67% of the validators. It allows to skip waiting time for the rest of the validators, but requires code changes in the network and the signing layers, and i working to achieve it being stable.  
