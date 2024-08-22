@@ -1,4 +1,4 @@
-2024-08-21 Wed: [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
+2024-08-21 Wed (on call 12 hr): [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
 
 2024-08-20 Tue: Fixed the bug. The transactions must be sent using `legacy` mode. If not, the transactions will be processed in ununiformed order. Will make the repo public tomorrow.
 
@@ -12,21 +12,21 @@
 
 2024-08-14 Wed: Continued working on strategy creation. Working on different calculation that will allow for the strategy creation once user inputs the required values when creating options. Also, cleaning up repo in order to be made for public.
 
-2024-08-13 Tue (On call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
+2024-08-13 Tue (on call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
 
-2024-08-12 Mon (On call 12 hr): Command line interface completion ETA 08/14 (Wed).
+2024-08-12 Mon (on call 12 hr): Command line interface completion ETA 08/14 (Wed).
 
 ---
 
-2024-08-09 Fri (On call 12 hr): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
+2024-08-09 Fri (on call 12 hr): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
 
-2024-08-08 Thu (On call 12 hr): Updating command line interface option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
+2024-08-08 Thu (on call 12 hr): Updating command line interface option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
 
-2024-08-07 Wed (On call 12 hr): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
+2024-08-07 Wed (on call 12 hr): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
 
-2024-08-06 Tue (On call 12 hr): Running into out of gas error and working to fix it. Transactions receipts show as successful and the explorer shows successful but running into `out of gas` error for the internal transactions.
+2024-08-06 Tue (on call 12 hr): Running into out of gas error and working to fix it. Transactions receipts show as successful and the explorer shows successful but running into `out of gas` error for the internal transactions.
 
-2024-08-05 Mon (On call 12 hr): Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
+2024-08-05 Mon (on call 12 hr): Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
 
 ---
 
