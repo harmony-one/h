@@ -1,3 +1,5 @@
+2024-08-21 Wed: Working on debugging smart contract startTrain() function, issues regarding data type when storing participant info for each train. Further tested TON space (also update: yesterday's bid for fragment was overriden as someone else put a higher bid, will keep bidding for cheaper numbers.)
+
 2024-08-20 Tue: Looked into the general overview of Harmony's current progress by adding some notes to the 2025 roadmap and syncing with Li. Conducted some research on Telegram social games, further testing with TON space, monitored and placed bid on Fragment for telegram number.
 
 2024-08-19 Mon: Worked on updating [smart contract](https://github.com/rika97/Hold1-contracts/commit/cd1ab6570fec1ab081efa1d37663db488bd5f481) for Hold1 train, created a [testing space](https://github.com/rika97/hold1-test) with scaffold-eth to test run the contract on Harmony testnet, currently still figuring out about storing user/friends list in database. Looked through Harmony 2025 roadmap, writing down notes to be discussed in tomorrow's sync.
