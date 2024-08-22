@@ -1,4 +1,4 @@
-2024-08-22 Thu: Began editorizing the 2025 roadmap and [drafting Twitter content](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8) to post over the coming weeks. Tweeted first thread on the roadmap. Testing of ideogram, insights include:
+2024-08-22 Thu: Began editorizing the 2025 roadmap and [drafting Twitter content](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8) to post over the coming weeks. Tweeted first thread on the roadmap. Testing of ideogram, insights include: Midjourney is still the topic image generator in terms of high detail and artistry. However, Ideogram's generations with a 'realstic' theme were on-par quality wise to Midjourney. Their cartoon, hand drawn generations left more to be desired.
 
 2024-08-21 Wed: Added questions and comments to the 2025 roadmap, focusing on Hod1's gameification, gx.country's marketing strategy, and hiring initiatives. [Promoted](https://x.com/harmonyprotocol/status/1826366024444510424) and attended ONE Show Episode 10. Synced with Theo on upkeeping the Discord & streamlining all social media content into a community channel.
 
