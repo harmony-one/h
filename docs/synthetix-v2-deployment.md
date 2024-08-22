@@ -2,22 +2,13 @@
 
 ### Required repos
 
-*TODO: update links after moving to /harmony-one organization*
+1. [Synthetix](https://github.com/harmony-one/synthetix) - Synthetix V2 contracts
 
-Synthetix:
-```shell
-https://github.com/ArtemKolodko/synthetix/tree/harmony_new_deployment
-```
+2. [Synthetix UI](https://github.com/harmony-one/synthetix-js-monorepo) - Synthetix V2 client
 
-Synthetix UI:
-```shell
-https://github.com/ArtemKolodko/synthetix-js-monorepo/tree/harmony_support
-```
+3. [Synth Oracle](https://github.com/polymorpher/synth-oracle) - Chainlink-compatible feed for token traded on swap.country (1SY)
 
-Band oracle reader:
-```shell
-https://github.com/harmony-one/band-oracle-reader
-```
+4. [Band oracle reader](https://github.com/harmony-one/band-oracle-reader) - Chainlink-compatible feed for other Synthetix tokens (BTC, ETH)
 
 List of deployed Band oracle feeds:
 ```shell
@@ -27,15 +18,10 @@ ETH: 0xf0184d340660cd3ce4944f0c6e1b63c85d78dbcd
 1SY: 0xC0565A0aeccC60Ff1636f53c4dF26e228C4Dc139
 ```
 
-Band oracle updater:
-```shell
-https://github.com/harmony-one/band-oracle-updater
-```
+5. [Band oracle updater](https://github.com/harmony-one/band-oracle-updater) - App to push band oracle feed updates
 
-Band oracle updater app on fly.io:
-```
-https://fly.io/apps/band-oracles-updater
-```
+Band oracle updater app on fly.io: [https://fly.io/apps/band-oracles-updater](https://fly.io/apps/band-oracles-updater)
+
 
 ### Deployment steps
 
@@ -114,7 +100,7 @@ Note that deployer account should have ONE tokens on balance
 node publish deploy --network harmony --deployment-path ./publish/deployed/harmony4 --ignore-safety-checks
 ```
 
-8. Open [Synthetix UI](https://github.com/ArtemKolodko/synthetix-js-monorepo/pull/1) repo, install dependencies and copy content of a new folder:
+8. Open [Synthetix UI](https://github.com/harmony-one/synthetix-js-monorepo) repo, install dependencies and copy content of a new folder:
 
 ```
 synthetix/publish/deployed/harmony4
@@ -138,17 +124,17 @@ yarn dev
 11. Open http://localhost:3000/, Synthetix V2 client page should be displayed
 
 
-12. Launch BandOracleUpdater for all price feeds: [https://github.com/harmony-one/band-oracle-updater](https://github.com/harmony-one/band-oracle-updater)
+12. Launch BandOracleUpdater for all price feeds: [Band oracle updater](https://github.com/harmony-one/band-oracle-updater)
 
 
 ### Create 1SY oracle feed
 
 1) Create new 1USDC/1SY liquidity pool on [swap.country/pools](https://swap.country/#/pools)
 
-Reference: 1USDC / 1SY
+Reference: 1USDC / 1SY:
 https://info.swap.harmony.one/#/harmony/pools/0xbc4af4ee9164c469b9e90f7d9b5f7854556133d6
 
-2) Clone https://github.com/polymorpher/synth-oracle and run `forge build`
+2) Clone [Synth Oracle](https://github.com/polymorpher/synth-oracle) and run `forge build`
 3) Create .env file in project root:
 
 ```shell
@@ -170,7 +156,7 @@ cast call 0xe3EAB0d319908c3Ca68076b208a9870571dDb03F "latestAnswer()(int256)" --
 
 6) Set new oracle feed for 1SY token:
 
-Open [Synthetix](https://github.com/ArtemKolodko/synthetix/tree/harmony_new_deployment) repo and navigate to scripts folder:
+Open [Synthetix](https://github.com/harmony-one/synthetix) repo and navigate to scripts folder:
 ```shell
 cd harmony-scripts
 ```
