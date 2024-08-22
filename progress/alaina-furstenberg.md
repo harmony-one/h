@@ -1,4 +1,6 @@
-2024-08-20 Tue: Beginning to digitize the infographic, early promotion of HOD1 on X. Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress. [Protofire RPC update](https://x.com/harmonyprotocol/status/1825983805624144068) on X. Research on pump.fun and tested Hamster Kombat.
+2024-08-21 Wed: Added questions and comments to the 2025 roadmap, focusing on Hod1's gameification, gx.country's marketing strategy, and hiring initiatives. [Promoted](https://x.com/harmonyprotocol/status/1826366024444510424) and attended ONE Show Episode 10. Synced with Theo on upkeeping the Discord & streamlining all social media content into a community channel.
+
+2024-08-20 Tue: Beginning to digitize the infographic, early [promotion of HOD1 on X](https://x.com/harmonyprotocol/status/1826029651040546950). Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress. [Protofire RPC update](https://x.com/harmonyprotocol/status/1825983805624144068) on X. Research on pump.fun and tested Hamster Kombat to add commentary to the 2025 Roadmap. 
 
 2024-08-19 Mon: Sketch of infographic to promote HOD1 plus design of visual assets on Midjourney for the HOD1 promotion article. 
 
