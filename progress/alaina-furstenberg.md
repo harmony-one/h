@@ -1,3 +1,5 @@
+2024-08-22 Thu: Began editorizing the 2025 roadmap and [drafting Twitter content](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8) to post over the coming weeks. Tweeted first thread on the roadmap. Testing of ideogram, insights include:
+
 2024-08-21 Wed: Added questions and comments to the 2025 roadmap, focusing on Hod1's gameification, gx.country's marketing strategy, and hiring initiatives. [Promoted](https://x.com/harmonyprotocol/status/1826366024444510424) and attended ONE Show Episode 10. Synced with Theo on upkeeping the Discord & streamlining all social media content into a community channel.
 
 2024-08-20 Tue: Beginning to digitize the infographic, early [promotion of HOD1 on X](https://x.com/harmonyprotocol/status/1826029651040546950). Continuation of assets/a logo for HOD1. Sync with Li and the team on current progress. [Protofire RPC update](https://x.com/harmonyprotocol/status/1825983805624144068) on X. Research on pump.fun and tested Hamster Kombat to add commentary to the 2025 Roadmap. 
