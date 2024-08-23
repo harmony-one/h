@@ -1,3 +1,9 @@
+2024-08-32 Fri: Having been out of the office for the past two weeks, I've been catching up on all the updates. After getting up to speed, I focused on planning for the HIP32 hard fork, which involves an intermediary release using Go 1.22. The current plan is to release v2024.2.0 in early September, with the HIP32 hard fork scheduled for the end of September. A significant portion of my time has been dedicated to coordinating and assisting with PR reviews for the upcoming v2024.2.0 release.
+
+Additionally, I've completed the cost reporting for July. We managed to save approximately $1.3k compared to June, primarily due to overlapping costs from transitioning between the old and new explorers. The old explorer was fully decommissioned in July, so we should see the final, adjusted monthly costs reflected in August.
+
+---
+
 2024-08-01 Thu: This week, I coordinated closely with Harmony management and Binance to facilitate the reopening of BEP2 ONE deposit, ensuring that users who were previously stuck could regain access to their assets. Additionally, I assisted Frank with the restoration of the Harmony ONE bot's PostgreSQL database cluster, ensuring the system's functionality was restored. I also completed the offboarding process for Casey, ensuring that his access was removed from all relevant systems and platforms.
 
 ---
