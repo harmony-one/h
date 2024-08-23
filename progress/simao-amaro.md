@@ -1,3 +1,5 @@
+2024-08-22 Thu: I added a profitable trades script for Vertex repo, including a forked test showing the profitable trades. I am currently debugging a CALL_EXCEPTION error in the script. 
+
 2024-08-21 Wed: I [added](https://github.com/harmony-one/synthetix/pull/1) a profitable trades script for Synthetix repo, including a forked test showing the profitable trades.
 
 2024-08-20 Tue: I could not figure out why transactions stay pending on Foundry. I started working on the profitable trades script for the synthetix codebase.
