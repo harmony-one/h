@@ -1,3 +1,5 @@
+2024-08-22 Thu (on call 12 hr): Familiarizing rollback methods for validators with the newest upgrades. [Reimplemented]() option minting logic in order to improve gas usage.
+
 2024-08-21 Wed (on call 12 hr): [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
 
 2024-08-20 Tue: Fixed the bug. The transactions must be sent using `legacy` mode. If not, the transactions will be processed in ununiformed order. Will make the repo public tomorrow.
