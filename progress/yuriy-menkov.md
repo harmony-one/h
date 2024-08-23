@@ -1,3 +1,5 @@
+2024-08-22 Thu: Worked on updating the rewards page. Fixed subgraph and ux issues. Working on compiling documentation on deployment and changes for gmx autocompounder version.
+
 2024-08-21 Wed: Created a separate version of the gmx interface for autocompounder fetaure. Integrated morphex contracts (with autocompounder support) to gmx interface. Mograted staked GXP page to new interface. Working on rewards page.
 
 2024-08-20 Tue: After discussing the roadmap with the team, we decided that we are making 2 versions of GMX - in the first we fix the already working functionality (and have passed the security audit) and at the same time I am working on a version with new features: I have divided the code base and working on a separate repository and interface for the autocompounder version.
