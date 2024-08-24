@@ -1,3 +1,5 @@
+2024-08-23 Fri: I [elaborated](https://github.com/0x73696d616f/vertex-contracts/commit/2bb87771ba408e277c38f4c3a0975e99d397e421) a profitable trades script for Vertex, which is not yet finished due to an error when adding collateral that needs to be fixed. I also created a guide in `harmony-deployment.md` explaining how to deploy the contracts and run the script.
+
 2024-08-22 Thu: I added a profitable trades script for Vertex repo, including a forked test showing the profitable trades. I am currently debugging a CALL_EXCEPTION error in the script. 
 
 2024-08-21 Wed: I [added](https://github.com/harmony-one/synthetix/pull/1) a profitable trades script for Synthetix repo, including a forked test showing the profitable trades.
