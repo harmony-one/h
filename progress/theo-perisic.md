@@ -1,3 +1,9 @@
+2024-08-23 Fri: Collected and presented DIA oracle provider price comparison following meeting earlier in the week. Continued discussions with recover multisig custodians, Soph, and Stephen for next steps with Colossus. [Started editing and reformatting](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d) DeFi article.
+
+2024-08-22 Thu: Discussion with Soph for Colossus bug bounty, as well as recovery multisig custodians (RMC).
+
+2024-08-21 Wed: Meeting with DIA oracle provider for price comparison for gmx and DeFi suite. 
+
 2024-08-20 Tue: Edits on 2025 Roadmap document. Sent Swap factory address to Defillama from TEC Viva and Kratos messages. Continued conversations with Pyth team, awaiting internal decision.
 
 2024-08-19 Mon: Spoke with Pyth team for Harmony mainnet integration, added feedback and questions for 2025 roadmap. Reached out to Rome Protocol. Rome Protocol's shared sequencer could enhance Harmony's cross-chain bridges, improving transaction finality, security, and user experience. Added Recovery Multisig Custodian details to document leading up to elections.
