@@ -1,3 +1,10 @@
+2024-08-24 Sat: 
+Last week, I resolved build issues, optimized, and finalized [PR4735](https://github.com/harmony-one/harmony/pull/4735). This PR significantly enhances the visibility and monitoring capabilities of boot nodes by introducing an RPC server. Previously, boot nodes lacked RPCs and didn't expose any metadata, limiting our monitoring capabilities. With this update, several new APIs have been added, allowing us to efficiently monitor and track connectivity and peers connected to the boot nodes. In addition to these monitoring enhancements, the PR includes a redefinition of the node and RPC folder structure, leading to a more organized and well-structured codebase. This improvement ensures that adding boot node functions will be easier in the future. 
+
+I also conducted code reviews, provided feedback to the team, and finalized [PR4731](https://github.com/harmony-one/harmony/pull/4731).
+
+---
+
 2024-08-17 Sat: Last week, I focused on preparing the [PR #4735](https://github.com/harmony-one/harmony/pull/4735) for the RPC feature for boot nodes and resolving issues with building of the PR. After conducting numerous tests and systematically removing each RPC feature to identify the problematic one, I found the root cause of the build issue. I am currently exploring solutions, and it appears that different configurations may be required for boot RPCs instead of using the same configs as the Harmony node. Once resolved, I will add more endpoints and finalize the tests.
 
 Additionally, I made a small [PR #4737](https://github.com/harmony-one/harmony/pull/4737) to update the Makefile. This update includes several commands that were previously missing from the output of the make help command.
