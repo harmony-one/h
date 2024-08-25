@@ -1,8 +1,18 @@
-2024-08-19 Mon (5.5h): Fix duplicated client instantiation for each hook in Panoptic command-line-interface. Revised type interfaces for better error handling and prevention. Implement error handling and early-stop for invalid input or output. Implement price calculation and conversion from Uniswap internal format. Add user command prompt components and fix display output errors. Roadmap discussions. Research on smart contract vaults, oracles.
+2024-08-25 Sun (2.2h+): Pano: deposit - end to end flow except final step and balance query functions
+
+2024-08-24 Sat (6.1h): Pano: Wallet client, context, provider implementation with decoupled setters for use in hooks. Simplify error handling in commands. Design and implement notification system for sticky, colored, stackable, and transient success and error messages. Fix bugs in notification system and use everywhere. Add menu title boxes to clarify user flow
+
+2024-08-23 Fri (2.3h): Pano: wallet client work-in-progress. Design standalone user-input module for interactive command-input parsing and queries
+
+2024-08-22 Thu (3.3h): Pano (Panoptic command-line-interface) - design and implement user input router, basic parsing module, error handling, basic help message. Pano  basic end-to-end flow (pool listing, stats reading, wallet selection, help message) testing and improvement. Review and research RIP7212. Review planning document and progress updates
+
+2024-08-21 Wed (1.6h): Review 1SY updates. Review progress and discussion notes. Review devops costs and reduction opportunities
+
+2024-08-19 Mon (5.6h): Fix duplicated client instantiation for each hook in Panoptic command-line-interface. Revised type interfaces for better error handling and prevention. Implement error handling and early-stop for invalid input or output. Implement price calculation and conversion from Uniswap internal format. Add user command prompt components and fix display output errors. Roadmap discussions. Research on smart contract vaults, oracles.
 
 ---
 
-2024-08-16 Sun (0.5h): (Continued) and preparing roadmap topics
+2024-08-18 Sun (0.5h): (Continued) and preparing roadmap topics
 
 2024-08-16 Fri (1.5h): Find solutions and debug on type inference issues of dynamically loaded smart contract application-binary interface in Viem. Implement typechain-like generation script for application-binary interface
 
