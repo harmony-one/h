@@ -1,3 +1,7 @@
+2024-08-26 Mon
+
+---
+
 2024-08-25 Sun (1.5h): Further testing with Tapswap and Ton ecosystem community projects. Continue upgrading chat bot to mini app.
 
 2024-08-24 Sat (2.0h): Fixed heroku server deploy error, hod1 bot now works (@HarmonyLotteryBot). Now further testing Tapswap and looking into upgrade UI from text chat to miniapp.
