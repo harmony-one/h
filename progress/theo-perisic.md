@@ -1,3 +1,7 @@
+2024-08-25 Sun: (8.0h) Extensive restructuring for [DeFi report](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d#954171edd8544d9184907a422e91026c).
+
+2024-08-24 Sat: (2.0) Continuation of [DeFi article](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d#954171edd8544d9184907a422e91026c).
+
 2024-08-23 Fri: Collected and presented DIA oracle provider price comparison following meeting earlier in the week. Continued discussions with recover multisig custodians, Soph, and Stephen for next steps with Colossus. [Started editing and reformatting](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d) DeFi article.
 
 2024-08-22 Thu: Discussion with Soph for Colossus bug bounty, as well as recovery multisig custodians (RMC).
