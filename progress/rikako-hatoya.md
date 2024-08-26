@@ -1,3 +1,5 @@
+2024-08-25 Sun (1.5h): Further testing with Tapswap and Ton ecosystem community projects. Continue upgrading chat bot to mini app.
+
 2024-08-24 Sat (2.0h): Fixed heroku server deploy error, hod1 bot now works (@HarmonyLotteryBot). Now further testing Tapswap and looking into upgrade UI from text chat to miniapp.
 
 2024-08-23 Fri: Tested Tapswap, [created a MVP](https://github.com/rika97/Hod1/commit/886abc720b19c8b11c6b5c301e607d71bce53933) for a new version of our Hod1 bot. It can now store and retrieve each user's NIL balance, show list of videos to watch for rewards, and allow users to type '/watch' along with video id to gain reward (you can test @HarmonyLotteryBot, but Heroku server may be buggy. In that case, you can clone [this repo](https://github.com/rika97/Hod1) and run on local, I will give you API key.)
