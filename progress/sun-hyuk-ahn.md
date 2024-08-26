@@ -1,3 +1,9 @@
+2024-08-25 Sun (on call 12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
+
+2024-08-24 Sat (on call 12 hr)
+
+2024-08-23 Fri (on call 12 hr): Analyzing the recently added [RPCs](https://github.com/harmony-one/harmony/pull/4735) for boot nodes. Continued the reimplementation.
+
 2024-08-22 Thu (on call 12 hr): Familiarizing rollback methods for validators with the newest upgrades. [Reimplemented]() option minting logic in order to improve gas usage.
 
 2024-08-21 Wed (on call 12 hr): [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
