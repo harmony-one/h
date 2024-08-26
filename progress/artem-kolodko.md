@@ -1,3 +1,5 @@
+2024-08-23 Fri: [added](https://github.com/harmony-one/swap-token-list/pull/18) 1SY token icon to swap-tokens-list (icon will appear on swap.country after the merge). [Added](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md#testing) docs for manual testing of 1SY price feed and collaterization ratio on sy.country.
+
 2024-08-22 Thu: reviewed profitable trades [PR](https://github.com/harmony-one/synthetix/pull/1) from Simao; tested it locally, [fixed](https://github.com/harmony-one/synthetix/commit/b944fc7ff4c32b2cb2b95c24905bb62e3244c929) typos, sent feedback to Simao.
 
 2024-08-21 Wed: [updated](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md) Synthetix v2 deployment docs with repositories cloned to /harmony-one organization. Added notes for harmony roadmap. Continue on sy.country testing; started adding basic testings steps and scenarios to documentation.
