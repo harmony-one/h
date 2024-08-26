@@ -1,3 +1,5 @@
+2024-08-23 Fri: Refactored OrderBook contract to implement product-specific orderBooks. Implemented placeOrder method with core logic, integrated sell and buy order arrays, and developed matchOrder function for iterating through orders, pairing compatible trades, and executing matches. Optimized deploy and initialization scripts for main, spotEngine, and perpEngine. Conducted local testing to validate changes.
+
 2024-08-22 Thu: Expanded mock calls for market, perp, and index engine on Vertex's Trade page. While porting vertexClient.context.engineClient.getContracts() to Harmony network, discovered Vertex's multi-contract architecture: one OrderBook per product. Refactoring OrderBook contract and implementing OrderBookFactory for efficient contract instance management.
 
 2024-08-21 Wed: Analyzed Order Form logic, identified and fixed execution conversion price (token order/quote token) issue blocking order processing. Added key market mock calls for tokens latest prices (getLatestMarketPrices method) and perp order placement (placeOrder method). Next steps: expand mock call coverage and fix conversion for tokens with prices lower than the quote token.
