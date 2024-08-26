@@ -1,3 +1,8 @@
+2024-08-23 Fri:
+- Lock-Free Consensus Methods for Message Validation: The current consensus mechanism involves sending messages from methods that are under `mutex.Lock`, which in turn call libp2p. Since libp2p also uses `mutex.Lock` internally, this can lead to potential deadlocks. To prevent this, we need to call such methods asynchronously. However, executing these methods asynchronously introduces unpredictability in their behavior.
+- Investigating the Zero Sign Power Issue on Local Watchdog: I was unable to identify the cause of the zero sign power issue on the local watchdog. This problem requires further investigation on the devnet. I will continue working on this with Ulad next week.
+- Reviewing Pull Requests.
+
 2024-08-16 Fri:
 - Working on branch with 1 second finality and 67% signers count. It passed 75% of tests
 - Was investigating the `context deadline` issue occurring on the localnet with Streamsync. During the investigation, I discovered duplicated connections. When a connection is replaced with a new one, any requests in progress on the old connection are discarded, leading to the deadline error. However, I have yet to determine the root cause of the connection duplication.
