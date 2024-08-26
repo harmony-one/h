@@ -174,3 +174,33 @@ node update-feed.js
 ```
 
 Feed address updated
+
+## Testing
+
+### Testing oracle price feed
+
+1SY token page on swap.country: [https://info.swap.harmony.one/#/harmony/tokens/0xf88ebd99e1f776fbfd08186e1edbdad949114d1c](https://info.swap.harmony.one/#/harmony/tokens/0xf88ebd99e1f776fbfd08186e1edbdad949114d1c)
+
+1) Provide liquidity to 1USDC / 1SY pool (if not enough for trading): [https://info.swap.harmony.one/#/harmony/pools/0xbc4af4ee9164c469b9e90f7d9b5f7854556133d6](https://info.swap.harmony.one/#/harmony/pools/0xbc4af4ee9164c469b9e90f7d9b5f7854556133d6)
+
+2) Check 1SY price before the trade: 
+```
+cast call 0xe3EAB0d319908c3Ca68076b208a9870571dDb03F "latestAnswer()(int256)" --rpc-url https://api.harmony.one
+```
+
+3) Important: use another account for trades on swap.country. Check that connected account is not a liquidity provider for 1USDC / 1SY pair:
+<img width="885" alt="Screenshot 2024-08-26 at 8 11 33 AM" src="https://github.com/user-attachments/assets/500c3291-ebe9-42ab-a004-551b05202d96">
+
+4) Trade 1USDC / 1SY pair on swap.country
+
+5) Check price after the trade:
+```
+cast call 0xe3EAB0d319908c3Ca68076b208a9870571dDb03F "latestAnswer()(int256)" --rpc-url https://api.harmony.one
+```
+
+### Testing collaterization ratio
+1) Stake some 1SY on [sy.country](https://sy.country/). You will see a green bar with "Collateralization Ratio Health":
+<img width="894" alt="Screenshot 2024-08-26 at 8 08 27 AM" src="https://github.com/user-attachments/assets/93bbdd0f-2931-4f34-b4e7-d164e8bffc5c">
+
+2) Complete steps from previous article "Testing oracle price feed" to move the price at least for 1% to see the difference
+3) Check that collaterization ratio changed after the trade
