@@ -1,3 +1,9 @@
+2024-08-26 Mon: Updated subgraphs with new contract version (morphex based). Continue to correct integration errors. Updated Oracles for the main version of gmx. Synced with Li and team about next goals and gmx launch.
+
+---
+
+2024-08-23 Fri: Getting errors when testing ux using the merged (autocompounder features to harmony gmx) version of contracts. [Created](https://github.com/harmony-one/h-gmx-contracts/commit/48c71a05609b3e907ad77d730a6d3fcd617be764) a separate branch with a version of contracts from morphex - will use it as a basis. Deployed a new version of contracts and continue testing.
+
 2024-08-22 Thu: Worked on updating the rewards page. Fixed subgraph and ux issues. Working on compiling documentation on deployment and changes for gmx autocompounder version.
 
 2024-08-21 Wed: Created a separate version of the gmx interface for autocompounder fetaure. Integrated morphex contracts (with autocompounder support) to gmx interface. Mograted staked GXP page to new interface. Working on rewards page.
