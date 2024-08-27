@@ -1,3 +1,15 @@
+2024-08-27 Tue: Sync with Li and Sun, insights:
+
+2024-08-26 Mon: Finalized gif animation, [tweeted](https://x.com/harmonyprotocol/status/1828282628493185489) in promotion of Hod1. Began working on memematic graphics.
+
+---
+
+2024-08-25 Sun (1.0 hr): Researching for images to add to the [DeFi Report](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d).
+
+2024-08-24 Sat (1.0 hr): Continued [editorizing](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8) the 2025 roadmap.
+
+2024-08-23 Fri: Began animation of Hod1 slot machine gif, collected icons and edited in Photoshop to appear neon. Updated harmony.one community section and [tweeted](https://x.com/harmonyprotocol/status/1827063900690641255) the updates. Reviewed the formatting of the 2025 report.
+
 2024-08-22 Thu: Began editorizing the 2025 roadmap and [drafting Twitter content](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8) to post over the coming weeks. Tweeted first thread on the roadmap. Testing of ideogram, insights include: Midjourney is still the topic image generator in terms of high detail and artistry. However, Ideogram's generations with a 'realstic' theme were on-par quality wise to Midjourney. Their cartoon, hand drawn generations left more to be desired.
 
 2024-08-21 Wed: Added questions and comments to the 2025 roadmap, focusing on Hod1's gameification, gx.country's marketing strategy, and hiring initiatives. [Promoted](https://x.com/harmonyprotocol/status/1826366024444510424) and attended ONE Show Episode 10. Synced with Theo on upkeeping the Discord & streamlining all social media content into a community channel.
