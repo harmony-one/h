@@ -1,3 +1,6 @@
+2024-08-26 Mon: Consulted Simao about AMM contract implementation. Identified matchOrderAmm transaction type in OffchainExchangeContract as key focus. Refactored HarmonyClient library for optimized web3 calls. Working on porting getContracts function to access Harmony contracts.
+
+---
 2024-08-23 Fri: Refactored OrderBook contract to implement product-specific orderBooks. Implemented placeOrder method with core logic, integrated sell and buy order arrays, and developed matchOrder function for iterating through orders, pairing compatible trades, and executing matches. Optimized deploy and initialization scripts for main, spotEngine, and perpEngine. Conducted local testing to validate changes.
 
 2024-08-22 Thu: Expanded mock calls for market, perp, and index engine on Vertex's Trade page. While porting vertexClient.context.engineClient.getContracts() to Harmony network, discovered Vertex's multi-contract architecture: one OrderBook per product. Refactoring OrderBook contract and implementing OrderBookFactory for efficient contract instance management.
