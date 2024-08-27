@@ -1,5 +1,7 @@
 2024-08-26 Mon: Review of Harmster Kombat. Insights: very simple and minimalistic interactions combined with a complex and highly researched plan to make sure each in game action has a positive impact on the team. I.e. ad revenue, user retention, or user actions (subscribing to YouTube)
 
+---
+
 2024-08-25 Sun: (8.0h) Extensive restructuring for [DeFi report](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d#954171edd8544d9184907a422e91026c).
 
 2024-08-24 Sat: (2.0) Continuation of [DeFi article](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d#954171edd8544d9184907a422e91026c).
