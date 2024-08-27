@@ -1,3 +1,7 @@
+2024-08-26 Mon: found that [PerpsV2Markets](https://blog.synthetix.io/synthetix-perps-v2-is-now-live/) contracts are not available on current deployment, working on updating current deployment script to include it. Synced with the team; Aaron mentioned that we'll need to update current oracles contract before sy.country launch.
+
+---
+
 2024-08-23 Fri: [added](https://github.com/harmony-one/swap-token-list/pull/18) 1SY token icon to swap-tokens-list (icon will appear on swap.country after the merge). [Added](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md#testing) docs for manual testing of 1SY price feed and collaterization ratio on sy.country.
 
 2024-08-22 Thu: reviewed profitable trades [PR](https://github.com/harmony-one/synthetix/pull/1) from Simao; tested it locally, [fixed](https://github.com/harmony-one/synthetix/commit/b944fc7ff4c32b2cb2b95c24905bb62e3244c929) typos, sent feedback to Simao.
