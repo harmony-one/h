@@ -1,4 +1,4 @@
-2024-08-26 Mon
+2024-08-26 Mon: Big progress🥳, transformed [Hod1](https://github.com/rika97/Hod1) from chat-base interaction to TAM (Telegram Mini App), correctly updates user NIL balance, and stores/hides watched videos. Created front-end for web-app with React and deployed to Netlify, created backend for bot interaction, created REST API for user interactions and fetching/pushing stored user data (both deployed to Heroku), integrated web frontend to Telegram bot, and wrote production notes [here](https://github.com/rika97/Hod1/blob/main/README.md).
 
 ---
 
