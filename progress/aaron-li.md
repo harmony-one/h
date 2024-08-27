@@ -1,5 +1,7 @@
 2024-08-26 Mon (5.6h): Discussion on SY, GX, and Vertex development. Pano: end-to-end approval and actual deposit flow. Fix issues and notification with wallet loading and unloading. Fix focus issues of textinput between main menu and submenu. Add proper error handling for sections that require wallet but none is set. Fix deposit unit error. Add token unit conversion. Fix display errors. Allow .env file or command line argument to preload a wallet. Fix stale data after transaction in deposits. Fix display defects for collateral stats. Add withdraw end-to-end. Fix withdraw confirmation bug
 
+---
+
 2024-08-25 Sun (5.8h): Pano: deposit - end to end flow except final step and balance query functions. Pano: balance queries, writable client debugging, approval and deposit transaction flow implementation, more error handling on deposit
 
 2024-08-24 Sat (6.1h): Pano: Wallet client, context, provider implementation with decoupled setters for use in hooks. Simplify error handling in commands. Design and implement notification system for sticky, colored, stackable, and transient success and error messages. Fix bugs in notification system and use everywhere. Add menu title boxes to clarify user flow
