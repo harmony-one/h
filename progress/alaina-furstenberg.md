@@ -1,4 +1,6 @@
-2024-08-27 Tue: Sync with Li and Sun, insights:
+2024-08-28 Wed: Sync with Theo on finalizing the Defi report. Design research for more HOD1 marketing materials. Tweet promoting Knights and Peasants and the 2025 roadmap.
+
+2024-08-27 Tue: Sync with Li and Sun, insights: Will be collaborating closer with Sun for technical marketing materials for account abstraction. Design of 2 graphics to promote Memefi, followed by an [educational thread](https://x.com/harmonyprotocol/status/1828557797715591305) on twitter.
 
 2024-08-26 Mon: Finalized gif animation, [tweeted](https://x.com/harmonyprotocol/status/1828282628493185489) in promotion of Hod1. Began working on memematic graphics.
 
