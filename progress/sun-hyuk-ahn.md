@@ -1,3 +1,9 @@
+2024-08-26 Tue (on call 12 hr):
+
+2024-08-26 Mon (on call 12 hr): Users are required to first approve and deposit the amount of assets in order to mint an option. However, if there is not sufficient collateral, the option would not be minted. The deposits are not reverted, rather the users receive Panoptics versions of these tokens. This is the same case for the current Panoptics beta version (official version not yet released). Working on to see if it is possible to first check if the collateral are sufficient prior to the deposits.
+
+---
+
 2024-08-25 Sun (on call 12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
 
 2024-08-24 Sat (on call 12 hr)
