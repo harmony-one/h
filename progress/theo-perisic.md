@@ -1,3 +1,5 @@
+2024-08-27 Tue: Final edits on [DeFi article](https://www.notion.so/harmonyone/DeFi-Report-df0794d180d3494c9f6ceffa2094c73d), turning our research into a readible copy for better understanding. 
+
 2024-08-26 Mon: Review of Harmster Kombat. Insights: very simple and minimalistic interactions combined with a complex and highly researched plan to make sure each in game action has a positive impact on the team. I.e. ad revenue, user retention, or user actions (subscribing to YouTube)
 
 ---
