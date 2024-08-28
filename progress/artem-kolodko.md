@@ -1,3 +1,5 @@
+2024-08-27 Tue: [updated](https://github.com/harmony-one/docs-home/pull/109/files) harmony docs (request from Soph): fixed testnet Explorer links, removed dead links, updated outdated transaction gas params. Continue on PerpsV2Markets (Synthetix).
+
 2024-08-26 Mon: found that [PerpsV2Markets](https://blog.synthetix.io/synthetix-perps-v2-is-now-live/) contracts are not available on current deployment, working on updating current deployment script to include it. Synced with the team; Aaron mentioned that we'll need to update current oracles contract before sy.country launch.
 
 ---
