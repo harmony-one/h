@@ -1,3 +1,5 @@
+2024-08-28 Wed: Working on skipping offchain order book in placeOrder logic. Vertex contract review revealed need for Mock Sequencer refactoring due to sequencer-callable Endpoint's submitTransactionsChecked method. Initiating Sequencer refactoring and setting up local tests for submitTransactionsCheck execution. 
+
 2024-08-27 Tue: Resolved stream issues with Gemini model on harmony-llm-api for Harmony1Bot. Enhanced error logging and modified /s command to support Claude's Sonnet 3.5 model. Regarding Vertex Defi App, implemented getContract call on HarmonyClient, and Completed HarmonyClient refactoring to handle contract calls efficiently.
 
 2024-08-26 Mon: Consulted Simao about AMM contract implementation. Identified matchOrderAmm transaction type in OffchainExchangeContract as key focus. Refactored HarmonyClient library for optimized web3 calls. Working on porting getContracts function to access Harmony contracts.
