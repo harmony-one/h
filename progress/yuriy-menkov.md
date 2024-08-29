@@ -1,3 +1,7 @@
+2024-08-28 Wed: Researched morphex leveraged trading features for the possibility of their integration into the standard gmx interface and the current stats service. 
+
+2024-08-27 Tue: Moved updates for subgraphs in accordance with the [latest versions](https://github.com/morphex-labs/morphex-subgraph) from morphex to fix synchronization errors. Renamed the names of tokens and wrappers on the contract side for morphex-autocompounder version.
+
 2024-08-26 Mon: Updated subgraphs with new contract version (morphex based). Continue to correct integration errors. Updated Oracles for the main version of gmx. Synced with Li and team about next goals and gmx launch.
 
 ---
