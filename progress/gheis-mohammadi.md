@@ -3,7 +3,7 @@ Last week, I focused on different tasks to improve our project’s alignment wit
 
 In addition to these updates, I tackled the conflicts between [PR #4735](https://github.com/harmony-one/harmony/pull/4735) and the dev branch. After resolving these conflicts and rebasing the branch, I pushed the updated code, which is now under team review.
 
-Furthermore, I reviewed some PRs, including the release v2024.2.0 PR [PR #4666](https://github.com/harmony-one/harmony/pull/4666), which is set for deployment next week. During this review, I identified some missing code, prompting me to create PR #4747 to add boot node watermark flags, ensuring all main_hotfix changes are covered in the dev branch.
+Furthermore, I reviewed some PRs, including the release v2024.2.0 PR [PR #4666](https://github.com/harmony-one/harmony/pull/4666), which is set for deployment next week. During this review, I identified some missing code, prompting me to create [PR #4747](https://github.com/harmony-one/harmony/pull/4747) to add boot node watermark flags, ensuring all main_hotfix changes are covered in the dev branch.
 
 ---
 
