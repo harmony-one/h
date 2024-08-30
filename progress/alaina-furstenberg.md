@@ -1,3 +1,7 @@
+2024-08-30 Fri: Finalization of the DeFi Report plus publishing and sharing a thread. Update to the harmony.one community section with a tweet.
+
+2024-08-29 Thu: Reformatting and editing of DeFi Report, to be released Friday with Three Sigma. [Design of the thumbnail](https://www.canva.com/design/DAGPQm8RFrA/wZYMAEW93X20pSf0EU-Tsw/edit?utm_content=DAGPQm8RFrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). [Thread](https://x.com/harmonyprotocol/status/1829408822953161198) on UtilityDAO's liquid staking.
+
 2024-08-28 Wed: Sync with Theo on finalizing the Defi report. Design research for more HOD1 marketing materials. Tweet promoting Knights and Peasants and the 2025 roadmap.
 
 2024-08-27 Tue: Sync with Li and Sun, insights: Will be collaborating closer with Sun for technical marketing materials for account abstraction. Design of 2 graphics to promote Memefi, followed by an [educational thread](https://x.com/harmonyprotocol/status/1828557797715591305) on twitter.
