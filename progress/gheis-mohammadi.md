@@ -1,9 +1,9 @@
 2024-08-31 Sat:
-Last week, I focused on different tasks to improve our project’s alignment with the latest developments. I started by updating the Go version in the go-sdk to 1.22.5, as seen in PR #304. This update ensures that the go-sdk is now compatible with the new Harmony binary. Alongside this, I updated Dr.Harmony to support the same Go version, which you can review in this commit.
+Last week, I focused on different tasks to improve our project’s alignment with the latest developments. I started by updating the Go version in the go-sdk to 1.22.5, as seen in [PR #304](https://github.com/harmony-one/go-sdk/pull/304). This update ensures that the go-sdk is now compatible with the new Harmony binary. Alongside this, I updated Dr.Harmony to support the same Go version, which you can review in this [commit](https://github.com/GheisMohammadi/Dr.Harmony/commit/b26a898a901771e95dd204d7d25fbc8b9c3df02f)
 
-In addition to these updates, I tackled the conflicts between PR #4735 and the dev branch. After resolving these conflicts and rebasing the branch, I pushed the updated code, which is now under team review.
+In addition to these updates, I tackled the conflicts between [PR #4735](https://github.com/harmony-one/harmony/pull/4735) and the dev branch. After resolving these conflicts and rebasing the branch, I pushed the updated code, which is now under team review.
 
-Furthermore, I reviewed some PRs, including the release v2024.2.0 PR PR #4666, which is set for deployment next week. During this review, I identified some missing code, prompting me to create PR #4747 to add boot node watermark flags, ensuring all main_hotfix changes are covered in the dev branch.
+Furthermore, I reviewed some PRs, including the release v2024.2.0 PR [PR #4666](https://github.com/harmony-one/harmony/pull/4666), which is set for deployment next week. During this review, I identified some missing code, prompting me to create PR #4747 to add boot node watermark flags, ensuring all main_hotfix changes are covered in the dev branch.
 
 ---
 
