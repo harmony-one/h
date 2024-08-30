@@ -1,3 +1,5 @@
+2024-08-28 Thu:
+
 2024-08-27 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-03 (Tue).
 
 2024-08-26 Tue (on call 12 hr): Began reworking option logic to include multiple leg configuration.
