@@ -1,3 +1,11 @@
+2024-08-30 Fri: On the protocol side, I've helped Kostantin with the localnet tests for the new get_signPower operation. I've enabled debug endpoint to get the sign power in localnet and simplified watchdog startup against localnet. Main advantage, you have the same setup for the local network as in higher environments, which use risk-free for experiments.
+
+On the infra side, I've installed a new harmony/bootnode version with golang 1.22.5 on all three environments as a preparation for the public harmony release 2024.2.0.
+
+On the continuous integration side, I've covered edge cases of running our CI tests against harmony repo forks and continuing with a debug of our continuous integration rosetta tests.
+
+---
+
 2024-08-23 Fri: On the protocol side, I was unblocked with go 1.22 testing. As team we decided to use the best practice - [libp2p with Transport Security](https://github.com/harmony-one/harmony/pull/4722/#discussion_r1728847361). My previous testing results were correct, thus I've done canary testing golang testing in the mainnet - all tests are passed. We are heading to the new v2024.2.0 release.
 
 On the infra side: I've fixed the noisy beacon stuck alarm, it was a bug in the logic for start time of the alarm. Case when everything returned back to normal wasn't covered and this produced a lot of false-positives. As a result, on-call engineers will have less distress from it.
