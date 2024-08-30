@@ -1,6 +1,8 @@
+2024-08-29 Thu: [continue](https://github.com/harmony-one/docs-home/pull/110/files) on Harmony docs refactoring: updated deploy section, checked all scripts locally and refactored hardhat, truffle and web3 deploy docs.
+
 2024-08-28 Wed: [created](https://github.com/harmony-one/synthetix/commit/1044563e1dbf4bfc8c6968c9b446e1a33bc83e42) test deployment with Synthetix [Perps V2](https://blog.synthetix.io/synthetix-perps-v2-is-now-live/) markets, started testing.
 
-2024-08-27 Tue: [updated](https://github.com/harmony-one/docs-home/pull/109/files) harmony docs (request from Soph): fixed testnet Explorer links, removed dead links, updated outdated transaction gas params. Continue on PerpsV2Markets (Synthetix).
+2024-08-27 Tue: [updated](https://github.com/harmony-one/docs-home/pull/109/files) Harmony docs (request from Soph): fixed testnet Explorer links, removed dead links, updated outdated transaction gas params. Continue on PerpsV2Markets (Synthetix).
 
 2024-08-26 Mon: found that [PerpsV2Markets](https://blog.synthetix.io/synthetix-perps-v2-is-now-live/) contracts are not available on current deployment, working on updating current deployment script to include it. Synced with the team; Aaron mentioned that we'll need to update current oracles contract before sy.country launch.
 
