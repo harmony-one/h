@@ -1,3 +1,5 @@
+2024-08-29 Thu: Continued with Hod1: implemented logic to block skipping/fastforwarding video, fixed react effect hook issue, updated UI. Further worked on updating UI (tested Tapswap for implementing navigation buttons) and working on user database to move from current heroku server.
+
 2024-08-28 Wed: Added video player for [Hod1 (miniApp branch)](https://github.com/rika97/Hod1/commits/miniApp/) using 'react-player', and implemented a tracker to keep track of user's viewing status for the video every fraction of a second to verify that they have indeed watched the video until the end. Production deploy that was earlier working stopped working correctly, reverted production commit to last working one and currently debugging issues (perhaps related to cache problems and Material-UI rendering.)
 
 2024-08-27 Tue: Created YouTube stats REST API, added inline keyboard menu button to Hod1, updated readme doc [[PR Here](https://github.com/rika97/Hod1/pull/3)], and started working on embedded video player. Gained insights on TAM game apps (tested Hamster Kombat) by our team sync, conducted market research on tap-to-earn games.
