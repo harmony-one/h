@@ -1,3 +1,12 @@
+2024-08-31 Sat:
+Last week, I focused on different tasks to improve our project’s alignment with the latest developments. I started by updating the Go version in the go-sdk to 1.22.5, as seen in PR #304. This update ensures that the go-sdk is now compatible with the new Harmony binary. Alongside this, I updated Dr.Harmony to support the same Go version, which you can review in this commit.
+
+In addition to these updates, I tackled the conflicts between PR #4735 and the dev branch. After resolving these conflicts and rebasing the branch, I pushed the updated code, which is now under team review.
+
+Furthermore, I reviewed some PRs, including the release v2024.2.0 PR PR #4666, which is set for deployment next week. During this review, I identified some missing code, prompting me to create PR #4747 to add boot node watermark flags, ensuring all main_hotfix changes are covered in the dev branch.
+
+---
+
 2024-08-24 Sat: 
 Last week, I resolved build issues, optimized, and finalized [PR4735](https://github.com/harmony-one/harmony/pull/4735). This PR significantly enhances the visibility and monitoring capabilities of boot nodes by introducing an RPC server. Previously, boot nodes lacked RPCs and didn't expose any metadata, limiting our monitoring capabilities. With this update, several new APIs have been added, allowing us to efficiently monitor and track connectivity and peers connected to the boot nodes. In addition to these monitoring enhancements, the PR includes a redefinition of the node and RPC folder structure, leading to a more organized and well-structured codebase. This improvement ensures that adding boot node functions will be easier in the future. 
 
