@@ -1,3 +1,5 @@
+2024-08-29 Thu: Сreated a [separate branch](https://github.com/harmony-one/gmx-interface/tree/compounding) for the gmx interface with morphex contracts, configured deployment to a separate [test domain](https://autcompounding.web.app/#/buy). Still have some errors - in the process of being fixed.
+
 2024-08-28 Wed: Researched morphex leveraged trading features for the possibility of their integration into the standard gmx interface and the current stats service. 
 
 2024-08-27 Tue: Moved updates for subgraphs in accordance with the [latest versions](https://github.com/morphex-labs/morphex-subgraph) from morphex to fix synchronization errors. Renamed the names of tokens and wrappers on the contract side for morphex-autocompounder version.
