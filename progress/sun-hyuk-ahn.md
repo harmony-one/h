@@ -1,4 +1,6 @@
-2024-08-28 Thu:
+2024-08-29 Fri: Began going through the public demo workflow. Pool creation and option mint working as expected, will test more tomorrow.
+
+2024-08-28 Thu: Finalized the multiple leg configuration.
 
 2024-08-27 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-03 (Tue).
 
