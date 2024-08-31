@@ -1,3 +1,5 @@
+2024-08-30 Fri: Created Harmony DeFi group, aimed at providing the same open discussions as the Harmony Validator group but with a focus on DeFi. This group will streamline ecosystem liquidity, project promotion, and user experience of our DeFi suite. Confirmation from Pablo for release of DeFi article, still no response from Three Sigma marketing, will ping over the weekend for promotion into next week.
+
 2024-08-29 Thu: Sync with Alaina for DeFi article, finaly edits with Stephen. Continued [simpleswap](SimpleSwap.io) integration discussions for simple ONE purchases within new [blockscout explorer](https://explorer.harmony.one/).
 
 2024-08-28 Wed: Review of [Harmony docs](https://docs.harmony.one/home/developers/harmony-stack). Insight: new users are lost when attempting to troubleshoot on their own, or navigate the space for the Harmony Ecosystem. Sent recommendations to Soph.
