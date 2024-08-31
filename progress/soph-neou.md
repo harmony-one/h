@@ -1,3 +1,12 @@
+2024-08-30 Fri:
+This week has been focused on ensuring that the mainnet stable release v2024.2.0 is ready for rollout on Monday, September 2, 2024. So far, everything is on track, with Devnet, Testnet, and Mainnet all successfully upgraded. This release is a critical step towards HIP32, incorporating a new stable Harmony version featuring P2P improvements and the Go 1.22.5 update. The final few PRs for the HIP32 hard fork are currently in progress, with the fork tentatively scheduled for September 26, 2024.
+
+During the deployment of the new release on Devnet, we encountered an issue where four nodes went offline due to streamsync not finding nodes with a higher block height to sync with. This was resolved by enabling DNS sync on one of those four nodes. Additionally, the team and I successfully upgraded Golang to version 1.22.5 across all our projects (watchdog, harmony-test, go-sdk) with multiple PR reviews for the upcoming v2024.3.0 Hardfork.
+
+On another note, I also assisted the team in drafting their objectives for Q4 2024 and Q1 2025, which will be finalized after a review with Steven.
+
+---
+
 2024-08-23 Fri: Having been out of the office for the past two weeks, I've been catching up on all the updates. After getting up to speed, I focused on planning for the HIP32 hard fork, which involves an intermediary release using Go 1.22. The current plan is to release v2024.2.0 in early September, with the HIP32 hard fork scheduled for the end of September. A significant portion of my time has been dedicated to coordinating and assisting with PR reviews for the upcoming v2024.2.0 release.
 
 Additionally, I've completed the cost reporting for July. We managed to save approximately $1.3k compared to June, primarily due to overlapping costs from transitioning between the old and new explorers. The old explorer was fully decommissioned in July, so we should see the final, adjusted monthly costs reflected in August.
