@@ -1,3 +1,5 @@
+2024-08-31 Sat (2.0 h): Further continued working on restructuring code + database. Also looked into how to connect wallet + referrals on Tapswap.
+
 2024-08-30 Fri: Cotinued working on improving UI, TAM navigation, and user database for storing user data. Further continued with Tapswap testing and restructuring Hod1 repo files for cleaner code.
 
 2024-08-29 Thu: Continued with Hod1: implemented logic to block skipping/fastforwarding video, fixed react effect hook issue, updated UI [[PR here](https://github.com/rika97/Hod1/pull/5)]. Further worked on updating UI (tested Tapswap for implementing navigation buttons) and working on user database to move from current heroku server.
