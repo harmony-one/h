@@ -1,6 +1,6 @@
 2024-09-01 Sun (x hr):
 
-2024-08-31 Sat (12 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionality](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself.
+2024-08-31 Sat (12 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionalities](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself in order to improve performance.
 
 2024-08-30 Fri: Began going through the public demo workflow. Pool creation and option mint working as expected, will test more tomorrow.
 
