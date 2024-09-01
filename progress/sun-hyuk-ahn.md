@@ -1,18 +1,22 @@
-2024-08-29 Fri: Began going through the public demo workflow. Pool creation and option mint working as expected, will test more tomorrow.
+2024-09-01 Sun (x hr):
 
-2024-08-28 Thu: Finalized the multiple leg configuration.
+2024-08-31 Sat (12 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionality](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself.
 
-2024-08-27 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-03 (Tue).
+2024-08-30 Fri: Began going through the public demo workflow. Pool creation and option mint working as expected, will test more tomorrow.
 
-2024-08-26 Tue (on call 12 hr): Began reworking option logic to include multiple leg configuration.
+2024-08-29 Thu: Finalized the multiple leg configuration.
+
+2024-08-28 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-03 (Tue).
+
+2024-08-27 Tue (on call 12 hr): Began reworking option logic to include multiple leg configuration.
 
 2024-08-26 Mon (on call 12 hr): Users are required to first [approve and deposit](https://deeznuts.panoptic.xyz/new-position) the amount of assets in order to mint an option. However, if there is not sufficient collateral, the option would not be minted. The deposits are not reverted, rather the users receive Panoptics versions of these tokens. This is the same case for the current Panoptics beta version (official version not yet released). Working on to see if it is possible to first check if the collateral are sufficient prior to the deposits.
 
 ---
 
-2024-08-25 Sun (on call 12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
+2024-08-25 Sun (12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
 
-2024-08-24 Sat (on call 12 hr)
+2024-08-24 Sat (12 hr)
 
 2024-08-23 Fri (on call 12 hr): Analyzing the recently added [RPCs](https://github.com/harmony-one/harmony/pull/4735) for boot nodes. Continued the reimplementation.
 
@@ -50,7 +54,7 @@
 
 ---
 
-2024-08-03 Sat (8 hr): Continued working on the repeated transaction bug. Setting wait time after sending a transaction seems to resolve the issue but do not know the exact cause at the moment.
+2024-08-03 Sat (12 hr): Continued working on the repeated transaction bug. Setting wait time after sending a transaction seems to resolve the issue but do not know the exact cause at the moment.
 
 2024-08-02 Fri: Working on repeated transaction sending. At the moment, first two to three transactions are working but the ones sent after sometimes result in failures. 
 
@@ -76,7 +80,7 @@
 
 ---
 
-2024-07-21 Sat: Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
+2024-07-21 Sat (8 hr): Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
 
 2024-07-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using command line interface. Development on transferring and burning options.
 
@@ -90,7 +94,7 @@
 
 ---
 
-2024-07-13 Sat: Began looking at [Ink](https://github.com/vadimdemedes/ink), which provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
+2024-07-13 Sat (12 hr): Began looking at [Ink](https://github.com/vadimdemedes/ink), which provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
 
 2024-07-12 Fri: Analyzed the fix for the failing test with Aaron. USDC uses the highest 1 bit in the balance for blacklist status, but the tests set initial balance to be max uint256, which sets all bits to 1. All tests are passing now. Will redeploy the fixed smart contract.
 
@@ -104,9 +108,9 @@
 
 ---
 
-2024-07-07 Sun: Discussed with Aaron on updating the Panoptics flow. Better idea than the script - command line interface implementation would be to create a simple built-in server that serves an empty-looking web page, which the command line interface program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the command line interface program to proceed with the next step.
+2024-07-07 Sun (12 hr): Discussed with Aaron on updating the Panoptics flow. Better idea than the script - command line interface implementation would be to create a simple built-in server that serves an empty-looking web page, which the command line interface program opens in the browser when users need to sign. The page interacts with MetaMask using dynamically rendered JavaScript, and upon transaction completion or rejection, it calls another API on the server to inform the command line interface program to proceed with the next step.
 
-2024-07-06 Sat: Continued updating the scripts and asking peers for the script optimization.
+2024-07-06 Sat (8 hr): Continued updating the scripts and asking peers for the script optimization.
 
 2024-07-05 Fri: Continuing the walkthrough as well as debugging the script on closing the pool (technically selling / transferring the option to another user).
 
