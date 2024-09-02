@@ -1,3 +1,10 @@
+2024-08-20 Fri:
+- Finalized "Broadcast Vote Power": Our network monitoring systems rely on the "sign power" API method from the leader node. However, with leader rotation enabled, the leader is often unreachable. To address this, we implemented a feature that allows the broadcast of this value, making it accessible from any node in the network. 
+- Completed Crosslinks Feature for HIP32: This feature enables committees to continue operating even if no crosslinks are sent. We have encountered situations where this occurred, and the feature aims to prevent such issues in the future.
+- Enhanced Watchdog for Localnet Nodes with Ulad: While testing vote power broadcasting, we discovered unpredictable node assignments within localnet and watchdog. Additionally we reactivated a previously disabled API for localnet that was disabled by default.   
+- Made `getLastSigningPower` API Method Public: The getLastSigningPower method, which does not contain any private information, has been moved from the private debug API to the public API. 
+
+
 2024-08-23 Fri:
 - Lock-Free Consensus Methods for Message Validation: The current consensus mechanism involves sending messages from methods that are under `mutex.Lock`, which in turn call libp2p. Since libp2p also uses `mutex.Lock` internally, this can lead to potential deadlocks. To prevent this, we need to call such methods asynchronously. However, executing these methods asynchronously introduces unpredictability in their behavior.
 - Investigating the Zero Sign Power Issue on Local Watchdog: I was unable to identify the cause of the zero sign power issue on the local watchdog. This problem requires further investigation on the devnet. I will continue working on this with Ulad next week.
