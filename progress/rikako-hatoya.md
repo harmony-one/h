@@ -1,4 +1,6 @@
-2024-08-31 Sat (3.0 h): Further continued working on restructuring code + database. Also looked into how to connect wallet + referrals on Tapswap.
+2024-09-01 Sun (2.0h): Looked into our [developer documentation](https://docs.harmony.one/home/developers/getting-started) and see if up-to-date. Specifically, looked into commands regarding estimateGas issue.
+
+2024-08-31 Sat (3.0h): Further continued working on restructuring code + database. Also looked into how to connect wallet + referrals on Tapswap.
 
 2024-08-30 Fri: Cotinued working on improving UI, TAM navigation, and user database for storing user data. Further continued with Tapswap testing and restructuring Hod1 repo files for cleaner code.
 
