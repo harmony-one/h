@@ -1,3 +1,9 @@
+2024-09-02 Mon - 2024-09-05 Thu: Paid Time Off
+
+---
+
+2024-08-30 Fri: completed Harmony docs / developer section refactoring, fixed typos, created [pull request](https://github.com/harmony-one/docs-home/pull/110/files).
+
 2024-08-29 Thu: [continue](https://github.com/harmony-one/docs-home/pull/110/files) on Harmony docs refactoring: updated deploy section, checked all scripts locally and refactored hardhat, truffle and web3 deploy docs.
 
 2024-08-28 Wed: [created](https://github.com/harmony-one/synthetix/commit/1044563e1dbf4bfc8c6968c9b446e1a33bc83e42) test deployment with Synthetix [Perps V2](https://blog.synthetix.io/synthetix-perps-v2-is-now-live/) markets, started testing.
