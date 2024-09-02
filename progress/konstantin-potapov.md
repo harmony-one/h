@@ -1,4 +1,4 @@
-2024-08-20 Fri:
+2024-08-30 Fri:
 - Finalized "Broadcast Vote Power": Our network monitoring systems rely on the "sign power" API method from the leader node. However, with leader rotation enabled, the leader is often unreachable. To address this, we implemented a feature that allows the broadcast of this value, making it accessible from any node in the network. 
 - Completed Crosslinks Feature for HIP32: This feature enables committees to continue operating even if no crosslinks are sent. We have encountered situations where this occurred, and the feature aims to prevent such issues in the future.
 - Enhanced Watchdog for Localnet Nodes with Ulad: While testing vote power broadcasting, we discovered unpredictable node assignments within localnet and watchdog. Additionally we reactivated a previously disabled API for localnet that was disabled by default.   
