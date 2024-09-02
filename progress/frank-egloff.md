@@ -1,3 +1,7 @@
+2024-09-01 Sun: Continued local testing of placeOrder logic. Enhanced contract handler for harmonyClient in Vertex DeFi client app. Implemented getNonce, nSubmissions, and submitTransactionsCheckedWithGasLimit methods. The latter doesn't require sequencer invocation and has simplified requirements compared to submitTransactionsChecked.
+
+2024-08-30 Fri: Attended to personal health matters.
+
 2024-08-29 Thu: Refactored Mock Sequencer and deployed latest changes, including Orderbook modifications, to mainnet. Local testing of placeOrder logic revealed an issue with depositCollateral method. The token requires collateral deposit for Endpoint contract transactions, but the deposit execution encounters a problem with the transfer method, which utilizes the same transaction method as placeOrder logic. Addressing this to ensure full functionality of placeOrder logic. Additionally, for 1country, working on enabling multi-month advance payments for domains. Encountered rent command execution issues, currently resolving.
 
 2024-08-28 Wed: Working on skipping offchain order book in placeOrder logic. Vertex contract review revealed need for Mock Sequencer refactoring due to sequencer-callable Endpoint's submitTransactionsChecked method. Initiating Sequencer refactoring and setting up local tests for submitTransactionsCheck execution. 
