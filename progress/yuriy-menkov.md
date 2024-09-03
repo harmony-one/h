@@ -1,3 +1,9 @@
+2024-09-02 Mon: Switched to supporting the current version of [gx.country](https://gx.country/) to fix several price synchronization issues in price keeper (To give Aaron a working version for auditing). Need another update for the new oracles used for synthetics (Planning to sync with Aaron to get the final set of tokens and addresses). Continue work on the "Auto-compounding Wrapper page".
+
+---
+
+2024-08-30 Fri: Completed integration and bug fixes in the base gmx interface with morphex contracts (autocompounding). Checked the main cases of adding liquidity, exchange, etc. Deployed a [new version](https://autcompounding.web.app). Start work on the "[Auto-compounding Wrapper page](https://www.morphex.trade/wrapper)" migration - unfortunately did not find the source code for this part of the functionality in the morphex github and need to research requests and contracts call.
+
 2024-08-29 Thu: Сreated a [separate branch](https://github.com/harmony-one/gmx-interface/tree/compounding) for the gmx interface with morphex contracts, configured deployment to a separate [test domain](https://autcompounding.web.app/#/buy). Still have some errors - in the process of being fixed.
 
 2024-08-28 Wed: Researched morphex leveraged trading features for the possibility of their integration into the standard gmx interface and the current stats service. 
