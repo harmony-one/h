@@ -1,5 +1,7 @@
 2024-09-02 Mon (Labor Day): Continued looking into gas update issue in our developer documentation. Also looked into vidiq and other scraping services collecting Youtube data.
 
+---
+
 2024-09-01 Sun (2.0h): Looked into our [developer documentation](https://docs.harmony.one/home/developers/getting-started) and see if up-to-date. Specifically, looked into commands regarding estimateGas issue.
 
 2024-08-31 Sat (3.0h): Further continued working on restructuring code + database. Also looked into how to connect wallet + referrals on Tapswap.
