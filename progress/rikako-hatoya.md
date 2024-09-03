@@ -6,15 +6,15 @@
 
 2024-08-31 Sat (3.0h): Further continued working on restructuring code + database. Also looked into how to connect wallet + referrals on Tapswap.
 
-2024-08-30 Fri: Cotinued working on improving UI, TAM navigation, and user database for storing user data. Further continued with Tapswap testing and restructuring Hod1 repo files for cleaner code.
+2024-08-30 Fri: Cotinued working on improving UI, Telegram Mini App navigation, and user database for storing user data. Further continued with Tapswap testing and restructuring Hod1 repo files for cleaner code.
 
 2024-08-29 Thu: Continued with Hod1: implemented logic to block skipping/fastforwarding video, fixed react effect hook issue, updated UI [[PR here](https://github.com/rika97/Hod1/pull/5)]. Further worked on updating UI (tested Tapswap for implementing navigation buttons) and working on user database to move from current heroku server.
 
 2024-08-28 Wed: Added video player for [Hod1 (miniApp branch)](https://github.com/rika97/Hod1/commits/miniApp/) using 'react-player', and implemented a tracker to keep track of user's viewing status for the video every fraction of a second to verify that they have indeed watched the video until the end. Production deploy that was earlier working stopped working correctly, reverted production commit to last working one and currently debugging issues (perhaps related to cache problems and Material-UI rendering.)
 
-2024-08-27 Tue: Created YouTube stats REST API, added inline keyboard menu button to Hod1, updated readme doc [[PR Here](https://github.com/rika97/Hod1/pull/3)], and started working on embedded video player. Gained insights on TAM game apps (tested Hamster Kombat) by our team sync, conducted market research on tap-to-earn games.
+2024-08-27 Tue: Created YouTube stats REST API, added inline keyboard menu button to Hod1, updated readme doc [[PR Here](https://github.com/rika97/Hod1/pull/3)], and started working on embedded video player. Gained insights on Telegram Mini App game apps (tested Hamster Kombat) by our team sync, conducted market research on tap-to-earn games.
 
-2024-08-26 Mon: Big progress🥳, transformed [Hod1](https://github.com/rika97/Hod1) from chat-base interaction to TAM (Telegram Mini App), correctly updates user NIL balance, and stores/hides watched videos. Created front-end for web-app with React and deployed to Netlify, created backend for bot interaction, created REST API for user interactions and fetching/pushing stored user data (both deployed to Heroku), integrated web frontend to Telegram bot, and wrote production notes [here](https://github.com/rika97/Hod1/blob/main/README.md).
+2024-08-26 Mon: Big progress🥳, transformed [Hod1](https://github.com/rika97/Hod1) from chat-base interaction to Telegram Mini App, correctly updates user NIL balance, and stores/hides watched videos. Created front-end for web-app with React and deployed to Netlify, created backend for bot interaction, created REST API for user interactions and fetching/pushing stored user data (both deployed to Heroku), integrated web frontend to Telegram bot, and wrote production notes [here](https://github.com/rika97/Hod1/blob/main/README.md).
 
 ---
 
