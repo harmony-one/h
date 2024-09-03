@@ -1,4 +1,12 @@
-2024-08-30 Fri: Finalization of the DeFi Report plus publishing and sharing a thread. Update to the harmony.one community section with a tweet.
+2024-09-02 Mon: Labor Day Holiday
+
+---
+
+2024-09-01 Sun:
+
+2024-08-31 Sat: Weekly [tweet](https://x.com/harmonyprotocol/status/1829927129909481693) recapping the harmony.one community section
+
+2024-08-30 Fri: Finalization of the [DeFi Report](https://blog.harmony.one/p/three-sigmas-research-for-harmonys?r=1zilbf&utm_campaign=post&utm_medium=web) plus publishing and sharing a [thread](https://x.com/harmonyprotocol/status/1829685642403454978). Update to the harmony.one community section
 
 2024-08-29 Thu: Reformatting and editing of DeFi Report, to be released Friday with Three Sigma. [Design of the thumbnail](https://www.canva.com/design/DAGPQm8RFrA/wZYMAEW93X20pSf0EU-Tsw/edit?utm_content=DAGPQm8RFrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). [Thread](https://x.com/harmonyprotocol/status/1829408822953161198) on UtilityDAO's liquid staking.
 
