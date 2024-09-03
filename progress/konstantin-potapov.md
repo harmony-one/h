@@ -4,11 +4,14 @@
 - Enhanced Watchdog for Localnet Nodes with Ulad: While testing vote power broadcasting, we discovered unpredictable node assignments within localnet and watchdog. Additionally we reactivated a previously disabled API for localnet that was disabled by default.   
 - Made `getLastSigningPower` API Method Public: The getLastSigningPower method, which does not contain any private information, has been moved from the private debug API to the public API. 
 
+---
 
 2024-08-23 Fri:
 - Lock-Free Consensus Methods for Message Validation: The current consensus mechanism involves sending messages from methods that are under `mutex.Lock`, which in turn call libp2p. Since libp2p also uses `mutex.Lock` internally, this can lead to potential deadlocks. To prevent this, we need to call such methods asynchronously. However, executing these methods asynchronously introduces unpredictability in their behavior.
 - Investigating the Zero Sign Power Issue on Local Watchdog: I was unable to identify the cause of the zero sign power issue on the local watchdog. This problem requires further investigation on the devnet. I will continue working on this with Ulad next week.
 - Reviewing Pull Requests.
+
+---
 
 2024-08-16 Fri:
 - Working on branch with 1 second finality and 67% signers count. It passed 75% of tests
