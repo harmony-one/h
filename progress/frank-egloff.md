@@ -1,3 +1,6 @@
+2024-09-02 Mon: Testing submitTransactionsCheckedWithGasLimit locally. DepositCollateral tx not recording subaccount, causing submitTransactionsCheckedWithGasLimit failure. DepositCollateral method throwing "Transaction reverted without a reason string" when interacting with MockSequencer. Next: enhance MockSequencer error logging, verify executeSlowModeTransaction, examine MockSequencer-Endpoint interaction. Suspect root cause in MockSequencer's slow mode tx handling.
+
+---
 2024-09-01 Sun: Continued local testing of placeOrder logic. Enhanced contract handler for harmonyClient in Vertex DeFi client app. Implemented getNonce, nSubmissions, and submitTransactionsCheckedWithGasLimit methods. The latter doesn't require sequencer invocation and has simplified requirements compared to submitTransactionsChecked.
 
 2024-08-30 Fri: Attended to personal health matters.
