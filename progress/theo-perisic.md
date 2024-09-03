@@ -1,3 +1,11 @@
+2024-09-03 Tue: Review and sync with Yuriy on GX technical documentation, continued preparation for Recover Multisig Custodian (RMC) elections. Started initial Harmony discord revamp with Tenacious, reached out to current mods, and made [offical announcement](https://x.com/harmonyprotocol/status/1831117142391144693) with Alaina. Ta-Da (web3 mechanical turk) conversations about Token2049. 
+
+2024-09-02 Mon: Labor Day
+
+2024-09-01 Sun: Cryptoland DAO twitter space speaker. Recovery and further discussions about Harmony discord were covered.
+
+2024-08-31 Sat: Continued conversations in DeFi group. Insights: OpenOcean looking to add Swap integration as a priority and Harmony discord revamp discussions. 
+
 2024-08-30 Fri: Created Harmony DeFi group, aimed at providing the same open discussions as the Harmony Validator group but with a focus on DeFi. This group will streamline ecosystem liquidity, project promotion, and user experience of our DeFi suite. Confirmation from Pablo for release of DeFi article, still no response from Three Sigma marketing, will ping over the weekend for promotion into next week.
 
 2024-08-29 Thu: Sync with Alaina for DeFi article, finaly edits with Stephen. Continued [simpleswap](SimpleSwap.io) integration discussions for simple ONE purchases within new [blockscout explorer](https://explorer.harmony.one/).
