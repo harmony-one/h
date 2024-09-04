@@ -1,3 +1,5 @@
+2024-09-03 Tue: Sync with Theo on the announcement of Discord revamp, posted to [Discord](https://discord.com/channels/532383335348043777/896507755098152970/1280682411826614282) and [Twitter](https://x.com/harmonyprotocol/status/1831117142391144693). Reserach on polymarkets, testing of wagerbot on Telegram
+
 2024-09-02 Mon: Labor Day Holiday
 
 ---
