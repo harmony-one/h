@@ -1,4 +1,10 @@
-2024-09-01 Sun (x hr):
+2024-09-03 Tue: Connected the core componentes of Panoptic to the [command line interface](https://github.com/harmony-one/panoptic-v1-core-cli/commit/8432bf400e12c83753b1635ce25039f8185db999) component. Troubleshooted problem related to deploying pools if it's already deployed with a different fee.
+
+2024-09-02 Mon: Holiday
+
+---
+
+2024-09-01 Sun (3 hr): Wrote scripts to enable client interface commands to interact with deployed smart contracts and to simplify building smart contract abis.
 
 2024-08-31 Sat (12 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionalities](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself in order to improve performance.
 
@@ -6,7 +12,7 @@
 
 2024-08-29 Thu: Finalized the multiple leg configuration.
 
-2024-08-28 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-03 (Tue).
+2024-08-28 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-05 (Fri).
 
 2024-08-27 Tue (on call 12 hr): Began reworking option logic to include multiple leg configuration.
 
@@ -16,7 +22,7 @@
 
 2024-08-25 Sun (12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
 
-2024-08-24 Sat (12 hr)
+2024-08-24 Sat (1 hr): Finalized option minting logic.
 
 2024-08-23 Fri (on call 12 hr): Analyzing the recently added [RPCs](https://github.com/harmony-one/harmony/pull/4735) for boot nodes. Continued the reimplementation.
 
