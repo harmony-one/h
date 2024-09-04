@@ -1,3 +1,17 @@
+2024-09-03 Tue (5.5h): Discussion on Youtube video view API and TODOs for GMX v2 regarding adding new tokens and liquidations. Review protocol boot node RPC patch. Review separate Panoptic pool deployment script, debug and discuss issues. Synth oracle using Uniswap and time-weighted average price. Pano: pool id and pool address converter, encoding pool id in storage key to make pool-specific positions searchable through range scan, revisiting pool id and address related contracts. 
+
+---
+
+2024-09-01 Sun (0.3h): (Continued)
+
+2024-08-31 Sat (0.3h): Pano: local database reader and writer implementation. Review key-range search, index, and remote-sync capability for PouchDB 
+
+2024-08-29 Thu (0.8h): (Continued) and reviewing product plans and chatbot recursive crawling capabilities
+
+2024-08-28 Wed (3.5h): Pano: debugging Panoptic Typescript SDK import issues, testing key encoding and decoding functions. Extract useful code from SDK and rewrite types, encoding and decoding functions.
+
+2024-08-27 Tue (3.3h): Pano: database operation functions, hooks, and manipulation and conversion between tokenId and positions. Deploy script for PanopticHelper, a library for constructing multi-leg, hedging positions. 
+
 2024-08-26 Mon (5.6h): Discussion on SY, GX, and Vertex development. Pano: end-to-end approval and actual deposit flow. Fix issues and notification with wallet loading and unloading. Fix focus issues of textinput between main menu and submenu. Add proper error handling for sections that require wallet but none is set. Fix deposit unit error. Add token unit conversion. Fix display errors. Allow .env file or command line argument to preload a wallet. Fix stale data after transaction in deposits. Fix display defects for collateral stats. Add withdraw end-to-end. Fix withdraw confirmation bug
 
 ---
