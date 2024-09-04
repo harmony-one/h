@@ -2,6 +2,8 @@
 
 2024-09-02 Mon: Labor Day
 
+---
+
 2024-09-01 Sun: Cryptoland DAO twitter space speaker. Recovery and further discussions about Harmony discord were covered.
 
 2024-08-31 Sat: Continued conversations in DeFi group. Insights: OpenOcean looking to add Swap integration as a priority and Harmony discord revamp discussions. 
