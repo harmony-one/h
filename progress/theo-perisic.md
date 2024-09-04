@@ -1,4 +1,4 @@
-2024-09-03 Tue: Review and sync with Yuriy on GX technical documentation, continued preparation for Recover Multisig Custodian (RMC) elections. Started initial Harmony discord revamp with Tenacious, reached out to current mods, and made [offical announcement](https://x.com/harmonyprotocol/status/1831117142391144693) with Alaina. Ta-Da (web3 mechanical turk) conversations about Token2049. 
+2024-09-03 Tue: Review and sync with Yuriy on GX technical documentation, continued preparation for Recover Multisig Custodian (RMC) elections. Started initial Harmony discord revamp with Tenacious, reached out to current mods, and made [official announcement](https://x.com/harmonyprotocol/status/1831117142391144693) with Alaina. Ta-Da (web3 mechanical turk) conversations about Token2049. 
 
 2024-09-02 Mon: Labor Day
 
