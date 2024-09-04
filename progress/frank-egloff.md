@@ -1,3 +1,5 @@
+2024-09-03 Tue: Implementing executeSlowModeTransactionImmediately in Endpoint to bypass three-day wait for collateralDeposit execution. While fund transfers occur, subaccount registration and balance updates were lagging. Overhauled MockSequencer to leverage Endpoint for immediate slow mode tx processing, OffchainExchange for matchOrderAMM, and Clearinghouse for collateral withdrawals. Enhanced test scripts to monitor subaccount update events, ensuring robust tx lifecycle tracking across the system.
+
 2024-09-02 Mon: Testing submitTransactionsCheckedWithGasLimit locally. DepositCollateral tx not recording subaccount, causing submitTransactionsCheckedWithGasLimit failure. DepositCollateral method throwing "Transaction reverted without a reason string" when interacting with MockSequencer. Next: enhance MockSequencer error logging, verify executeSlowModeTransaction, examine MockSequencer-Endpoint interaction. Suspect root cause in MockSequencer's slow mode tx handling.
 
 ---
