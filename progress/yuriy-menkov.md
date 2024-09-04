@@ -1,3 +1,5 @@
+2024-09-03 Tue: Synced with Lee and Aaron on priorities and next goals. Started working on test cases (and test scripts) to verify keeper services (Aaron says this is mandatory before release into production). Reviewed [documentation](https://www.notion.so/harmonyone/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb) from Theo; Get Uniswap [median-over-time oracle](https://github.com/polymorpher/synth-oracle/commit/51df7093914a275d8093232ae3bda4533ce71598) from Aaron - reviewed and start implementing.
+
 2024-09-02 Mon: Switched to supporting the current version of [gx.country](https://gx.country/) to fix several price synchronization issues in price keeper (To give Aaron a working version for auditing). Need another update for the new oracles used for synthetics (Planning to sync with Aaron to get the final set of tokens and addresses). Continue work on the "Auto-compounding Wrapper page".
 
 ---
