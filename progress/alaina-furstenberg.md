@@ -1,10 +1,12 @@
+2024-09-04 Wed: Sync with Li and Frank on upcoming marketing initiatives and touching base on Frank's deliverables. Educational [tweet](https://x.com/harmonyprotocol/status/1831540444490338318) from the DeFi Report. Iterations of several graphics using Ideogram for 1Market.
+
 2024-09-03 Tue: Sync with Theo on the announcement of Discord revamp, posted to [Discord](https://discord.com/channels/532383335348043777/896507755098152970/1280682411826614282) and [Twitter](https://x.com/harmonyprotocol/status/1831117142391144693). Reserach on polymarkets, testing of wagerbot on Telegram
 
 2024-09-02 Mon: Labor Day Holiday
 
 ---
 
-2024-09-01 Sun:
+2024-09-01 Sun: Editorizing the 2025 roadmap and [drafting Twitter content for the coming weeks](https://www.notion.so/harmonyone/Roadmap-Twitter-Content-26fc22b0039c44d18260c057dadc76d8).
 
 2024-08-31 Sat: Weekly [tweet](https://x.com/harmonyprotocol/status/1829927129909481693) recapping the harmony.one community section
 
