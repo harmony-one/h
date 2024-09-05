@@ -1,3 +1,5 @@
+2024-09-04 Wed: Read through and researched the links on [1Market](https://stse.substack.com/p/1market-as-binary-options-for-explosive). Looked into Skate chain docs, started working on react-navigation for Hod1, and tested Blum.
+
 2024-09-03 Tue: Looked into Skate, Polymarket, wagerbot, and Hamster Kombat. Discussed insights/clarified some issues for Hod1 through team sync, and worked on smaller tasks (troubleshooting Telegram account, Fragment auction, reviewed current Hod1 code and forked to harmony repo.)
 
 2024-09-02 Mon (Labor Day, 1.5h): Continued looking into gas update issue in our developer documentation. Also looked into vidiq and other scraping services collecting Youtube data.
