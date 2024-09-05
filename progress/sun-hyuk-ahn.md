@@ -1,3 +1,5 @@
+2024-09-04 Wed: [Fixing](https://github.com/harmony-one/panoptic-v1-core-cli/commit/66694ce69b197e6393fd4c1b2207b1c968f82163) a bug related to the collateral trackers for the tokens during the mint token operation. Works for the actual tokens but for minted test tokens, not working at the moment. Analyzing the cause.
+
 2024-09-03 Tue: Connected the core componentes of Panoptic to the [command line interface](https://github.com/harmony-one/panoptic-v1-core-cli/commit/8432bf400e12c83753b1635ce25039f8185db999) component. Troubleshooted problem related to deploying pools if it's already deployed with a different fee.
 
 2024-09-02 Mon: Holiday
