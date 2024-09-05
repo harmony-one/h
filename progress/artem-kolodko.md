@@ -1,3 +1,5 @@
+2024-09-05 Thu: deployed [new oracles](https://github.com/polymorpher/synth-oracle/commit/51df7093914a275d8093232ae3bda4533ce71598) contract from Aaron, tested and [updated](https://github.com/harmony-one/synthetix/commit/7ad7b075ab642135d61f4c3f8c0ad2ac3d5d787f) 1SY/1USDC oracle feed.
+
 2024-09-02 Mon - 2024-09-05 Thu: Paid Time Off
 
 ---
