@@ -1,3 +1,10 @@
+2024-09-07 Sat:
+Last week, the team reviewed [PR #4735](https://github.com/harmony-one/harmony/pull/4735), and I addressed the merge conflicts caused by changes in the dev branch that needed to be replicated in this PR. Additionally, per the team's request, I removed all unused configurations and functions. I also fixed the tests, and the PR is now finalized, with a scheduled merge expected early this week.
+
+I encountered an issue while running localnet, which Soph helped me to resolve it. This took a few days as I tested multiple solutions. It involved updating Golang, rebuilding all dependencies, and ensuring the correct RPC port was used. The localnet were essential for me to continue focusing on peer connectivity issues and further investigations [Issue #4749](https://github.com/harmony-one/harmony/issues/4749).
+
+---
+
 2024-08-31 Sat:
 Last week, I focused on different tasks to improve our project’s alignment with the latest developments. I started by updating the Go version in the go-sdk to 1.22.5, as seen in [PR #304](https://github.com/harmony-one/go-sdk/pull/304). This update ensures that the go-sdk is now compatible with the new Harmony binary. Alongside this, I updated Dr.Harmony to support the same Go version, which you can review in this [commit](https://github.com/GheisMohammadi/Dr.Harmony/commit/b26a898a901771e95dd204d7d25fbc8b9c3df02f)
 
