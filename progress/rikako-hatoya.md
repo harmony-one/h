@@ -1,3 +1,5 @@
+2024-09-05 Thu: Re-configured configurations (Botfather, API keys, t.me miniapp url) for Hod1 bot, renamed to @HarmonySocialBot. Worked on re-structuring organization of tasks/quest data, and also working on implementing verification for YouTube subscription (seems straightforward to do it with oAuth /manually asking their username, but ideally we'd do it with just redirect like Tapswap and not ask for username authentication so looking into DeepLinking.)
+
 2024-09-04 Wed: Read through and researched the links on [1Market](https://stse.substack.com/p/1market-as-binary-options-for-explosive). Looked into Skate chain docs, started working on react-navigation for Hod1, and tested Blum.
 
 2024-09-03 Tue: Looked into Skate, Polymarket, wagerbot, and Hamster Kombat. Discussed insights/clarified some issues for Hod1 through team sync, and worked on smaller tasks (troubleshooting Telegram account, Fragment auction, reviewed current Hod1 code and forked to harmony repo.)
