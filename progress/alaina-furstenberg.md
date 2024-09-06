@@ -1,3 +1,9 @@
+2024-09-07 Sat: Tweet recapping the community section
+
+2024-09-06 Fri: Update of the community section. Tweet promoting Kings and Quests and Travala. Updating the .country docs on how to connect a link to a .country domain. Removing outdated material from our docs. 
+
+2024-09-05 Thu: Continuation of design of 1Market graphics. Assisting community members with purchasing ONE. Promotion of Three Sigma marketing. Design research for an animation for 1Market, began animating.
+
 2024-09-04 Wed: Sync with Li and Frank on upcoming marketing initiatives and touching base on Frank's deliverables. Educational [tweet](https://x.com/harmonyprotocol/status/1831540444490338318) from the DeFi Report. Iterations of several graphics using Ideogram for 1Market.
 
 2024-09-03 Tue: Sync with Theo on the announcement of Discord revamp, posted to [Discord](https://discord.com/channels/532383335348043777/896507755098152970/1280682411826614282) and [Twitter](https://x.com/harmonyprotocol/status/1831117142391144693). Reserach on polymarkets, testing of wagerbot on Telegram
