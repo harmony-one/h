@@ -1,3 +1,7 @@
+2024-09-06 Fri:
+
+2024-09-05 Thu: [Deep dived](https://brazen-need-a0a.notion.site/ERC-4337-Account-Abstraction-Using-Alt-Mempool-8dcd5d9b769842f0acbf095e8f9680f1) into ERC-4337 in order to understand all components and criteria. Inspected Aaron's [commits](https://github.com/panoptic-labs/panoptic-v1-core/compare/main...polymorpher:panoptic-v1-core:main) on the the Panoptic command line interface, wrapping up all deployment process and scripts.
+
 2024-09-04 Wed: [Fixing](https://github.com/harmony-one/panoptic-v1-core-cli/commit/66694ce69b197e6393fd4c1b2207b1c968f82163) a bug related to the collateral trackers for the tokens during the mint token operation. Works for the actual tokens but for minted test tokens, not working at the moment. Analyzing the cause.
 
 2024-09-03 Tue: Connected the core componentes of Panoptic to the [command line interface](https://github.com/harmony-one/panoptic-v1-core-cli/commit/8432bf400e12c83753b1635ce25039f8185db999) component. Troubleshooted problem related to deploying pools if it's already deployed with a different fee.
