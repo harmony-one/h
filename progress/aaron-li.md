@@ -1,3 +1,7 @@
+2024-09-04 Thu (5.8h): Pano: component abstraction, implementing selling (minting) options
+
+2024-09-04 Wed (1.1h): Review progress and meeting notes. Test Pano and reproduce Panoptic setups on different machines and fix issues with scripts
+
 2024-09-03 Tue (5.5h): Discussion on Youtube video view API and TODOs for GMX v2 regarding adding new tokens and liquidations. Review protocol boot node RPC patch. Review separate Panoptic pool deployment script, debug and discuss issues. Synth oracle using Uniswap and time-weighted average price. Pano: pool id and pool address converter, encoding pool id in storage key to make pool-specific positions searchable through range scan, revisiting pool id and address related contracts. 
 
 ---
