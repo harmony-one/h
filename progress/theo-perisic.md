@@ -1,3 +1,9 @@
+2024-09-06 Fri: Removed key features not yet implemented from GX technical documentation and added in new features as well as a Fee Distribution section. 1.country domain troubleshooting with Aaron, sent information to Alaina, will help update our documentation on usage. 
+
+2024-09-05 Thu: Twitter space speaker with community, announcing GX progress, panoptic demo, and OpenOcean response for potential integration of Swap for next week. Contacted listings exchange with updated information.
+
+2024-09-04 Wed: Troubleshooting for 1.country notion page support. Reached out to OpenOcean for Swap integration.
+
 2024-09-03 Tue: Review and sync with Yuriy on GX technical documentation, continued preparation for Recover Multisig Custodian (RMC) elections. Started initial Harmony discord revamp with Tenacious, reached out to current mods, and made [official announcement](https://x.com/harmonyprotocol/status/1831117142391144693) with Alaina. Ta-Da (web3 mechanical turk) conversations about Token2049. 
 
 2024-09-02 Mon: Labor Day
