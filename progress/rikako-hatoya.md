@@ -1,3 +1,5 @@
+2024-09-06 Fri: Worked on youtube user verification integration: oAuth to ask for username and using webhook to verify subscribers list. Also looked into dogs miniap, and currently researching ways to generate referral links + verify them.
+
 2024-09-05 Thu: Re-configured configurations (Botfather, API keys, t.me miniapp url) for Hod1 bot, renamed to @HarmonySocialBot. Worked on re-structuring organization of tasks/quest data, and also working on implementing verification for YouTube subscription (seems straightforward to do it with oAuth /manually asking their username, but ideally we'd do it with just redirect like Tapswap and not ask for username authentication so looking into DeepLinking.)
 
 2024-09-04 Wed: Read through and researched the links on [1Market](https://stse.substack.com/p/1market-as-binary-options-for-explosive). Looked into Skate chain docs, started working on react-navigation for Hod1, and tested Blum.
