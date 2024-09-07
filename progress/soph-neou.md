@@ -1,3 +1,10 @@
+2024-09-06 Fri:
+The v2024.2.0 release is out, and several discussions have taken place regarding the necessity of removing backup nodes. However, new issues surfaced this week: 1. A new Harmony testnet node encountered the error: `bootnode could not bootstrap consensuscontext deadline exceeded`. This was resolved after multiple restarts. 2. The v2024.2.0 update has introduced challenges in starting and maintaining a stable localnet with external validators due to crosslinks not being processed. Although Konstantin has created a PR to address the issue, it’s clear that a change in protocol behavior occurred with the v2024.2.0 release.
+
+Due to these challenges, the tentative date for the HIP32 hardfork has been pushed back by a week, now set for 3rd October 2024.
+
+---
+
 2024-08-30 Fri:
 This week has been focused on ensuring that the mainnet stable release v2024.2.0 is ready for rollout on Monday, September 2, 2024. So far, everything is on track, with Devnet, Testnet, and Mainnet all successfully upgraded. This release is a critical step towards HIP32, incorporating a new stable Harmony version featuring P2P improvements and the Go 1.22.5 update. The final few PRs for the HIP32 hard fork are currently in progress, with the fork tentatively scheduled for September 26, 2024.
 
