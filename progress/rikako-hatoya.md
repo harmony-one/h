@@ -1,3 +1,5 @@
+2024-09-07 Sat (1.0h): Tested $DOGS mini app, and worked on connecting binance account. Further look into Skate (Zealy and Galxe campaigns).
+
 2024-09-06 Fri: Worked on youtube user verification integration: oAuth to ask for username and using webhook to verify subscribers list. Also looked into dogs miniap, and currently researching ways to generate referral links + verify them.
 
 2024-09-05 Thu: Re-configured configurations (Botfather, API keys, t.me miniapp url) for Hod1 bot, renamed to @HarmonySocialBot. Worked on re-structuring organization of tasks/quest data, and also working on implementing verification for YouTube subscription (seems straightforward to do it with oAuth /manually asking their username, but ideally we'd do it with just redirect like Tapswap and not ask for username authentication so looking into DeepLinking.)
