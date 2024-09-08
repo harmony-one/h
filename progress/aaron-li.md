@@ -1,4 +1,8 @@
-2024-09-04 Thu (5.8h): Pano: component abstraction, implementing selling (minting) options
+2024-09-07 Thu (6.4h): Pano: end-to-end option minting testing and bug fixes. Design and implement quote-base asset selection, input, and display. Reimplement some components in sell flow using that, and fix bugs in end-to-end testing. Review corresponding smart contract logic again, write notes for amount and asset type parameters, and revise code.
+
+2024-09-06 Thu (4.9h): Pano: width and tickspacing computation, generalize parsing logic for amount in selectors, more complete flow for selling, bug fixes. Domain management and renewal
+
+2024-09-05 Thu (5.8h): Pano: component abstraction, implementing selling (minting) options
 
 2024-09-04 Wed (1.1h): Review progress and meeting notes. Test Pano and reproduce Panoptic setups on different machines and fix issues with scripts
 
