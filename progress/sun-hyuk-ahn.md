@@ -1,4 +1,8 @@
-2024-09-06 Fri:
+2024-09-08 Sun (3 hr): Completed research on Coinbase smart wallet. Fixed DNS configurations for h.country. 
+
+2024-09-07 Sat (10 hr): Continued Coinbase smart wallet research. Deep dived into their deployment criteria. This will be deployed only once ERC-4337 contracts are deployed. Examined bundler [implementations](https://www.erc4337.io/resources) with focus on the [Typescript implementation](https://github.com/eth-infinitism/bundler) by eth-infinitism. Will continue look into other implementations listed on the resources.
+
+2024-09-06 Fri: Completed deep dive into ERC-4337 whitepaper. Began researching [Coinbase smart wallet](https://github.com/coinbase/smart-wallet).
 
 2024-09-05 Thu: [Deep dived](https://brazen-need-a0a.notion.site/ERC-4337-Account-Abstraction-Using-Alt-Mempool-8dcd5d9b769842f0acbf095e8f9680f1) into [ERC-4337 whitepaper](https://eips.ethereum.org/EIPS/eip-4337) in order to understand all components and criteria required for deployment in Harmony. Inspected Aaron's [commits](https://github.com/panoptic-labs/panoptic-v1-core/compare/main...polymorpher:panoptic-v1-core:main) on the the Panoptic command line interface, wrapping up all deployment process and scripts.
 
@@ -10,9 +14,9 @@
 
 ---
 
-2024-09-01 Sun (3 hr): Wrote scripts to enable client interface commands to interact with deployed smart contracts and to simplify building smart contract abis.
+2024-09-01 Sun (5 hr): Wrote scripts to enable client interface commands to interact with deployed smart contracts and to simplify building smart contract abis.
 
-2024-08-31 Sat (12 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionalities](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself in order to improve performance.
+2024-08-31 Sat (11 hr): Writing tests for the key functionalities. Factoring code in order to modularize the functionalities. Simplifying [core functionalities](https://github.com/sunwavesun/panoptics-cli/commit/69fbba06c58d86492ce14a6b36d4c655ee171c0e) in order to interact less with the chain itself in order to improve performance.
 
 2024-08-30 Fri: Began going through the public demo workflow. Pool creation and option mint working as expected, will test more tomorrow.
 
