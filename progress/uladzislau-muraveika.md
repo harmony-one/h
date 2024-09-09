@@ -1,3 +1,11 @@
+2024-09-06 Fri: On the protocol side, I was working on testing Konstantin's PR for the [new get_signPower operation](https://github.com/harmony-one/harmony/pull/4748). I've tested several scenarios and given feedback to Konstantin.
+
+On the ops side, 2 new users were removed from the blacklist and use harmony as before.
+Additionally, I've rerun my old backup node identification script and found that only 14 validators have a backup, previously it was 20+.
+
+On the continuous integration side, I've fixed a strange issue on the TRAVIS CI side with the [broken GOPATH convention.](https://github.com/harmony-one/harmony/pull/4745) I promptly prepared a workaround and unblocked our devs.
+---
+
 2024-08-30 Fri: On the protocol side, I've helped Kostantin with the localnet tests for the new get_signPower operation. I've enabled debug endpoint to get the sign power in localnet and simplified watchdog startup against localnet. Main advantage, you have the same setup for the local network as in higher environments, which use risk-free for experiments.
 
 On the infra side, I've installed a new harmony/bootnode version with golang 1.22.5 on all three environments as a preparation for the public harmony release 2024.2.0.
