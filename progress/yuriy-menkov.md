@@ -1,3 +1,5 @@
+2024-09-06 Fri: [Added](https://github.com/harmony-one/h-gmx-contracts/pull/2) test price feeds with all oracles: UniswapV3MedianOracle, UniswapV3SpotOracle, BandOracleReader - currently only BandOracleReader returns correct values. Tested Fast price feeds and updated [doc](https://docs.google.com/document/d/1N6vLiH4Z691rMn62uZSaUCj5l2jXgJdDmz_ZYCeeCMM) with new items for Aaron.
+
 2024-09-05 Thu: Fixed SecondPriceFeed delta issue, tested price switching with new [UniswapV3MedianOracle]((https://github.com/polymorpher/synth-oracle/commit/51df7093914a275d8093232ae3bda4533ce71598)) from Aaron - working stable. Finishing up working on test cases. Sync with Theo about documentation and missing features for the current version.
 
 2024-09-04 Wed: Worked on test cases and test scripts for keepers services: case of price changes after creating an position, borderline cases of price differences of various oracles (firstPriceFeed and SecondPriceFeed). Got issue with auto switching to firstPriceFeed if the price goes beyond the delta. Working on a fix.
