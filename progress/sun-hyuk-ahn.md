@@ -1,14 +1,18 @@
-2024-09-08 Sun (3 hr): Completed research on Coinbase smart wallet. Fixed DNS configurations for h.country. 
+2024-09-09 Mon (on call): 
 
-2024-09-07 Sat (10 hr): Continued Coinbase smart wallet research. Deep dived into their deployment criteria. This will be deployed only once ERC-4337 contracts are deployed. Examined bundler [implementations](https://www.erc4337.io/resources) with focus on the Typescript implementation by [eth-infinitism](https://github.com/eth-infinitism/bundler). Will continue look into other implementations listed on the resources.
+---
 
-2024-09-06 Fri: Completed deep dive into ERC-4337 whitepaper. Began researching [Coinbase smart wallet](https://github.com/coinbase/smart-wallet).
+2024-09-08 Sun (3 hr; on call): Completed research on Coinbase smart wallet. Fixed DNS configurations for h.country. 
 
-2024-09-05 Thu: [Deep dived](https://brazen-need-a0a.notion.site/ERC-4337-Account-Abstraction-Using-Alt-Mempool-8dcd5d9b769842f0acbf095e8f9680f1) into [ERC-4337 whitepaper](https://eips.ethereum.org/EIPS/eip-4337) in order to understand all components and criteria required for deployment in Harmony. Inspected Aaron's [commits](https://github.com/panoptic-labs/panoptic-v1-core/compare/main...polymorpher:panoptic-v1-core:main) on the the Panoptic command line interface, wrapping up all deployment process and scripts.
+2024-09-07 Sat (10 hr; on call): Continued Coinbase smart wallet research. Deep dived into their deployment criteria. This will be deployed only once ERC-4337 contracts are deployed. Examined bundler [implementations](https://www.erc4337.io/resources) with focus on the Typescript implementation by [eth-infinitism](https://github.com/eth-infinitism/bundler). Will continue look into other implementations listed on the resources.
 
-2024-09-04 Wed: [Fixing](https://github.com/harmony-one/panoptic-v1-core-cli/commit/66694ce69b197e6393fd4c1b2207b1c968f82163) a bug related to the collateral trackers for the tokens during the mint token operation. Works for the actual tokens but for minted test tokens, not working at the moment. Analyzing the cause.
+2024-09-06 Fri (on call): Completed deep dive into ERC-4337 whitepaper. Began researching [Coinbase smart wallet](https://github.com/coinbase/smart-wallet).
 
-2024-09-03 Tue: Connected the core componentes of Panoptic to the [command line interface](https://github.com/harmony-one/panoptic-v1-core-cli/commit/8432bf400e12c83753b1635ce25039f8185db999) component. Troubleshooted problem related to deploying pools if it's already deployed with a different fee.
+2024-09-05 Thu (on call): [Deep dived](https://brazen-need-a0a.notion.site/ERC-4337-Account-Abstraction-Using-Alt-Mempool-8dcd5d9b769842f0acbf095e8f9680f1) into [ERC-4337 whitepaper](https://eips.ethereum.org/EIPS/eip-4337) in order to understand all components and criteria required for deployment in Harmony. Inspected Aaron's [commits](https://github.com/panoptic-labs/panoptic-v1-core/compare/main...polymorpher:panoptic-v1-core:main) on the the Panoptic command line interface, wrapping up all deployment process and scripts.
+
+2024-09-04 Wed (on call): [Fixing](https://github.com/harmony-one/panoptic-v1-core-cli/commit/66694ce69b197e6393fd4c1b2207b1c968f82163) a bug related to the collateral trackers for the tokens during the mint token operation. Works for the actual tokens but for minted test tokens, not working at the moment. Analyzing the cause.
+
+2024-09-03 Tue (on call): Connected the core componentes of Panoptic to the [command line interface](https://github.com/harmony-one/panoptic-v1-core-cli/commit/8432bf400e12c83753b1635ce25039f8185db999) component. Troubleshooted problem related to deploying pools if it's already deployed with a different fee.
 
 2024-09-02 Mon: Holiday
 
@@ -24,21 +28,21 @@
 
 2024-08-28 Wed: Continued the multiple leg configuration. [Reimplemented](https://github.com/sunwavesun/pcli/commit/c00e54f985b0e42aa29687da82c950029004db35) the option mint logic. Public demo ETA 09-05 (Fri).
 
-2024-08-27 Tue (on call 12 hr): Began reworking option logic to include multiple leg configuration.
+2024-08-27 Tue (on call): Began reworking option logic to include multiple leg configuration.
 
-2024-08-26 Mon (on call 12 hr): Users are required to first [approve and deposit](https://deeznuts.panoptic.xyz/new-position) the amount of assets in order to mint an option. However, if there is not sufficient collateral, the option would not be minted. The deposits are not reverted, rather the users receive Panoptics versions of these tokens. This is the same case for the current Panoptics beta version (official version not yet released). Working on to see if it is possible to first check if the collateral are sufficient prior to the deposits.
+2024-08-26 Mon (on call): Users are required to first [approve and deposit](https://deeznuts.panoptic.xyz/new-position) the amount of assets in order to mint an option. However, if there is not sufficient collateral, the option would not be minted. The deposits are not reverted, rather the users receive Panoptics versions of these tokens. This is the same case for the current Panoptics beta version (official version not yet released). Working on to see if it is possible to first check if the collateral are sufficient prior to the deposits.
 
 ---
 
-2024-08-25 Sun (12 hr): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
+2024-08-25 Sun (12 hr; on call): Continued and completed the code review for [PR 4735](https://github.com/harmony-one/harmony/pull/4735). Inspecting the developments necessary for account abstraction and smart contract in order to coordinate with Konstantin.
 
-2024-08-24 Sat (1 hr): Finalized option minting logic.
+2024-08-24 Sat (5 hr; on call): Finalized option minting logic.
 
-2024-08-23 Fri (on call 12 hr): Analyzing the recently added [RPCs](https://github.com/harmony-one/harmony/pull/4735) for boot nodes. Continued the reimplementation.
+2024-08-23 Fri (on call): Analyzing the recently added [RPCs](https://github.com/harmony-one/harmony/pull/4735) for boot nodes. Continued the reimplementation.
 
-2024-08-22 Thu (on call 12 hr): Familiarizing rollback methods for validators with the newest upgrades. [Reimplemented]() option minting logic in order to improve gas usage.
+2024-08-22 Thu (on call): Familiarizing rollback methods for validators with the newest upgrades. [Reimplemented]() option minting logic in order to improve gas usage.
 
-2024-08-21 Wed (on call 12 hr): [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
+2024-08-21 Wed (on call): [Implemented](https://github.com/sunwavesun/pcli/commit/f53c6d5e58971912db574b9978f06409463c0fbf) Uniswap V3 and Panoptic pool core functionality. It was previously implemented but had to be rewritten due to bug related to token transfer and pool creation. Will work on reimplementing option logic tomorrow.
 
 2024-08-20 Tue: Fixed the bug. The transactions must be sent using `legacy` mode. If not, the transactions will be processed in ununiformed order. Will make the repo public tomorrow.
 
@@ -46,29 +50,33 @@
 
 ---
 
+2024-08-17 Sat (4 hr): Continued the debugging process.
+
 2024-08-16 Fri: Preparing demo to share with teammates. Noticed a bug when continuously creating pool and options. Working on debugging the cause.
 
 2024-08-15 Thu: Finalizing crab and bull strategy development. Continued cleaning up repo.
 
 2024-08-14 Wed: Continued working on strategy creation. Working on different calculation that will allow for the strategy creation once user inputs the required values when creating options. Also, cleaning up repo in order to be made for public.
 
-2024-08-13 Tue (on call 12 hr): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
+2024-08-13 Tue (on call): Studied how different strategies are minted (crab and bull). Working to incorporate the strategies so that they can be auto configured for the users. One caveat is that from just command line interface, it is difficult to visualize the strategies.
 
-2024-08-12 Mon (on call 12 hr): Command line interface completion ETA 08/14 (Wed).
+2024-08-12 Mon (on call): Command line interface completion ETA 08/14 (Wed).
+
+---
+
+2024-08-09 Fri (on call): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
+
+2024-08-08 Thu (on call): Updating command line interface option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
+
+2024-08-07 Wed (on call): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
+
+2024-08-06 Tue (on call): Running into out of gas error and working to fix it. Transactions receipts show as successful and the explorer shows successful but running into `out of gas` error for the internal transactions.
+
+2024-08-05 Mon (on call): Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
 
 ---
 
-2024-08-09 Fri (on call 12 hr): Continued to implement default strategy creation. Logic not working as expected and options not always created as expected.
-
-2024-08-08 Thu (on call 12 hr): Updating command line interface option creation logic to support default strategies such as crab, bull, and bear. Studying the differences between the option strategies. For any other options manual input is to be provided.
-
-2024-08-07 Wed (on call 12 hr): Changing the `geth` version seems to have fixed the issue. Using a version that is too low or too high introduces many issues. Rewriting tests to cover functionality for the changed `geth` versions.
-
-2024-08-06 Tue (on call 12 hr): Running into out of gas error and working to fix it. Transactions receipts show as successful and the explorer shows successful but running into `out of gas` error for the internal transactions.
-
-2024-08-05 Mon (on call 12 hr): Fixed the repeated transaction bug. Configuring the transactions to be sent in [`legacy` mode](https://eips.ethereum.org/EIPS/eip-1559) allows for batch as well as multiple transactions to work now. `geth` version downgraded in order to accomplish this as the newer versions have inner methods called that are not supported by Harmony.
-
----
+2024-08-04 Sun (7 hr): Noticed another bug despite the wait time. Seems that sending the transactions in batches does not work as they aren't able to be simultaneously processed. Despite it being slightly slower, broadcasting and processing each transactions individually is fixing the issue.
 
 2024-08-03 Sat (12 hr): Continued working on the repeated transaction bug. Setting wait time after sending a transaction seems to resolve the issue but do not know the exact cause at the moment.
 
@@ -96,7 +104,7 @@
 
 ---
 
-2024-07-21 Sat (8 hr): Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
+2024-07-21 Sat (9 hr): Fixing a bug where an option is unable to created repeatedly, analyzing the cause.
 
 2024-07-20 Fri: Decided to input numbers rather than visualization when minting options, as the whole flow will be done using command line interface. Development on transferring and burning options.
 
