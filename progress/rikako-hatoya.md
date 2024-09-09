@@ -1,4 +1,4 @@
-2024-09-08 Sun (.15h): Looked into Polymarket for our 1market. Further looked into Skate + continued working on referral links for Hod1.
+2024-09-08 Sun (1.5h): Looked into Polymarket for our 1market. Further looked into Skate + continued working on referral links for Hod1.
 
 2024-09-07 Sat (1.0h): Tested $DOGS mini app, and worked on connecting binance account. Further look into Skate (Zealy and Galxe campaigns).
 
