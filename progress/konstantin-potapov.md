@@ -1,3 +1,10 @@
+2024-09-06 Fri:
+- Fixed an issue with crosslink processing identified by Soph. Recent commits included additional error checks, which inadvertently prevented crosslink processing on the local network.
+- Addressed an issue reported by Ulad related to vote power broadcasting. The previous implementation did not broadcast view change values, so I added an additional broadcasting mechanism. However, this mechanism may still have some limitations and has not yet passed all tests.
+- Began work on the `effectiveGasPrice` parameter for the `getTransactionReceipt` method. The current implementation is outdated and no longer conforms to the Ethereum specification.
+
+---
+
 2024-08-30 Fri:
 - Finalized "Broadcast Vote Power": Our network monitoring systems rely on the "sign power" API method from the leader node. However, with leader rotation enabled, the leader is often unreachable. To address this, we implemented a feature that allows the broadcast of this value, making it accessible from any node in the network. 
 - Completed Crosslinks Feature for HIP32: This feature enables committees to continue operating even if no crosslinks are sent. We have encountered situations where this occurred, and the feature aims to prevent such issues in the future.
