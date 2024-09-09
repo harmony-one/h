@@ -1,6 +1,6 @@
 2024-09-08 Sun (3 hr): Completed research on Coinbase smart wallet. Fixed DNS configurations for h.country. 
 
-2024-09-07 Sat (10 hr): Continued Coinbase smart wallet research. Deep dived into their deployment criteria. This will be deployed only once ERC-4337 contracts are deployed. Examined bundler [implementations](https://www.erc4337.io/resources) with focus on the [Typescript implementation](https://github.com/eth-infinitism/bundler) by eth-infinitism. Will continue look into other implementations listed on the resources.
+2024-09-07 Sat (10 hr): Continued Coinbase smart wallet research. Deep dived into their deployment criteria. This will be deployed only once ERC-4337 contracts are deployed. Examined bundler [implementations](https://www.erc4337.io/resources) with focus on the Typescript implementation by [eth-infinitism](https://github.com/eth-infinitism/bundler). Will continue look into other implementations listed on the resources.
 
 2024-09-06 Fri: Completed deep dive into ERC-4337 whitepaper. Began researching [Coinbase smart wallet](https://github.com/coinbase/smart-wallet).
 
