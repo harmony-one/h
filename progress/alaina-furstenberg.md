@@ -1,6 +1,12 @@
-2024-09-07 Sat: Tweet recapping the community section
+2024-09-09 Mon: Testing of Polymarket, placed bets on 2 political aspects of tomorrows debate. Insights: The interface is engaging, drawing you in with a wide variety of bets. It sparks conversation by letting you wager on even the most minute details of tomorrow's debate. Promoted the recording of the ONE Show, set up a meeting with Frank, and promoted [Travala](https://x.com/harmonyprotocol/status/1833353050888749540) on X.
 
-2024-09-06 Fri: Update of the community section. Tweet promoting Kings and Quests and Travala. Updating the .country docs on how to connect a link to a .country domain. Removing outdated material from our docs. 
+---
+
+2024-09-08 Sun (1.0 hr): Attendance of the ONE Show.
+
+2024-09-07 Sat (1.0 hr): [Tweet](https://x.com/harmonyprotocol/status/1832467869113655298) recapping the community section plus continuation of removing outdated material.
+
+2024-09-06 Fri: Update of the community section. [Tweet](https://x.com/harmonyprotocol/status/1832174538060394546) promoting Kings and Quests. Updating the [.country docs](https://www.notion.so/harmonyone/1-country-User-Guide-df874ed4497e4a758aefdeed4504c490?pvs=4#867f1c8fe5e14cbd8a22f020addafee7) on how to connect a link to a .country domain. Removing outdated material from our docs. 
 
 2024-09-05 Thu: Continuation of design of 1Market graphics. Assisting community members with purchasing ONE. Promotion of Three Sigma marketing. Design research for an animation for 1Market, began animating.
 
