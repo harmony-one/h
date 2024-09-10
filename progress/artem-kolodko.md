@@ -1,4 +1,4 @@
-2024-09-09 Mon: did initial research of Polymarket infrastructure: all contracts and subgraphs are available in github, but client and centralized order book (CLOB) sources are not available; looking for alternatives and solutions for our 1market.
+2024-09-09 Mon: did initial research of Polymarket infrastructure: all contracts and subgraphs are available in github, but client and centralized order book (CLOB) sources are not available; looking for alternatives and solutions with existed oracles for our 1market.
 
 ---
 
