@@ -1,4 +1,4 @@
-2024-09-09 Mon (on call): 
+2024-09-09 Mon (on call): Examined Stackup's Go implementation of the [bundler](https://docs.stackup.sh/docs/erc-4337-overview). Brushing up on Docker and containers in order to began the [deployment process](https://docs.stackup.sh/docs/erc-4337-bundler-installation).
 
 ---
 
