@@ -1,3 +1,7 @@
+2024-09-09 Mon: did initial research of Polymarket infrastructure: all contracts and subgraphs are available in github, but client and centralized order book (CLOB) sources are not available; looking for alternatives and solutions for our 1market.
+
+---
+
 2024-09-06 Fri: started prediction market research: [gnosis](https://docs.gnosis.io/conditionaltokens/) and [polymarket docs](https://docs.polymarket.com/#overview-9). Setting up test contracts.
 
 2024-09-05 Thu: deployed [new oracles](https://github.com/polymorpher/synth-oracle/commit/51df7093914a275d8093232ae3bda4533ce71598) contract from Aaron, tested and [updated](https://github.com/harmony-one/synthetix/commit/7ad7b075ab642135d61f4c3f8c0ad2ac3d5d787f) 1SY/1USDC oracle feed.
