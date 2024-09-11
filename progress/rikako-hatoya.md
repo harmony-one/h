@@ -1,4 +1,6 @@
-2024-09-09 Mon: Further tested with Polymarket. continued working through referral links and youtube subscription for Hod1.
+2024-09-10 Tue: Tested and minted NFTs on Sepolia with [Skateboard workshop](https://park.skatechain.org/) on SkateChain and Galxe. Further tested polymarket (seems a little buggy resolving deposits from Coinbase), and looked into repo for alternatives as well (sx-bet, Kalshi, Hedgehog Markets).
+
+2024-09-09 Mon: Further tested with Polymarket. Continued working through referral links and youtube subscription for Hod1.
 
 2024-09-08 Sun (1.5h): Looked into Polymarket for our 1market. Further looked into Skate + continued working on referral links for Hod1.
 
