@@ -1,3 +1,5 @@
+2024-09-10 Tue: researched Polymarket [ctf-exchange](https://github.com/Polymarket/ctf-exchange) contracts and dependencies: deployed [proxy-factory](https://github.com/Polymarket/proxy-factories), but had some troubles with proxy-safe contract, because parameters are not well documented. Polymarket doesn't look like a good candidate for 1market for me - too many missing pieces in their github. Discussed it with Rika; looking for alternatives, including [sx-bet](https://github.com/sx-bet).
+
 2024-09-09 Mon: did initial research of Polymarket infrastructure: all contracts and subgraphs are available in github, but client and centralized order book (CLOB) sources are not available; looking for alternatives and solutions with existed oracles for our 1market.
 
 ---
