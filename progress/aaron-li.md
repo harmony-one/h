@@ -1,6 +1,14 @@
-2024-09-07 Thu (6.4h): Pano: end-to-end option minting testing and bug fixes. Design and implement quote-base asset selection, input, and display. Reimplement some components in sell flow using that, and fix bugs in end-to-end testing. Review corresponding smart contract logic again, write notes for amount and asset type parameters, and revise code.
+2024-09-10 Tue (3.3h): SY end-to-end review, note, and discussions. GX end-to-end review and note. Pano: end-to-end testing of option selling and bug fixes. Discussion and follow up on prediction market, Telegram app, and documentations
 
-2024-09-06 Thu (4.9h): Pano: width and tickspacing computation, generalize parsing logic for amount in selectors, more complete flow for selling, bug fixes. Domain management and renewal
+2024-09-09 Mon (0.3h): Discussion and follow up on SY, prediction market integration, GX liquidation, Vertex outstanding errors
+
+----
+
+2024-09-08 Sun (1.9h): Pano: debugging tick spacing issues, strike price revert error and format 
+
+2024-09-07 Sat (6.4h): Pano: end-to-end option minting testing and bug fixes. Design and implement quote-base asset selection, input, and display. Reimplement some components in sell flow using that, and fix bugs in end-to-end testing. Review corresponding smart contract logic again, write notes for amount and asset type parameters, and revise code.
+
+2024-09-06 Fri (4.9h): Pano: width and tickspacing computation, generalize parsing logic for amount in selectors, more complete flow for selling, bug fixes. Domain management and renewal
 
 2024-09-05 Thu (5.8h): Pano: component abstraction, implementing selling (minting) options
 
