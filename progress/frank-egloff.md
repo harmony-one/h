@@ -1,3 +1,8 @@
+2024-09-10 Tue: [Implementing logging events](https://github.com/fegloff/vertex-contracts/pull/1) for MatchOrderAMM transaction across Endpoint, MockSequencer, and OffchainExchange contracts. Troubleshooting event listener synchronization issues. Escalated to Aaron for code review. Supported integration testing of Dogs Telegram Bot with Alaina.
+
+2024-09-09 Mon: Debugging MatchOrderAMM transaction processing in Vertex ecosystem. Endpoint's submitTransactionCheckedWithGas calls yielding ERR_ORDERS_CANNOT_BE_MATCHED errors. MockSequencer's submitTransactionCheckedWithGas invocations resulting in low-level execution failures.
+
+---
 2024-09-06 Fri: Troubleshooting persistent ERR_ORDERS_CANNOT_BE_MATCHED error during Match Order AMM Transaction execution. Implemented contract events and enhanced event handler in test script. Added flag logs for granular tracing. Collaborated with Theo on 1.country to implement prepaid domain rental functionality, eliminating need for autorenew code modifications. 
 
 2024-09-05 Thu: Implemented subdomain enabler for 1Bot's internal use, complementing existing cert, NFT, and domain status features. Activated subdomains for two 1.country domains experiencing Notion page linking issues. Continued [refactoring MockSequencer](https://github.com/fegloff/vertex-contracts/pull/1) contract to resolve ITI (ERR_INVALID_TIME) and OCBM (ERR_ORDERS_CANNOT_BE_MATCHED) errors in trade transactions. ITI errors likely stem from time initialization problems in SpotEngine and PerpEngine, triggered when calling getTime on the Endpoint contract.
