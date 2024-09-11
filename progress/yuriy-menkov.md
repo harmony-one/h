@@ -1,3 +1,5 @@
+2024-09-10 Tue: Got GX [review notes](https://hackmd.io/@polymorpher/gx-country-note) from Aaron. Worked to solve issues: fixes ui texts and links, resolved leverage stuck at pending under "Positions" ans other fixes for sell and trading pages.
+
 2024-09-09 Mon: Synced with Aaron about UniswapV3Oracles issues, looks like it's a matter of incorrect settings and pools addresses (waiting for updated information). Added a script for quickly adding/configuring tokens to gmx vault and adding liquidity via the console (for new tokens from Aaron).
 
 ---
