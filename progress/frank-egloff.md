@@ -1,3 +1,5 @@
+2024-09-11 Wed: Explored prediction market implementations within Vertex ecosystem; no existing solutions found. Debugging MatchOrderAMM tx in test environment. Investigated transaction failures and refined contract logic, focusing on OffchainExchange contract interactions.​​​​​​​​​​​​​​​​
+
 2024-09-10 Tue: [Implementing logging events](https://github.com/fegloff/vertex-contracts/pull/1) for MatchOrderAMM transaction across Endpoint, MockSequencer, and OffchainExchange contracts. Troubleshooting event listener synchronization issues. Escalated to Aaron for code review. Supported integration testing of Dogs Telegram Bot with Alaina.
 
 2024-09-09 Mon: Debugging MatchOrderAMM transaction processing in Vertex ecosystem. Endpoint's submitTransactionCheckedWithGas calls yielding ERR_ORDERS_CANNOT_BE_MATCHED errors. MockSequencer's submitTransactionCheckedWithGas invocations resulting in low-level execution failures.
