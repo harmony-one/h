@@ -1,3 +1,7 @@
+2024-09-10 Wed: Finalized comparisons of the various bundler implementations ([comparison](https://www.stackup.sh/blog/a-guide-to-the-top-erc-4337-bundlers-features-performance-and-more) and [test results](https://www.erc4337.io/bundlers)). It only makes sense to move forward with Infinitism and Stackup's implementation of the bundlers, which are the only two with 100% test pass rate. Being more familiar with Golang and the performance advantage Stackup has over Infinitism (Infinitism does have ERC 4337 compliance advantage), will go forward with Stackup and began the process tomorrow.
+
+2024-09-09 Tue (on call): Went through the most recent changes in our protocol in order to be aware of the on call situations. Continued to look into Stackup implementation.
+
 2024-09-09 Mon (on call): Examined Stackup's Go implementation of the [bundler](https://docs.stackup.sh/docs/erc-4337-overview). Brushing up on Docker and containers in order to began the [deployment process](https://docs.stackup.sh/docs/erc-4337-bundler-installation).
 
 ---
