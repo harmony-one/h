@@ -1,3 +1,5 @@
+2024-09-12 Thu: Swap support added to Open Ocean. Announcement on this shortly. 
+
 2024-09-11 Wed: Review of sy.country with Artem, synthetix protocol coming soon to Harmony. Bounty invoice confirmed, awaiting confirmation from Colossus, announcement will be made shortly after.
 
 2024-09-10 Tue: [GX technical documentation](https://harmonyone.notion.site/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb?pvs=4) contracts added. Still waiting on panoptic demo, sync with Sun for release date.
