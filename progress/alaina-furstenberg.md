@@ -1,3 +1,7 @@
+2024-09-11 Wed: Wrote a [thread]() on the team's recent progress. Had a sync with Sun and Li, discussed Sun's recent work with account abstraction and heard from Li the big picture concept for 1Market (Youtube for distribution, local betting, swipe right/left betting). Wrote a thread to update the community on how to URL redirect with a .country domain. Used earnings from debate Polymarket to invest in another prediction. Completed next iteration of the substack banner.
+
+2024-09-10 Tue: Sync with Frank on DOGS bot. Insights: Despite have issues connecting our wallet, I notice a pattern between successful Telegram Bots (like Hamster Kombat). Implementing a tapping experience with a delayed airdrop incentivizes user activity in hopes they earn a reward down the line. Wrote a [thread](https://x.com/harmonyprotocol/status/1833633059322867954) on Three Sigma's research. Placed additional bets on Polymarket for the debate.
+
 2024-09-09 Mon: Testing of Polymarket, placed bets on 2 political aspects of tomorrows debate. Insights: The interface is engaging, drawing you in with a wide variety of bets. It sparks conversation by letting you wager on even the most minute details of tomorrow's debate. Promoted the recording of the ONE Show, set up a meeting with Frank, and promoted [Travala](https://x.com/harmonyprotocol/status/1833353050888749540) on X.
 
 ---
