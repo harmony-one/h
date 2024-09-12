@@ -1,3 +1,13 @@
+2024-09-11 Wed: Review of sy.country with Artem, synthetix protocol coming soon to Harmony. Bounty invoice confirmed, awaiting confirmation from Colossus, announcement will be made shortly after.
+
+2024-09-10 Tue: [GX technical documentation](https://harmonyone.notion.site/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb?pvs=4) contracts added. Still waiting on panoptic demo, sync with Sun for release date.
+
+2024-09-09 Mon: Sync with Li and Alaina for telegram issues brought up by community. Adding moderator. Insight: worth cleaning up as we transition to producing telegram mini-apps, community chat should be a great place to test new products.
+
+2024-09-08 Sun: (3.0h) X space with community, covering decentralized finance initiatives, recovery multisig custodian elections, and staking dashboard improvements.
+
+2024-09-07 Sat: (2.0h) Confirmation with Colossus for bug bounty to be sent early next week. 
+
 2024-09-06 Fri: Removed key features not yet implemented from GX technical documentation and added in new features as well as a Fee Distribution section. 1.country domain troubleshooting with Aaron, sent information to Alaina, will help update our documentation on usage. 
 
 2024-09-05 Thu: Twitter space speaker with community, announcing GX progress, panoptic demo, and OpenOcean response for potential integration of Swap for next week. Contacted listings exchange with updated information.
@@ -7,6 +17,7 @@
 2024-09-03 Tue: Review and sync with Yuriy on GX technical documentation, continued preparation for Recover Multisig Custodian (RMC) elections. Started initial Harmony discord revamp with Tenacious, reached out to current mods, and made [official announcement](https://x.com/harmonyprotocol/status/1831117142391144693) with Alaina. Ta-Da (web3 mechanical turk) conversations about Token2049. 
 
 2024-09-02 Mon: Labor Day
+
 
 ---
 
