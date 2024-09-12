@@ -1,4 +1,4 @@
-2024-09-11 Wed: [updated](https://gx.country/) GMX interface after Aaron's final review notes, worked on pore updates: changing "Long" to "USD" on trading page, adding USD token as the target token under "Short" either, added links to adding liquidity for "insufficient liquidity" case.
+2024-09-11 Wed: [updated](https://gx.country/) GMX interface after Aaron's final review notes, worked on more updates: changing "Long" to "USD" on trading page, adding USD token as the target token under "Short" either, added links to adding liquidity for "insufficient liquidity" case.
 
 2024-09-10 Tue: Got GX [review notes](https://hackmd.io/@polymorpher/gx-country-note) from Aaron. Worked to solve issues: fixes ui texts and links, resolved leverage stuck at pending under "Positions" ans other fixes for sell and trading pages.
 
