@@ -1,3 +1,14 @@
+2024-09-14 Sat:
+Last week, we finalized [PR #4735](https://github.com/harmony-one/harmony/pull/4735). After the team reviewed the code, I removed many unused functions and configurations. The `MetData` structure previously relied on the Harmony node metadata format, which included fields irrelevant to boot nodes. Since boot nodes only use specific fields, I refactored the code to separate boot node metadata from Harmony node metadata. I also refactored peer info, and after thorough testing, the code was merged into the dev branch. As a result, we now have three new RPCs for boot nodes.
+
+Additionally, I helped resolve a Crosslink issue where we encountered an `error: leveldb not found`. I fixed several race conditions, added logs for debugging, and refactored the process crosslinks function to handle maximum pending crosslinks. I also added error handling for non-existent pending crosslink keys. These changes were pushed in [PR #4754](https://github.com/harmony-one/harmony/pull/4754).
+
+I further improved the pending crosslinks removal process. Previously, the code attempted to delete pending crosslinks older than 10 epochs. However, if the crosslinks weren't added to the database within the first 10 epochs, it could lead to a `leveldb: not found` error. This issue was resolved by skipping pending crosslink checks during the first 10 epochs, preventing unnecessary database lookups and potential errors.
+
+Lastly, I started investigating [issue #4749](https://github.com/harmony-one/harmony/issues/4749), where P2P streams were being removed. The removal is expected when the `getCurrentNumber` request fails multiple times, triggering stream replacement. The main concern now is determining why the `getCurrentNumber` request is failing in the first place, and I am investigating to identify the root cause.
+
+---
+
 2024-09-07 Sat:
 Last week, the team reviewed [PR #4735](https://github.com/harmony-one/harmony/pull/4735), and I addressed the merge conflicts caused by changes in the dev branch that needed to be replicated in this PR. Additionally, per the team's request, I removed all unused configurations and functions. I also fixed the tests, and the PR is now finalized, with a scheduled merge expected early this week.
 
