@@ -1,3 +1,5 @@
+2024-09-12 Thu: Implemented referral code system that works through a link to open app with referral code parameters and implemented logic to correctly award new users + their referrers with points. Implemented leaderboard system to show ranking of users with top scores, modified app navigation to have bottom navigation tool bar, changed organization of "Tasks" page to a tab-based system to sort different tasks depending on category (videos, social media, etc), and updated ReadMe (repo [here](https://github.com/harmony-one/Hod1)).
+
 2024-09-11 Wed: Further looked into alternative options for Polymarket with better open source. Created youtube subscriber oAuth integratation for Hod1, working on merging to main repo.
 
 2024-09-10 Tue: Tested and minted NFTs on Sepolia with [Skateboard workshop](https://park.skatechain.org/) on SkateChain and Galxe, tested Hamster Kombat. Discussed about 1market in team sync, further tested polymarket (seems a little buggy resolving deposits from Coinbase), and looked into repos for alternatives as well (sx-bet, Kalshi, Hedgehog Markets).
