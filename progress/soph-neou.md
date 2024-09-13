@@ -1,3 +1,12 @@
+2024-09-13 Fri: 
+This week, protocol testing on the localnet with external validators revealed an issue with the HIP32 leader rotation feature. Although the feature had been deployed on both devnet and testnet, the problem went unnoticed due to overly lenient monitoring rules on our part.
+
+I’ve since shifted my focus to reviewing and testing pull requests ([#4735](https://github.com/harmony-one/harmony/pull/4735), [#4748](https://github.com/harmony-one/harmony/pull/4748), [#4750](https://github.com/harmony-one/harmony/pull/4750), [#4751](https://github.com/harmony-one/harmony/pull/4751)) on localnet with external validators to replicate and understand the current instability. In parallel, I’m collaborating with Ulad to improve our internal logging system, aiming to streamline troubleshooting within Harmony node logs and enhance our monitoring to detect this issue more accurately.
+
+As a result of these findings, I’m postponing the HIP32 release to October 17th, or potentially later, depending on the stability fixes on both devnet and testnet.
+
+---
+
 2024-09-06 Fri:
 The v2024.2.0 release is out, and several discussions have taken place regarding the necessity of removing backup nodes. However, new issues surfaced this week: 1. A new Harmony testnet node encountered the error: `bootnode could not bootstrap consensuscontext deadline exceeded`. This was resolved after multiple restarts. 2. The v2024.2.0 update has introduced challenges in starting and maintaining a stable localnet with external validators due to crosslinks not being processed. Although Konstantin has created a PR to address the issue, it’s clear that a change in protocol behavior occurred with the v2024.2.0 release.
 
