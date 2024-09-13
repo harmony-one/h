@@ -1,3 +1,5 @@
+2024-09-12 Thu: researched open source alternatives for polymarket and found a [tutorial](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial5) with Gnosis conditional tokens. Setting up the enviromnent to test the prototype with a single question.
+
 2024-09-11 Wed: [updated](https://sy.country/) SY client after Aaron's [final review](https://hackmd.io/@polymorpher/sy-country-note#sUSD-Utilities): [removed](https://github.com/harmony-one/synthetix-js-monorepo/commits/master/) mentions of SNX token in Terms of Service popup, removed Ethereum and Optimism from network select, disabled sUSD Utilities bottom panel, updated links to external resources (discord, forum).
 
 2024-09-10 Tue: researched Polymarket [ctf-exchange](https://github.com/Polymarket/ctf-exchange) contracts and dependencies: deployed [proxy-factory](https://github.com/Polymarket/proxy-factories), but had some troubles with proxy-safe contract, because parameters are not well documented. Polymarket doesn't look like a good candidate for 1market for me - too many missing pieces in their github. Discussed it with Rika; looking for alternatives, including [sx-bet](https://github.com/sx-bet).
