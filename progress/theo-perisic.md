@@ -1,10 +1,14 @@
-2024-09-12 Thu: Swap support added to Open Ocean. Announcement on this shortly. 
+2024-09-13 Fri: Sync with Amanda for DeFi liquidity, Swap pool will be receiving new liquidity as well as Lend. Updated transaction fee DAO with information on potential allocations, actions pending member discussions. Current options include using the funds to provide Swap liquidity or supporting community initiatives.
+
+2024-09-12 Thu: Confirmation with [OpenOcean team for Swap listing](https://x.com/Swoop_Exchange/status/1834242828517429447). Important integration that brings Swap to aggregators and meta aggregators like Swoop.
 
 2024-09-11 Wed: Review of sy.country with Artem, synthetix protocol coming soon to Harmony. Bounty invoice confirmed, awaiting confirmation from Colossus, announcement will be made shortly after.
 
 2024-09-10 Tue: [GX technical documentation](https://harmonyone.notion.site/GX-Technical-Documentation-cca26326258d400cab08f6c3d49013eb?pvs=4) contracts added. Still waiting on panoptic demo, sync with Sun for release date.
 
 2024-09-09 Mon: Sync with Li and Alaina for telegram issues brought up by community. Adding moderator. Insight: worth cleaning up as we transition to producing telegram mini-apps, community chat should be a great place to test new products.
+
+---
 
 2024-09-08 Sun: (3.0h) X space with community, covering decentralized finance initiatives, recovery multisig custodian elections, and staking dashboard improvements.
 
