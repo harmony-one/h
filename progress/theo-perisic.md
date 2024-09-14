@@ -1,4 +1,4 @@
-2024-09-13 Fri: Sync with Amanda for DeFi liquidity, Swap pool will be receiving new liquidity as well as Lend. Updated transaction fee DAO with information on potential allocations, actions pending member discussions. Current options include using the funds to provide Swap liquidity or supporting community initiatives.
+2024-09-13 Fri: Sync with Amanda for DeFi liquidity, Swap pool will be receiving new liquidity as well as Lend. Updated transaction fee DAO with information on potential allocations, current options include using the funds to provide Swap liquidity or supporting community initiatives.
 
 2024-09-12 Thu: Confirmation with [OpenOcean team for Swap listing](https://x.com/Swoop_Exchange/status/1834242828517429447). Important integration that brings Swap to aggregators and meta aggregators like Swoop.
 
