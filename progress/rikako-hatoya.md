@@ -1,3 +1,5 @@
+2024-09-13 Fri: Worked on Youtube integration and moving user data to a database instead of memory to avoid data reset. Also looked into Gnosis conditional tokens.
+
 2024-09-12 Thu: Implemented referral code system that works through a link to open app with referral code parameters and implemented logic to correctly award new users + their referrers with points. Implemented leaderboard system to show ranking of users with top scores, modified app navigation to have bottom navigation tool bar, changed organization of "Tasks" page to a tab-based system to sort different tasks depending on category (videos, social media, etc), and updated ReadMe (repo [here](https://github.com/harmony-one/Hod1)).
 
 2024-09-11 Wed: Further looked into alternative options for Polymarket with better open source. Created youtube subscriber oAuth integratation for Hod1, working on merging to main repo.
