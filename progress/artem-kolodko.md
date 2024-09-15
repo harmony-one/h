@@ -1,3 +1,5 @@
+2024-09-13 Fri: tested Gnosis conditional tokens [demo](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial1) locally, looking good, we can use for 1market demo. Started working on 1market prototype: single market, keywords from speech as a starting point.
+
 2024-09-12 Thu: researched open source alternatives for polymarket and found a [tutorial](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial5) with Gnosis conditional tokens. Setting up the enviromnent to test the prototype with a single question.
 
 2024-09-11 Wed: [updated](https://sy.country/) SY client after Aaron's [final review](https://hackmd.io/@polymorpher/sy-country-note#sUSD-Utilities): [removed](https://github.com/harmony-one/synthetix-js-monorepo/commits/master/) mentions of SNX token in Terms of Service popup, removed Ethereum and Optimism from network select, disabled sUSD Utilities bottom panel, updated links to external resources (discord, forum).
