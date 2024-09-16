@@ -1,3 +1,5 @@
+2024-09-15 Sun (1.0h): Worked on organizing code for hod1, dividing parts into separate react components. Looked into how to verify users retweeted our tweets.
+
 2024-09-14 Sat (9.0h): Completed YouTube implementation (just waiting for app approval from Google Cloud to use YouTube Data API scope) - debugged Cloud console API configs, created google login page with oAuth, created auth redirect handler page, added API to verify subscriber in subscriber list, submitted a app verification request form to Google. Youtube verification now works by making user open login page in system browser and login to YouTube via oAuth (not allowed to directly open within Telegram Mini App), then checking their subscription and redirecting them back to Telegram.
 
 2024-09-13 Fri: Worked on Youtube integration and moving user data to a database instead of memory to avoid data reset. Also looked into Gnosis conditional tokens.
