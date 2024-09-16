@@ -1,3 +1,13 @@
+----
+
+2024-09-15 Sun (3.9h): Research and discussion on generative funny AI, memes, and reinforcement learning on prediction market data. Step-by-step analysis on collateral and liquidity verification, handling of in-the-money positions, devise potential steps for estimating amount available to trade
+
+2024-09-13 Fri (4.6h): Pano: step-by-step analysis and verification on premium and fees tracking, accummulation, uniswap position tracking, and internal position minting, burning, querying process
+
+2024-09-12 Thu (7.6h): Pano: step-by-step analysis of semi-fungible positions, premium and collateral calculation in minting options, deriving mathematical basis and simulating different spread formulation
+
+2024-09-11 Wed (1h): Debugging on domain renewal. Research on parameters related to buying options
+
 2024-09-10 Tue (3.3h): SY end-to-end review, note, and discussions. GX end-to-end review and note. Pano: end-to-end testing of option selling and bug fixes. Discussion and follow up on prediction market, Telegram app, and documentations
 
 2024-09-09 Mon (0.3h): Discussion and follow up on SY, prediction market integration, GX liquidation, Vertex outstanding errors
