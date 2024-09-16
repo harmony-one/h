@@ -1,5 +1,10 @@
-2024-09-12 Thu: completed corrections based of the review; simplified the script and contracts for adding new tokens - adjusted the settings of the contract with roles (in the old version, only the GOV address can add new tokens). Сontinue to research the possibilities of increasing Leverage GXP x10 with current design.
+2024-09-16 Mon - 2024-09-19 Thu: Paid Time Off
 
+---
+
+2024-09-12 Fri: Fixed security vulnerabilities related to path-to-regexp in several repositories. Fixed another error found by Aaron - related to stuck of long positions executions (when opening USDC to ONE).
+
+2024-09-12 Thu: completed corrections based of the review; simplified the script and contracts for adding new tokens - adjusted the settings of the contract with roles (in the old version, only the GOV address can add new tokens). Сontinue to research the possibilities of increasing Leverage GXP x10 with current design.
 
 2024-09-11 Wed: [updated](https://gx.country/) GMX interface after Aaron's final review notes, worked on more updates: changing "Long" to "USD" on trading page, adding USD token as the target token under "Short" either, added links to adding liquidity for "insufficient liquidity" case.
 
