@@ -1,3 +1,9 @@
+2024-09-13 Fri:
+- Implemented broadcasting for the epoch block. The previous epoch sync updated every minute, which was excessive and could trigger unnecessary view change activations. The new implementation reduces the delay to approximately 2 seconds, significantly improving efficiency.
+- Fixed an issue with the legacy sync port. When the number of shards was reduced from 4 to 2, the algorithm incorrectly mixed ports for shard 0 and shard 1, breaking consensus and initiating the sync process. The fix resolves this issue and ensures stable operation. 
+- Worked on the EIP-1559 upgrade. This update introduced the effectiveGasPrice and its calculation, along with a new block version, a Base Fee field in the block, and additional transaction fields.
+
+
 2024-09-06 Fri:
 - Fixed an issue with crosslink processing identified by Soph. Recent commits included additional error checks, which inadvertently prevented crosslink processing on the local network.
 - Addressed an issue reported by Ulad related to vote power broadcasting. The previous implementation did not broadcast view change values, so I added an additional broadcasting mechanism. However, this mechanism may still have some limitations and has not yet passed all tests.
