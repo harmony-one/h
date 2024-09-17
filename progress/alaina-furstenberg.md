@@ -1,3 +1,11 @@
+2024-09-16 Mon: Sync with Li and Aaron, discussed Human Protocol and the #cryptoisboring campaign. Aaron's suggestion is to target our campaign around our Web2 > Web3 connection, but stray away from referencing any of our new products as 'boring'. Read and researched the supporting articles to h.country/ai. Wrote a [thread](https://x.com/harmonyprotocol/status/1835835649351647376) outlining the core principles and objectives. Tested community bot, 'flap to earn'.
+
+---
+
+2024-09-15 Sun: Beginning of animated telegram sticker pack.
+
+2024-09-14 Sat: [Tweet](https://x.com/harmonyprotocol/status/1835056176364724445) of the Harmony community section
+
 2024-09-13 Fri: Update of harmony community section and drafting of tweet recapping the week. Continuation of the cryptoisboring campaign.
 
 2024-09-12 Thu: Tweeted a educational [thread](https://x.com/harmonyprotocol/status/1834318388824604691) on how to connect a link to a .country domain. Promoted Open Ocean's integration with Swap. Began drafting concepts for the [#cryptoisboring](https://www.notion.so/harmonyone/cryptoisboring-campaign-832b2e0c929141048466ebb7f4155dd2?pvs=4) campaign with Band Protocol. 
