@@ -1,3 +1,7 @@
+2024-09-16 Mon: configured and [deployed](https://github.com/harmony-one/1market-demo/pull/1/commits/5f6ba6b9a1ba58ae817483f453d73a8bb2d9b816) 1market-demo contracts on Harmony mainnet; testing and updating demo client.
+
+---
+
 2024-09-13 Fri: tested Gnosis conditional tokens [demo](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial1) locally, looking good, we can use for 1market demo. Started working on 1market prototype: single market, keywords from speech as a starting point.
 
 2024-09-12 Thu: researched open source alternatives for polymarket and found a [tutorial](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial5) with Gnosis conditional tokens. Setting up the enviromnent to test the prototype with a single question.
