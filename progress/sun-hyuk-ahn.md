@@ -1,3 +1,13 @@
+2024-09-15 Tue:
+
+2024-09-14 Mon: Tested out the whole flow with the [Stackup CLI](https://docs.stackup.sh/docs/getting-started). Now that the process is familiar, began the deployment process on our chain.
+
+---
+
+2024-09-13 Sun (3 hr): Interacting with bundlers set up on [other chains](https://docs.stackup.sh/docs/entity-addresses). Working with paymasters and entry points to test out the whole process.
+
+2024-09-12 Sat (2 hr): Examined the installation process and continued the configuration procedure.
+
 2024-09-12 Fri: Began the deployment process. Finding the correct configuration according to [this](https://docs.stackup.sh/docs/erc-4337-bundler-configuration) specification.
 
 2024-09-11 Thu: Examining installation and configuration for the bundler deployment. 
