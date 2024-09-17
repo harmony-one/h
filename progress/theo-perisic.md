@@ -1,3 +1,11 @@
+2024-09-16 Mon: Coordinating marketing with [FlappyH1](https://t.me/FlappyH1Bot). Flap-to-earn telegram mini-game. Preparation for Swap and Lend liquidity providing with Amanda.
+
+---
+
+2024-09-15 Sun: (1.0h) Communication with [Ta-da](https://ta-da.io/), a task-to-earn app with 100k users. Worth seeing at Token2049 for Harmony integration.
+
+2024-09-14 Sat: (1.0h) Community transaction dao update, leaning towards using accumulated funds to provide liquidity to Harmony native assets.
+
 2024-09-13 Fri: Sync with Amanda for DeFi liquidity, Swap pool and Lend will be receiving new liquidity. Updated transaction fee DAO with information on potential allocations, current options include using the funds to provide Swap liquidity or supporting community initiatives.
 
 2024-09-12 Thu: Confirmation with [OpenOcean team for Swap listing](https://x.com/Swoop_Exchange/status/1834242828517429447). Important integration that brings Swap to aggregators and meta aggregators like Swoop.
