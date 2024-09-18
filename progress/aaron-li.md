@@ -1,3 +1,9 @@
+2024-09-18 Wed (4.5h): Pano: debug and fix position id reading and parsing. Verify position balance with the pool when positions are loaded locally. Fix several bugs end-to-end. Quick review prediction market contracts (Gnosis conditional token), code (Polymarket and 1market), and documentations. Debug Vertex contract errors and discuss differences between swap and match orders and their intended usage. Package dependency security vulnerability review and discussions
+
+2024-09-17 Tue (4.4h): Pano: end-to-end testing of buying options, implement common trading flows. Debugging InputListFail error. Implement error code printing utility. Pano: debug and fix issues related to local database operations
+
+2024-09-16 Mon (4.0h): Discussion on promotional technical materals. Pano: implement common trading flows
+
 ----
 
 2024-09-15 Sun (3.9h): Research and discussion on generative funny AI, memes, and reinforcement learning on prediction market data. Step-by-step analysis on collateral and liquidity verification, handling of in-the-money positions, devise potential steps for estimating amount available to trade
