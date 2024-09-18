@@ -1,3 +1,5 @@
+2024-09-17 Tue: Looked more into Gnosis conditional tokens repo for 1market. Continued working on social media oAuth and memory for Hod1, started working on UI improvement (perhaps, similar to Tapswap's).
+
 2024-09-16 Mon: Further worked on Hod1 by working on how to verify user retweets. Also looked into moving memory from local in server to database. 
 
 2024-09-15 Sun (1.0h): Worked on organizing code for hod1, dividing parts into separate react components. Looked into how to verify users retweeted our tweets.
