@@ -1,3 +1,5 @@
+2024-09-18 Wed: 1market demo: added market expiration time (user can't vote after specific timestamp), deployed client on [1market-demo.netlify.app](https://1market-demo.netlify.app/)
+
 2024-09-17 Tue: preparing 1market prototype for demo: [created](https://github.com/harmony-one/1market-demo/pull/1) PR with harmony deployment, asked Aaron to review contracts and client
 
 2024-09-16 Mon: configured and [deployed](https://github.com/harmony-one/1market-demo/pull/1/commits/5f6ba6b9a1ba58ae817483f453d73a8bb2d9b816) 1market-demo contracts on Harmony mainnet; testing and updating demo client.
