@@ -1,3 +1,5 @@
+2024-09-17 Tue: Thread on h.country/ai and on the Hashkey Event. 
+
 2024-09-16 Mon: Sync with Li and Aaron, discussed Human Protocol and the #cryptoisboring campaign. Aaron's suggestion is to target our campaign around our Web2 > Web3 connection, but stray away from referencing any of our new products as 'boring'. Read and researched the supporting articles to h.country/ai. Wrote a [thread](https://x.com/harmonyprotocol/status/1835835649351647376) outlining the core principles and objectives. Tested community bot, 'flap to earn'.
 
 ---
