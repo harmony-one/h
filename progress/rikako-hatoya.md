@@ -1,3 +1,5 @@
+2024-09-18 Wed: Debugged Google oAuth token error by fixing GoogleApi endpoint - now Youtube subscriber verification correctly works. Working on modifying it to update the user points when subscription verified, and adding pop-up modal UI so that the SocialTasks page UI is cleaner.
+
 2024-09-17 Tue: Looked more into Gnosis conditional tokens repo for 1market. Continued working on social media oAuth and memory for Hod1, started working on UI improvement (perhaps, similar to Tapswap's).
 
 2024-09-16 Mon: Further worked on Hod1 by working on how to verify user retweets. Also looked into moving memory from local in server to database. 
