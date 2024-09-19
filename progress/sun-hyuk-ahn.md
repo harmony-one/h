@@ -1,4 +1,8 @@
-2024-09-15 Tue:
+2024-09-17 Thu (on call):
+
+2024-09-16 Wed (on call): Further analyzed Harmony's tracer in order to observe the results. Began adding a tracer in Harmony's protocol in order to provide the results required for the validation process.
+
+2024-09-15 Tue: Analyzed Harmony's tracer as it is required in order for bundlers to validate user operations prior to them being sent to the chain. Harmony does have a method `trace_transaction` and `trace_block` but does not comply with `debug_traceCall`.
 
 2024-09-14 Mon: Tested out the whole flow with the [Stackup CLI](https://docs.stackup.sh/docs/getting-started). Now that the process is familiar, began the deployment process on our chain.
 
