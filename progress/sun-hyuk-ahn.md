@@ -1,4 +1,6 @@
-2024-09-17 Thu (on call):
+2024-09-18 Fri (on call):
+
+2024-09-17 Thu (on call): Observed a tracer that allowed `debug_traceCall` within our [codebase](https://github.com/harmony-one/harmony/blob/787fc7b7bb48fec6ff0f23d8e58f3165bf20d882/rpc/tracer.go#L180). It is not listed in the developer document but the call is enabled throught setting the method `debug_traceCall` and at the moment the parameters seems to comply with Stackup's requirement. However, proper testing will be required. Began configuring a testnet validator node and a bundler node in order to ascertain the requirements for the `debug_traceCall` as well as other configurations.
 
 2024-09-16 Wed (on call): Further analyzed Harmony's tracer in order to observe the results. Began adding a tracer in Harmony's protocol in order to provide the results required for the validation process.
 
