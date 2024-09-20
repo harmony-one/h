@@ -1,5 +1,5 @@
 2024-09-20 Fri: 
-I spend the week in Singapore attending Token 2049 meeting with Partners and Harmony community users.
+I spent the week in Singapore attending Token 2049 meeting with Partners and Harmony community users.
 
 ---
 
