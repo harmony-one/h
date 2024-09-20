@@ -1,3 +1,8 @@
+2024-09-20 Fri: 
+I spend the week in Singapore attending Token 2049 meeting with Partners and Harmony community users.
+
+---
+
 2024-09-13 Fri: 
 This week, protocol testing on the localnet with external validators revealed an issue with the HIP32 leader rotation feature. Although the feature had been deployed on both devnet and testnet, the problem went unnoticed due to overly lenient monitoring rules on our part.
 
