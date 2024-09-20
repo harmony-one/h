@@ -1,3 +1,11 @@
+2024-09-20 Fri: On the ops side, I focused on improving our internal logging system, ensuring that all validator and RPC nodes in every environment are covered. For the localnet, I created a solution that spins up the same setup as we have in the higher environments with a single command - [PR-4758](https://github.com/harmony-one/harmony/pull/4758).
+
+On the protocol side, I assisted Konstantin with testing [PR-4756](https://github.com/harmony-one/harmony/pull/4756#issuecomment-2359122084).
+
+Lastly, I have started reviewing and updating the current Validators documentation to ensure it is up to date.
+
+---
+
 2024-09-13 Fri: On the ops side, I was focusing on the improvement of our internal logging system. Thanks to the initial Soph work I was able to quickly rollout solution to the our tesnet nodes. It will give us the possibility to easily troubleshoot issues on the whole network scale.
 
 Moreover, I'm working on the same log aggregation stack(promtail/loki/grafana) for our localnet network. Our devs will be able to check the whole localnet logs in one place.
