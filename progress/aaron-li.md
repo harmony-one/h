@@ -1,4 +1,6 @@
-2024-09-18 Wed (4.5h): Pano: debug and fix position id reading and parsing. Verify position balance with the pool when positions are loaded locally. Fix several bugs end-to-end. Quick review prediction market contracts (Gnosis conditional token), code (Polymarket and 1market), and documentations. Debug Vertex contract errors and discuss differences between swap and match orders and their intended usage. Package dependency security vulnerability review and discussions
+2024-09-18 Thu (5h): Pano: portofolio and positions component. Debugging position scanning and syncing end-to-end
+
+2024-09-18 Wed (6.1h): Pano: position management and option position scanning from logs. Debug and fix position id reading and parsing. Verify position balance with the pool when positions are loaded locally. Fix several bugs end-to-end. Quick review prediction market contracts (Gnosis conditional token), code (Polymarket and 1market), and documentations. Debug Vertex contract errors and discuss differences between swap and match orders and their intended usage. Package dependency security vulnerability review and discussions. Analyze minimal setup for querying and indexing user option positions using subgraph. Batch processing recovery operations, review recent status updates
 
 2024-09-17 Tue (4.4h): Pano: end-to-end testing of buying options, implement common trading flows. Debugging InputListFail error. Implement error code printing utility. Pano: debug and fix issues related to local database operations
 
