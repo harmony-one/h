@@ -1,4 +1,14 @@
-2024-09-17 Tue: Thread on h.country/ai and on the Hashkey Event. 
+2024-09-22 Sun: Writing and posting the Harmony community weekly recap.
+
+2024-09-21 Sat: Writing and [posting of the teaser]() for the Kings and Quests gameplay trailer, to be released on Monday.
+
+2024-09-20 Fri: [Submission](https://docs.google.com/document/d/1LdQbUpdV5z_ABm1FPIx1GFN_8CysmoaKfSQ8W2Vc5ys/edit) of the Band Protocol #cryptoisboring marketing campaign. Designed 2 memes, wrote a thread, and 2 tweets focusing on our DNS > ENS connection as Harmony's topic. Awaiting feedback from the Band team before posting next week. Update of the Harmony community section.
+
+2024-09-19 Thu: [Launch](https://x.com/harmonyprotocol/status/1836881032072577153) of the Kings and Quests [marketing campaign](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
+
+2024-09-18 Wed: Sharing images and the team's focus for Token2049 via [X](https://x.com/harmonyprotocol/status/1836610546705092610). Drafting contents for the #cryptoisboring campaign. Syncing with Frank on WagerBot, and testing betting through Azuro. Insights: The start to finish process for placing a bet is quick and the app is well designed to allow you to see various betting options quickly.
+
+2024-09-17 Tue: [Thread](https://x.com/harmonyprotocol/status/1836150128610283768) on h.country/ai and on the Hashkey Event. Joined the harmonycommunity.one space on X and shared community posts. Began collecting design research to add a personalized style to the website, keeping the theme dark mode with retro illustrated elements in Harmony's blue and green. 
 
 2024-09-16 Mon: Sync with Li and Aaron, discussed Human Protocol and the #cryptoisboring campaign. Aaron's suggestion is to target our campaign around our Web2 > Web3 connection, but stray away from referencing any of our new products as 'boring'. Read and researched the supporting articles to h.country/ai. Wrote a [thread](https://x.com/harmonyprotocol/status/1835835649351647376) outlining the core principles and objectives. Tested community bot, 'flap to earn'.
 
