@@ -1,3 +1,7 @@
+2024-09-20 Fri: Liquidity added for ONE on Lend, and USDT <> ONE pair on Swap. Still unable to add USDT, USDC, ETH. Issues with multisig liquidity providing and Lend sent to Protofire.
+
+2024-09-19 Thu: Harmony1bot feature and updates with Frank. Attempted to add liquidity to Lend, and ONE <> USDT pair on Swap.
+
 2024-09-18 Wed: Helped resolve talk forum issues. Created [marketing plan](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67) for Kings & Quests.
 
 2024-09-17 Tue: Shared Protofire hyperplane bridge proposal. Insight: another bridge solution may dilute our current assets, recommended path forward is focusing on bridge aggregator. Discussion for synthetix use case bringing Aaron’s panoptic cli to telegram client. 
