@@ -1,3 +1,5 @@
+2024-09-20 Fri: Continued working on updating UI for Hod1 and redability of code. Further tested Polymarket, and continued testing similar Telegram Mini Apps for Hod1.
+
 2024-09-19 Thu: Continued working on implementing logic for adding points when subscription verified - altering the code for point and user system as it currently is only adapted to videos, working on making it more general/cleaner code. Further look into Gnosis repo for 1market.
 
 2024-09-18 Wed: Debugged Google oAuth token error by fixing GoogleApi endpoint - now Youtube subscriber verification correctly works. Working on modifying it to update the user points when subscription verified, and adding pop-up modal UI so that the SocialTasks page UI is cleaner.
