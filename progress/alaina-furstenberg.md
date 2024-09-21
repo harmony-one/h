@@ -2,7 +2,7 @@
 
 2024-09-21 Sat: Writing and [posting of the teaser]() for the Kings and Quests gameplay trailer, to be released on Monday.
 
-2024-09-20 Fri: [Submission](https://docs.google.com/document/d/1LdQbUpdV5z_ABm1FPIx1GFN_8CysmoaKfSQ8W2Vc5ys/edit) of the Band Protocol #cryptoisboring marketing campaign. Designed 2 memes, wrote a thread, and 2 tweets focusing on our DNS > ENS connection as Harmony's topic. Awaiting feedback from the Band team before posting next week. Update of the Harmony community section.
+2024-09-20 Fri: [Submission](https://docs.google.com/document/d/1LdQbUpdV5z_ABm1FPIx1GFN_8CysmoaKfSQ8W2Vc5ys/edit) of the Band Protocol #cryptoisboring marketing campaign. Designed 2 memes, wrote a thread, and 2 tweets focusing on our DNS > ENS connection as Harmony's topic. Awaiting feedback from the Band team before posting next week. Update of the [Harmony community section](https://harmony.one).
 
 2024-09-19 Thu: [Launch](https://x.com/harmonyprotocol/status/1836881032072577153) of the Kings and Quests [marketing campaign](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
 
