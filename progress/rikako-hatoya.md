@@ -1,3 +1,5 @@
+2024-09-21 Sat (1.5h): Looked into code for 1market demo repo. Also fixed a couple bugs related to netlify build folder/router for Hod1.
+
 2024-09-20 Fri: Continued working on updating UI for Hod1 and redability of code. Further tested Polymarket, and continued testing similar Telegram Mini Apps for Hod1.
 
 2024-09-19 Thu: Continued working on implementing logic for adding points when subscription verified - altering the code for point and user system as it currently is only adapted to videos, working on making it more general/cleaner code. Further look into Gnosis repo for 1market.
