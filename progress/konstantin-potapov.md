@@ -1,3 +1,8 @@
+2024-09-20 Fri:
+- Implemented `effectiveGasPrice` Calculation: The `getTransactionReceipt` method now includes the `effectiveGasPrice` parameter. Even without the `baseFee` in the block, our transactions can still support `effectiveGasPrice`. This enhancement ensures accurate transaction fee calculations and maintains compatibility with the Ethereum specification.
+- Fixed Peer Selection Bug in LocalSyncingPeerProvider: Addressed an issue where the previous implementation prevented correct peer selection for syncing in the localnet. This fix improves the efficiency and stability of the local network.
+- Disabled Stream Sync on Localnet: Due to issue #4749, stream sync has been temporarily disabled on the localnet to prevent potential testing complications associated with this issue. 
+
 2024-09-13 Fri:
 - Implemented broadcasting for the epoch block. The previous epoch sync updated every minute, which was excessive and could trigger unnecessary view change activations. The new implementation reduces the delay to approximately 2 seconds, significantly improving efficiency.
 - Fixed an issue with the legacy sync port. When the number of shards was reduced from 4 to 2, the algorithm incorrectly mixed ports for shard 0 and shard 1, breaking consensus and initiating the sync process. The fix resolves this issue and ensures stable operation. 
