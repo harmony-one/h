@@ -1,26 +1,34 @@
-2024-09-18 Fri (on call):
-
-2024-09-17 Thu (on call): Observed a tracer that allowed `debug_traceCall` within our [codebase](https://github.com/harmony-one/harmony/blob/787fc7b7bb48fec6ff0f23d8e58f3165bf20d882/rpc/tracer.go#L180). It is not listed in the developer document but the call is enabled throught setting the method `debug_traceCall` and at the moment the parameters seems to comply with Stackup's requirement. However, proper testing will be required. Began configuring a testnet validator node and a bundler node in order to ascertain the requirements for the `debug_traceCall` as well as other configurations.
-
-2024-09-16 Wed (on call): Further analyzed Harmony's tracer in order to observe the results. Began adding a tracer in Harmony's protocol in order to provide the results required for the validation process.
-
-2024-09-15 Tue: Analyzed Harmony's tracer as it is required in order for bundlers to validate user operations prior to them being sent to the chain. Harmony does have a method `trace_transaction` and `trace_block` but does not comply with `debug_traceCall` ([specs](https://geth.ethereum.org/docs/interacting-with-geth/rpc/ns-debug)).
-
-2024-09-14 Mon: Tested out the whole flow with the [Stackup CLI](https://docs.stackup.sh/docs/getting-started). Now that the process is familiar, began the deployment process on our chain.
+2024-09-23 Mon (on call):
 
 ---
 
-2024-09-13 Sun (4 hr): Interacting with bundlers set up on [other chains](https://docs.stackup.sh/docs/entity-addresses). Working with paymasters and entry points to test out the whole process.
+2024-09-22 Sun (on call):
 
-2024-09-12 Sat (3 hr): Examined the installation process and continued the configuration procedure.
+2024-09-21 Sat (on call):
 
-2024-09-12 Fri: Began the deployment process. Finding the correct configuration according to [this](https://docs.stackup.sh/docs/erc-4337-bundler-configuration) specification.
+2024-09-20 Fri (on call): Continued the deployment progress with a Testnet validator node. Began writing schema to be used for the Subgraph node that will keep track of Panoptic positions.
 
-2024-09-11 Thu: Examining installation and configuration for the bundler deployment. 
+2024-09-19 Thu (on call): Observed a tracer that allowed `debug_traceCall` within our [codebase](https://github.com/harmony-one/harmony/blob/787fc7b7bb48fec6ff0f23d8e58f3165bf20d882/rpc/tracer.go#L180). It is not listed in the developer document but the call is enabled throught setting the method `debug_traceCall` and at the moment the parameters seems to comply with Stackup's requirement. However, proper testing will be required. Began configuring a testnet validator node and a bundler node in order to ascertain the requirements for the `debug_traceCall` as well as other configurations.
 
-2024-09-10 Wed: Finalized comparisons of the various bundler implementations ([comparison](https://www.stackup.sh/blog/a-guide-to-the-top-erc-4337-bundlers-features-performance-and-more) and [test results](https://www.erc4337.io/bundlers)). It only makes sense to move forward with Infinitism and Stackup's implementation of the bundlers, which are the only two with 100% test pass rate. Being more familiar with Golang and the performance advantage Stackup has over Infinitism (Infinitism does have ERC 4337 compliance advantage), will go forward with Stackup and began the process tomorrow.
+2024-09-18 Wed (on call): Further analyzed Harmony's tracer in order to observe the results. Began adding a tracer in Harmony's protocol in order to provide the results required for the validation process.
 
-2024-09-09 Tue (on call): Went through the most recent changes in our protocol in order to be aware of the on call situations. Continued to look into Stackup implementation.
+2024-09-17 Tue: Analyzed Harmony's tracer as it is required in order for bundlers to validate user operations prior to them being sent to the chain. Harmony does have a method `trace_transaction` and `trace_block` but does not comply with `debug_traceCall` ([specs](https://geth.ethereum.org/docs/interacting-with-geth/rpc/ns-debug)).
+
+2024-09-16 Mon: Tested out the whole flow with the [Stackup CLI](https://docs.stackup.sh/docs/getting-started). Now that the process is familiar, began the deployment process on our chain.
+
+---
+
+2024-09-15 Sun (4 hr): Interacting with bundlers set up on [other chains](https://docs.stackup.sh/docs/entity-addresses). Working with paymasters and entry points to test out the whole process.
+
+2024-09-14 Sat (3 hr): Examined the installation process and continued the configuration procedure.
+
+2024-09-13 Fri: Began the deployment process. Finding the correct configuration according to [this](https://docs.stackup.sh/docs/erc-4337-bundler-configuration) specification.
+
+2024-09-12 Thu: Examining installation and configuration for the bundler deployment. 
+
+2024-09-11 Wed: Finalized comparisons of the various bundler implementations ([comparison](https://www.stackup.sh/blog/a-guide-to-the-top-erc-4337-bundlers-features-performance-and-more) and [test results](https://www.erc4337.io/bundlers)). It only makes sense to move forward with Infinitism and Stackup's implementation of the bundlers, which are the only two with 100% test pass rate. Being more familiar with Golang and the performance advantage Stackup has over Infinitism (Infinitism does have ERC 4337 compliance advantage), will go forward with Stackup and began the process tomorrow.
+
+2024-09-10 Tue (on call): Went through the most recent changes in our protocol in order to be aware of the on call situations. Continued to look into Stackup implementation.
 
 2024-09-09 Mon (on call): Examined Stackup's Go implementation of the [bundler](https://docs.stackup.sh/docs/erc-4337-overview). Brushing up on Docker and containers in order to began the [deployment process](https://docs.stackup.sh/docs/erc-4337-bundler-installation).
 
