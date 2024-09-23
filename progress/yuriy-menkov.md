@@ -1,3 +1,8 @@
+
+2024-09-20 Fri: Worked on the ability to use stable coins in gmx long positions (we still get errors when executing positions with stable coins - since this is not provided for in contracts)
+
+2024-09-19 Thu: By request from Soph i was investigating the problem that npm package name hmy-bridge-sdk was previously unclaimed on NPM (If this package had been claimed by an attacker, this would have led to arbitrary code execution on the affected server, as well as allowing the attacker to add backdoors inside the affected project(s) during the build process). additional [info](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610).
+
 2024-09-16 Mon - 2024-09-19 Thu: Paid Time Off
 
 ---
