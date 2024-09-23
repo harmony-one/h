@@ -1,3 +1,7 @@
+2024-09-21 Sat: I attended Token2049 conference and a few side events over the week.
+
+---
+
 2024-09-14 Sat:
 Last week, we finalized [PR #4735](https://github.com/harmony-one/harmony/pull/4735). After the team reviewed the code, I removed many unused functions and configurations. The `MetData` structure previously relied on the Harmony node metadata format, which included fields irrelevant to boot nodes. Since boot nodes only use specific fields, I refactored the code to separate boot node metadata from Harmony node metadata. I also refactored peer info, and after thorough testing, the code was merged into the dev branch. As a result, we now have three new RPCs for boot nodes.
 
