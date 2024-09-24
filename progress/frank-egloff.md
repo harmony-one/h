@@ -1,3 +1,6 @@
+2024-09-23 Mon: Implemented broadcast rate limiting to comply with 30 messages/second cap, along with sent/error reporting functionality. Added /preview command for pre-send broadcast style verification. Dove deep into SwapAMM transaction on Vertex Contracts, encountering Endpoint contract size limitations.
+
+---
 2024-09-20 Fri: Enhanced /help command to display latest broadcast when available, resolving HTML parse mode issues. Enabled parsing of broadcast messages in HTML or Markdown format. Stored latest broadcast in session for improved accessibility. Upgraded VoiceMemo functionality to generate transcriptions for forwarded voice notes, contingent on voiceFlag in env variables or OneTimeForward flag activation via /forward command.
 
 2024-09-19 Thu: Progressed on SwapAMM tx implementation for Vertex contracts, but still having issues when processing the transaction. Tackling CVE-2024-45296 vulnerability in harmony-one/gmx-price-keeper repo; migrated to Node v18 for overrides field, facing compilation hurdles. Brainstormed with Theo on 1Bot user engagement strategy, emphasizing AI command-line driven for Harmony build and DeFi interactions using agents and exploring a potential custom LLM integration for the ecosystem.
