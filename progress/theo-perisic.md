@@ -1,3 +1,9 @@
+2024-09-23 Mon: DeFi candidate review, proposed adding telegram mini-app suite to Harmony1bot to make all telegram initiatives easily accessible via intelligent chats. Finalizing Q3 review. 
+
+2024-09-22 Sun: Harmony1bot testing and community feedback on bot information. Continuation of [Kings & Quests marketing](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
+
+2024-09-21 Sat: Reviewed current telegram mini-apps. Insights: current applications are scattered, would benefit from focusing on a single winner for telegram, Prediction Market for example, and gain users first.
+
 2024-09-20 Fri: Liquidity added for ONE on Lend, and USDT <> ONE pair on Swap. Still unable to add USDT, USDC, ETH. Issues with multisig liquidity providing and Lend sent to Protofire.
 
 2024-09-19 Thu: Harmony1bot feature and updates with Frank. Attempted to add liquidity to Lend, and ONE <> USDT pair on Swap.
