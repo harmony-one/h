@@ -1,3 +1,5 @@
+2024-09-23 Mon: Continued cleaning/reorganizing react components for Hod1. Looked into Kings and Quests, further looked into Gnosis contracts, refined Q3 review.
+
 2024-09-22 Sun (2.0h): Worked on writing draft for Q3 review. Further tested Polymarket.
 
 2024-09-21 Sat (1.5h): Looked into code for 1market demo repo. Also fixed a couple bugs related to netlify build folder/router for Hod1.
