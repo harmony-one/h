@@ -1,3 +1,7 @@
+2024-09-23 Mon: 1market demo client: [working](https://github.com/harmony-one/1market-demo/pull/1/commits/6315606d05edf8c97d082c70b039d9040b21ab39) on user interface: updated layout, moved account section to header, added dark theme, updated trader and operator buttons
+
+---
+
 2024-09-20 Fri: 1Market: discussed next steps with Aaron, started working on [user interface](https://1market-demo.netlify.app/) improvements to show 1Market MVP next week; continue researching Gnosis conditional tokens contracts.
 
 2024-09-19 Thu: researched polymarket docs and architecture, prepared the report with comparison with Gnosis Conditional tokens framework demo, and sent it to Aaron. Researching Gnosis [contracts](https://github.com/gnosis/conditional-tokens-market-makers) to understand how order matching works on-chain.
