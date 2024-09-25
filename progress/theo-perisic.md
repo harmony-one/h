@@ -1,8 +1,20 @@
+**2024 Q3 Review**
+
+I secured Swap integration with OpenOcean, a leading DEX aggregator with $20B+ in trading volume and 1.2M+ active users. I also released a [Perpetual article](https://blog.harmony.one/p/three-sigmas-research-for-harmonys) with the ThreeSigma Team, incorporating advanced liquidity provider token mechanisms and competitive fee structures, projected to increase trading volume.
+
+I completed comprehensive ecosystem reports to major exchanges, showcasing 45 unique applications built on Harmony. Additionally, I created a dedicated Harmony DeFi group to streamline ecosystem liquidity, project promotion, and user experience. I also prepared for Recovery Multisig Custodian (RMC) elections, creating a [year-in-review](https://harmonyone.notion.site/Recovery-Multisig-Custodians-RMC-fae72d9bbb214620a46bc51578c44591) document with elections planned for Q4, while coordinating the resolution of .country domain issues, resolving the Colossus bug bounty reward, and integrating SimpleSwap to allow seamless cross chain navigation to Harmony with a 0.4% minimum fee collection.
+
+---
+
+2024-09-25 Wed: Reached out to Across Protocol team for potential bridge expansion. Created relevant Harmony information document for Harmony1bot. 
+
+2024-09-24 Tue: Completed first draft of Q3 review. Outreach to Utility DAO following liquid staking launch, uONE. Rebalancing review for adding more liquidity to Swap.
+
 2024-09-23 Mon: DeFi candidate review, proposed adding telegram mini-app suite to Harmony1bot to make all telegram initiatives easily accessible via intelligent chats. Finalizing Q3 review. 
 
-2024-09-22 Sun: Harmony1bot testing and community feedback on bot information. Continuation of [Kings & Quests marketing](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
+2024-09-22 Sun (2.0h): Harmony1bot testing and community feedback on bot information. Continuation of [Kings & Quests marketing](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
 
-2024-09-21 Sat: Reviewed current telegram mini-apps. Insights: current applications are scattered, would benefit from focusing on a single winner for telegram, Prediction Market for example, and gain users first.
+2024-09-21 Sat (2.0h): Reviewed current telegram mini-apps. Insights: current applications are scattered, would benefit from focusing on a single winner for telegram, Prediction Market for example, and gain users first.
 
 2024-09-20 Fri: Liquidity added for ONE on Lend, and USDT <> ONE pair on Swap. Still unable to add USDT, USDC, ETH. Issues with multisig liquidity providing and Lend sent to Protofire.
 
@@ -49,9 +61,9 @@
 
 ---
 
-2024-09-01 Sun: Cryptoland DAO twitter space speaker. Recovery and further discussions about Harmony discord were covered.
+2024-09-01 Sun (3.0h): Cryptoland DAO twitter space speaker. Recovery and further discussions about Harmony discord were covered.
 
-2024-08-31 Sat: Continued conversations in DeFi group. Insights: OpenOcean looking to add Swap integration as a priority and Harmony discord revamp discussions. 
+2024-08-31 Sat (1.0h): Continued conversations in DeFi group. Insights: OpenOcean looking to add Swap integration as a priority and Harmony discord revamp discussions. 
 
 2024-08-30 Fri: Created Harmony DeFi group, aimed at providing the same open discussions as the Harmony Validator group but with a focus on DeFi. This group will streamline ecosystem liquidity, project promotion, and user experience of our DeFi suite. Confirmation from Pablo for release of DeFi article, still no response from Three Sigma marketing, will ping over the weekend for promotion into next week.
 
