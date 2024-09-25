@@ -1,3 +1,8 @@
+2024-09-24 Tue: Redeployed contracts with new fixes, adding more tokens and ux fixes according to Aaron's review. Tested the [pano cli](https://github.com/polymorpher/pano) tool from Aaron. Synced with Li and Aaron about next goals.
+
+2024-09-23 Mon: Worked on fixing the "insufficient collateral for fees" error - which occurred when an order is executing by the price keeper service (due to incorrect calculation of _sizeDelta in USD). Continue testing long positions (2x - 50x) feature with stable coins pairs.
+
+---
 
 2024-09-20 Fri: Worked on the ability to use stable coins in gmx long positions (we still get errors when executing positions with stable coins - since this is not provided for in contracts)
 
