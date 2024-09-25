@@ -1,3 +1,5 @@
+2024-09-24 Tue: continue on market demo client update: started changing main trade widget layout to look more polymarket-style (buy/sell tabs on top, colored buttons inside tabs)
+
 2024-09-23 Mon: 1market demo client: [working](https://github.com/harmony-one/1market-demo/pull/1/commits/6315606d05edf8c97d082c70b039d9040b21ab39) on user interface: updated layout, moved account section to header, added dark theme, updated trader and operator buttons
 
 ---
