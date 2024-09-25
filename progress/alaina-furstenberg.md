@@ -1,4 +1,10 @@
-2024-09-22 Sun: Writing and posting the Harmony community weekly recap.
+2024-09-24 Tue: Drafted and collected data for my Q3 Review. Filmed and tweeted a tutorial on /o1 on ONE Bot. Sketched up variations of a vector logo for Kings and Quests. Re-editing of all logos on the home page to correct spacing. 
+
+2024-09-23 Mon: Kings and Quests Video [promotion](https://x.com/harmonyprotocol/status/1838323096538988883). 
+
+---
+
+2024-09-22 Sun: Writing and posting the Harmony community [weekly recap]().
 
 2024-09-21 Sat: Writing and [posting of the teaser](https://x.com/harmonyprotocol/status/1837577029040197908) for the Kings and Quests gameplay trailer, to be released on Monday.
 
