@@ -1,3 +1,5 @@
+2024-09-24 Tue: Started looking into [HarmonyOneBot repo](https://github.com/harmony-one/HarmonyOneBot) and further looked into [1market repo](https://github.com/harmony-one/1market-demo/tree/1market_demo) in preparation for integration. Further refined Q3 review, and researched on prediction markets on Messari.
+
 2024-09-23 Mon: Continued cleaning/reorganizing react components for Hod1. Looked into Kings and Quests, further looked into Gnosis contracts, refined Q3 review.
 
 ---
