@@ -1,10 +1,14 @@
-2024-09-23 Mon (on call):
+2024-09-25 Wed: 
+
+2024-09-24 Tue (on call): Analyzing Subgraph's [developer document](https://thegraph.com/docs/en/developing/creating-a-subgraph/) and Aaron's Subgraph schema for dot country. Will attempt to finish this by Thursday (09/26) as this is a blocker for Panoptics usability. Once Subgraph node is launched, will continue with account abstraction implementation.
+
+2024-09-23 Mon (on call): Testnet validator is deployed and the bundler node has been [configured](https://docs.stackup.sh/docs/erc-4337-bundler-configuration) to interact with the set up testnet node. Following a simple tutorial, attempting to fund accounts utilizing user operations. However, it is not working as expected and began the debugging process.
 
 ---
 
-2024-09-22 Sun (on call):
+2024-09-22 Sun (5hrs; on call): Reviewed and tested this [PR](https://github.com/harmony-one/harmony/pull/4760) in order to decide on the default syncing method (legacy vs streamsync) for localnet. Tested and discussed with protocol / devops team members and decided on with stream sync being the default method.
 
-2024-09-21 Sat (on call):
+2024-09-21 Sat (on call)
 
 2024-09-20 Fri (on call): Continued the deployment progress with a Testnet validator node. Began writing schema to be used for the Subgraph node that will keep track of Panoptic positions.
 
