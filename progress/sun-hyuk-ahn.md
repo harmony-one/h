@@ -1,4 +1,6 @@
-2024-09-25 Wed: 
+2024-09-26 Thu: 
+
+2024-09-25 Wed: [Implemented](https://github.com/harmony-one/panoptics-subgraph) Subgraph schema in order to keep track of all positions, whether it is active or closed (burnt). Will continue testing and complete it tomorrow to ensure it is ready to be deployed when the CLI is ready.
 
 2024-09-24 Tue (on call): Analyzing Subgraph's [developer document](https://thegraph.com/docs/en/developing/creating-a-subgraph/) and Aaron's Subgraph schema for dot country. Will attempt to finish this by Thursday (09/26) as this is a blocker for Panoptics usability. Once Subgraph node is launched, will continue with account abstraction implementation.
 
