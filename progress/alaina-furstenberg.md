@@ -1,6 +1,8 @@
-2024-09-24 Tue: Drafted and collected data for my Q3 Review. Filmed and tweeted a tutorial on /o1 on ONE Bot. Sketched up variations of a vector logo for Kings and Quests. Re-editing of all logos on the home page to correct spacing. 
+2024-09-25 Wed: Continuation of [Kings and Quests marketing](https://x.com/harmonyprotocol/status/1839010985933418687), tweeting their addition to harmony.one. [Tweeted](https://x.com/harmonyprotocol/status/1839022903956037862) in partnership with LayerZero as well as with [FlappyH1](https://x.com/harmonyprotocol/status/1838992667834974716). Met with Li, Sun, and Artem and finalized my Q3 review.
 
-2024-09-23 Mon: Kings and Quests Video [promotion](https://x.com/harmonyprotocol/status/1838323096538988883). 
+2024-09-24 Tue: Tested and filmed a tutorial on /o1 on ONE Bot. Insights: /o1 works swiftly and effectively. The true value is in the ability to 'pay per use'. Perhaps the differnce in cost, if there is one, should be more accessible to users of ONE Bot. Currently, its difficult to see how much each feature costs. I also sketched up variations of a vector logo for Kings and Quests. Re-editing of all logos on the home page to correct spacing. 
+
+2024-09-23 Mon: Kings and Quests Video [promotion](https://x.com/harmonyprotocol/status/1838323096538988883). Drafted and collected data for my Q3 Review. Design of more marketing materials for #cryptoisboring.
 
 ---
 
