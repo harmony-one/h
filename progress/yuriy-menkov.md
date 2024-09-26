@@ -1,3 +1,13 @@
+**2024 Q3 Review**
+
+Improvements and adding new features for [GMX v1](https://gx.country/) to Harmony. New [services](https://github.com/harmony-one/gmx-price-keeper) added: price keeper, position keeper and watcher service (to disable keeper in case of setting incorrect prices). Completed interface on adding liquidity and purchasing GXP tokens. Integration with [UniswapV3Oracles](https://github.com/polymorpher/synth-oracle) as first price feed has been implemented. Added services for collecting statistics on price changing and displaying prices on charts in ux. Fixed texts and interface errors. Added support for stable coins on creating long and short positions. Documentation on deploying the system and adding new tokens was prepared. Security audit of contracts and keepers service for the basic version has been completed. 
+
+Started work on integrating new features into the current gmx ecosystem: autocompounding vaults - explored the possibility of partial migration of functionality using the example of the morphex project, in the end I decided to deploy all morphex [contracts](https://github.com/harmony-one/h-gmx-contracts/commit/48c71a05609b3e907ad77d730a6d3fcd617be764) in their entirety, but ran into the problem of integrating their contracts with the basic version of the gmx interface.
+
+---
+
+2024-09-25 Wed: Worked on command line utility for bridging ERC20 tokens (based on sdk [repo](https://github.com/harmony-one/layerzero-bridge.sdk)). Additional functionality will be network binary download, wallet creation etc
+
 2024-09-24 Tue: Redeployed contracts with new fixes, adding more tokens and ux fixes according to Aaron's review. Tested the [pano cli](https://github.com/polymorpher/pano) tool from Aaron. Synced with Li and Aaron about next goals.
 
 2024-09-23 Mon: Worked on fixing the "insufficient collateral for fees" error - which occurred when an order is executing by the price keeper service (due to incorrect calculation of _sizeDelta in USD). Continue testing long positions (2x - 50x) feature with stable coins pairs.
