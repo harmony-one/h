@@ -1,3 +1,8 @@
+Q3 Review Draft:
+
+
+
+
 2024-09-25 Wed: Continuation of [Kings and Quests marketing](https://x.com/harmonyprotocol/status/1839010985933418687), tweeting their addition to harmony.one. [Tweeted](https://x.com/harmonyprotocol/status/1839022903956037862) in partnership with LayerZero as well as with [FlappyH1](https://x.com/harmonyprotocol/status/1838992667834974716). Met with Li, Sun, and Artem and finalized my Q3 review.
 
 2024-09-24 Tue: Tested and filmed a tutorial on /o1 on ONE Bot. Insights: /o1 works swiftly and effectively. The true value is in the ability to 'pay per use'. Perhaps the differnce in cost, if there is one, should be more accessible to users of ONE Bot. Currently, its difficult to see how much each feature costs. I also sketched up variations of a vector logo for Kings and Quests. Re-editing of all logos on the home page to correct spacing. 
@@ -95,6 +100,15 @@
 2024-08-15 Thu: [Thread](https://x.com/harmonyprotocol/status/1824226923100409949) on harmony.one/perps. Testing of staking on sy.country, successfully staked 2500 1SY and swapped trade 1SY / 1USDC pair on Swap. Synced with Artem on my experience and on next steps for dev testinng. ONE Bot Love group engagement. 
 
 2024-08-14 Wed: [Thread](https://x.com/harmonyprotocol/status/1823874019206291834) on TON's impact on GameFi growth. Promotional [tweet](https://x.com/harmonyprotocol/status/1823814677773918259) summarizing of ONE Show episode 9. Follow up on speaking opportunities. 
+
+Q3 Review Draft:
+This quarter focused on key marketing campaigns, graphics, partnerships, and competitor testing. I led campaigns for #cryptoisboring with Band Protocol, Three Sigma, Blockscout, Layer Zero, Kings and Quests, ONE Show, Flappyh1, and internal projects like Hod1, Human Protocol, GX.Country, TGI Podcasts, 1bot, and 1Market. These campaigns generated 833,000 impressions, and overall, our engagement on X increased by 4% from last quarter, reaching 3.9%.
+
+I also revised the 1bot user guide to ensure smooth functionality and communicated feature and functionality updates to the community.
+
+Additionally, I tested competitor products like Hamster Kombat, Polymarket, and Pump.fun to deliver insights and questions to the 2025 Product Roadmap.
+
+---
 
 2024-08-13 Tue: Upload of [ONE Show Episode 9](https://youtu.be/x25nTWQpgqw?si=F6uWJeoHZ3IPYsgL) and re-design of thumbnails for episodes 1, 6, and 9. Purchased more credits to test Gen 3 on Runway, insights: it's too tedious testing generation by generation, with clear direction employing a script to [automate the generations](https://useapi.net/docs/articles/runway-bash) (with an unlimited subscription) is the easiest way to get several generations. 
 
