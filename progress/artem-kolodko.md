@@ -1,3 +1,5 @@
+2024-09-25 Wed: 1market demo client update: refactored basic layout, changed voting widget (added "buy" and "sell" tabs like on Polymarket), deployed [1market client](https://1market-demo.netlify.app/) update. Aaron will help with 1m.country domain. Synced with team. Contacted Protofire frontend dev to make Explorer search bar dropdown fix (I'll setup Explorer client locally later, it will take some time). Started researching panoptic scripts to make swap on Harmony from command line interface.
+
 2024-09-24 Tue: continue on 1market demo client update: started changing main trade widget layout to look more polymarket-style (buy/sell tabs on top, colored buttons inside tabs)
 
 2024-09-23 Mon: 1market demo client: [working](https://github.com/harmony-one/1market-demo/pull/1/commits/6315606d05edf8c97d082c70b039d9040b21ab39) on user interface: updated layout, moved account section to header, added dark theme, updated trader and operator buttons
