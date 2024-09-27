@@ -8,6 +8,8 @@ Additionally, I explored and tested various prediction market platforms, includi
 
 ---
 
+2024-09-26 Thu: Looked into client components and configuration for 1market-demo. Started working on memecoin prediction by researching through the links on Solana token launch.
+
 2024-09-25 Wed: Team sync with Li, Frank, and Theo, and refined Q3 review as well as started working on Q4 goals. Further looked into 1market repo to understand architecture for bot integration.
 
 2024-09-24 Tue: Started looking into [HarmonyOneBot repo](https://github.com/harmony-one/HarmonyOneBot) and further looked into [1market repo](https://github.com/harmony-one/1market-demo/tree/1market_demo) in preparation for integration. Further refined Q3 review, and researched prediction markets on Messari.
