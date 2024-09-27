@@ -1,7 +1,12 @@
 Q3 Review Draft:
 
+This quarter focused on key marketing campaigns, designing graphics, partnerships, and competitor testing. I led campaigns for #cryptoisboring with Band Protocol, Three Sigma, Blockscout, Layer Zero, Kings and Quests, ONE Show, Flappyh1, and internal projects like Hod1, Human Protocol, GX.Country, TGI Podcasts, 1bot, and 1Market. These campaigns generated 833,000 impressions and raised engagement by 4% from last quarter, reaching a total engagement rate of 3.9%.
 
+I also revised the 1bot user guide and actively assisted with onboarding community members. I worked 1-on-1 with users, guiding them through the process of purchasing ONE and utilizing 1bot, while keeping them engaged in the ONE Bot Love group.
 
+Additionally, I tested competitor products like Hamster Kombat, Polymarket, and Pump.fun to contribute insights, questions, and commentary for our 2025 Roadmap.
+
+---
 
 2024-09-25 Wed: Continuation of [Kings and Quests marketing](https://x.com/harmonyprotocol/status/1839010985933418687), tweeting their addition to harmony.one. [Tweeted](https://x.com/harmonyprotocol/status/1839022903956037862) in partnership with LayerZero as well as with [FlappyH1](https://x.com/harmonyprotocol/status/1838992667834974716). Met with Li, Sun, and Artem and finalized my Q3 review.
 
