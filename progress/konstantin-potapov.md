@@ -1,6 +1,7 @@
 **2024 Q3 Review**
 
 Added the effectiveGasPrice field to the getTransactionReceipt method to maintain compatibility with Ethereum. Completed the implementation of 1-second block finality, significantly improving transaction confirmation speeds. Finalized a new commission split mechanism to support 1-second finality and a 67% vote power threshold.
+
 With Ulad and Soph, updated to Go version 1.22. Go 1.22 provides improvements in the crypto package, updates to the latest package versions and enhanced performance. Enabled the epoch chain to broadcast the epoch block, reducing other shards' epoch block synchronization time to up to 2 seconds. Implemented broadcasting of vote power along with view change signature info, improving observability of nodes. 
 
 
