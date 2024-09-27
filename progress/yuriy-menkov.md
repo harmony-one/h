@@ -6,6 +6,8 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-09-26 Thu: Switched to work on the bridge: developing a new proxy contract to support transfers Solana <-> Harmony. Based on layerzero v2 endpoint. Design [overview](https://docs.layerzero.network/v2/developers/solana/oapp/overview).
+
 2024-09-25 Wed: Worked on command line utility for bridging ERC20 tokens (based on sdk [repo](https://github.com/harmony-one/layerzero-bridge.sdk)). Additional functionality will be network binary download, wallet creation etc
 
 2024-09-24 Tue: Redeployed contracts with new fixes, adding more tokens and ux fixes according to Aaron's review. Tested the [pano cli](https://github.com/polymorpher/pano) tool from Aaron. Synced with Li and Aaron about next goals.
