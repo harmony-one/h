@@ -1,3 +1,5 @@
+2024-09-26 Thu: tested [panoptic scripts](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) (swap tokens from cli), but had a troubles with configuration params, asked Aaron to help. Completed the first version of 1market interface, [deployed](https://1market-demo.netlify.app/) the update.
+
 2024-09-25 Wed: 1market demo client update: refactored basic layout, changed voting widget (added "buy" and "sell" tabs like on Polymarket), deployed [1market client](https://1market-demo.netlify.app/) update. Aaron will help with 1m.country domain. Synced with the team. Contacted Protofire frontend dev to make Explorer search bar dropdown fix (I'll setup Explorer client locally later, it will take some time). Started researching panoptic scripts to make swap on Harmony from command line interface.
 
 2024-09-24 Tue: continue on 1market demo client update: started changing main trade widget layout to look more polymarket-style (buy/sell tabs on top, colored buttons inside tabs)
