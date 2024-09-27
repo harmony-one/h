@@ -1,3 +1,19 @@
+Q3 Review:
+
+During Q3, my work primarily focused on addressing critical technical issues and preparing key protocol upgrades for Harmony. A major part of my efforts revolved around the HIP32 leader rotation feature, which was deployed on both devnet and testnet but surfaced issues when tested with external validators. This led to a significant shift in focus towards troubleshooting, reviewing, and testing multiple pull requests to replicate the instability, alongside improving internal logging and monitoring for better issue detection. The challenges encountered pushed back the HIP32 hard fork timeline, with the release now tentatively scheduled for mid-October.
+
+Additionally, I managed several releases, including the mainnet stable v2024.2.0, which introduced P2P improvements and the Go 1.22.5 update. I played a pivotal role in troubleshooting node issues during deployment and ensuring the stability of our localnet with external validators. Beyond technical work, I collaborated with the team to outline objectives for upcoming quarters and supported key community engagements, including facilitating the reopening of BEP2 ONE deposits with Binance and assisting users with staking and node operation issues.
+
+---
+2024-07-27 Fri:
+The Harmony Ledger app has been an ongoing topic of discussion internally, as work is required to ensure the app becomes available on Ledger Live. This week, Ledger reached out to me with a deadline for its removal unless code refactoring, testing, and auditing are completed by December 31st. While users can still access their wallets through Metamask and Harmony's EVM equivalence, the primary remaining challenge is addressing the legacy HD derivation path. I am considering developing a Metamask snap to resolve this. We've expedited internal discussions to finalize our approach moving forward.
+
+On the technical side, two key pull requests — [Vote Power](https://github.com/harmony-one/harmony/pull/4748) and [Epoch Block Broadcast](https://github.com/harmony-one/harmony/pull/4756) — were fully reviewed, tested, and merged. The Epoch Block broadcast demonstrated promising results, with significantly improved stability on the localnet with external validators. We plan to test this further on the devnet for a week, after which we should have a clearer timeline for the upcoming HIP32 release. 
+
+Additionally, I developed and initiated a script to identify the total ONE in circulation, which is expected to take several days to complete.
+
+---
+
 2024-09-20 Fri: 
 I spent the week in Singapore attending Token 2049 meeting with Partners and Harmony community users.
 
