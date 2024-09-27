@@ -1,3 +1,19 @@
+2024-09-27 Fri (3.7h): Analysis of AI-readable signals from top meme gainers. Review and analyze supply calculation API and code. Quick review on 1market prediction market
+
+2024-09-26 Thu (5.3h): Investigation on supply issues and related code. Staking-related wallet and fund recovery operations. Review and discuss trading app. Analyze ledger app detailed requirements and code
+
+2024-09-25 Wed (2.0h): Pano: fix portofolio page remaining issues. Break down and refactor hooks. Show position price and range correctly. Fix some display issues
+
+2024-09-24 Tue (3.7h): Review Ledger app publishing process, requirements, and audit options. Discuss liquidity pool security and options. Pano: fix issues with pool position display, add hooks for Uniswap basic information, ready flags
+
+2024-09-23 Mon (2.7h): Discussion on GX, Morpheux, Pano app, and priorities. Pano: fix bugs for syncing positions; use low level functions for storing positions. support multi-pool positions hook; remove lodash, use remeda. display protofolio position details per leg
+
+----
+
+2024-09-22 Sun (1.3h): Pano: implement tools to parse token id into position, parse position on-chain scan result, add scan interrupt functionality, make scan duration and block numbers customizable, improve ui
+
+2024-09-21 Sat (2.3h): Pano: implement tools to parse token id into position, parse position on-chain scan result, add scan interrupt functionality, make scan duration and block numbers customizable, improve ui
+
 2024-09-20 Fri (5.1h): Pano: end-to-end bug fixes and debugging for portofolio sync, scanning, and position parsing from blockchain log 
 
 2024-09-19 Thu (6h): Pano: portofolio and positions component. Debugging position scanning and syncing end-to-end. processing scanned events into actual positions
