@@ -1,4 +1,14 @@
-2024-09-26 Thu: 
+**2024 Q3 Review**
+
+I deployed the Panoptic protocol on Harmony and developed a CLI to interact with the associated smart contracts. This CLI leverages Solidity scripts to deploy Panoptic pools and manage position minting and burning. It also supports the deployment of Uniswap V3 pools, which serve as the liquidity provider for the Panoptic pools. Additionally, I implemented a Panoptic subgraph using The Graph protocol to track positions created through Panoptic contracts. The subgraph monitors minted, burned, and rolled positions, while also keeping a record of liquidations and force-exercised positions to ensure comprehensive tracking of all position-related activities.
+
+In parallel, I conducted research into account abstraction (ERC-4337) and evaluated multiple bundler implementations, including Eth-finitism, Stackup, Alto, Rulder, and Voltaire. After comparison, I selected Stackup's Golang implementation as the most stable, given its full compliance with the compatibility test suite—a criterion many other bundlers fail to meet. I successfully deployed a bundler that supports ERC-4337 account abstraction, fully configured for Harmony nodes. This work will continue into Q4, with plans to deploy paymasters and integrate EIP-3074 for sponsored transactions and account delegations, paving the way for the launch of smart wallets, including Base and Timeless wallets.
+
+---
+
+2024-09-27 Fri:
+
+2024-09-26 Thu: Completed Subgraph schema implementation and launched it with the current deployed `PanopticFactory` address. This can be changed anytime according to future deployments. Extensive troubleshooting for the mint issue raised by a user. The cause is most likely due to the information provided by Harmony's RPC, which does not take account of many variables (i.e. hacks, mint bugs, staking emission, etc). The logic for this endpoint will most likely need an update.
 
 2024-09-25 Wed: [Implemented](https://github.com/harmony-one/panoptics-subgraph) Subgraph schema in order to keep track of all positions, whether it is active or closed (burnt). Will continue testing and complete it tomorrow to ensure it is ready to be deployed when the CLI is ready.
 
