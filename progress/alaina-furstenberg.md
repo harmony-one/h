@@ -1,10 +1,8 @@
-Q3 Review Draft:
+Q3 Review:
 
-This quarter focused on key marketing campaigns, designing graphics, partnerships, and competitor testing. I led campaigns for #cryptoisboring with Band Protocol, Three Sigma, Blockscout, Layer Zero, Kings and Quests, ONE Show, Flappyh1, and internal projects like Hod1, Human Protocol, GX.Country, TGI Podcasts, 1bot, and 1Market. These campaigns generated 833,000 impressions and raised engagement by 4% from last quarter, reaching a total engagement rate of 3.9%.
+This quarter was focused on key marketing campaigns, partnerships, designing graphics, and competitor testing. I led co-marketing campaigns for Three Sigma, Blockscout, Layer Zero, Kings and Quests, ONE Show, Flappyh1, #cryptoisboring with Band Protocol and internal projects like Hod1, Human Protocol, GX.Country, TGI Podcasts, 1bot, and 1Market. These campaigns generated 833,000 impressions and raised engagement by 4% from last quarter, reaching a total engagement rate of 3.9%.
 
-I also revised the 1bot user guide and actively assisted with onboarding community members. I worked 1-on-1 with users, guiding them through the process of purchasing ONE and utilizing 1bot, while keeping them engaged in the ONE Bot Love group.
-
-Additionally, I tested competitor products like Hamster Kombat, Polymarket, and Pump.fun to contribute insights, questions, and commentary for our 2025 Roadmap.
+I also revised the 1bot user guide and actively assisted with onboarding community members. I worked 1-on-1 with users, guiding them through the process of purchasing ONE and utilizing 1bot, while keeping them engaged in the ONE Bot Love group. Additionally, I tested competitor products like Hamster Kombat, Polymarket, and Pump.fun to contribute insights, questions, and commentary for our 2025 Roadmap.
 
 ---
 
