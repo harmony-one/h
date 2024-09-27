@@ -1,3 +1,11 @@
+Artem Kolodko - Q3 Review
+
+Developed a port of Synthetix V2 and beginning work on 1Market, a Polymarket analog. I successfully completed the porting of Synthetix v2 which included deploy scripts, contracts and a new client. During the work I solved many difficulties at each stage of the extreme complex 200 contract files on-chain and refactored the oracle feeds, some of which had to be rewritten due to unavailability of Chainlink used in the original system. At the moment, we have a sy.country client, deployed contracts on Harmony Mainnet, and a 1SY / 1USDC pair available to trade on swap.country.
+
+I've also started work on 1Market, a Polymarket analog. After studying the original code sources available on github, I decided not to make a Polymarket fork, as some parts of the system are not available (client application, order book). Instead, for the MVP, I used the Gnosis Conditional Tokens demo as a basis, contracts from which are also used in Polymarket. At the moment I'm working on adapting the demo client to our tasks and creating a more attractive interface that can be used for MVP presentation as well as in the final product.
+
+---
+
 2024-09-26 Thu: tested [panoptic scripts](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) (swap tokens from cli), but had a troubles with configuration params, asked Aaron for help. Completed the first version of 1market interface, [deployed](https://1market-demo.netlify.app/) the update.
 
 2024-09-25 Wed: 1market demo client update: refactored basic layout, changed voting widget (added "buy" and "sell" tabs like on Polymarket), deployed [1market client](https://1market-demo.netlify.app/) update. Aaron will help with 1m.country domain. Synced with the team. Contacted Protofire frontend dev to make Explorer search bar dropdown fix (I'll setup Explorer client locally later, it will take some time). Started researching panoptic scripts to make swap on Harmony from command line interface.
