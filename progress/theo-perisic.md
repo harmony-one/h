@@ -6,6 +6,8 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 
 ---
 
+2024-09-26 Thu: Extensive troubleshooting for multisig issues with providing liquidity to Lend, will attempt again tomorrow. Reviewed upcoming projects and next steps with Stephen.
+
 2024-09-25 Wed: Reached out to Across Protocol team for potential bridge expansion. Created relevant Harmony information document for Harmony1bot. 
 
 2024-09-24 Tue: Completed first draft of Q3 review. Outreach to Utility DAO following liquid staking launch, uONE. Rebalancing review for adding more liquidity to Swap.
