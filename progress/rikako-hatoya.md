@@ -2,9 +2,7 @@
 
 In Q3, my primary focus was on replicating our GMX fork, testing various Telegram Mini Apps and prediction markets, and most notably, developing the Hod1 Telegram Bot. The initial phase of Hod1 involved building a Telegram bot for lottery trains by implementing smart contracts and designing the user interface on Telegram. Over time, I transitioned the Hod1 app from a chat-based interface to a full-fledged Telegram Mini App, replacing the lottery trains with an incentivized reward-based system.
 
-I developed the front-end UI using React and JavaScript components tailored specifically for the Telegram Mini App environment, deploying it to Netlify. Key features I implemented include a leaderboard page, a social login system (YouTube subscription verification using OAuth), a reward system for watching videos from our YouTube playlist, and a referral system that incentivizes user growth by awarding points for referring new users. On the backend, I created and deployed a REST API and server on Heroku to manage user data, such as points, watched videos, and task completion, as well as retrieving user rankings.
-
-Additionally, I explored and tested various prediction market platforms, including Polymarket, Gnosis, and TON, for potential integration with the Harmony blockchain.
+I developed the front-end UI using React and JavaScript components tailored specifically for the Telegram Mini App environment, deploying it to Netlify. Key features I implemented include a leaderboard page, a social login system (YouTube subscription verification using OAuth), a reward system for watching videos from our YouTube playlist, and a referral system that incentivizes user growth by awarding points for referring new users. On the backend, I created and deployed a REST API and server on Heroku to manage user data, such as points, watched videos, and task completion, as well as retrieving user rankings. Additionally, I explored and tested various prediction market platforms, including Polymarket, Gnosis, and TON, for potential integration with the Harmony blockchain.
 
 ---
 
