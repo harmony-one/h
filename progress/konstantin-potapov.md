@@ -1,8 +1,8 @@
 **2024 Q3 Review**
 
-Added the effectiveGasPrice field to the getTransactionReceipt method to maintain compatibility with Ethereum. Completed the implementation of 1-second block finality, significantly improving transaction confirmation speeds. Finalized a new commission split mechanism to support 1-second finality and a 67% vote power threshold.
+Added the `effectiveGasPrice` [field](https://github.com/harmony-one/harmony/pull/4759) to the `getTransactionReceipt` method to maintain compatibility with Ethereum. Completed the implementation of 1-second block [finality](https://github.com/harmony-one/harmony/pull/4738), significantly improving transaction confirmation speeds. [Finalized](https://github.com/harmony-one/harmony/pull/4738) a new commission split mechanism to support 1-second finality and a 67% vote power threshold.
 
-With Ulad and Soph, updated to Go version 1.22. Go 1.22 provides improvements in the crypto package, updates to the latest package versions and enhanced performance. Enabled the epoch chain to broadcast the epoch block, reducing other shards' epoch block synchronization time to up to 2 seconds. Implemented broadcasting of vote power along with view change signature info, improving observability of nodes. 
+With Ulad and Soph, updated to Go version 1.22. Go [1.22](https://github.com/harmony-one/harmony/pull/4736) provides improvements in the crypto package, updates to the latest package versions and enhanced performance. Enabled the epoch chain to [broadcast](https://github.com/harmony-one/harmony/pull/4756) the epoch block, reducing other shards' epoch block synchronization time to up to 2 seconds. Implemented broadcasting of [vote power](https://github.com/harmony-one/harmony/pull/4748) along with view change signature info, improving observability of nodes. 
 
 ---
 
