@@ -1,3 +1,11 @@
+2024-09-27 Fri: On the protocol side, I've added an easy way to spin up localnet with the Legacy sync via flag and implicitly made a Stream sync a default one, this will allow engineers to quickly switch between them to check how protocol works - [PR-4761](https://github.com/harmony-one/harmony/pull/4761).
+
+Additionally, I've fixed the corner case in the localnet watchdog deployment, previously it couldn't render UI, which can be quite confusing, now it showing proper state for the pre-staking epochs.
+
+On the ops side, I've renew SSL certs and Nginx version to the latest one; updated devnet to the latest dev branch version.
+
+---
+
 2024-09-20 Fri: On the ops side, I focused on improving our internal logging system, ensuring that all validator and RPC nodes in every environment are covered. For the localnet, I created a solution that spins up the same setup as we have in the higher environments with a single command - [PR-4758](https://github.com/harmony-one/harmony/pull/4758).
 
 On the protocol side, I assisted Konstantin with testing [PR-4756](https://github.com/harmony-one/harmony/pull/4756#issuecomment-2359122084).
