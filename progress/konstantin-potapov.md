@@ -4,18 +4,21 @@ Added the effectiveGasPrice field to the getTransactionReceipt method to maintai
 
 With Ulad and Soph, updated to Go version 1.22. Go 1.22 provides improvements in the crypto package, updates to the latest package versions and enhanced performance. Enabled the epoch chain to broadcast the epoch block, reducing other shards' epoch block synchronization time to up to 2 seconds. Implemented broadcasting of vote power along with view change signature info, improving observability of nodes. 
 
+---
 
 2024-09-20 Fri:
 - Implemented `effectiveGasPrice` Calculation: The `getTransactionReceipt` method now includes the `effectiveGasPrice` parameter. Even without the `baseFee` in the block, our transactions can still support `effectiveGasPrice`. This enhancement ensures accurate transaction fee calculations and maintains compatibility with the Ethereum specification.
 - Fixed Peer Selection Bug in LocalSyncingPeerProvider: Addressed an issue where the previous implementation prevented correct peer selection for syncing in the localnet. This fix improves the efficiency and stability of the local network.
-- Disabled Stream Sync on Localnet: Due to issue #4749, stream sync has been temporarily disabled on the localnet to prevent potential testing complications associated with this issue. 
+- Disabled Stream Sync on Localnet: Due to issue #4749, stream sync has been temporarily disabled on the localnet to prevent potential testing complications associated with this issue.
 
+---
 
 2024-09-13 Fri:
 - Implemented broadcasting for the epoch block. The previous epoch sync updated every minute, which was excessive and could trigger unnecessary view change activations. The new implementation reduces the delay to approximately 2 seconds, significantly improving efficiency.
 - Fixed an issue with the legacy sync port. When the number of shards was reduced from 4 to 2, the algorithm incorrectly mixed ports for shard 0 and shard 1, breaking consensus and initiating the sync process. The fix resolves this issue and ensures stable operation. 
 - Worked on the EIP-1559 upgrade. This update introduced the effectiveGasPrice and its calculation, along with a new block version, a Base Fee field in the block, and additional transaction fields.
 
+---
 
 2024-09-06 Fri:
 - Fixed an issue with crosslink processing identified by Soph. Recent commits included additional error checks, which inadvertently prevented crosslink processing on the local network.
