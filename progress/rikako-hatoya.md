@@ -6,6 +6,8 @@ I developed the front-end UI using React and JavaScript components tailored spec
 
 ---
 
+2024-09-27 Fri: Further looked into client-side for 1market-demo and tried redeploying contract on local. Also continued looking through the links on the memecoin notion page, and pump.
+
 2024-09-26 Thu: Looked into client components and configuration for 1market-demo. Started working on memecoin prediction by researching through the links on Solana token launch.
 
 2024-09-25 Wed: Team sync with Li, Frank, and Theo, and refined Q3 review as well as started working on Q4 goals. Further looked into 1market repo to understand architecture for bot integration.
