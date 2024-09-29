@@ -5,7 +5,20 @@ This quarter, I worked on a wide range of tasks, from boot node functionality to
 For awhile I worked on errors in crosslink processing. We were dealing with race conditions and missing database keys that were causing instability and database lookup failures. By improving error handling and refactoring the process for managing pending crosslinks, I was able to resolve these issues and reduce unnecessary database lookups. Beyond the major features and bug fixes, I took on several refactoring tasks, including removing unused configurations and functions, optimizing test cases, and ensuring that localnet scripts were functioning as expected. I also updated Go version of the Harmony Go-SDK to 1.22.5, making sure it remained compatible with the latest Harmony binary. At the end of Q3 I started investigating the root cause of stream removal issues. We had noticed that streams were being unexpectedly removed whenever the `getCurrentNumber` request failed, which was affecting overall system performance.
 
 ---
+2024-09-28 Sat: Last week, I primarily focused on issue [#4789](https://github.com/harmony-one/harmony/issues/4749), which involves addressing stream disconnectivities. A series of tests were conducted to identify the root cause, and several improvements were implemented:
+- I created a safe map to prevent race conditions in the request manager, ensuring smoother operation.
+- Refactored the switching logic between long-range and soft-range syncing for better performance and reliability.
+- Enhanced error handling for the "context deadline exceeded" issue, which was a recurring problem.
+- Worked on improving timeout functions to avoid unnecessary interruptions.
+- Increased the context deadlines to provide more leeway for requests.
+- Optimized the use of locks and mutexes to eliminate potential bottlenecks.
+- Thoroughly double-checked the code to ensure all improvements aligned with the issue at hand.
+- Investigated potential P2P layer overloading, which might be caused by new features like broadcasting voting power and epoch blocks, putting additional strain on the P2P client.
+- Added P2P channel capacity to help manage load more effectively.
+- Introduced additional logs and analyzed the results to better understand the system behavior.
+All of these efforts have been packaged into a draft [#PR4762](https://github.com/harmony-one/harmony/pull/4762). Once I successfully test the changes, I will request a review from the team. Until then, my investigation into the root cause of the issue is ongoing.
 
+---
 
 2024-09-21 Sat: I attended the **Token2049 conference** and several side events, gaining valuable insights into the latest trends and technologies in the blockchain space. This allowed me to stay up-to-date with new developments and better understand the direction of the industry.
 
