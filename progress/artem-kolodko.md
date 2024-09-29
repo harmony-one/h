@@ -6,6 +6,8 @@ I've also started work on 1Market. After studying the original code sources avai
 
 ---
 
+2024-09-27 Fri: updated 1market demo: [added](https://github.com/harmony-one/1market-demo/pull/1/commits/7cd7b2ab6aa446c31f3a50b3c5d7be917b87a98a) Redeem button for resolved market, refactored layout, added dark theme. Tested [panoptic](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) swap script but got a configuration error, asked Aaron to help to resolve it.
+
 2024-09-26 Thu: tested [panoptic scripts](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) (swap tokens from cli), but had a troubles with configuration params, asked Aaron for help. Completed the first version of 1market interface, [deployed](https://1market-demo.netlify.app/) the update.
 
 2024-09-25 Wed: 1market demo client update: refactored basic layout, changed voting widget (added "buy" and "sell" tabs like on Polymarket), deployed [1market client](https://1market-demo.netlify.app/) update. Aaron will help with 1m.country domain. Synced with the team. Contacted Protofire frontend dev to make Explorer search bar dropdown fix (I'll setup Explorer client locally later, it will take some time). Started researching panoptic scripts to make swap on Harmony from command line interface.
