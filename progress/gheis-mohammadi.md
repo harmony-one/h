@@ -16,6 +16,7 @@ For awhile I worked on errors in crosslink processing. We were dealing with race
 - Investigated potential P2P layer overloading, which might be caused by new features like broadcasting voting power and epoch blocks, putting additional strain on the P2P client.
 - Added P2P channel capacity to help manage load more effectively.
 - Introduced additional logs and analyzed the results to better understand the system behavior.
+
 All of these efforts have been packaged into a draft [#PR4762](https://github.com/harmony-one/harmony/pull/4762). Once I successfully test the changes, I will request a review from the team. Until then, my investigation into the root cause of the issue is ongoing.
 
 ---
