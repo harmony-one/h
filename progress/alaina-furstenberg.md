@@ -6,6 +6,18 @@ I also revised the 1bot user guide and actively assisted with onboarding communi
 
 ---
 
+2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore. Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character.
+
+---
+
+2024-09-29 Sun: Editing and completion of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore.
+
+2024-09-28 Sat: [Promotion](https://x.com/harmonyprotocol/status/1840033722805940406) of liquid staking on 1UtilityDAO
+
+2024-09-27 Fri: Initial draft of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore. [Thread](https://x.com/harmonyprotocol/status/1839741827009917444) featuring the builders behind Kings and Quests. [Launch of the #cryptoisboring campaign](https://x.com/harmonyprotocol/status/1839725212860027210)
+
+2024-09-26 Thu: Testing and demo of /o1 on ONE Bot [published to X](https://x.com/harmonyprotocol/status/1839527685833507154). Editing and refining of data for the Q3 Review.
+
 2024-09-25 Wed: Continuation of [Kings and Quests marketing](https://x.com/harmonyprotocol/status/1839010985933418687), tweeting their addition to harmony.one. [Tweeted](https://x.com/harmonyprotocol/status/1839022903956037862) in partnership with LayerZero as well as with [FlappyH1](https://x.com/harmonyprotocol/status/1838992667834974716). Met with Li, Sun, and Artem and finalized my Q3 review.
 
 2024-09-24 Tue: Tested and filmed a tutorial on /o1 on ONE Bot. Insights: /o1 works swiftly and effectively. The true value is in the ability to 'pay per use'. Perhaps the differnce in cost, if there is one, should be more accessible to users of ONE Bot. Currently, its difficult to see how much each feature costs. I also sketched up variations of a vector logo for Kings and Quests. Re-editing of all logos on the home page to correct spacing. 
