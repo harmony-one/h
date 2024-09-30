@@ -6,7 +6,13 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
-2024-09-26 Thu: Switched to work on the bridge: developing a new proxy contract to support transfers Solana <-> Harmony. Based on layerzero v2 endpoint. Design [overview](https://docs.layerzero.network/v2/developers/solana/oapp/overview).
+2024-09-30 Mon: Added support for Moo Deng token to harmony bridge. Deployed [programs](https://github.com/LayerZero-Labs/example-oft) for solana layerzero OFT token. Working on client side scripts (based on solana web3) to call programs methods and token transfers.
+
+---
+
+2024-09-27 Fri: Studied ways to develop programs woth Rust lang for Solana. Researched Layerzero solana repositories for transferring messages and tokens. Researched the possibility of implementing one base contract on the Solana side for all tokens. Working on proxy oft program on solana side to do simple 1-1 bridge binding.
+
+2024-09-26 Thu: Inspected and resolved bridge issue - related to the transfer of tokens from the base chain. Switched to work on the bridge: developing a new proxy contract to support transfers Solana <-> Harmony. Based on layerzero v2 endpoint. Design [overview](https://docs.layerzero.network/v2/developers/solana/oapp/overview).
 
 2024-09-25 Wed: Worked on command line utility for bridging ERC20 tokens (based on sdk [repo](https://github.com/harmony-one/layerzero-bridge.sdk)). Additional functionality will be network binary download, wallet creation etc
 
