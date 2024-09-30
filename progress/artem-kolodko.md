@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-09-30 Mon: updates styles in 1market client, [deployed](https://1market-demo.netlify.app/) an update. Tested pano [swap USDC](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) script on Harmony mainnet with new env variables from Aaron, it worked! Sent steps how to use this script to our group chat with Stephen & Aaron.
+
+---
+
 2024-09-27 Fri: updated 1market demo: [added](https://github.com/harmony-one/1market-demo/pull/1/commits/7cd7b2ab6aa446c31f3a50b3c5d7be917b87a98a) Redeem button for resolved market, refactored layout, added dark theme. Tested [panoptic](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) swap script but got a configuration error, asked Aaron to help to resolve it.
 
 2024-09-26 Thu: tested [panoptic scripts](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) (swap tokens from cli), but had a troubles with configuration params, asked Aaron for help. Completed the first version of 1market interface, [deployed](https://1market-demo.netlify.app/) the update.
