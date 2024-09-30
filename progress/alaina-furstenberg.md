@@ -6,7 +6,7 @@ I also revised the 1bot user guide and actively assisted with onboarding communi
 
 ---
 
-2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore. Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character. Continuation of the #cryptoisboring campaign.
+2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore. Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character. Continuation of the [#cryptoisboring campaign]().
 
 ---
 
