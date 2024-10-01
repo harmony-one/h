@@ -1,3 +1,6 @@
+2024-09-30 Mon: Integrated viem into [Harmony documentation](https://github.com/fegloff/docs-home/tree/developers-viem), implementing client initialization and contract instantiation. Added call aggregation via multicall and sample code for connecting to Harmony Testnet, addressing viem's lack of native support. On Harmony1Bot, worked on subagent initialization to resolve ongoing issues and investigated prompt handling to mitigate inconsistent model completions.
+
+---
 **2024 Q3 Review** 
 
 I deployed Vertex contracts on Harmony mainnet and testnet, developed a [MockSequencer contract](https://github.com/fegloff/vertex-contracts/pull/1), PerpetualFactory for contract creation, enhanced PerpOracle, and created OrderBook contract and OrderBookFactory. To address the lack of Harmony-specific components, I developed a [harmonyClient module](https://github.com/fegloff/vertex-web-monorepo-snapshot/pull/2) for mock calls while working on porting API calls. Despite implementing logging events for MatchOrderAMM transactions across various contracts to aid debugging, challenges persisted with processing both MatchOrderAMM and SwapAMM transactions. 
