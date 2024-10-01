@@ -1,4 +1,12 @@
-2024-09-27 Sat (0.5h): Research and analysis on meme trading signals and AI capabilities
+2024-10-01 Tue (0.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers
+
+----
+
+2024-09-30 Mon (7.5h): Pano: profit and loss implementation and debugging. Debug signing keys for Ledger app. Quick doc review on Orca, Wormhole, Jupiter bridge, Graph cloud hosting, Uniswap subgraph
+
+2024-09-29 Sun (2.7h): Review Kamino and Aerodrome highlights. Revisit Jupiter and Synthetix asset mechanisms. Review bridge token listing flow. Bridge assets and API review. Verify and examine uniswap pool states
+
+2024-09-28 Sat (2.5h): Research and analysis on meme trading signals and AI capabilities. Pano: portofolio value implementation and debugging
 
 2024-09-27 Fri (5.6h): Analysis of Ledger app and plugin code, workflow, and minimal path to build app. Analysis of AI-readable signals from top meme gainers. Review and analyze supply calculation API and code. Quick review on 1market prediction market
 
