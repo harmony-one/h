@@ -1,3 +1,5 @@
+2024-10-01 Tue: Refactored Harmony1Bot models logic, enabling seamless addition of commands and prefixes to any model without code modifications. Updated model context to mitigate subjectivity bias. Implemented single-letter commands and prefixes across all LLM models. Resolved o1 model's URL handling issues in prompts. Initiated Luma integration, pending API key acquisition.
+
 2024-09-30 Mon: Integrated viem into [Harmony documentation](https://github.com/fegloff/docs-home/tree/developers-viem), implementing client initialization and contract instantiation. Added call aggregation via multicall and sample code for connecting to Harmony Testnet, addressing viem's lack of native support. On Harmony1Bot, worked on subagent initialization to resolve ongoing issues and investigated prompt handling to mitigate inconsistent model completions.
 
 ---
