@@ -6,7 +6,9 @@ In parallel, I conducted research into account abstraction (ERC-4337) and evalua
 
 ---
 
-2024-09-30 Mon:
+2024-10-01 Tue: Developed
+
+2024-09-30 Mon: Deep dived into `EntryPoint.sol` contract. Deployed the [contract](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/core/EntryPoint.sol) in order to enable account abstraction on Testnet. 
 
 ---
 
@@ -14,7 +16,7 @@ In parallel, I conducted research into account abstraction (ERC-4337) and evalua
 
 2024-09-28 Sat (4 hr): Continued working on debugging the token transfer process using the bundler today. Still working on resolving the completion problem.
 
-2024-09-27 Fri: Deployed `EntryPoint.sol` [contract](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/core/EntryPoint.sol) in order to enable account abstraction on Testnet. Currently working on simple token transfer using the bundler but the process is not being completed. Deep dived and started the debugging process in order to fix the problem.
+2024-09-27 Fri: Currently working on simple token transfer using the bundler but the process is not being completed. Deep dived and started the debugging process in order to fix the problem.
 
 2024-09-26 Thu: Completed Subgraph schema implementation and launched it with the current deployed `PanopticFactory` address. This can be changed anytime according to future deployments. Extensive troubleshooting for the mint issue raised by a user. The cause is most likely due to the information provided by Harmony's RPC, which does not take account of many variables (i.e. hacks, mint bugs, staking emission, etc). The logic for this endpoint will most likely need an update.
 
