@@ -6,6 +6,8 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-01 Tue: During testing, OFT proxy on Solana received several problems related to setting the recipient's application address and receiving messages on the Harmony side. Synchronized with the layerzaero team on this issue - The Endpoint V1 and V2 contracts are backwards compatible but need to hang the OFT Program to support EPV1 OFT's message encoding. Worked on updating the recipient's contract.
+
 2024-09-30 Mon: Added support for Moo Deng token to harmony bridge. Deployed [programs](https://github.com/LayerZero-Labs/example-oft) for solana layerzero OFT token. Working on client side scripts (based on solana web3) to call programs methods and token transfers.
 
 ---
