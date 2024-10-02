@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-01 Tue: [added](https://github.com/harmony-one/h/blob/main/docs/panoptic-v1-test.md) panoptics USDC/WETH swap script to /docs; setting up new [Explorer client](https://github.com/protofire/bs-frontend) locally, researching the client architecture
+
 2024-09-30 Mon: updates styles in 1market client, [deployed](https://1market-demo.netlify.app/) an update. Tested pano [swap USDC](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) script on Harmony mainnet with new env variables from Aaron, it worked! Sent steps how to use this script to our group chat with Stephen & Aaron.
 
 ---
