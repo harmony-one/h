@@ -1,3 +1,11 @@
+2024-10-03 Thu: Completion of Q3 Report plus beginning the thumbnail design. Sending to team for editing.
+
+2024-10-02 Wed: [Promotion](https://x.com/harmonyprotocol/status/1841519885190643808) of the ONE Show Episode 11. Sync with Li discussing the metrics to track for Twitter & ONE Bot. Top metrics for Twitter include: Engagement, Impressions, Replies. Top 3 for ONE Bot include: conversion rate/churn rate (% of users who go from free credits to paid), command frequency + revenue generation (top/least used command & how much revenue it generates), & growth rate (how many users do we have & is that number growing). Writing of Q3 Report.
+
+2024-10-01 Tue: [Promotion](https://x.com/harmonyprotocol/status/1841241138659016918) of September 2024 Substack Post. Welcoming of Phillip to the team [via X](https://x.com/harmonyprotocol/status/1841235971385540782). Continuation of the [#cryptoisboring campaign](https://x.com/harmonyprotocol/status/1841234659260448921) with a thread explaining how we connect DNS to ENS.
+
+---
+
 **2024 Q3 Review (26 hours)**
 
 This quarter was focused on key marketing campaigns, partnerships, designing graphics, and competitor testing. I led co-marketing campaigns for Three Sigma, [Footprint Data](https://x.com/harmonyprotocol/status/1819855668087750737), [Another World](https://x.com/harmonyprotocol/status/1818054854046269807), [Blockscout](https://x.com/harmonyprotocol/status/1811101807789379645), [Protofire RPC](https://x.com/harmonyprotocol/status/1825983805624144068), Layer Zero, [Travala](https://x.com/harmonyprotocol/status/1833353050888749540), [Kings and Quests](https://x.com/harmonyprotocol/status/1840819870604411313), [ONE Show](https://x.com/harmonyprotocol/status/1816213520549306812), [1UtilityDAO](https://x.com/harmonyprotocol/status/1840033722805940406), [Flappyh1](https://x.com/harmonyprotocol/status/1838992667834974716), [Open Ocean](https://x.com/harmonyprotocol/status/1834295790438904233), [#cryptoisboring](https://x.com/harmonyprotocol/status/1841234659260448921) with Band Protocol, [harmonycommunity.one](https://x.com/harmonyprotocol/status/1836607007878713786) and internal projects like [Core Protocol Syncs](https://x.com/harmonyprotocol/status/1816212540294324492), [Hod1](https://x.com/harmonyprotocol/status/1828282628493185489), [.country](https://x.com/harmonyprotocol/status/1834318388824604691), [Human Protocol](https://x.com/harmonyprotocol/status/1836150128610283768), [GX.Country](https://x.com/harmonyprotocol/status/1833633059322867954), [TGI Podcasts](https://x.com/harmonyprotocol/status/1821672065247932911), [1bot](https://x.com/harmonyprotocol/status/1839527685833507154), and 1Market. These campaigns generated 833,000 impressions and raised engagement by [5% from last quarter](https://x.com/i/account_analytics), reaching a total engagement rate of 4%.
@@ -5,12 +13,6 @@ This quarter was focused on key marketing campaigns, partnerships, designing gra
 I also revised the 1bot user guide and actively assisted with onboarding community members. I worked 1-on-1 with users, guiding them through the process of purchasing ONE and utilizing 1bot, while keeping them engaged in the ONE Bot Love group. Additionally, I tested competitor products like Hamster Kombat, Polymarket, and Pump.fun to contribute insights, questions, and commentary for our 2025 Roadmap.
 
 ---
-
-2024-10-03 Thu:
-
-2024-10-02 Wed: [Promotion](https://x.com/harmonyprotocol/status/1841519885190643808) of the ONE Show Episode 11. Sync with Li discussing the metrics to track for Twitter & ONE Bot. Top metrics for Twitter include: Engagement, Impressions, Replies. Top 3 for ONE Bot include: Top command, 
-
-2024-10-01 Tue: [Promotion](https://x.com/harmonyprotocol/status/1841241138659016918) of September 2024 Substack Post. Welcoming of Phillip to the team [via X](https://x.com/harmonyprotocol/status/1841235971385540782). Continuation of the [#cryptoisboring campaign](https://x.com/harmonyprotocol/status/1841234659260448921) with a thread explaining how we connect DNS to ENS.
 
 2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. [Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore](https://blog.harmony.one/p/september-2024-kings-and-quests-game?r=1zilbf&utm_campaign=post&utm_medium=web). Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character. 
 
