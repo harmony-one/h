@@ -6,12 +6,23 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 
 ---
 
+2024-10-02 Wed: Reached out to protofire again for simpleswap integration on blockscout for easy ONE onboarding. Entered Defillama discord project update to list Swap under Harmony projects. Reviewed Philipp’s initial Harmony ecosystem high-level breakdown and gave feedback.
+
+2024-10-01 Tue: Sync with Philipp for onboarding and harmony ecosystem questions.
+
+2024-09-30 Mon: Scheduled meeting with Across Protocol for bridge expansion. Added 1SY approval for Swap. Testing Solana assets path to Harmony, wrapped Solana tokens to Base, then bridged Base to Harmony.
+
+---
+
+2024-09-29 Sun: (1.0h) Coordinating up coming SimpleSwap marketing announcement.
+
+2024-09-28 Sat: (2.0h) Harmony DeFi group communication for updated liquidity on Swap and Lend. Scheduled Across meeting for Thursday.  
 
 2024-09-27 Fri: Completed troubleshooting following feedback from Protofire team. Successfully completed adding liquidity to Lend and Swap pool. Created and sent Frank updated Harmony information document for Harmony1bot. Reviewed Q3 team reports.
 
-2024-09-26 Thu: Extensive troubleshooting for multisig issues with providing liquidity to Lend, will attempt again tomorrow. Reviewed upcoming projects and next steps with Stephen.
+2024-09-26 Thu: Extensive troubleshooting for multisig issues with providing liquidity to Lend, will attempt again tomorrow. Reviewed upcoming projects and next steps with Stephen. 
 
-2024-09-25 Wed: Reached out to Across Protocol team for potential bridge expansion. Created relevant Harmony information document for Harmony1bot. 
+2024-09-25 Wed: Reached out to Across Protocol team for potential bridge expansion. Created relevant Harmony information document for Harmony1bot. Interview with DeFi ecosystem lead candidate.
 
 2024-09-24 Tue: Completed first draft of Q3 review. Outreach to Utility DAO following liquid staking launch, uONE. Rebalancing review for adding more liquidity to Swap.
 
@@ -19,7 +30,7 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 
 ---
 
-2024-09-22 Sun (2.0h): Harmony1bot testing and community feedback on bot information. Continuation of [Kings & Quests marketing](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
+2024-09-22 Sun (3.0h): Harmony1bot testing and community feedback on bot information. Continuation of [Kings & Quests marketing](https://www.notion.so/harmonyone/Kings-Quests-marketing-plan-105a38fc048780fd87fce7df5b2f9c67).
 
 2024-09-21 Sat (2.0h): Reviewed current telegram mini-apps. Insights: current applications are scattered, would benefit from focusing on a single winner for telegram, Prediction Market for example, and gain users first.
 
