@@ -6,7 +6,13 @@ I also revised the 1bot user guide and actively assisted with onboarding communi
 
 ---
 
-2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore. Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character. Continuation of the [#cryptoisboring campaign]().
+2024-10-03 Thu:
+
+2024-10-02 Wed: [Promotion](https://x.com/harmonyprotocol/status/1841519885190643808) of the ONE Show Episode 11. Sync with Li discussing the metrics to track for Twitter & ONE Bot. Top metrics for Twitter include: Engagement, Impressions, Replies. Top 3 for ONE Bot include: Top command, 
+
+2024-10-01 Tue: [Promotion](https://x.com/harmonyprotocol/status/1841241138659016918) of September 2024 Substack Post. Welcoming of Phillip to the team [via X](https://x.com/harmonyprotocol/status/1841235971385540782). Continuation of the [#cryptoisboring campaign](https://x.com/harmonyprotocol/status/1841234659260448921) with a thread explaining how we connect DNS to ENS.
+
+2024-09-30 Mon: Weekly [thread](https://x.com/harmonyprotocol/status/1840814400112115809?t=K9EXPFnktFDD1qgJFs7SnA&s=19) recap of the Harmony community on X. [Publishing of September 2024: Kings & Quests Game to Launch, Human+AI Protocol in Singapore](https://blog.harmony.one/p/september-2024-kings-and-quests-game?r=1zilbf&utm_campaign=post&utm_medium=web). Continuation of the Kings and Quests marketing promotion, [tweeted lore](https://x.com/harmonyprotocol/status/1840819870604411313) about a game character. 
 
 ---
 
