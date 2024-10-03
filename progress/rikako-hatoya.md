@@ -4,6 +4,14 @@ In Q3, my primary focus was on replicating our GMX fork, testing various Telegra
 
 I developed the front-end UI using React and JavaScript components tailored specifically for the Telegram Mini App environment, deploying it to Netlify. Key features I implemented include a leaderboard page, a social login system (YouTube subscription verification using OAuth), a reward system for watching videos from our YouTube playlist, and a referral system that incentivizes user growth by awarding points for referring new users. On the backend, I created and deployed a REST API and server on Heroku to manage user data, such as points, watched videos, and task completion, as well as retrieving user rankings. Additionally, I explored and tested various prediction market platforms, including Polymarket, Gnosis, and TON, for potential integration with the Harmony blockchain.
 
+**2024 Q3 Relevant Deliverables Links Summary**
+ - **Hod1**
+   - [Telegram Bot (@HarmonySocialBot)](https://t.me/HarmonySocialBot)
+   - [Server](https://hod1-a52bc53a961e.herokuapp.com/)
+   - [Front](https://hod1.netlify.app/)
+ - **Lottery Bot (previous ver. of Hod1)**
+   - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
+
 ---
 2024-10-02 Wed: Continued debugging Harmony CLI - openSSL error when running `make`, and continued analysis on JLP-SOL pool yield estimates with dune analytics. Started working on replicating adding bridge support for ERC20.
 
