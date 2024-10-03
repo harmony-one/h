@@ -165,7 +165,11 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 
 2024-07-26 Fri: Review of gmx progress and sync with Yuriy. [Dex screener listing form](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4) for Swap, waiting on Protofire for missing information.
 
-2024-07-15 Mon - 2024-07-25 Mon: Paid Time Off
+2024-07-25 Thu: Prepared [Dex screener listing form](https://harmonyone.notion.site/Harmony-DEX-Screener-f1c4b90832ec404a9f92fd727f12da9c?pvs=4). Sync post meeting with Alaina and breakdown of Pablo's upcoming role.
+
+2024-07 24 Wed: Prep for Alaina's meeting with Yuriy, Pablo and ThreeSigma team.
+
+2024-07-15 Mon - 2024-07-23 Tue: Paid Time Off
 
 2024-07-14 Sun: (1.0h) Refined the structure of the Harmony DeFi document, ensuring a clear progression from current state to future vision.
 
