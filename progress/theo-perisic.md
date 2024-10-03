@@ -1,4 +1,4 @@
-**2024 Q3 Review**
+**2024 Q3 Review (49 hours)**
 
 I secured Swap integration with OpenOcean, a leading DEX aggregator with $20B+ in trading volume and 1.2M+ active users. I also released a [Perpetual article](https://blog.harmony.one/p/three-sigmas-research-for-harmonys) with the ThreeSigma Team, incorporating advanced liquidity provider token mechanisms and competitive fee structures, projected to increase trading volume.
 
