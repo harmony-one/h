@@ -6,7 +6,9 @@ In parallel, I conducted research into account abstraction (ERC-4337) and evalua
 
 ---
 
-2024-10-01 Tue: Developed
+2024-10-02 Wed: Deep dived into Stackup's integration with Pimlico. Continued the token transfer process; user operation is still not work as expected. Will aim to have a solid node by 10/07 (Mon).
+
+2024-10-01 Tue: Continued the bundler node deployment process. The deployment is working as expected now with a Testnet validator connected to it, working as the node to simulate the user operations.
 
 2024-09-30 Mon: Deep dived into `EntryPoint.sol` contract. Deployed the [contract](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/core/EntryPoint.sol) in order to enable account abstraction on Testnet. 
 
