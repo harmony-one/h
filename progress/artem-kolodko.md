@@ -6,7 +6,7 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
-2024-10-02 Wed: 1market: [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits/12828faf2a53c8aee1ac007b3e51ca624c897e4f) error with buttons to control oracles state, updated the [client](https://1market-demo.netlify.app/). Completed local setup of a new Blockscout Explorer [client](https://github.com/protofire/bs-frontend).
+2024-10-02 Wed: 1market: [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits/12828faf2a53c8aee1ac007b3e51ca624c897e4f) error with oracles state buttons, updated the [client](https://1market-demo.netlify.app/). Completed local setup of a new Blockscout Explorer [client](https://github.com/protofire/bs-frontend).
 
 2024-10-01 Tue: [added](https://github.com/harmony-one/h/blob/main/docs/panoptic-v1-test.md) panoptics USDC/WETH swap script to /docs; setting up new [Explorer client](https://github.com/protofire/bs-frontend) locally, researching the client architecture
 
