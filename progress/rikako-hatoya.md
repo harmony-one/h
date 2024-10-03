@@ -11,6 +11,8 @@ I developed the front-end UI using React and JavaScript components tailored spec
 
 2024-09-30 Mon: Started working on analytics to verify return on LP. Debugging CLI setup, looked into GenAI for memecoins.
 
+---
+
 2024-09-29 Sun: Worked on setting up CLI tool for checking non-zero balance burner wallet - currently debugging some installation process (CLI client M1 chip error, debugging clone from go-sdk). Looked into alternatives of gated whale channels and possibilities of GenAI usage.
 
 2024-09-28 Sat: Further testing pump, and looked jnto links on solana token launch. Worked on adding links to Q3 summary and further refinery.
