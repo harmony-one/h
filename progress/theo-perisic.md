@@ -14,7 +14,7 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 
 ---
 
-2024-09-29 Sun: (1.0h) Coordinating up coming SimpleSwap marketing announcement.
+2024-09-29 Sun: (2.0h) Coordinating up coming SimpleSwap marketing announcement.
 
 2024-09-28 Sat: (2.0h) Harmony DeFi group communication for updated liquidity on Swap and Lend. Scheduled Across meeting for Thursday.  
 
