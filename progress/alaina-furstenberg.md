@@ -1,4 +1,4 @@
-2024-10-03 Thu: Completion of Q3 Report plus beginning the thumbnail design. Sending to team for editing.
+2024-10-03 Thu: Completion of Q3 Report plus beginning the thumbnail design. Sending to team for editing. Promotion of Kings and Quests Q&A.
 
 2024-10-02 Wed: [Promotion](https://x.com/harmonyprotocol/status/1841519885190643808) of the ONE Show Episode 11. Sync with Li discussing the metrics to track for Twitter & ONE Bot. Top metrics for Twitter include: Engagement, Impressions, Replies. Top 3 for ONE Bot include: conversion rate/churn rate (% of users who go from free credits to paid), command frequency + revenue generation (top/least used command & how much revenue it generates), & growth rate (how many users do we have & is that number growing). Writing of Q3 Report.
 
