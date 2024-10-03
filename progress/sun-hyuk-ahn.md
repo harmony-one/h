@@ -5,6 +5,7 @@ I deployed the Panoptic protocol on Harmony and developed a CLI to interact with
 In parallel, I conducted research into account abstraction (ERC-4337) and evaluated multiple bundler implementations, including Eth-finitism, Stackup, Alto, Rulder, and Voltaire. After comparison, I selected Stackup's Golang implementation as the most stable, given its full compliance with the compatibility test suite—a criterion many other bundlers fail to meet. I successfully deployed a bundler that supports ERC-4337 account abstraction, fully configured for Harmony nodes. This work will continue into Q4, with plans to deploy paymasters and integrate EIP-3074 for sponsored transactions and account delegations, paving the way for the launch of smart wallets, including Base and Timeless wallets.
 
 ---
+2024-10-03 Thu:
 
 2024-10-02 Wed: Deep dived into Stackup's integration with Pimlico. Continued the token transfer process; user operation is still not work as expected. Will aim to have a solid node by 10/07 (Mon).
 
