@@ -1,4 +1,6 @@
-2024-10-02 Thu (3.1h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value 
+2024-10-02 Fri (2.3): Review 1market second iteration and provide feedback. Pano: implement margin related functionalities
+
+2024-10-02 Thu (4.2h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value and premium related functionalities
 
 2024-10-01 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues 
 
