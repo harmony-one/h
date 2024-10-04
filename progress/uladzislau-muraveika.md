@@ -1,8 +1,18 @@
+2024-10-04 Fri: Main focus of this week was preparation for the HIP32 release.
+
+On the protocol side, I've highlight that new implementation of the `getLastSigningPower` should be available thought the public API and not a debug one, because it can be accessible by any node/user in the network, [PR-4766](https://github.com/harmony-one/harmony/pull/4766)
+
+On the testing for the [PR-4756](https://github.com/harmony-one/harmony/pull/4756#issuecomment-2388815092), I've checked that nodes in the shard1 can be synced from 0 and checked that the network will still produce blocks with the mix of nodes with fix and without it.
+
+Additionally, I've shared with the community the backup nodes list and started communication about the backup node removal.
+
+---
+
 2024-09-27 Fri: On the protocol side, I've added an easy way to spin up localnet with the Legacy sync via flag and implicitly made a Stream sync a default one, this will allow engineers to quickly switch between them to check how protocol works - [PR-4761](https://github.com/harmony-one/harmony/pull/4761).
 
-Additionally, I've fixed the corner case in the localnet watchdog deployment, previously it couldn't render UI, which can be quite confusing, now it showing proper state for the pre-staking epochs.
+Additionally, I've fixed the corner case in the localnet watchdog deployment, previously it couldn't render UI, which can be quite confusing, now it shows proper state for the pre-staking epochs.
 
-On the ops side, I've renew SSL certs and Nginx version to the latest one; updated devnet to the latest dev branch version.
+On the ops side, I've renewed SSL certs and Nginx version to the latest one; updated devnet to the latest dev branch version.
 
 ---
 
