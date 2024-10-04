@@ -13,6 +13,8 @@ I developed the front-end UI using React and JavaScript components tailored spec
    - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
 
 ---
+2024-10-03 Thu: Further debugging of CLI (/go-SDK) - linking errors with GMP and libmclshe384.dylib. Also continued with Whirlpool analysis - liquidity and fees seem to be readily available but need to look for historical price data for token prices.
+
 2024-10-02 Wed: Continued debugging Harmony CLI - openSSL error when running `make`, and continued analysis on JLP-SOL pool yield estimates with dune analytics. Started working on replicating adding bridge support for ERC20.
 
 2024-10-01 Tue: Worked on approximating APR yield for LP pairs on Orca Whirlpool by looking into Orca docs and creating queries in Dune analytics. Found some useful tables such as `whirlpool_solana` and `orca_whirlpool.trades`, currently working on calculating percentage yield including liquidity provided for time more than 24 hours ago (`whirlpool_solana.whirlpool_call_increaseLiquidity`).
