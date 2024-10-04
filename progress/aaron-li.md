@@ -1,4 +1,4 @@
-2024-10-02 Fri (2.3): Review 1market second iteration and provide feedback. Pano: implement margin related functionalities
+2024-10-02 Fri (2.3h): Review 1market second iteration and provide feedback. Pano: implement margin related functionalities
 
 2024-10-02 Thu (4.2h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value and premium related functionalities
 
