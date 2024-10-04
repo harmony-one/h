@@ -1,4 +1,8 @@
-2024-10-01 Tue (0.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers
+2024-10-02 Thu (3.1h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value 
+
+2024-10-01 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues 
+
+2024-10-01 Tue (5.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers. Review, analyze, discuss progress, code commits, and quaterly updates
 
 2024-09-30 Mon (7.5h): Pano: profit and loss implementation and debugging. Debug signing keys for Ledger app. Quick doc review on Orca, Wormhole, Jupiter bridge, Graph cloud hosting, Uniswap subgraph
 
