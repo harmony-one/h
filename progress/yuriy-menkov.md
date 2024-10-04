@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-03 Thu: Developed wrapper contracts for Oft and OftAdapter lz version 2 (those send and quota methods require the formation of structures). Redeployed the contracts - testing sending between chains. Still have errors on sending - synchronizing with the layerzero team to solve the problem. 
+
+2024-10-02 Wed: Added [doc](https://github.com/harmony-one/h/blob/main/docs/bridge-add-token.md) with step-by-step description of adding a new token to the bridge (deploying 3 contracts and configs for front, back repositories). Added [lz-solana-sdk-v2](https://www.npmjs.com/package/@layerzerolabs/lz-solana-sdk-v2) and [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/) libs to bridge client to interact with OFTAdapter on Solana side. Continue configuring and testing lz v2 bridging.
+
 2024-10-01 Tue: During testing, OFT proxy on Solana received several problems related to setting the recipient's application address and receiving messages on the Harmony side. Synchronized with the layerzaero team on this issue - The Endpoint V1 and V2 contracts are backwards compatible but need to hang the OFT Program to support EPV1 OFT's message encoding. Worked on updating the recipient's contract.
 
 2024-09-30 Mon: Added support for Moo Deng token to harmony bridge. Deployed [programs](https://github.com/LayerZero-Labs/example-oft) for solana layerzero OFT token. Working on client side scripts (based on solana web3) to call programs methods and token transfers.
