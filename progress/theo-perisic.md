@@ -1,11 +1,3 @@
-**2024 Q3 Review (49 hours)**
-
-I secured Swap integration with OpenOcean, a leading DEX aggregator with $20B+ in trading volume and 1.2M+ active users. I also released a [Perpetual article](https://blog.harmony.one/p/three-sigmas-research-for-harmonys) with the ThreeSigma Team, incorporating advanced liquidity provider token mechanisms and competitive fee structures, projected to increase trading volume.
-
-I completed comprehensive ecosystem reports to major exchanges, showcasing 45 unique applications built on Harmony. Additionally, I created a dedicated Harmony DeFi group to streamline ecosystem liquidity, project promotion, and user experience. I also prepared for Recovery Multisig Custodian (RMC) elections, creating a [year-in-review](https://harmonyone.notion.site/Recovery-Multisig-Custodians-RMC-fae72d9bbb214620a46bc51578c44591) document with elections planned for Q4, while coordinating the resolution of .country domain issues, resolving the Colossus bug bounty reward, and integrating SimpleSwap to allow seamless cross chain navigation to Harmony with a 0.4% minimum fee collection.
-
----
-
 2024-10-03 Thu: Meeting with Across for potential bridge expansion. Secured [Swap listing on Defillama](https://defillama.com/protocol/swap-country#information). Coordination with Alaina to resolve Harmony telegram issues.
 
 2024-10-02 Wed: Reached out to protofire again for simpleswap integration on blockscout for easy ONE onboarding. Entered Defillama discord project update to list Swap under Harmony projects. Reviewed Philipp’s initial Harmony ecosystem high-level breakdown and gave feedback.
@@ -13,6 +5,14 @@ I completed comprehensive ecosystem reports to major exchanges, showcasing 45 un
 2024-10-01 Tue: Sync with Philipp for onboarding and harmony ecosystem questions.
 
 2024-09-30 Mon: Scheduled meeting with Across Protocol for bridge expansion. Added 1SY approval for Swap. Testing Solana assets path to Harmony, wrapped Solana tokens to Base, then bridged Base to Harmony.
+
+---
+
+**2024 Q3 Review (49 hours)**
+
+I secured Swap integration with OpenOcean, a leading DEX aggregator with $20B+ in trading volume and 1.2M+ active users. I also released a [Perpetual article](https://blog.harmony.one/p/three-sigmas-research-for-harmonys) with the ThreeSigma Team, incorporating advanced liquidity provider token mechanisms and competitive fee structures, projected to increase trading volume.
+
+I completed comprehensive ecosystem reports to major exchanges, showcasing 45 unique applications built on Harmony. Additionally, I created a dedicated Harmony DeFi group to streamline ecosystem liquidity, project promotion, and user experience. I also prepared for Recovery Multisig Custodian (RMC) elections, creating a [year-in-review](https://harmonyone.notion.site/Recovery-Multisig-Custodians-RMC-fae72d9bbb214620a46bc51578c44591) document with elections planned for Q4, while coordinating the resolution of .country domain issues, resolving the Colossus bug bounty reward, and integrating SimpleSwap to allow seamless cross chain navigation to Harmony with a 0.4% minimum fee collection.
 
 ---
 
