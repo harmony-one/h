@@ -1,3 +1,9 @@
+2024-10-04 Fri: This week, I refined the total supply script after discussions regarding how bridge-locked or wrapped of ONE Token are handled. I also fixed a bug that caused certain blocks to be skipped during indexing. Additionally, staked ONE tokens are now included in the calculation. The script is running again, although it’s taking longer to complete due to these updates.
+
+I also spent time reviewing and testing PRs aimed at progressing toward the HIP32 release. As a result, we've adjusted the planned HIP32 release date to October 31st, set to occur at epoch 2152 at 13:02 UTC.
+
+---
+
 Q3 Review:
 
 During Q3, my work primarily focused on addressing critical technical issues and preparing key protocol upgrades for Harmony. A major part of my efforts revolved around the HIP32 leader rotation feature, which was deployed on both devnet and testnet but surfaced issues when tested with external validators. This led to a significant shift in focus towards troubleshooting, reviewing, and testing multiple pull requests to replicate the instability, alongside improving internal logging and monitoring for better issue detection. The challenges encountered pushed back the HIP32 hard fork timeline, with the release now tentatively scheduled for mid-October.
@@ -5,7 +11,7 @@ During Q3, my work primarily focused on addressing critical technical issues and
 Additionally, I managed several releases, including the [mainnet stable v2024.2.0](https://github.com/harmony-one/harmony/releases/tag/v2024.2.0), which introduced P2P improvements and the Go 1.22.5 update. I played a pivotal role in troubleshooting node issues during deployment and ensuring the stability of our localnet with external validators. Beyond technical work, I collaborated with the team to outline objectives for upcoming quarters and supported key community engagements, including facilitating the reopening of BEP2 ONE deposits with Binance and assisting users with staking and node operation issues.
 
 ---
-2024-07-27 Fri:
+2024-09-27 Fri:
 The Harmony Ledger app has been an ongoing topic of discussion internally, as work is required to ensure the app becomes available on Ledger Live. This week, Ledger reached out to me with a deadline for its removal unless code refactoring, testing, and auditing are completed by December 31st. While users can still access their wallets through Metamask and Harmony's EVM equivalence, the primary remaining challenge is addressing the legacy HD derivation path. I am considering developing a Metamask snap to resolve this. We've expedited internal discussions to finalize our approach moving forward.
 
 On the technical side, two key pull requests — [Vote Power](https://github.com/harmony-one/harmony/pull/4748) and [Epoch Block Broadcast](https://github.com/harmony-one/harmony/pull/4756) — were fully reviewed, tested, and merged. The Epoch Block broadcast demonstrated promising results, with significantly improved stability on the localnet with external validators. We plan to test this further on the devnet for a week, after which we should have a clearer timeline for the upcoming HIP32 release. 
