@@ -1,3 +1,12 @@
+2024-10-05 Sat: 
+Over the past week, I continued working on **issue #4789**, which involves addressing stream disconnectivities. A series of tests were conducted to identify the root cause, and several improvements were implemented across key areas which are mentioned on my last week update. Despite the efforts, the issue persisted. I decided to revert recent commits one by one to trace the problem and eventually identified that the update on **P2P Host's Muxers** was the root cause. This led to the creation of [PR #4764](https://github.com/harmony-one/harmony/pull/4764), which removes the use of the **mplex muxer** for localnet and configures it to exclusively use the **Yamux muxer**. This adjustment resolved stream disconnectivity issues in the localnet.
+
+During the tests, I also discovered an issue related to the retrieval of **non-existent crosslinks**. This prompted [PR #4765](https://github.com/harmony-one/harmony/pull/4765), which introduces a validation check for the **Crosslink Epoch** before attempting retrieval, effectively preventing errors from attempting to access non-existent crosslinks.
+
+I am also actively working on [PR #4762](https://github.com/harmony-one/harmony/pull/4762), which focuses on enhancing and refactoring the **P2P stream layer**. Although the changes have been promising, there is still an outstanding issue causing **slowness in Shard 1 block production**, which will be my main focus in the upcoming week.
+
+---
+
 **Q3 Summary – 2024**
 
 This quarter, I worked on a wide range of tasks, from boot node functionality to fixing issues and enhancements. At the start of Q3, we successfully addressed some of the most pressing issues with boot nodes, stabilizing them after dealing with recurring connectivity problems. This early success set the stage for further improvements throughout the quarter. One of the major accomplishments was **PR #4735**, where I introduced an **RPC server for boot nodes**. This was a huge change, bringing significant improvements to our ability to monitor boot nodes. Previously, boot nodes had no way to expose metadata or provide visibility into connected peers, making it difficult to diagnose and optimize their performance. By adding several new APIs, we now have much better tracking and debugging capabilities for boot nodes. Additionally, I refactored the codebase to separate boot node from Harmony node, making the system more modular and maintainable.
