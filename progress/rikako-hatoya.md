@@ -13,6 +13,8 @@ I developed the front-end UI using React and JavaScript components tailored spec
    - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
 
 ---
+2024-10-04 Fri: Further worked on replicating `bridge-add-token`. [Deployed](https://explorer.harmony.one/address/one1x3hkg2ypexv567z76aahr675a93zk7pxcg038h) wrapper contract on Shard 1 and continued with CLI debugging.
+
 2024-10-03 Thu: Further debugging of CLI (/go-SDK) - linking errors with GMP and libmclshe384.dylib. Also continued with Whirlpool analysis - liquidity and fees seem to be readily available but need to look for historical price data for token prices.
 
 2024-10-02 Wed: Continued debugging Harmony CLI - openSSL error when running `make`, and continued analysis on JLP-SOL pool yield estimates with dune analytics. Started working on replicating adding bridge support for ERC20.
