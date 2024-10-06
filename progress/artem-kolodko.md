@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-04 Fri: continue on [1market review](https://hackmd.io/@polymorpher/note-1market-demo) fixes: updated bignumber.js library, [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits/9ffbf9debbbb081c4a09653dcbe2084eda0a8a93) bug with tokens amount. Started migration from outdated web3connect to wagmi / wallet connect stack.
+
 2024-10-03 Thu: [launched](https://1m.country/) new test market on 1Market demo; started working on fixes following [1Market review](https://hackmd.io/@polymorpher/note-1market-demo) from Aaron.
 
 2024-10-02 Wed: 1market: [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits/12828faf2a53c8aee1ac007b3e51ca624c897e4f) error with oracles state buttons, updated the [client](https://1market-demo.netlify.app/). Completed local setup of a new Blockscout Explorer [client](https://github.com/protofire/bs-frontend).
