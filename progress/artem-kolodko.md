@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-07 Mon: 1market: [fixed](https://hackmd.io/@polymorpher/note-1market-demo) 5 bugs from the list, sent details to Aaron and deployed [client](https://1market-demo.netlify.app/) update. Researched and localized bug in 1bot /stats command, which is related to old Explorer API. Checked new Explorer endpoints, started working on 1bot requests fix.
+
+---
+
 2024-10-04 Fri: continue on [1market review](https://hackmd.io/@polymorpher/note-1market-demo) fixes: updated bignumber.js library, [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits/9ffbf9debbbb081c4a09653dcbe2084eda0a8a93) bug with tokens amount. Started migration from outdated web3connect to wagmi / wallet connect stack.
 
 2024-10-03 Thu: [launched](https://1m.country/) new test market on 1Market demo; started working on fixes following [1Market review](https://hackmd.io/@polymorpher/note-1market-demo) from Aaron.
