@@ -13,7 +13,9 @@ I developed the front-end UI using React and JavaScript components tailored spec
    - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
 
 ---
-2024-10-05 Sat: Finished replicating `bridge-add-token`, deployed contracts here: [HRC20Wrapper](https://explorer.harmony.one/address/one1x3hkg2ypexv567z76aahr675a93zk7pxcg038h), [HRC20Proxy](https://explorer.harmony.one/address/one1r7kdtkkffe7hrk8f8z965jd9au4k0g9ajtmunm), [ERC20Proxy](https://explorer.harmony.one/address/one1u6x37xntakhdj23rhgysanavggkw6vnyyqd23y?shard=0). Continued debugging bls error.
+2024-10-06 Sun (2.0h): Looked into hawksight/orca reddit for information on datasets for JLP-SOL pool. Further continued debugging CLI bls issue.
+
+2024-10-05 Sat (5.0h): Finished replicating `bridge-add-token`, deployed contracts here: [HRC20Wrapper](https://explorer.harmony.one/address/one1x3hkg2ypexv567z76aahr675a93zk7pxcg038h), [HRC20Proxy](https://explorer.harmony.one/address/one1r7kdtkkffe7hrk8f8z965jd9au4k0g9ajtmunm), [ERC20Proxy](https://explorer.harmony.one/address/one1u6x37xntakhdj23rhgysanavggkw6vnyyqd23y?shard=0). Continued debugging bls error.
 
 2024-10-04 Fri: Further worked on replicating `bridge-add-token`. [Deployed](https://explorer.harmony.one/address/one1x3hkg2ypexv567z76aahr675a93zk7pxcg038h) wrapper contract on Shard 1 and continued with CLI debugging.
 
