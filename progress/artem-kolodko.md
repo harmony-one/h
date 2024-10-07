@@ -6,7 +6,7 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
-2024-10-07 Mon: 1market: [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits) 5 bugs from the Aaron's [review](https://hackmd.io/@polymorpher/note-1market-demo), sent details to Aaron and deployed [client](https://1market-demo.netlify.app/) update. Researched and localized bug in 1bot /stats command, which is related to old Explorer API. Checked new Explorer endpoints, started working on 1bot requests fix.
+2024-10-07 Mon: 1market: [fixed](https://github.com/harmony-one/1market-demo/pull/1/commits) 5 bugs from the Aaron's [review](https://hackmd.io/@polymorpher/note-1market-demo), sent details to Aaron and deployed [client](https://1market-demo.netlify.app/) update. Found and localized bug in 1bot /stats command, which is related to the old Explorer API. Checked new Explorer endpoints, started working on 1bot requests fix.
 
 ---
 
