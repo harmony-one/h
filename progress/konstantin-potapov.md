@@ -1,3 +1,9 @@
+2024-10-04 Fri:
+- Resolved conflicts between the latest development branch and the 1-second-finality feature.
+- Reviewed a PR from the community regarding slice initialization. The issue arises from mixing different initialization methods, which can lead to undefined behavior. Fortunately, this seems to occur in unused or dead code.
+- Updated configurations for the HIP-32 update, including the epoch fork and chain configuration. 
+
+
 **2024 Q3 Review**
 
 Added the `effectiveGasPrice` [field](https://github.com/harmony-one/harmony/pull/4759) to the `getTransactionReceipt` method to maintain compatibility with Ethereum. Completed the implementation of 1-second block [finality](https://github.com/harmony-one/harmony/pull/4738), significantly improving transaction confirmation speeds. [Finalized](https://github.com/harmony-one/harmony/pull/4738) a new commission split mechanism to support 1-second finality and a 67% vote power threshold.
