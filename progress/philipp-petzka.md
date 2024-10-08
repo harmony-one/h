@@ -1,3 +1,9 @@
+2024-10-07: Lending market research, Outline tokenomics, Outline product description
+
+
+
+
+
 Welcome Philipp!
 
 https://medium.com/@philipp.petzka
