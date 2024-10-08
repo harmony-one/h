@@ -1,4 +1,4 @@
-2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony. 
+2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony. SimpleSwap integration for Explorer, Lend, Swap.
 
 2024-10-07 Mon: Further dive into potential innovations to pull from pump.fun. Kings & Quest launch.  
 
