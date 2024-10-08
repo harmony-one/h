@@ -1,4 +1,6 @@
+2024-10-07 Mon: Attempting to connect all the components in localnet. Running into a problema when deploying `EntryPoint.sol` as it uses deterministic deployment proxy. During the process, a single use address is used to create the same deployer address and the transaction needs to be replayed. However, Harmony is enforcing [EIP-155](https://eips.ethereum.org/EIPS/eip-155) (simply replay attack protection) thus the deployment is not working as expected. Looking at Gnosis Safe's example as they have a workaround to bypass this; once understood, will make an update in the deployment process.
 
+---
 **2024 Q3 Review (126 hours)**
 
 I deployed the Panoptic protocol on Harmony and developed a CLI to interact with the associated smart contracts. This CLI leverages Solidity scripts to deploy Panoptic pools and manage position minting and burning. It also supports the deployment of Uniswap V3 pools, which serve as the liquidity provider for the Panoptic pools. Additionally, I implemented a Panoptic subgraph using The Graph protocol to track positions created through Panoptic contracts. The subgraph monitors minted, burned, and rolled positions, while also keeping a record of liquidations and force-exercised positions to ensure comprehensive tracking of all position-related activities.
