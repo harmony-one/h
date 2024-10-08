@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-07 Mon: Completed and [published](https://github.com/harmony-one/hmy-bridge-cli) the harmony bridge cli for transferring tokens to Harmony from EVM based chains (eth, binance, base, linea, arb). Shared instructions for use with Theo. Synced with Li and team about next goals (bridge multi tokens contract, solana support).
+
+---
+
+2024-10-04 Fri: Developed the structure and set of commands for harmony bridge cli. Moved sdk support for the current bridge there. I'm working on implementing support for direct transfers SOL to ONE with lz-solana-sdk-v2 and solana keys.
+
 2024-10-03 Thu: Developed wrapper contracts for Oft and OftAdapter lz version 2 (those send and quota methods require the formation of structures). Redeployed the contracts - testing sending between chains. Still have errors on sending - synchronizing with the layerzero team to solve the problem. 
 
 2024-10-02 Wed: Added [doc](https://github.com/harmony-one/h/blob/main/docs/bridge-add-token.md) with step-by-step description of adding a new token to the bridge (deploying 3 contracts and configs for front, back repositories). Added [lz-solana-sdk-v2](https://www.npmjs.com/package/@layerzerolabs/lz-solana-sdk-v2) and [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/) libs to bridge client to interact with OFTAdapter on Solana side. Continue configuring and testing lz v2 bridging.
