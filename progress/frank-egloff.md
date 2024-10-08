@@ -1,3 +1,8 @@
+2024-10-07 Mon: Resolved dalle command issues on Harmony1Bot and deployed hotfix. Implemented error handling for luma model in harmony-llms-api, optimized luma video generation process, and adjusted wait time to 45s. Analyzed 1Bot stats command showing NaN or zero values for swap trading volume, network fees weekly, and wallets count weekly; need to consult with Artem regarding outdated endpoints. Provided support for 1.country "buy" domain issues. 
+
+---
+2024-10-04 Fri: Completed video gen logic on Harmony1Bot and harmony-llms-api backend. Refinement needed: error handling, post-download cleanup, exploring video configs (loop, size), updating queue info for accurate wait time (>30s), finalizing pricing structure. Awaiting harmony1Bot and harmony0Bot API keys for mainnet deployment (currently on test bot).
+
 2024-10-03 Thu: Developed [Luma backend endpoints](https://github.com/harmony-one/harmony-llm-api/pull/23) on harmony-llm-api for video generation management. Integrated Telegram messaging to user's chatId with inline keyboard functionality. Implemented API for tracking generation counts across statuses (complete, fail, dreaming) and added deletion capability for post-download cleanup. Engineered LumaBot module to handle Luma's command logic and callback queries. Tackling video download functionality, addressing ongoing technical challenges.
 
 2024-10-02 Wed: Developing luma endpoint for harmony-llm-api and implementing lumaBot integration for Harmony1Bot. Exploring asynchronous video generation workflow: backend to dispatch message with download link (featuring in-line keyboard button) to user's chat upon completion, eliminating polling overhead. 
