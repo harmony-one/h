@@ -1,3 +1,13 @@
+2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony. 
+
+2024-10-07 Mon: Further dive into potential innovations to pull from pump.fun. Kings & Quest launch.  
+
+2024-10-06 Sun (2.0): Reviewed pump.fun marketing & growth strategy before their product launch.
+
+2024-10-05 Sat (1.0h): Communications with Kings & Quests prior to launch, further discussions with Soph.
+
+2024-10-04 Fri: Attempted end to end from Solana assets wrapped to Base and then bridged to Harmony, scheduled call with Yuriy for adding custom bridge tokens as docs were not enough. Researched telegram bots to fix main channel.
+
 2024-10-03 Thu: Meeting with Across for potential bridge expansion. Secured [Swap listing on Defillama](https://defillama.com/protocol/swap-country#information). Coordination with Alaina to resolve Harmony telegram issues.
 
 2024-10-02 Wed: Reached out to protofire again for simpleswap integration on blockscout for easy ONE onboarding. Entered Defillama discord project update to list Swap under Harmony projects. Reviewed Philipp’s initial Harmony ecosystem high-level breakdown and gave feedback.
