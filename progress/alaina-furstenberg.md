@@ -2,7 +2,7 @@
 
 2024-10-08 Tue: Sync with Frank, Li, and Rika on ONE Bot data collection. [Promotion](https://x.com/harmonyprotocol/status/1843720292478435605) and testing of HeyEddie along with the final publication of the [Q3 Report](https://blog.harmony.one/p/2024-q3-ai-memes-1-second-finality) and posting a [thread to X](https://x.com/harmonyprotocol/status/1843867355337896002).
 
-2024-10-07 Mon: Continued edits to the Q3 Report. Beginning of 4 icons for nanos_, nanox_, flex_, stax_ on developers.ledger.com Syncing with the Kings and Quests team on launch, they've hired new developers
+2024-10-07 Mon: Continued edits to the Q3 Report. Beginning of 4 icons for nanos_, nanox_, flex_, stax_ on developers.ledger.com. Syncing with the Kings and Quests team on launch, they've hired new developers and will deploy to Testnet Thursday and Mainnet Friday.
 
 ---
 
