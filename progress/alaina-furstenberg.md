@@ -1,3 +1,15 @@
+2024-10-08 Tue: Sync with Frank, Li, and Rika on ONE Bot data collection. [Promotion](https://x.com/harmonyprotocol/status/1843720292478435605) and testing of HeyEddie along with the final publication of the [Q3 Report](https://blog.harmony.one/p/2024-q3-ai-memes-1-second-finality) and posting a [thread to X](https://x.com/harmonyprotocol/status/1843867355337896002).
+
+2024-10-07 Mon: Continued edits to the Q3 Report. Beginning of 4 icons for nanos_, nanox_, flex_, stax_ on developers.ledger.com Syncing with the Kings and Quests team on launch, they've hired new developers
+
+---
+
+2024-10-06 Sun: [Tweet](https://x.com/harmonyprotocol/status/1843150776241369101) promotion Kings and Quests launch on Monday.
+
+2024-10-05 Sat: Weekly community recap [thread](https://x.com/harmonyprotocol/status/1842596862488117443).
+
+2024-10-04 Fri: Update of the harmony.one [community section](https://x.com/harmonyprotocol/status/1842596862488117443). Continuation of the Q3 Report and ONE Bot data tracking.
+
 2024-10-03 Thu: Completion of Q3 Report plus beginning the thumbnail design. Sending to team for editing. Promotion of Kings and Quests Q&A.
 
 2024-10-02 Wed: [Promotion](https://x.com/harmonyprotocol/status/1841519885190643808) of the ONE Show Episode 11. Sync with Li discussing the metrics to track for Twitter & ONE Bot. Top metrics for Twitter include: Engagement, Impressions, Replies. Top 3 for ONE Bot include: conversion rate/churn rate (% of users who go from free credits to paid), command frequency + revenue generation (top/least used command & how much revenue it generates), & growth rate (how many users do we have & is that number growing). Writing of Q3 Report.
