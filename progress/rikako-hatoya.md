@@ -1,4 +1,4 @@
-2024-10-08 Tue: Tested/looked into account balance issue using Harmony binary client with mnemonic, and also documented CLI issues for docs. Started looking into viem wallet client.
+2024-10-08 Tue: Tested/looked into account balance issue using Harmony binary client with mnemonic, and also documented CLI issues for docs improvement. Started looking into viem wallet client.
 
 2024-10-07 Mon: Finished debugging CLI/go-sdk issues thank you to the help of Aaron, imported wallet from mnemonic and verified balance was working for mainnet. Created [query+dashboard on Dune](https://dune.com/rikaharmony/orca-est-yields
 ) for analytics on estimated 24 hr yield for Whalepool Orca for past 24 hours, created query for past 30 days/365 days but query takes too long to sift through dataset, looking into alternative methods.
