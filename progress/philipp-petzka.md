@@ -1,3 +1,5 @@
+2024-10-08: Lending market tokenomics design, farming DD, research
+
 2024-10-07: Lending market research, Outline tokenomics, Outline product description
 
 
