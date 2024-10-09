@@ -20,7 +20,7 @@
 
 ---
 
-**Q3 Review Draft:**
+**Q3 Summary (52 hours):**
 
 In Q3, my primary focus was on replicating our GMX fork, testing various Telegram Mini Apps and prediction markets, and most notably, developing the Hod1 Telegram Bot. The initial phase of Hod1 involved building a Telegram bot for lottery trains by implementing smart contracts and designing the user interface on Telegram. Over time, I transitioned the Hod1 app from a chat-based interface to a full-fledged Telegram Mini App, replacing the lottery trains with an incentivized reward-based system.
 
