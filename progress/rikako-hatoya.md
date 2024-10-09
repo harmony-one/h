@@ -1,18 +1,4 @@
-**Q3 Review Draft:**
-
-In Q3, my primary focus was on replicating our GMX fork, testing various Telegram Mini Apps and prediction markets, and most notably, developing the Hod1 Telegram Bot. The initial phase of Hod1 involved building a Telegram bot for lottery trains by implementing smart contracts and designing the user interface on Telegram. Over time, I transitioned the Hod1 app from a chat-based interface to a full-fledged Telegram Mini App, replacing the lottery trains with an incentivized reward-based system.
-
-I developed the front-end UI using React and JavaScript components tailored specifically for the Telegram Mini App environment, deploying it to Netlify. Key features I implemented include a leaderboard page, a social login system (YouTube subscription verification using OAuth), a reward system for watching videos from our YouTube playlist, and a referral system that incentivizes user growth by awarding points for referring new users. On the backend, I created and deployed a REST API and server on Heroku to manage user data, such as points, watched videos, and task completion, as well as retrieving user rankings. Additionally, I explored and tested various prediction market platforms, including Polymarket, Gnosis, and TON, for potential integration with the Harmony blockchain.
-
-**2024 Q3 Relevant Deliverables Links Summary**
- - **Hod1**
-   - [Telegram Bot (@HarmonySocialBot)](https://t.me/HarmonySocialBot)
-   - [Server](https://hod1-a52bc53a961e.herokuapp.com/)
-   - [Front](https://hod1.netlify.app/)
- - **Lottery Bot (previous ver. of Hod1)**
-   - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
-
----
+2024-10-08 Tue: Tested/looked into account balance issue using Harmony binary client with mnemonic, and also documented CLI issues for docs. Started looking into viem wallet client.
 
 2024-10-07 Mon: Finished debugging CLI/go-sdk issues thank you to the help of Aaron, imported wallet from mnemonic and verified balance was working for mainnet. Created [query+dashboard on Dune](https://dune.com/rikaharmony/orca-est-yields
 ) for analytics on estimated 24 hr yield for Whalepool Orca for past 24 hours, created query for past 30 days/365 days but query takes too long to sift through dataset, looking into alternative methods.
@@ -31,6 +17,22 @@ I developed the front-end UI using React and JavaScript components tailored spec
 2024-10-01 Tue: Worked on approximating APR yield for LP pairs on Orca Whirlpool by looking into Orca docs and creating queries in Dune analytics. Found some useful tables such as `whirlpool_solana` and `orca_whirlpool.trades`, currently working on calculating percentage yield including liquidity provided for time more than 24 hours ago (`whirlpool_solana.whirlpool_call_increaseLiquidity`).
 
 2024-09-30 Mon: Started working on analytics to verify return on LP. Debugging CLI setup, looked into GenAI for memecoins.
+
+---
+
+**Q3 Review Draft:**
+
+In Q3, my primary focus was on replicating our GMX fork, testing various Telegram Mini Apps and prediction markets, and most notably, developing the Hod1 Telegram Bot. The initial phase of Hod1 involved building a Telegram bot for lottery trains by implementing smart contracts and designing the user interface on Telegram. Over time, I transitioned the Hod1 app from a chat-based interface to a full-fledged Telegram Mini App, replacing the lottery trains with an incentivized reward-based system.
+
+I developed the front-end UI using React and JavaScript components tailored specifically for the Telegram Mini App environment, deploying it to Netlify. Key features I implemented include a leaderboard page, a social login system (YouTube subscription verification using OAuth), a reward system for watching videos from our YouTube playlist, and a referral system that incentivizes user growth by awarding points for referring new users. On the backend, I created and deployed a REST API and server on Heroku to manage user data, such as points, watched videos, and task completion, as well as retrieving user rankings. Additionally, I explored and tested various prediction market platforms, including Polymarket, Gnosis, and TON, for potential integration with the Harmony blockchain.
+
+**2024 Q3 Relevant Deliverables Links Summary**
+ - **Hod1**
+   - [Telegram Bot (@HarmonySocialBot)](https://t.me/HarmonySocialBot)
+   - [Server](https://hod1-a52bc53a961e.herokuapp.com/)
+   - [Front](https://hod1.netlify.app/)
+ - **Lottery Bot (previous ver. of Hod1)**
+   - [Github Pages](https://rika97.github.io/HarmonyLotteryWebsite/)
 
 ---
 
