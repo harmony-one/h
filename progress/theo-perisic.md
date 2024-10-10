@@ -1,6 +1,10 @@
-2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony, successfully bridged base USDC to harmony in a single command. SimpleSwap integration for Explorer, Lend, Swap.
+2024-10-09 Wed: Coordination with some of the Recovery Custodians (RMC) about Modulo and Recovery1 allocations. Ecosystem and project discussions with Li. Get ONE staging for explorer complete for simpleswap.
+
+2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony, successfully bridged base USDC to harmony in a single command. 
 
 2024-10-07 Mon: Further dive into potential innovations to pull from pump.fun. Kings & Quest launch.  
+
+---
 
 2024-10-06 Sun (2.0): Reviewed pump.fun marketing & growth strategy before their product launch.
 
