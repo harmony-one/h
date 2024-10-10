@@ -1,3 +1,5 @@
+2024-10-09 Wed: Tested mnemonic, tried replicating the previous issues and investigated where the `make` bugs on harmony CLI were coming from (main branch now seems to be working without any issue), and team sync. Deployed [contract](https://explorer.harmony.one/address/one1ae7s4q5wrwwmcxwnx2mkvuu8trkwjtmvvtl0y6?shard=0)  (MyContract.sol from OpenZeppelin tutorial) on mainnet using Foundry), worked on debugging `eth_feeHistory` issue when casting.
+
 2024-10-08 Tue: Tested/looked into account balance issue using Harmony binary client with mnemonic, and also documented previous CLI issues for docs improvement. Started looking into viem wallet client.
 
 2024-10-07 Mon: Finished debugging CLI/go-sdk issues thank you to the help of Aaron, imported wallet from mnemonic and verified balance was working for mainnet. Created [query+dashboard on Dune](https://dune.com/rikaharmony/orca-est-yields
