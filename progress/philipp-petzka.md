@@ -1,3 +1,7 @@
+2024-10-10: prioritizing, further due diligence on selected yield opportunities
+
+2024-10-09: Identification of Yield opportunities for treasury income
+
 2024-10-08: Lending market tokenomics design, farming DD, research
 
 2024-10-07: Lending market research, Outline tokenomics, Outline product description
