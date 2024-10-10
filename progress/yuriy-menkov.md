@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-09 Wed: I explored the possibility of reusing layerzero oft adapter v2 on the solana side for different tokens - to simplify adding new tokens and save deployment costs. Created and testing new solana version.
+
+2024-10-08 Tue: Tested and fixed errors in harmony bridge cli. Added new features - such as loading a wallet from the command line, on request and with an aws file. [Published](https://www.npmjs.com/package/hmy-bridge-cli) latest version to npm. 
+
 2024-10-07 Mon: Completed and [published](https://github.com/harmony-one/hmy-bridge-cli) the harmony bridge cli for transferring tokens to Harmony from EVM based chains (eth, binance, base, linea, arb). Shared instructions for use with Theo. Synced with Li and team about next goals (bridge multi tokens contract, solana support).
 
 ---
