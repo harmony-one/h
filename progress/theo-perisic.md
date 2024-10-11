@@ -1,3 +1,5 @@
+2024-10-10 Thu: Product testing for Pump.fun clones. Tested: [Pump.fun](https://pump.fun/), [Snek.fun](https://www.snek.fun/), [dx.fun](https://www.dx.fun/). Insights: all follow same UI of frequent updates and moving parts. Dx offers a unique pre-buy percentage 0-5% on token creation. 
+
 2024-10-09 Wed: Coordination with some of the Recovery Custodians (RMC) about Modulo and Recovery1 allocations. Ecosystem and project discussions with Li. Get ONE staging for explorer complete for simpleswap.
 
 2024-10-08 Tue: 1bot help for Frank. Testing CLI bridge base to harmony, successfully bridged base USDC to harmony in a single command. 
