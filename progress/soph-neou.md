@@ -1,3 +1,13 @@
+2024-10-11 Fri: This week, I participated in a technical discussion with the validator community regarding HIP32 and backup node configurations. The hardfork scheduled for 31st October is still on track. Additionally, I've been involved to help with the rescue of DaVinci.
+
+September cloud costs saw a slight decrease of $200, but there's room for further reduction by migrating the RPC used by Hiddenstate on GCP to a bare metal server. 
+
+The total supply script is still running, with an estimated completion time of 2 weeks. 
+
+Finally, during my on-call duties, I handled two incident RCAs: 1) a shard 0 node fork, which will need further analysis and team review, and 2) a false positive alert related to a consensus loss on mainnet shards 0 and 1, caused by Watchdog.
+
+---
+
 2024-10-04 Fri: This week, I refined the total supply script after discussions regarding how bridge-locked or wrapped of ONE Token are handled. I also fixed a bug that caused certain blocks to be skipped during indexing. Additionally, staked ONE tokens are now included in the calculation. The script is running again, although it’s taking longer to complete due to these updates.
 
 I also spent time reviewing and testing PRs aimed at progressing toward the HIP32 release. As a result, we've adjusted the planned HIP32 release date to October 31st, set to occur at epoch 2152 at 13:02 UTC.
