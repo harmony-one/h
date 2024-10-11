@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-10 Thu: [reviewed](https://github.com/harmony-one/HarmonyOneBot/pull/369) 1bot PR from Frank with improved /allstats report, tested it locally. [Created](https://github.com/harmony-one/h/blob/main/docs/forge-test-script.md#erc20-token) detailed manual how to deploy ERC20 token using foundry. Continue on 1market demo updates.
+
 2024-10-09 Wed: [fixed](https://github.com/harmony-one/HarmonyOneBot/pull/368) 1country weekly stats in 1bot /stats report; tested "forge create" script: [created an example](https://github.com/harmony-one/h/blob/main/docs/forge-test-script.md) for Harmony mainnet and testnet; for some reason foundry didn't report the transaction status, but the transaction was succesfully mined and appeared in the Explorer.
 
 2024-10-08 Tue: [fixed](https://github.com/harmony-one/HarmonyOneBot/pull/367) network weekly fees and weekly users /stats in harmony1bot. Working on setting up buy.country domain. Continue on 1market updates based on [review](https://hackmd.io/@polymorpher/note-1market-demo).
