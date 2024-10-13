@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-11 Fri: I synchronized with the developers of the layerzero team regarding multiple token for OftAdapter support - but unfortunately they do not currently have a ready-made solution and it is necessary to deploy a separate OftAdapter for each token. Started working on Multiple tokens OftAdapter: init new contract for rust, working on logic.
+
+2024-10-10 Thu: Completed a working prototype for SOL devnet -> Harmony testnet: OftAdapter on Solana side and OFT token contracts on the Harmony side. Integrated into bridge cli. Now there is a problem with deployment to production - since the cost of deploying a contract on the Solana side is about 5 SOL (to high for testing and adding new tokens). 
+
 2024-10-09 Wed: I explored the possibility of reusing layerzero oft adapter v2 on the solana side for different tokens - to simplify adding new tokens and save deployment costs. Created and testing new solana version.
 
 2024-10-08 Tue: Tested and fixed errors in harmony bridge cli. Added new features - such as loading a wallet from the command line, on request and with an aws file. [Published](https://www.npmjs.com/package/hmy-bridge-cli) latest version to npm. 
