@@ -1,3 +1,5 @@
+2024-10-13 Sun: Continuation of look into open source libraries for bonding curves. Looked into various implementations such as [this](https://github.com/lsaether/bonding-curves) to replicate for our pump.fun.
+
 2024-10-12 Sat (3.0h): Started researching bonding curves and different open source repos in preparation for deploy. Read docs for [Bonding Curve Library](https://github.com/Ratimon/bonding-curves), [Bonding Curve Fundraising](https://github.com/dOrgTech/OpenRaise/blob/master/docs/BondingCurve.md) implementation, Ape City, etc, will start working on test deploying tomorrow.
 
 2024-10-11 Fri: Returned to Whalepool Orca task, Dune query times out when sifting through historical prices with 30 days+ analysis, looked into preexisting datasets on historical data to avoid some calculations. Looked into recent updates to 1market-demo. 
