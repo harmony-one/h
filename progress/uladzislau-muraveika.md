@@ -1,3 +1,15 @@
+2024-10-11 Fri: Main focus of this week was the backup nodes detection and communication with the validator community, main result - we have only 9 backup nodes left from 19 total, so we are in good pace here for the HIP32 - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
+
+For node detection, I've find a way how to detect nodes with the same identity on the p2p level - I've used `hmy_consensus_bingo` metric and if it has huge spikes in values during the time, it means 2 node are pushing info with the same identity. This methodology helped me to find 2 such validators and both of them removed extra validator nodes.
+
+On the protocol side, I've started to fix watchdog noise for the new `getLastSigningPower` implementation, previously it was returning only from the leader, but now we have alarm N times faster, where N is shard nodes count. This improvement will help to distinguish between real alarm and noise.
+
+---
+
+2024-10-07 Mon: Paid Time Off
+
+---
+
 2024-10-04 Fri: Main focus of this week was preparation for the HIP32 release.
 
 On the protocol side, I've highlight that new implementation of the `getLastSigningPower` should be available thought the public API and not a debug one, because it can be accessible by any node/user in the network, [PR-4766](https://github.com/harmony-one/harmony/pull/4766)
