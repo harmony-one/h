@@ -1,3 +1,14 @@
+2024-10-12 Sat:
+Last week, I continued working on P2P layer improvements with [PR #4762](https://github.com/harmony-one/harmony/pull/4762). This PR brings several key enhancements to P2P stream handling and Stream Sync, aimed at improving stability, error handling, and optimizing the codebase.
+
+Key improvements include enhanced stream error handling for better visibility, optimizing pickAvailableStream to search for other streams when one fails, and refactoring the stream request manager with a Safe Map for thread safety. I've also improved the logic for switching between short-range and long-range syncing, optimized computeLongestHashChain and its whitelist, and refined countHashMaxVote for accurate vote calculations.
+
+New configurations were added to staged stream sync, along with fixes for Beacon Node and Epoch Chain detection. Metrics were introduced for better monitoring of stream sync, and lock management and concurrency were enhanced. Additionally, node roles are now passed through the stream protocol for better context, and the stream sync short-range helpers were refined. The shutdown and cooldown processes for streams were improved, along with a comprehensive refactor of the stream manager for better readability and maintainability. Finally, I added more meaningful logs while cleaning up unnecessary log entries. 
+
+The PR is now finalized and ready for team review. We'll be testing these changes on devnet this week.
+
+---
+
 2024-10-05 Sat: 
 Over the past week, I continued working on **issue #4789**, which involves addressing stream disconnectivities. A series of tests were conducted to identify the root cause, and several improvements were implemented across key areas which are mentioned on my last week update. Despite the efforts, the issue persisted. I decided to revert recent commits one by one to trace the problem and eventually identified that the update on **P2P Host's Muxers** was the root cause. This led to the creation of [PR #4764](https://github.com/harmony-one/harmony/pull/4764), which removes the use of the **mplex muxer** for localnet and configures it to exclusively use the **Yamux muxer**. This adjustment resolved stream disconnectivity issues in the localnet.
 
