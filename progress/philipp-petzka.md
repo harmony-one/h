@@ -1,3 +1,5 @@
+2024-10-14: research of yield-bearing products, reached out to a couple more stablecoin issuers
+
 2024-10-10: prioritizing, further due diligence on selected yield opportunities
 
 2024-10-09: Identification of Yield opportunities for treasury income
