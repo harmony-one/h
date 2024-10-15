@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-14 Mon: Explorer [improvements](https://github.com/protofire/bs-frontend/pull/21): save ETH / ONE toggle state across reload and navigation, removed banner about chain indexing. Started exploring new project: memecoin platform; checking pump.fun contract sources.
+
+---
+
 2024-10-11 Fri: 1market demo update: [display](https://github.com/harmony-one/1market-demo/pull/1/commits/7b98b37b40d17f6419be16fdd9b39e83a2658e30) active market even when user's wallet is disconnected, [added](https://github.com/harmony-one/1market-demo/pull/1/commits/7b98b37b40d17f6419be16fdd9b39e83a2658e30) indicator of transaction status (spinner)
 
 2024-10-10 Thu: [reviewed](https://github.com/harmony-one/HarmonyOneBot/pull/369) 1bot PR from Frank with improved /allstats report, tested it locally. [Created](https://github.com/harmony-one/h/blob/main/docs/forge-test-script.md#erc20-token) detailed manual how to deploy ERC20 token using foundry. Continue on 1market demo updates.
