@@ -1,4 +1,7 @@
-2024-10-13 Sun: Continuation of look into open source libraries for bonding curves. Looked into various implementations such as [this](https://github.com/lsaether/bonding-curves) to replicate for our pump.fun.
+2024-10-14 Mon: Further looked into open source for continuous tokens with bonding curves, forked and tested [lsaether](https://github.com/rika97/bonding-curves), [Ratimon](https://github.com/rika97/bonding-curves2), [Yosriady](https://github.com/rika97/continuous-token), and [galtproject](https://github.com/rika97/continuous-token2) to see if we can reuse any of the code but the projects seemed outdated. Created my own continuous token [contract](https://github.com/rika97/harmony-continuous/blob/main/contracts/BondingCurveToken.sol) (HBCURVE - Harmony Bonding Curve) based on linear bonding curve, [deployed contract](https://explorer.harmony.one/token/0x4de612C8D6cf60B4480b72A0234a9105F79FFe0F?shard=0), and created [web interface](https://harmony-continuous.netlify.app/
+) to purchase and view balance for HBCURVE.
+
+2024-10-13 Sun (2.0h): Continuation of look into open source libraries for bonding curves. Looked into various implementations such as [this](https://github.com/lsaether/bonding-curves) to replicate for our pump.fun.
 
 2024-10-12 Sat (3.0h): Started researching bonding curves and different open source repos in preparation for deploy. Read docs for [Bonding Curve Library](https://github.com/Ratimon/bonding-curves), [Bonding Curve Fundraising](https://github.com/dOrgTech/OpenRaise/blob/master/docs/BondingCurve.md) implementation, Ape City, etc, will start working on test deploying tomorrow.
 
