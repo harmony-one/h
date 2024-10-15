@@ -1,3 +1,15 @@
+2024-10-15 Tue: Completed forms and tasks associated with various exchanges and platforms. Reviewed differentiating features for pump clone.
+
+2024-10-14 Mon: Federal Holiday
+
+---
+
+2024-10-13 Sun (2.0h): Attend [ONE Show](https://x.com/Tenacious_DeFi/status/1845464372153548897) with community and Soph to discuss upcoming projects and protocol changes.
+
+2024-10-12 Sat (1.0h): Community outreach for token creators, and memecoin enthusiasts. 
+
+2024-10-11 Fri: Continued product testing. Compared pump.fun approach vs snek.fun in concise [analysis](https://www.notion.so/harmonyone/Pump-Analysis-94375b04b7de48d38e0948889d623f05). Insight: Token creation remains main revenue source and is more popular with users than picking winners.
+
 2024-10-10 Thu: Product testing for Pump.fun clones. Tested: [Pump.fun](https://pump.fun/), [Snek.fun](https://www.snek.fun/), [dx.fun](https://www.dx.fun/). Insights: all follow same UI of frequent updates and moving parts. Dx offers a unique pre-buy percentage 0-5% on token creation. 
 
 2024-10-09 Wed: Coordination with some of the Recovery Custodians (RMC) about Modulo and Recovery1 allocations. Ecosystem and project discussions with Li. Get ONE staging for explorer complete for simpleswap.
