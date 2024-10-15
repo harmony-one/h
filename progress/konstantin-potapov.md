@@ -1,3 +1,10 @@
+2024-10-11 Fri:
+- 1-second finality: Removed all related block signing and commission split changes. Submitted a new PR with no modifications. The 1-second finality will proceed without any commission split modification.
+- Added `effectiveGasPrice` to ETH transaction version for `GetTransactionReceipt` and `GetBlockReceipts` API methods.
+- Fixed the branch with lock acquisition to ensure it passes all tests.
+- Reviewed release branch.
+
+
 2024-10-04 Fri:
 - Resolved conflicts between the latest development branch and the 1-second-finality feature.
 - Reviewed a PR from the community regarding slice initialization. The issue arises from mixing different initialization methods, which can lead to undefined behavior. Fortunately, this seems to occur in unused or dead code.
