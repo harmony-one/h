@@ -1,3 +1,15 @@
+2024-10-14 Mon: Colombus Holiday
+
+---
+
+2024-10-13 Sun: Attendance of the ONE Show on X.
+
+2024-10-12 Sat: Edited/uploaded/designed a thumbnail for the the [Ecosystem Report AI podcast](https://youtu.be/6kGFqznX0EI).
+
+2024-10-11 Fri: Updated the Harmony community section and posted a [thread](https://x.com/harmonyprotocol/status/1844837471651271119). Edited/uploaded/designed a thumbnail for the the [Q3 AI podcast](https://youtu.be/0ylzjcGixFU).
+
+2024-10-10 Thu: Testing of NotebookLM, created 2 podcasts from the ecosystem report and the q3 report. 
+
 2024-10-09 Wed: Finalization of the 4 icons for developers.ledger.com. [Thread](https://x.com/harmonyprotocol/status/1844138237675307229) on the Q3 Report. Visiting the Story HQ Grand Opening with the team.
 
 2024-10-08 Tue: Sync with Frank, Li, and Rika on ONE Bot data collection. [Promotion](https://x.com/harmonyprotocol/status/1843720292478435605) and testing of HeyEddie along with the final publication of the [Q3 Report](https://blog.harmony.one/p/2024-q3-ai-memes-1-second-finality) and posting a [thread to X](https://x.com/harmonyprotocol/status/1843867355337896002).
