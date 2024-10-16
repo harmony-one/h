@@ -1,6 +1,8 @@
-2024-10-14: research of yield-bearing products, reached out to a couple more stablecoin issuers
+2024-10-15: Treasury farming feedback and discussion, more stablecoin research, especially yield-bearing products, contacted all potential partners
 
-2024-10-10: prioritizing, further due diligence on selected yield opportunities
+2024-10-14: Research of yield-bearing products, reached out to a couple more stablecoin issuers
+
+2024-10-10: Prioritizing, further due diligence on selected yield opportunities
 
 2024-10-09: Identification of Yield opportunities for treasury income
 
