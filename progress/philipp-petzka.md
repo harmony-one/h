@@ -1,3 +1,7 @@
+2024-10-17: Low risk farming research, Lending market product conception
+
+2024-10-16: Lending market tokenomics conception in detail,
+
 2024-10-15: Treasury farming feedback and discussion, more stablecoin research, especially yield-bearing products, contacted all potential partners
 
 2024-10-14: Research of yield-bearing products, reached out to a couple more stablecoin issuers
