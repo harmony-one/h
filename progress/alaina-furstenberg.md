@@ -1,4 +1,4 @@
-2024-10-17 Thu: Tweet sharing team photos from ETH SF
+2024-10-17 Thu: [Tweet](https://x.com/harmonyprotocol/status/1847060303869256048) sharing team photos from ETH SF
 
 2024-10-16 Wed: Team meetup and visiting House of Web3 for the ETH SF Kickoff. Research on the Photoshop and Illustrator AI updates unveiled at Adobe MAX. 
 
