@@ -6,7 +6,11 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
-2024-10-014 Mon: Started developing a new platform fees for creating memecoins (similar to https://pump.fun). Pumping all liquidity into ONE winner per day. I looked at the original [repository](https://github.com/enlomy/pump.fun) on rust. Researched existing evm based forks (such as [pumpeth](https://github.com/qiwihui/pumpeth)).
+2024-10-16 Wed: Completed the auto deployment script. I'm working on testing the main methods: mint, burn, createPair. Working on a simple scripts to reproduce cases of adding tokens and liquidity on harmony mainnet.
+
+2024-10-15 Tue: Synchronized with Li, Artem and Aaron regarding further integration of pump.fun. Вistributed tasks and made a plan. Started deploying the [repository](https://github.com/sourlodine/Pump.fun-Smart-Contract) - locally and on the mainnet. Writing a script for auto deployment. 
+
+2024-10-14 Mon: Started developing a new platform fees for creating memecoins (similar to https://pump.fun). Pumping all liquidity into ONE winner per day. I looked at the original [repository](https://github.com/enlomy/pump.fun) on rust. Researched existing evm based forks (such as [pumpeth](https://github.com/qiwihui/pumpeth)).
 
 ---
 
