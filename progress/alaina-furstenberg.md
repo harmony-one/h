@@ -1,3 +1,9 @@
+2024-10-17 Thu: Tweet sharing team photos from ETH SF
+
+2024-10-16 Wed: Team meetup and visiting House of Web3 for the ETH SF Kickoff. Research on the Photoshop and Illustrator AI updates unveiled at Adobe MAX. 
+
+2024-10-15 Tue: [Tweet](https://x.com/harmonyprotocol/status/1846274684238942219) for CoinMarketCap. Sync with Amanda on the [ONE Bot Stats](https://docs.google.com/spreadsheets/d/1sw4vyGMQcOBFjevVS7t8hlhCvGmdmSp2XC2uu2f6ZyE/edit?usp=sharing).
+
 2024-10-14 Mon: Colombus Holiday
 
 ---
