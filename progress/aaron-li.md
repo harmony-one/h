@@ -1,8 +1,36 @@
-2024-10-02 Fri (2.3h): Review 1market second iteration and provide feedback. Pano: implement margin related functionalities
+2024-10-16 Wed (1.5h): Research on World PVP game. Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation). 
 
-2024-10-02 Thu (4.2h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value and premium related functionalities
+2024-10-15 Tue (4.7h): Draft and discussion on Harmony state of DeFi projects under development and in production. Foundry buggy command debugging. Research and analysis on building Raspberry Pi 5 based validator and RPC nodes, and research and comparisons with barebone server options. Discussion on token launchpad code and project timelines. Discussion and research on RPC physical machine, and Ledger app local development issue. 
 
-2024-10-01 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues 
+2024-10-14 Mon (2.5h): Farming strategy review, research and discussions. Cast and RPC contract deployment transaction debugging. Panoptic v1.0 pool code review and analysis
+
+----
+
+2024-10-13 Sun (5.1h): Panoptic: v1.0 and v1.1 new code review and analysis (Pool, Collateral, Semi-Fungible Position Manager, Pool Factory)
+
+2024-10-12 Sat (2.1h): Panoptic: v1.0 and v1.1 new code review and analysis (Math and related libraries)
+
+2024-10-11 Fri (3.5h): Debugging forge commands on tokens. Research on bounding curves. Domain management. Panoptic: v1.0 and v1.1 new code review (overall changes, data structures, interfaces). Panoptic: v1.0 and v1.1 new code review (Math and related libraries)
+
+2024-10-10 Thu (2.9h): Domain management, renewal, automation. Forge contract deployment debugging. Debugging forge commands on tokens. Research on bounding curves. Domain management
+
+2024-10-09 Wed (1h): Pano: research and debug put-call swapping, ITM positions minting and burning, and profit and loss
+
+2024-10-08 Tue (1.6h): Pano: research and debug put-call swapping, ITM positions minting and burning, and profit and loss
+
+2024-10-07 Mon (3.7h): Discussion on automated token bridging tool, bridged token naming confusion and conventions, 1market demo issues and improvements, choice of stablecoin for liquidity provision pros and cons,  bridged token liquidity provision risk and strategies. Pano: research and debug put-call swapping, ITM positions minting and burning, and profit and loss.
+
+----
+
+2024-10-06 Sun (3.1h): Discussion on defi projects, progress, and stablecoin. Pano: debugging in-the-money margin calculation and position value. Stuck funds debugging and recovery.
+
+2024-10-05 Sat (1.0h): Pano: debugging in-the-money token id transansformation
+
+2024-10-04 Fri (5.2h): Review 1market second iteration and provide feedback. Pano: debugging portofolio value by position and pool, fix issues in smart contract functions, implement in-the-money position detection and token id transformation
+
+2024-10-03 Thu (4.2h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value and premium related functionalities
+
+2024-10-02 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues 
 
 2024-10-01 Tue (5.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers. Review, analyze, discuss progress, code commits, and quaterly updates
 
