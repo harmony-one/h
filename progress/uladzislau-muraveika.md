@@ -1,3 +1,13 @@
+2024-10-18 Fri: For the backup nodes detection and communication with the validator community, main result - we have only 7 backup nodes(5 active) and all active confirmed removal and will do it during the next week - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
+
+On the protocol side, I was helping with the forking leader node issue and was able to reproduce it locally, sharing findings with the protocol team.
+
+On the ops side, I've finished developing a new monitoring for the `getLastSigningPower` RPC call implementation in the watchdog. Now we are using value from nodes majority, alarm has unique block ids and view change ids. Main advantage - less noise, more clue about when consensus loss happen.
+
+Additionally, on the ops side, I've created a fresh SnapDB snapshot - 3 times smaller as a part of HIP32 preparation.
+
+---
+
 2024-10-11 Fri: Main focus of this week was the backup nodes detection and communication with the validator community, main result - we have only 9 backup nodes left from 19 total, so we are in good pace here for the HIP32 - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
 
 For node detection, I've find a way how to detect nodes with the same identity on the p2p level - I've used `hmy_consensus_bingo` metric and if it has huge spikes in values during the time, it means 2 node are pushing info with the same identity. This methodology helped me to find 2 such validators and both of them removed extra validator nodes.
