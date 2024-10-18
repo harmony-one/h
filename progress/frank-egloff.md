@@ -1,3 +1,5 @@
+2024-10-17 Thu: Continued developing BondingCurve contract, implementing token-related methods previously handled by TokenFactory. Addressing balance discrepancies during token purchase tests. Added web3 logic to the frontend, including token list and price hooks, along with token list component.
+
 2024-10-16 Wed: Implemented [BondingCurve and Token contracts](https://github.com/harmony-one/bonding-curve-prototype/pull/1) with corresponding deploy and test scripts. Addressing balance discrepancies in BondingCurve during token purchases. Concurrently, building a Next.js app for memecoin ecosystem: listing, purchasing, and determining daily liquidity winners. Basic template in place, progressively adding core functionalities.
 
 2024-10-15 Tue: Implemented hotfix for 1Bot, enhancing model check to prevent parameter mismatch with OpenAI's o1 models. Commenced development of proprietary bonding curve implementation due to licensing constraints on Mint Club's contracts. Focusing on core smart contract development: BondingCurve, Token, and TokenFactory.
