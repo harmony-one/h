@@ -1,3 +1,7 @@
+2024-10-17 Thu: Completed exchange and token dashboard forms for scheduled token release. Reviewed Pump.fun sync between Aaron and Stephen, will convert parts into notion document tomorrow.
+
+2024-10-16 Wed: ETH SF team sync and house of web3 event.
+
 2024-10-15 Tue: Completed forms and tasks associated with various exchanges and platforms. Reviewed differentiating features for pump clone.
 
 2024-10-14 Mon: Federal Holiday
