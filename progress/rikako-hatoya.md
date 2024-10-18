@@ -1,3 +1,5 @@
+2024-10-17 Thu: Worked on changing from linear bondign curve to bonding curve based on the implementation in the [pumpeth repo](https://github.com/qiwihui/pumpeth/blob/master/src/BondingCurve.sol) using FixedPointMathLib with Solady. Read "Bonding Curves in Depth" and looked into derivations for Bancor formula.
+
 2024-10-16 Wed: In-person team sync and crypto underground kickoff event in SF. [Updated](https://github.com/rikaa15/harmony-walletclient/commit/1160688fe9272c14103b02151ff21b22d4eb94c8) button UI for viem wallet client interface.
 
 2024-10-15 Tue: Continued work on bonding curve token: worked on implementing other bonding curves based on Bancor formula (reserve ratio) + disrete bonding curve, and looked into implementations of this as well as other curves on open source continuous token repos. Also worked on fixing bugs, cleaning repo, looked into adopting foundry, and adding configurations for testnet as well.
