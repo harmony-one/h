@@ -1,4 +1,6 @@
-2024-10-16 Wed: 
+2024-10-17 Thu: Deployed Coinbase Smart Wallet on Testnet. Creating a simple demo to showcase smart wallet interaction. Started deploying paymaster to include it as the whole system. Briefly discussed with Soph on bundler node redundancy and set up to be used for production.
+
+2024-10-16 Wed: ETH SF team sync and house of web3 event.
 
 2024-10-15 Tue: Attempting to deploy Coinbase Smart Wallet on Testnet. Currently testing the functionality. The basic functions for the bundlers are working as expected. Will continue tomorrow.
 
