@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-16 Wed: deployed Pump.fun Soliduty [implementation](https://github.com/sourlodine/Pump.fun-Smart-Contract) locally, researched project architecture and Unsiwap V2 logic, started testing integration with Uniswap V2. Synced with Yuriy on pump.fun tasks.
+
 2024-10-15 Tue: researching pump.fun Solidity implementations, found [this one](https://github.com/sourlodine/Pump.fun-Smart-Contract), 157 github stars and forks. Started testing it locally.
 
 2024-10-14 Mon: Explorer [improvements](https://github.com/protofire/bs-frontend/pull/21): save ETH / ONE toggle state across reload and navigation, removed banner about chain indexing. Started exploring new project: memecoin platform; checking pump.fun contract sources.
