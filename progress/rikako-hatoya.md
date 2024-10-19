@@ -1,4 +1,6 @@
-2024-10-17 Thu: Worked on changing from linear bondign curve to bonding curve based on the implementation in the [pumpeth repo](https://github.com/qiwihui/pumpeth/blob/master/src/BondingCurve.sol) using FixedPointMathLib with Solady. Read "Bonding Curves in Depth" and looked into derivations for Bancor formula.
+2024-10-18 Fri: Updated bonding curve token to use bonding curve based on the pumpeth repo implementation - updated contract [BondingCurveToken.sol](https://github.com/rikaa15/harmony-continuous/blob/main/contracts/BondingCurveToken.sol), [deploy script](https://github.com/rikaa15/harmony-continuous/blob/main/scripts/deploy.js), and changed user interface from displaying two buttons of preset token amount for buy/sell actions to an input text field. Deployed new contract [here](https://explorer.harmony.one/address/0x760fD576868506c8413669A21F684adACb789a74?shard=0), [updated frontend deploy](https://harmony-continuous.netlify.app/), and also added ReadME.
+
+2024-10-17 Thu: Worked on changing from linear bonding curve to bonding curve based on the implementation in the [pumpeth repo](https://github.com/qiwihui/pumpeth/blob/master/src/BondingCurve.sol) using FixedPointMathLib with Solady. Read "Bonding Curves in Depth" and looked into derivations for Bancor formula.
 
 2024-10-16 Wed: In-person team sync and crypto underground kickoff event in SF. [Updated](https://github.com/rikaa15/harmony-walletclient/commit/1160688fe9272c14103b02151ff21b22d4eb94c8) button UI for viem wallet client interface.
 
