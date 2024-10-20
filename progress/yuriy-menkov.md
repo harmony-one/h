@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-18 Fri: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/2) more test script: adds a new token to the system (launch: deploy through a factory, add liquidity, add a user profile) and then buy this token for ONE (swapETHForTokens). Began implementing new features - such as transferring a fee to the winner.
+
+2024-10-17 Thu: [Forked](https://github.com/harmony-one/pump.fun.contracts) pump eth contracts repo to harmony. [Added](https://github.com/harmony-one/pump.fun.contracts/pull/1) extended deploy scripts with more func wrappers and utils for better testing. Testing launch and swap methods.
+
 2024-10-16 Wed: Completed the auto deployment script. I'm working on testing the main methods: mint, burn, createPair. Working on a simple scripts to reproduce cases of adding tokens and liquidity on harmony mainnet.
 
 2024-10-15 Tue: Synchronized with Li, Artem and Aaron regarding further integration of pump.fun. Вistributed tasks and made a plan. Started deploying the [repository](https://github.com/sourlodine/Pump.fun-Smart-Contract) - locally and on the mainnet. Writing a script for auto deployment. 
