@@ -1,3 +1,16 @@
+2024-10-19 Sat:
+Last week, I added a few commits to improve [PR #4762](https://github.com/harmony-one/harmony/pull/4762). The new commits focused on improving concurrency handling and stream shutdowns. The team has started reviewing the PR.
+
+Additionally, I created another [PR #4772](https://github.com/harmony-one/harmony/pull/4772). This PR introduces significant enhancements to the concurrency management and lock handling in the Staged Stream Sync module. By replacing `sync.Mutex` with `sync.RWMutex`, the module now supports concurrent read access, boosting performance for read-heavy operations. The scope of locks has been minimized to reduce contention, especially in high-frequency functions like `Get()` and `List()`. 
+
+To improve the shutdown process, extra checks have been added to prevent double closure of channels, along with new locking mechanisms to ensure state changes are synchronized during shutdown. This results in a smoother shutdown process and helps prevent race conditions when terminating active processes. Clearer documentation and error messages have also been added for better consistency and reduced confusion.
+
+These changes collectively improve the performance, reliability, and maintainability of the Staged Stream Sync module by ensuring more efficient resource management, reducing the likelihood of race conditions, and allowing concurrent operations to proceed more smoothly.
+
+The next focus was the issue with MDBX. After investigation, I found that the issue was common with Erigon DB and was resolved in later versions. After discussions with the team, we concluded that updating the DB requires updating Go to version 1.23. I created another [PR #4773](https://github.com/harmony-one/harmony/pull/4773) to implement this, though it still requires fixing Travis issues. We're currently awaiting the team's decision, as this update may impact other parts of the core.
+
+---
+
 2024-10-12 Sat:
 Last week, I continued working on P2P layer improvements with [PR #4762](https://github.com/harmony-one/harmony/pull/4762). This PR brings several key enhancements to P2P stream handling and Stream Sync, aimed at improving stability, error handling, and optimizing the codebase.
 
