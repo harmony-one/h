@@ -1,3 +1,5 @@
+2024-10-20 Sun (3.0h): Looked into scripts and overall structure of 1wallet. Started working on creating a minimal example using  createContractAddress.
+
 2024-10-19 Sat (2.5h): Worked on cleaning repo organization and debugging sell function (properly distributing ONE tokens back) in BondingCurveToken.sol. Looked into 1wallet and createContractAddress.
 
 2024-10-18 Fri: Updated bonding curve token to use bonding curve based on the pumpeth repo implementation - updated contract [BondingCurveToken.sol](https://github.com/rikaa15/harmony-continuous/blob/main/contracts/BondingCurveToken.sol), [deploy script](https://github.com/rikaa15/harmony-continuous/blob/main/scripts/deploy.js), and changed user interface from displaying two buttons of preset token amount for buy/sell actions to an input text field. Deployed new contract [here](https://explorer.harmony.one/address/0x760fD576868506c8413669A21F684adACb789a74?shard=0), [updated frontend deploy](https://harmony-continuous.netlify.app/), and also added ReadME.
