@@ -1,4 +1,15 @@
-2024-10-17 Thu: [Tweet](https://x.com/harmonyprotocol/status/1847060303869256048) sharing team photos from ETH SF
+
+2024-10-21 Mon: Thread on features of ONE Bot. Sync with SimpleSwap on co-marketing materials. 
+
+---
+
+2024-10-20 Sun: Testing of image generation on ONE Bot and sharing with community.
+
+2024-10-19 Sat: Weekly twitter community section recap on [X](https://x.com/harmonyprotocol/status/1847659219090051364). 
+
+2024-10-18 Fri: Update of the harmony community section. [Thread](https://x.com/harmonyprotocol/status/1847376649614217309) preparing node operators for the upcoming hard fork. 
+
+2024-10-17 Thu: [Tweet](https://x.com/harmonyprotocol/status/1847060303869256048) sharing team photos from ETH SF. Reading and review of PLAIY 
 
 2024-10-16 Wed: Team meetup and visiting House of Web3 for the ETH SF Kickoff. Research on the Photoshop and Illustrator AI updates unveiled at Adobe MAX. 
 
