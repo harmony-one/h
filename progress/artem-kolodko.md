@@ -6,7 +6,15 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
-2024-10-16 Wed: deployed Pump.fun Soliduty [implementation](https://github.com/sourlodine/Pump.fun-Smart-Contract) locally, researched project architecture and Unsiwap V2 logic, started testing integration with Uniswap V2. Synced with Yuriy on pump.fun tasks.
+2024-10-21 Mon: pump.fun tokens indexer: [added](https://github.com/harmony-one/pump.fun.backend/commit/a6431dfae50973fa4cfcca4db0851f87397e4daa) database support; store tokens in the database; started winner determination logic on the backend.
+
+---
+
+2024-10-18 Fri: completed first version of pump.fun tokens [indexer](https://github.com/harmony-one/pump.fun.backend)
+
+2024-10-17 Thu: started working on pump.fun backend core logic: listen for blockchain events, parse pump.fun token Launched method
+
+2024-10-16 Wed: deployed Pump.fun Solidity [implementation](https://github.com/sourlodine/Pump.fun-Smart-Contract) locally, researched project architecture and Unsiwap V2 logic, started testing integration with Uniswap V2. Synced with Yuriy on pump.fun tasks.
 
 2024-10-15 Tue: researching pump.fun Solidity implementations, found [this one](https://github.com/sourlodine/Pump.fun-Smart-Contract), 157 github stars and forks. Started testing it locally.
 
