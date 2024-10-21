@@ -1,3 +1,8 @@
+2024-10-18 Fri:
+- Investigating with Ulad an issue where a zero hash is being transferred across the network. The issue is reproducible on the local network with external validators and results in a node fork. To resolve the issue, the node must be reverted by 1 block after the fork.
+- Created an issue for the make debug-ext command, which fails to run on Mac due to differences in command syntax.
+
+
 2024-10-11 Fri:
 - 1-second finality: Removed all related block signing and commission split changes. Submitted a new PR with no modifications. The 1-second finality will proceed without any commission split modification.
 - Added `effectiveGasPrice` to ETH transaction version for `GetTransactionReceipt` and `GetBlockReceipts` API methods.
