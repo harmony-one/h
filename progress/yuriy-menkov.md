@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-22 Tue: Working on new "burnAll" contract method that will burn tokens in all liquidity pools and mint new tokens in the winner's liquidity pool. Method must be called by the keeper service, which will pass the winner's pool address as a parameter. 
+
+2024-10-21 Mon: [Added](https://github.com/harmony-one/pump.fun.contracts/commit/beb6120ab7481b3f10a33f422031ecba86657638) more contracts events for swap operations. Also added expanded statistics to determine liquidity and trading volume per day and all the time. Synchronized with the team regarding the next steps.
+
+---
+
 2024-10-18 Fri: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/2) more test script: adds a new token to the system (launch: deploy through a factory, add liquidity, add a user profile) and then buy this token for ONE (swapETHForTokens). Began implementing new features - such as transferring a fee to the winner.
 
 2024-10-17 Thu: [Forked](https://github.com/harmony-one/pump.fun.contracts) pump eth contracts repo to harmony. [Added](https://github.com/harmony-one/pump.fun.contracts/pull/1) extended deploy scripts with more func wrappers and utils for better testing. Testing launch and swap methods.
