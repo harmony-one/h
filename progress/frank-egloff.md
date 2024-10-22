@@ -1,3 +1,6 @@
+2024-10-21 Mon: Implemented and deployed [fix for o1 model completion in 1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/369), resolving request params mismatch and markdown entity splitting issues. [Completed and deployed Lumo](https://github.com/harmony-one/harmony-llm-api/pull/23) backend logic integration. Will continue Bonding Curve development and Lumo cmd deployment in 1Bot on Tuesday.
+
+---
 2024-10-18 Fri: Implemented TokenTrader component for BondingCurve dApp, enabling token buy/sell operations, and updated TokenList and TokenListItem components. Enhanced token hooks with transaction functionalities including purchase, sale, and approval processes.
 
 2024-10-17 Thu: Continued developing BondingCurve contract, implementing token-related methods previously handled by TokenFactory. Addressing balance discrepancies during token purchase tests. Added web3 logic to the frontend, including token list and price hooks, along with token list component.
