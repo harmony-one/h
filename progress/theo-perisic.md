@@ -1,4 +1,3 @@
-
 2024-10-21 Mon: Sync with Recovery Multisig Custodians (RMC) for upcoming elections. Completed RMC elections document, scheduled release this week, election finalization lined up with US elections.
 
 ---
@@ -7,7 +6,7 @@
 
 2024-10-19 Sat: (1.0h) Meme & AI connection research for potential Harmony use cases.
 
-2024-10-18 Fri: Reviewed and provided feedback on first draft of upcoming DeFi developments.
+2024-10-18 Fri: Reviewed and provided feedback on first draft of upcoming DeFi developments. Successful [Swap listing](https://dexscreener.com/harmony/swap) on DexScreener.
 
 2024-10-17 Thu: Completed exchange and token dashboard forms for scheduled token release. Reviewed Pump.fun sync between Aaron and Stephen, will convert parts into notion document tomorrow.
 
