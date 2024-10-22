@@ -1,3 +1,5 @@
+2024-10-21 Mon: [Created a MVP](https://github.com/rikaa15/createcontract-example) for a contract address generation interface using createContractAddress with web3.js by replicating the function defined in utils [here](https://github.com/web3/web3.js/blob/4.x/packages/web3-eth-contract/src/utils.ts).  Conducted research on LLMtheism as well as further research on the implementations of bonding curve tokens by looking through open source repositories.
+
 2024-10-20 Sun (3.0h): Looked into scripts and overall structure of 1wallet. Started working on creating a minimal example using  createContractAddress.
 
 2024-10-19 Sat (2.5h): Worked on cleaning repo organization and debugging sell function (properly distributing ONE tokens back) in BondingCurveToken.sol. Looked into 1wallet and createContractAddress.
