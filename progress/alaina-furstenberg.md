@@ -1,5 +1,8 @@
+2024-10-23 Wed: Playing and [promotion](https://x.com/harmonyprotocol/status/1849117419480273125) of FlappyH1. Thread on AIs Play God(se).
 
-2024-10-21 Mon: Thread on features of ONE Bot. Sync with SimpleSwap on co-marketing materials. 
+2024-10-22 Tue: Design of graphic and [tweet](https://x.com/harmonyprotocol/status/1848827522689212696) promoting Swap's listing on DexScreener. Read and watched the videos within 🐐 AIs Play God(se): LLMtheism 🕉 as Religion ⛪. Began drafting a thread to be posted tomorrow.
+
+2024-10-21 Mon: [Thread](https://x.com/harmonyprotocol/status/1848533535994286481) outlining a yearly recap from RMC elections and promtion of the new elections starting next week. Sync with SimpleSwap on co-marketing materials. 
 
 ---
 
