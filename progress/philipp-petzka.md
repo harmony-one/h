@@ -1,3 +1,5 @@
+2024-10-22: Lending market user stories, start of writing the Harmony yield enhancer product description
+
 2024-10-21: Researching Pump.Fun iterations, AI Agent Tokens. Continued the product conception of the AAVE V2-based lending market
 
 2024-10-17: Low risk farming research, Lending market product conception
