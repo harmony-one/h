@@ -1,3 +1,5 @@
+2024-10-24 Thu: [Thread](https://x.com/harmonyprotocol/status/1849541732922425669) of ONE Bot features + design of graphic using Photoshop/Midjourney.
+
 2024-10-23 Wed: Playing and [promotion](https://x.com/harmonyprotocol/status/1849117419480273125) of FlappyH1. [Thread](https://x.com/harmonyprotocol/status/1849172629904826680) on AIs Play God(se) plus the design/animation of a supporting graphic. Testing of /s on ONE Bot to generate ascii style artwork, results [here](https://www.notion.so/harmonyone/s-on-ONE-Bot-Images-782ec3a491584dfc9efe3847f60e384b).
 
 2024-10-22 Tue: Design of graphic and [tweet](https://x.com/harmonyprotocol/status/1848827522689212696) promoting Swap's listing on DexScreener. Read and watched the videos within 🐐 AIs Play God(se): LLMtheism 🕉 as Religion ⛪. Began drafting a thread to be posted tomorrow.
