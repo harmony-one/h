@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-24 Thu: pump.fun backend [update](https://github.com/harmony-one/pump.fun.backend/commit/03e66556ed277c729012e751674058619bf5d920): added winner determination by daily volume
+
 2024-10-23 Wed: continue on pump.fun backend: [added](https://github.com/harmony-one/pump.fun.backend/commit/f1927d3bbe6519909ff2262535d5d2b8b014a9fb) indexing of trade events and storing in database.
 
 2024-10-22 Tue: pump.fun backend: tested tokens indexer; [implemented](https://github.com/harmony-one/pump.fun.backend/commit/9253487b906846c168906c616aa2a6976823797e) methods to save comments in the database, and get comments and tokens from the API.
