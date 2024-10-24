@@ -1,3 +1,5 @@
+2024-10-23 wed: Enhanced BondingCurve UI/UX and deployed smart contracts to HarmonyTestnet, debugging tx issues in token purchasing flow. Integrated xAI provider into harmony-llm-api infrastructure, established endpoint and initiated 1Bot integration. Pending API key funding (coordinated with Theo).
+
 2024-10-22 Tue: Resolved balance discrepancies in [bondingCurve contract](https://github.com/harmony-one/bonding-curve-prototype/pull/2) token purchase tests. Enhanced client dApp buy flow, implementing allowance checks. Debugging reserve token approval flow prior to token purchase.
 
 2024-10-21 Mon: Implemented and deployed [fix for o1 model completion in 1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/369), resolving request params mismatch and markdown entity splitting issues. [Completed and deployed Lumo](https://github.com/harmony-one/harmony-llm-api/pull/23) backend logic integration. Will continue Bonding Curve development and Lumo cmd deployment in 1Bot on Tuesday.
