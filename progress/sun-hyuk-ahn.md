@@ -1,4 +1,4 @@
-2024-10-22 Wed:
+2024-10-22 Wed: Pimlico's Alto implementation requires entrypoint simulation and refill helper contracts to be deployed. The deployment script does not work with Harmony. Making adjustments in order to enable the deploy scripts.
 
 2024-10-21 Tue: Stackup bundler [repo](https://github.com/stackup-wallet/stackup-bundler) has been archived. Began going over Pimlico's Alto implementation in order to migrate.
 
