@@ -1,4 +1,8 @@
-2024-10-20 Mon:
+2024-10-22 Wed:
+
+2024-10-21 Tue: Stackup bundler [repo](https://github.com/stackup-wallet/stackup-bundler) has been archived. Began going over Pimlico's Alto implementation in order to migrate.
+
+2024-10-20 Mon: Researched into redundancy architecture of bundlers. Looked into multiple possible setup of bundler and validator node architecture. One thing to note is that Stackup bundler only supports private mempools. This prevents transparency and can possibly create a single point of failure.
 
 ---
 
