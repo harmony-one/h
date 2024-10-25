@@ -1,3 +1,5 @@
+2024-10-24 Thu: Started testing pump.fun and looked into code for harmony1bot. Resumed work on dune analytics for yield estimations.
+
 2024-10-23 Wed: Further worked on debugging selling contract for bonding curve token. Conducted further research and looked through links on AIs Play God(se).
 
 2024-10-22 Tue: Updated bonding curve token demo by resolving git submodule issues (frontend folder was not commited in the [original repo](https://github.com/rikaa15/harmony-continuous), rewrote new code and pushed [here](https://github.com/rikaa15/harmony-bondingcurve)), fixed some bugs on buy/sell price displays by improving error handling, implemented [getEstimatedTokenPrice()](https://github.com/rikaa15/harmony-bondingcurve/blob/cd2f9e8b2a9f4418dcd23eb028dad073b3ec4c3f/bonding-curve-frontend/src/TokenInterface.js#L77) to display the price of one bonding curve token in ONE, and updated deploy [here](https://harmony-continuous.netlify.app/). Currently working on fixing contract to distribute correct amount of ONE tokens when HBCURVE (bonding curve tokens) are sold, and looked into pump.fun.contracts.
