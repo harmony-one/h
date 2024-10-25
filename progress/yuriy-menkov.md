@@ -6,6 +6,8 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-23 Wed: Synced with Aaron about the contracts [repository](https://github.com/qiwihui/pumpeth). Researched a possible solution to the problem that burnLiquidityToken is transferring to 0 address, which would revert in some ERC20 implementation. Working on changing the [factory](https://github.com/qiwihui/pumpeth/blob/master/src/TokenFactory.sol) contract (paid for non-winning coins towards the winning coin, and mint more winning coins for each user (who minted other coins).
+
 2024-10-22 Tue: Working on new "burnAll" contract method that will burn tokens in all liquidity pools and mint new tokens in the winner's liquidity pool. Method must be called by the keeper service, which will pass the winner's pool address as a parameter. 
 
 2024-10-21 Mon: [Added](https://github.com/harmony-one/pump.fun.contracts/commit/beb6120ab7481b3f10a33f422031ecba86657638) more contracts events for swap operations. Also added expanded statistics to determine liquidity and trading volume per day and all the time. Synchronized with the team regarding the next steps.
