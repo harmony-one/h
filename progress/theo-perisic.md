@@ -1,3 +1,9 @@
+2024-10-24 Thu: xAI api set up with Amanda and Frank. Spoke with machine learning engineer for truth terminal replication. Quick sync with Stephen, telegram and harmony ecosystem is our advantage, best framework for agentic bots able to navigate Harmony on their own and on behalf of users within telegram small groups.
+
+2024-10-23 Wed: Deep dive on Andy and Truth Terminal via media. Insight: will working on intelligence, basic function calling that the bot will use needs to be added first. This means Swaps, Lend, Borrowing, etc.
+
+2024-10-22 Tue: Editas to Recovery Multisig Election document. Team sync and discussions for Harmony1bot. Insight: bringing Harmony DeFi within 1bot would allow easier onboarding and ecosystem navigation.
+
 2024-10-21 Mon: Sync with Recovery Multisig Custodians (RMC) for upcoming elections. Completed RMC elections document, scheduled release this week, election finalization lined up with US elections.
 
 ---
