@@ -1,12 +1,12 @@
+2024-10-25 Fri: This week, I reviewed and tested multiple PRs. For the [0x0 hash bug fix PR](https://github.com/harmony-one/harmony/pull/4778), the PR only addressed the streamsync syncing method, while the issue also impacts the DNS sync method. Additionally, I tested the [1-second finality PR](https://github.com/harmony-one/harmony/pull/4771) in localnet, which revealed issues with signature collection as soon as the 1-second epoch block occurs. Lastly, I reviewed and tested two streamsync improvement PRs([1](https://github.com/harmony-one/harmony/pull/4762) and [2](https://github.com/harmony-one/harmony/pull/4772)), which have shown positive outcomes in localnet, including a faster start to the sync process when nodes initialize.
+
+---
+
 2024-10-17 Thu: The Harmony Ledger app testing is currently in progress, with some environment issues identified that we're working to resolve. In the meantime, the repository has been prepped and is available here: [Harmony Ledger App](https://github.com/harmony-one/harmony-ledger-app/tree/harmony).
 
 On the protocol side, I identified and troubleshooted a fork issue affecting both devnet and testnet. The problem seems to be caused by the leader committing a block hash but broadcasting a 0x0 hash to the network. We're continuing with further investigation and testing to fully confirm and resolve the issue.
 
 Lastly, the planned v2024.3.0 release has been updated to [v2024.3.1](https://github.com/harmony-one/harmony/releases/tag/v2024.3.1) due to a deprecated GitHub action in our CI pipeline.
-
----
-
-Let me know if you need further adjustments!
 
 --
 
