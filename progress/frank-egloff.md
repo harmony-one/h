@@ -1,3 +1,5 @@
+2024-10-24 thu: Completed Grok model (xAI) integration in harmony-llm-api backend and 1Bot (accessible via /gk). Optimized default model commands to utilize highest-tier variants (/g for Gemini 1.5, /c for Claude 3.5 Sonnet, /ask for GPT-4). Fixed BondingCurve token purchase logic issues and enhanced dApp interface for improved UX.
+
 2024-10-23 wed: Enhanced BondingCurve UI/UX and deployed smart contracts to HarmonyTestnet, debugging tx issues in token purchasing flow. Integrated xAI provider into harmony-llm-api infrastructure, established endpoint and initiated 1Bot integration. Pending API key funding (coordinated with Theo).
 
 2024-10-22 Tue: Resolved balance discrepancies in [bondingCurve contract](https://github.com/harmony-one/bonding-curve-prototype/pull/2) token purchase tests. Enhanced client dApp buy flow, implementing allowance checks. Debugging reserve token approval flow prior to token purchase.
