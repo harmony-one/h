@@ -1,3 +1,12 @@
+2024-10-25 Fri: For the backup nodes detection,1 backup node left Guarda and it is inactive - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
+
+On the ops side, I was focused on the helping with setup archival node for the partner - Pocket network, tried the 2 phase sync - active and fetch deltas, documented all the steps.
+Main advantage - we know how long it takes to sync the archival node - 1.5-2 days and that active sync with rclone doesn't impact the harmony node performance. Also I've shared the best practices how to run harmony node.
+
+Additionally, on the ops side, I've checked the validators logo issue and for now patched with simple restart with cron and documented this.
+
+---
+
 2024-10-18 Fri: For the backup nodes detection and communication with the validator community, main result - we have only 7 backup nodes(5 active) and all active confirmed removal and will do it during the next week - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
 
 On the protocol side, I was helping with the forking leader node issue and was able to reproduce it locally, sharing findings with the protocol team.
