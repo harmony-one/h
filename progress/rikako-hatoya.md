@@ -1,3 +1,5 @@
+2024-10-25 Fri: Cloned and looked into virtuous-cycles world-interface, virtuals protocol, and Kaito AI. Looked further into pump.fun backend and contracts.
+
 2024-10-24 Thu: Started testing pump.fun and looked into code for harmony1bot. Resumed work on dune analytics for yield estimations.
 
 2024-10-23 Wed: Further worked on debugging selling contract for bonding curve token. Conducted further research and looked through links on AIs Play God(se).
