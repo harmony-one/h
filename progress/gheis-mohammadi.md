@@ -1,3 +1,13 @@
+2024-10-26 Sat: Last week, the team reviewed and approved [PR #4762](https://github.com/harmony-one/harmony/pull/4762), which has now been merged into the `dev` branch. Early testing shows improvements in syncing performance.
+
+Additionally, [PR #4772](https://github.com/harmony-one/harmony/pull/4772) was reviewed. After resolving all merge conflicts, it is now ready for merging. Together, these two PRs bring good enhancements to stream handling and stream sync mechanisms.
+
+A significant development was [PR #4777](https://github.com/harmony-one/harmony/pull/4777), which introduces support for Trusted Nodes in the P2P Host. This update addresses stream sync concerns by implementing trusted nodes, allowing the network to prioritize these nodes for more stable and secure connections. By designating certain peers as trusted, we maintain reliable connectivity with critical, verified nodes, reducing the likelihood of interactions with potentially malicious peers. This trusted node list is configurable, allowing network administrators to define it through configuration files. While the PR has passed unit tests, it will be validated further in the dev-net environment with a mix of trusted and regular peers to ensure reliable performance.
+
+Lastly, I worked on [PR #4780](https://github.com/harmony-one/harmony/pull/4780), which adds capacity to each stream to support concurrent requests by giving each stream peer its own queue. This enhancement promises significant performance improvements, although it is still in progress and further testing is needed to ensure stability.
+
+---
+
 2024-10-19 Sat:
 Last week, I added a few commits to improve [PR #4762](https://github.com/harmony-one/harmony/pull/4762). The new commits focused on improving concurrency handling and stream shutdowns. The team has started reviewing the PR.
 
