@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-25 Fri: Working on finalizing the burnAllAndReleaseWinner method - Changed the Token data structure and added a new class that will allow me to work with Uniswap V3 via PositionManager, instead of V2, which is used in the current version. Based on open Uniswap [documentation](https://docs.uniswap.org/contracts/v3/guides/providing-liquidity/mint-a-position) and examples.
+
+2024-10-24 Thu: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/3/files) contracts v2 (based on [repository](https://github.com/qiwihui/pumpeth)). Added tests for token creating and sell/buy with factory. Added more events and burnAllAndReleaseWinner method (The same logic for determining the winner with web2 service - then we call this method and it burns all tokens except the winner, for the winner we create a liquidity pool)
+
 2024-10-23 Wed: Synced with Aaron about the contracts [repository](https://github.com/qiwihui/pumpeth). Researched a possible solution to the problem that burnLiquidityToken is transferring to 0 address, which would revert in some ERC20 implementation. Working on changing the [factory](https://github.com/qiwihui/pumpeth/blob/master/src/TokenFactory.sol) contract (paid for non-winning coins towards the winning coin, and mint more winning coins for each user (who minted other coins).
 
 2024-10-22 Tue: Working on new "burnAll" contract method that will burn tokens in all liquidity pools and mint new tokens in the winner's liquidity pool. Method must be called by the keeper service, which will pass the winner's pool address as a parameter. 
