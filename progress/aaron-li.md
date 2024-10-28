@@ -1,4 +1,28 @@
-2024-10-16 Wed (1.5h): Research on World PVP game. Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation). 
+2024-10-27 Sun (6.5h): Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging numerical inconsistency, implementing unpacking logics for packed signed-integer data. Restructure submenus
+
+2024-10-26 Sat (2.9h): Pano: Debugging and implementing write-contract simulation logics for computing in-the-money position values, and research alternatives. 
+
+2024-10-25 Fri (7h): Review graph documentation and experiment with local subgraph deployments. Debugging assemblyscripts for parsing contract data and persisting to Postgres. Experiment with local event indexing for Panoptic and ERC20 tokens. Pano: compare v1.0 and v0.x code and revise contract function usage in clients, remove deprecated functions and make client future-proof. Store tick with position at client. Plan for portofolio value tracking data structure. 
+
+2024-10-24 Thu (3.6h): Domain management, reusable Foundry scripts for domain initialization, debugging with multisig deployer. Launchpad contract discussion and work planning. Pano: compare v1.0 and v0.x code and revise contract function usage in clients, remove deprecated functions and make client future-proof. Store tick with position at client. Plan for portofolio value tracking data structure
+
+2024-10-23 Wed (4.1h): (Continued). Review launchpad contracts, security vulnerabilities, bonding curve math and implementation
+
+2024-10-22 Tue (1.3h): Research on truth terminal and related discussions, data, and events
+
+2024-10-21 Mon (0.4h): Discussion on upcoming meme token launchpad mechanism, work breakdown, reusable contracts from hackathon and open source repositories
+
+----
+
+2024-10-20 Sun (0h): (ETHGlobal Hackathon) 
+
+2024-10-19 Sat (0h): (ETHGlobal Hackathon) 
+
+2024-10-18 Fri (2.7h): Panoptic v1.0 pool code review (internal premium calculation, incremental update, and position settlement). Quick review of Panoptic v1.1 changes and Uniswap v4 updates. Pano: store position tick locally. Debugging and testing
+
+2024-10-17 Thu (1.8h): (ETHGlobal Conference) Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation)
+
+2024-10-16 Wed (1.5h): (ETHGlobal Conference)  Research on World PVP game. Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation). 
 
 2024-10-15 Tue (4.7h): Draft and discussion on Harmony state of DeFi projects under development and in production. Foundry buggy command debugging. Research and analysis on building Raspberry Pi 5 based validator and RPC nodes, and research and comparisons with barebone server options. Discussion on token launchpad code and project timelines. Discussion and research on RPC physical machine, and Ledger app local development issue. 
 
