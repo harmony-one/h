@@ -1,3 +1,5 @@
+2024-10-37 Sun: Futther continued lookking into When AIs play God(se). Looked into and cloned some of the tepositories such as, truth terminal, virtuous cycles. 
+
 2024-10-26 Sat: Continued work on Dune analytics. Continued further research on virtuals and GOAT.
 
 2024-10-25 Fri: Cloned and looked into virtuous-cycles world-interface, virtuals protocol, and Kaito AI. Looked further into pump.fun backend and contracts.
