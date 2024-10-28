@@ -1,3 +1,9 @@
+2024-10-25 Fri:
+- Developed a workaround for an empty hash issue, incorporating a fix that prevents empty hashes from being processed and sent to other nodes. The root cause lies in the `UpdateConsensusInformation` method, which is triggered without any changes in the blockchain, resulting in the hash being cleared while awaiting the `finalCommit` method call.  
+- Additionally implemented a fix to reduce the call count to `UpdateConsensusInformation`. This solution includes extra checks and periodic block collection to prevent consecutive, redundant calls.
+- Added logging within `LegacySync` to trace the call stack of `UpdateConsensusInformation`.
+
+
 2024-10-18 Fri:
 - Investigating with Ulad an issue where a zero hash is being transferred across the network. The issue is reproducible on the local network with external validators and results in a node fork. To resolve the issue, the node must be reverted by 1 block after the fork.
 - Created an issue for the make debug-ext command, which fails to run on Mac due to differences in command syntax.
