@@ -1,3 +1,9 @@
+2024-10-27 Sun: (2.0h) Continuation of AI workflow with Stephen.
+
+2024-10-26 Sat: (3.0h) Continued research into AI use case, especially Claude Agents for DeFi function calling on Harmony.
+
+2024-10-25 Fri:  Setup a Mini Infinite Backroom between two Llama instances. Brief community X space. 
+
 2024-10-24 Thu: xAI api set up with Amanda and Frank. Spoke with machine learning engineer for truth terminal replication. Quick sync with Stephen, telegram and harmony ecosystem is our advantage, best framework for agentic bots able to navigate Harmony on their own and on behalf of users within telegram small groups.
 
 2024-10-23 Wed: Deep dive on Andy and Truth Terminal via media. Insight: will working on intelligence, basic function calling that the bot will use needs to be added first. This means Swaps, Lend, Borrowing, etc.
