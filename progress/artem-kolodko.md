@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-28 Mon: [migrated](https://github.com/harmony-one/pump.fun.backend/commit/02c189b4aa6c7fd65673ff34a6e26c46c1122f2d) pump.fun backend to a [new contracts](https://github.com/harmony-one/pump.fun.contracts); preparing service for deployment.
+
+---
+
 2024-10-25 Fri: after Aaron's review of pump.fun contracts, we decided to switch to [another](https://github.com/harmony-one/pump.fun.contracts/commit/941994e7f8b83d0041f6a7e753355eaaac114f72) fork of pump.fun contracts, started updating pump.fun [backend](https://github.com/harmony-one/pump.fun.backend) to support new version of contracts.
 
 2024-10-24 Thu: pump.fun backend [update](https://github.com/harmony-one/pump.fun.backend/commit/03e66556ed277c729012e751674058619bf5d920): added winner determination by daily volume
