@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-10-29 Tue: [prepared](https://github.com/harmony-one/pump.fun.backend/commit/655ce09157c1a63e911582ba1e91285323b38519) pump.fun backend and [deployed](https://pump-fun-backend.fly.dev/api) on fly.io. Current features: tracking of the new tokens, calculating winner by trading amount every day, API for comments and tokens. Discussed details with Yuriy, started working on pump.fun client app.
+
 2024-10-28 Mon: [migrated](https://github.com/harmony-one/pump.fun.backend/commit/02c189b4aa6c7fd65673ff34a6e26c46c1122f2d) pump.fun backend to a [new contracts](https://github.com/harmony-one/pump.fun.contracts); preparing service for deployment.
 
 ---
