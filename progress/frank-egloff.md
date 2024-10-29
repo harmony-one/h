@@ -1,3 +1,6 @@
+2024-10-28 Mon: Implementing BC (Bonding Curve) logic integration for 1.country to enable memecoin creation for domain owners. Added token name uniqueness validation in BC contract.
+
+---
 2024-10-25 Fri: Fixed token count metrics for non-streaming chatCompletion affecting [grok model integration](https://github.com/harmony-one/HarmonyOneBot/pull/370). Deployed latest version to 1Bot. Patched sell token contract logic in Bonding Curve dApp and refactored buy and sell functionality. Deployed latest build to [ly.io on Harmony Testnet](https://bonding-app.fly.dev/).
 
 2024-10-24 Thu: Completed Grok model (xAI) integration in harmony-llm-api backend and 1Bot (accessible via /gk). Optimized default model commands to utilize highest-tier variants (/g for Gemini 1.5, /c for Claude 3.5 Sonnet, /ask for GPT-4). Fixed BondingCurve token purchase logic issues and enhanced dApp interface for improved UX.
