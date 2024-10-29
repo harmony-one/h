@@ -1,3 +1,13 @@
+2024-10-29 Tue: (Todo: Determine all smart contract addresses and deploy them in localnet; deploy bundler node with these localnet contracts)
+
+2024-10-28 Mon: The workaround to the `trace_transaction` is to call shard 1's endpoint on the localnet as shard 0's is disabled due to the heavy load it is processing. The internal information for transaction is listed. There exist a pattern but theere is no set way to determine the contract address from the internal transaction infromation. Other chains retrieves it using Viem's `getContarctAddress` (which in our chain, returns a null). The prominent solution is to manually find out the contract addresses, as they are deterministically deployed, and ensure the addresses is included in the internal transaction details.
+
+---
+
+2024-10-24 Fri: Attempting to find a way around retrieving contract addresses once they are deploye using `CREATE2`. The transaction details are not listed in the transaction receipt and the only way is to call `trace_transaction` which is not enabled in localnet.
+
+2024-10-23 Thu: Integrated Gnosis Safe's Singleton factory to enable deterministic deployments for Pimlico's smart contracts.
+
 2024-10-22 Wed: Pimlico's Alto implementation requires entrypoint simulation and refill helper contracts to be deployed. The deployment script does not work with Harmony. Making adjustments in order to enable the deploy scripts.
 
 2024-10-21 Tue: Stackup bundler [repo](https://github.com/stackup-wallet/stackup-bundler) has been archived. Began going over Pimlico's Alto implementation in order to migrate.
