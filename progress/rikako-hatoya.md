@@ -1,6 +1,8 @@
-2024-10-37 Sun: Futther continued lookking into When AIs play God(se). Looked into and cloned some of the tepositories such as, truth terminal, virtuous cycles. 
+2024-10-28 Mon: Looked into 1bot and its grok model integration, also looked into backend for pump.fun. Continued research on Goatse, checking through infinite backroom, and its replica universal backroom repo and CLooI.
 
-2024-10-26 Sat: Continued work on Dune analytics. Continued further research on virtuals and GOAT.
+2024-10-27 Sun (2.5h): Further continued looking into When AIs play God(se). Looked into and cloned some of the repositories such as, truth terminal, virtuous cycles. 
+
+2024-10-26 Sat (2.0h): Continued work on Dune analytics. Continued further research on virtuals and GOAT.
 
 2024-10-25 Fri: Cloned and looked into virtuous-cycles world-interface, virtuals protocol, and Kaito AI. Looked further into pump.fun backend and contracts.
 
