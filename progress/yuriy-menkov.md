@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-28 Mon: Synchronized with the team regarding the development of pumpeth features. Received adjustments and [references](https://github.com/polymorpher/panoptic-v1-core/blob/0a0f8172159b09edd76cbe215d9766d116fc9240/contracts/PanopticFactory.sol#L495) from Aaron regarding integration with Uniswap V3. Working on deploying a new pool [feature](https://github.com/Uniswap/v3-core/blob/4024732be626f4b4299a4314150d5c5471d59ed9/contracts/UniswapV3Factory.sol#L35) and minting from an existing pool.
+
+---
+
 2024-10-25 Fri: Working on finalizing the burnAllAndReleaseWinner method - Changed the Token data structure and added a new class that will allow me to work with Uniswap V3 via PositionManager, instead of V2, which is used in the current version. Based on open Uniswap [documentation](https://docs.uniswap.org/contracts/v3/guides/providing-liquidity/mint-a-position) and examples.
 
 2024-10-24 Thu: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/3/files) contracts v2 (based on [repository](https://github.com/qiwihui/pumpeth)). Added tests for token creating and sell/buy with factory. Added more events and burnAllAndReleaseWinner method (The same logic for determining the winner with web2 service - then we call this method and it burns all tokens except the winner, for the winner we create a liquidity pool)
