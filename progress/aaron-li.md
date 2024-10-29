@@ -1,3 +1,7 @@
+2024-10-28 Mon (4.5h): Discussion on work progress of bonding curve, meme launchpad contracts, frontend and backend. Pano: new developer setup instructions. RPi RPC node setup, custom build, and database operation. Pano: specify tasks for Telegram app and direct CLI execution. Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging and implementing unpacking logics for packed signed-integer data. Restructure submenus.
+
+----
+
 2024-10-27 Sun (6.5h): Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging numerical inconsistency, implementing unpacking logics for packed signed-integer data. Restructure submenus
 
 2024-10-26 Sat (2.9h): Pano: Debugging and implementing write-contract simulation logics for computing in-the-money position values, and research alternatives. 
