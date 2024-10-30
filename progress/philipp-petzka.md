@@ -1,25 +1,28 @@
-2024-10-23: Ai Agent coin research
+2024-10-23 Wed: AI Agent coin research
 
-2024-10-22: Lending market user stories, start of writing the Harmony yield enhancer product description
+2024-10-22 Tue: Lending market user stories, start of writing the Harmony yield enhancer product description
 
-2024-10-21: Researching Pump.Fun iterations, AI Agent Tokens. Continued the product conception of the AAVE V2-based lending market
+2024-10-21 Mon: Researching Pump.Fun iterations, AI Agent Tokens. Continued the product conception of the AAVE V2-based lending market
 
-2024-10-17: Low risk farming research, Lending market product conception
+---
 
-2024-10-16: Lending market tokenomics conception in detail,
+2024-10-17 Thu: Low risk farming research, Lending market product conception
 
-2024-10-15: Treasury farming feedback and discussion, more stablecoin research, especially yield-bearing products, contacted all potential partners
+2024-10-16 Wed: Lending market tokenomics conception in detail,
 
-2024-10-14: Research of yield-bearing products, reached out to a couple more stablecoin issuers
+2024-10-15 Tue: Treasury farming feedback and discussion, more stablecoin research, especially yield-bearing products, contacted all potential partners
 
-2024-10-10: Prioritizing, further due diligence on selected yield opportunities
+2024-10-14 Mon: Research of yield-bearing products, reached out to a couple more stablecoin issuers
 
-2024-10-09: Identification of Yield opportunities for treasury income
+---
 
-2024-10-08: Lending market tokenomics design, farming DD, research
+2024-10-10 Thu: Prioritizing, further due diligence on selected yield opportunities
 
-2024-10-07: Lending market research, Outline tokenomics, Outline product description
+2024-10-09 Wed: Identification of Yield opportunities for treasury income
 
+2024-10-08 Tue: Lending market tokenomics design, farming DD, research
+
+2024-10-07 Mon: Lending market research, Outline tokenomics, Outline product description
 
 
 
