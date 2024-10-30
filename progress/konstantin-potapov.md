@@ -3,11 +3,13 @@
 - Additionally implemented a fix to reduce the call count to `UpdateConsensusInformation`. This solution includes extra checks and periodic block collection to prevent consecutive, redundant calls.
 - Added logging within `LegacySync` to trace the call stack of `UpdateConsensusInformation`.
 
+---
 
 2024-10-18 Fri:
 - Investigating with Ulad an issue where a zero hash is being transferred across the network. The issue is reproducible on the local network with external validators and results in a node fork. To resolve the issue, the node must be reverted by 1 block after the fork.
 - Created an issue for the make debug-ext command, which fails to run on Mac due to differences in command syntax.
 
+---
 
 2024-10-11 Fri:
 - 1-second finality: Removed all related block signing and commission split changes. Submitted a new PR with no modifications. The 1-second finality will proceed without any commission split modification.
@@ -15,14 +17,16 @@
 - Fixed the branch with lock acquisition to ensure it passes all tests.
 - Reviewed release branch.
 
+---
 
 2024-10-04 Fri:
 - Resolved conflicts between the latest development branch and the 1-second-finality feature.
 - Reviewed a PR from the community regarding slice initialization. The issue arises from mixing different initialization methods, which can lead to undefined behavior. Fortunately, this seems to occur in unused or dead code.
 - Updated configurations for the HIP-32 update, including the epoch fork and chain configuration. 
 
+---
 
-**2024 Q3 Review**
+2024 Q3 Review
 
 Added the `effectiveGasPrice` [field](https://github.com/harmony-one/harmony/pull/4759) to the `getTransactionReceipt` method to maintain compatibility with Ethereum. Completed the implementation of 1-second block [finality](https://github.com/harmony-one/harmony/pull/4738), significantly improving transaction confirmation speeds. [Finalized](https://github.com/harmony-one/harmony/pull/4738) a new commission split mechanism to support 1-second finality and a 67% vote power threshold.
 
