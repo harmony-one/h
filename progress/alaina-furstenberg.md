@@ -1,4 +1,4 @@
-2024-10-29 Tue: First draft of the October 2024 newsletter.
+2024-10-29 Tue: First draft of the October 2024 newsletter. [Thread](https://x.com/harmonyprotocol/status/1851460861610828093) on Truth Terminal and animation in Pika.art and Midjourney
 
 2024-10-28 Mon: Continued creations on Pika.art and Remini, exploring how Pika's latest feature releases can be incorporated into our media graphics. Experimented with Adobe's latest AI updates, editing some of my Midjourney creations. Sync with SimpleSwap for co-marketing.
 
