@@ -8,7 +8,7 @@ On the protocol side, I identified and troubleshooted a fork issue affecting bot
 
 Lastly, the planned v2024.3.0 release has been updated to [v2024.3.1](https://github.com/harmony-one/harmony/releases/tag/v2024.3.1) due to a deprecated GitHub action in our CI pipeline.
 
---
+---
 
 2024-10-11 Fri: This week, I participated in a technical discussion with the validator community regarding HIP32 and backup node configurations. The hardfork scheduled for 31st October is still on track. Additionally, I've been involved to help with the rescue of DaVinci.
 
