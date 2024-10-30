@@ -1,3 +1,5 @@
+2024-10-29 Tue: Continued working on replicating repos from Monday. Tested and researched more repos on human-level prompt engineering/personality injection such as worldsim and yousim.
+
 2024-10-28 Mon: Looked into 1bot and its grok model integration, also looked into backend for pump.fun. Continued research on Goatse, checking through infinite backroom, and its replica universal backroom repo and CLooI.
 
 ---
