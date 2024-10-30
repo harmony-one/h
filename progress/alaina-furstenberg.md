@@ -1,3 +1,15 @@
+2024-10-29 Tue: First draft of the October 2024 newsletter.
+
+2024-10-28 Mon: Continued creations on Pika.art and Remini, exploring how Pika's latest feature releases can be incorporated into our media graphics. Experimented with Adobe's latest AI updates, editing some of my Midjourney creations. Sync with SimpleSwap for co-marketing.
+
+---
+
+2024-10-27 Sun: ONE Bot marketing plan [draft]().
+
+2024-10-26 Sat: Weekly [community recap post](https://x.com/harmonyprotocol/status/1850200967439855624)
+
+2024-10-25 Fri: Update of the [community section](harmony.one). Creation of graphics using Midjourney and testing with Pika.art, shown [here]().
+
 2024-10-24 Thu: [Thread](https://x.com/harmonyprotocol/status/1849541732922425669) of ONE Bot features + design of graphic using Photoshop/Midjourney.
 
 2024-10-23 Wed: Playing and [promotion](https://x.com/harmonyprotocol/status/1849117419480273125) of FlappyH1. [Thread](https://x.com/harmonyprotocol/status/1849172629904826680) on AIs Play God(se) plus the design/animation of a supporting graphic. Testing of /s on ONE Bot to generate ascii style artwork, results [here](https://www.notion.so/harmonyone/s-on-ONE-Bot-Images-782ec3a491584dfc9efe3847f60e384b).
