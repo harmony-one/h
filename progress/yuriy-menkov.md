@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-10-30 Wed: Expanding the logic when burning (non-winning) tokens - now there are 2 ways: either we allow liquidity to be created and pairs are stored on the pump_eth contract, or we allow only one user to mint tokens, otherwise we will not be able to reset all balances (burn everything). Discussing both options with Aaron.
+
+2024-10-29 Tue: [Extended](https://github.com/harmony-one/pump.fun.contracts/pull/4) TokenFactory contract with uri tokens params, [added](https://github.com/harmony-one/pump.fun.contracts/pull/4) more test cases: create several tokens with winner selecting. Updated create tokens logic: store new token numbers in an array - so that we can iterate through them when burning.
+
 2024-10-28 Mon: Synchronized with the team regarding the development of pumpeth features. Received adjustments and [references](https://github.com/polymorpher/panoptic-v1-core/blob/0a0f8172159b09edd76cbe215d9766d116fc9240/contracts/PanopticFactory.sol#L495) from Aaron regarding integration with Uniswap V3. Working on deploying a new pool [feature](https://github.com/Uniswap/v3-core/blob/4024732be626f4b4299a4314150d5c5471d59ed9/contracts/UniswapV3Factory.sol#L35) and minting from an existing pool.
 
 ---
