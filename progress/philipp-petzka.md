@@ -1,3 +1,18 @@
+
+2024-10-31 Thu: DeFi Research on synthetic credit lines, Product launches
+
+2024-10-30 Wed: Finalization of the Harmony Yield Enhancer Product Description
+
+2024-10-29 Tue: DWF Labs Call, Further Research on MakerDAO, Governance Contract Tokenomics Ideation for 1Swap
+
+2024-10-28 Mon: Harmony Yield Enhancer Product Description, Lednign Market Finalization
+
+---
+
+2024-10-25 Fri: AI Agent Research, Ideation of Ecosystem products
+
+2024-10-24 Thu: Lending market finalization, DeFi Research
+
 2024-10-23 Wed: AI Agent coin research
 
 2024-10-22 Tue: Lending market user stories, start of writing the Harmony yield enhancer product description
@@ -5,8 +20,9 @@
 2024-10-21 Mon: Researching Pump.Fun iterations, AI Agent Tokens. Continued the product conception of the AAVE V2-based lending market
 
 ---
+2024-10-18 Fri: DeFi Research, Ideation
 
-2024-10-17 Thu: Low risk farming research, Lending market product conception
+2024-10-17 Thu: Low-risk farming research, Lending market product conception
 
 2024-10-16 Wed: Lending market tokenomics conception in detail,
 
@@ -15,6 +31,7 @@
 2024-10-14 Mon: Research of yield-bearing products, reached out to a couple more stablecoin issuers
 
 ---
+2024-10-11 Fri: Detailing selected yield strategies and their execution
 
 2024-10-10 Thu: Prioritizing, further due diligence on selected yield opportunities
 
