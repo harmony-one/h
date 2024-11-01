@@ -1,3 +1,12 @@
+2024-11-01 Fri: For the backup nodes detection, I've made the detection script fully automated. now it is running by schedule, collect info from the staking dashboard, prometheus gateway, check only active validators and can filter false-positives situations, e.x. validator have been updated and have two peers - old and new.
+Main advantage, this script was able to catch the real validator with active backup node after HIP32, it can possibly fork the shard 0.
+
+On the ops side, I've found the root cause and hotfixed the watchdog cross-link issue - we doesn't have the latest crosslink info, which is important value. Now our on-call engineers have this info.
+
+On the community side, various support before and after HIP32 like consulting validators and answering questions.
+
+--
+
 2024-10-25 Fri: For the backup nodes detection,1 backup node left Guarda and it is inactive - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
 
 On the ops side, I was focused on the helping with setup archival node for the partner - Pocket network, tried the 2 phase sync - active and fetch deltas, documented all the steps.
