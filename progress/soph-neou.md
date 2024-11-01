@@ -1,3 +1,9 @@
+2024-11-01 Fri: This week was dedicated to final preparations for the HIP32 hardfork, which successfully occurred on Thursday, October 31, at 13:18 UTC without major incidents. However, there was an issue at the end of the epoch where the block height reported by the [staking protocol for signing was lower than expected](https://github.com/harmony-one/harmony/issues/4789). The focus for the upcoming week will be on analyzing and troubleshooting this issue.
+
+Additionally, I reviewed and approved several pull requests aimed at improving streamsync, which should help address the ongoing 0x0 block hash issue. I was able to replicate this issue in localnet by intensively running a CPU stress tester and tuning the setup. However, replication is challenging, as it requires multiple attempts to achieve the right conditions.
+
+---
+
 2024-10-25 Fri: This week, I reviewed and tested multiple PRs. For the [0x0 hash bug fix PR](https://github.com/harmony-one/harmony/pull/4778), the PR only addressed the streamsync syncing method, while the issue also impacts the DNS sync method. Additionally, I tested the [1-second finality PR](https://github.com/harmony-one/harmony/pull/4771) in localnet, which revealed issues with signature collection as soon as the 1-second epoch block occurs. Lastly, I reviewed and tested two streamsync improvement PRs([1](https://github.com/harmony-one/harmony/pull/4762) and [2](https://github.com/harmony-one/harmony/pull/4772)), which have shown positive outcomes in localnet, including a faster start to the sync process when nodes initialize.
 
 ---
