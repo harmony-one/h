@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-01 Fri: pump.fun: implemented token [image](https://github.com/harmony-one/pump.fun.backend/commit/379bde4929bc3f017b037b1115fb5943012ca1ce) and token [metadata](https://github.com/harmony-one/pump.fun.backend/commit/9b3037018067e00e704a3884ac5c3a5f5bd59905) upload (metadata will be stored in Google Cloud Storage), [implemented](https://github.com/harmony-one/pump.fun.client/commit/15fad4ff15f863b63275e3cf63914f6e90345ac4) full flow of token creation in the client. Started last steps to update API and show token image in Client.
+
 2024-10-31 Thu: pump.fun client: [implemented](https://github.com/harmony-one/pump.fun.client/commit/0915a3f0d7d8b245654bb0c6d3bb9ef8440feb70) tokens board page, token page and comments related to specific token (post and read). pump.fun backend: [updated](https://github.com/harmony-one/pump.fun.backend/commit/a4f064a4a7eb020f2929a99fc153171f8ed6da57) database schema and API to support new features.
 
 2024-10-30 Wed: pump.fun client: initialized basic project structure using latest versions of viem and wagmi; started working on tokens page. pump.fun backend: [added](https://github.com/harmony-one/pump.fun.backend/commit/040c8efd41fe51f5cdce4b29417bb135aa70a12e) indexer state, added symbol and name param in Token entity in database.
