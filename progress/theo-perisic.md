@@ -1,3 +1,13 @@
+2024-10-31 Thu: Updates for Harmony Improvement Proposal (HIP-32) and Binance BEP2. Successful leader rotation decentralization.
+
+2024-10-30 Wed: Stanford AI x Crypto Summit and team sync. Insights: lots of talk about truth terminal, but as hype dies down, accessibility will be the main use case for the intersection of AI x Crypto.
+
+2024-10-29 Tue: Review of Harmony yield-baring stablecoin proposal. Released official Recovery Multisig Custodian [(RMC) Election forum post](https://x.com/theoperisic/status/1851347534536421667).
+
+2024-10-28 Mon: Sync with SimpleSwap, “Get ONE” live across ecosystem for direct transfers from Explorer, Swap, etc. Planning for Harmony1bot marketing into DeFi actions via AI.
+
+---
+
 2024-10-27 Sun: (2.0h) Continuation of AI workflow with Stephen.
 
 2024-10-26 Sat: (3.0h) Continued research into AI use case, especially Claude Agents for DeFi function calling on Harmony.
