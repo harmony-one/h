@@ -1,3 +1,11 @@
+2024-11-02 Sat: Last week marked a significant milestone with the successful HIP32 hardfork. This achievement enhances the decentralization of the Harmony network by granting complete governance to the community, making the Harmony chain fully decentralized. So far, the chain is performing smoothly, producing blocks as expected. We are closely monitoring the network and working on an issue about low number of to_sign for a few validators. We plan to confirm stability after a few successful epochs.
+
+Another issue was blocks were being produced with a `0x0` hash. After discussions with the team, we identified that state resets were being triggered, potentially due to the syncing modules' `BlocksSynchronized` signal resetting the consensus state. To address this, I created [PR #4787](https://github.com/harmony-one/harmony/pull/4787). With this change, the `BlocksSynchronized` signal now triggers only when new blocks are added to the chain during the syncing process, preventing unnecessary consensus resets and ensuring that resets occur only when truly required. This PR could help to resolve the issue and it is still under tests.
+
+Additionally, I worked on improving block commit logic. I submitted [PR #4786](https://github.com/harmony-one/harmony/pull/4786), which refines the `finalCommit` function in the consensus module. This PR enhances logging and introduces return statements after error checks to halt processing in case of critical errors, ensuring the function exits immediately upon encountering any issues.
+
+---
+
 2024-10-26 Sat: Last week, the team reviewed and approved [PR #4762](https://github.com/harmony-one/harmony/pull/4762), which has now been merged into the `dev` branch. Early testing shows improvements in syncing performance.
 
 Additionally, [PR #4772](https://github.com/harmony-one/harmony/pull/4772) was reviewed. After resolving all merge conflicts, it is now ready for merging. Together, these two PRs bring good enhancements to stream handling and stream sync mechanisms.
