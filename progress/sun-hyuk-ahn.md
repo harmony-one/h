@@ -1,3 +1,9 @@
+2024-11-01 Fri: Coordinating with validators to get on board with the hard fork. On call attending testnet consensus lost and localnet fixes.
+
+2024-10-31 Thu: On call for the hard fork. Examining the new tool for external leader rotation.
+
+2024-10-30 Wed: Attended Palo Alto AI x Web3 Summit.
+
 2024-10-29 Tue: (Todo: Determine all smart contract addresses and deploy them in localnet; deploy bundler node with these localnet contracts)
 
 2024-10-28 Mon: `trace_transaction` in shard 0 is disabled due to the heavy load it is processing, however found out that it is allowed through shard 1's RPC (in localnet case). The internal information for transaction is listed. There exist a pattern but theere is no set way to determine the contract address from the internal transaction infromation. Other chains retrieves it using Viem's `getContarctAddress` (which in our chain, returns a null). The prominent solution is to manually find out the contract addresses, as they are deterministically deployed, and ensure the addresses is included in the internal transaction details.
