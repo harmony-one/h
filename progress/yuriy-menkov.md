@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-01 Fri: Working on the logic for determining the winner of the contract side: store a map that accumulates money paid for each token for each day, and the total number of token created so far until each day. 
+
+2024-10-31 Thu: Synced with Aaron about the best token burning flow. [Updated](https://github.com/harmony-one/pump.fun.contracts/commit/33bc46bea0fbf6b9c1f6f2d94b9ecd072d800f6b) the contract with new logic - now after determining the winner, each user must call a method that check if a token they hold is the winner for the day, and if not, mints the winner token for the user based on an amount calculated by the accumulated money ( across all days) paid for the token which the user hold, divide by the accumulated money paid for the winning token. [Added](https://github.com/harmony-one/pump.fun.contracts/blob/main/scripts/test.js) example for Artem.
+
 2024-10-30 Wed: Expanding the logic when burning (non-winning) tokens - now there are 2 ways: either we allow liquidity to be created and pairs are stored on the pump_eth contract, or we allow only one user to mint tokens, otherwise we will not be able to reset all balances (burn everything). Discussing both options with Aaron.
 
 2024-10-29 Tue: [Extended](https://github.com/harmony-one/pump.fun.contracts/pull/4) TokenFactory contract with uri tokens params, [added](https://github.com/harmony-one/pump.fun.contracts/pull/4) more test cases: create several tokens with winner selecting. Updated create tokens logic: store new token numbers in an array - so that we can iterate through them when burning.
