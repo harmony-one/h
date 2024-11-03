@@ -1,5 +1,3 @@
----
-
 2024-11-03 Sun: Review of team's Github formatting, finalizing the October newsletter.
 
 2024-11-02 Sat: [Tweet](https://x.com/harmonyprotocol/status/1852749766033285428) recapping the Harmony community section. 
