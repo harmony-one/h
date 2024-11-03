@@ -1,3 +1,15 @@
+---
+
+2024-11-03 Sun: Review of team's Github formatting, finalizing the October newsletter.
+
+2024-11-02 Sat: [Tweet](https://x.com/harmonyprotocol/status/1852749766033285428) recapping the Harmony community section. 
+
+2024-11-01 Fri: Update of the [Harmony community section](harmony.one). Synced with Li on edits for the October newsletter and made adjustments. Designed the article's thumbnail. Testing of the latest Sonnet 3.5 model on ONE Bot.
+
+2024-10-31 Thu: [Promotion](https://x.com/harmonyprotocol/status/1852114470547730545) of the successful launch of HIP32 on X. Design of graphic depicting external leader rotation in Midjourney.
+
+2024-10-30 Wed: Tweeted [reminder](https://x.com/harmonyprotocol/status/1851840002172555481) of the upcoming hard fork plus [announced](https://x.com/harmonyprotocol/status/1851675038753395072) Binance Will Cease Support for Deposits and Withdrawals on BNB Beacon Chain. 
+
 2024-10-29 Tue: First draft of the October 2024 newsletter. [Thread](https://x.com/harmonyprotocol/status/1851460861610828093) on Truth Terminal and animation in Pika.art and Midjourney
 
 2024-10-28 Mon: Continued creations on Pika.art and Remini, exploring how Pika's latest feature releases can be incorporated into our media graphics. Experimented with Adobe's latest AI updates, editing some of my Midjourney creations. Sync with SimpleSwap for co-marketing.
