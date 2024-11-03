@@ -1,3 +1,6 @@
+
+2024-11-02 Sat: Worked on finding top holders for some of the meme coins. Also looked into multisig on shared wallet.
+
 2024-11-01 Fri: Looked into FairMoon, perplexity and terminal of fun. Conducted further research on CryptoxAI event on delphi digital, looked through pump.fun bot [repo](https://github.com/chainstacklabs/pump-fun-bot?tab=readme-ov-file) to recreate a deploy.
 
 2024-10-31 Thu: Continued further market research by looking through CryptoxAI month hosted on Delphi Digital. Further looked into pump.fun contracts and more research on $GOAT trends.
