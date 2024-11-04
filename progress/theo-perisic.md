@@ -1,3 +1,13 @@
+2024-11-04 Mon: Exchange listing continuation following Harmony Improvement Proposal (HIP-32). Completed Swap listings token approval.
+
+---
+
+2024-11-03 Sun: (2.0h) Continued research into AI fund manager DAOs. Insight: vitality still dependent on human-in-the-loop, people participate and chat with bot in hopes for fund to invest, removing human input removes chances at memetic adoption. Removing human-in-the-loop for twitter and wallet control is the next phase.
+
+2024-11-02 Sat: (2.0h) Research into DAOsdotfun. Insight: clear dominance from ai16z, portfolio less on immediate successful pumpdotfun tokens, but general adoption.
+
+2024-11-01 Fri: Deep dive on ai16z and breakdown of best AI search tooling. Continued community outreach following successful Harmony Improvement Proposal (HIP-32).
+
 2024-10-31 Thu: Updates for Harmony Improvement Proposal (HIP-32) and Binance BEP2. Successful leader rotation decentralization.
 
 2024-10-30 Wed: Stanford AI x Crypto Summit and team sync. Insights: lots of talk about truth terminal, but as hype dies down, accessibility will be the main use case for the intersection of AI x Crypto.
