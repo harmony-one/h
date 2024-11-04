@@ -1,3 +1,10 @@
+2024-11-01 Fri:
+- I completed the final preparations for the HIP-32 update, which was successfully activated at epoch 2152 without major incidents. Following the update, my focus shifted to analyzing and troubleshooting issues reported by validators.
+- The `UpdateConsensusInformation` method has been removed. Previously, calling this method before the finalCommit method could have resulted in undefined behavior or even a hard fork. Its removal reduces the likelihood of inadvertently triggering a clean state.
+ 
+
+---
+
 2024-10-25 Fri:
 - Developed a workaround for an empty hash issue, incorporating a fix that prevents empty hashes from being processed and sent to other nodes. The root cause lies in the `UpdateConsensusInformation` method, which is triggered without any changes in the blockchain, resulting in the hash being cleared while awaiting the `finalCommit` method call.  
 - Additionally implemented a fix to reduce the call count to `UpdateConsensusInformation`. This solution includes extra checks and periodic block collection to prevent consecutive, redundant calls.
