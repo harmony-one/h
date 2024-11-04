@@ -1,4 +1,4 @@
-2024-11-04 Mon: Exchange listing continuation following Harmony Improvement Proposal (HIP-32). Completed Swap listings token approval.
+2024-11-04 Mon: Exchange listing continuation following Harmony Improvement Proposal (HIP-32). Completed Swap listings token approval. [ai16z space](https://x.com/shawmakesmagic/status/1848553697611301014) review.
 
 ---
 
