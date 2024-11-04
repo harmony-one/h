@@ -1,3 +1,8 @@
+
+2024-11-04 Mon: Posting of [October Newsletter](https://open.substack.com/pub/harmonyone/p/october-2024-100-external-ai-memes) to Substack and a [thread on X](). Created an AI podcast with NotebookLM and published a video to [Youtube](https://youtu.be/rf9dzJibXbI).
+
+---
+
 2024-11-03 Sun: Review of team's Github formatting, finalizing the October newsletter.
 
 2024-11-02 Sat: [Tweet](https://x.com/harmonyprotocol/status/1852749766033285428) recapping the Harmony community section. 
