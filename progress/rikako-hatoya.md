@@ -1,3 +1,4 @@
+2024-11-03 Sun: Played around with Helius playground. Looked into Solana RPCs/APIs/webhooks.
 
 2024-11-02 Sat: Worked on finding top holders for some of the meme coins. Also looked into multisig on shared wallet.
 
