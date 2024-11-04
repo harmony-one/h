@@ -1,5 +1,5 @@
 
-2024-11-04 Mon: Posting of [October Newsletter](https://open.substack.com/pub/harmonyone/p/october-2024-100-external-ai-memes) to Substack and a [thread on X](). Created an AI podcast with NotebookLM and published a video to [Youtube](https://youtu.be/rf9dzJibXbI).
+2024-11-04 Mon: Posting of [October Newsletter](https://open.substack.com/pub/harmonyone/p/october-2024-100-external-ai-memes) to Substack and a [thread on X](https://x.com/harmonyprotocol/status/1853578355087737180). Created an AI podcast with NotebookLM and published a video to [Youtube](https://youtu.be/rf9dzJibXbI).
 
 ---
 
