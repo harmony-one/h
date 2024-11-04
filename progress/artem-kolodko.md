@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-04 Mon: prepared new features and deploed the first version of [demo client](https://pump-app.netlify.app/): [added](https://github.com/harmony-one/pump.fun.client/commit/8e16b9e9b3245fa4ec47bac499f682f2108d52aa) token trades history tab on token page, [implemented](https://github.com/harmony-one/pump.fun.client/commit/1d47f1007901752e4897aba23a1c3384c31db95f) token trade (buy / sell), user [profile](https://github.com/harmony-one/pump.fun.client/commit/1551ae5bde8611344d2e6c6f73ee5211240abdcc) info and token balances.
+
+---
+
 2024-11-01 Fri: pump.fun: implemented token [image](https://github.com/harmony-one/pump.fun.backend/commit/379bde4929bc3f017b037b1115fb5943012ca1ce) and token [metadata](https://github.com/harmony-one/pump.fun.backend/commit/9b3037018067e00e704a3884ac5c3a5f5bd59905) upload (metadata will be stored in Google Cloud Storage), [implemented](https://github.com/harmony-one/pump.fun.client/commit/15fad4ff15f863b63275e3cf63914f6e90345ac4) full flow of token creation in the client. Started last steps to update API and show token image in Client.
 
 2024-10-31 Thu: pump.fun client: [implemented](https://github.com/harmony-one/pump.fun.client/commit/0915a3f0d7d8b245654bb0c6d3bb9ef8440feb70) tokens board page, token page and comments related to specific token (post and read). pump.fun backend: [updated](https://github.com/harmony-one/pump.fun.backend/commit/a4f064a4a7eb020f2929a99fc153171f8ed6da57) database schema and API to support new features.
