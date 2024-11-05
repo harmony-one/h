@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-05 Tue: pump.fun client update: added user tag and reply highlight, deployed [demo](https://pump-app.netlify.app) update. Collected internal feedback from the team; started working on the user profile page with the list of purchased tokens.
+
 2024-11-04 Mon: prepared new features and deploed the first version of [demo client](https://pump-app.netlify.app/): [added](https://github.com/harmony-one/pump.fun.client/commit/8e16b9e9b3245fa4ec47bac499f682f2108d52aa) token trades history tab on token page, [implemented](https://github.com/harmony-one/pump.fun.client/commit/1d47f1007901752e4897aba23a1c3384c31db95f) token trade (buy / sell), user [profile](https://github.com/harmony-one/pump.fun.client/commit/1551ae5bde8611344d2e6c6f73ee5211240abdcc) info and token balances.
 
 ---
