@@ -1,3 +1,11 @@
+2024-11-04 Mon: Finalized localnet smart contract deployment using Safe Singleton Factory. Now able to deploy Alto bundler with consistent deterministic addresses. Will work on testing simple accounts tomorrow.
+
+---
+
+2024-11-03 Sun (8 hr): On call monitoring hardfork and following up on validator activities.
+
+2024-11-02 Sat (8 hr): On call monitoring hardfork and following up on validator activities.
+
 2024-11-01 Fri: Coordinating with validators to get on board with the hard fork. On call attending testnet consensus lost and localnet fixes.
 
 2024-10-31 Thu: On call for the hard fork. Examining the new tool for external leader rotation.
