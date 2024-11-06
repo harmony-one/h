@@ -1,4 +1,6 @@
-2024-11-05 Tue: Testing of Pump One, minted, bought/sold, and left comments. Had some interfaces suggestions for Artem, including removing the 'Go back' button and instead having the logo return the user to home. Sync with Li and the eng team. Medieval meme generation on Glif. Promotion of the ONE Show this Sunday.
+2024-11-06 Wed: Promotion of FlappyH1, and of RMC elections with a Glify meme.
+
+2024-11-05 Tue: Testing of Pump One, minted, bought/sold, and left comments. Had some interfaces suggestions for Artem, including removing the 'Go back' button and instead having the logo return the user to home. Sync with Li and the eng team. Medieval meme generation on Glif. [Promotion of the ONE Show](https://x.com/harmonyprotocol/status/1853966395568246999) this Sunday.
 
 2024-11-04 Mon: Posting of [October Newsletter](https://open.substack.com/pub/harmonyone/p/october-2024-100-external-ai-memes) to Substack and a [thread on X](https://x.com/harmonyprotocol/status/1853578355087737180). Created an AI podcast with NotebookLM and published a video to [Youtube](https://youtu.be/rf9dzJibXbI).
 
