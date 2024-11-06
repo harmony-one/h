@@ -1,3 +1,5 @@
+2024-11-06 Wed: This week, I started writing the product description of a Gauge system for 1Swap. The critical point here is the tokenomics. Although veDEXes have proven their PMF, the failure rate of new veDEXes is high due to their tokenomics. My focus is to develop a sustainable token system that dynamically grows with Harmony. For that, I was researching innovative tokenomics and recent standards at other protocols such as IntentX, Liquid Driver, Ramses, Camelot, and others. 
+
 
 2024-10-31 Thu: DeFi Research on synthetic credit lines, Product launches
 
