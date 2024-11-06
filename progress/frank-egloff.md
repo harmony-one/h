@@ -1,3 +1,5 @@
+2024-11-05 Tue: Workedo on splitting BondingCurve contract architecture into price calculation and token management modules for improved separation of concerns. Team sync concluded on integrating BondingCurve contracts into pump.fun repo, enabling token creation via 1.country with embedded widget for token metrics and rankings. Implementing telegram error notification system for harmony-llm-api backend following luma model stability issues in 1Bot.
+
 2024-11-04 Mon: Deployed sliding window implementation on Harmony0Bot for pre-1Bot testing, refactored /new command for multi-conversation refresh. Added prompt command, to set new models context/system message. After reviewing bonding curve repo, architecting solution with two main contracts: MemeCoinBattle for daily WONE prize competitions and BondingCurve for price calculations. Implementing clone contracts for gas-optimized token deployment, where winning tokens collect WONE reserves from eliminated competitors.
 
 ---
