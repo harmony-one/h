@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-07 Thu: Synced with Artem regarding UX cases - decided that after winning the token ceases to participate in the competition and can only be converted into a Uniswap liquidity pool with a fixed initial supply. Added winners list - to prevent the winner from participating in the voting again and to support payments for past dates.
+
+2024-11-06 Wed: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/7/files) more features to pump contracts: stored contracts creation date, restriction of buy and sale operations by funding rate interval (1 day after contract creation date), added get winner by date view.
+
 2024-11-05 Tue: Finished implementing the logic for determining the winner on the contract side. Synchronized with Aaron and Frank to adjust the business logic of the application. Working on adding new cases: after the winner is determined, the token is eliminated from the competition and winners liquidity pool is automatically created to Uniswap.
 
 2024-11-04 Mon: Synchronized with Artem regarding the launch of the pump demo application, helped with the integration of contract methods and testing. Continue to implement the logic for determining the winner by day on the contract side.
