@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-07 Thu: pump.fun backend: [added](https://github.com/harmony-one/pump.fun.backend/commit/6fbafc28e0ff1d70aac04db5e4187a776f2802e1) token holders and totalSupply indexing; client: [added](https://github.com/harmony-one/pump.fun.client/commit/087a0f34e90b73c164a86a83efdf8b0aab10771e) token holders list
+
 2024-11-06 Wed: pump.fun: [added](https://github.com/harmony-one/pump.fun.client/commit/337d71f6cadcfcf31d1971da7a9428d130aaa591) user profile page with the list of created tokens; started working on latest trade and token items on the top of the page
 
 2024-11-05 Tue: pump.fun client update: [added](https://github.com/harmony-one/pump.fun.client/commit/cad884d88c90052bfffae55cc7eb6e4fe9d2de64) user tag and reply highlight, deployed [demo](https://pump-app.netlify.app) update. Collected internal feedback from the team; started working on the user profile page with the list of purchased tokens.
