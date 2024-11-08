@@ -1,3 +1,9 @@
+2024-11-07 Thu: Sync with co-marketing opportunity for Harmony. Yield bearing stablecoin planning with Phillipp, and Recovery Multisig elections sync for tomorrow.
+
+2024-11-06 Wed: Continued Recovery Multisig Custodian (RMC) elections, extended due to US elections, RMC vote will open this Friday, Nov. 8 2024. Shared ai16z open source repo with Rika.
+
+2024-11-05 Tue: Deep dive into ai16z open source documentation, review of pumpONE functionality from Artem’s code.
+
 2024-11-04 Mon: Exchange listing continuation following Harmony Improvement Proposal (HIP-32). Completed Swap listings token approval. [ai16z space](https://x.com/shawmakesmagic/status/1848553697611301014) review.
 
 ---
