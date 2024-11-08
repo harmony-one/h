@@ -1,4 +1,8 @@
-2024-11-08 Fri: Update of the harmony community section. Created and [uploaded](https://youtube.com/shorts/OEqYe3xLDSI?feature=share) 5 Youtube shorts from the ETH Denver talk using Descript. Met with Pear AI, meeting action items:
+2024-11-10 Sun: Attendance of the ONE Show.
+
+2024-11-09 Sat: Tweet of the Harmony community section, using Descript on A(g)I content.
+
+2024-11-08 Fri: Update of the harmony community section. Created and [uploaded](https://youtube.com/shorts/OEqYe3xLDSI?feature=share) 5 Youtube shorts from the ETH Denver talk using Descript. Met with Pear AI, meeting action items: review AI researcher questions and draft a Harmony specific campaign of questions for Pear AI.
 
 2024-11-07 Thu: Brief research on PearAI before sync tomorrow. [Tweet](https://x.com/harmonyprotocol/status/1854755885329137931) promoting ONE Show. Extensive testing on /luma and on Luma platform to generate videos to write a tweet. 
 
