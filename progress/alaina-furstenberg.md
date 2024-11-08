@@ -1,4 +1,6 @@
-2024-11-06 Wed: Promotion of FlappyH1, and of RMC elections with a Glify meme.
+2024-11-07 Thu: Brief research on PearAI before sync tomorrow. [Tweet](https://x.com/harmonyprotocol/status/1854755885329137931) promoting ONE Show. Extensive testing on /luma and on Luma platform to generate videos to write a tweet. 
+
+2024-11-06 Wed: [Promotion](https://x.com/harmonyprotocol/status/1853966395568246999) of FlappyH1, and of [RMC elections](https://x.com/harmonyprotocol/status/1854289250365366630) with a Glify meme.
 
 2024-11-05 Tue: Testing of Pump One, minted, bought/sold, and left comments. Had some interfaces suggestions for Artem, including removing the 'Go back' button and instead having the logo return the user to home. Sync with Li and the eng team. Medieval meme generation on Glif. [Promotion of the ONE Show](https://x.com/harmonyprotocol/status/1853966395568246999) this Sunday.
 
