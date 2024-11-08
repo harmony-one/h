@@ -1,3 +1,5 @@
+2024-11-07 Thu: Continued working through configuration/testing Eliza repo. Work on multisig ops on shared wallet at pump.fun.
+
 2024-11-06 Wed: Team sync, continuance of search of top meme coin holders on twitter. Looked into repos by @lalalune (Eliza) and daos.fun.
 
 2024-11-05 Tue: Continued search on socials for top holders of meme coins. Researched AI based trading bots similar to @terminal_of_fun.
