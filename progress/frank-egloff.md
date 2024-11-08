@@ -1,3 +1,5 @@
+2024-11-07 Thu: Fixed token limit handling for [Gemini](https://github.com/harmony-one/harmony-llm-api/pull/24) and error reporting system for xAI's Grok model in harmony-llm-api. Advanced pump.fun integration with 1.country, focusing on token creation logic.
+
 2024-11-06 Wed: Completed array-based bonding curve contract implementation and merged into [pump.fun repo](https://github.com/harmony-one/pump.fun.contracts/pull/6). Enhanced harmony-llm-api telegram error reporting for LLM integrations (Claude, Gemini, Luma). Extended [telegram error reporting](https://github.com/harmony-one/HarmonyOneBot/pull/373) on 1Bot for OpenAI and Grammy endpoints. Initiated pump.fun/1.country integration.
 
 2024-11-05 Tue: Worked on splitting BondingCurve contract architecture into price calculation and token management modules for improved separation of concerns. Team sync concluded on integrating BondingCurve contracts into pump.fun repo, enabling token creation via 1.country with embedded widget for token metrics and rankings. Implementing telegram error notification system for harmony-llm-api backend following luma model stability issues in 1Bot.
