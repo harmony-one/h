@@ -1,3 +1,11 @@
+2024-11-07 Thu: For the backup nodes detection, I've implemented following features: it is working now asynchronously in matter of 5 seconds instead of 3-4 minutes, run it every 5 minutes against datasets, added a pager duty integration, created a runbook for it and showcased it with Harmony team. A lot of that we give us ability to monitor our network state continuously.
+
+On the ops side, I've updated deprecated macos12 runner to the macos13, this how we can cover users running Harmony on the Macs with Intel chipsets, [link](https://github.com/harmony-one/harmony/pull/4792). Discussed with Soph and agreed that in the future macos13 deprecation we should remove this step, because starting macos14 Github actions runners aren't free for the open-source projects.
+
+Finally,  I've just started to remove the internal validators infra after HIP32, because we need only 2 validators in both shards now. Main advantage here - saved costs.
+
+---
+
 2024-11-01 Fri: For the backup nodes detection, I've made the detection script fully automated. now it is running by schedule, collect info from the staking dashboard, prometheus gateway, check only active validators and can filter false-positives situations, e.x. validator have been updated and have two peers - old and new.
 Main advantage, this script was able to catch the real validator with active backup node after HIP32, it can possibly fork the shard 0.
 
@@ -5,7 +13,7 @@ On the ops side, I've found the root cause and hotfixed the watchdog cross-link 
 
 On the community side, various support before and after HIP32 like consulting validators and answering questions.
 
---
+---
 
 2024-10-25 Fri: For the backup nodes detection,1 backup node left Guarda and it is inactive - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
 
