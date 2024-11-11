@@ -1,3 +1,5 @@
+2024-11-10 Sun: Researched into transcription services. Looked for tools that can transcribe and timestamp youtube video down to each word.
+
 2024-11-09 Sat: Continued working through Eliza repo and web3 podcasts research.
 
 2024-11-08 Fri: Continued working through Eliza repo. Did some research on tech/web3 podcasts.
