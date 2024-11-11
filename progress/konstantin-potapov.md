@@ -1,7 +1,12 @@
+2024-11-08 Fri:
+- This week, we received several notifications while on call. There was approximately 12 minutes of downtime during which I actively participated in the recovery and investigation process. Most of the other notifications were resolved quickly or turned out to be false alarms.
+- I am working on resolving an issue causing additional delays in average block production. The problem may involve redundant view change processes triggered by an issue that prevents the local network from running with multiple keys on a single node. Initially, I confirmed that the issue is not related to the previous block overriding the state, as we can observe multiple blocks being sent simultaneously. However, this behavior should be canceled by the didReachPrepareQuorum method, which fails to execute due to insufficient signatures being collected.  
+
+---
+
 2024-11-01 Fri:
 - I completed the final preparations for the HIP-32 update, which was successfully activated at epoch 2152 without major incidents. Following the update, my focus shifted to analyzing and troubleshooting issues reported by validators.
 - The `UpdateConsensusInformation` method has been removed. Previously, calling this method before the finalCommit method could have resulted in undefined behavior or even a hard fork. Its removal reduces the likelihood of inadvertently triggering a clean state.
- 
 
 ---
 
