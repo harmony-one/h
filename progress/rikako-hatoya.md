@@ -1,3 +1,5 @@
+2024-11-09 Sat: Continued working through Eliza repo and web3 podcasts research.
+
 2024-11-08 Fri: Continued working through Eliza repo. Did some research on tech/web3 podcasts.
 
 2024-11-07 Thu: Continued working through configuration/testing Eliza repo. Work on multisig ops on shared wallet at pump.fun.
