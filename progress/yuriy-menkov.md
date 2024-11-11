@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-11 Mon: Continue to work on developing further logic for managing tokens issued through pump.fun TokenFactory after the winner is determined: scenarios with the addition of liquidity on Uniswap, minting more tokens, withdrawal of rewards, closing positions.
+
+---
+
+2024-11-08 Fri: Helped with integration contract methods into the pump.fun client application and backend services. Tested different contract cases, [Fixed](https://github.com/harmony-one/pump.fun.contracts/commit/baf60b859d5bdf65acba8e62d38c13b362aaf086) errors related to setting the start date of the competition for new tokens and breaking the logic of determining the winner.
+
 2024-11-07 Thu: Synced with Artem regarding UX cases - decided that after winning the token ceases to participate in the competition and can only be converted into a Uniswap liquidity pool with a fixed initial supply. Added winners list - to prevent the winner from participating in the voting again and to support payments for past dates.
 
 2024-11-06 Wed: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/7/files) more features to pump contracts: stored contracts creation date, restriction of buy and sale operations by funding rate interval (1 day after contract creation date), added get winner by date view.
