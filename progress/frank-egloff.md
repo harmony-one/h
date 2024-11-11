@@ -1,3 +1,5 @@
+2024-11-08 Fri: Implemented TokenApiClient for [pump.fun](https://github.com/harmony-one/1-country.frontend/pull/219) API integration and smart contract interactions in RootStore. Built memecoin creation modal for 1.country integration. Pending meme command refactor and UI polish.
+
 2024-11-07 Thu: Fixed token limit handling for [Gemini](https://github.com/harmony-one/harmony-llm-api/pull/24) and error reporting system for xAI's Grok model in harmony-llm-api. Advanced pump.fun integration with 1.country, focusing on token creation logic.
 
 2024-11-06 Wed: Completed array-based bonding curve contract implementation and merged into [pump.fun repo](https://github.com/harmony-one/pump.fun.contracts/pull/6). Enhanced harmony-llm-api telegram error reporting for LLM integrations (Claude, Gemini, Luma). Extended [telegram error reporting](https://github.com/harmony-one/HarmonyOneBot/pull/373) on 1Bot for OpenAI and Grammy endpoints. Initiated pump.fun/1.country integration.
