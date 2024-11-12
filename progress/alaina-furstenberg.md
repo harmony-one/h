@@ -1,6 +1,12 @@
-2024-11-10 Sun: Attendance of the ONE Show.
+2024-11-12 Tue: Tweet announcing Swap's launch on CoinGecko. Uploading of /one-future to Youtube Shorts using Descript. Writing of Harmony questions for Pear AI.
 
-2024-11-09 Sat: Tweet of the Harmony community section, using Descript on A(g)I content.
+2024-11-11 Mon: Veteran's Day
+
+---
+
+2024-11-10 Sun: Attendance of the ONE Show. [Tweet](https://x.com/harmonyprotocol/status/1855786327901614510) of RMC snapshot
+
+2024-11-09 Sat: [Tweet](https://x.com/harmonyprotocol/status/1855286477262901307) of the Harmony community section, using Descript on A(g)I content.
 
 2024-11-08 Fri: Update of the harmony community section. Created and [uploaded](https://youtube.com/shorts/OEqYe3xLDSI?feature=share) 5 Youtube shorts from the ETH Denver talk using Descript. Met with Pear AI, meeting action items: review AI researcher questions and draft a Harmony specific campaign of questions for Pear AI.
 
