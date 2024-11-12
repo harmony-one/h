@@ -1,3 +1,11 @@
+2024-11-11 Mon: Veteran’s Day
+
+2024-11-10 Sun: (2.0h) Swap live on Coingecko.
+
+2024-11-09 Sat: (2.0h) Recovery Multisig Custodian Year 2 Vote is live. 
+
+2024-11-08 Fri: Continued co-marketing initiative. Insight: team is AI based, would be ideal for us to build out Harmony model with Harmony specific information and Harmony specific actions.
+
 2024-11-07 Thu: Sync with co-marketing opportunity for Harmony. Yield bearing stablecoin planning with Phillipp, and Recovery Multisig elections sync for tomorrow.
 
 2024-11-06 Wed: Continued Recovery Multisig Custodian (RMC) elections, extended due to US elections, RMC vote will open this Friday, Nov. 8 2024. Shared ai16z open source repo with Rika.
