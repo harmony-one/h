@@ -1,4 +1,4 @@
-2024-11-12 Tue: Tweet announcing Swap's launch on CoinGecko. Uploading of /one-future to Youtube Shorts using Descript. Writing of Harmony questions for Pear AI.
+2024-11-12 Tue: [Tweet](https://x.com/harmonyprotocol/status/1856472426898747765) announcing Swap's launch on CoinGecko. Uploading of [/one-future](https://youtube.com/shorts/zbulz6BnJTc?si=26tA0CPiP2HNuI_5) to Youtube Shorts using Descript. Writing of Harmony questions for Pear AI.
 
 2024-11-11 Mon: Veteran's Day
 
