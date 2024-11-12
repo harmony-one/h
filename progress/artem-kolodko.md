@@ -6,7 +6,11 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-12 Tue: pump.fun backend: [added](https://github.com/harmony-one/pump.fun.backend/commit/cb99e01e2fd76c6e022205a07dbe743a96a2abdb) token price to token entity; started working on Metamask login on the backend side.
+
 2024-11-11 Mon: pump.fun client: [updated](https://github.com/harmony-one/pump.fun.client/commit/914b70d217552fdbaad3a8147cb5218f8c5af045) tokens list UI, [refactored](https://github.com/harmony-one/pump.fun.backend/commit/3016619f8d32752fd4f354fc942543086d8662b2) indexer logic with correct items orders, [added](https://github.com/harmony-one/pump.fun.backend/commit/fbd13131440d8adfbc4e9db077ef77331482c842) transcational insert of trade and token creation events in postgres DB. Redeployed contracts with fixed setWinner logic, updated [demo client](https://pump-app.netlify.app).
+
+---
 
 2024-11-08 Fri: pump.fun backend: [added](https://github.com/harmony-one/pump.fun.backend/commit/1baf798186395c1c4d7b584bb1e89d07369d2907) daily addWinner transaction call and AddWinner events [indexing](https://github.com/harmony-one/pump.fun.backend/commit/860398e71347fb52e4784dc0702b40d4d1634bc8). Client: [added](https://github.com/harmony-one/pump.fun.client/commit/06b063b6c3167e0816aacdf20b46cc24e8b06576) daily winner on the top of the page, tokens market cap, deployed [demo client](https://pump-app.netlify.app/board) update.
 
