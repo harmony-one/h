@@ -1,3 +1,5 @@
+2024-11-11 Mon: Tested various AI transcription+summary service. Cropped Elon video for analysis, got transcription timestamped for each word, and asked passage questions.
+
 2024-11-10 Sun: Researched into transcription services. Looked for tools that can transcribe and timestamp youtube video down to each word.
 
 2024-11-09 Sat: Continued working through Eliza repo and web3 podcasts research.
