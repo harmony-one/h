@@ -1,6 +1,6 @@
 2024-11-12 Tue: [Created](https://github.com/rikaa15/transcription) text-to-speech converter word for word with milisecond precision timestamps using Google's ASR API. Tested on cropped Elon video, created more cropped audio segments of video file for testing.
 
-2024-11-11 Mon: Tested various AI transcription+summary service. Cropped Elon video for analysis, got transcription timestamped for each word, and asked passage questions.
+2024-11-11 Mon (Veterans day, 7.0h): Tested various AI transcription+summary service. Cropped Elon video for analysis, got transcription timestamped for each word, and asked passage questions.
 
 ---
 
