@@ -1,3 +1,5 @@
+2024-11-12 Tue: Meeting with [Chainspect](https://chainspect.app/) to discuss Harmony mainnet listing. Community X space.
+
 2024-11-11 Mon: Veteran’s Day
 
 2024-11-10 Sun: (2.0h) Swap live on Coingecko.
