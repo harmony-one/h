@@ -5,6 +5,7 @@ Developed a [port](https://sy.country/) of Synthetix V2 and beginning work on [1
 I've also started work on [1Market](https://github.com/harmony-one/1market-demo/pull/1). After studying the original code sources available on github, I decided not to make a Polymarket fork, as some parts of the system are not available including client application, order book. Instead, for the initial version, I used the [Gnosis Conditional Tokens demo](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial1) as a basis, contracts from which are also used in Polymarket. At the moment I'm [working](https://github.com/harmony-one/1market-demo/pull/1) on adapting the demo client to our network and creating a more attractive interface that can be used for initial demo as well as in the final product.
 
 ---
+2024-11-14 Thu: [added](https://github.com/harmony-one/pump.fun.client/commit/17e1e6a414aa1872fc745ec777134d9900269649) sign-in with Metamask and JWT tokens support in pump.fun client
 
 2024-11-13 Wed: pump.fun backend: [implemented](https://github.com/harmony-one/pump.fun.backend/commit/404cf15d2dbdaf45da7e7012498acc1a2a882d67) sign-in with Metamask. Started working on sign in with Metamask on the client side.
 
