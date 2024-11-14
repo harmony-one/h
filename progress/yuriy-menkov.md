@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-14 Thu: Researched potential [issue](https://github.com/harmony-one/pump.fun.contracts/pull/5#issuecomment-2473512986) with burnTokenAndMintWinner method: whoever wants to sell first (when burning-to-covert becomes eligible) gets to sell it at a much higher price. Inspected cases we should enforce using a linear bonding curve (i.e. constant price) for calculating ONEs (ETH) obtained for burning.
+
+2024-11-13 Wed: Continue to work on improving the contract based on pull revest [review](https://github.com/harmony-one/pump.fun.contracts/pull/7): allow each token to choose their own bonding curve, switched to higher solidity version, switched to Foundry for deployment, testing, and scripts, added custom error structs.
+
+2024-11-12 Tue: Got feedback from Aaron on the [latest updates](https://github.com/harmony-one/pump.fun.contracts/pull/7). Working on fixing and improving reliability: switched keys from "day number" to some sort of "competition series id", to avoid collision when competition interval varies (instead of always 1 day), also changed all related logic in various methods.
+
 2024-11-11 Mon: Continue to work on developing further logic for managing tokens issued through pump.fun TokenFactory after the winner is determined: scenarios with the addition of liquidity on Uniswap, minting more tokens, withdrawal of rewards, closing positions.
 
 ---
