@@ -1,3 +1,5 @@
+2024-11-13 Wed: Completed the [MemeTokenWidget](https://github.com/harmony-one/1-country.frontend/pull/219), fixing styling issues, but still having issues with user coins held. Reviewing and implementing array-based Bonding Curve contract modifications per [Aaron's feedback](https://github.com/harmony-one/pump.fun.contracts/pull/6).
+
 2024-11-12 Tue: Refactored meme command's widget logic to use single widget pattern for all meme command executions. Worked on Meme Token widget to show user's created tokens, holdings and pump.fun past winners.
 
 2024-11-11 Mon: Refactored [Token creation logic](https://github.com/harmony-one/1-country.frontend/pull/219) and modal UI for 1.country integration. Analyzed pump.fun smart contract and backend architecture to implement user token retrieval functionality.
