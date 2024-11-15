@@ -1,15 +1,28 @@
-2024-11-07 Thu: For the backup nodes detection, I've implemented following features: it is working now asynchronously in matter of 5 seconds instead of 3-4 minutes, run it every 5 minutes against datasets, added a pager duty integration, created a runbook for it and showcased it with Harmony team. A lot of that we give us ability to monitor our network state continuously.
+2024-11-15 Fri: For the backup nodes detection, I've added Grafana dashboard to quickly check the state of the validators peers - are they validating/producing blocks, added this in the PagerDuty notification to on-call engineers.
+Additionally, I covered big validators having nodes for both shards, previously I've treated them as one node.
 
-On the ops side, I've updated deprecated macos12 runner to the macos13, this how we can cover users running Harmony on the Macs with Intel chipsets, [link](https://github.com/harmony-one/harmony/pull/4792). Discussed with Soph and agreed that in the future macos13 deprecation we should remove this step, because starting macos14 Github actions runners aren't free for the open-source projects.
+On the ops side, I've removed internal validators infra after HIP32, we will see a decrease in costs for the November.
 
-Finally,  I've just started to remove the internal validators infra after HIP32, because we need only 2 validators in both shards now. Main advantage here - saved costs.
+Additionally, I've created a testnet RPC endpoint from existing nodes to unblock Sun for the account abstraction testing.
 
 ---
 
-2024-11-01 Fri: For the backup nodes detection, I've made the detection script fully automated. now it is running by schedule, collect info from the staking dashboard, prometheus gateway, check only active validators and can filter false-positives situations, e.x. validator have been updated and have two peers - old and new.
+2024-11-08 Fri: Paid Time Off
+
+---
+
+2024-11-07 Thu: For the backup nodes detection, I've implemented following features: it is working now asynchronously in matter of 5 seconds instead of 3-4 minutes, run it every 5 minutes against datasets, added a pager duty integration, created a runbook for it and showcased it with Harmony team. A lot of that gives us the ability to monitor our network state continuously.
+
+On the ops side, I've updated deprecated macos12 runner to the macos13, this how we can cover users running Harmony on the Macs with Intel chipsets, [link](https://github.com/harmony-one/harmony/pull/4792). Discussed with Soph and agreed that in the future macos13 deprecation we should remove this step, because starting macos14 Github actions runners aren't free for the open-source projects.
+
+Finally,  I've just started to remove the internal validators after HIP32, because we need only 2 validators in both shards now. Main advantage here - saved costs.
+
+---
+
+2024-11-01 Fri: For the backup nodes detection, I've made the detection script fully automated. Now it is running by schedule, collecting info from the staking dashboard, prometheus gateway, checking only active validators and can filter false-positives situations, e.g. validators have been updated and have two peers - old and new.
 Main advantage, this script was able to catch the real validator with active backup node after HIP32, it can possibly fork the shard 0.
 
-On the ops side, I've found the root cause and hotfixed the watchdog cross-link issue - we doesn't have the latest crosslink info, which is important value. Now our on-call engineers have this info.
+On the ops side, I've found the root cause and hotfixed the watchdog cross-link issue - we don't have the latest crosslink info, which is an important value. Now our on-call engineers have this info.
 
 On the community side, various support before and after HIP32 like consulting validators and answering questions.
 
@@ -17,8 +30,8 @@ On the community side, various support before and after HIP32 like consulting va
 
 2024-10-25 Fri: For the backup nodes detection,1 backup node left Guarda and it is inactive - [link to gist](https://gist.github.com/mur-me/b15878d5fc348e1c2c2fbc3338b4bbab).
 
-On the ops side, I was focused on the helping with setup archival node for the partner - Pocket network, tried the 2 phase sync - active and fetch deltas, documented all the steps.
-Main advantage - we know how long it takes to sync the archival node - 1.5-2 days and that active sync with rclone doesn't impact the harmony node performance. Also I've shared the best practices how to run harmony node.
+On the ops side, I was focused on helping with setup archival nodes for the partner - Pocket network, tried the 2 phase sync - active and fetch deltas, documented all the steps.
+Main advantage - we know how long it takes to sync the archival node - 1.5-2 days and that active sync with rclone doesn't impact the harmony node performance. Also I've shared the best practices on how to run harmony nodes.
 
 Additionally, on the ops side, I've checked the validators logo issue and for now patched with simple restart with cron and documented this.
 
@@ -28,7 +41,7 @@ Additionally, on the ops side, I've checked the validators logo issue and for no
 
 On the protocol side, I was helping with the forking leader node issue and was able to reproduce it locally, sharing findings with the protocol team.
 
-On the ops side, I've finished developing a new monitoring for the `getLastSigningPower` RPC call implementation in the watchdog. Now we are using value from nodes majority, alarm has unique block ids and view change ids. Main advantage - less noise, more clue about when consensus loss happen.
+On the ops side, I've finished developing a new monitoring for the `getLastSigningPower` RPC call implementation in the watchdog. Now we are using values from nodes majority, alarm has unique block ids and view change ids. Main advantage - less noise, more clue about when consensus loss happens.
 
 Additionally, on the ops side, I've created a fresh SnapDB snapshot - 3 times smaller as a part of HIP32 preparation.
 
