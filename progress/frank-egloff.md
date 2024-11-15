@@ -1,3 +1,5 @@
+2024-11-14 Thu: Refactored [array-based BondingCurve contract](https://github.com/harmony-one/pump.fun.contracts/pull/8) to initialize stages via constructor rather than method params, standardizing curve stages across tokens and aligning method signatures with exponential-base BondingCurve implementation. Added /c0 command on 1Bot which restes all conversations and generates the completion using Claude's 3.5 Sonnet. Troubleshooting completion message issues while integrating 3.5 Haiku model.
+
 2024-11-13 Wed: Completed the [MemeTokenWidget](https://github.com/harmony-one/1-country.frontend/pull/219), fixing styling issues, but still having issues with user coins held. Reviewing and implementing array-based Bonding Curve contract modifications per [Aaron's feedback](https://github.com/harmony-one/pump.fun.contracts/pull/6).
 
 2024-11-12 Tue: Refactored meme command's widget logic to use single widget pattern for all meme command executions. Worked on Meme Token widget to show user's created tokens, holdings and pump.fun past winners.
