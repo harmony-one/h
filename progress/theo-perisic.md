@@ -1,11 +1,18 @@
+2024-11-15 Fri: Completing DeFi strategy document. Continuing discussions regarding exchange information.
+
+2024-11-14 Thu: Discussion regarding PumpONE unique mechanics, Artem adding “Get ONE” to page. Insight: pumpdotfun users enjoy the feeling of launching their own coin, important to balance this with having ONE winner. ONE winner with no liquidity, everyone loses. ONE winner allocating liquidity to all users, everyone wins.
+
+2024-11-13 Wed: Sync with Phillipp on yield bearing stablecoin and overall DeFi plan.
+
 2024-11-12 Tue: Meeting with [Chainspect](https://chainspect.app/) to discuss Harmony mainnet listing. Community X space.
 
 2024-11-11 Mon: Veteran’s Day
 
+---
+
 2024-11-10 Sun: (2.0h) Swap live on Coingecko.
 
 2024-11-09 Sat: (2.0h) Recovery Multisig Custodian Year 2 Vote is live. 
-
 2024-11-08 Fri: Continued co-marketing initiative. Insight: team is AI based, would be ideal for us to build out Harmony model with Harmony specific information and Harmony specific actions.
 
 2024-11-07 Thu: Sync with co-marketing opportunity for Harmony. Yield bearing stablecoin planning with Phillipp, and Recovery Multisig elections sync for tomorrow.
