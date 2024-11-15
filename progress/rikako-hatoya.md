@@ -1,3 +1,5 @@
+2024-11-14 Thu: Created transcription for full video on elon-tucker video and compared with descript's transcription. Researched transcription AI model used in descript.
+
 2024-11-13 Wed: Further worked on creating segments and characterizing the full Elon video for analysis. Worked on updating code for my transcription program, created transcription using the new segment video.
 
 2024-11-12 Tue: [Created](https://github.com/rikaa15/transcription) text-to-speech converter word for word with milisecond precision timestamps using Google's ASR API. Tested on cropped Elon video, created more cropped audio segments of video file for testing.
