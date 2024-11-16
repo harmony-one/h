@@ -1,3 +1,5 @@
+2024-11-15 Fri: Added code to calculate WER (Word Error Rate) of transcription compared to ground truth. Tested different models of Google speech-to-text and calculated each WER.
+
 2024-11-14 Thu: Created transcription for full video on elon-tucker video and compared with descript's transcription. Researched transcription AI model used in descript.
 
 2024-11-13 Wed: Further worked on creating segments and characterizing the full Elon video for analysis. Worked on updating code for my transcription program, created transcription using the new segment video.
