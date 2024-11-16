@@ -1,3 +1,11 @@
+2024-11-16 Sat: [Tweet](https://x.com/harmonyprotocol/status/1857852979195301940) of the Harmony community section
+
+2024-11-15 Fri: Updating the [Harmony community section](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd). Purchased premium Descript to edit Elon Musk shorts. Continued testing different platforms to download Twitter broadcast. [Tweet](https://x.com/harmonyprotocol/status/1857473128215228788) reminding community of RMC Elections.
+
+2024-11-14 Thu: Testing of Cococut to download Twitter broadcast. [Promotion](https://x.com/harmonyprotocol/status/1857224548888064013) of Hey Eddie on X and LinkedIn
+
+2024-11-13 Wed: Sync with Sun, Rika, and Li on . [Promotion](https://x.com/harmonyprotocol/status/1856834087899820298) of the Kings and Quests marketplace
+
 2024-11-12 Tue: [Tweet](https://x.com/harmonyprotocol/status/1856472426898747765) announcing Swap's launch on CoinGecko. Uploading of [/one-future](https://youtube.com/shorts/zbulz6BnJTc?si=26tA0CPiP2HNuI_5) to Youtube Shorts using Descript. Writing of Harmony questions for Pear AI.
 
 2024-11-11 Mon: Veteran's Day
