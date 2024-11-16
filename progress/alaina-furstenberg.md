@@ -4,7 +4,7 @@
 
 2024-11-14 Thu: Testing of Cococut to download Twitter broadcast. [Promotion](https://x.com/harmonyprotocol/status/1857224548888064013) of Hey Eddie on X and LinkedIn
 
-2024-11-13 Wed: Sync with Sun, Rika, and Li on . [Promotion](https://x.com/harmonyprotocol/status/1856834087899820298) of the Kings and Quests marketplace
+2024-11-13 Wed: Sync with Sun, Rika, and Li. [Promotion](https://x.com/harmonyprotocol/status/1856834087899820298) of the Kings and Quests marketplace. Promotion of [RMC Elections](https://x.com/harmonyprotocol/status/1856832078735970689) and [Flappy H1](https://x.com/harmonyprotocol/status/1856830248199036981) weekly airdrop
 
 2024-11-12 Tue: [Tweet](https://x.com/harmonyprotocol/status/1856472426898747765) announcing Swap's launch on CoinGecko. Uploading of [/one-future](https://youtube.com/shorts/zbulz6BnJTc?si=26tA0CPiP2HNuI_5) to Youtube Shorts using Descript. Writing of Harmony questions for Pear AI.
 
