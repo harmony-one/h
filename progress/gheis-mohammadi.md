@@ -1,4 +1,4 @@
-2024-11-17 Sat: Last week, I conducted an in-depth analysis of the leader rotation logic and identified several corner cases and improvements, which I reported in [Issue #4796]([url](https://github.com/harmony-one/harmony/issues/4796)). To address some of these issues, I created [PR #4789](https://github.com/harmony-one/harmony/pull/4798). 
+2024-11-16 Sat: Last week, I conducted an in-depth analysis of the leader rotation logic and identified several corner cases and improvements, which I reported in [Issue #4796]([url](https://github.com/harmony-one/harmony/issues/4796)). To address some of these issues, I created [PR #4789](https://github.com/harmony-one/harmony/pull/4798). 
 
 This PR refines the `NthNextValidator` function in the leader rotation logic, ensuring robustness by addressing previously unhandled edge cases:
 - **Wrap-around Handling:** The original function risked skipping the first validator when the list wrapped around. The updated logic introduces an `attempts` counter, ensuring that no validator is skipped during wrap-around scenarios.
