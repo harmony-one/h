@@ -1,3 +1,26 @@
+2024-11-17 Sat: Last week, I conducted an in-depth analysis of the leader rotation logic and identified several corner cases and improvements, which I reported in [Issue #4796]([url](https://github.com/harmony-one/harmony/issues/4796)). To address some of these issues, I created [PR #4789](https://github.com/harmony-one/harmony/pull/4798). 
+
+This PR refines the `NthNextValidator` function in the leader rotation logic, ensuring robustness by addressing previously unhandled edge cases:
+- **Wrap-around Handling:** The original function risked skipping the first validator when the list wrapped around. The updated logic introduces an `attempts` counter, ensuring that no validator is skipped during wrap-around scenarios.
+- **Missing Current Leader Key:** If the current leader's `pubKey` wasn't found in the validator list, the original code could crash. The refactored version logs this error and gracefully falls back to the first validator in the list, maintaining stability.
+- **Repetitive Selection Prevention:** The revised function avoids repeatedly selecting the same leader by ensuring the returned validator is distinct. A limit on `attempts` prevents infinite loops, and warnings are logged when no unique validator is found.
+These changes require a hard fork (HF) for consistency across the network, as they modify validator selection. The hard fork epoch is currently set to "TBD" to allow for further discussion and coordination.
+
+I proposed a new feature to score leaders based on their performance in a [leader scoring improvement proposal](https://github.com/harmony-one/harmony/issues/4797). This feature would assign higher probabilities for future leader selection to validators with better performance, encouraging fairness and reliability.
+
+I created a new [PR #4799](https://github.com/harmony-one/harmony/pull/4799) to address an issue with consensus quorum calculation for multi-BLS key validators. The PR corrects how quorum is determined, ensuring that multi-BLS validators are accounted for accurately during consensus formation. This PR is currently in draft and will be reviewed by the team. I will continue working on it next week.
+
+I also worked on an issue where leaders experienced delays in block production. Logs revealed that leaders were occasionally announcing blocks multiple times, causing delays. With Soph's assistance, we analyzed the logs, and I created a new PR [PR #4801](https://github.com/harmony-one/harmony/pull/4801) to enhance logging in the `announce` function to trace its invocations. This investigation is ongoing.
+
+I continued working on the stream sync module, focusing on refactoring the block header stage. The refactor ensures that nodes use block hashes rather than block numbers, improving the accuracy of received blocks and enhancing neighbor evaluation for invalid data. This is a significant update to the staged stream sync, and progress is now over 50%.
+
+---
+
+These updates collectively aim to enhance the reliability, fairness, and efficiency of the network. Significant progress was made across multiple areas, including leader rotation, stream sync, and consensus stability.
+
+
+---
+
 2024-11-09 Sat: Last week, following the successful HIP32 hardfork, we encountered an issue where certain leaders experienced delays in block production, causing brief interruptions on the beacon chain (usually under 15 seconds). To investigate further, I created a [PR #4791](https://github.com/harmony-one/harmony/pull/4791) to enhance log messages, adding the current block hash in `setupForNewConsensus`. This update provides clearer logs, making it easier to distinguish between the consensus block leader and previously produced blocks.
 
 I conducted an in-depth review of the leader rotation code and shared insights with the team, identifying areas for improvement and potential corner cases. For instance, ensuring that leaders are fully synchronized before proposing new blocks is crucial. I am also developing comprehensive documentation on these leader rotation corner cases and improvements, which I will present to the team early next week to facilitate further enhancements.
