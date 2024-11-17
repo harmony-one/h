@@ -16,11 +16,6 @@ I continued working on the stream sync module, focusing on refactoring the block
 
 ---
 
-These updates collectively aim to enhance the reliability, fairness, and efficiency of the network. Significant progress was made across multiple areas, including leader rotation, stream sync, and consensus stability.
-
-
----
-
 2024-11-09 Sat: Last week, following the successful HIP32 hardfork, we encountered an issue where certain leaders experienced delays in block production, causing brief interruptions on the beacon chain (usually under 15 seconds). To investigate further, I created a [PR #4791](https://github.com/harmony-one/harmony/pull/4791) to enhance log messages, adding the current block hash in `setupForNewConsensus`. This update provides clearer logs, making it easier to distinguish between the consensus block leader and previously produced blocks.
 
 I conducted an in-depth review of the leader rotation code and shared insights with the team, identifying areas for improvement and potential corner cases. For instance, ensuring that leaders are fully synchronized before proposing new blocks is crucial. I am also developing comprehensive documentation on these leader rotation corner cases and improvements, which I will present to the team early next week to facilitate further enhancements.
