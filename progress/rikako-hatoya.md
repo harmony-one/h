@@ -1,4 +1,4 @@
-2024-11-16 Sat: Continued testing different [transcription models](https://cloud.google.com/speech-to-text/docs/transcription-model) (latest_long, default, video, etc). Word Error Rate (calculated with jiwer library) seems to be the lowest with "latest_long" so far but the rate is still high, currently looking into post-processing of transcript.
+2024-11-16 Sat: Continued testing different [transcription models](https://cloud.google.com/speech-to-text/docs/transcription-model) (latest_long, default, video, etc). Word Error Rate (calculated with jiwer library) seems to be the lowest with "latest_long" so far but the rate is still high (41.74%), currently looking into post-processing of transcript.
 
 2024-11-15 Fri: Added code to calculate WER (Word Error Rate) of transcription compared to ground truth. Tested different models of Google speech-to-text and calculated each WER.
 
