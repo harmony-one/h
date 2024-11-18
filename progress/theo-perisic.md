@@ -1,3 +1,7 @@
+2024-11-17 Sun: Continued Pear AI marketing discussions for upcoming Pear AI - AI Fairness campaign.
+
+2024-11-16 Sat: Troubleshooting and resolved recovery multisig issues. Edits to [Harmony DeFi strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) added simplification.
+
 2024-11-15 Fri: Completing DeFi strategy document. Continuing discussions regarding exchange information.
 
 2024-11-14 Thu: Discussion regarding PumpONE unique mechanics, Artem adding “Get ONE” to page. Insight: pumpdotfun users enjoy the feeling of launching their own coin, important to balance this with having ONE winner. ONE winner with no liquidity, everyone loses. ONE winner allocating liquidity to all users, everyone wins.
