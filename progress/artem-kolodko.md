@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-18 Mon: pump.fun: [added](https://github.com/harmony-one/pump.fun.client/commit/8e8a1d2fa55d051e6363d7572e1ecf61a0591556) SimpleSwap widget, [tokens](https://github.com/harmony-one/pump.fun.client/commit/82fbefb11ebbee7dea66915d682677b4c03a0585) search, updated header UI; [deployed](https://pump-app.netlify.app/board) new verson of client.
+
+---
+
 2024-11-15 Fri: pump.fun: [added](https://github.com/harmony-one/pump.fun.client/commit/a5da8b1a1e17ba734557cd6a4a0ec157e2264759) token price chart, [added](https://github.com/harmony-one/pump.fun.client/commit/26e62f0ad3ff5f8016886f68d577157aa1f35bcb) ability to update username in user profile modal. On backend side: [added](https://github.com/harmony-one/pump.fun.backend/commit/ab2b9d998192af015d2ab2f520e9711f93f0e645) API to support profile updates and token price data. [Deployed](https://pump-app.netlify.app/board) pump demo client update.
 
 2024-11-14 Thu: [added](https://github.com/harmony-one/pump.fun.client/commit/17e1e6a414aa1872fc745ec777134d9900269649) sign-in with Metamask and JWT tokens support in pump.fun client
