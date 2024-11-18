@@ -1,4 +1,10 @@
 2024-11-08 Fri:
+- This week, I identified an issue with view changes. Unlike leader rotation, a view change doesn’t alter the leader, so the offset from the last leader remains unchanged. As a result, the mechanism used for leader rotation doesn’t work the same way for view changes.
+To address this, I implemented additional logic to verify the consistency of validator addresses. Currently, I’m working toward achieving 100% test coverage for this critical functionality. The codebase has strong interdependencies, so my primary focus is to break it down into smaller, independent components to simplify testing and improve maintainability.  
+
+---
+
+2024-11-08 Fri:
 - This week, we received several notifications while on call. There was approximately 12 minutes of downtime during which I actively participated in the recovery and investigation process. Most of the other notifications were resolved quickly or turned out to be false alarms.
 - I am working on resolving an issue causing additional delays in average block production. The problem may involve redundant view change processes triggered by an issue that prevents the local network from running with multiple keys on a single node. Initially, I confirmed that the issue is not related to the previous block overriding the state, as we can observe multiple blocks being sent simultaneously. However, this behavior should be canceled by the didReachPrepareQuorum method, which fails to execute due to insufficient signatures being collected.  
 
