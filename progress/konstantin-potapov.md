@@ -1,4 +1,4 @@
-2024-11-08 Fri:
+2024-11-15 Fri:
 - This week, I identified an issue with view changes. Unlike leader rotation, a view change doesn’t alter the leader, so the offset from the last leader remains unchanged. As a result, the mechanism used for leader rotation doesn’t work the same way for view changes.
 To address this, I implemented additional logic to verify the consistency of validator addresses. Currently, I’m working toward achieving 100% test coverage for this critical functionality. The codebase has strong interdependencies, so my primary focus is to break it down into smaller, independent components to simplify testing and improve maintainability.  
 
