@@ -1,4 +1,8 @@
-2024-11-17 Sun: Started looking into listennotes API. Looked into more video context processing/analysis tools for better transcription.
+2024-11-18 Mon: Continued working on implementing listen notes API. Figured out how to download twitter videos+broadcast as mp4 file.
+
+---
+
+2024-11-17 Sun: Started looking into listen notes API. Looked into more video context processing/analysis tools for better transcription.
 
 2024-11-16 Sat: Continued testing different [transcription models](https://cloud.google.com/speech-to-text/docs/transcription-model) (latest_long, default, video, etc). Word Error Rate (calculated with jiwer library) seems to be the lowest with "latest_long" so far but the rate is still high (41.74%), currently looking into post-processing of transcript.
 
