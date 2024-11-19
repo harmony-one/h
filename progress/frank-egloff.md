@@ -1,3 +1,6 @@
+2024-11-18 Mon: Implementing JWT auth integration for 1.country in tokenClientApi. Researched video transcription solutions - exploring AssemblyAI's API for real-time streaming and word-level timestamps as primary choice, with alternatives like WhisperX (GPU-dependent) and Google Cloud Speech-to-Text (needs audio extraction) as backups. Built command line demo using [youtube-transcript-api](https://github.com/harmony-one/transcript-word-timestamp-demo) lib for quick testing.
+
+---
 2024-11-15 Fri: Refactored tokenApiClient, memCoinCommandHandler and WidgetModule implementing modular pattern for better code organization and maintainability. Started JWT auth integration after pump.fun Backend upgrade.
 
 2024-11-14 Thu: Refactored [array-based BondingCurve contract](https://github.com/harmony-one/pump.fun.contracts/pull/8) to initialize stages via constructor rather than method params, standardizing curve stages across tokens and aligning method signatures with exponential-base BondingCurve implementation. Added /c0 command on 1Bot which restes all conversations and generates the completion using Claude's 3.5 Sonnet. Troubleshooting completion message issues while integrating 3.5 Haiku model.
