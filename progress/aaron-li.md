@@ -1,3 +1,17 @@
+2024-11-4 Mon (0.6h): Pano task planning, discussions, debugging developer setup
+
+----
+
+2024-11-3 Sun (0.6h): Pano task planning, discussions, debugging developer setup
+
+2024-11-1 Fri (3.3h): Pano: finalize margin calculation at trading (increase, free after, and corresponding ratios). Simple modelling and analysis of risks for JLP based strategies
+
+2024-10-31 Thu (6h): Simple modelling and analysis of risks for JLP based strategies. Review JLP allocation, fees, risks. Quick review on Kamino risks, rates, and liquidity. Notes and discussions on meme launchpad implementation. Finalize RPi 5 validator + RPC node, and run in production.
+
+2024-10-30 Wed (0.9h): Discussion on meme token implementation approaches. Discussion on Pano non-interactive command-line mode implementations.
+
+2024-10-29 Tue (2h): RPi RPC node setup, custom build, and database operation. Pano: buying and selling power estimate, burn a position
+
 2024-10-28 Mon (4.5h): Discussion on work progress of bonding curve, meme launchpad contracts, frontend and backend. Pano: new developer setup instructions. RPi RPC node setup, custom build, and database operation. Pano: specify tasks for Telegram app and direct CLI execution. Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging and implementing unpacking logics for packed signed-integer data. Restructure submenus.
 
 ----
