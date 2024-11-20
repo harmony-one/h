@@ -1,3 +1,27 @@
+2024-11-19 Tue (5.1h): Launch preparation discussion on meme launchpad. Detailed review backend code for meme launchpad. Ledger: debug and discuss device-app SDK errors, load custom app into physical device. Review and research on bot competition platforms, and memecoin launchpad code
+
+2024-11-18 Mon (4.6h): Detailed review backend code for meme launchpad. Pano: burn positions flow end-to-end, and low-level functions implementation
+
+----
+
+2024-11-15 Sun (4.1h): Pano: burn positions flow end-to-end, and low-level functions implementation
+
+2024-11-15 Fri (7.1h): New bonding curve contract. Deriving and verifying math inconsistency between bancor bonding curve code, formula, and power function. Discussion on treasury yield vault implementation, and Pano CLI mode review comments. Pano: finalized review and revision on CLI mode.
+
+2024-11-14 Thu (3.1h): Pano: detailed review and comment on CLI mode, new implementation suggestions
+
+2024-11-13 Wed (4.4h): Bonding curve math derivation and verification. Bonding curve contract review and comments. Pano: detailed review and comment on CLI mode.
+
+2024-11-12 Tue (2.7h): Bonding curve math derivation and verification. Bonding curve contract review and comments. Discussion on meme coin launchpad progress, technical issues, and launch requirements. 
+
+----
+
+2024-11-7 Thu (0.6h): Review meme launchpad contract changes
+
+2024-11-6 Wed (2.2h): Research and discussion on crypto investment AI Agent. Discussion offline interview question. Pano CLI mode code review.
+
+2024-11-5 Tue (0.9h): Test and discuss memecoin launchpad 
+
 2024-11-4 Mon (0.6h): Pano task planning, discussions, debugging developer setup
 
 ----
