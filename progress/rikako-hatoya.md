@@ -1,3 +1,5 @@
+2024-11-19 Tue: Started looking into other API's with Speaker Diarization, added Google speech speaker diarization. Started looking into AWS trasncribe.
+
 2024-11-18 Mon: Continued working on implementing listen notes API. Figured out how to download twitter videos+broadcast as mp4 file.
 
 ---
