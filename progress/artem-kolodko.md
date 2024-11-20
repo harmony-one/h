@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-20 Wed: [added](https://github.com/harmony-one/pump.fun.backend/commit/b8bbb0932b61385a5241cad9f1ce06617a487180) support of a new contracts in pump.fun backend and [client](https://github.com/harmony-one/pump.fun.client/commit/1b743f2bccc0e90b9a99f72f3b42424c2ad4ae57), updated setWinner call on the backend side
+
 2024-11-19 Tue: started working on pumpfun trading bot: [created](https://github.com/harmony-one/pump-fun-trading-bot) initial project structure, added basic types
 
 2024-11-18 Mon: pump.fun: [added](https://github.com/harmony-one/pump.fun.client/commit/8e8a1d2fa55d051e6363d7572e1ecf61a0591556) SimpleSwap widget, [tokens](https://github.com/harmony-one/pump.fun.client/commit/82fbefb11ebbee7dea66915d682677b4c03a0585) search, updated header UI; [deployed](https://pump-app.netlify.app/board) new verson of client.
