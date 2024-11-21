@@ -6,6 +6,8 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-19 Tue: Added more fixes for pump fun token factory contract: [resolved](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/30a6d9ed5413a4fb2601358774bd38b7ce2a67ab) wrong competitionId issue (in _sell method called from burnTokenAndMintWinner) and [changed](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/5fa75752c7e3d283b08ac9229ecf03e810e70b47) the types of several structures to optimize storage. Started working on tests using foundry.
+
 2024-11-18 Mon: Pused [review edits](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/61b534455b63eff0df591e5e330eb656398644f9), as well as integration with the latest updates. There is still a problem with calculating the price when selling and calling the burnTokenAndMintWinner method. There is a big difference between the blocked collateral and the new price calculated using the bounding curve. Synchronized with Aaron on current issues and further improvements.
 
 ---
