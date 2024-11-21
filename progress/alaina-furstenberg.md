@@ -1,4 +1,4 @@
-2024-11-21 Thu: Beginning of the November newsletter.
+2024-11-21 Thu: Beginning of the [November newsletter](https://www.notion.so/harmonyone/November-2024-x-y-z-145a38fc048780c1896ac89d0d450878). Continuation in Descript.
 
 2024-11-20 Wed: Downloaded the Elon x Tucker Carlson interview, converted to mp3, and ran through Deepgram to obtain a timestamped transcription. Found Descript works better for time stamped transcriptions (every 1s). Continued editing Elon shorts in Descript. Discord Promotion for Pear AI + Twitter promotion on [Kings and Quests](https://x.com/harmonyprotocol/status/1859443937058181425).
 
