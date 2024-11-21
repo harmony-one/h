@@ -1,6 +1,6 @@
 2024-11-21 Thu: Beginning of the November newsletter.
 
-2024-11-20 Wed: Downloaded the Elon x Tucker Carlson interview, converted to mp3, and ran through Deepgram to obtain a timestamped transcription. Found Descript works better for time stamped transcriptions (every 1s). Continued editing Elon shorts in Descript. Discord Promotion for Pear AI + Twitter promotion on [Kings and Quests](https://x.com/harmonyprotocol/status/1859443937058181425) and [elonxai]().
+2024-11-20 Wed: Downloaded the Elon x Tucker Carlson interview, converted to mp3, and ran through Deepgram to obtain a timestamped transcription. Found Descript works better for time stamped transcriptions (every 1s). Continued editing Elon shorts in Descript. Discord Promotion for Pear AI + Twitter promotion on [Kings and Quests](https://x.com/harmonyprotocol/status/1859443937058181425).
 
 2024-11-19 Tue: Sync with Theo, Li, Aaron, and Frank on action items for pump.fun's release. Action items include preparing for testing starting next week. [Twitter promotion](https://x.com/harmonyprotocol/status/1858998298604171273) on Pear AI. Worked with Rika in Terminal to download Elon's twitter broadcast and in Descript to obtain the transcript/video shorts.
 
