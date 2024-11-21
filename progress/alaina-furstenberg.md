@@ -1,3 +1,15 @@
+2024-11-21 Thu: Beginning of the November newsletter.
+
+2024-11-20 Wed: Downloaded the Elon x Tucker Carlson interview, converted to mp3, and ran through Deepgram to obtain a timestamped transcription. Found Descript works better for time stamped transcriptions (every 1s). Continued editing Elon shorts in Descript. Discord Promotion for Pear AI + Twitter promotion on [Kings and Quests]() and [elonxai]().
+
+2024-11-19 Tue: Sync with Theo, Li, Aaron, and Frank on action items for pump.fun's release. Action items include preparing for testing starting next week. [Twitter promotion](https://x.com/harmonyprotocol/status/1858998298604171273) on Pear AI. Worked with Rika in Terminal to download Elon's twitter broadcast and in Descript to obtain the transcript/video shorts.
+
+2024-11-18 Mon: Official [announcement](https://x.com/harmonyprotocol/status/1858673655435456666) for the elected Year 2 RMC Committee. [Tweet](https://x.com/harmonyprotocol/status/1858658738150031758) promoting elonxai. Reviewed updates to Pump One.
+
+---
+
+2024-11-17 Sun: Sharing of /luma in ONE Bot Love.
+
 2024-11-16 Sat: [Tweet](https://x.com/harmonyprotocol/status/1857852979195301940) of the Harmony community section
 
 2024-11-15 Fri: Updating the [Harmony community section](https://www.notion.so/harmonyone/Harmony-ONE-211747cea4e240248d941496ee203be8?pvs=4#48bdedabbb904005a4949a4c92b107cd). Purchased premium Descript to edit Elon Musk shorts. Continued testing different platforms to download Twitter broadcast. [Tweet](https://x.com/harmonyprotocol/status/1857473128215228788) reminding community of RMC Elections.
