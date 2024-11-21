@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-21 Thu: pump.fun client: [added](https://github.com/harmony-one/pump.fun.client/commit/57408e64db00f898f4a79218bc2e863246ec1b06) support of burnTokenAndMintWinner call for non-winner tokens; started adding this event on the backend side. [Redeployed](https://pump-app.netlify.app/board) contracts, backend and client.
+
 2024-11-20 Wed: [added](https://github.com/harmony-one/pump.fun.backend/commit/b8bbb0932b61385a5241cad9f1ce06617a487180) support of a new contracts in pump.fun backend and [client](https://github.com/harmony-one/pump.fun.client/commit/1b743f2bccc0e90b9a99f72f3b42424c2ad4ae57), updated setWinner call on the backend side
 
 2024-11-19 Tue: started working on pumpfun trading bot: [created](https://github.com/harmony-one/pump-fun-trading-bot) initial project structure, added basic types
