@@ -1,3 +1,11 @@
+2024-11-20 Wed: Sync with Yuriy for bridge listings, created yield bearing frontend, sync with Philipp for product positioning.
+
+2024-11-19 Tue: Team sync on PumpRoyale or PumpONE (naming not yet finalized), completing strategy for early alpha and community interactions. X space with community covering recovery multisig custodians (RMC) transition. 
+
+2024-11-18 Mon: Swap liquidity discussions and Recovery Multisig Custodian announcement. 
+
+---
+
 2024-11-17 Sun: Continued Pear AI marketing discussions for upcoming Pear AI - AI Fairness campaign.
 
 2024-11-16 Sat: Troubleshooting and resolved recovery multisig issues. Edits to [Harmony DeFi strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) added simplification.
