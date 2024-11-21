@@ -1,3 +1,7 @@
+2024-11-20 Wed: Built video search demo leveraging AssemblyAI's millisecond-level word timestamps, rapidfuzz for semantic matching, ffmpeg for audio processing and yt-dlp for video downloads. Added video clip generation starting from phrase matches with configurable duration (default 30s). Currently troubleshooting implementation issues to achieve stable functionality.
+
+2024-11-19 Tue: 2024-11-19 Tue: Built YouTube video search demo using [youtube-transcript-api](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/3) and rapidfuzz for semantic phrase matching. Implemented word-to-timestamp mapping using position-based calibration and empirical offset correction due to the library phrase-timestamp mapping design, after initial consonant-based timing approach showed drift in longer segments. Enhanced search accuracy by providing three timestamped URLs per match (before, target, after) to handle transcript timing variations.
+
 2024-11-18 Mon: Implementing JWT auth integration for 1.country in tokenClientApi. Researched video transcription solutions - exploring AssemblyAI's API for real-time streaming and word-level timestamps as primary choice, with alternatives like WhisperX (GPU-dependent) and Google Cloud Speech-to-Text (needs audio extraction) as backups. Built command line demo using [youtube-transcript-api](https://github.com/harmony-one/transcript-word-timestamp-demo) lib for quick testing.
 
 ---
