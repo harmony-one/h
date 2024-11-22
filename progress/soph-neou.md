@@ -1,4 +1,16 @@
-2024-11-08 This week, much of my time was dedicated to investigating and addressing issues related to consensus and block production.
+2024-11-22 Fri: On the protocol side, I reviewed several PRs aimed at addressing the HIP32 aftermath issues, including : [PR 4801](https://github.com/harmony-one/harmony/pull/4801): "Add Logging to ReadySignal Method for New Block Proposals, [PR 4785](https://github.com/harmony-one/harmony/pull/4785): "Additional Logs for Consensus", [PR 4798](https://github.com/harmony-one/harmony/pull/4798): "Enhance Leader Rotation Logic to Address Edge Cases in Leader Selection", [PR 4799](https://github.com/harmony-one/harmony/pull/4799): "Improve Consensus Logic for Multi-BLS Validators with Quorum", [PR 4802](https://github.com/harmony-one/harmony/pull/4802): "View Change: Support for Checking if Validators Belong to the Same Key"
+
+Each of these PRs was reviewed to ensure they effectively address edge cases and enhance the protocol's stability post-HIP32.
+
+Additionally, an offline test specifically designed for evaluating new hire candidates has been developped thanks to a team effort. This test aims to streamline the hiring process by effectively filtering and assessing technical skills. 
+
+---
+
+2024-11-15 Fri: To address the aftermath of the HIP32 issues, setting up a localnet with a multi-BLS key configuration became essential. For this purpose, a PR was created: [#4793](https://github.com/harmony-one/harmony/pull/4793). During testing, an unexpected corner case was encountered where the consensus became stuck because the leader achieved quorum solely with its own BLS keys. After implementing a workaround to progress with the replication of the HIP32 issue, another complication arose: the leader is generating two concurrent proposals for the same block height, leading to signature verification failures.
+
+---
+
+2024-11-08 Fri: This week, much of my time was dedicated to investigating and addressing issues related to consensus and block production.
 
 Early in the week, I improved the validator uptime metric displayed on the staking explorer at staking.harmony.one. Additionally, I developed a script to detect unusual block times, aimed at identifying anomalies in block production. This new script proved valuable in analyzing a recent short consensus loss on shard 0, where it uncovered multiple instances of blocks taking three to four times longer than expected to produce. These prolonged block times contributed to a reduction in overall block production and were linked to [low "tosign" counts issue](https://github.com/harmony-one/harmony/issues/4789).
 
