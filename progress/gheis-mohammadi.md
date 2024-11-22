@@ -1,3 +1,13 @@
+2024-11-23 Sat: This week, I focused on finalizing two critical PRs that address leader rotation and quorom calculation edge cases.
+
+The first one is [PR #4789](https://github.com/harmony-one/harmony/pull/4798), which enhances the leader rotation logic to tackle previously unaddressed edge cases. I updated the logic and also implemented tests to validate the new logic, including scenarios that demonstrated the shortcomings of the old version and confirmed that the new approach resolves these issues. This PR introduces changes that require a hard fork for full network-wide consistency. The hard fork epoch is yet to be determined, pending team discussions.
+
+The second [PR #4799](https://github.com/harmony-one/harmony/pull/4799), focuses on improving consensus logic for validators with multiple BLS keys. It addresses issues where quorum is achieved immediately, causing delays in phase transitions. I added a function to detect and handle immediate quorum during the first batch of signatures or commits, ensuring smoother transitions. I replicated same changes for Prepare phase as well. It is compatibile with both single-BLS and multi-BLS validator setups.
+
+Both PRs are now complete and proper tests have been added and awaiting team review. I look forward to receiving feedback and collaborating with the team to ensure these changes are working as expected. These updates are expected to bring significant improvements to leader selection and consensus processes.
+
+---
+
 2024-11-16 Sat: Last week, I conducted an in-depth analysis of the leader rotation logic and identified several corner cases and improvements, which I reported in [Issue #4796](https://github.com/harmony-one/harmony/issues/4796). To address some of these issues, I created [PR #4789](https://github.com/harmony-one/harmony/pull/4798). 
 
 This PR refines the `NthNextValidator` function in the leader rotation logic, ensuring robustness by addressing previously unhandled edge cases:
