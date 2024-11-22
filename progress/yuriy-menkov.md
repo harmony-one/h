@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-21 Thu: Worked with Artem on the integration of new contract methods into the client and backend pump-fun services. Received [new version](https://github.com/harmony-one/pump.fun.contracts/pull/10) of the bonding curve contract from Aaron - working on integrating the contract into the current token factory and writing foundry tests.
+
+2024-11-20 Wed: Added support for the [sDAI](https://etherscan.io/token/0x83F20F44975D03b1b09e64809B757c47f942BEeA) token to the Harmony Bridge. Researched possibility of implementing the erc-4626 standard  on Harmony for the [DeFi-Strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) project. Other improvements for the bridge ux.
+
 2024-11-19 Tue: Added more fixes for pump fun token factory contract: [resolved](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/30a6d9ed5413a4fb2601358774bd38b7ce2a67ab) wrong competitionId issue (in _sell method called from burnTokenAndMintWinner) and [changed](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/5fa75752c7e3d283b08ac9229ecf03e810e70b47) the types of several structures to optimize storage. Started working on tests using foundry.
 
 2024-11-18 Mon: Pused [review edits](https://github.com/harmony-one/pump.fun.contracts/pull/7/commits/61b534455b63eff0df591e5e330eb656398644f9), as well as integration with the latest updates. There is still a problem with calculating the price when selling and calling the burnTokenAndMintWinner method. There is a big difference between the blocked collateral and the new price calculated using the bounding curve. Synchronized with Aaron on current issues and further improvements.
