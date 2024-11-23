@@ -1,3 +1,5 @@
+2024-11-22 Fri: Integrated deepgram API, modified input from audio to video to reduce file upload size, added millisecond-level timestamps to [transcription code](https://github.com/rikaa15/transcription/blob/main/transcription_deepgram.py). Tested code on various input files, debugging for transcription inaccuracy.
+
 2024-11-21 Thu: Debugged and produced transcript video from command line tool (Whisper, ffmpeg). Started working on adjusting transcript style using revideo.
 
 2024-11-20 Wed: Tested other AI transcription model (OpusClips). Also looked into revideo and worked on debugging whisper for transcription using command-line.
