@@ -1,3 +1,5 @@
+2024-11-24 Sun (1.5h): Trouble with finding converter that can handle conversion of long youtube videos to mp3. Found one and currently working on converting video.
+
 2024-11-23 Sat (3.0h): Implemented AssemblyAI transcription retrieval with millisecond timestamps to transcription code. Tested and checked transcription for Joe Rogan, townhall, and elon-tucker video.
 
 2024-11-22 Fri: Integrated deepgram API, modified input from audio to video to reduce file upload size, added millisecond-level timestamps to [transcription code](https://github.com/rikaa15/transcription/blob/main/transcription_deepgram.py). Tested code on various input files, debugging for transcription inaccuracy.
