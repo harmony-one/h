@@ -1,3 +1,7 @@
+2024-11-22: Integrated full raw phrase input functionality. Enhanced subtitle processing efficiency by implementing single-pass rewrite for complete subtitle text. Researched harmony-llm-api migration to a pay-per-use solution, using JWT authentication.
+
+2024-11-21: Implemented clip generation pipeline with subtitle support (full text, word-by-word), and integrated subtitles. Resolved core script execution issues.
+
 2024-11-20 Wed: Built video search demo leveraging AssemblyAI's millisecond-level word timestamps, rapidfuzz for semantic matching, ffmpeg for audio processing and yt-dlp for video downloads. Added video clip generation starting from phrase matches with configurable duration (default 30s). Currently troubleshooting implementation issues to achieve stable functionality.
 
 2024-11-19 Tue: 2024-11-19 Tue: Built YouTube video search demo using [youtube-transcript-api](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/3) and rapidfuzz for semantic phrase matching. Implemented word-to-timestamp mapping using position-based calibration and empirical offset correction due to the library phrase-timestamp mapping design, after initial consonant-based timing approach showed drift in longer segments. Enhanced search accuracy by providing three timestamped URLs per match (before, target, after) to handle transcript timing variations.
