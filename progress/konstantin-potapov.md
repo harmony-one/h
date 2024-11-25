@@ -1,3 +1,10 @@
+2024-11-22 Fri:
+- This week, I finalized the team's suggestions for handling view change validators' skipping. Gheis and I agreed to use the same interfaces for our respective features to streamline future integration. I implemented the viewChangeNextValidator function, which contains the core logic and is backed by nearly 100% test coverage.
+- I'm currently working on removing the update synchronization call. This call triggers a consensus information update, which can disrupt the cycle of block production. 
+- I’m actively participating in PR reviews. Most of the changes impact the consensus part of the codebase, so I’m focusing on analyzing the consensus logic and evaluating how these changes affect network stability.
+
+---
+
 2024-11-15 Fri:
 - This week, I identified an issue with view changes. Unlike leader rotation, a view change doesn’t alter the leader, so the offset from the last leader remains unchanged. As a result, the mechanism used for leader rotation doesn’t work the same way for view changes.
 To address this, I implemented additional logic to verify the consistency of validator addresses. Currently, I’m working toward achieving 100% test coverage for this critical functionality. The codebase has strong interdependencies, so my primary focus is to break it down into smaller, independent components to simplify testing and improve maintainability.  
