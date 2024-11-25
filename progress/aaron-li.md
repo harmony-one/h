@@ -1,3 +1,11 @@
+2024-11-22 Sat (1.2h): Reconstruct bonding curve contract and formula using new math library. Verify accuracy. Reactivate and pass all tests
+
+2024-11-21 Fri (9.4h): Debugging bonding curve errors and error conditions, investigate math issues, refine and add new test and debug scripts, evaluate math libraries and end-to-end accuracy performance
+
+2024-11-21 Thu (2.7h): Manually verify bonding curve accuracy and edge cases
+
+2024-11-20 Wed (1.7h): Finalize memecoin launchpad backend and review. Discuss issues. Quick review of frontend
+
 2024-11-19 Tue (5.1h): Launch preparation discussion on meme launchpad. Detailed review backend code for meme launchpad. Ledger: debug and discuss device-app SDK errors, load custom app into physical device. Review and research on bot competition platforms, and memecoin launchpad code
 
 2024-11-18 Mon (4.6h): Detailed review backend code for meme launchpad. Pano: burn positions flow end-to-end, and low-level functions implementation
