@@ -1,3 +1,5 @@
+2024-11-23 Sat (3.0h): Implemented AssemblyAI transcription retrieval with millisecond timestamps to transcription code. Tested and checked transcription for Joe Rogan, townhall, and elon-tucker video.
+
 2024-11-22 Fri: Integrated deepgram API, modified input from audio to video to reduce file upload size, added millisecond-level timestamps to [transcription code](https://github.com/rikaa15/transcription/blob/main/transcription_deepgram.py). Tested code on various input files, debugging for transcription inaccuracy.
 
 2024-11-21 Thu: Debugged and produced transcript video from command line tool (Whisper, ffmpeg). Started working on adjusting transcript style using revideo.
@@ -10,9 +12,9 @@
 
 ---
 
-2024-11-17 Sun: Started looking into listen notes API. Looked into more video context processing/analysis tools for better transcription.
+2024-11-17 Sun (1.0h): Started looking into listen notes API. Looked into more video context processing/analysis tools for better transcription.
 
-2024-11-16 Sat: Continued testing different [transcription models](https://cloud.google.com/speech-to-text/docs/transcription-model) (latest_long, default, video, etc). Word Error Rate (calculated with jiwer library) seems to be the lowest with "latest_long" so far but the rate is still high (41.74%), currently looking into post-processing of transcript.
+2024-11-16 Sat (3.5h): Continued testing different [transcription models](https://cloud.google.com/speech-to-text/docs/transcription-model) (latest_long, default, video, etc). Word Error Rate (calculated with jiwer library) seems to be the lowest with "latest_long" so far but the rate is still high (41.74%), currently looking into post-processing of transcript.
 
 2024-11-15 Fri: Added code to calculate WER (Word Error Rate) of transcription compared to ground truth. Tested different models of Google speech-to-text and calculated each WER.
 
