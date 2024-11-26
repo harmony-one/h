@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-25 Mon: Synchronized with Artem and Aaron regarding the launch of the pumpfun service, and identified the missing core features. Working on final improvements and tests.  
+
+---
+
+2024-11-22 Fri: Worked on the remaining logic for the winner after calling burnTokenAndMintWinner: adding liquidity to uniswap, sending events, defining a fixed inital supply, recalculating native tokens with which a new pull will be created.
+
 2024-11-21 Thu: Worked with Artem on the integration of new contract methods into the client and backend pump-fun services. Received [new version](https://github.com/harmony-one/pump.fun.contracts/pull/10) of the bonding curve contract from Aaron - working on integrating the contract into the current token factory and writing foundry tests.
 
 2024-11-20 Wed: Added support for the [sDAI](https://etherscan.io/token/0x83F20F44975D03b1b09e64809B757c47f942BEeA) token to the Harmony Bridge. Researched possibility of implementing the erc-4626 standard  on Harmony for the [DeFi-Strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) project. Other improvements for the bridge ux.
