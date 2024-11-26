@@ -1,3 +1,12 @@
+2024-11-22 Fri: For the backup nodes detection, I've added a runbook with business sense of the script and how to and shared it with the team, highlighting that the main idea is to catch backup nodes when they just started and not synced yet.
+
+On the ops side, I've fixed crosslink monitoring for the watchdog. Now it is using the set of 3 nodes controlled by Harmony, because it used leaders before. Main advantage - reliable monitoring of critical business metrics.
+Additionally for the watchdog, I've added auto-resolution logic for the crosslink alarms.
+
+Finally, I've shared my set of queries for the localnet log aggregation tooling(Loki to Grafana) with the consensus team. The main idea is to speed up debugging and share knowledge with the team.
+
+---
+
 2024-11-15 Fri: For the backup nodes detection, I've added Grafana dashboard to quickly check the state of the validators peers - are they validating/producing blocks, added this in the PagerDuty notification to on-call engineers.
 Additionally, I covered big validators having nodes for both shards, previously I've treated them as one node.
 
