@@ -1,3 +1,7 @@
+2024-11-25 Mon: Cleaned code/repo structure and added ReadMe to [transcriptions repo](https://github.com/rikaa15/transcriptions). Found a way to download long Youtube videos in terminal, tested transcription on it with AssemblyAI.
+
+---
+
 2024-11-24 Sun (1.5h): Trouble with finding converter that can handle conversion of long youtube videos to mp3. Found one and currently working on converting video.
 
 2024-11-23 Sat (3.0h): Implemented AssemblyAI transcription retrieval with millisecond timestamps to transcription code. Tested and checked transcription for Joe Rogan, townhall, and elon-tucker video.
