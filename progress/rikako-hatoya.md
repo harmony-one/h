@@ -1,3 +1,5 @@
+2024-11-26 Tue: Replicated and tested Frank's transcription [repo](https://github.com/harmony-one/transcript-word-timestamp-demo/tree/main/assemblyai-youtube-transcript). Investigated the disparities between twitter view counts and also ran transcription with AssemblyAI on Elon's neuralink video.
+
 2024-11-25 Mon: Cleaned code/repo structure and added ReadMe to [transcriptions repo](https://github.com/rikaa15/transcriptions). Found a way to download long Youtube videos in terminal, tested transcription on it with AssemblyAI.
 
 ---
