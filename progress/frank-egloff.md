@@ -1,6 +1,13 @@
-2024-11-22: Integrated full raw phrase input functionality. Enhanced subtitle processing efficiency by implementing single-pass rewrite for complete subtitle text. Researched harmony-llm-api migration to a pay-per-use solution, using JWT authentication.
+2024-11-27 Wed: Progressing on multi-word subtitles functionality, debugging active word highlight synchronization.
 
-2024-11-21: Implemented clip generation pipeline with subtitle support (full text, word-by-word), and integrated subtitles. Resolved core script execution issues.
+2024-11-26 Tue: Paid Time Off
+
+2024-11-25 Mon: Progressing on multi-word subtitles functionality, debugging active word highlight synchronization. Refactored harmony-llm-api codebase to integrate JWT auth system.
+
+---
+2024-11-22 Fri: Integrated full raw phrase input functionality. Enhanced subtitle processing efficiency by implementing single-pass rewrite for complete subtitle text. Researched harmony-llm-api migration to a pay-per-use solution, using JWT authentication.
+
+2024-11-21 Thu: Implemented clip generation pipeline with subtitle support (full text, word-by-word), and integrated subtitles. Resolved core script execution issues.
 
 2024-11-20 Wed: Built video search demo leveraging AssemblyAI's millisecond-level word timestamps, rapidfuzz for semantic matching, ffmpeg for audio processing and yt-dlp for video downloads. Added video clip generation starting from phrase matches with configurable duration (default 30s). Currently troubleshooting implementation issues to achieve stable functionality.
 
