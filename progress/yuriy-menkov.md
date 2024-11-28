@@ -6,6 +6,10 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-11-27 Wed: Researched other ways to manage the liquidity pool. Made a new version based on NonfungiblePositionManager class to mint a liquidity position and then modify the provided liquidity. (this way also reccomeded in uniswap v3 [docs](https://docs.uniswap.org/sdk/v3/guides/liquidity/modifying-position)). Additionally, it is necessary to work out the issue of storing and managing tokens received when adding liquidity.
+
+2024-11-26 Tue: [Pushed](https://github.com/harmony-one/pump.fun.contracts/commit/800617a068ae7c01e25714596b538f29f9a08c9a) new version with mint fill range feature based on PanopticFactory [example](https://github.com/polymorpher/panoptic-v1-core/blob/0a0f8172159b09edd76cbe215d9766d116fc9240/contracts/PanopticFactory.sol#L495). But still have LOK error (reentrancy guard. A transaction cannot re-enter the pool mid-swap) on execution.
+
 2024-11-25 Mon: Synchronized with Artem and Aaron regarding the launch of the pumpfun service, and identified the missing core features. Working on final improvements and tests.  
 
 ---
