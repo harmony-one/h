@@ -1,3 +1,7 @@
+2024-11-29 Fri: The issue of consensus loss caused by two validators running on the same node is closely tied to the multiple block proposal bug. In the latest development branch, within a multi-BLS key setup where the next leader resides on the same node, multiple block proposals are generated for the same height. This results in a signature verification failure because the second proposal has a different block hash compared to the first. This bug currently obstructs testing of the [next validator view change PR](https://github.com/harmony-one/harmony/pull/4802).
+
+---
+
 2024-11-22 Fri: On the protocol side, I reviewed several PRs aimed at addressing the HIP32 aftermath issues, including : [PR 4801](https://github.com/harmony-one/harmony/pull/4801): "Add Logging to ReadySignal Method for New Block Proposals, [PR 4785](https://github.com/harmony-one/harmony/pull/4785): "Additional Logs for Consensus", [PR 4798](https://github.com/harmony-one/harmony/pull/4798): "Enhance Leader Rotation Logic to Address Edge Cases in Leader Selection", [PR 4799](https://github.com/harmony-one/harmony/pull/4799): "Improve Consensus Logic for Multi-BLS Validators with Quorum", [PR 4802](https://github.com/harmony-one/harmony/pull/4802): "View Change: Support for Checking if Validators Belong to the Same Key"
 
 Each of these PRs was reviewed to ensure they effectively address edge cases and enhance the protocol's stability post-HIP32.
