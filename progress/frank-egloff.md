@@ -1,3 +1,5 @@
+2024-11-28 Thu: Integrated MoviePy library with FFmpeg for enhanced subtitle handling, enabling multi-word subtitle parameters with frame-accurate word highlighting sync.
+ 
 2024-11-27 Wed: Progressing on multi-word subtitles functionality, debugging active word highlight synchronization.
 
 2024-11-26 Tue: Paid Time Off
