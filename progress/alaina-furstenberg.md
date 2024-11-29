@@ -1,3 +1,25 @@
+2024-12-01 Sun: Uploading of Elon shorts to Harmony Youtube
+
+2024-11-30 Sat: [Harmony community tweet]().
+
+2024-11-29 Fri: Harmony community update. Sending out draft of the November Newsletter for review + design of the newsletter thumbnail. Testing of pump.one. [Tweet](https://x.com/harmonyprotocol/status/1862605553580876005) promoting Phase 1 of Kilopis Masters of Management 
+
+2024-11-28 Thu: Thanksgiving Holiday.
+
+2024-11-27 Wed: [Quote tweet]() from elonxai. Research into Twitter rules leading to account suspension. 
+
+2024-11-26 Tue: Continuation of November newsletter. Reviewed updates to pump.one. 
+
+2024-11-25 Mon: [Quote tweet](https://x.com/harmonyprotocol/status/1861108173106794766) from elonxai. 
+
+---
+
+2024-11-24 Sun: Harmony community [weekly recap](https://x.com/harmonyprotocol/status/1861105956769444349) on Twitter
+
+2024-11-23 Sat:
+
+2024-11-22 Fri: Harmony community update. Continuation of the [November newsletter](https://www.notion.so/harmonyone/November-2024-x-y-z-145a38fc048780c1896ac89d0d450878). Creation of shorts in Descript, testing various fonts and text formatting. Insights: white text with a black stroke is the most popular format across tiktok/instagram shorts.
+
 2024-11-21 Thu: Beginning of the [November newsletter](https://www.notion.so/harmonyone/November-2024-x-y-z-145a38fc048780c1896ac89d0d450878). Continuation in Descript.
 
 2024-11-20 Wed: Downloaded the Elon x Tucker Carlson interview, converted to mp3, and ran through Deepgram to obtain a timestamped transcription. Found Descript works better for time stamped transcriptions (every 1s). Continued editing Elon shorts in Descript. Discord Promotion for Pear AI + Twitter promotion on [Kings and Quests](https://x.com/harmonyprotocol/status/1859443937058181425).
