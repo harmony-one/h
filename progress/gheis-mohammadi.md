@@ -1,3 +1,14 @@
+2024-11-30 Sat: Last week, we successfully finalized and merged PR #4789 and PR #4801 into the `dev` branch. I also focused on investigating a persistent issue in the localnet. For multi-BLS key validators, the network gets stuck after a certain number of blocks when leader rotation is enabled. Logs revealed that multiple block proposals were being generated. I documented the entire block proposal logic and shared it with the team for collaborative investigation. The issue appears to occur only when a new leader with multiple BLS keys is selected, and our investigation is ongoing.
+
+During this time, I identified a few inconsistencies in the consensus logic. To address these:
+
+- **[PR #4805](https://github.com/harmony-one/harmony/pull/4805)**: I added a check for the existence of a faucet key before adding a new external leader. This change ensures proper error handling and exits the test with a clear message if the faucet account is missing.
+- **[PR #4806](https://github.com/harmony-one/harmony/pull/4806)**: I noticed inconsistencies in quorum checks across different parts of the code, specifically in `IsQuorumAchievedByMask`. This PR introduces a consistent approach but may require a hard fork to implement. For now, I have submitted it as a draft to facilitate team discussion.
+
+Additionally, I created **[PR #4807](https://github.com/harmony-one/harmony/pull/4807)**, which introduces new configurations to adjust the number of blocks per epoch for the localnet. This PR also optimizes the `Makefile` by removing unnecessary pre-external processes.
+
+---
+
 2024-11-23 Sat: This week, I focused on finalizing two critical PRs that address leader rotation and quorom calculation edge cases.
 
 The first one is [PR #4789](https://github.com/harmony-one/harmony/pull/4798), which enhances the leader rotation logic to tackle previously unaddressed edge cases. I updated the logic and also implemented tests to validate the new logic, including scenarios that demonstrated the shortcomings of the old version and confirmed that the new approach resolves these issues. This PR introduces changes that require a hard fork for full network-wide consistency. The hard fork epoch is yet to be determined, pending team discussions.
