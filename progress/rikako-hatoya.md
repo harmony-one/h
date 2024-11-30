@@ -1,3 +1,7 @@
+
+
+2024-11-28 Thu: Thankgiving Holiday
+
 2024-11-27 Wed: Continued investigation on twitter view disparities and possible causes of account suspension. Looked more into design for transcription subtitles.
 
 2024-11-26 Tue: Replicated and tested Frank's transcription [repo](https://github.com/harmony-one/transcript-word-timestamp-demo/tree/main/assemblyai-youtube-transcript). Investigated the disparities between @elonxai twitter view counts and also ran transcription with AssemblyAI on Elon's neuralink video.
