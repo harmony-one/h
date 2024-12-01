@@ -1,6 +1,10 @@
 2024-11-27 Wed: This week is about to get the Yield enhancer ready. I went through the final concept with Theo and wrote an additional detailed description of the vault mechanics. Besides that, I am ideating how to market the upcoming pump fun launch and started updating the Harmony documentation. Apart from that, I started engaging a little bit with the community and plan to get more feedback from them to see what they want to use or look for. 
 
+---
+
 2024-11-20 Wed: Last week was mostly occupied by DevCon SEA. I connected with many builders and particularly attended events of Base chain to talk with builders there and what they perceive as valuable in the ecosystem. Product-wise, Theo and I decided to launch the Harmony yield enhancer as soon as possible, optimally before the Christmas holidays. I prepared a wireframe + the final product description to be handed to the developers. On Tuesday, I met with Li to discuss the first treasury farming strategy (Buying JLP) and we discussed each step in detail. I also finished the first draft of the 1Swap Gauge product description. 
+
+---
 
 2024-11-10 Sun: The rest of the week I continued to design the tokenomics of the Gauge system for 1Swap. It will be a novel model that is reflexive to 1swaps earnings and therefore aligned to the state of the Harmony ecosystem. Emissions are distributed according to a certain formula incentivizing projects to participate in bribing and to lock up Token supply without worrying too much about its price performance. Since Saturday, DevCon week started in Bangkok and I visited some side events. Besides meeting the Stephens contacts, my goal is to connect with as many builders as possible. 
 
