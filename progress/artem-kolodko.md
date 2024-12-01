@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-11-29 Fri: started integration with a [new version](https://github.com/harmony-one/pump.fun.contracts/tree/uniswap_liquidity_manager) of contracts: deployed new contracts, started updating backend and client
+
 2024-11-28 Thu: synced with Yuriy on recent contract changes. pump.fun client: [added](https://github.com/harmony-one/pump.fun.client/commit/d172e7b34a941668a5356c0b1ed27fd72d382d98) daily winners page
 
 2024-11-27 Wed: [completed](https://github.com/harmony-one/pump-fun-trading-bot/commit/483a96dff6458468a04e708ec9d50d50450e1c5f) simple trading strategy in pump.fun trading bot: buy and sell memecoin with random probability.
