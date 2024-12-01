@@ -1,6 +1,8 @@
+2024-11-30 Sat: Continued work with revideo to automate transcription . Further looked into descript to make texts mocking that of descript's with revideo.
 
+2024-11-29 Fri: Continued testing of Frank's transcription demo. Continued further research on AI transcription tools for an end-to-end automation through command-line interface.
 
-2024-11-28 Thu: Thankgiving Holiday
+2024-11-28 Thu: Thanksgiving Holiday
 
 2024-11-27 Wed: Continued investigation on twitter view disparities and possible causes of account suspension. Looked more into design for transcription subtitles.
 
