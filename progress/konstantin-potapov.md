@@ -1,3 +1,10 @@
+2024-11-29 Fri:
+- I added additional checks to the synchronization mechanism to ensure that nodes do not update their consensus information during the block construction process. The consensus now ignores BlockSynchronized events while acting as the leader.
+As leaders responsible for producing blocks, we must prevent any steps that could disrupt the process. Synchronization should instead be deferred and executed later when the system is idle.
+- I made additional changes and minor improvements. The method WaitForConsensusReadyV2 was moved out of the consensus module since it was not being used within the consensus logic itself.
+ 
+---
+
 2024-11-22 Fri:
 - This week, I finalized the team's suggestions for handling view change validators' skipping. Gheis and I agreed to use the same interfaces for our respective features to streamline future integration. I implemented the viewChangeNextValidator function, which contains the core logic and is backed by nearly 100% test coverage.
 - I'm currently working on removing the update synchronization call. This call triggers a consensus information update, which can disrupt the cycle of block production. 
