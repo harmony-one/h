@@ -1,3 +1,13 @@
+2024-11-29 Fri: All my updates for this week are for the ops side.
+
+I've added a parse shard IPv4s feature for the watchdog, previously you can only start parsing via a HTTP request from the UI. Main advantage - no more extra steps for the consensus devs to start the watchdog against localnet.
+
+Additionally, I've fixed watchdog nodes IPv4 location cache logic for all 3 higher networks - devnet/testnet/mainnet. Main benefit - now we have our nodes geo location/provider in one UI.
+
+And finally, I've tweaked our log aggregation tooling for devnet/testnet/mainnet networks and we are parsing only the latest file and store 30 days of logs, instead of 1 week. Main catch - no more double info stored and, as a consequence, we can store more logs and debug our networks in one place.
+
+---
+
 2024-11-22 Fri: For the backup nodes detection, I've added a runbook with business sense of the script and how to and shared it with the team, highlighting that the main idea is to catch backup nodes when they just started and not synced yet.
 
 On the ops side, I've fixed crosslink monitoring for the watchdog. Now it is using the set of 3 nodes controlled by Harmony, because it used leaders before. Main advantage - reliable monitoring of critical business metrics.
