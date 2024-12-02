@@ -1,3 +1,19 @@
+2024-12-02 Mon: Continued discussions with Chainspect, marketing call scheduled for tomorrow with larger X group. Community outreach for early PumpONE alpha testing. Protofire sync for LEND and 1sDAI strategy.
+
+2024-12-01 Sun: Review of trouble points to onboarding. Insight: potential to incorporate “one-click buy” as “one-click yield” on Harmony.
+
+2024-11-30 Sat: Onboarding to Harmony ecosystem. 
+
+2024-11-29 Fri: Revisited Portfolio and competitive yield bearing to position Harmony as leading in simple DeFi.
+
+2024-11-28 Thu: Thanksgiving
+
+2024-11-27 Wed: Extended yield product requirements to Protofire. Pushing main initiative to make DeFi simple again. Sync with Li.
+
+2024-11-26 Tue: More details on functionality for vault standard. Insight: main narrative will be higher yield on stables on Harmony.
+
+2024-11-25 Mon: Talk forum maintenance for flagged posts. Yield-bearing stablecoin documentation review and sync with Yuriy. Sync with Frank for Harmony1bot API.
+
 2024-11-24 Sun: Jupiter platform troubleshooting, 
 
 2024-11-23 Sat: Elonxai prompt testing, continued interface integration for simple experience.
