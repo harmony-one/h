@@ -1,4 +1,6 @@
-2024-11-30 Sat: Continued work with revideo to automate transcription . Further looked into descript to make texts mocking that of descript's with revideo.
+2024-12-01 Sun: Looked into more updates regarding youtube transcription subtitle. Reviewed merge from harmony-one/clip-subtitle for assemblyai-youtube client.
+
+2024-11-30 Sat: Continued work with revideo to automate transcription. Further looked into descript to make texts mocking that of descript's with revideo.
 
 2024-11-29 Fri: Continued testing of Frank's transcription demo. Continued further research on AI transcription tools for an end-to-end automation through command-line interface.
 
