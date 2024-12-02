@@ -1,3 +1,4 @@
+2024-11-29 Fri: Finished [MoviePy integration](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/6) with CLI optimization, setting default word count per subtitle frame to 1 with configurable --words parameter. Progressing on Web3 auth flow in harmony-llm-api through wallet signatures and JWT integration.
 2024-11-28 Thu: Integrated MoviePy library with FFmpeg for enhanced subtitle handling, enabling multi-word subtitle parameters with frame-accurate word highlighting sync.
  
 2024-11-27 Wed: Progressing on multi-word subtitles functionality, debugging active word highlight synchronization.
