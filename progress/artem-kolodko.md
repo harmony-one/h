@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-12-02 Mon: pump.fun: [added](https://github.com/harmony-one/pump.fun.backend/commit/4657517a6f815ef161f3300bb8adabe61367be1e) new events, updated ABI, [updated](https://github.com/harmony-one/pump.fun.client/commit/4ab8a459816bef49362d70b6dbb86d33207246cc) burn token call logic, added number of comments for each token item; [deployed](https://pump-app.netlify.app/) new version of client. Discussed last steps before the launch with the team: minor contract changes, testing.
+
+---
+
 2024-11-29 Fri: started integration with a [new version](https://github.com/harmony-one/pump.fun.contracts/tree/uniswap_liquidity_manager) of contracts: deployed new contracts, started updating backend and client
 
 2024-11-28 Thu: synced with Yuriy on recent contract changes. pump.fun client: [added](https://github.com/harmony-one/pump.fun.client/commit/d172e7b34a941668a5356c0b1ed27fd72d382d98) daily winners page
