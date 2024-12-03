@@ -1,6 +1,12 @@
-2024-12-01 Sun: Uploading of Elon shorts to Harmony Youtube
+2024-12-03 Tue: Continuation of pump one documentation. Elonxcountry quote tweet. Set up of Theo and Phillip's X space on Sunday on the upcoming yield enhancer. 
 
-2024-11-30 Sat: [Harmony community tweet]().
+2024-12-02 Mon: Editing and uploading of NotebookLM podcast of the November newsletter to [Youtube](https://youtu.be/HXHLdgd2Y6s?si=Y5yLFY6lA7q9uKyI). [Thread](https://x.com/harmonyprotocol/status/1863744419318599964) on the Novemeber newsletter. Sync with Li and the eng team on the pump one launch plan. My action items include: beginning the disclaimer and documentation for the platform.
+
+---
+
+2024-12-01 Sun: Posting of [November newsletter](https://t.co/KlDRIW29cz), [thread](https://x.com/harmonyprotocol/status/1863295619693158663) on team progress.
+
+2024-11-30 Sat: [Harmony community tweet](https://x.com/harmonyprotocol/status/1862880013168615841).
 
 2024-11-29 Fri: Harmony community update. Sending out draft of the November Newsletter for review + design of the newsletter thumbnail. Testing of pump.one. [Tweet](https://x.com/harmonyprotocol/status/1862605553580876005) promoting Phase 1 of Kilopis Masters of Management 
 
