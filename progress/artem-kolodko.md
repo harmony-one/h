@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-12-03 Tue: pump.fun client: trading form [improvements](https://github.com/harmony-one/pump.fun.client/commit/12adcaccd222a82488ce5c44f59ab7ee45f055a6) - added user balance check, predefined values with quick access, added token icon.
+
 2024-12-02 Mon: pump.fun: [added](https://github.com/harmony-one/pump.fun.backend/commit/4657517a6f815ef161f3300bb8adabe61367be1e) new events, updated ABI, [updated](https://github.com/harmony-one/pump.fun.client/commit/4ab8a459816bef49362d70b6dbb86d33207246cc) burn token call logic, added number of comments for each token item; [deployed](https://pump-app.netlify.app/) new version of client. Discussed last steps before the launch with the team: minor contract changes, testing.
 
 ---
