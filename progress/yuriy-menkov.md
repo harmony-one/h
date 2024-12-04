@@ -6,6 +6,13 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-12-03 Tue: Worked on other edits for token factory and liquidity manager contracts: ensuring the assembly is compatible with uniswap/v3-periphery through the use of foundry remappings, calculating tickLower and tickMax based on price, comparing token addresses and correcting their order when creating a pool.
+
+2024-12-02 Mon: Synced with Aaron and Artem about pumpfun launch, [pushed](https://github.com/harmony-one/pump.fun.contracts/pull/12/commits/999d0438e0fae318533bcda170e30a51912b9274) contract fixes based on Aaron review: getSqrtPriceX96 calculation function has been fixed, the logic for calculating the initial number of winner tokens for a pool has been changed, pool creation has been separated into a separate method, etc.
+
+
+---
+
 2024-11-29 Fri: Researched issues with correct ticks and sqrtPriceX96 calculation. Helped Artem with the integration of new contracts into the client and backend services. Working on more tests: swap via created pools, pools mamagement from contract creator accounts, adding more liquidity.
 
 2024-11-28 Thu: [Completed](https://github.com/harmony-one/pump.fun.contracts/pull/12) Liquidity Manager contract based on NonfungiblePositionManager and UniswapV3Pool iteractions. Extended TokenFactory woth new winner logic, added more events and public views. Updated test scripts.
