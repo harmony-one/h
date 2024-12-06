@@ -1,3 +1,15 @@
+2024-12-06 Fri: The main focus on this week was the improvements of the watchdog crosslink monitoring.
+
+I've changed the logic for the latest crosslink processing monitor from the 3 nodes set to the majority value from all nodes.
+Additionally, I've improved crosslink behind monitor logic - previously it was checking the leader, but now it will report any node, which has problems with crosslink processing.
+Main advantage - less noise, more clue about when kind of alarms happen.
+
+Additionally, I've created a mainnet RPC endpoint from existing nodes to unblock Sun for the account abstraction testing.
+
+And finally, as part of my on-call, I've checked the state of our NTP daemon on all nodes and installed where it missed
+
+---
+
 2024-11-29 Fri: All my updates for this week are for the ops side.
 
 I've added a parse shard IPv4s feature for the watchdog, previously you can only start parsing via a HTTP request from the UI. Main advantage - no more extra steps for the consensus devs to start the watchdog against localnet.
