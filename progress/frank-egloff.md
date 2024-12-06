@@ -1,6 +1,10 @@
-2024-12-04 Tue: Completed [video transcript demo](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/8) with optimized subtitle handling: migrated from MoviePy per-word to FFmpeg approach using window-size text blocks, eliminating word spacing issues and subtitle flicker. Enhanced logging with ASCII text preservation and terminal escape removal. Extended CLI with SRT input support, enabling clip generation from 5-word text, raw subtitles, or SRT files.
+2024-12-05: Completed database design and model implementation for harmony-api-llm, resolving migration issues. Advanced fly.io deployment configuration, pending final testing.
 
-2024-12-03 Mon: Completed [JWT integration in harmony-all-api backend](https://github.com/harmony-one/harmony-llm-api/pull/26), implementing dual auth system: token-based for Harmony services and JWT for general access. Enhanced [video transcript demo](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/7) with automated logging system generating runtime logs and SRT files, optimizing subtitle rendering performance.
+2024-12-04: Configured prepaid user database structure in harmony-llm-api. Validated token-based and JWT auth on fly.io dev environment. Finalized video transcript demo with optimized subtitle processing.
+
+2024-12-03 Tue: Completed [video transcript demo](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/8) with optimized subtitle handling: migrated from MoviePy per-word to FFmpeg approach using window-size text blocks, eliminating word spacing issues and subtitle flicker. Enhanced logging with ASCII text preservation and terminal escape removal. Extended CLI with SRT input support, enabling clip generation from 5-word text, raw subtitles, or SRT files.
+
+2024-12-02 Mon: Completed [JWT integration in harmony-all-api backend](https://github.com/harmony-one/harmony-llm-api/pull/26), implementing dual auth system: token-based for Harmony services and JWT for general access. Enhanced [video transcript demo](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/7) with automated logging system generating runtime logs and SRT files, optimizing subtitle rendering performance.
 
 ---
 2024-11-29 Fri: Finished [MoviePy integration](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/6) with CLI optimization, setting default word count per subtitle frame to 1 with configurable --words parameter. Progressing on Web3 auth flow in harmony-llm-api through wallet signatures and JWT integration.
