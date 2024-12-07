@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-12-06 Fri: updated pump.one client: [added](https://github.com/harmony-one/pump.fun.client/commit/0fd18cccb3bf153c26707300a00006c666ad4766) support of a new contracts, [added](https://github.com/harmony-one/pump.fun.client/commit/2da79c8b1d3649cd29e64c7f907147bfe3d55b1e) trade estimate, updated trading form UI
+
+2024-12-05 Thu: started [backend](https://github.com/harmony-one/pump.fun.backend/commit/94b84479a7bfa78f05b44ba55c3ca31f62de8d17) update to add support of a new version of pump.one contracts, refactored competition entities, started updating pump.one client
+
 2024-12-04 Wed: pump.one token creation form: [added](https://github.com/harmony-one/pump.fun.client/commit/d4c43848f0777d0e7fb934949cd81848f288e490) optional twitter, telegram and website links. Started researching trade price estimate.
 
 2024-12-03 Tue: pump.fun client: trading form [improvements](https://github.com/harmony-one/pump.fun.client/commit/12adcaccd222a82488ce5c44f59ab7ee45f055a6) - added user balance check, predefined values with quick access, added token icon.
