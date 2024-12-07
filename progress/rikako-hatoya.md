@@ -1,3 +1,7 @@
+2024-12-05 Thu: Looked around into more transscription styles by testing other auto-generation services. Continued working on 2025 goals/progress write-up.
+
+2024-12-04 Wed: Continued with transcript annotation from Frank's repo, reproduced result for Joe Rogan-elon video. Team dinner.
+
 2024-12-03 Tue: Further continuation of transcript annotation and investigated other models/methods to adopt srt for automated command-line interface. Continued write-up for 2025 progress/goals.
 
 2024-12-02 Mon: Continuation of checking script for transcription. Worked on writing 2025 individual goals and Q4 summary.
