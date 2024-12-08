@@ -1,3 +1,5 @@
+2024-12-06 Fri: Continued working on youtube transcript annotation. Looked into font sizes/word count and changing number of lines for annotation.
+
 2024-12-05 Thu: Looked around into more transscription styles by testing other auto-generation services. Continued working on 2025 goals/progress write-up.
 
 2024-12-04 Wed: Continued with transcript annotation from Frank's repo, reproduced result for Joe Rogan-elon video. Team dinner.
