@@ -6,6 +6,8 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-12-08 Sun: continue on pump.fun fixes before the launch: [fixed](https://github.com/harmony-one/pump.fun.backend/commit/374bc721905c85fc24ee70e6e09fb757a88d5b4c) market cap and token price calculation, [added](https://github.com/harmony-one/pump.fun.backend/commit/184830c5dd779f119cbb8093ca94f803b5777e92) GIF and PNG files support, added file size and type validation on the BE side, [improved](https://github.com/harmony-one/pump.fun.client/commit/34b591d92e2d2764769887366f124e2d830e7d6e) trade notification.
+
 2024-12-07 Sat: pump.one issues - preparation for launch: [fixed](https://github.com/harmony-one/pump.fun.client/issues/1) price chart labels, removed TradingView logo, [added](https://github.com/harmony-one/pump.fun.client/issues/2) multiple wallets support
 
 2024-12-06 Fri: updated pump.one client: [added](https://github.com/harmony-one/pump.fun.client/commit/0fd18cccb3bf153c26707300a00006c666ad4766) support of a new contracts, [added](https://github.com/harmony-one/pump.fun.client/commit/2da79c8b1d3649cd29e64c7f907147bfe3d55b1e) trade estimate, updated trading form UI; [deployed](https://pump-app.netlify.app/board) new version of client.
