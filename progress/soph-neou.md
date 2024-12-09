@@ -1,3 +1,23 @@
+**2025 Yearly Plan**
+
+As we look ahead to 2025, my focus will be on strengthening the network's core stability, advancing key protocol upgrades, and driving the adoption of innovative features to elevate the overall performance and reliability of the Harmony ecosystem.
+
+**1. Improving Network Stability**  
+One of the primary goals for the year is addressing and resolving stability issues caused by the leader rotation feature. These challenges, which have occasionally disrupted consensus and block production times, will be mitigated through enhancements to the rotation logic. The development of Leader Rotation V2 is already underway to refine the protocol and ensure seamless leadership transitions without impacting network performance.  
+
+**2. Achieving 1-Second Finality**  
+Achieving 1-second block finality is a key objective that will significantly enhance user experience and increase Harmony's competitiveness in the blockchain space. This initiative will involve optimizing staking and consensus mechanisms while ensuring all associated systems can handle the faster pace without introducing bottlenecks or vulnerabilities.  
+
+**3. Migrating DNS Sync to StreamSync**  
+The migration from DNS sync to StreamSync represents a critical technical milestone to improve the reliability and efficiency of node synchronization. StreamSync provides a more scalable and resilient approach, reducing downtime and ensuring nodes remain aligned with the network state. 
+
+**4. Achieving 100% External Vote Power**  
+Currently at 99%, achieving 100% external vote power will mark a significant step forward for decentralization and governance. This milestone hinges on the successful implementation of StreamSync, ensuring all nodes in the network can reliably connect to validators with consensus and achieve faster synchronization. 
+
+By focusing on these four priorities—stability, finality, synchronization, and decentralization—I aim to contribute to Harmony's mission of building a secure, efficient, and decentralized blockchain ecosystem. Each goal will be tackled through close collaboration with the broader team, rigorous testing, and iterative improvements to ensure success. 
+
+---
+
 2024-12-06 Fri: This week, I focused on improving staking-related features and functionality. I investigated issues related to the staking "collect reward" amount and collaborated with Artem for assistance. Additionally, I submitted new feature requests to Protofire aimed at enhancing the staking experience on the explorer: 1) Support for displaying `claimed reward amounts` 2) `Relocating account staking precompile transaction history` from the normal transaction page to the dedicated staking transaction page  3) `Displaying CollectReward, Delegate, and Undelegate amounts` on the staking transaction page
 
 Additionally, I spent time testing and reviewing PRs aimed at resolving the multiple consensus proposal bug. However, despite these efforts, the issue remains unresolved and will require further investigation and refinements.  
