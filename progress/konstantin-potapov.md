@@ -1,3 +1,16 @@
+Goals 2025:
+
+Achieving 1-Second Finality:
+My primary goal is to achieve 1-second finality. I encountered challenges with block proposing when using multiple keys on the same node, particularly during leader rotation. Eliminating these delays is critical, as they significantly impact my ability to consistently achieve 1-second finality.
+
+Launching Stream+Stage Sync:
+My second goal is to deploy the stream+stage synchronization mechanism. Stream sync provides a more efficient synchronization process, which will greatly enhance overall network performance.
+
+Support for EIP-3074 Sponsored Transactions:
+EIP-3074 introduces sponsored transactions, allowing third parties to cover gas fees on behalf of users. This feature enables users to interact with decentralized applications (dApps) without needing to hold ETH for gas fees, improving accessibility and enhancing the overall user experience.
+
+---
+
 2024-11-29 Fri:
 - I added additional checks to the synchronization mechanism to ensure that nodes do not update their consensus information during the block construction process. The consensus now ignores BlockSynchronized events while acting as the leader.
 As leaders responsible for producing blocks, we must prevent any steps that could disrupt the process. Synchronization should instead be deferred and executed later when the system is idle.
