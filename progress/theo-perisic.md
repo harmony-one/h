@@ -1,5 +1,5 @@
 
-2024-12-09 Mon: Sync with Matt Barrett on AthleteFi. Selected 5 community members from volunteer list for PumpONE testing.
+2024-12-09 Mon: Sync with Matt Barrett on AthleteFi. Selected 5 community members from volunteer list for PumpONE testing. Added completed tasks on [Yield Enhancer](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) doc.
 
 ---
 
