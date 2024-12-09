@@ -1,3 +1,20 @@
+
+2024-12-09 Mon: Sync with Matt Barrett on AthleteFi. Selected 5 community members from volunteer list for PumpONE testing.
+
+---
+
+2024-12-08 Sun: (3.0h) [ONE Show](https://x.com/Tenacious_DeFi/status/1865773161746215084) covering yield enhancer, Harmony 2025, bitcoin strategic reserve, and recovery.
+
+2024-12-07 Sat: (1.0h) ONE Show prep with Tenacious and question document.
+
+2024-12-06 Fri: Liquidity planning with Amanda and confirmation with Li for Swap, Lend, and Yield Enhancer liquidity.
+
+2024-12-05 Thu:  Sync in with Yuriy, [erc-4626](https://github.com/harmony-one/erc-4626) deployed on Harmony allowing vault based staking crucial for yield enhancer.
+
+2024-12-04 Wed: Continued discussions on simple DeFi. Team Holiday get-together.
+
+2024-12-03 Tue: Sync with Philipp for Q4 review and 2025 planning.
+
 2024-12-02 Mon: Continued discussions with Chainspect, marketing call scheduled for tomorrow with larger X group. Community outreach for early PumpONE alpha testing. Protofire sync for LEND and 1sDAI strategy.
 
 2024-12-01 Sun: Review of trouble points to onboarding. Insight: potential to incorporate “one-click buy” as “one-click yield” on Harmony.
