@@ -1,3 +1,9 @@
+2024-12-06 Fri: This week, I focused on improving staking-related features and functionality. I investigated issues related to the staking "collect reward" amount and collaborated with Artem for assistance. Additionally, I submitted new feature requests to Protofire aimed at enhancing the staking experience on the explorer: 1) Support for displaying `claimed reward amounts` 2) `Relocating account staking precompile transaction history` from the normal transaction page to the dedicated staking transaction page  3) `Displaying CollectReward, Delegate, and Undelegate amounts` on the staking transaction page
+
+Additionally, I spent time testing and reviewing PRs aimed at resolving the multiple consensus proposal bug. However, despite these efforts, the issue remains unresolved and will require further investigation and refinements.  
+
+---
+
 2024-11-29 Fri: The issue of consensus loss caused by two validators running on the same node is closely tied to the multiple block proposal bug. In the latest development branch, within a multi-BLS key setup where the next leader resides on the same node, multiple block proposals are generated for the same height. This results in a signature verification failure because the second proposal has a different block hash compared to the first. This bug currently obstructs testing of the [next validator view change PR](https://github.com/harmony-one/harmony/pull/4802).
 
 ---
