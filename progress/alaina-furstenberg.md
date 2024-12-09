@@ -1,5 +1,11 @@
+---
 
-2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Elonxcountry quote tweet
+2025 Goals:
+
+---
+
+
+2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Elonxcountry quote tweet. Finalization of 3 goals in 2025.
 
 ---
 
