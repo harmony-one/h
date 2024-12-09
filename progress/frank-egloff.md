@@ -1,6 +1,17 @@
-2024-12-05: Completed database design and model implementation for harmony-api-llm, resolving migration issues. Advanced fly.io deployment configuration, pending final testing.
+**2025 goals (draft)**
 
-2024-12-04: Configured prepaid user database structure in harmony-llm-api. Validated token-based and JWT auth on fly.io dev environment. Finalized video transcript demo with optimized subtitle processing.
+I will enhance our Telegram bot interface to support natural language processing for web3 transactions. I'll evolve the system beyond command-based interactions to enable conversational requests like "swap 20 ONE to ETH," utilizing our existing per-user wallet infrastructure for transaction signing. This improvement will transform how users interact with Harmony's blockchain features through intuitive language processing.
+
+I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to provide our community with real-time, accurate information and development resources. By leveraging established LLM models with our continuously updated knowledge base, I'll create a tool that helps users stay current with Harmony's latest features while providing developers with precise technical guidance for building new applications.
+
+We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
+
+---
+2024-12-06 Fri: Added [DALL-E endpoint to OpenAI namespace](https://github.com/harmony-one/harmony-llm-api/pull/27). Implemented auth middleware decorators (require_any_auth, require_jwt, require_token) with full test coverage.
+
+2024-12-05 Thu: Completed database design and model implementation for harmony-api-llm, resolving migration issues. Advanced fly.io deployment configuration, pending final testing.
+
+2024-12-04 Wed: Configured prepaid user database structure in harmony-llm-api. Validated token-based and JWT auth on fly.io dev environment. Finalized video transcript demo with optimized subtitle processing.
 
 2024-12-03 Tue: Completed [video transcript demo](https://github.com/harmony-one/transcript-word-timestamp-demo/pull/8) with optimized subtitle handling: migrated from MoviePy per-word to FFmpeg approach using window-size text blocks, eliminating word spacing issues and subtitle flicker. Enhanced logging with ASCII text preservation and terminal escape removal. Extended CLI with SRT input support, enabling clip generation from 5-word text, raw subtitles, or SRT files.
 
