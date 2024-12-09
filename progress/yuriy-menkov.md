@@ -6,6 +6,12 @@ Started work on integrating new features into the current gmx ecosystem: autocom
 
 ---
 
+2024-12-07 Sun: Reviewed and tested several [merge requests](https://github.com/harmony-one/pump.fun.contracts/pulls?q=is%3Apr+is%3Aclosed) from Aaron. Found several issues.
+
+2024-12-06 Fri: Pupmpfun launch testing. Researched computeMintingAmountFromPrice using issue. Synchronized with Aaron regarding the distribution of tasks - to speed up the launch process.
+
+2024-12-05 Thu: [Worked](https://github.com/harmony-one/erc-4626) on Staking Vault tests and reward distribution logic extensions. Received a [list](https://github.com/harmony-one/pump.fun.contracts/pull/12) of review edits from Aaron - worked on the fixes.
+
 2024-12-04 Wed: [Added](https://github.com/harmony-one/erc-4626) Staking Vault (1sDAI) contract based on erc-4626 with Reward contract. Added custom fetures: 0.1% of deposits or withdrawals are levied as a fee and transferred to a separate walletsupport, Reward distribution: Before each epoch the reward contract checks the available 1sDAI balance and will distribute the amount set by us OR the maximum amount available. 
 
 2024-12-03 Tue: Worked on other edits for token factory and liquidity manager contracts: ensuring the assembly is compatible with uniswap/v3-periphery through the use of foundry remappings, calculating tickLower and tickMax based on price, comparing token addresses and correcting their order when creating a pool.
