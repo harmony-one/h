@@ -1,3 +1,18 @@
+
+2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Elonxcountry quote tweet
+
+---
+
+2024-12-08 Sun: Attendance of the ONE Show.
+
+2024-12-07 Sat: Harmony community tweet recap on [X]().
+
+2024-12-06 Fri: Writing of the pump one disclaimer and working on the docs. Sync with Theo and Tenacious on the upcoming ONE Show. [Promotion](https://x.com/harmonyprotocol/status/1865200491476717576) of the ONE Show this Sunday.
+
+2024-12-05 Thu: [Tweet](https://x.com/harmonyprotocol/status/1864801878179221729) sharing team photo from the holiday party.
+
+2024-12-04 Wed: Team holiday get together. [Tweet](https://x.com/harmonyprotocol/status/1864421843266097498) about the future of memes from elonxcountry
+
 2024-12-03 Tue: Continuation of pump one documentation. Elonxcountry quote tweet. Set up of Theo and Phillip's X space on Sunday on the upcoming yield enhancer. 
 
 2024-12-02 Mon: Editing and uploading of NotebookLM podcast of the November newsletter to [Youtube](https://youtu.be/HXHLdgd2Y6s?si=Y5yLFY6lA7q9uKyI). [Thread](https://x.com/harmonyprotocol/status/1863744419318599964) on the Novemeber newsletter. Sync with Li and the eng team on the pump one launch plan. My action items include: beginning the disclaimer and documentation for the platform.
