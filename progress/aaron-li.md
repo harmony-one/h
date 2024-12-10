@@ -10,6 +10,10 @@ Stage 3: After achieving undoubtfully satisfying user metrics of stage 1 and 2, 
 
 ----
 
+2024-12-9 Mon (5h): Discuss and review pumpone prelaunch issues, set launch tasks. Follow up and discuss latest changes. Test end-to-end. Review and planning 2025. Research AI agent usage, state of perpetual products, and progress of options and derivatives
+
+----
+
 2024-12-8 Sun (2h): Debug and fix foundry test issues for pumpone end-to-end flow
 
 2024-12-7 Sat (3.8h): Fix issues with liquidity provisioning and fee calculation on pumpone
