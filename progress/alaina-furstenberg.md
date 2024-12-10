@@ -9,7 +9,9 @@ From a design perspective, I plan to further integrate AI tools into my workflow
 ---
 
 
-2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Creation of jensenxcountry account, locating 2 talks to create shorts from. Finalization of 3 goals in 2025.
+2024-12-10 Tue: Creation of gif to tease pump one on [X](https://x.com/harmonyprotocol/status/1866604793382539501).  Creation of [jensenxcountry](https://x.com/jensenxcountry) account + banner and profile photo and posting the first tweet.
+
+2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Locating 2 talks to create shorts from. Finalization of 3 goals in 2025.
 
 ---
 
