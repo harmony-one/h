@@ -1,9 +1,15 @@
 2025 Goals:
 
+In 2025, my primary goal at Harmony is to enhance our marketing by integrating AI-driven agents to streamline content creation and community engagement on platforms like X. I’ve started this journey with a Jensen Huang account, refining the approach and planning to scale it to Harmony once I’m confident in its impact. These agents will support dynamic interactions, trend-driven content, and personalized outreach, improving Harmony’s marketing as AI and crypto continue to merge in 2025.
+
+In addition to this, I have a goal to lean heavier into meme culture to promote products like Pump ONE. By analyzing the marketing methods of successful meme tokens, I’ll identify key strategies that drive community engagement and virality. Using these insights, I’ll craft a campaign for Harmony that mirrors these effective approaches, specifically tailored to promote Pump ONE. 
+
+From a design perspective, I plan to further integrate AI tools into my workflow to enhance our X and Substack content. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
+
 ---
 
 
-2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Elonxcountry quote tweet. Finalization of 3 goals in 2025.
+2024-12-09 Mon: Sync with the pump one eng team, will begin beta testing tomorrow. Continuation of the docs and disclaimer, based off pump.fun's. Creation of jensenxcountry account, locating 2 talks to create shorts from. Finalization of 3 goals in 2025.
 
 ---
 
