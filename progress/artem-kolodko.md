@@ -1,8 +1,10 @@
-Artem Kolodko - Q3 Review
+2025 Goals (draft):
 
-Developed a [port](https://sy.country/) of Synthetix V2 and beginning work on [1Market](https://github.com/harmony-one/1market-demo/pull/1), a Polymarket analog. I successfully completed the porting of Synthetix v2 which included [deploy scripts](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md), [contracts](https://github.com/harmony-one/synthetix/tree/develop/publish/deployed/harmony4) and a [new client](https://github.com/harmony-one/synthetix-js-monorepo). During the work I solved many difficulties at each stage of the complex 200 contract files on-chain and refactored the oracle feeds, some of which had to be rewritten due to unavailability of Chainlink used in the original system. At the moment, we have a sy.country client, deployed contracts on Harmony Mainnet, and a [1SY / 1USDC](https://info.swap.harmony.one/#/harmony/pools/0xbc4af4ee9164c469b9e90f7d9b5f7854556133d6) pair available to trade on [swap.country](https://swap.country/).
+PumpOne launch: in 2025, my primary goal at Harmony is to successfully launch Pump ONE and integrate client app with AI generated content. Memecoins can be generated directly in Pump ONE client using user propmt and current market trends.
 
-I've also started work on [1Market](https://github.com/harmony-one/1market-demo/pull/1). After studying the original code sources available on github, I decided not to make a Polymarket fork, as some parts of the system are not available including client application, order book. Instead, for the initial version, I used the [Gnosis Conditional Tokens demo](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial1) as a basis, contracts from which are also used in Polymarket. At the moment I'm [working](https://github.com/harmony-one/1market-demo/pull/1) on adapting the demo client to our network and creating a more attractive interface that can be used for initial demo as well as in the final product.
+WebSockets support: in addition to that, I have a goal to add WebSockets to Pump ONE client. This feature will improve user expirience and will allow to compete with other traders in real time. I'll implement WebSockets API on the backend and support in the client, and add advanced Trading View charts with candles as on all popular trading platforms.
+
+Trading bots: my third goal is to implement various strategies for Pump ONE trading bots. This improvement will stimulate trading activity, which is especially important to attract new users.
 
 ---
 
@@ -131,6 +133,14 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 2024-10-01 Tue: [added](https://github.com/harmony-one/h/blob/main/docs/panoptic-v1-test.md) panoptics USDC/WETH swap script to /docs; setting up new [Explorer client](https://github.com/protofire/bs-frontend) locally, researching the client architecture
 
 2024-09-30 Mon: updates styles in 1market client, [deployed](https://1market-demo.netlify.app/) an update. Tested pano [swap USDC](https://github.com/polymorpher/panoptic-v1-core/blob/main/swap-local-usdc.sh) script on Harmony mainnet with new env variables from Aaron, it worked! Sent steps how to use this script to our group chat with Stephen & Aaron.
+
+---
+
+2024 Q3 Review
+
+Developed a [port](https://sy.country/) of Synthetix V2 and beginning work on [1Market](https://github.com/harmony-one/1market-demo/pull/1), a Polymarket analog. I successfully completed the porting of Synthetix v2 which included [deploy scripts](https://github.com/harmony-one/h/blob/main/docs/synthetix-v2-deployment.md), [contracts](https://github.com/harmony-one/synthetix/tree/develop/publish/deployed/harmony4) and a [new client](https://github.com/harmony-one/synthetix-js-monorepo). During the work I solved many difficulties at each stage of the complex 200 contract files on-chain and refactored the oracle feeds, some of which had to be rewritten due to unavailability of Chainlink used in the original system. At the moment, we have a sy.country client, deployed contracts on Harmony Mainnet, and a [1SY / 1USDC](https://info.swap.harmony.one/#/harmony/pools/0xbc4af4ee9164c469b9e90f7d9b5f7854556133d6) pair available to trade on [swap.country](https://swap.country/).
+
+I've also started work on [1Market](https://github.com/harmony-one/1market-demo/pull/1). After studying the original code sources available on github, I decided not to make a Polymarket fork, as some parts of the system are not available including client application, order book. Instead, for the initial version, I used the [Gnosis Conditional Tokens demo](https://docs.gnosis.io/conditionaltokens/docs/pmtutorial1) as a basis, contracts from which are also used in Polymarket. At the moment I'm [working](https://github.com/harmony-one/1market-demo/pull/1) on adapting the demo client to our network and creating a more attractive interface that can be used for initial demo as well as in the final product.
 
 ---
 
