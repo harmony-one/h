@@ -1,6 +1,6 @@
 2025 Goals (draft):
 
-PumpOne launch: in 2025, my primary goal at Harmony is to successfully launch Pump ONE and integrate client app with AI generated content. Memecoins can be generated directly in Pump ONE client using user propmt and current market trends.
+Pump ONE launch: in 2025, my primary goal at Harmony is to successfully launch Pump ONE and integrate client app with AI generated content. Memecoins can be generated directly in Pump ONE client using user propmt and current market trends.
 
 WebSockets support: in addition to that, I have a goal to add WebSockets to Pump ONE client. This feature will improve user expirience and will allow to compete with other traders in real time. I'll implement WebSockets API on the backend and support in the client, and add advanced Trading View charts with candles as on all popular trading platforms.
 
