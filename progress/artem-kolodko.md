@@ -4,7 +4,7 @@ Pump ONE launch: in 2025, my primary goal at Harmony is to successfully launch P
 
 WebSockets support: in addition to that, I have a goal to add WebSockets to Pump ONE client. This feature will improve user expirience and will allow to compete with other traders in real time. I'll implement WebSockets API on the backend and support in the client, and add advanced Trading View charts with candles as on all popular trading platforms.
 
-Trading bots: my third goal is to implement various strategies for Pump ONE trading bots. This improvement will stimulate trading activity, which is especially important to attract new users.
+Trading bots: my third goal is to implement various strategies for Pump ONE trading bots. This improvement will stimulate trading activity, which is especially important to attract new users. Trading bot strategies, tested on Pump ONE, can also be used in other products in the ecosystem.
 
 ---
 
