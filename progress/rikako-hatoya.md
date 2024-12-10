@@ -6,8 +6,14 @@ I also plan to revisit and enhance the Telegram bot (Hod1) by integrating featur
 
 Lastly, I want to expand my backend development expertise by contributing to projects like the Pump.fun app and diving deeper into protocol engineering and contract development. Additionally, I aim to play a more active role in our community-driven initiatives, similar to my work on AnotherWorld (where I integrated ONE to BTC Runes factory contract), to help drive innovation and collaboration. Whether it’s refining smart contracts, working on cross-chain interoperability, or building DeFi tools, I hope to combine technical growth with impactful contributions to our ecosystem.
 
+---
+2024-12-10 Tue: Sync with Li, reviewed and refined 2025 progress goals. Looked back at a16z/Eliza repo and started testing some of the autonomous agents on virtuals protocol.
+
+2024-12-09 Mon: Started research into AI agents in preparation for jensenxcountry. Looked into lalalune repos such as Magick, and bgent.
 
 ---
+
+2024-12-08 Sun: Tested pump.one client. Looked into some of the contracts such as liquidity manager and bonding curve.
 
 2024-12-07 Sat: Continued looking into text parameter options. Worked on editing progress/goal writeup.
 
