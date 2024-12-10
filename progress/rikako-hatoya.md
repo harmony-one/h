@@ -4,7 +4,7 @@ For 2025, I aim to dive deeper into the intersection of crypto and AI by advanci
 
 I also plan to revisit and enhance the Telegram bot (Hod1) by integrating features inspired by the Human Protocol and merging them with Harmony1Bot. By creating gamified experiences like daily challenges or prediction-based games similar to TapSwap or Hamster Kombat, we can attract a diverse user base and foster community engagement. Leveraging incentives such as token rewards, NFTs, or exclusive perks for active participants, I aim to build a thriving ecosystem that not only boosts user retention but also enhances visibility for the Harmony blockchain.
 
-Lastly, I want to expand my backend development expertise by contributing to projects like the Pump.fun app and diving deeper into protocol engineering and contract development. Additionally, I aim to play a more active role in our community-driven initiatives, similar to my work on AnotherWorld, to help drive innovation and collaboration. Whether it’s refining smart contracts, working on cross-chain interoperability, or building DeFi tools, I hope to combine technical growth with impactful contributions to our ecosystem.
+Lastly, I want to expand my backend development expertise by contributing to projects like the Pump.fun app and diving deeper into protocol engineering and contract development. Additionally, I aim to play a more active role in our community-driven initiatives, similar to my work on AnotherWorld (where I integrated ONE to BTC Runes factory contract), to help drive innovation and collaboration. Whether it’s refining smart contracts, working on cross-chain interoperability, or building DeFi tools, I hope to combine technical growth with impactful contributions to our ecosystem.
 
 
 ---
