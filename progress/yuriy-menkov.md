@@ -1,8 +1,10 @@
-**2024 Q3 Review**
+2025 Goals (draft):
 
-Improvements and adding new features for [GMX v1](https://gx.country/) to Harmony. New [services](https://github.com/harmony-one/gmx-price-keeper) added: price keeper, position keeper and watcher service (to disable keeper in case of setting incorrect prices). Completed interface on adding liquidity and purchasing GXP tokens. Integration with [UniswapV3Oracles](https://github.com/polymorpher/synth-oracle) as first price feed has been implemented. Added services for collecting statistics on price changing and displaying prices on charts in ux. Fixed texts and interface errors. Added support for stable coins on creating long and short positions. Documentation on deploying the system and adding new tokens was prepared. Security audit of contracts and keepers service for the basic version has been completed. 
+I will enhance our Harmony Bridge by adding new features to make it more convenient for the community: migration to Layerzero V2, solana support, one common contract for many tokens with dynamic addition of new tokens by community members, USDCe support - one common USDC token for all chains, ux improvements.
 
-Started work on integrating new features into the current gmx ecosystem: autocompounding vaults - explored the possibility of partial migration of functionality using the example of the morphex project, in the end I decided to deploy all morphex [contracts](https://github.com/harmony-one/h-gmx-contracts/commit/48c71a05609b3e907ad77d730a6d3fcd617be764) in their entirety, but ran into the problem of integrating their contracts with the basic version of the gmx interface.
+Release and support defi applications on Harmony: Pump ONE contracts, Erc-4626 based Staking Valut with Reward distributor contracts, Staking Vault backend and frontend, GMX V1 base release, release GMX version with additional features like autocompounder, levarge GLP and delta-netutral vault, Defi games with telegram integration.
+
+AI agents integrations: autonomous yield optimization agents powered by AI to maximize returns for users across multiple protocols, developing AI-driven trading bots that leverage real-time market data for better decision-making, and integrating AI agents into staking and liquidity management platforms for seamless portfolio rebalancing and auto-compounding.
 
 ---
 
