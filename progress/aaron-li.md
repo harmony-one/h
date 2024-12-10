@@ -1,6 +1,32 @@
-2024-11-22 Sat (1.2h): Reconstruct bonding curve contract and formula using new math library. Verify accuracy. Reactivate and pass all tests
+2024-12-8 Sun (2h): Debug and fix foundry test issues for pumpone end-to-end flow
 
-2024-11-21 Fri (9.4h): Debugging bonding curve errors and error conditions, investigate math issues, refine and add new test and debug scripts, evaluate math libraries and end-to-end accuracy performance
+2024-12-7 Sat (3.8h): Fix issues with liquidity provisioning and fee calculation on pumpone
+
+2024-12-6 Fri (4.2h): Quick review pumpone client code and recent changes. Detailed review and comment on frontend and end-product. Discussion on pumpone contract changes. Research and discuss unifying bridged USDC and potential issues. Recovery planning discussions and new set up. Node reliability debugging and operation
+
+2024-12-5 Thu (3.4h): Debugging and discussing pumpone liquidity provisioning
+
+2024-12-3 Tue (0.8h): Discuss pumpone contract dependency issues. Discuss pumpone contract dependency issues
+
+2024-12-2 Mon (4h): Bonding curve parameters, price, and costs. Review and comment pumpone uniswap integration code. Verify math and sqrt function details. Discussion pumpone pre-launch tasks
+
+----
+
+2024-11-27 Thu (0.9h): Discuss and review integration methods, and internal code for Uniswap v3 pool and position manager
+
+2024-11-27 Wed (1.3h): Review recovery progress, update burner configs, stats, charts, resume operation
+
+2024-11-26 Tue (0.3h): Review AI bot options for meme coin launchpad
+
+2024-11-25 Mon (0.5h): Discussion on meme coin launchpad pre-launch issues
+
+----
+
+2024-11-24 Sun (2.2h): Review and discuss latest code and UI update on meme coin launchpad. Reconstruct bonding curve contract and formula using new math library. Verify accuracy. Reactivate and pass all tests
+
+2024-11-23 Sat (1.2h): Reconstruct bonding curve contract and formula using new math library. Verify accuracy. Reactivate and pass all tests
+
+2024-11-22 Fri (9.4h): Debugging bonding curve errors and error conditions, investigate math issues, refine and add new test and debug scripts, evaluate math libraries and end-to-end accuracy performance
 
 2024-11-21 Thu (2.7h): Manually verify bonding curve accuracy and edge cases
 
