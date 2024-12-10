@@ -6,6 +6,10 @@ I've also started work on [1Market](https://github.com/harmony-one/1market-demo/
 
 ---
 
+2024-12-10 Mon: pump.one - [added](https://github.com/harmony-one/pump.fun.backend/commit/9ee1ace2ff82355e6da15f821c70df04efef67c0) sorting by market cap and creation time on tokens page, tokens indexer speed [increased](https://github.com/harmony-one/pump.fun.backend/commit/c04524ad364999213c14920935b21ecc63339470) by 3-4 times, [added](https://github.com/harmony-one/pump.fun.backend/commit/10fd44465f491eca87962838422c754118cc7553) caching in some backend endpoints; [deployed](https://pump-app.netlify.app/) new version of client.
+
+---
+
 2024-12-08 Sun: continue on pump.fun fixes before the launch: [fixed](https://github.com/harmony-one/pump.fun.backend/commit/374bc721905c85fc24ee70e6e09fb757a88d5b4c) market cap and token price calculation, [added](https://github.com/harmony-one/pump.fun.backend/commit/184830c5dd779f119cbb8093ca94f803b5777e92) GIF and PNG files support, added file size and type validation on the BE side, [improved](https://github.com/harmony-one/pump.fun.client/commit/34b591d92e2d2764769887366f124e2d830e7d6e) trade notification.
 
 2024-12-07 Sat: pump.one issues - preparation for launch: [fixed](https://github.com/harmony-one/pump.fun.client/issues/1) price chart labels, removed TradingView logo, [added](https://github.com/harmony-one/pump.fun.client/issues/2) multiple wallets support
