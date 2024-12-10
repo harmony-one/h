@@ -1,3 +1,15 @@
+2025:
+
+My goal is to create and evolve the technologies to make the network the simplest, most fun places for trading, making predictions, and playing with humanoid AI - the self-improving bots that can converse with humans, launch and manage tokens, and make intelligent trading decisions under supervision. This can be achieved in three stages:
+
+Stage 1: Construct and launch decentralized markets for option and perpetual trading, event prediction, and token launching. Building on top of the open infrastructure of products with proven market fits, I will remove the unnecessary complexity, focus on the most common use cases, and create the next generation products with simple, delightful user experience. As part of this, I will also assist in simplify existing products, unifying fragmented liquidity, and rebooting defi systems to attract external liquidity.  
+
+Stage 2: Create AI bots that can collaborate with humans and participate these markets. The bots will be the guide for the users to get familiar with the products and share tips learned from the community, and later become the an intelligent assistant for the user to automatically trade or launch tokens based on users' natural language instructions, budgets, and its own learnings.
+
+Stage 3: After achieving undoubtfully satisfying user metrics of stage 1 and 2, I will design and prepare developer tools for other creators to share the success of the ecosystem and invent the most creative use of the bots, token launchers, derivative markets, and event prediction. 
+
+----
+
 2024-12-8 Sun (2h): Debug and fix foundry test issues for pumpone end-to-end flow
 
 2024-12-7 Sat (3.8h): Fix issues with liquidity provisioning and fee calculation on pumpone
