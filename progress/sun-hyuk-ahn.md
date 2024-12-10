@@ -1,3 +1,13 @@
+## 2025 Goals ##
+
+In 2025, my primary focus will be on Ethereum improvement proposals, starting with EIP-3074 for transaction sponsorship. This proposal introduces two new opcodes, AUTH and AUTHCALL, enabling smart contracts to sponsor user transactions. By reducing the need for users to hold ETH for gas fees, EIP-3074 simplifies onboarding and increases accessibility. My work will focus on its integration and tooling to support broader adoption of gas sponsorship mechanisms.
+
+Another priority will be the EVM Object Format (EOF), which restructures how smart contracts store and execute bytecode. EOF aims to improve modularity, reduce storage requirements, and enable better runtime analysis. Implementing EOF can lower contract deployment costs and simplify upgrades for complex systems. By focusing on EOF, I aim to enhance the efficiency and scalability of smart contract development.
+
+Lastly, I would like to focus on implementing upgrades focused on the protocol side. Some options that are up for discussion include Verkle tree transition to improve storage size, Pectra upgrade (2 part upgrade likely to happen early 2025 that allows users to pay gas fees with different tokens, speed up smart contract development and interaction, etc.), and EIP-4844 (proto-danksharding; this is latter in priority as Harmony does not have heavy L2 layer).
+
+---
+
 2024-11-04 Mon: Finalized localnet smart contract deployment using Safe Singleton Factory. Now able to deploy Alto bundler with consistent deterministic addresses. Will work on testing simple accounts tomorrow.
 
 ---
