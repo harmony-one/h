@@ -7,6 +7,11 @@ I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to prov
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
 
 ---
+2024-12-10 Tue: Integrated [Sentry](https://github.com/harmony-one/HarmonyOneBot/pull/374) across all 1Bot environments and deployed to production. Progressing on payment system in harmony-llm-api, implementing balance checks and model cost logic.
+
+2024-12-09 Mon: Extended video transcript CLI with font size parameter. Checked 1Bot stat command KPI error, and prompt with URL error. Need to configure Sentry.  
+
+---
 2024-12-06 Fri: Added [DALL-E endpoint to OpenAI namespace](https://github.com/harmony-one/harmony-llm-api/pull/27). Implemented auth middleware decorators (require_any_auth, require_jwt, require_token) with full test coverage.
 
 2024-12-05 Thu: Completed database design and model implementation for harmony-api-llm, resolving migration issues. Advanced fly.io deployment configuration, pending final testing.
