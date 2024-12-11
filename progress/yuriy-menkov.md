@@ -8,6 +8,12 @@ AI agents integrations: autonomous yield optimization agents powered by AI to ma
 
 ---
 
+2024-12-10 Tue: Worked on tests for TokenFactory: buying, selling, price changes, commission, publishing on Uniswap. Correction of contract settings to resolve [issue](https://github.com/harmony-one/pump.fun.contracts/issues/17). [Fixed](https://github.com/harmony-one/pump.fun.contracts/commit/213caf130f5688fd042f659322026d83b72cb77e) bug on call mint for not winner with low token price. Redeploy all contracts. Researched bridge rpc connection issue.
+
+2024-12-09 Mon: Pumpfun launch: [fixed](https://github.com/harmony-one/pump.fun.contracts/commit/699e440c26c8f9a2a81aa745ed0fc119272d3c13) issue with uniswap initial supply calculation. Review and [merged](https://github.com/harmony-one/pump.fun.contracts/commit/1f538436ad6f0dea51e81d97b542f3171ce26386) latest changes from Aaron. Redeployed all contracts. Testing complex e2e cases.
+
+---
+
 2024-12-07 Sun: Reviewed and tested several [merge requests](https://github.com/harmony-one/pump.fun.contracts/pulls?q=is%3Apr+is%3Aclosed) from Aaron. Found several issues.
 
 2024-12-06 Fri: Pupmpfun launch testing. Researched computeMintingAmountFromPrice using issue. Synchronized with Aaron regarding the distribution of tasks - to speed up the launch process.
