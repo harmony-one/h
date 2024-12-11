@@ -8,6 +8,8 @@ DEX: the goal is to launch decentralized perpetual market, that offers seamless 
 
 ---
 
+2024-12-11 Wed: pump.one client: [added](https://github.com/harmony-one/pump.fun.client/commit/f07e25b18d13fcb71dc9fd287812297e26703d1b) [/rules](https://pump-app.netlify.app/) page, redeployed protocol and services to support [latest updates](https://github.com/harmony-one/pump.fun.contracts/commit/213caf130f5688fd042f659322026d83b72cb77e) in pump.one contracts.
+
 2024-12-10 Tue: pump.one indexer: [added](https://github.com/harmony-one/pump.fun.backend/commit/3bb31ccd2639b6a3c08ccd095572d78fe4a17a37) indexer optimization: fetching transaction logs in batches (max=5 batches with 1000 blocks in each); [updated](https://github.com/harmony-one/pump-fun-trading-bot/commit/7f0a86048cd3601cfb38acf4fab2f08a5ca6e429) pump.one trading bot to trade with 3 newest tokens.
 
 2024-12-09 Mon: pump.one - [added](https://github.com/harmony-one/pump.fun.backend/commit/9ee1ace2ff82355e6da15f821c70df04efef67c0) sorting by market cap and creation time on tokens page, tokens indexer speed [increased](https://github.com/harmony-one/pump.fun.backend/commit/c04524ad364999213c14920935b21ecc63339470) by 3-4 times, [added](https://github.com/harmony-one/pump.fun.backend/commit/10fd44465f491eca87962838422c754118cc7553) caching in some backend endpoints; [deployed](https://pump-app.netlify.app/) new version of client.
