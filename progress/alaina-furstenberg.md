@@ -4,7 +4,7 @@ In 2025, my primary goal at Harmony is to enhance our marketing by integrating A
 
 In addition to this, I have a goal to lean heavier into meme culture to promote products like Pump ONE. By analyzing the marketing methods of successful meme tokens, I’ll identify key strategies that drive community engagement and virality. Using these insights, I’ll craft a campaign for Harmony that mirrors these effective approaches, specifically tailored to promote Pump ONE. 
 
-From a design perspective, I plan to further integrate AI tools into my workflow to enhance our X and Substack content. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
+* making design easier * From a design perspective, I plan to further integrate AI tools into my workflow to enhance our X and Substack content. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
 
 ---
 
