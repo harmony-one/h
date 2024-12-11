@@ -1,14 +1,16 @@
-2025 Goals (draft):
+2025 goals:
 
-Pump ONE launch: in 2025, my primary goal at Harmony is to successfully launch Pump ONE and integrate client app with AI generated content. Memecoins can be generated directly in Pump ONE client using user propmt and current market trends.
+PumpONE: I will improve Pump ONE by adding new features to make it more convenient for traders: Websockets for faster price updates, AI-generated memecoins right in client application, UI improvements.
 
-WebSockets support: in addition to that, I have a goal to add WebSockets to Pump ONE client. This feature will improve user expirience and will allow to compete with other traders in real time. I'll implement WebSockets API on the backend and support in the client, and add advanced Trading View charts with candles as on all popular trading platforms.
+AI agents integration: create AI agents based on Eliza, working across multiple protocols, aiming to maximize user returns. Autonomous AI agents will assist user to make trading decision, and will support user portfolio rebalancing, based on current market state and price predictions.
 
-Trading bots: my third goal is to implement various strategies for Pump ONE trading bots. This improvement will stimulate trading activity, which is especially important to attract new users. Trading bot strategies, tested on Pump ONE, can also be used in other products in the ecosystem.
+DEX: the goal is to launch decentralized perpetual market, that offers seamless trading with robust liquidity and user-friendly interfaces, build on top of existed products with proven market fits.
 
 ---
 
-2024-12-10 Mon: pump.one - [added](https://github.com/harmony-one/pump.fun.backend/commit/9ee1ace2ff82355e6da15f821c70df04efef67c0) sorting by market cap and creation time on tokens page, tokens indexer speed [increased](https://github.com/harmony-one/pump.fun.backend/commit/c04524ad364999213c14920935b21ecc63339470) by 3-4 times, [added](https://github.com/harmony-one/pump.fun.backend/commit/10fd44465f491eca87962838422c754118cc7553) caching in some backend endpoints; [deployed](https://pump-app.netlify.app/) new version of client.
+2024-12-10 Tue: pump.one indexer: [added](https://github.com/harmony-one/pump.fun.backend/commit/3bb31ccd2639b6a3c08ccd095572d78fe4a17a37) indexer optimization: fetching transaction logs in batches (max=5 batches with 1000 blocks in each); [updated](https://github.com/harmony-one/pump-fun-trading-bot/commit/7f0a86048cd3601cfb38acf4fab2f08a5ca6e429) pump.one trading bot to trade with 3 newest tokens.
+
+2024-12-09 Mon: pump.one - [added](https://github.com/harmony-one/pump.fun.backend/commit/9ee1ace2ff82355e6da15f821c70df04efef67c0) sorting by market cap and creation time on tokens page, tokens indexer speed [increased](https://github.com/harmony-one/pump.fun.backend/commit/c04524ad364999213c14920935b21ecc63339470) by 3-4 times, [added](https://github.com/harmony-one/pump.fun.backend/commit/10fd44465f491eca87962838422c754118cc7553) caching in some backend endpoints; [deployed](https://pump-app.netlify.app/) new version of client.
 
 ---
 
