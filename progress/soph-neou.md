@@ -18,6 +18,17 @@ By focusing on these four priorities—stability, finality, synchronization, and
 
 ---
 
+**2024 Q4 review**
+
+In Q4, I focused on enhancing staking functionality and addressing critical protocol challenges. A significant part of my efforts was dedicated to investigating consensus-related issues, particularly a bug causing multiple block proposals. While the final resolution is still in progress, my thorough analysis clarified the problem's scope and outlined actionable next steps for resolving it.
+
+To strengthen protocol stability, I rigorously tested and reviewed pull requests addressing post-HIP32 challenges. This included refining leader rotation logic and optimizing multi-BLS validator consensus mechanisms. Additionally, I updated the localnet to replicate mainnet conditions, uncovering critical edge cases such as consensus failures during single-node quorum scenarios.
+
+Operationally, I worked on improving the network by developing and implementing scripts to identify anomalies in block production. My proactive collaboration with the validator community was instrumental in mitigating these issues, including a significant 12-minute shard 0 consensus loss. Detailed incident reporting and follow-up ensured transparency and informed future improvements.
+
+---
+
+
 2024-12-06 Fri: This week, I focused on improving staking-related features and functionality. I investigated issues related to the staking "collect reward" amount and collaborated with Artem for assistance. Additionally, I submitted new feature requests to Protofire aimed at enhancing the staking experience on the explorer: 1) Support for displaying `claimed reward amounts` 2) `Relocating account staking precompile transaction history` from the normal transaction page to the dedicated staking transaction page  3) `Displaying CollectReward, Delegate, and Undelegate amounts` on the staking transaction page
 
 Additionally, I spent time testing and reviewing PRs aimed at resolving the multiple consensus proposal bug. However, despite these efforts, the issue remains unresolved and will require further investigation and refinements.  
