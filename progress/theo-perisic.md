@@ -1,16 +1,16 @@
-**2025 Goals: Simple DeFi, "One-Click Yield", Perpetual Innovation (Draft)**
+2025 Goals: Simple DeFi, "One-Click Yield", Perpetual Innovation
 
 In 2025, my mission is to establish Harmony as the primary destination for DeFi by delivering innovative products that combine accessibility, cutting-edge AI, and simplified financial tools. These goals will drive ecosystem growth and position Harmony as a leader in decentralized finance.
 
-1. **One-Click Yield: Simplifying DeFi Strategies**  
+1. One-Click Yield: Simplifying DeFi Strategies  
 
 Launch a flagship one-click yield product that simplifies complex yield farming strategies for stablecoins. This solution will provide industry-leading returns while offering users an effortless and intuitive experience, making Harmony the most user-friendly DeFi platform.
 
-2. **Driving Liquidity and Finalizing DeFi Suite**
+2. Driving Liquidity and Finalizing DeFi Suite
 
 Driving toward $100M in Total Value Locked by leveraging innovative yield strategies and launching the final primitive in Harmony’s DeFi suite: a perpetual exchange. Following swap and lend, this exchange will introduce leverage to the ecosystem, expanding financial offerings and driving adoption. In parallel, I aim to work with the community to deliver more clarity surrounding the proposed community-driven ecosystem treasury, ensuring long-term funding for growth and development.
 
-3. **AI-Driven Experiences with Eliza OS**
+3. AI-Driven Experiences with Eliza OS
 
 Integrate the [ai16z Eliza OS](https://elizaos.ai/) framework into Harmony1Bot to deliver an AI-powered DeFi experience. By combining conversational interfaces with real-time optimizations, we will simplify user interactions across bridge, swap, lend, and the perpetual exchange, setting a new benchmark for accessibility in decentralized finance.
 
