@@ -2,7 +2,10 @@
 
 I successfully completed the leader rotation process, ensuring a smooth launch on the mainnet with the team.
 I developed features and capabilities for monitoring the distributed network without requiring knowledge of the exact leader.
-I developed synchronization mechanisms to ensure uninterrupted block production by the leader.
+I enhanced synchronization mechanisms to guarantee uninterrupted block production by the leader.
+I introduced mechanisms to bypass inactive leaders, significantly minimizing potential downtime.
+
+---
 
 
 Goals 2025:
