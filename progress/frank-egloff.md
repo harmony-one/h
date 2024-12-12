@@ -1,12 +1,14 @@
 **2025 goals (draft)**
 
-I will enhance our Telegram bot interface to support natural language processing for web3 transactions. I'll evolve the system beyond command-based interactions to enable conversational requests like "swap 20 ONE to ETH," utilizing our existing per-user wallet infrastructure for transaction signing. This improvement will transform how users interact with Harmony's blockchain features through intuitive language processing.
-
 I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to provide our community with real-time, accurate information and development resources. By leveraging established LLM models with our continuously updated knowledge base, I'll create a tool that helps users stay current with Harmony's latest features while providing developers with precise technical guidance for building new applications.
+
+Building on this foundation, I will develop autonomous social agents inspired by Elon Musk's Grok and Jensen Huang's AI assistants that operate on X and Telegram, leveraging RAG-enhanced AI to generate engaging content and maintain meaningful interactions. The agents will be customizable for different purposes while supporting web3 transactions.
 
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
 
 ---
+2024-12-11 Wed: Progressing on harmony-llm-api payment system implementation, debugging route configurations, decorator interactions, and resolving library dependency issues. 
+
 2024-12-10 Tue: Integrated [Sentry](https://github.com/harmony-one/HarmonyOneBot/pull/374) across all 1Bot environments and deployed to production. Progressing on payment system in harmony-llm-api, implementing balance checks and model cost logic.
 
 2024-12-09 Mon: Extended video transcript CLI with font size parameter. Checked 1Bot stat command KPI error, and prompt with URL error. Need to configure Sentry.  
