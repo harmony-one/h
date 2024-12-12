@@ -10,25 +10,21 @@ Lastly, I would like to focus on implementing upgrades focused on the protocol s
 
 2024-12-11 Wed:
 
-2024-12-10 Tue:
+2024-12-10 Tue: Analyzed [OKcontract](https://okcontract.com/) developer document. OKcontract is an interaction layer connecting smart contracts with frontend.
 
-2024-12-09 Mon:
+2024-12-09 Mon: Examined [EVM object format](https://evmobjectformat.org/), which simplifies EVM in general. To mention specification, restructure of the low-level code (EIP-3540), verification of code upon deployment (EIP-3670), rejection of faulty contracts (EIP-3670), improvement of stack machine (EIP-4200), as well as many other faulty prevention. EVM object format is a series of multiple EIPs, thus have prioritized this initiative after the EIP-3074, due to its lighter load of upgrades and development.
 
 ---
 
-2024-12-08 Sun:
+2024-12-06 Fri: Finalizing 2025 goals. EIP-3074 to be prioritized as the main initiative as it complements ERC-4337 (account abstraction) and introduces new EVM functions that is widely implemented by other EVMs. Proto-danksharding is for wide use of L2s, which Harmony doeds not have a big usage, thus is latter in the list.
 
-2024-12-07 Sat:
+2024-12-05 Thu: Further looked into Pectra upgrade, optimizing smart contract efficiency in deployment and gas usage.
 
-2024-12-06 Fri:
+2024-12-04 Wed: Examined Dencun upgrade, which mainly focuses on [EIP-4844 (proto-danksharding)](https://www.eip4844.com/). Team holiday meet up.
 
-2024-12-05 Thu:
+2024-12-03 Tue: Looking into different initiatives for 2025 goals. Examined verkle tree (replaces merkle patricia tree for space optimization).
 
-2024-12-04 Wed:
-
-2024-12-03 Tue:
-
-2024-12-02 Mon:
+2024-12-02 Mon: Analyzed [EIP-3074](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-3074.md), which introduces `AUTH` and `AUTHCALL`. This allows EOAs to authorize smart contracts to act on its behalf, allowing EOAs to work similarly to smart accounts.
 
 ---
 
@@ -40,7 +36,7 @@ Lastly, I would like to focus on implementing upgrades focused on the protocol s
 
 2024-11-28 Thu: Thanksgiving
 
-2024-11-27 Wed: 
+2024-11-27 Wed: End to end test using Base's provided workflow and tests. Operations working as expected.
 
 2024-11-26 Tue: Deployed both smart contracts for Coinbase smart wallet (as well as dependencies) to Testnet and Mainnet.
 
