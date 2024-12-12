@@ -1,4 +1,5 @@
 **2025 Golas:**
+
 **Stream Sync and State Sync:**
 One of my top goals for Harmony is to bring Stream Sync to the mainnet. Stream Sync will enable validators to communicate directly through streams instead of relying on DNS nodes, which are currently the primary method. By releasing Stream Sync, DNS nodes will serve only as a backup, significantly reducing their load and enhancing the network’s efficiency. This will make Harmony’s network fully decentralized, more resilient, and better equipped to handle scaling challenges.
 
