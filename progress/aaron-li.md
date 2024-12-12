@@ -1,4 +1,4 @@
-2025:
+2025 Goals:
 
 My goal is to create and evolve the technologies to make the network the simplest, most fun places for trading, making predictions, and playing with humanoid AI - the self-improving bots that can converse with humans, launch and manage tokens, and make intelligent trading decisions under supervision. This can be achieved in three stages:
 
