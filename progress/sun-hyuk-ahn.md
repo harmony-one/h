@@ -8,6 +8,86 @@ Lastly, I would like to focus on implementing upgrades focused on the protocol s
 
 ---
 
+2024-12-11 Wed:
+
+2024-12-10 Tue:
+
+2024-12-09 Mon:
+
+---
+
+2024-12-08 Sun:
+
+2024-12-07 Sat:
+
+2024-12-06 Fri:
+
+2024-12-05 Thu:
+
+2024-12-04 Wed:
+
+2024-12-03 Tue:
+
+2024-12-02 Mon:
+
+---
+
+2024-12-01 Sun: Thanksgiving
+
+2024-11-30 Sat: Thanksgiving
+
+2024-11-29 Fri: Thanksgiving
+
+2024-11-28 Thu: Thanksgiving
+
+2024-11-27 Wed: 
+
+2024-11-26 Tue: Deployed both smart contracts for Coinbase smart wallet (as well as dependencies) to Testnet and Mainnet.
+
+2024-11-25 Mon: Reviewed deployment logs and finalized the deployment script.
+
+---
+
+2024-11-24 Sun (3 hr): Debugging the deployment process.
+
+2024-11-23 Sat (4 hr): Wrote a [script](https://github.com/harmony-one/)) for Testnet and Mainnet smart wallet contract launch.
+
+2024-11-22 Fri: Test run using localnet bundler and locally deployed smart wallet.
+
+2024-11-21 Thu: Examined Coinbase's smart wallet smart contracts and the [walet SDK](https://github.com/coinbase/coinbase-wallet-sdk).
+
+2024-11-20 Wed: End to end testing using the Mainnet node and Pimlico bunder. Succesfully deployed the Mainnet bundler.
+
+2024-11-19 Tue: Setup Mainnet node with the upgraded `eth_call` and set up the DNS configuration (api-aa.s1.t.hmny.io). 
+
+2024-11-18 Mon: Deployed `EntryPoint.sol` and `EntryPointSimulation.sol`.
+
+---
+
+2024-11-15 Fri: Mainnet configuration in order to launch all the dependency.
+
+2024-11-14 Thu: End to end testing using the Testnet node and Pimlico bundler. Successfully deployed the Testnet bundler.
+
+2024-11-13 Wed: Deployed a Testnet node with the upgraded `eth_call` method and set up the DNS configuration (api-aa.s0.b.hmny.io).
+
+2024-11-12 Tue: Completed the script and successfully deployed `EntryPointSimulation.sol` in Testnet.
+
+2024-11-11 Mon: Federal holiday
+
+---
+
+2024-11-10 Sun (1 hr): Continued with the script.
+
+2024-11-09 Sat (4 hr): Pimlico deploys the simulation contract using creation bytecode through a simulated call. Began working on a script to generate create bytecode and make the call.
+
+2024-11-08 Fri: Examined the `EntryPointSimulation.sol` deployment process as it is not deployable through the conventional method of deploying a smart contract.
+
+2024-11-07 Thu: ERC-4337 explicitly declares that `EntryPointSimulation.sol` is not to be deployed on chain and is to be used only for simulation. However, Pimlico requires this contract to have a valid address on chain.
+
+2024-11-06 Wed: Examining `EntryPointSimulation.sol`, which is solely used for simulation purpose prior to submitting UserOperations into the network.
+
+2024-11-05 Tue: End to end testing of simple accounts using [SimpleAccount.sol](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/samples/SimpleAccount.sol).
+
 2024-11-04 Mon: Finalized localnet smart contract deployment using Safe Singleton Factory. Now able to deploy Alto bundler with consistent deterministic addresses. Will work on testing simple accounts tomorrow.
 
 ---
