@@ -1,4 +1,9 @@
-2025 Goals:
+2024 Q4 Review
+
+
+---
+
+2025 Goals
 
 In 2025, my primary goal at Harmony is to enhance our marketing by integrating AI-driven agents to streamline content creation and community engagement on platforms like X. I’ve started this journey with a Jensen Huang account, refining the approach and planning to scale it to Harmony once I’m confident in its impact. These agents will support dynamic interactions, trend-driven content, and personalized outreach, improving Harmony’s marketing as AI and crypto continue to merge in 2025.
 
