@@ -1,4 +1,4 @@
-2025 goals:
+2025 Goals:
 
 PumpONE: I will improve Pump ONE by adding new features to make it more convenient for traders: Websockets for faster price updates, AI-generated memecoins right in client application, UI improvements.
 
