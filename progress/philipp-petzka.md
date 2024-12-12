@@ -26,6 +26,7 @@ Due to my role, I evolve all my goals around the claim: **Make Harmony the Home 
 
 10,000 daily active wallets: Active addresses indicate user retention and the successful attraction of "Power Users" that naturally influence other users with their actions. User retention is important to verify if Harmony is a fun and interesting space for users to return to daily. The goal can be achieved by gamified experiences, advanced high-yield farmign strategies and utility-focused products.  
 
+---
 
 2024-11-27 Wed: This week is about to get the Yield enhancer ready. I went through the final concept with Theo and wrote an additional detailed description of the vault mechanics. Besides that, I am ideating how to market the upcoming pump fun launch and started updating the Harmony documentation. Apart from that, I started engaging a little bit with the community and plan to get more feedback from them to see what they want to use or look for. 
 
