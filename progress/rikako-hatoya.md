@@ -1,4 +1,4 @@
-**2025 Individual Goals:**
+**2025 Goals:**
 
 In 2025, I plan to focus on developing AI agents for Twitter, leveraging automation and natural language processing to optimize interactions and drive engagement. Additionally, I aim to integrate solutions, such as decentralized identity and tokenized rewards, to build tools for seamless user onboarding, developer support, and dApp promotion. By combining AI and blockchain technologies, I seek to innovate in automating community management and enhancing reward mechanisms, driving adoption in decentralized systems.
 
