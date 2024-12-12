@@ -1,4 +1,4 @@
-**2024 Q4 Review**
+2024 Q4 Review
 
 I successfully completed the leader rotation process, ensuring a smooth launch on the mainnet with the team.
 I developed features and capabilities for monitoring the distributed network without requiring knowledge of the exact leader.
@@ -8,7 +8,7 @@ I introduced mechanisms to bypass inactive leaders, significantly minimizing pot
 ---
 
 
-Goals 2025:
+2025 Goals:
 
 Achieving 1-Second Finality:
 My primary goal is to achieve 1-second finality. I encountered challenges with block proposing when using multiple keys on the same node, particularly during leader rotation. Eliminating these delays is critical, as they significantly impact my ability to consistently achieve 1-second finality.
