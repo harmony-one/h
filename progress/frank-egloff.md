@@ -2,7 +2,7 @@
 
 I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to provide our community with real-time, accurate information and development resources. By leveraging established LLM models with our continuously updated knowledge base, I'll create a tool that helps users stay current with Harmony's latest features while providing developers with precise technical guidance for building new applications.
 
-Building on this foundation, I will develop autonomous social agents inspired by Elon Musk's Grok and Jensen Huang's AI assistants that operate on X and Telegram, leveraging RAG-enhanced AI to generate engaging content and maintain meaningful interactions. The agents will be customizable for different purposes while supporting web3 transactions.
+Building on this foundation, I will develop autonomous social agents based on Elon Musk's Grok and Jensen Huang's AI assistants that operate on X and Telegram, leveraging RAG-enhanced AI to generate engaging content and maintain meaningful interactions. The agents will be customizable for different purposes while supporting web3 transactions.
 
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
 
