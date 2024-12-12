@@ -1,3 +1,49 @@
+**2025 Yearly Plan**
+
+In 2025, I'll be focusing on the following topics: covering core functionality with integration tests, helping with onboarding a new systems engineer, improving consensus developers' user experience, and supporting overall Harmony network reliability.
+
+**1. Onboarding a new systems engineer**
+First, this goal will alleviate pressure on the on-call engineers in the Americas time zones. Additionally, I'll hand over systems-related tasks to the new engineer, allowing me to focus on supporting the consensus development team.
+
+**2. Covering possible network configurations with integration tests**
+Currently, we have only one state used in our CI: internal validators, each with one BLS key per node. However, we need to simulate real-world network configurations to ensure new features and updates are thoroughly validated. This will reduce the risk of issues in production by catching potential bugs earlier in the development cycle. It will also provide confidence in the stability and reliability of changes, enabling developers to innovate with fewer concerns about breaking existing functionality.
+
+**3. Covering RPC calls with the existing pytest framework**
+Leveraging my experience as a Software Testing Engineer, I will review our RPC testing framework by collecting and analyzing its current state and expanding test cases to provide rapid feedback on RPC call changes or catch regression bugs. This will strengthen regression detection, ensuring past issues do not reappear, and improve the overall quality and reliability of the RPC layer, a critical interface for developers and users alike.
+
+These efforts will enable the development team to concentrate on building new features rather than resolving recurring issues, accelerating overall progress. By reducing operational overhead and improving testing, the team can prioritize innovation while ensuring a stable and reliable network. This approach empowers the team to focus on advancing the protocol with confidence, minimizing disruptions and fostering a stronger Harmony ecosystem.
+
+---
+
+**2024 Q4 review**
+
+In Q4, my main focus was preparing for the HIP32 hard fork. I communicated with the community about the importance of removing backup nodes and followed up persistently until no active validators had backup nodes remaining. Additionally, I developed an automated backup node detection tool, enabling faster and continuous monitoring. The tool includes built-in integration with PagerDuty alerts and Grafana dashboards to monitor the validators’ network state. A key achievement of this tool was its ability to successfully detect at least three different validators attempting to spin up backup nodes after HIP32.
+
+To improve the user experience for consensus developers, I ensured the availability of the same toolchain used in higher environments, including the watchdog and log aggregation stack (Promtail → Loki → Grafana). Along the way, I resolved several issues with the watchdog, such as its inability to run against localhost Harmony nodes due to hardcoded configurations and manual parsing of shard IP files.
+
+My deep understanding of the watchdog’s internals proved valuable in resolving post-HIP32 crosslink monitoring and sign power monitors by adopting a majority-based approach. These changes were necessary because we no longer control the leader and now rely on information from the majority of nodes. This improvement significantly reduced alarm noise for on-call engineers.
+
+Finally, after complaints from the Harmony community, I identified a bottleneck caused by libp2p resource manager limits in the bootnode's code. I shared these findings with the development team and implemented a temporary workaround (node restarts) while the team prepared a hotfix.
+
+---
+
+2024-12-13 Fri: PTO
+
+---
+
+2024-12-12 Thu: The main focus this week was the troubleshooting of the bootnode's issue reported by the validators community.
+
+First of all, I've reproduced the issue by spinning up a test mainnet node and starting to point it to each one from 4 by direct multi-address libp2p notation.
+Additionally, I've checked the normal and problematic connectivity with tcpdump and narrowed the issue to some network side limits.
+And finally, after summarizing all collected info - I was able to find that we faced build-in libp2p [resource manager limits](https://github.com/libp2p/go-libp2p/blob/master/p2p/host/resource-manager/limit_defaults.go#L665-L698) and they are relatively small - 168 RAM, only 90 inbound connections and so on.
+As summarized, info was shared with devs team and hotfix implementation already started, in the meantime a workaround solution will be just restart the bootnode.
+
+And one more item connected with libp2p will be to check why harmony nodes don't store dht routes on the disk as badger DB files and have it only in memory. This will limit dependency on the bootnode in cases when bootnode is down.
+
+Additionally, as part of on-call, I've also checked and created the [issue](https://github.com/harmony-one/staking-dashboard/issues/716) with the staking dashboard reported by the community.
+
+---
+
 2024-12-06 Fri: The main focus on this week was the improvements of the watchdog crosslink monitoring.
 
 I've changed the logic for the latest crosslink processing monitor from the 3 nodes set to the majority value from all nodes.
