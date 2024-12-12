@@ -1,4 +1,4 @@
-2025 Goals (draft):
+2025 Goals:
 
 I will enhance our Harmony Bridge by adding new features to make it more convenient for the community: migration to Layerzero V2, solana support, one common contract for many tokens with dynamic addition of new tokens by community members, USDCe support - one common USDC token for all chains, ux improvements.
 
