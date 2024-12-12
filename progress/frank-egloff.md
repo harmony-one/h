@@ -1,4 +1,4 @@
-2025 goals
+2025 Goals:
 
 I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to provide our community with real-time, accurate information and development resources. By leveraging established LLM models with our continuously updated knowledge base, I'll create a tool that helps users stay current with Harmony's latest features while providing developers with precise technical guidance for building new applications.
 
