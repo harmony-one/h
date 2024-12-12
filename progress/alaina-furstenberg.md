@@ -4,10 +4,10 @@ In 2025, my primary goal at Harmony is to enhance our marketing by integrating A
 
 In addition to this, I have a goal to lean heavier into meme culture to promote products like Pump ONE. By analyzing the marketing methods of successful meme tokens, I’ll identify key strategies that drive community engagement and virality. Using these insights, I’ll craft a campaign for Harmony that mirrors these effective approaches, specifically tailored to promote Pump ONE. 
 
-* making design easier * From a design perspective, I plan to further integrate AI tools into my workflow to enhance our X and Substack content. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
+From a design perspective, I plan to continue to simplify DeFi for our community. By further integrating AI tools into the design of our interfaces, we can make definite as simple as possible. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
 
 ---
-
+2024-12-11 Wed: 1 on 1 sync with Li on 2025 goals. Discussed the design importance of simplifying DeFi in 2025 to make Harmony the first choice product. Additionally, we discussed the potential of AI Agents to lead marketing initiatives to give more dimension to our marketing strategy (Imagine an agent to advertise protocol, another to advertise defi projects, and another on market analysis... theres infinite angels these agents could discuss). [Quote tweet](https://x.com/harmonyprotocol/status/1866998613232193613) of elonxcountry highlighting concepts from harmony.one/agi.
 
 2024-12-10 Tue: Creation of gif to tease pump one on [X](https://x.com/harmonyprotocol/status/1866604793382539501).  Creation of [jensenxcountry](https://x.com/jensenxcountry) account + banner and profile photo and posting the first tweet.
 
