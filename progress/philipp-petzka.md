@@ -1,3 +1,20 @@
+Q4 Review
+
+My first 2.5 months at Harmony were all about assessing the status Quo, analyzing the ecosystem for its strengths and weaknesses, and identifying a potential direction where to go from here. In terms of Defi, I developed the strategy to funnel returns offered outside of Harmony into our ecosystem. In addition, there are two user groups that we can target: 
+
+- New/non-native users who dont know about farming
+- Power users able to deploy advanced strategies
+
+All product developments will evolve around those two user groups. 
+
+Achieved so far: 
+
+- The treasury farms yield to distribute it to our products after potential strategies have been elaborated and assessed
+- 1sDAI (11.5% APY) is deployed on Harmony
+- The yield Enhancer product conception is ready and to be deployed (target is within December)
+- Several product descriptions targeting more advanced strategies are ready (Lending Market, 1Swap Gauge)
+
+
 Goals 2025
 
 Due to my role, I evolve all my goals around the claim: **Make Harmony the Home of simple DeFi.**
