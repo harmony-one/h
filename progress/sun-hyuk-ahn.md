@@ -1,4 +1,4 @@
-## 2025 Goals ##
+2025 Goals:
 
 In 2025, my primary focus will be on Ethereum improvement proposals, starting with EIP-3074 for transaction sponsorship. This proposal introduces two new opcodes, AUTH and AUTHCALL, enabling smart contracts to sponsor user transactions. By reducing the need for users to hold ETH for gas fees, EIP-3074 simplifies onboarding and increases accessibility. My work will focus on its integration and tooling to support broader adoption of gas sponsorship mechanisms.
 
