@@ -14,6 +14,7 @@ Achieved so far:
 - The yield Enhancer product conception is ready and to be deployed (target is within December)
 - Several product descriptions targeting more advanced strategies are ready (Lending Market, 1Swap Gauge)
 
+---
 
 Goals 2025
 
