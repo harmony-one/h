@@ -16,9 +16,9 @@ Achieved so far:
 
 ---
 
-Goals 2025
+2025 Goals:
 
-Due to my role, I evolve all my goals around the claim: **Make Harmony the Home of simple DeFi.**
+I evolve all my goals around the claim: **Make Harmony the Home of simple DeFi.**
 
 100 million $ TVL: Liquidity is essential to attract users, teams, and projects. It also creates a convenient user experience and therefore increases adoption. Deep liquidity can be achieved by offering competitive returns for investors. Several yield strategies are going to be implemented in the ecosystem. 
 
