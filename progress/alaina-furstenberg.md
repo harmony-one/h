@@ -8,7 +8,7 @@ I led co-marketing campaigns with Pear AI, Kings and Quests, ONE Show, Band Prot
 
 I also wrote monthly newsletters highlighting team progress, community tweets, and founder insights. Using NotebookLM, I developed AI podcasts summarizing these updates, which were repurposed to provide additional content for YouTube and Substack.
 
-To support the PumpONE project, I joined weekly syncs with the development team, contributing to key discussions and progress updates. Additionally, I am assisting in writing disclaimers and documentation to ensure a smooth and compliant launch.
+To support the PumpONE project, I joined weekly syncs with the development team. For the upcoming launch, I am assisting in writing disclaimers and documentation to ensure a smooth and compliant launch.
 
 ---
 
