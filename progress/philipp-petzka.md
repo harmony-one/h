@@ -18,13 +18,16 @@ Achieved so far:
 
 2025 Goals:
 
-I evolve all my goals around the claim: **Make Harmony the Home of simple DeFi.**
+My mission for 2025 is to **make Harmony the home of simple DeFi.**
 
-100 million $ TVL: Liquidity is essential to attract users, teams, and projects. It also creates a convenient user experience and therefore increases adoption. Deep liquidity can be achieved by offering competitive returns for investors. Several yield strategies are going to be implemented in the ecosystem. 
+100 Million $ TVL:
+Liquidity is crucial for attracting users, teams, and projects, while also providing a seamless experience that drives adoption. Deep liquidity will be achieved by offering competitive returns through a variety of yield strategies within the ecosystem.
 
-10,000 Wallets with a balance of $200$+: Wallet balance is a good metric for indicating whether users see Harmony as a place to store their money. To reach the target, we will tap into non-native retail investors by offering simplified and accessible savings strategies.
+10,000 Wallets with a Balance of $200+:
+The balance of wallets is a key metric in determining whether users view Harmony as a place to store their funds. To reach this goal, we will target non-native retail investors by offering simple and accessible savings strategies.
 
-10,000 daily active wallets: Active addresses indicate user retention and the successful attraction of "Power Users" that naturally influence other users with their actions. User retention is important to verify if Harmony is a fun and interesting space for users to return to daily. The goal can be achieved by gamified experiences, advanced high-yield farmign strategies and utility-focused products.  
+10,000 Daily Active Wallets:
+Daily active wallets reflect user retention and the success of attracting "Power Users" who naturally influence others. To achieve this goal, we will focus on creating engaging, gamified experiences, advanced high-yield farming strategies, and utility-driven products that keep users returning daily.
 
 ---
 
