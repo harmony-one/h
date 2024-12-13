@@ -1,17 +1,17 @@
-**2025 Yearly Plan**
+2025 Goals:
 
-In 2025, I'll be focusing on the following topics: covering core functionality with integration tests, helping with onboarding a new systems engineer, improving consensus developers' user experience, and supporting overall Harmony network reliability.
+In 2025, my focus will be on core functionality, integration tests, onboarding a new systems engineer, improving the consensus developers' experience, and enhancing overall Harmony network reliability.
 
-**1. Onboarding a new systems engineer**
-First, this goal will alleviate pressure on the on-call engineers in the Americas time zones. Additionally, I'll hand over systems-related tasks to the new engineer, allowing me to focus on supporting the consensus development team.
+1. Onboarding a New Systems Engineer
+This will relieve pressure on on-call engineers in the Americas time zones. The new engineer will take on systems-related tasks, allowing me to support the consensus development team more effectively.
 
-**2. Covering possible network configurations with integration tests**
-Currently, we have only one state used in our CI: internal validators, each with one BLS key per node. However, we need to simulate real-world network configurations to ensure new features and updates are thoroughly validated. This will reduce the risk of issues in production by catching potential bugs earlier in the development cycle. It will also provide confidence in the stability and reliability of changes, enabling developers to innovate with fewer concerns about breaking existing functionality.
+2. Integration Tests for Network Configurations
+Currently, we simulate only one state in our CI: internal validators with one BLS key per node. To better validate new features and updates, I’ll simulate real-world network configurations, catching bugs early in the development cycle and ensuring stability and reliability in production.
 
-**3. Covering RPC calls with the existing pytest framework**
-Leveraging my experience as a Software Testing Engineer, I will review our RPC testing framework by collecting and analyzing its current state and expanding test cases to provide rapid feedback on RPC call changes or catch regression bugs. This will strengthen regression detection, ensuring past issues do not reappear, and improve the overall quality and reliability of the RPC layer, a critical interface for developers and users alike.
+3. Expanding RPC Call Testing
+I’ll enhance our RPC testing framework by expanding test cases to provide rapid feedback on changes and catch regression bugs. This will improve the reliability of the RPC layer and help detect past issues, ensuring a stable interface for developers and users.
 
-These efforts will enable the development team to concentrate on building new features rather than resolving recurring issues, accelerating overall progress. By reducing operational overhead and improving testing, the team can prioritize innovation while ensuring a stable and reliable network. This approach empowers the team to focus on advancing the protocol with confidence, minimizing disruptions and fostering a stronger Harmony ecosystem.
+These efforts will reduce operational overhead, allowing the team to focus on new features and innovation while ensuring a stable network. By improving testing and reducing recurring issues, we can build a stronger Harmony ecosystem.
 
 ---
 
