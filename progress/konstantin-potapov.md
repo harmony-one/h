@@ -11,13 +11,13 @@ I introduced mechanisms to bypass inactive leaders, significantly minimizing pot
 2025 Goals:
 
 Achieving 1-Second Finality:
-My primary goal is to achieve 1-second finality. I encountered challenges with block proposing when using multiple keys on the same node, particularly during leader rotation. Eliminating these delays is critical, as they significantly impact my ability to consistently achieve 1-second finality.
+My primary goal is to achieve 1-second finality. I’ve encountered challenges with block proposing when using multiple keys on the same node, particularly during leader rotation. Eliminating these delays is essential, as they significantly impact the consistency of achieving 1-second finality.
 
 Launching Stream+Stage Sync:
-My second goal is to deploy the stream+stage synchronization mechanism. Stream sync provides a more efficient synchronization process, which will greatly enhance overall network performance.
+My second goal is to deploy the Stream+Stage synchronization mechanism. Stream sync offers a more efficient synchronization process, which will significantly enhance overall network performance.
 
 Support for EIP-3074 Sponsored Transactions:
-EIP-3074 introduces sponsored transactions, allowing third parties to cover gas fees on behalf of users. This feature enables users to interact with decentralized applications (dApps) without needing to hold ETH for gas fees, improving accessibility and enhancing the overall user experience.
+EIP-3074 introduces sponsored transactions, allowing third parties to cover gas fees on behalf of users. This feature will enable users to interact with decentralized applications (dApps) without needing ETH for gas, improving accessibility and enhancing the overall user experience.
 
 ---
 
