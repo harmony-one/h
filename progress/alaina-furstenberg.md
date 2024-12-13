@@ -2,9 +2,9 @@
 
 This quarter, I focused on expanding content creation capabilities, enhancing co-marketing efforts, and boosting audience engagement.
 
-I learned Descript to create engaging videos for projects like ElonxCountry and JensenxCountry, and explored new animation techniques by integrating Pika with MidJourney. Additionally, I manually animated in Jitter to create graphics for PumpONE as well as the crypto and AI newsletters.
+I learned Descript to create engaging videos for projects like ElonxCountry and JensenxCountry, and explored new animation techniques by integrating Pika with MidJourney. Additionally, I manually animated in Jitter to create graphics for PumpONE as well as the crypto n ai newsletters.
 
-I led co-marketing campaigns with Pear AI, Kings and Quests, ONE Show, Band Protocol, FlappyH1, RMC, CoinGecko, ElonxCountry, and HeyEddie, driving collaborative growth across platforms. Our Twitter performance grew significantly, achieving 953,000 impressions, up 5% from the last three months. Engagement surged by 45%, reaching 50,000 total engagements, with 15.6K likes (+22%) and 3.1K reposts (+29%).
+I led co-marketing campaigns with Pear AI, Kings and Quests, ONE Show, Band Protocol, FlappyH1, RMC, CoinGecko, ElonxCountry, and HeyEddie, driving collaborative growth across platforms. Our Twitter performance grew significantly, achieving 953,000 impressions, up 5% from the last three months. Engagement rised by 45%, reaching 50,000 total engagements, with 15.6K likes (+22%) and 3.1K reposts (+29%).
 
 I also wrote monthly newsletters highlighting team progress, community tweets, and founder insights. Using NotebookLM, I developed AI podcasts summarizing these updates, which were repurposed to provide additional content for YouTube and Substack.
 
