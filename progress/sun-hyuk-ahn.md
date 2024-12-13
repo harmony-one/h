@@ -4,7 +4,7 @@ In 2025, my primary focus will be on Ethereum improvement proposals, starting wi
 
 Another priority will be the EVM Object Format (EOF), which restructures how smart contracts store and execute bytecode. EOF aims to improve modularity, reduce storage requirements, and enable better runtime analysis. Implementing EOF can lower contract deployment costs and simplify upgrades for complex systems. By focusing on EOF, I aim to enhance the efficiency and scalability of smart contract development.
 
-Lastly, I would like to focus on implementing upgrades focused on the protocol side. Some options that are up for discussion include Verkle tree transition to improve storage size, Pectra upgrade (2 part upgrade likely to happen early 2025 that allows users to pay gas fees with different tokens, speed up smart contract development and interaction, etc.), and EIP-4844 (proto-danksharding; this is latter in priority as Harmony does not have heavy L2 layer).
+There are several EIPs included in implementing EVM EOF. These EIPs will be a whole project of their own, to specify: restructure of the low-level code (EIP-3540), verification of code upon deployment (EIP-3670), rejection of faulty contracts (EIP-3670), improvement of stack machine (EIP-4200), as well as many other faulty prevention. Along with the complete development of these EIPs, Pectra upgrade will be developed in order to simplify smart contract deployment and development. Overall, these upgrades will improve Harmony's EVM and keep it updated to current EVMs in other chains.
 
 ---
 
