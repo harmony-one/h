@@ -11,7 +11,7 @@ Lastly, I worked on resolving a resource limit issue affecting boot nodes. I int
 2025 Goals:
 
 Stream Sync and State Sync:
-One of my top goals is to bring Stream Sync to mainnet to enable validators to communicate directly through streams instead of relying on DNS nodes. By releasing Stream Sync, DNS nodes will serve only as a backup, significantly reducing their load and enhancing the network’s efficiency. This will make Harmony’s network fully decentralized, more resilient, and better equipped to handle scaling challenges.
+One of my top goals is to bring Stream Sync to mainnet, enabling validators to communicate directly through streams rather than relying on DNS nodes. By releasing Stream Sync, DNS nodes will only serve as a backup, significantly reducing their load and improving the network's efficiency. This will make Harmony’s network fully decentralized, more resilient, and better equipped to handle scaling challenges.
 
 Leader Rotation V2:
 I am committed to completing and deploying Leader Rotation V2, to enhance stability, fairness, and efficiency. This upgrade will not only enhance network reliability but will also reduce potential vulnerabilities and ensure the network operates seamlessly under all conditions. I will also conduct deeper studies on [leader rotation scoring](https://github.com/harmony-one/harmony/issues/4797) to determine the's feasibility of implementatino on Harmony.
