@@ -8,6 +8,10 @@ I’ll develop autonomous yield optimization agents and AI-driven trading bots f
 
 ---
 
+2024-12-12 Thu: Worked on foundry tests for Erc-4626 Staking Vault and Reward distributor contract. Reviewed Unify Bridge Assets [doc](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA/edit?usp=sharing), explored the possibility of avoiding liquidity fragmentation, assets bridged from any chain into Harmony should result in one single asset. 
+
+2024-12-11 Wed: Completed the e2e tests for integration cases with Uniswap and the creation of a pool - publishToUniswap. Unfortunately, there remains a problem with running tests on local emulator with deploying UniswapV3Factory from tests (different versions of Uniswap and token factory).
+
 2024-12-10 Tue: Worked on tests for TokenFactory: buying, selling, price changes, commission, publishing on Uniswap. Correction of contract settings to resolve [issue](https://github.com/harmony-one/pump.fun.contracts/issues/17). [Fixed](https://github.com/harmony-one/pump.fun.contracts/commit/213caf130f5688fd042f659322026d83b72cb77e) bug on call mint for not winner with low token price. Redeploy all contracts. Researched bridge rpc connection issue.
 
 2024-12-09 Mon: Pumpfun launch: [fixed](https://github.com/harmony-one/pump.fun.contracts/commit/699e440c26c8f9a2a81aa745ed0fc119272d3c13) issue with uniswap initial supply calculation. Review and [merged](https://github.com/harmony-one/pump.fun.contracts/commit/1f538436ad6f0dea51e81d97b542f3171ce26386) latest changes from Aaron. Redeployed all contracts. Testing complex e2e cases.
