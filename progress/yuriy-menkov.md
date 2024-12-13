@@ -1,10 +1,10 @@
 2025 Goals:
 
-I will enhance our Harmony Bridge by adding new features to make it more convenient for the community: migration to Layerzero V2, solana support, one common contract for many tokens with dynamic addition of new tokens by community members, USDCe support - one common USDC token for all chains, ux improvements.
+In 2025, I will enhance the Harmony Bridge with features like migration to LayerZero V2, Solana support, a unified contract for multiple tokens with dynamic additions, and USDCe support for all chains. UX improvements will also be implemented for a smoother experience.
 
-Release and support defi applications on Harmony: Pump ONE contracts, Erc-4626 based Staking Valut with Reward distributor contracts, Staking Vault backend and frontend, GMX V1 base release, release GMX version with additional features like autocompounder, levarge GLP and delta-netutral vault, Defi games with telegram integration.
+Additionally, I'll release DeFi applications such as Pump ONE contracts, ERC-4626-based Staking Vaults, GMX V1, and an upgraded GMX version with autocompounder, leveraged GLP, and delta-neutral vaults. DeFi games integrated with Telegram will also be launched.
 
-AI agents integrations: autonomous yield optimization agents powered by AI to maximize returns for users across multiple protocols, developing AI-driven trading bots that leverage real-time market data for better decision-making, and integrating AI agents into staking and liquidity management platforms for seamless portfolio rebalancing and auto-compounding.
+I’ll develop autonomous yield optimization agents and AI-driven trading bots for real-time decision-making, as well as integrate AI into staking and liquidity management for seamless portfolio rebalancing and auto-compounding.
 
 ---
 
