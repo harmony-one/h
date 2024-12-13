@@ -8,6 +8,8 @@ DEX: the goal is to launch decentralized perpetual market, that offers seamless 
 
 ---
 
+2024-12-12 Thu: Pump.ONE client update: [added](https://github.com/harmony-one/pump.fun.client/commit/1bfd4206f7b6ce4e4e0a25bf10c8a5ff72bed564) information about competition and winner token on token page, [updated](https://github.com/harmony-one/pump.fun.backend/commit/4a62930ef16b618ce8b944f3aa9f2b89c01d400a) backend API, [updated](https://github.com/harmony-one/pump.fun.client/commit/427fee3cf82c4da649ad4899313366253c4f397a) "How it works" page, deployed latest version of client
+
 2024-12-11 Wed: pump.one client: [added](https://github.com/harmony-one/pump.fun.client/commit/f07e25b18d13fcb71dc9fd287812297e26703d1b) [/rules](https://pump-app.netlify.app/) page, redeployed protocol and services to support [latest updates](https://github.com/harmony-one/pump.fun.contracts/commit/213caf130f5688fd042f659322026d83b72cb77e) in pump.one contracts.
 
 2024-12-10 Tue: pump.one indexer: [added](https://github.com/harmony-one/pump.fun.backend/commit/3bb31ccd2639b6a3c08ccd095572d78fe4a17a37) indexer optimization: fetching transaction logs in batches (max=5 batches with 1000 blocks in each); [updated](https://github.com/harmony-one/pump-fun-trading-bot/commit/7f0a86048cd3601cfb38acf4fab2f08a5ca6e429) pump.one trading bot to trade with 3 newest tokens.
