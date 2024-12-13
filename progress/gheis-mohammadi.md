@@ -1,13 +1,13 @@
 2025 Goals:
 
 Stream Sync and State Sync:
-One of my top goals for Harmony is to bring Stream Sync to the mainnet. Stream Sync will enable validators to communicate directly through streams instead of relying on DNS nodes, which are currently the primary method. By releasing Stream Sync, DNS nodes will serve only as a backup, significantly reducing their load and enhancing the network’s efficiency. This will make Harmony’s network fully decentralized, more resilient, and better equipped to handle scaling challenges.
+One of my top goals for Harmony is to bring Stream Sync to the mainnet. Stream Sync will enable validators to communicate directly through streams instead of relying on DNS nodes, which are currently the primary method. We had a [improvement](https://github.com/harmony-one/harmony/pull/4772) recently on stream sync. By releasing Stream Sync, DNS nodes will serve only as a backup, significantly reducing their load and enhancing the network’s efficiency. This will make Harmony’s network fully decentralized, more resilient, and better equipped to handle scaling challenges.
 
 Leader Rotation V2:
-I am committed to completing and deploying Leader Rotation V2, which will make our leader rotation process more stable, fair, and efficient. This upgrade will not only enhance network reliability but also promote fairness in leadership transitions, reducing potential vulnerabilities and ensuring the network operates seamlessly under all conditions.
+I am committed to completing and deploying Leader Rotation V2, which will make our leader rotation process more stable, fair, and efficient. This upgrade will not only enhance network reliability but also promote fairness in leadership transitions, reducing potential vulnerabilities and ensuring the network operates seamlessly under all conditions. Also working on [leader rotation scoring](https://github.com/harmony-one/harmony/issues/4797) will be next ideal feature that will need a deep study and working on feasibility.
 
 Consensus Stability:
-Improving the stability of Harmony’s consensus mechanism is another key priority for me. A bug-free and robust consensus is essential to maintain the reliability and security of the network. I’ll focus on identifying and resolving any remaining issues while optimizing performance to handle the demands of a rapidly growing user base.
+Improving the stability of Harmony’s consensus mechanism is another key priority for me. A bug-free and robust consensus is essential to maintain the reliability and security of the network. I’ll focus on identifying and resolving any [remaining issues](https://github.com/harmony-one/harmony/issues/4796) while optimizing performance to handle the demands of a rapidly growing user base.
 
 Supporting Improvement Proposals:
 Finally, I aim to actively support and contribute to new improvement proposals that can enhance Harmony’s capabilities. Whether it’s implementing innovative features or refining existing ones, I want to ensure Harmony remains at the forefront of blockchain technology, offering a platform that developers and users can trust and depend on.
