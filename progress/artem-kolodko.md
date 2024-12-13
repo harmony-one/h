@@ -1,10 +1,15 @@
 2025 Goals:
 
-PumpONE: I will improve Pump ONE by adding new features to make it more convenient for traders: Websockets for faster price updates, AI-generated memecoins right in client application, UI improvements.
+In 2025, I aim to advance trading technologies and decentralized markets by enhancing Pump ONE, integrating AI agents, and launching a decentralized perpetual market.
 
-AI agents integration: create AI agents based on Eliza, working across multiple protocols, aiming to maximize user returns. Autonomous AI agents will assist user to make trading decision, and will support user portfolio rebalancing, based on current market state and price predictions.
+Pump ONE:
+I will introduce features like WebSockets for faster price updates, AI-generated memecoins within the client application, and improved UI for a better trading experience.
 
-DEX: the goal is to launch decentralized perpetual market, that offers seamless trading with robust liquidity and user-friendly interfaces, build on top of existed products with proven market fits.
+AI Agents Integration:
+I will create AI agents inspired by Eliza, designed to operate across protocols, assist with trading decisions, and support portfolio rebalancing based on market conditions and price predictions.
+
+DEX:
+I plan to launch a decentralized perpetual market offering seamless trading, robust liquidity, and user-friendly interfaces, building on proven products.
 
 ---
 
