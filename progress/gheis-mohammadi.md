@@ -1,4 +1,4 @@
-2024-12-13 Sat:  
+2024-12-14 Sat:  
 
 Last week, I worked on resolving an issue with multi-BLS key validators in the consensus module. These validators, when retaining leadership, could create multiple block proposals, leading to potential network crashes. To address this, I made the [PR #4810](https://github.com/harmony-one/harmony/pull/4810) last week, but later I drafted that PR and created a new one [PR #4811](https://github.com/harmony-one/harmony/pull/4811), which targets the root cause and refines the logic to verify if the leader has changed or if the previous leader belongs to the same node in multi-BLS key scenarios. It also ensures the consensus module avoids redundant leadership actions for the same node and updates logs to improve debugging and clarity around leader transitions.  
 
