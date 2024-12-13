@@ -1,20 +1,20 @@
 2025 Goals:
 
-As we look ahead to 2025, my focus will be on strengthening the network's core stability, advancing key protocol upgrades, and driving the adoption of innovative features to elevate the overall performance and reliability of the Harmony ecosystem.
+In 2025, my focus will be on strengthening Harmony’s network stability, advancing key protocol upgrades, and driving the adoption of new features to improve overall performance and reliability.
 
-1. Improving Network Stability
-One of the primary goals for the year is addressing and resolving stability issues caused by the leader rotation feature. These challenges, which have occasionally disrupted consensus and block production times, will be mitigated through enhancements to the rotation logic. The development of Leader Rotation V2 is already underway to refine the protocol and ensure seamless leadership transitions without impacting network performance.  
+Improving Network Stability:
+A primary goal is addressing stability issues caused by leader rotation. We’re working on Leader Rotation V2 to refine the protocol, ensuring seamless leadership transitions without impacting consensus or block production.
 
-2. Achieving 1-Second Finality 
-Achieving 1-second block finality is a key objective that will significantly enhance user experience and increase Harmony's competitiveness in the blockchain space. This initiative will involve optimizing staking and consensus mechanisms while ensuring all associated systems can handle the faster pace without introducing bottlenecks or vulnerabilities.  
+Achieving 1-Second Finality:
+Optimizing staking and consensus mechanisms to achieve 1-second finality will enhance user experience and boost Harmony's competitiveness. This will ensure all systems can handle the faster pace without bottlenecks.
 
-3. Migrating DNS Sync to StreamSync
-The migration from DNS sync to StreamSync represents a critical technical milestone to improve the reliability and efficiency of node synchronization. StreamSync provides a more scalable and resilient approach, reducing downtime and ensuring nodes remain aligned with the network state. 
+Migrating DNS Sync to StreamSync:
+Migrating to StreamSync will improve node synchronization, making it more scalable and resilient. This will reduce downtime and ensure nodes stay aligned with the network state.
 
-4. Achieving 100% External Vote Power
-Currently at 99%, achieving 100% external vote power will mark a significant step forward for decentralization and governance. This milestone hinges on the successful implementation of StreamSync, ensuring all nodes in the network can reliably connect to validators with consensus and achieve faster synchronization. 
+Achieving 100% External Vote Power:
+Reaching 100% external vote power, aided by StreamSync, will mark a significant step for decentralization and governance, ensuring all nodes can reliably connect to validators.
 
-By focusing on these four priorities—stability, finality, synchronization, and decentralization—I aim to contribute to Harmony's mission of building a secure, efficient, and decentralized blockchain ecosystem. Each goal will be tackled through close collaboration with the broader team, rigorous testing, and iterative improvements to ensure success. 
+By focusing on stability, finality, synchronization, and decentralization, I aim to help Harmony build a secure, efficient, and decentralized blockchain ecosystem through collaboration, testing, and iterative improvements.
 
 ---
 
