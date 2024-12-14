@@ -1,3 +1,12 @@
+**2024 Q4 Review ** 
+
+In Q4 2024, I developed an array-based bonding curve contract with price calculation and token management functionality, including constructor-initialized stages and standardized curve stages across tokens. I built a Next.js client application with token listing, purchasing, and price calculation features. The contract was tested and initially planned for integration with 1.country for domain-based token creation. The array-based bonding curve contract was later contributed to the pump.fun project.
+
+For Harmony1Bot, I integrated multiple new AI models including xAI's Grok, Gemini 1.5, Claude 3.5 Sonnet, and OpenAI's o1, optimizing their command structures for improved user interaction. I implemented a sliding window mechanism to handle infinite chat context efficiently and developed a session-based cleanup system. The bot's monitoring capabilities were enhanced by integrating Sentry across all environments and implementing comprehensive telegram error notifications for various LLM integrations.
+
+I developed a video processing system with semantic search and clip generation capabilities. The system evolved from MoviePy to an FFmpeg-based approach, implementing subtitle handling with features like SRT input support and frame-accurate word highlighting. I am currently extending the harmony-llm-api with a JWT-based payment system to enable general-purpose usage, implementing prepaid user functionality with balance checks and model cost logic.
+
+---
 2025 Goals:
 
 I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to provide our community with real-time, accurate information and development resources. By leveraging established LLM models with our continuously updated knowledge base, I'll create a tool that helps users stay current with Harmony's latest features while providing developers with precise technical guidance for building new applications.
