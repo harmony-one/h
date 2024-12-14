@@ -13,6 +13,8 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-13 Fri: pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/commit/a478829e28ee6537943eb71b68eb4631b94d2cc3) blacklist for tokens feed (managed by backend admin), [added](https://github.com/harmony-one/pump.fun.client/commit/1e25b99f43dd8c50a0ef22a0d858c6ac239461c2) mobile version for tokens page, [added](https://github.com/harmony-one/pump.fun.client/commit/b4dec2af6b68cd85b6eee63395a63aa8adde9b92) disclaimer, update rules page
+
 2024-12-12 Thu: Pump.ONE client update: [added](https://github.com/harmony-one/pump.fun.client/commit/1bfd4206f7b6ce4e4e0a25bf10c8a5ff72bed564) information about competition and winner token on token page, [updated](https://github.com/harmony-one/pump.fun.backend/commit/4a62930ef16b618ce8b944f3aa9f2b89c01d400a) backend API, [updated](https://github.com/harmony-one/pump.fun.client/commit/427fee3cf82c4da649ad4899313366253c4f397a) "How it works" page, deployed latest version of client
 
 2024-12-11 Wed: pump.one client: [added](https://github.com/harmony-one/pump.fun.client/commit/f07e25b18d13fcb71dc9fd287812297e26703d1b) [/rules](https://pump-app.netlify.app/) page, redeployed protocol and services to support [latest updates](https://github.com/harmony-one/pump.fun.contracts/commit/213caf130f5688fd042f659322026d83b72cb77e) in pump.one contracts.
