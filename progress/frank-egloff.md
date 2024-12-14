@@ -1,4 +1,4 @@
-**2024 Q4 Review ** 
+**2024 Q4 Review** 
 
 In Q4 2024, I developed an array-based bonding curve contract with price calculation and token management functionality, including constructor-initialized stages and standardized curve stages across tokens. I built a Next.js client application with token listing, purchasing, and price calculation features. The contract was tested and initially planned for integration with 1.country for domain-based token creation. The array-based bonding curve contract was later contributed to the pump.fun project.
 
