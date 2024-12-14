@@ -16,6 +16,8 @@ Building on this foundation, I will develop autonomous social agents based on El
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
 
 ---
+2024-12-12 Thu: Fixed JWT and token auth decorator logic in harmony-llm-api. Restructured test module into separate scripts for auth flows and API call validations.  
+
 2024-12-11 Wed: Progressing on harmony-llm-api payment system implementation, debugging route configurations, decorator interactions, and resolving library dependency issues. 
 
 2024-12-10 Tue: Integrated [Sentry](https://github.com/harmony-one/HarmonyOneBot/pull/374) across all 1Bot environments and deployed to production. Progressing on payment system in harmony-llm-api, implementing balance checks and model cost logic.
