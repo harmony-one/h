@@ -7,6 +7,10 @@ I will enhance the Telegram bot (Hod1) by incorporating features from Human Prot
 Lastly, I plan to expand my backend development skills by contributing to projects like Pump.fun, focusing on protocol engineering, contract development, and community-driven initiatives. Whether refining smart contracts, improving cross-chain interoperability, or building DeFi tools, I aim to combine technical growth with impactful contributions to the ecosystem.
 
 ---
+2024-12-14 Sat: Looked into pump.one updates. Looked into indexer code for backend.
+
+2024-12-13 Fri: Continued working on AI agents. Looked into ways we can utilize for harmony.
+
 2024-12-12 Thu: Continuation of testing existing AI agent platforms and started searching for repos. Also continued looking at pump.one repo.
 
 2024-12-11 Wed: Tested AI agent creation and character creation on platforms such as Virtuals Fun, Holoworld, and vvaifu. Edited and refined 2025 goal.
