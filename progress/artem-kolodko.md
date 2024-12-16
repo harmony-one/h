@@ -2,7 +2,7 @@
 
 This quarter, I focused on launching of Pump.ONE project, a memecoin marketplace on the Harmony chain.
 
-While working on this project, I [created](https://pump.one/board) various services: Pump.ONE [client](https://github.com/harmony-one/pump.fun.client), [backend](https://github.com/harmony-one/pump.fun.backend) (indexer + API service) and [trading bot](https://github.com/harmony-one/pump-fun-trading-bot). During the development process I worked on the user interface, integration with [smart contracts](https://github.com/harmony-one/pump.fun.contracts), end-to-end testing and improvements based on user feedback.
+While working on this project, I [created](https://pump.one/board) various services: Pump.ONE [client](https://github.com/harmony-one/pump.fun.client), [backend](https://github.com/harmony-one/pump.fun.backend) (indexer + API service) and [trading bot](https://github.com/harmony-one/pump-fun-trading-bot). During the development process I worked on the user interface, integration with [smart contracts](https://github.com/harmony-one/pump.fun.contracts), end-to-end testing and improvements based on user feedback. In the backend app, I implemented mechanics to store token metadata, upload images, user authorization based on signed messages and JWT tokens, [REST API](https://pump-fun-backend.fly.dev/api) and tokens indexer.
 
 Besides of that, I've also been working on improvements for the new Harmony Explorer: implemented ONE/ETH toggle persistent state, started working on displaying transaction value at the time of transfer.
 
