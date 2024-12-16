@@ -1,3 +1,13 @@
+**2024 Q4 Review:**
+
+I architected Harmony's DeFi suite expansion, focusing on accessibility and higher yields, delivering key products to new heights. Swap saw a 300% increase in TVL, and a 4,470% surge in trading volume. Lend followed a similar expansion, reaching a 250% increase in supply.
+
+I led the Yield Enhancer development from strategy to implementation, building the frontend in typescript and coordinating ERC-4626 vault deployment. The first phase is live with 1sDAI, delivering 12.5% APY through Sky Protocol's yield-bearing stablecoin available within the Harmony ecosystem. I also pioneered Pump.ONE's innovative concentrated liquidity model with Stephen, optimizing for user collaboration over liquidity fragmentation. I drove the adoption of SimpleSwap, reaching 12.5% conversion rate and enabling seamless ONE acquisition across our ecosystem.
+
+I also strengthened Harmony's market presence by securing Swap listings on DefiLlama and DexScreener, leading our recovery multisig custodian election, and driving community engagement through [ONE Show](https://x.com/harmonyprotocol/status/1865200491476717576) presentations that reached 854 concurrent listeners and generated over 20k post views.
+
+---
+
 2025 Goals: Simple DeFi, "One-Click Yield", Perpetual Innovation
 
 In 2025, my mission is to establish Harmony as the primary destination for DeFi by delivering innovative products that combine accessibility, cutting-edge AI, and simplified financial tools. These goals will drive ecosystem growth and position Harmony as a leader in decentralized finance.
