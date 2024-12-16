@@ -1,3 +1,13 @@
+2024 Q4 Review (draft)
+
+Development Pump.ONE [contracts](https://github.com/harmony-one/pump.fun.contracts): the logic for the token factory, competition and liquidity manager is fully implemented. Implemented counting of investments, determining the winner and publishing on Uniswap v3. Additional logic has been developed for linking tokens to the competition ID: buying and selling is allowed only within the current competition - then the user can only convert his tokens into winner tokens, or publish on Uniswap if this token is the winner. Several integration tests have been developed. Contracts serve as the basis for the [Pump.ONE application](https://pump.one/board). Added integrations with API services and frontend client.
+
+Developed Staking Vault [contracts](https://github.com/harmony-one/erc-4626) based on Erc-4626 with a Reward distributor contract. Additionally, the 1sDAI token was added to the bridge, which was integrated into the Staking Vault. Added logic for commission deduction, as well as rewards by epoch.
+
+Also worked on the development of several new layerzero bridge features: integration with Solana (with the transition to LayerZero V2) - implemented draft only for the test network. Updating npm bridge packages and worked on bridge-cli for translations from the command line.
+
+---
+
 2025 Goals:
 
 In 2025, I will enhance the Harmony Bridge with features like migration to LayerZero V2, Solana support, a unified contract for multiple tokens with dynamic additions, and USDCe support for all chains. UX improvements will also be implemented for a smoother experience.
