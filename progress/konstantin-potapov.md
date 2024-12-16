@@ -1,3 +1,12 @@
+2024-12-13 Fri:
+- This week, Gheis and I worked on a fix for the leader rotation issue that could cause an unintended view change. 
+The issue occurs only in nodes with multiple BLS keys. In these cases, the node fails to receive the required block proposal notification. 
+As a result, after a certain period, the view change process initiates and switches leadership to another node. 
+- Ulad and I are working to enable testing under different conditions, focusing on evaluating nodes with both single and multiple keys.
+
+
+---
+
 2024 Q4 Review
 
 I successfully completed the leader rotation process, ensuring a smooth launch on the mainnet with the team.
@@ -6,7 +15,6 @@ I enhanced synchronization mechanisms to guarantee uninterrupted block productio
 I introduced mechanisms to bypass inactive leaders, significantly minimizing potential downtime.
 
 ---
-
 
 2025 Goals:
 
