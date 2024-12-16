@@ -18,6 +18,12 @@ These goals are designed to empower users, deepen liquidity, and expand Harmonyâ
 
 ---
 
+2024-12-13 Fri: Created base frontend for [yield enhancer](https://github.com/ONETheo/yield-enhancer), shared with Artem.
+
+2024-12-12 Thu: Recovery overview, yield enhancer prioritization, sync with a few community members and validators on alternatives to accelerate recovery.
+
+2024-12-11 Wed: Met with Token Terminal, extended integration information internally. Reviewed PumpONE documentation and shared initial timeframe and liquidity threshold.
+
 2024-12-10 Tue: Perpetual exchange sync, initial planning for reducing bridge asset fragmentation. Token Terminal meeting scheduled for tomorrow. (This will concentrate liquidity and allow users to create single pools for their stablecoin pairings rather than opening a pool per chain.)
 
 2024-12-09 Mon: Sync with Matt Barrett on AthleteFi. Selected 5 community members from volunteer list for PumpONE testing. Added completed tasks on [Yield Enhancer](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) doc.
