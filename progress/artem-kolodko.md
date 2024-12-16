@@ -1,3 +1,12 @@
+2024 Q4 Review (draft)
+
+This quarter, I focused on launching of Pump.ONE project, a memecoin marketplace on the Harmony chain.
+
+While working on this project, I [created](https://pump.one/board) various services: Pump.ONE [client](https://github.com/harmony-one/pump.fun.client), [backend](https://github.com/harmony-one/pump.fun.backend) (indexer + API service) and [trading bot](https://github.com/harmony-one/pump-fun-trading-bot). During the development process I worked on the user interface, integration with [smart contracts](https://github.com/harmony-one/pump.fun.contracts), end-to-end testing and improvements based on user feedback.
+Besides of that, I've also been working on improvements for the new Harmony Explorer: implemented ONE/ETH toggle persistent state, started working on displaying transaction value at the time of transfer.
+
+---
+
 2025 Goals:
 
 In 2025, I aim to advance trading technologies and decentralized markets by enhancing Pump ONE, integrating AI agents, and launching a decentralized perpetual market.
@@ -10,6 +19,10 @@ I will create AI agents inspired by Eliza, designed to operate across protocols,
 
 DEX:
 I plan to launch a decentralized perpetual market offering seamless trading, robust liquidity, and user-friendly interfaces, building on proven products.
+
+---
+
+2024-12-16 Mon: Pump.ONE backend: [implemented](https://github.com/harmony-one/pump.fun.backend/commit/2c22c0149d6ddf3b9e127f23d99dba470043aed5) new competition scheduler with 7-days interval and liquidity threshold. Pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/32e0ebe20189fcd57c01766fc66a226a6876428f) information about competition in the tooltip (start date, end date). Explorer app: started working on displaying value at the date of transaction.
 
 ---
 
