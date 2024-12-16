@@ -9,10 +9,11 @@ As a result, after a certain period, the view change process initiates and switc
 
 2024 Q4 Review
 
-I successfully completed the leader rotation process, ensuring a smooth launch on the mainnet with the team.
-I developed features and capabilities for monitoring the distributed network without requiring knowledge of the exact leader.
-I enhanced synchronization mechanisms to guarantee uninterrupted block production by the leader.
-I introduced mechanisms to bypass inactive leaders, significantly minimizing potential downtime.
+Successfully [completed](https://github.com/harmony-one/harmony/pull/4769) the leader rotation process, ensuring a smooth mainnet launch by enhancing synchronization mechanisms to guarantee [uninterrupted](https://github.com/harmony-one/harmony/pull/4804) block production. Introduced a bypass for [inactive leaders](https://github.com/harmony-one/harmony/pull/4802), significantly reducing potential downtime and improving network resilience.
+
+Additionally, I worked on improving local network [development](https://github.com/harmony-one/harmony/pull/4753), enhancing network [insights](https://github.com/harmony-one/harmony/pull/4785), and refining proposal signals to optimize block production for [multi-BLS](https://github.com/harmony-one/harmony/pull/4816) nodes.
+
+
 
 ---
 
