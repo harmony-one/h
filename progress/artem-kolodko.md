@@ -23,6 +23,8 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-17 Tue: yield enhancer project: deployed contracts, wokred on client integration: [added](https://github.com/harmony-one/yield-enhancer/commit/9d1d936770bbee57d9ec62d77c66869a038ad399) connect kit to support wallets, implemented deposit, withdraw methods, TVL and deposit / withdraw quote. [Deployed](https://harmony-vault.netlify.app/) yield enhancer client to netlify to test.
+
 2024-12-16 Mon: Pump.ONE backend: [implemented](https://github.com/harmony-one/pump.fun.backend/commit/2c22c0149d6ddf3b9e127f23d99dba470043aed5) new competition scheduler with 7-days interval and liquidity threshold. Pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/32e0ebe20189fcd57c01766fc66a226a6876428f) information about competition in the tooltip (start date, end date). Explorer app: started working on displaying value at the date of transaction.
 
 ---
