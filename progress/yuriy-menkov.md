@@ -18,6 +18,12 @@ I’ll develop autonomous yield optimization agents and AI-driven trading bots f
 
 ---
 
+2024-12-16 Mon: Synchronized with Artem about the Staking Vault contract methods, as well as the main use cases. Shared a [test script](https://github.com/harmony-one/erc-4626/blob/main/scripts/deploy.js) with main use cases. Involved in testing and debugging errors. Added Q4 reviews.
+
+---
+
+2024-12-13 Fri: Worked on a prototype for a new Proxy bridge contract with the ability to unify bridge assets - the main difference on the Harmony side will be the ability to link several proxy oft contracts to one token and accounting for liquidity on the side of the external chain by increasing the counter inside the contract on the Harmony side.
+
 2024-12-12 Thu: Worked on foundry tests for Erc-4626 Staking Vault and Reward distributor contract. Reviewed Unify Bridge Assets [doc](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA/edit?usp=sharing), explored the possibility of avoiding liquidity fragmentation, assets bridged from any chain into Harmony should result in one single asset. 
 
 2024-12-11 Wed: Completed the e2e tests for integration cases with Uniswap and the creation of a pool - publishToUniswap. Unfortunately, there remains a problem with running tests on local emulator with deploying UniswapV3Factory from tests (different versions of Uniswap and token factory).
