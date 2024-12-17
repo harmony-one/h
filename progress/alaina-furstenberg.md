@@ -1,14 +1,8 @@
 2024 Q4 Review
 
-This quarter, I focused on expanding content creation capabilities, enhancing co-marketing efforts, and boosting audience engagement.
+This quarter, I focused on expanding content creation, enhancing co-marketing efforts, and boosting audience engagement. I learned Descript to produce videos for projects like ElonxCountry and JensenxCountry and explored new animation techniques by integrating Pika with MidJourney. Additionally, I manually animated graphics in Jitter for PumpONE and the crypto and AI newsletters. To support PumpONE, I joined weekly development syncs and contributed to writing disclaimers and documentation for its upcoming launch.
 
-I learned Descript to create engaging videos for projects like ElonxCountry and JensenxCountry, and explored new animation techniques by integrating Pika with MidJourney. Additionally, I manually animated in Jitter to create graphics for PumpONE as well as the crypto n ai newsletters.
-
-I led co-marketing campaigns with Pear AI, Kings and Quests, ONE Show, Band Protocol, FlappyH1, RMC, CoinGecko, ElonxCountry, and HeyEddie, driving collaborative growth across platforms. Our Twitter performance grew significantly, achieving 953,000 impressions, up 5% from the last three months. Engagement rised by 45%, reaching 50,000 total engagements, with 15.6K likes (+22%) and 3.1K reposts (+29%).
-
-I also wrote monthly newsletters highlighting team progress, community tweets, and founder insights. Using NotebookLM, I developed AI podcasts summarizing these updates, which were repurposed to provide additional content for YouTube and Substack.
-
-To support the PumpONE project, I joined weekly syncs with the development team. For the upcoming launch, I am assisting in writing disclaimers and documentation to ensure a smooth and compliant launch.
+I led co-marketing campaigns with partners like Pear AI, Kings and Quests, ONE Show, Band Protocol, FlappyH1, RMC, CoinGecko, ElonxCountry, and HeyEddie, driving collaborative growth across platforms. Twitter performance grew significantly, reaching 953,000 impressions (+5%), 50,000 total engagements (+45%), 15.6K likes (+22%), and 3.1K reposts (+29%). I also wrote monthly newsletters showcasing team progress, community highlights, and founder insights. Using NotebookLM, I created AI podcast summaries of these updates, repurposing the content for YouTube and Substack.
 
 ---
 
@@ -21,6 +15,12 @@ In addition to this, I have a goal to lean heavier into meme culture to promote 
 From a design perspective, I plan to continue to simplify DeFi for our community. By further integrating AI tools into the design of our interfaces, we can make definite as simple as possible. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
 
 ---
+2024-12-15 Sun: Editing to harmony.one community section
+
+2024-12-14 Sat: Weekly community [tweet](https://x.com/harmonyprotocol/status/1868003522651758851).
+
+2024-12-13 Fri: Harmony community update. Finalization of Q4 review. Promotion of the ONE Show and Athlete_Fi. Work in Descript with Jensen content.
+
 2024-12-12 Thu: Review & correction of formatting on /progress. ONE Bot tweet + jensenxcountry tweet. Q4 review first draft.
 
 2024-12-11 Wed: 1 on 1 sync with Li on 2025 goals. Discussed the design importance of simplifying DeFi in 2025 to make Harmony the first choice product. Additionally, we discussed the potential of AI Agents to lead marketing initiatives to give more dimension to our marketing strategy (Imagine an agent to advertise protocol, another to advertise defi projects, and another on market analysis... theres infinite angels these agents could discuss). [Quote tweet](https://x.com/harmonyprotocol/status/1866998613232193613) of elonxcountry highlighting concepts from harmony.one/agi.
