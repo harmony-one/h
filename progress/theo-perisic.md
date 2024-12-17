@@ -32,9 +32,9 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 --- 
 
-2024-12-15 Sun: Continued search into [Eliza AI](https://elizaos.ai/) initiatives and potential integrations with Harmony.
+2024-12-15 Sun: (2.0h) Continued search into [Eliza AI](https://elizaos.ai/) initiatives and potential integrations with Harmony.
 
-2024-12-14 Sat: Community questions and sharing details on yield enhancer.
+2024-12-14 Sat: (2.0h) Community questions and sharing details on yield enhancer.
 
 2024-12-13 Fri: Created base frontend for [yield enhancer](https://github.com/ONETheo/yield-enhancer), shared with Artem.
 
@@ -62,9 +62,9 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 2024-12-02 Mon: Continued discussions with Chainspect, marketing call scheduled for tomorrow with larger X group. Community outreach for early PumpONE alpha testing. Protofire sync for LEND and 1sDAI strategy.
 
-2024-12-01 Sun: Review of trouble points to onboarding. Insight: potential to incorporate “one-click buy” as “one-click yield” on Harmony.
+2024-12-01 Sun: (3.0h) Review of trouble points to onboarding. Insight: potential to incorporate “one-click buy” as “one-click yield” on Harmony.
 
-2024-11-30 Sat: Onboarding to Harmony ecosystem. 
+2024-11-30 Sat: (3.0h) Onboarding to Harmony ecosystem. 
 
 2024-11-29 Fri: Revisited Portfolio and competitive yield bearing to position Harmony as leading in simple DeFi.
 
@@ -76,9 +76,9 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 2024-11-25 Mon: Talk forum maintenance for flagged posts. Yield-bearing stablecoin documentation review and sync with Yuriy. Sync with Frank for Harmony1bot API.
 
-2024-11-24 Sun: Jupiter platform troubleshooting, 
+2024-11-24 Sun: (1.0h) Jupiter platform troubleshooting, 
 
-2024-11-23 Sat: Elonxai prompt testing, continued interface integration for simple experience.
+2024-11-23 Sat: (2.0h) Elonxai prompt testing, continued interface integration for simple experience.
 
 2024-11-22 Fri: Wrote the frontend for the yield-bearing stablecoin interface, one for traditional finance, and another for native web3 users.
 
@@ -92,9 +92,9 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 ---
 
-2024-11-17 Sun: Continued Pear AI marketing discussions for upcoming Pear AI - AI Fairness campaign.
+2024-11-17 Sun: (2.0h) Continued Pear AI marketing discussions for upcoming Pear AI - AI Fairness campaign.
 
-2024-11-16 Sat: Troubleshooting and resolved recovery multisig issues. Edits to [Harmony DeFi strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) added simplification.
+2024-11-16 Sat: (3.0h) Troubleshooting and resolved recovery multisig issues. Edits to [Harmony DeFi strategy](https://www.notion.so/harmonyone/DeFi-Strategy-13fa38fc0487807a8afaefea24c1e1d0) added simplification.
 
 2024-11-15 Fri: Completing DeFi strategy document. Continuing discussions regarding exchange information.
 
