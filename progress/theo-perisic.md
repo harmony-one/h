@@ -28,6 +28,13 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 ---
 
+2024-12-16 Mon: Q4 review, and sync with Alaina for yield enhancer marketing. 
+
+--- 
+2024-12-15 Sun: Continued search into [Eliza AI](https://elizaos.ai/) initiatives and potential integrations with Harmony.
+
+2024-12-14 Sat: Community questions and sharing details on yield enhancer.
+
 2024-12-13 Fri: Created base frontend for [yield enhancer](https://github.com/ONETheo/yield-enhancer), shared with Artem.
 
 2024-12-12 Thu: Recovery overview, yield enhancer prioritization, sync with a few community members and validators on alternatives to accelerate recovery.
