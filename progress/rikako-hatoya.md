@@ -6,7 +6,7 @@ I will enhance the Telegram bot (Hod1) by incorporating features from Human Prot
 
 Lastly, I plan to expand my backend development skills by contributing to projects like Pump.fun, focusing on protocol engineering, contract development, and community-driven initiatives. Whether refining smart contracts, improving cross-chain interoperability, or building DeFi tools, I aim to combine technical growth with impactful contributions to the ecosystem.
 
-**2024 Q4 Review**
+**2024 Q4 Review:**
 
 Over the past three months, I focused on implementing bonding curve token models, achieving millisecond-level timestamp transcription for video content, and testing solutions within the emerging AI agent ecosystem.
 
