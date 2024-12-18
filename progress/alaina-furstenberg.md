@@ -15,6 +15,13 @@ In addition to this, I have a goal to lean heavier into meme culture to promote 
 From a design perspective, I plan to continue to simplify DeFi for our community. By further integrating AI tools into the design of our interfaces, we can make definite as simple as possible. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
 
 ---
+
+2024-12-17 Tue: Testing of Google's Whisk. Insights: It's my favorite image generation tool thus far! Though Midjourneys output is more impressive, Google's user experience is more intuitive allowing you to refine the tool to get exactly what you need faster. Created graphics to promote FlappyH1 on [X](https://x.com/harmonyprotocol/status/1869459537566335219). Quote tweet of elonxcountry and stse.
+
+2024-12-16 Mon: Testing of OpenAI's Sora. Insights: It's as impressive as other video generation tools (Runway/Pika) but the convenience of having it bundled with the ChatGPT subscription is the sole reason I'll use it first. Generated some rocket videos with Harmony/Bitcoin. Writing of the script and filming of the 2025 video.
+
+---
+
 2024-12-15 Sun: Editing to harmony.one community section
 
 2024-12-14 Sat: Weekly community [tweet](https://x.com/harmonyprotocol/status/1868003522651758851).
