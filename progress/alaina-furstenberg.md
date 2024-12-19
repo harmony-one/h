@@ -16,6 +16,10 @@ From a design perspective, I plan to continue to simplify DeFi for our community
 
 ---
 
+2024-12-19 Thu: Sync with Li and Artem on Q4 progress. Discussed pump.one's official lauch. elonxcountry quote tweet and a jensenxcountry tweet. Uploading Li's 2025 video to Youtube.
+
+2024-12-18 Wed: Design of Stephens 2025 roadmap thumbnail and upload to Twitter. Promotion of Li's 2025 video on X and on the Bitcoin Strategic Reserve Talk Forum. Editing of script for 2025 video, have to reshoot because of poor audio.
+
 2024-12-17 Tue: Testing of Google's Whisk. Insights: It's my favorite image generation tool thus far! Though Midjourneys output is more impressive, Google's user experience is more intuitive allowing you to refine the tool to get exactly what you need faster. Created graphics to promote FlappyH1 on [X](https://x.com/harmonyprotocol/status/1869459537566335219). Quote tweet of elonxcountry and stse. Beginning the design of the 2025 thumbnails.
 
 2024-12-16 Mon: Testing of OpenAI's Sora. Insights: It's as impressive as other video generation tools (Runway/Pika) but the convenience of having it bundled with the ChatGPT subscription is the sole reason I'll use it first. Generated some rocket videos with Harmony/Bitcoin. Writing of the script and filming of the 2025 video.
