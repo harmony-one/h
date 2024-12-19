@@ -1,10 +1,8 @@
 **2024 Q4 Review** 
 
-In Q4 2024, I developed a proprietary array-based bonding curve contract due to licensing constraints with Mint Club's contracts. The implementation included price calculation and token management functionality, with constructor-initialized stages and standardized curve stages across tokens. I built a Next.js client application with token listing, purchasing, and price calculation features. The contract was tested and initially planned for integration with 1.country for domain-based token creation. The array-based bonding curve contract was later contributed to the pump.fun project.
+In Q4 2024, I developed a proprietary array-based bonding curve contract to address licensing constraints with Mint Club's contracts. The implementation included price calculation and token management functionality, with constructor-initialized stages and standardized curve stages across tokens. I built a Next.js client application with token listing, purchasing, and price calculation features. This work was initially planned for integration with 1.country for domain-based token creation and was later contributed to the pump.fun project.
 
-For Harmony1Bot, I integrated multiple new AI models including xAI's Grok, Gemini 1.5, Claude 3.5 Sonnet, and OpenAI's o1, optimizing their command structures for improved user interaction. I implemented a sliding window mechanism to handle infinite chat context efficiently and developed a session-based cleanup system. The bot's monitoring capabilities were enhanced by integrating Sentry across all environments and implementing comprehensive telegram error notifications for various LLM integrations.
-
-I developed a video processing system with semantic search and clip generation capabilities. The system evolved from MoviePy to an FFmpeg-based approach, implementing subtitle handling with features like SRT input support and frame-accurate word highlighting. I am currently extending the harmony-llm-api with a JWT-based payment system to enable general-purpose usage, implementing prepaid user functionality with balance checks and model cost logic.
+I enhanced Harmony1Bot by integrating multiple AI models including xAI's Grok, Gemini 1.5, Claude 3.5 Sonnet, and OpenAI's o1, while optimizing their command structures for better user interaction. I implemented a sliding window mechanism for infinite chat context and a session-based cleanup system. The bot's reliability improved through Sentry integration across all environments and telegram error notifications. I also developed a video processing system with semantic search and clip generation capabilities, evolving from MoviePy to an FFmpeg-based approach with subtitle handling features. Currently, I'm extending the harmony-llm-api with a JWT-based payment system for general-purpose usage, implementing prepaid user functionality with balance checks and model cost logic.
 
 ---
 2025 Goals:
@@ -14,8 +12,8 @@ I will develop a Retrieval-Augmented Generation (RAG) system for Harmony to prov
 Building on this foundation, I will develop autonomous social agents based on Elon Musk's Grok and Jensen Huang's AI assistants that operate on X and Telegram, leveraging RAG-enhanced AI to generate engaging content and maintain meaningful interactions. The agents will be customizable for different purposes while supporting web3 transactions.
 
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
----
 
+---
 2024-12-17 Tue: Enhanced cost calculation in balance_check decorator with harmony1bot-compatible payment units, optimized LlmManager class estimation methods. Advanced Harmony LLM API smart contract development.
 
 2024-12-16 Mon: Implemented balance_check decorator for request cost estimation. Extended postgres DB model and resolved migration issues.
