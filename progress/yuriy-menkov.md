@@ -18,6 +18,12 @@ I’ll develop autonomous yield optimization agents and AI-driven trading bots f
 
 ---
 
+2024-12-19 Thu: Expanded the contract - added methods for editing internal variables, epoch length, number of rewards, etc. Updated e2e tests. Added indexing of reward payment events to the web 2 service. Synchronized with Artem regarding the service method for integration with the UI.
+
+2024-12-18 Wed: Added web2 service [API](https://hmy-erc4626-reward-dist.fly.dev/api#/rewards/RewardDistController_getInfo) to display vairables and statistics of the rewards distributor contract: the current balance, next epoch flip, rewards streamed per day, rewards streamed per epoch. Also set up deployment of the service on fly.io.
+
+2024-12-17 Tue: [Added](https://github.com/harmony-one/erc4626-rewards-distributor) erc4626 rewards distributor web2 service that monitors the current balance and calls rewards distributor contract methods every epoch to transfer rewards to StakingVault. 
+
 2024-12-16 Mon: Synchronized with Artem about the Staking Vault contract methods, as well as the main use cases. Shared a [test script](https://github.com/harmony-one/erc-4626/blob/main/scripts/deploy.js) with main use cases. Involved in testing and debugging errors. Added Q4 reviews.
 
 ---
