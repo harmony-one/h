@@ -1,3 +1,11 @@
+2024-12-20 Fri:
+
+Main focus of the current week was the deep dive in the possible harmony validators configurations in the real world. I've set up the devnet to replicate the same condition that we have in the mainnet for one of the validators having bls-keys from two validator under one process. This setup will help team to test the [PR-4811](https://github.com/harmony-one/harmony/pull/4811) fix in the real network.
+
+Additionally, I've done several ops activities - updated SSL on the mainnet RPCs, highlighted `MDBX_MAP_FULL` issue to the team, rolled out fixed bootnode to the mainnet.
+
+---
+
 2025 Goals:
 
 In 2025, my focus will be on core functionality, integration tests, onboarding a new systems engineer, improving the consensus developers' experience, and enhancing overall Harmony network reliability.
@@ -5,10 +13,10 @@ In 2025, my focus will be on core functionality, integration tests, onboarding a
 1. Onboarding a New Systems Engineer
 This will relieve pressure on on-call engineers in the Americas time zones. The new engineer will take on systems-related tasks, allowing me to support the consensus development team more effectively.
 
-2. Integration Tests for Network Configurations
+1. Integration Tests for Network Configurations
 Currently, we simulate only one state in our CI: internal validators with one BLS key per node. To better validate new features and updates, I’ll simulate real-world network configurations, catching bugs early in the development cycle and ensuring stability and reliability in production.
 
-3. Expanding RPC Call Testing
+1. Expanding RPC Call Testing
 I’ll enhance our RPC testing framework by expanding test cases to provide rapid feedback on changes and catch regression bugs. This will improve the reliability of the RPC layer and help detect past issues, ensuring a stable interface for developers and users.
 
 These efforts will reduce operational overhead, allowing the team to focus on new features and innovation while ensuring a stable network. By improving testing and reducing recurring issues, we can build a stronger Harmony ecosystem.
