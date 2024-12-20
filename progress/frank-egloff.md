@@ -14,6 +14,12 @@ Building on this foundation, I will develop autonomous social agents based on El
 We can combine 1.country with AI-powered meme generation to create cultural content hubs. The idea is for domain owners to generate and curate memes related to their domains, using AI to help with creation and analysis. These memes could then be traded on pump.fun, our existing marketplace, potentially adding value to both the domains and the meme ecosystem in the web3 space.
 
 ---
+2024-12-20 Fri (ongoing): Split smart contract architecture into basic deposit handler (which will be used by harmony-llm-api) and extended operator-enabled variant with balance management and multi-service integration.
+
+2024-12-19 Thu: Restructured harmony-llm-api with dedicated blockchain module for web3 interactions, segregating smart contracts and backend components. Developing deposit endpoint integration logic.
+
+2024-12-18 Wed: Developed [smart contract architecture](https://github.com/harmony-one/harmony-llm-api/pull/28) for Harmony LLM API deposits with gas-optimized design - storing only user deposit states, operator registry, and owner withdrawal functions, eliminating tx history to minimize chain opertaions.
+
 2024-12-17 Tue: Enhanced cost calculation in balance_check decorator with harmony1bot-compatible payment units, optimized LlmManager class estimation methods. Advanced Harmony LLM API smart contract development.
 
 2024-12-16 Mon: Implemented balance_check decorator for request cost estimation. Extended postgres DB model and resolved migration issues.
