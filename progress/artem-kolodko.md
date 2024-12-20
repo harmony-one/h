@@ -23,6 +23,8 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-19 Thu: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/9e7e8216bed53af52f58a21019532c66c3cd412d) historical APY calculation, [added](https://github.com/harmony-one/yield-enhancer/commit/b39f3398ef7306c9d55a53b99ac30883f8aee438) switching to harmony network on deposit request. Pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/362a1394991e1a65323383a7b87702bdd5deec35) mobile version to the token details page.
+
 2024-12-18 Wed: yield enhancer: [fixed](https://github.com/harmony-one/yield-enhancer/commit/88076031ec08a3db10c6875e6faae9411f899ffa) withdraw and withdraw preview amount, [added](https://github.com/harmony-one/yield-enhancer/commit/6f5a215cb061b45ee1f09ac4ac1acfc136648ade) current allowance check before depositing, [deployed](https://harmony-vault.netlify.app/) client update. Continue working on displaying ONE value in a new harmony explorer at the date of transaction.
 
 2024-12-17 Tue: yield enhancer project: deployed contracts, wokred on client integration: [added](https://github.com/harmony-one/yield-enhancer/commit/9d1d936770bbee57d9ec62d77c66869a038ad399) connect kit to support wallets, [implemented](https://github.com/harmony-one/yield-enhancer/commit/18df36e321630ab7af9606dc8e8a94d967693505) deposit, withdraw methods, [TVL](https://github.com/harmony-one/yield-enhancer/commit/9d97dc78176dd25316c1e6b7a333305091311887) and deposit / withdraw quote. [Deployed](https://harmony-vault.netlify.app/) yield enhancer client to netlify to test.
