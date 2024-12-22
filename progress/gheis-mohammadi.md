@@ -1,3 +1,13 @@
+2024-12-21 Sat:  
+
+Last week, I returned to working on stream sync and investigated an issue affecting one of the devnet nodes. The investigation revealed that the Mdbx database required an upgrade, as newer versions resolved a memory limit issue impacting the Erigon database. I am now focusing on upgrading stream sync and have discussed the deployment plan with the team for devnet implementation.  
+
+Additionally, I created [PR #4818](https://github.com/harmony-one/harmony/pull/4818) to improve debugging for localnet setups with external validators and multi-BLS keys. This PR introduces a new command to the Makefile, allowing terminal logs to be more accessible during local net debug with multi bls keys.  
+
+Work on stream sync upgrades and testing will continue this week, with further collaboration planned for ensuring a smooth deployment.  
+
+---
+
 # Q4 Summary - 2024 
 
 This quarter, I tackled several critical areas to improve network stability, performance, and decentralization. A lot of my focus was on addressing **stream disconnectivity issues** and enhancing the **P2P layer**. I optimized the way streams handle connections and refactored parts of the system to make error handling more resilient. Stream concurrency and lock management were improved, along with significant updates to the **Staged Stream Sync module**, making it more reliable and easier to maintain. I also added support for **Trusted Nodes** in the P2P host, enhancing the flexibility and security of the network.  
