@@ -19,6 +19,12 @@ On the transcription side, I achieved millisecond-level precision in video conte
 Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
+2024-12-20 Fri: Sync with Li, checked progress write-ups of other members, reviewed my 2025 goals were inline. Looked into more potential usage of AI agents for harmony.
+
+2024-12-19 Thu: Further research on ai16z repos. Also looked into bonding curves and token contracts implemented for pump.fun.
+
+2024-12-18 Wed: Further look into usage of agents on virtuals protocol. Looked into our one-bot.
+
 2024-12-17 Tue: Further research on ai16z. Refining of q4 progress summary.
 
 2024-12-16 Mon: Updating Q4 summary. Continued work on AI agents.
