@@ -1,10 +1,10 @@
-2024 Q4 Review (draft)
+2024 Q4 Review
 
 This quarter, I focused on launching of Pump.ONE project, a memecoin marketplace on the Harmony chain.
 
 While working on this project, I [created](https://pump.one/board) various services: Pump.ONE [client](https://github.com/harmony-one/pump.fun.client), [backend](https://github.com/harmony-one/pump.fun.backend) (indexer + API service) and [trading bot](https://github.com/harmony-one/pump-fun-trading-bot). During the development process I worked on the user interface, integration with [smart contracts](https://github.com/harmony-one/pump.fun.contracts), end-to-end testing and improvements based on user feedback. In the backend app, I implemented mechanics to store token metadata, upload images, user authorization based on signed messages and JWT tokens, [REST API](https://pump-fun-backend.fly.dev/api) and tokens indexer.
 
-Besides of that, I've also been working on improvements for the new Harmony Explorer: implemented ONE/ETH toggle persistent state, started working on displaying transaction value at the time of transfer.
+I've also implemented Harmony yield enhancer [client]([https://github.com/harmony-one/yield-enhancer](https://harmony-vault.netlify.app/), added new features for the new Harmony Explorer: ONE/ETH toggle persistent state, [displaying](https://github.com/protofire/bs-frontend/pull/23) transaction value at the time of transfer.
 
 ---
 
@@ -20,6 +20,10 @@ I will create AI agents inspired by Eliza, designed to operate across protocols,
 
 DEX:
 I plan to launch a decentralized perpetual market offering seamless trading, robust liquidity, and user-friendly interfaces, building on proven products.
+
+---
+
+2024-12-23 Mon: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/eb9f23c63bab07971a987623007758842e13c5ff) advanced APY calculation based on daily rewards, deployed [new version](https://harmony-vault.netlify.app/) of client. Pump.one: deployed [new version](https://github.com/harmony-one/pump.fun.contracts/pull/19) of contracts, prepared staging [backend](https://github.com/harmony-one/pump.fun.backend/pull/6/files) and [client](https://pump-one-staging.netlify.app/) environment.
 
 ---
 
