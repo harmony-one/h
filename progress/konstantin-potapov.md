@@ -1,3 +1,10 @@
+2024-12-20 Fri:
+- This week, I resolved the issue of excess signals in the consensus, which addressed several problems. However, while working on achieving 1-second finality, I identified additional issues that I plan to fix this week.
+- Fixed an issue with the view id, which could remain unchanged when the syncNotReadyChan method was called. Although the method updated the block number, it did not update the view id, potentially causing the node to get stuck.
+- I worked on 1-second finality, which successfully operated for 96 epochs without any major issues.
+
+---
+
 2024-12-13 Fri:
 - This week, Gheis and I worked on a fix for the leader rotation issue that could cause an unintended view change. 
 The issue occurs only in nodes with multiple BLS keys. In these cases, the node fails to receive the required block proposal notification. 
