@@ -23,6 +23,8 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-24 Tue: pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/6383a0ec39903d11d4f1faa2e1314e7aeb664aa2) uniqueness check for token symbol on token creation form
+
 2024-12-23 Mon: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/eb9f23c63bab07971a987623007758842e13c5ff) advanced APY calculation based on daily rewards, deployed [new version](https://harmony-vault.netlify.app/) of client. Pump.one: deployed [new version](https://github.com/harmony-one/pump.fun.contracts/pull/19) of contracts, prepared staging [backend](https://github.com/harmony-one/pump.fun.backend/pull/6/files) and [client](https://pump-one-staging.netlify.app/) environment.
 
 ---
