@@ -16,9 +16,23 @@ From a design perspective, I plan to continue to simplify DeFi for our community
 
 ---
 
-2024-12-19 Thu: Sync with Li and Artem on Q4 progress. Discussed pump.one's official lauch. elonxcountry quote tweet and a jensenxcountry tweet. Uploading Li's 2025 video to Youtube.
+2024-12-25 Wed:  Merry Christmas / Happy Holidays [tweet](https://x.com/harmonyprotocol/status/1871977206550843891) + graphic.
 
-2024-12-18 Wed: Design of Stephens 2025 roadmap thumbnail and upload to Twitter. Promotion of Li's 2025 video on X and on the Bitcoin Strategic Reserve Talk Forum. Editing of script for 2025 video, have to reshoot because of poor audio.
+2024-12-24 Tue: Writing and media curation for the [December 2024 newsletter](https://www.notion.so/harmonyone/December-2024-x-y-z-154a38fc048780498877ded4faea643b).
+
+2024-12-23 Mon: [Tweet](https://x.com/harmonyprotocol/status/1871280569419747491) promoting of staking on Harmony. Publishing the [2025 team video](https://youtu.be/TP2fe1tDx3o) + [Substack post](https://x.com/harmonyprotocol/status/1871365479455138012). Team holiday sync on Zoom.
+
+---
+
+2024-12-22 Sun: Editing of the team's 2025 videos together. 
+
+2024-12-21 Sat: Beginning the design of the team 2025 goals thumbnail.
+
+2024-12-20 Fri: Update of the harmony community section plus a [thread](https://x.com/harmonyprotocol/status/1870177729150357901) on X. Sharing of [Li's 2025 video](https://x.com/harmonyprotocol/status/1870242861750550592). Finalization of editing for my 2025 video.
+
+2024-12-19 Thu: Sync with Li and Artem on Q4 progress. Discussed pump.one's official lauch. elonxcountry quote tweet and a jensenxcountry tweet. Uploading [Stephen's 2025 video](https://x.com/harmonyprotocol/status/1869916131244613793) to Youtube. Refilming of my 2025 goals.
+
+2024-12-18 Wed: Design of Stephens 2025 roadmap thumbnail and upload to Twitter. Promotion of [Li's 2025 video on X](https://x.com/harmonyprotocol/status/1869523686438650134) and on the Bitcoin Strategic Reserve Talk Forum. Editing of script for 2025 video, have to reshoot because of poor audio.
 
 2024-12-17 Tue: Testing of Google's Whisk. Insights: It's my favorite image generation tool thus far! Though Midjourneys output is more impressive, Google's user experience is more intuitive allowing you to refine the tool to get exactly what you need faster. Created graphics to promote FlappyH1 on [X](https://x.com/harmonyprotocol/status/1869459537566335219). Quote tweet of elonxcountry and stse. Beginning the design of the 2025 thumbnails.
 
