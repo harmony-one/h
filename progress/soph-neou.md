@@ -18,7 +18,7 @@ By focusing on stability, finality, synchronization, and decentralization, I aim
 
 ---
 
-2024 Q4 review
+2024 Q4 Review:
 
 In Q4, I focused on enhancing staking functionality and addressing critical protocol challenges. A significant part of my efforts was dedicated to investigating consensus-related issues, particularly a bug causing multiple block proposals. While the final resolution is still in progress, my thorough analysis clarified the problem's scope and outlined actionable next steps for resolving it.
 
