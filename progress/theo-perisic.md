@@ -1,4 +1,4 @@
-**2024 Q4 Review:**
+2024 Q4 Review:
 
 I architected Harmony's DeFi suite expansion, focusing on accessibility and higher yields, delivering key products to new heights. Swap saw a 300% increase in TVL, and a 4,470% surge in trading volume. Lend followed a similar expansion, reaching a 250% increase in supply.
 
