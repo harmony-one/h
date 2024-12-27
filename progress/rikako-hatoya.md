@@ -19,7 +19,9 @@ On the transcription side, I achieved millisecond-level precision in video conte
 Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
-2024-12-25 Wed: 
+2024-12-26:
+
+2024-12-25 Wed (1.5h): Merry christmas!! Further worked on how to automatically extract highlight from a longer video/AI agent.
 
 2024-12-24 Tue: Continued working on AI agent demo for twitter. Tested Assembly AI's highlight timestamp/keywords API but doesn't seem to give much solution to automatically generating a highlight clip from a longer video.
 
