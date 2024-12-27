@@ -27,6 +27,8 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 2024-12-23 Mon: Worked on creating demo ai agent on twitter like @elonxai. Debugged and tested with different models (whisper) to see if any one could provide a good highlight clip extraction.
 
+---
+
 2024-12-22 Sun (2.0h): Refined 2025 goals. Filmed 2025 goals video for our Twitter.
 
 2024-12-21 Sat: Started working on AI agent for Twitter. Worked on backend logic.
