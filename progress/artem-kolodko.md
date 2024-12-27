@@ -23,6 +23,10 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-27 Fri: pump.ONE client: [added] advanced Trading view on the client side
+
+2024-12-26 Thu: pump.ONE client: [fixed](https://github.com/harmony-one/pump.fun.client/commit/e5ea9cf8a148ca38b350e5e992088492f4f055de) bug with Walllet connect status; started working on integration with advanced Trading View chart with candles
+
 2024-12-25 Wed: pump.ONE client: [updated](https://github.com/harmony-one/pump.fun.client/commit/06d5cc243f37be421092995c75828d1c3f5181f5) numbers component, added tooltips to numbers and dates
 
 2024-12-24 Tue: pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/6383a0ec39903d11d4f1faa2e1314e7aeb664aa2) uniqueness check for token symbol on token creation form
