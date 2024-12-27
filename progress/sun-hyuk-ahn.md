@@ -1,3 +1,12 @@
+2024 Q4 Review:
+
+This quarter, my main focus on enabling ERC-4337, account abstraction, on the Harmony network. Initially, I successfully developed and launched Stackup's Golang implementation of the bundler node, which successfully processed user operations on the Testnet. With the halt of Stackup's development, my goal transitioned to Pimlico's implementation of the bundler node, Alto.
+
+I updated and implemented Harmony's node to simulate user operations to be in accordance to bundler functionality, `eth_call`. In addition, I successfully launched Alto on Harmony's Testnet and Mainnet. `EntryPoint.sol`, `EntryPointSimulation.sol`, and `BaseAccount.sol` were deployed in order to support to basic functionality of account abstraction, as well as bundlers. Along these necessities, Base's smart wallet contracts were fully launched in both network to support account asbtaction.
+
+
+--- 
+
 2025 Goals:
 
 In 2025, my primary focus will be on Ethereum improvement proposals, starting with EIP-3074 for transaction sponsorship. This proposal introduces two new opcodes, AUTH and AUTHCALL, enabling smart contracts to sponsor user transactions. By reducing the need for users to hold ETH for gas fees, EIP-3074 simplifies onboarding and increases accessibility. My work will focus on its integration and tooling to support broader adoption of gas sponsorship mechanisms.
