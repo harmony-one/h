@@ -16,6 +16,8 @@ From a design perspective, I plan to continue to simplify DeFi for our community
 
 ---
 
+2024-12-26 Thu: Writing of the Q4 report, design of thumbnail. Generating artwork on Midjourney to promote [simple defi in 2025](https://x.com/harmonyprotocol/status/1872434438468231390) on X.
+
 2024-12-25 Wed:  Merry Christmas / Happy Holidays [tweet](https://x.com/harmonyprotocol/status/1871977206550843891) + graphic.
 
 2024-12-24 Tue: Writing and media curation for the [December 2024 newsletter](https://www.notion.so/harmonyone/December-2024-x-y-z-154a38fc048780498877ded4faea643b).
