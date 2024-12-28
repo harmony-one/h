@@ -18,6 +18,14 @@ I’ll develop autonomous yield optimization agents and AI-driven trading bots f
 
 ---
 
+2024-12-24 Tue: Added more tests for the Reward and Staking Vault contracts: testing the change in the price of share tokens and the sequential addition of rewards. Testing the withdrawal of the full amount of share tokens. Added methods for editing all internal parameters of the Reward contract, as well as the ownership model.
+
+2024-12-23 Mon: Fixed the erc4626 Staking Vault contract issue, related to the deduction of commissions when withdrawing funds through the withdrawal and redeem methods: in the current version, the commission is deducted from the general pool, which makes the price of share tokens lower for all holders. This problem is fixed in the new version.
+
+---
+
+2024-12-20 Fri: Reviewed and tested the new pump one contracts [update](https://github.com/harmony-one/pump.fun.contracts/pull/19). Tested changes related to new burn and convert mechanism, reduced liquidity at publishing pool.
+
 2024-12-19 Thu: Expanded the contract - added methods for editing internal variables, epoch length, number of rewards, etc. Updated e2e tests. Added indexing of reward payment events to the web 2 service. Synchronized with Artem regarding the service method for integration with the UI.
 
 2024-12-18 Wed: Added web2 service [API](https://hmy-erc4626-reward-dist.fly.dev/api#/rewards/RewardDistController_getInfo) to display vairables and statistics of the rewards distributor contract: the current balance, next epoch flip, rewards streamed per day, rewards streamed per epoch. Also set up deployment of the service on fly.io.
