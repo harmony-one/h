@@ -1,3 +1,11 @@
+2024-12-28 Sat:   
+
+Last week, I continued working on stream sync, focusing on the block hash stage. This enhancement introduces a new stage where block hashes are downloaded from all connected nodes before retrieving block bodies. By calculating the correct hash first, this ensures data integrity and reliability in the block download process.  
+
+The progress on this feature is about 60%, and I aim to complete and test it within the next two weeks. Once finalized, it will improve the efficiency and accuracy of stream sync operations.  
+
+---
+
 2024-12-21 Sat:  
 
 Last week, I returned to working on stream sync and investigated an issue affecting one of the devnet nodes. The investigation revealed that the Mdbx database required an upgrade, as newer versions resolved a memory limit issue impacting the Erigon database. I am now focusing on upgrading stream sync and have discussed the deployment plan with the team for devnet implementation.  
