@@ -1,8 +1,22 @@
+2024-12-27 Fri:
+
+Main focus of the current week was update devnet to the version with the latest fixes from the team like [PR-4811](https://github.com/harmony-one/harmony/pull/4811) and [PR-4816](https://github.com/harmony-one/harmony/pull/4816). I've highlighted to the team an increase in the CPU/RAM usage.
+
+Additionally, as part of my on-call activities I was restoring the normal functioning of our Archival RPC node - there was an outage on Sunday-Monday.
+
+And finally as part of ops activities, I've discussed with Gheis and checked the flag/configuration option `p2p.dht.datastore`. It works fine on the validator node and default value  for it can be a nice addition, because node will try to use local dht routes instead of querying bootnodes each time.
+
+---
+
+2024-12-25 Wed: PTO
+
+---
+
 2024-12-20 Fri:
 
-Main focus of the current week was the deep dive in the possible harmony validators configurations in the real world. I've set up the devnet to replicate the same condition that we have in the mainnet for one of the validators having bls-keys from two validator under one process. This setup will help team to test the [PR-4811](https://github.com/harmony-one/harmony/pull/4811) fix in the real network.
+The main focus of the current week was the deep dive in the possible harmony validators configurations in the real world. I've set up the devnet to replicate the same condition that we have in the mainnet for one of the validators having bls-keys from two validators under one process. This setup will help the team to test the [PR-4811](https://github.com/harmony-one/harmony/pull/4811) fix in the real network.
 
-Additionally, I've done several ops activities - updated SSL on the mainnet RPCs, highlighted `MDBX_MAP_FULL` issue to the team, rolled out fixed bootnode to the mainnet.
+Additionally, I've done several ops activities - updated SSL on the mainnet RPCs, highlighted the `MDBX_MAP_FULL` issue to the team, and rolled out a fixed bootnode to the mainnet.
 
 ---
 
