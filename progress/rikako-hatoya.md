@@ -19,7 +19,11 @@ On the transcription side, I achieved millisecond-level precision in video conte
 Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
-2024-12-26:
+2024-12-28 Sat: Started looking into AGI for Math. Math.country, machine assisted proofs, AI models for Putnam, proof steps.
+
+2024-12-27 Fri: Furtehr continued with Eliza/@jensenxcountry. 
+
+2024-12-26 Thu: Looked into setting up Eliza agent for our twitter. Also worked on revising 2025 goals in respect to AI agents, continued more research.
 
 2024-12-25 Wed (1.5h): Merry christmas!! Further worked on how to automatically extract highlight from a longer video/AI agent.
 
