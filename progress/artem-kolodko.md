@@ -23,6 +23,8 @@ I plan to launch a decentralized perpetual market offering seamless trading, rob
 
 ---
 
+2024-12-30 Mon: pump.ONE backend: [fixed](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/c8c782c90e1c9143ecdeacbdfc68f211ecb47f70) candles ordering, [updated](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/e20acd4b4d35fb3fb4d774798be2f90addfb338c) candles SQL query: added open and close price
+
 2024-12-27 Fri: pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/pull/16) advanced Trading view on the client side
 
 2024-12-26 Thu: pump.ONE client: [fixed](https://github.com/harmony-one/pump.fun.client/commit/e5ea9cf8a148ca38b350e5e992088492f4f055de) bug with Walllet connect status; started working on integration with advanced Trading View chart with candles
