@@ -28,7 +28,39 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 ---
 
-2024-12-16 Mon: Q4 review, and sync with Alaina for yield enhancer marketing. 
+2025-01-02 Thu: Sync with [Flipguard](https://www.flipguard.xyz/features), discord wallet and bot.
+
+2025-01-01 Wed: New Year’s
+
+2024-12-31 Tue: Read Bitcoin Strategic Reserve documentation, joined Harmony 2025 group.
+
+2024-12-30 Mon: Coordination with Artem for Athletefi rebrand on staking dashboard.
+
+---
+
+2024-12-29 Sun: (2.0h) Dive into [Robinhood ux](https://itexus.com/robinhood-ui-secrets-how-to-design-a-sky-rocket-trading-app/) for simplifying DeFi.
+
+2024-12-28 Sat: (2.0h) Dive into updates from [Eliza Repo] (https://github.com/elizaOS/eliza)
+
+2024-12-26 Thu - 12-27 Fri: Paid Time Off
+
+2024-12-25 Wed: Christmas
+
+2024-12-23 Mon - 12-24 Tue: Paid Time Off
+
+2024-12-22 Sun: (2.0h) Promoting Harmony 2025 with others, collecting feedback from non-crypto communities.
+
+2024-12-21 Sat: (1.0h) Review of Harmony 2025
+
+2024-12-20 Fri: Completed Harmony 2025 [draft](https://www.notion.so/harmonyone/Harmony-2025-AI-Agents-DeFi-on-Exchange-one-1-Second-Finality-161a38fc0487806d8592cd4e511dc5c6).
+
+2024-12-19 Thu: Gathering each team member’s 2025, pushed [draft](https://www.notion.so/harmonyone/Harmony-2025-AI-Agents-DeFi-on-Exchange-one-1-Second-Finality-161a38fc0487806d8592cd4e511dc5c6).
+
+2024-12-18 Wed: Team review, yield enhancer parameters, progress on 2025 team blog.
+
+2024-12-17 Tue: Sync with Li and Yuriy for 2025, yield enhancer, and 2024 review. Recorded 2025 goals video.
+
+2024-12-16 Mon: Q4 review, and sync with Alaina for yield enhancer marketing.
 
 --- 
 
