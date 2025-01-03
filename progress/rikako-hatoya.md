@@ -23,9 +23,11 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 2025-01-01 Wed: Happy new years!!
 
-2024-12-31 Tue: Continued working on mathematics in lean workbook.
+2024-12-31 Tue: Continued working on mathematics in lean workbook. Further research on adoption of Lean and open source projects.
 
 2024-12-30 Mon: Started working on Mathematics in Lean workbook. Also read through Lean conference paper ("bridging formal mathematics and software verification").
+
+---
 
 2024-12-29 Sun: Research on AWS's open source projects adopting Lean. Looked into AILean, Cedar, LNSym, and Sampcert.
 
