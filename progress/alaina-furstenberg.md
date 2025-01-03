@@ -14,7 +14,23 @@ In addition to this, I have a goal to lean heavier into meme culture to promote 
 
 From a design perspective, I plan to continue to simplify DeFi for our community. By further integrating AI tools into the design of our interfaces, we can make definite as simple as possible. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
 
+--
+
+2024-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
+
+2024-01-01 Wed: New Years Day
+
+2024-12-31 Tue: Designs in Midjourney plus animation in Pika. 1bot stats sync with Amanda. Designs in Midjourney in preparation for PTO. 
+
+2024-12-30 Mon: Community section [posting to X](https://x.com/harmonyprotocol/status/1873821274088366420). [Thread](https://x.com/harmonyprotocol/status/1873819809936531661) on Delphi Digital
+
 ---
+
+2024-12-29 Sun: Designs in Midjourney in preparation for PTO. 
+
+2024-12-28 Sat: Designs in Midjourney in preparation for PTO. 
+
+2024-12-27 Fri: Finalization + posting of the Q4 report onto [Substack](https://blog.harmony.one/p/q4-on-harmony-optimizing-consensus) and [X](https://x.com/harmonyprotocol/status/1872818687230857303). Creation of podcast in NotebookLM
 
 2024-12-26 Thu: Writing of the Q4 report, design of thumbnail. Generating artwork on Midjourney to promote [simple defi in 2025](https://x.com/harmonyprotocol/status/1872434438468231390) on X.
 
