@@ -1,3 +1,13 @@
+2024-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
+
+2024-01-01 Wed: New Years Day
+
+2024-12-31 Tue: Designs in Midjourney plus animation in Pika. 1bot stats sync with Amanda. Designs in Midjourney in preparation for PTO. 
+
+2024-12-30 Mon: Community section [posting to X](https://x.com/harmonyprotocol/status/1873821274088366420). [Thread](https://x.com/harmonyprotocol/status/1873819809936531661) on Delphi Digital
+
+---
+
 2024 Q4 Review
 
 This quarter, I focused on expanding content creation, enhancing co-marketing efforts, and boosting audience engagement. I learned Descript to produce videos for projects like ElonxCountry and JensenxCountry and explored new animation techniques by integrating Pika with MidJourney. Additionally, I manually animated graphics in Jitter for PumpONE and the crypto and AI newsletters. To support PumpONE, I joined weekly development syncs and contributed to writing disclaimers and documentation for its upcoming launch.
@@ -13,16 +23,6 @@ In 2025, my primary goal at Harmony is to enhance our marketing by integrating A
 In addition to this, I have a goal to lean heavier into meme culture to promote products like Pump ONE. By analyzing the marketing methods of successful meme tokens, I’ll identify key strategies that drive community engagement and virality. Using these insights, I’ll craft a campaign for Harmony that mirrors these effective approaches, specifically tailored to promote Pump ONE. 
 
 From a design perspective, I plan to continue to simplify DeFi for our community. By further integrating AI tools into the design of our interfaces, we can make definite as simple as possible. In addition to the AI tools I already use, I want to lean heavier into video generation tools like Runway, Pika, and OpenAI’s Sora. 
-
---
-
-2024-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
-
-2024-01-01 Wed: New Years Day
-
-2024-12-31 Tue: Designs in Midjourney plus animation in Pika. 1bot stats sync with Amanda. Designs in Midjourney in preparation for PTO. 
-
-2024-12-30 Mon: Community section [posting to X](https://x.com/harmonyprotocol/status/1873821274088366420). [Thread](https://x.com/harmonyprotocol/status/1873819809936531661) on Delphi Digital
 
 ---
 
