@@ -1,3 +1,9 @@
+2025-01-03 Fri:
+- Refactored the consensus module by splitting it into smaller, modular structs to enhance testability and maintainability. Increased test coverage for consensus statements from 15% to 18%. 
+- Initiated the implementation of EIP-3607, enabling rejection of transactions from senders with deployed code. This progress represents one-third of the required work for full support of EIP-3074-sponsored transactions. 
+
+---
+
 2024-12-20 Fri:
 - This week, I resolved the issue of excess signals in the consensus, which addressed several problems. However, while working on achieving 1-second finality, I identified additional issues that I plan to fix this week.
 - Fixed an issue with the view id, which could remain unchanged when the syncNotReadyChan method was called. Although the method updated the block number, it did not update the view id, potentially causing the node to get stuck.
