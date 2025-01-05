@@ -1,3 +1,11 @@
+2025-01-04 Sat:
+
+Last week, I finalized the staged stream sync code refactor to include a new stage for block hashes, ensuring improved data integrity before downloading block bodies. The changes were submitted as [PR #4824](https://github.com/harmony-one/harmony/pull/4824).  
+
+Additionally, I am exploring an idea to introduce a reserved list of peers for stream sync. This feature would replace disconnected peers instantly with ones from the reserved list whenever connectivity issues or invalid responses occur. Implementing this will enhance the consistency and reliability of stream sync operations.  
+
+---
+
 2024-12-28 Sat:   
 
 Last week, I continued working on stream sync, focusing on the block hash stage. This enhancement introduces a new stage where block hashes are downloaded from all connected nodes before retrieving block bodies. By calculating the correct hash first, this ensures data integrity and reliability in the block download process.  
