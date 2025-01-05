@@ -1,5 +1,3 @@
----
-
 2025-01-02 Thu: started researching [Eliza](https://github.com/elizaOS/eliza-starter) AI agent: configured local environment, added test Twitter account details; got an error about DB connection on launch, started debugging
 
 2025-01-03 Fri: AI agent - resolved issue with database connection, configured and refilled OpenAI test account; continue research
