@@ -19,6 +19,12 @@ On the transcription side, I achieved millisecond-level precision in video conte
 Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
+2025-01-05 Sun: Further work on cloning lean 4 repo.
+
+2025-01-04 Sat: Continued readings on Lean.
+
+2025-01-03 Fri: Continued research on AI models for Putnam. Further look into lean 4.
+
 2025-01-02 Thu: Continuation of mathematics in lean. Watching of Edward Frenkel's revolutionary math proof.
 
 2025-01-01 Wed: Happy new years!!
