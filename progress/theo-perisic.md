@@ -28,6 +28,12 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 ---
 
+2025-01-05 Sun: (1.0h) Shared document with Soph again. Insight: 0x work is mostly non-technical, but needs a dedicated push.
+
+2025-01-04 Sat: (2.0h) Reviewed [0x prioritization document](https://harmonyone.notion.site/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081).
+
+2025-01-03 Fri: Community call. Prioritization insights from community: “0x” wallet address top priority for seamless entrance to Harmony, and more community representation in 2025 plan.
+
 2025-01-02 Thu: Sync with [Flipguard](https://www.flipguard.xyz/features), discord wallet and bot.
 
 2025-01-01 Wed: New Year’s
@@ -36,7 +42,7 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 2024-12-30 Mon: Coordination with Artem for Athletefi rebrand on staking dashboard.
 
----
+—
 
 2024-12-29 Sun: (2.0h) Dive into [Robinhood ux](https://itexus.com/robinhood-ui-secrets-how-to-design-a-sky-rocket-trading-app/) for simplifying DeFi.
 
