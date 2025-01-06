@@ -1,4 +1,4 @@
-2024-01-06 Mon: Sync with Li, Aaron, and Sun.
+2024-01-06 Mon: Sync with Li, Aaron, and Sun. Action items:
 
 ---
 
