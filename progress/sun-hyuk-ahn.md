@@ -1,3 +1,7 @@
+2025-01-06 Mon:
+
+---
+
 2024 Q4 Review:
 
 This quarter, my main focus on enabling ERC-4337, account abstraction, on the Harmony network. Initially, I successfully developed and launched Stackup's Golang implementation of the bundler node, which successfully processed user operations on the Testnet. With the halt of Stackup's development, my goal transitioned to Pimlico's implementation of the bundler node, Alto.
