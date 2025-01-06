@@ -1,6 +1,10 @@
-2025-01-02 Thu: started researching [Eliza](https://github.com/elizaOS/eliza-starter) AI agent: configured local environment, added test Twitter account details; got an error about DB connection on launch, started debugging
+2025-01-06 Mon: pump.ONE backend: [refactored](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/36243f10b6ecc0754cd735d58c64ed7ac837af68) candles SQL query, [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/a6054f4715c4c0fe08b5d1f6ba5cb03f6c00d127) 1h and 1d intervals, [fixed](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/1f5bf24f1e537fd65a6bf445af68ca767b09fe0f) bug in pump.ONE tokens indexer
+
+---
 
 2025-01-03 Fri: AI agent - resolved issue with database connection, configured and refilled OpenAI test account; continue research
+
+2025-01-02 Thu: started researching [Eliza](https://github.com/elizaOS/eliza-starter) AI agent: configured local environment, added test Twitter account details; got an error about DB connection on launch, started debugging
 
 ---
 
