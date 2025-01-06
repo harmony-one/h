@@ -1,3 +1,13 @@
+2024-01-06 Mon: Sync with Li, Aaron, and Sun.
+
+---
+
+2024-01-05 Sun: Designs in Midjourney in preparation for PTO. 
+
+2024-01-04 Sat: Community section [tweet](https://x.com/harmonyprotocol/status/1875617947114447214).
+
+2024-01-03 Fri: Sync with Amanda on creating memes/graphics for our twitter account. Animation on #1sfinality for a quote [tweet](https://x.com/harmonyprotocol/status/1875360696843825356) from Stephen.
+
 2024-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
 
 2024-01-01 Wed: New Years Day
