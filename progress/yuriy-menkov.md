@@ -1,3 +1,7 @@
+2025-01-06 Mon: [Added](https://github.com/harmony-one/erc-4626/commit/29b6de33b5ccceb8900357000981ebfd793bffeb) several fixes for the Staking Vault contract. Shared contracts with Aaron for a security audit. Synchronized with Artem to update the client.
+
+---
+
 2024 Q4 Review
 
 Development Pump.ONE [contracts](https://github.com/harmony-one/pump.fun.contracts): the logic for the token factory, competition and liquidity manager is fully implemented. Implemented counting of investments, determining the winner and publishing on Uniswap v3. Additional logic has been developed for linking tokens to the competition ID: buying and selling is allowed only within the current competition - then the user can only convert his tokens into winner tokens, or publish on Uniswap if this token is the winner. Several integration tests have been developed. Contracts serve as the basis for the [Pump.ONE application](https://pump.one/board). Added integrations with API services and frontend client.
