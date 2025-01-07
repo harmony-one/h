@@ -1,4 +1,18 @@
-2025-01-06 Mon:
+2025-01-06 Tue:
+
+2025-01-06 Mon: Researched on why EIP 3074 is considered being [stagnant](https://ethereum-magicians.org/t/eip-3074-is-unsafe-unnecessary-puts-user-funds-at-risk-while-fragmenting-ux-liquidity-and-the-wallet-stack/19662). Realized that the upcoming Uniswap v4 launch requires EVM upgrades on Harmony as well, began looking at PRs to determine which upgrades are required to enable the new contracts.
+
+---
+
+2025-01-05 Sun (1 hr): Continued the PR review and reset up i.country.
+
+2025-01-04 Sat (1 hr): Reviewed PRs for the 1 second finality.
+
+2025-01-03 Fri: Continued the analyzation of the EVM as well as the missing components to implement EIP-3074.
+
+2025-01-02 Thu: Analyzed Harmony's EVM implementation.
+
+2025-01-01 Wed: Happy new year!
 
 ---
 
