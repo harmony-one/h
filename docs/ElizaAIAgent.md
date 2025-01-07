@@ -1,16 +1,16 @@
-### Eliza AI Agent + X (Twitter)
+## Eliza AI Agent + X (Twitter)
 
-#### Step 1: install NodeJS v22+
+### Step 1: install NodeJS v22+
 [https://nodejs.org/en/download](https://nodejs.org/en/download)
 
-#### Step 2: install pnpm (package manager)
+### Step 2: install pnpm (package manager)
 [https://pnpm.io/installation](https://pnpm.io/installation)
 
 ```
 curl -fsSL https://get.pnpm.io/install.sh | sh -
 ```
 
-#### Step 3: create X account and generate OpenAI API key
+### Step 3: create X account and generate OpenAI API key
 
 3.1. Create account on X (Twitter). In the next steps, we will need username, password and email.
 
@@ -18,12 +18,12 @@ curl -fsSL https://get.pnpm.io/install.sh | sh -
 
 3.3. Generate OpenRouter AI API key and refill with some credits amount ($5): [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
 
-#### Step 4: clone eliza-started repo
+### Step 4: clone eliza-started repo
 ```
 git clone https://github.com/elizaOS/eliza-starter.git
 ```
 
-#### Step 5: configure Eliza
+### Step 5: configure Eliza
 
 5.1. Open terminal and navigate to cloned `eliza-starter` directory:
 ```
