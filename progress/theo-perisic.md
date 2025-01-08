@@ -28,6 +28,14 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 ---
 
+2025-01-08 Wed: 0x prioritization organization and preparation. Main priority is exchange support for seamless onboarding into Harmony, to optimize for metamask default support for 0x and Harmony EVM compatibility.
+
+2025-01-07 Tue: Sync with Li, Artem, and Yuriy about [Pump.one](https://pump.one) and Yield Enhancer. Suggestions for optional [Pump.one](https://pump.one) “opt-in” functionality: allowing users to have a base version of [Pump.fun](https://pump.fun) as well as be able to opt-in for the [Pump.one](https://pump.one) additional features.
+
+2025-01-06 Mon: Yield Enhancer review and testing. Additional APY still set to launch as industry leading on stablecoins.
+
+---
+
 2025-01-05 Sun: (1.0h) Shared document with Soph again. Insight: 0x work is mostly non-technical, but needs a dedicated push.
 
 2025-01-04 Sat: (2.0h) Reviewed [0x prioritization document](https://harmonyone.notion.site/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081).
