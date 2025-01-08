@@ -1,3 +1,5 @@
+2024-01-07 Tue: Beginning test of [Eliza](https://github.com/harmony-one/h/blob/main/docs/ElizaAIAgent.md) agent. Reading + design of animation for i.country. Sync with Amanda on designed twitter graphics.
+
 2024-01-06 Mon: Sync with Li, Aaron, and Sun. Action items:
 
 ---
