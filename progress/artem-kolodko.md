@@ -1,3 +1,5 @@
+2025-01-08 Wed: pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/705868dda026c4bc110f29d4ca7ba07b347b6f80) [sorting](https://github.com/harmony-one/pump.fun.client/pull/16/commits/f8f268aa51c267deaa6c2f18a1f384811f7e4433) by latest comment on the tokens page, fixed compilation warnings, [deployed](https://pump-one-staging.netlify.app/board) staging client update
+
 2025-01-07 Tue: configured Eliza AI agent with Twitter integration, post are published to the [Twitter account](https://x.com/CrimsonCipher1); [created](https://github.com/harmony-one/h/blob/main/docs/ElizaAIAgent.md) docs article on how to launch it locally
 
 2025-01-06 Mon: pump.ONE backend: [refactored](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/36243f10b6ecc0754cd735d58c64ed7ac837af68) candles SQL query, [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/a6054f4715c4c0fe08b5d1f6ba5cb03f6c00d127) 1h and 1d intervals, [fixed](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/1f5bf24f1e537fd65a6bf445af68ca767b09fe0f) bug in pump.ONE tokens indexer
