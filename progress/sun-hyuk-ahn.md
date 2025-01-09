@@ -1,4 +1,8 @@
-2025-01-06 Tue:
+2025-01-09 Wed:
+
+2025-01-08 Wed: Began looking into EIP 1153 transient storage, required for Uniswap v4 ([article](https://medium.com/@organmo/demystifying-eip-1153-transient-storage-faeabbadd0d) explaining the EIP). Began searching for Geth implementation of transient storage.
+
+2025-01-07 Tue: Found Harmony's most recent EVM upgrade: [Istanbul](https://github.com/harmony-one/harmony/blob/bcc0b51b091cd5e68ce6ab43ae01f1a40c7c6741/core/vm/jump_table.go#L71). EIPS 1344, 1884, and 2200 are implemented. Realized with Uniswap v4, EIP 1153 - transient storage is required.
 
 2025-01-06 Mon: Researched on why EIP 3074 is considered being [stagnant](https://ethereum-magicians.org/t/eip-3074-is-unsafe-unnecessary-puts-user-funds-at-risk-while-fragmenting-ux-liquidity-and-the-wallet-stack/19662). Realized that the upcoming Uniswap v4 launch requires EVM upgrades on Harmony as well, began looking at PRs to determine which upgrades are required to enable the new contracts.
 
