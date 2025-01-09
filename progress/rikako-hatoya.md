@@ -20,7 +20,7 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
-2025-01-08 Wed: Team sync with Li, short term goal: to find unique ways to develop product using AI for math. Looked into photomath and brilliant.org, research for unique products in market utilizing AI math programming.
+2025-01-08 Wed: Team sync with Li, short term goal: to find unique ways to develop product using AI for math. Looked into photomath and brilliant.org, researched unique products in market utilizing AI math programming.
 
 2025-01-07 Tue: Looked into Artem's ElizaAI + Twitter docs. Started replicating setup.
 
