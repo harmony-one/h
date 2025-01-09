@@ -1,3 +1,7 @@
+2025-01-08 Wed: Looked at the [contract issues](https://github.com/harmony-one/erc-4626/issues) that Aaron found as a result of the security audit. Working on adding fallback methods to withdraw assets from Reward Contract. Also started working on adjusting the commission deduction in accordance with the [documentation](https://docs.openzeppelin.com/contracts/4.x/erc4626#fees) from Aaron.
+
+2025-01-07 Tue: [Added](https://github.com/harmony-one/erc4626-rewards-distributor/commit/2c81857fde9d91648ef3ca6f430491447cb82ffc) Rewards Deposited events storing to erc4626 rewards distributor backend. Research to evaluate the complexity of adding an additional competition function to Pump.One contracts
+
 2025-01-06 Mon: [Added](https://github.com/harmony-one/erc-4626/commit/29b6de33b5ccceb8900357000981ebfd793bffeb) several fixes for the Staking Vault contract. Shared contracts with Aaron for a security audit. Synchronized with Artem to update the client.
 
 ---
