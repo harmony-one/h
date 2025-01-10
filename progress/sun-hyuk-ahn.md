@@ -1,4 +1,4 @@
-2025-01-09 Wed:
+2025-01-09 Thu:
 
 2025-01-08 Wed: Began looking into EIP 1153 transient storage, required for Uniswap v4 ([article](https://medium.com/@organmo/demystifying-eip-1153-transient-storage-faeabbadd0d) explaining the EIP). Began searching for Geth implementation of transient storage.
 
