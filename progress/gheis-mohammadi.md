@@ -1,3 +1,12 @@
+2025-01-11 Sat:
+Last week, I finalized [PR #4824](https://github.com/harmony-one/harmony/pull/4824), addressing team feedback, adding tests, and resolving issues. The PR has another small issue; after addressing that, it will be ready to be merged.  
+
+I also introduced a new feature in [PR #4826](https://github.com/harmony-one/harmony/pull/4826), which adds a reserved stream list to the Harmony P2P stream management system. This feature ensures that peer connections can be replaced immediately from a backup pool whenever a stream is removed due to issues like invalid data or connectivity disruptions. By bypassing the traditional peer discovery process, this approach significantly improves recovery times, maintains stable network operations, and enhances resilience, especially in larger networks where delays could disrupt syncing and consensus processes.  
+
+The team identified a RAM usage issue on devnet nodes, where memory consumption kept increasing. After thorough investigation—reviewing node resources, binary flags, peer store, and memdb, it was discovered that the resource manager was disabled. Enabling the resource manager and setting the memory limit to 0 (defaulting to 25% of available RAM) resolved the issue. To further improve this, I created [PR #4827](https://github.com/harmony-one/harmony/pull/4827), which introduces conditional inclusion of the Resource Manager in P2P configurations, ensuring it is added only when explicitly enabled. We are now focused on optimizing resource manager configurations to maintain efficient resource usage.  
+
+---
+
 2025-01-04 Sat:
 
 Last week, I finalized the staged stream sync code refactor to include a new stage for block hashes, ensuring improved data integrity before downloading block bodies. The changes were submitted as [PR #4824](https://github.com/harmony-one/harmony/pull/4824).  
