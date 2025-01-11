@@ -20,6 +20,10 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
+2025-01-10 Fri: Worked on AI for geometry math problems. Looked into AlphaGeometry and replicated [AG4Masses repo](https://github.com/tpgh24/ag4masses/) on [Kaggle](https://www.kaggle.com/code/rikaaaa/ag4masses-public/output).
+
+2025-01-09 Thu: Further looked at ELizaAI + Twitter docs. Further research for repos on AI for math.
+
 2025-01-08 Wed: Team sync with Li, short term goal: to find unique ways to develop product using AI for math. Looked into photomath and brilliant.org, researched unique products in market utilizing AI math programming.
 
 2025-01-07 Tue: Looked into Artem's ElizaAI + Twitter docs. Started replicating setup.
