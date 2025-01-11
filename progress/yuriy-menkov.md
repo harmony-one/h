@@ -1,3 +1,7 @@
+2025-01-10 Fri: Worked on Unify Bridge Assets new proxy contract, based on [task](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA/edit?usp=sharing). Another round of testing for pump.one contracts (update from Aaron).
+
+2025-01-09 Thu: [Completed](https://github.com/harmony-one/erc-4626/pull/6/files) fixing all tasks on the erc4626 issues [list](https://github.com/harmony-one/erc-4626/issues). Prepared a list of improvements: fee calculation, resolved unnecessary and risky dependencies, added fallback methods to withdraw assets for reward contract, use of the current balance in case it is not enough for rewards per epoch.
+
 2025-01-08 Wed: Looked at the [contract issues](https://github.com/harmony-one/erc-4626/issues) that Aaron found as a result of the security audit. Working on adding fallback methods to withdraw assets from Reward Contract. Also started working on adjusting the commission deduction in accordance with the [documentation](https://docs.openzeppelin.com/contracts/4.x/erc4626#fees) from Aaron.
 
 2025-01-07 Tue: [Added](https://github.com/harmony-one/erc4626-rewards-distributor/commit/2c81857fde9d91648ef3ca6f430491447cb82ffc) Rewards Deposited events storing to erc4626 rewards distributor backend. Research to evaluate the complexity of adding an additional competition function to Pump.One contracts
