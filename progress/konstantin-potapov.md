@@ -1,3 +1,11 @@
+2025-01-10 Fri:
+- Updated the Message struct to ensure alignment with Ethereum code standards.
+- Enhanced test scripts to automatically download the required branch, leveraging the TRAVIS_PULL_REQUEST_BRANCH variable. This eliminates the need for hardcoded branch names in the scripts.
+- Resolved an issue with effectiveGasPrice for staking transactions.
+- Continued work on implementing EIP-3607, which marks the initial phase of sponsored transactions.
+
+---
+
 2025-01-03 Fri:
 - Refactored the consensus module by splitting it into smaller, modular structs to enhance testability and maintainability. Increased test coverage for consensus statements from 15% to 18%. 
 - Initiated the implementation of EIP-3607, enabling rejection of transactions from senders with deployed code. This progress represents one-third of the required work for full support of EIP-3074-sponsored transactions. 
