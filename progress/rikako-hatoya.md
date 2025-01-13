@@ -19,6 +19,9 @@ On the transcription side, I achieved millisecond-level precision in video conte
 Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
+2025-01-12 Sun (1.0h): Further testing with AG4Masses. Further look into Eliza repo.
+
+2025-01-11 Sat (1.5h): Worked on testing more math olympiad problems with AI. Ran AG4Masses on Kaggle notebook for different problem set.
 
 2025-01-10 Fri: Worked on AI for geometry math problems. Looked into AlphaGeometry and replicated [AG4Masses repo](https://github.com/tpgh24/ag4masses/) on [Kaggle](https://www.kaggle.com/code/rikaaaa/ag4masses-public/output).
 
