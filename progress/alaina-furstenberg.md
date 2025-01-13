@@ -1,6 +1,20 @@
+2024-01-13 Mon: Writing of week 2 for the January newsletter. Beginning to create marketing materials for the launch of the yield enhancer. Continued reading on i.country and testing of Eliza.
+
+---
+
+2024-01-12 Sun: Design of graphics in preparation for PTO.
+
+2024-01-11 Sat: Community Tweet on X. 
+
+2024-01-10 Fri: Updating of the harmony.one community section. Wrote the recap for the first week of January for the monthly newsletter. Design of graphic using Midjourney to [quote tweet](https://x.com/harmonyprotocol/status/1877860187081461778) Stephen's content on i.country.
+
+2024-01-09 Thu: [Announcement](https://x.com/harmonyprotocol/status/1877474602638524707) of FlappyH1's weekly airdrop winner + design of a flappy graphic using Google's Whisk. Did continued designs in Whisk in prepartion for PTO.
+
+2024-01-08 Wed: [Co-marketing](https://x.com/harmonyprotocol/status/1877062477877215334) with Band Protocol on their 2024 report. Continuation of reading/watching the resources of i.country. 
+
 2024-01-07 Tue: Beginning test of [Eliza](https://github.com/harmony-one/h/blob/main/docs/ElizaAIAgent.md) agent. Reading + design of animation for i.country. Sync with Amanda on designed twitter graphics.
 
-2024-01-06 Mon: Sync with Li, Aaron, and Sun. Action items:
+2024-01-06 Mon: Sync with Li, Aaron, and Sun. Action items: Begin testing Eliza soon. Design of a human + ai graphic, inserted in a [quote tweet](https://x.com/harmonyprotocol/status/1876358123147141241) of Li's AI Agent tweet. [Quote tweeted](https://x.com/harmonyprotocol/status/1876410564756513164) Stephen's post on AI Agents.
 
 ---
 
