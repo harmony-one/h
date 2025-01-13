@@ -1,3 +1,15 @@
+2025-01-10 Fri:
+
+Main focus of the current week was to check what is causing RAM usage and it was fresh libp2p resource manager, discussed this with team and checked how nodes are working with enabled resource manager, waiting for merge of [PR-4827](https://github.com/harmony-one/harmony/pull/4827/files) to test how regular will work with disabled resource manager.
+
+Additionally, I've found out how to preserve localnet logs between different runs. It will allow consensus engineers to search against different setups easily and get the feedback.
+
+---
+
+2024-12-30 till 2025-01-07: PTO
+
+---
+
 2024-12-27 Fri:
 
 Main focus of the current week was update devnet to the version with the latest fixes from the team like [PR-4811](https://github.com/harmony-one/harmony/pull/4811) and [PR-4816](https://github.com/harmony-one/harmony/pull/4816). I've highlighted to the team an increase in the CPU/RAM usage.
