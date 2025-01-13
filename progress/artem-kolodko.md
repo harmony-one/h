@@ -1,4 +1,4 @@
-2025-01-13 Mon: yield-enhancer: [changed](https://github.com/harmony-one/yield-enhancer/commit/3d826c18cd2fbcc50ecf07c3d9e5f22a30cf86fd) APY calculation to remove historical APY from calculation, after discussuin with Aaron. [Added](https://github.com/harmony-one/yield-enhancer/commit/52beb4b960d534931254ff8c9896076049fdca40) Harmony logo, [deployed](https://harmony-vault.netlify.app/) new client version.
+2025-01-13 Mon: yield-enhancer: [changed](https://github.com/harmony-one/yield-enhancer/commit/3d826c18cd2fbcc50ecf07c3d9e5f22a30cf86fd) APY calculation to remove historical APY from calculation, after discussion with Aaron. [Added](https://github.com/harmony-one/yield-enhancer/commit/52beb4b960d534931254ff8c9896076049fdca40) Harmony logo, [deployed](https://harmony-vault.netlify.app/) new client version.
 
 ---
 
