@@ -1,3 +1,9 @@
+2025-01-13 Mon: yield-enhancer: [changed](https://github.com/harmony-one/yield-enhancer/commit/3d826c18cd2fbcc50ecf07c3d9e5f22a30cf86fd) APY calculation to remove historical APY from calculation, after discussuin with Aaron. [Added](https://github.com/harmony-one/yield-enhancer/commit/52beb4b960d534931254ff8c9896076049fdca40) Harmony logo, [deployed](https://harmony-vault.netlify.app/) new client version.
+
+---
+
+2025-01-10 Fri: tested Eliza [plugin-env](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-evm), that allows agent to make a token transfers: configured required environment variables and run agent locally; transfers are displayed in logs but transaction hash is incorrect, transfer cannot be foubd in Explorer. Researching the internal structure of Eliza [packages](https://github.com/elizaOS/eliza/tree/develop/packages).
+
 2025-01-09 Thu: yield enhancer: [fixed](https://github.com/harmony-one/yield-enhancer/commit/2ca235a6ed40e81b0790ee1a2cf0c2f2fe50b679) APY calculation since day 1 from launch; pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/878e67209fdb914db2ffc6f07fabae5211e46afa) tokens sorting by last trade timestamp, [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/4749420352f364e85d6344ae36c1cdce1e66523b) minimum message length validation in token comment, [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/7ba031202d7a6e8c6a024061a21a837fbfbe62c3) comments sorting by time
 
 2025-01-08 Wed: pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/705868dda026c4bc110f29d4ca7ba07b347b6f80) [sorting](https://github.com/harmony-one/pump.fun.client/pull/16/commits/f8f268aa51c267deaa6c2f18a1f384811f7e4433) by latest comment on the tokens page, fixed compilation warnings, [deployed](https://pump-one-staging.netlify.app/board) staging client update
