@@ -1,4 +1,15 @@
-2025 Goals:
+2025-01-10 Fri:
+
+**Ledger Integration Progress** : This week, I followed up with Ledger regarding the new Harmony Ledger app. During the meeting, Ledger provided an estimated timeline for the release, targeting the end of January or early February 2025. This progress is a critical step since the old app has been removed from the ledger directory.  
+
+**Staking Data Explorer Development** : Significant progress has been made on the staking data explorer features, with 2.5 out of 4 features successfully deployed on the Harmony testnet explorer. The following updates were implemented: 1) The "Collect Reward" staking transactions now display the exact number of ONE tokens collected, offering users better visibility into their staking rewards. 2) Staking precompile transactions currently remain on the "normal" transaction page instead of being moved to the "staking" transaction page. Moving these transactions would require significant resources. As a workaround, a filter has been implemented to improve user navigation. 3) The staking transactions list page now includes the ONE value involved in staking transactions. This feature will also be extended to the "normal" transactions list page to display the ONE value for staking precompile transactions. Feedback on these features has been shared with Protofire for further refinement.  
+
+**Protocol Updates**  
+An **Out of Memory (OOM)** problem was identified, which appears to be linked to the recent implementation of the resource manager. The team has been investigating the root cause, and a potential fix has been developed and is currently under testing.  
+
+Additionally, the devnet for Shard 1 experienced a recurring consensus loss at the start of each epoch, which occurs every four hours. This issue was traced to an out-of-sync internal validator node, which was unable to propose blocks. The Harmony protocol prioritizes internal nodes as the initial proposers, and they cannot be removed from the committee. For the mainnet, this specific issue will be mitigated in future releases when internal nodes are removed entirely. In this scenario, the first proposer in the committee will be an external validator. If this validator remains out of sync for the entire epoch, it will be automatically excluded from the next election, resolving similar corner cases. 
+
+**2025 Goals:**
 
 In 2025, my focus will be on strengthening Harmony’s network stability, advancing key protocol upgrades, and driving the adoption of new features to improve overall performance and reliability.
 
