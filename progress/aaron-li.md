@@ -1,5 +1,3 @@
----
-
 2025-1-3 Fri (3h): Domain auto-renewal check up and reset. Reconfigure special domains. Review recent implementations and updates. Review research on formalization and proof automation.
 
 ---
