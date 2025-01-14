@@ -1,3 +1,6 @@
+2025-01-13 Mon: Started researching Eliza's AI agent and configured the local environment. Worked on creating a Harmony character and integrated Eliza with a Telegram Bot.
+
+---
 **2024 Q4 Review** 
 
 In Q4 2024, I developed a proprietary array-based bonding curve contract to address licensing constraints with Mint Club's contracts. The implementation included price calculation and token management functionality, with constructor-initialized stages and standardized curve stages across tokens. I built a Next.js client application with token listing, purchasing, and price calculation features. This work was initially planned for integration with 1.country for domain-based token creation and was later contributed to the pump.fun project.
