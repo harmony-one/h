@@ -50,7 +50,7 @@ These goals are designed to empower users, deepen liquidity, and expand Harmony�
 
 2024-12-30 Mon: Coordination with Artem for Athletefi rebrand on staking dashboard.
 
-—
+—--
 
 2024-12-29 Sun: (2.0h) Dive into [Robinhood ux](https://itexus.com/robinhood-ui-secrets-how-to-design-a-sky-rocket-trading-app/) for simplifying DeFi.
 
