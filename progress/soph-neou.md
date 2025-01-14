@@ -9,6 +9,8 @@ An **Out of Memory (OOM)** problem was identified, which appears to be linked to
 
 Additionally, the devnet for Shard 1 experienced a recurring consensus loss at the start of each epoch. This issue was traced to an out-of-sync internal validator node, which was unable to propose blocks. The Harmony protocol prioritizes internal nodes as the initial proposers, and they cannot be removed from the committee. For the mainnet, this specific issue will be mitigated in future releases when internal nodes are removed entirely. In this scenario, the first proposer in the committee will be an external validator. If this validator remains out of sync for the entire epoch, it will be automatically excluded from the next election, resolving similar corner cases. 
 
+---
+
 **2025 Goals:**
 
 In 2025, my focus will be on strengthening Harmony’s network stability, advancing key protocol upgrades, and driving the adoption of new features to improve overall performance and reliability.
