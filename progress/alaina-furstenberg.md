@@ -1,3 +1,5 @@
+2024-01-14 Tue: Situated privacy complaint on Youtube channel. Designed boostDAI logo. Animation for the yield enhancer launch. Tweet + designed a graphic for i.country
+
 2024-01-13 Mon: Writing of week 2 for the January newsletter. Beginning to create marketing materials for the launch of the yield enhancer. Continued reading on i.country and testing of Eliza.
 
 ---
