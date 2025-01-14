@@ -1,3 +1,28 @@
+
+2025-01-08 Wed: 0x prioritization organization and preparation. Main priority is exchange support for seamless onboarding into Harmony, to optimize for metamask default support for 0x and Harmony EVM compatibility.
+
+2025-01-07 Tue: Sync with Li, Artem, and Yuriy about [Pump.one](https://pump.one) and Yield Enhancer. Suggestions for optional [Pump.one](https://pump.one) “opt-in” functionality: allowing users to have a base version of [Pump.fun](https://pump.fun) as well as be able to opt-in for the [Pump.one](https://pump.one) additional features.
+
+2025-01-06 Mon: Yield Enhancer review and testing. Additional APY still set to launch as industry leading on stablecoins.
+
+---
+
+2025-01-05 Sun: (1.0h) Shared document with Soph again. Insight: 0x work is mostly non-technical, but needs a dedicated push.
+
+2025-01-04 Sat: (2.0h) Reviewed [0x prioritization document](https://harmonyone.notion.site/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081).
+
+2025-01-03 Fri: Community call. Prioritization insights from community: “0x” wallet address top priority for seamless entrance to Harmony, and more community representation in 2025 plan.
+
+2025-01-02 Thu: Sync with [Flipguard](https://www.flipguard.xyz/features), discord wallet and bot.
+
+2025-01-01 Wed: New Year’s
+
+2024-12-31 Tue: Read Bitcoin Strategic Reserve documentation, joined Harmony 2025 group.
+
+2024-12-30 Mon: Coordination with Artem for Athletefi rebrand on staking dashboard.
+
+---
+
 2024 Q4 Review:
 
 I architected Harmony's DeFi suite expansion, focusing on accessibility and higher yields, delivering key products to new heights. Swap saw a 300% increase in TVL, and a 4,470% surge in trading volume. Lend followed a similar expansion, reaching a 250% increase in supply.
@@ -27,30 +52,6 @@ Integrate the [ai16z Eliza OS](https://elizaos.ai/) framework into Harmony1Bot t
 These goals are designed to empower users, deepen liquidity, and expand Harmony’s ecosystem with precision and purpose. By focusing on simplicity, innovation, and execution, we will ensure Harmony not only remains competitive but becomes the definitive platform for decentralized finance in 2025 and beyond.
 
 ---
-
-2025-01-08 Wed: 0x prioritization organization and preparation. Main priority is exchange support for seamless onboarding into Harmony, to optimize for metamask default support for 0x and Harmony EVM compatibility.
-
-2025-01-07 Tue: Sync with Li, Artem, and Yuriy about [Pump.one](https://pump.one) and Yield Enhancer. Suggestions for optional [Pump.one](https://pump.one) “opt-in” functionality: allowing users to have a base version of [Pump.fun](https://pump.fun) as well as be able to opt-in for the [Pump.one](https://pump.one) additional features.
-
-2025-01-06 Mon: Yield Enhancer review and testing. Additional APY still set to launch as industry leading on stablecoins.
-
----
-
-2025-01-05 Sun: (1.0h) Shared document with Soph again. Insight: 0x work is mostly non-technical, but needs a dedicated push.
-
-2025-01-04 Sat: (2.0h) Reviewed [0x prioritization document](https://harmonyone.notion.site/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081).
-
-2025-01-03 Fri: Community call. Prioritization insights from community: “0x” wallet address top priority for seamless entrance to Harmony, and more community representation in 2025 plan.
-
-2025-01-02 Thu: Sync with [Flipguard](https://www.flipguard.xyz/features), discord wallet and bot.
-
-2025-01-01 Wed: New Year’s
-
-2024-12-31 Tue: Read Bitcoin Strategic Reserve documentation, joined Harmony 2025 group.
-
-2024-12-30 Mon: Coordination with Artem for Athletefi rebrand on staking dashboard.
-
-—--
 
 2024-12-29 Sun: (2.0h) Dive into [Robinhood ux](https://itexus.com/robinhood-ui-secrets-how-to-design-a-sky-rocket-trading-app/) for simplifying DeFi.
 
