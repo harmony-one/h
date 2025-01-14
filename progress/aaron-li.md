@@ -1,3 +1,17 @@
+2025-1-13 Mon (3h): Review and comment on vault code updates. Detailed review of EIP 3074, 5003, and related notes and oppositions
+
+---
+
+2025-1-11 Sat (0.66h): Review vault code updates
+
+2025-1-9 Thu (5h): Review Java SDK. Detailed review and discussions on yield APY calculation. Review yield enhancer client code, some server code
+
+2025-1-8 Fri (4h): Review vault code, ERC4626 attacks, vulnerabilities and safeguards, discuss issues. Research on Graph indexing and operations; Migrate special domains
+
+2025-1-6 Mon (1.25h): Discussion on protocol updates and account delegation. Review code updates on Pump.ONE. 
+
+---
+
 2025-1-3 Fri (3h): Domain auto-renewal check up and reset. Reconfigure special domains. Review recent implementations and updates. Review research on formalization and proof automation.
 
 ---
