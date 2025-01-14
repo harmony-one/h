@@ -1,4 +1,16 @@
 
+2025-01-13 Mon: Designed boostDAI logo, sync with Alaina for marketing, and further Yield Enhancer testing. Coordinating with Soph for 0x initiative post yield enhancer launch.
+
+---
+
+2025-01-12 Sun: (2.0h) Spoke with community members. Insights: most in favor of using the [harmony community](https://harmonycommunity.one) site as the main site. Insights: rather than 1-1 switch, best would be to take what cannot be left out and bring it to community page.
+
+2025-01-11 Sat: (2.0h) Market research for best use of exchange.one. Insights: Mobile friendly, intent based design, all in ONE place simple DeFi, remove approvals if possible in a way that is similar to abstract chain.
+
+2025-01-10 Fri: Reviewed listings option and protofire PR for lend. Insight: build failing using deprecated actions.
+
+2025-01-09 Thu: Coordination with Community Transaction DAO and CryptoLandDAO outreach, finalization needed for AthleteFi support.
+
 2025-01-08 Wed: 0x prioritization organization and preparation. Main priority is exchange support for seamless onboarding into Harmony, to optimize for metamask default support for 0x and Harmony EVM compatibility.
 
 2025-01-07 Tue: Sync with Li, Artem, and Yuriy about [Pump.one](https://pump.one) and Yield Enhancer. Suggestions for optional [Pump.one](https://pump.one) “opt-in” functionality: allowing users to have a base version of [Pump.fun](https://pump.fun) as well as be able to opt-in for the [Pump.one](https://pump.one) additional features.
