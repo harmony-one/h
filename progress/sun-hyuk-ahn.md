@@ -1,4 +1,16 @@
-2025-01-09 Thu:
+2025-01-14 Tue:
+
+2025-01-13 Mon: Analyzing Uniswap V4' use of transient storage. The main usage is to enable [flash accounting](https://docs.uniswap.org/contracts/v4/overview#flash-accounting). After further reviewing, as of now transient storage seems to be the only requirement.
+
+---
+
+2025-01-12 Sun (3 hr): Overviewing the security considerations, which was more challenging than the other sections due to its memory considerations.
+
+2025-01-11 Sat (2 hr): Continued the document overview.
+
+2025-01-10 Fri: Reviewing EIP-1153 overview, rationale, and implementation ([doc](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1153.md)).
+
+2025-01-09 Thu: Continued looking into the Geth implementation of transient storage.
 
 2025-01-08 Wed: Began looking into EIP 1153 transient storage, required for Uniswap v4 ([article](https://medium.com/@organmo/demystifying-eip-1153-transient-storage-faeabbadd0d) explaining the EIP). Began searching for Geth implementation of transient storage.
 
