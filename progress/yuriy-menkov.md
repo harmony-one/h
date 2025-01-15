@@ -1,3 +1,10 @@
+
+2025-01-14 Tue: [Extended](https://github.com/harmony-one/unify-bridge-assets) the existing LZ Proxy contract to store the number of tokens locked on the external chain side on the Harmony side. Increase and decrease this value accordingly during transfers. Added contract-level validation.
+
+2025-01-13 Mon: [Completed](https://github.com/harmony-one/erc-4626/commit/59962af1c87c3b5881334615bf14d9a264b39dc6) corrections based on review comments: removed the subtraction of the fee basis value when calculating the commission, corrected the tests. Continue work on unify bridge assets.
+
+---
+
 2025-01-10 Fri: Worked on Unify Bridge Assets new proxy contract, based on [task](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA/edit?usp=sharing). Another round of testing for pump.one contracts (update from Aaron).
 
 2025-01-09 Thu: [Completed](https://github.com/harmony-one/erc-4626/pull/6/files) fixing all tasks on the erc4626 issues [list](https://github.com/harmony-one/erc-4626/issues). Prepared a list of improvements: fee calculation, resolved unnecessary and risky dependencies, added fallback methods to withdraw assets for reward contract, use of the current balance in case it is not enough for rewards per epoch.
