@@ -1,4 +1,6 @@
-2025-01-14 Tue:
+2025-01-15 Wed:
+
+2025-01-14 Tue: Continued Uniswap V4 implementation [review](https://docs.uniswap.org/contracts/v4/reference/core/libraries/transient-state-library). The key concept is to enable Transient State Library, which manages transient state in the Pool Manager contract and handles operations related to reserves, delta counts, and locking state.
 
 2025-01-13 Mon: Analyzing Uniswap V4' use of transient storage. The main usage is to enable [flash accounting](https://docs.uniswap.org/contracts/v4/overview#flash-accounting). After further reviewing, as of now transient storage seems to be the only requirement.
 
