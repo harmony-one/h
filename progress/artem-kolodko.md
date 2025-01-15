@@ -1,3 +1,5 @@
+2025-01-14 Tue: yield-enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/d1a080c0ac4472dc85e9097cb28c6c5c422293eb) current exchange ratio to "How it works" section; disable Deposit / Withdraw buttons if no amount is entered in the input field; updated the [client](https://harmony-vault.netlify.app/). Pump.ONE: started final tests on Harmony Testnet: [deployed](https://explorer.testnet.harmony.one/address/0xdb6E7eb8Bac36981A910928F8342825113F0Dbc6) a contracts with production bonding curve params, started testing the client.
+
 2025-01-13 Mon: yield-enhancer: [changed](https://github.com/harmony-one/yield-enhancer/commit/3d826c18cd2fbcc50ecf07c3d9e5f22a30cf86fd) APY calculation to remove historical APY from calculation, after discussion with Aaron. [Added](https://github.com/harmony-one/yield-enhancer/commit/52beb4b960d534931254ff8c9896076049fdca40) Harmony logo, [deployed](https://harmony-vault.netlify.app/) new client version.
 
 ---
