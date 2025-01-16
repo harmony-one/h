@@ -1,3 +1,7 @@
+2024-01-16 Thu: Sync with Li Amanda and Rika. Action items:
+
+2024-01-15 Wed: Continuation of animation for yield enhancer launch. Tweet with [LayerZero](https://x.com/harmonyprotocol/status/1879610260601905181) and [Mona](https://x.com/harmonyprotocol/status/1879654950126710925).
+
 2024-01-14 Tue: Situated privacy complaint on Youtube channel. Designed boostDAI logo. Animation for the yield enhancer launch. Tweet + designed a graphic for i.country
 
 2024-01-13 Mon: Writing of week 2 for the January newsletter. Beginning to create marketing materials for the launch of the yield enhancer. Continued reading on i.country and testing of Eliza.
