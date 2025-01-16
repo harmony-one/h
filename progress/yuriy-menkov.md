@@ -1,4 +1,8 @@
 
+2025-01-16 Thu: Deployed a usdc converter with test tokens, created an [example](https://github.com/harmony-one/usdc-converter/blob/main/scripts/example.js) of use with ethers. Shared instructions with Teo for further development of the interface. Working on optimizing the Proxy contract.
+
+2025-01-15 Wed: [Completed](https://github.com/harmony-one/usdc-converter/tree/main) USDC Converter contract: allow converting legacy USDC to USDC.e at a rate of 1-1. Added e2e tests. Currently working with test tokens.
+
 2025-01-14 Tue: [Extended](https://github.com/harmony-one/unify-bridge-assets) the existing LZ Proxy contract to store the number of tokens locked on the external chain side on the Harmony side. Increase and decrease this value accordingly during transfers. Added contract-level validation.
 
 2025-01-13 Mon: [Completed](https://github.com/harmony-one/erc-4626/commit/59962af1c87c3b5881334615bf14d9a264b39dc6) corrections based on review comments: removed the subtraction of the fee basis value when calculating the commission, corrected the tests. Continue work on unify bridge assets.
