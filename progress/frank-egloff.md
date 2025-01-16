@@ -1,3 +1,7 @@
+2024-01-15 Wed: Migrating Harmony agent to Eliza's starter project architecture. Exploring GitBook plugin potential for the Harmony agent documentation. Working on fixing client-direct module endpoints for agent creation.
+
+2025-01-14 Tue: Deep diving into Eliza's core architecture, noting its plugin ecosystem that extends to SOL, NEAR, TON, AVAX, BNB, and Lens Protocol. Testing character creation mechanics using Harmony chain with Telegram bot integration. Worked on an agent creation user-friendly feature.
+
 2025-01-13 Mon: Started researching Eliza's AI agent and configured the local environment. Worked on creating a Harmony character and integrated Eliza with a Telegram Bot.
 
 ---
