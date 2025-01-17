@@ -1,4 +1,8 @@
-2025-01-15 Wed:
+2025-01-17 Fri: (Write unit tests for PR 4833)
+
+2025-01-16 Thu: Completed the [write up](https://brazen-need-a0a.notion.site/EIP-1153-Transient-Storage-Opcodes-17e04f79c1428049983ff124c26cbc1c?pvs=73). Reviewed, tested (accessing gas prices through hmy namespace calls), and approved [PR 4759](https://github.com/harmony-one/harmony/pull/4759/), which introduces effective gas price. Raised [PR 4883](https://github.com/harmony-one/harmony/pull/4833), which introduces BlockOverrides and StateOverrides to the `eth_call` required for bundlers.
+
+2025-01-15 Wed: Initiated the [write up](https://brazen-need-a0a.notion.site/EIP-1153-Transient-Storage-Opcodes-17e04f79c1428049983ff124c26cbc1c?pvs=73) including the problem statement, description, implementation details, and concerns of EIP-1153.
 
 2025-01-14 Tue: Continued Uniswap V4 implementation [review](https://docs.uniswap.org/contracts/v4/reference/core/libraries/transient-state-library). The key concept is to enable Transient State Library, which manages transient state in the Pool Manager contract and handles operations related to reserves, delta counts, and locking state.
 
