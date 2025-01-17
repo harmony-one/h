@@ -1,3 +1,8 @@
+2025-01-16 Thu: [Frontend changes](https://github.com/harmony-one/yield-enhancer/pull/2) to Yield Enhancer. Community TX DAO coordination.
+
+2025-01-15 Wed: Researched JSON and xml [AI-optimization](https://www.restack.io/p/ai-data-management-xml-vs-json-answer) for documents. Further conversations with community tx dao for AthleteFi.
+
+2025-01-14 Tue: Reworking boostDAI logo to align with copyright, added marketing copy. 
 
 2025-01-13 Mon: Designed boostDAI logo, sync with Alaina for marketing, and further Yield Enhancer testing. Coordinating with Soph for 0x initiative post yield enhancer launch.
 
