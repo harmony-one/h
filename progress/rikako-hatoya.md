@@ -20,6 +20,10 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
+2025-01-16 Thu: Team sync, refined my action items/deliverables for the next few weeks. Started working on first deliverable: compiling list of product testing/search for repos. 
+
+2025-01-15 Wed: Continuation of work on Alphageometry. Exploring ideas while testing out lean copilot/lean dojo.
+
 2025-01-14 Tue: Continued paper readings. Read through machine assisted proofs (Terrence Tao's team), AlphaProof/AlphaGeometry, LLMs.
 
 2025-01-13 Mon: Continued further research on [AGI for formal math](https://harmonyone.notion.site/AGI-for-Formal-Math-Proof-Code-16aa38fc048780e88b33fc0ce0b8892f). Looked into papers for different AI models mentioned on [Putnam leaderboard (ABEL, StepProver, etc)](https://trishullab.github.io/PutnamBench/leaderboard.html).
