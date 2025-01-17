@@ -22,7 +22,7 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 2025-01-16 Thu: Team sync, refined my action items/deliverables for the next few weeks. Started working on first deliverable: compiling list of product testing/search for repos. 
 
-2025-01-15 Wed: Continuation of work on Alphageometry. Exploring ideas while testing out lean copilot/lean dojo.
+2025-01-15 Wed: Continuation of work on Alphageometry. Exploring ideas while testing out [lean copilot/lean dojo](https://github.com/lean-dojo/LeanCopilot).
 
 2025-01-14 Tue: Continued paper readings. Read through machine assisted proofs (Terrence Tao's team), AlphaProof/AlphaGeometry, LLMs.
 
