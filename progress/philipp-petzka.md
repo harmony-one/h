@@ -1,3 +1,11 @@
+2025-01-18 Sat: The last two weeks were occupied by testing the Harmony Yield Enhancer, planning the next steps for the product, and preparing a marketing strategy for its launch. I curated a list of KOLs focussing on yield farming and DeFi that I can contact at launch. I prepared content to promote boostDAI strategies on the Harmony Twitter account.
+
+After launch, cross-chain deposits and 1-click deposits with any asset from any chain should be possible. I am currently talking with Across as a partner to enable those features. 
+
+In general, a broader audience outside of the current Harmony community needs to be reached. I had a discussion with Zi about potential cross-community marketing, especially non-crypto natives.
+
+
+
 Q4 Review
 
 My first 2.5 months at Harmony were all about assessing the status Quo, analyzing the ecosystem for its strengths and weaknesses, and identifying a potential direction where to go from here. In terms of Defi, I developed the strategy to funnel returns offered outside of Harmony into our ecosystem. In addition, there are two user groups that we can target: 
