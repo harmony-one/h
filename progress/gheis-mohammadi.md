@@ -1,3 +1,5 @@
+2025-01-18 Sat: PTO (2025-01-13 - 2025-01-17: 5 days)
+
 2025-01-11 Sat:
 Last week, I finalized [PR #4824](https://github.com/harmony-one/harmony/pull/4824), addressing team feedback, adding tests, and resolving issues. The PR has another small issue; after addressing that, it will be ready to be merged.  
 
