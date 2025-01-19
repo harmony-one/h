@@ -20,6 +20,10 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
+2025-01-18 Sat: Continuation of work on Lean. Worked throug exercises for mathematics in Lean textbook.
+
+2025-01-17 Fri: Continuation of AI for math. Product testing for next launch idea.
+
 2025-01-16 Thu: Team sync, refined my action items/deliverables for the next few weeks. Started working on first deliverable: compiling list of product testing/search for repos. 
 
 2025-01-15 Wed: Continuation of work on Alphageometry. Exploring ideas while testing out [lean copilot/lean dojo](https://github.com/lean-dojo/LeanCopilot).
