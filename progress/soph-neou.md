@@ -1,3 +1,10 @@
+2025-01-08 Fri:
+**Blockscout Explorer Updates**: After refining and testing features 1, 2, and 3, they were approved for deployment to production, and the community provided positive feedback. The inclusion of the dollar-equivalent ONE value, initially planned within these features, was deferred to a newly designated feature (#5). Additionally, discussions and clarifications were made for Feature 4, which is aimed at displaying a summary of staking accounts, in preparation for its upcoming implementation.
+
+**Ledger Update**: The previously submitted PR did not pass Ledger’s CI tests due to missing information and the icon not adhering to their recommendations. These issues have been addressed, and the updated PR is now pending approval.
+
+**Protocol Update**: The `v2025.0.0` PR has been created and is currently under review. This update includes a critical fix for the dual consensus proposal bug.
+
 2025-01-10 Fri:
 
 **Ledger Integration Progress** : This week, I followed up with Ledger regarding the new Harmony Ledger app. During the meeting, Ledger provided an estimated timeline for the release, targeting the end of January or early February 2025. This progress is a critical step since the old app has been removed from the ledger directory.  
