@@ -1,4 +1,10 @@
 
+2025-01-20 Mon: Worked on updating the [frontend part](https://github.com/harmony-one/layerzero-bridge.frontend) of the bridge application - added checks for the available transfer limit for all USDC tokens by calling a new contract proxy method. Also working on displaying warnings and changing token links.
+
+---
+
+2025-01-17 Fri: Refactoring of the proxy layerzero oft contract - updating the solidity version, adding service methods to manage contract parameters, adjusted the calculation of the amount of tokens during transfer, added safeERC20.
+
 2025-01-16 Thu: Deployed a usdc converter with test tokens, created an [example](https://github.com/harmony-one/usdc-converter/blob/main/scripts/example.js) of use with ethers. Shared instructions with Teo for further development of the interface. Working on optimizing the Proxy contract.
 
 2025-01-15 Wed: [Completed](https://github.com/harmony-one/usdc-converter/tree/main) USDC Converter contract: allow converting legacy USDC to USDC.e at a rate of 1-1. Added e2e tests. Currently working with test tokens.
