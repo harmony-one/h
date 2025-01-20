@@ -1,3 +1,9 @@
+2025-01-17 Fri:
+- I, Ulad and Soph devised and implemented an approach to repository testing that eliminates the need to explicitly specify the test branch in the main repository. This avoids hardcoding and significantly enhances development flexibility.
+- Together with Ulad and Soph, I participated in discussions about potential additional testing scenarios. The current approach no longer meets our needs as it tests an outdated model. In its current state, we need to validate scenarios where a node has multiple keys and/or multiple validators running on the same node. Brute-forcing all possible combinations would exponentially increase test execution time or make it impractical. At this stage, we are exploring optimal solutions.
+- Ulad and I discussed potential additional testing scenarios for the view change mechanism, such as disabling a random node and verifying the network’s operability under such conditions. Currently, we have agreed to start with disabling a specific node, with the long-term goal of transitioning to random node selection.
+- My main focus this week has been on fixing an issue in the view change mechanism. The situation is complicated by the large number of possible configurations. I estimate my current progress at 30%.
+
 2025-01-10 Fri:
 - Updated the Message struct to ensure alignment with Ethereum code standards.
 - Enhanced test scripts to automatically download the required branch, leveraging the TRAVIS_PULL_REQUEST_BRANCH variable. This eliminates the need for hardcoded branch names in the scripts.
