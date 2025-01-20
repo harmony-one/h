@@ -4,6 +4,8 @@
 - Ulad and I discussed potential additional testing scenarios for the view change mechanism, such as disabling a random node and verifying the network’s operability under such conditions. Currently, we have agreed to start with disabling a specific node, with the long-term goal of transitioning to random node selection.
 - My main focus this week has been on fixing an issue in the view change mechanism. The situation is complicated by the large number of possible configurations. I estimate my current progress at 30%.
 
+--- 
+
 2025-01-10 Fri:
 - Updated the Message struct to ensure alignment with Ethereum code standards.
 - Enhanced test scripts to automatically download the required branch, leveraging the TRAVIS_PULL_REQUEST_BRANCH variable. This eliminates the need for hardcoded branch names in the scripts.
