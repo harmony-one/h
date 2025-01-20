@@ -1,3 +1,8 @@
+2025-01-17 Fri: Resolved runtime agent creation issues and implemented endpoints for [agent listing and creation](https://github.com/harmony-one/eliza-harmony/pull/1). Set up GitBook configuration in harmony-eliza repo - plugin integration successful but content retrieval pending.
+
+2025-01-16 Thu: GitBook plugin not available as npm package, preventing direct import to harmony-eliza-agent fork. Testing plugin functionality in harmony-eliza main repo before creating our custom implementation.
+And for continuity, here's January 17th again:
+
 2024-01-15 Wed: Migrating Harmony agent to Eliza's starter project architecture. Exploring GitBook plugin potential for the Harmony agent documentation. Working on fixing client-direct module endpoints for agent creation.
 
 2025-01-14 Tue: Deep diving into Eliza's core architecture, noting its plugin ecosystem that extends to SOL, NEAR, TON, AVAX, BNB, and Lens Protocol. Testing character creation mechanics using Harmony chain with Telegram bot integration. Worked on an agent creation user-friendly feature.
