@@ -20,6 +20,8 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
+2025-01-19 Sun: Continued work on Lean, uploaded work [here](https://github.com/rikaa15/mathematics_in_lean) (up to chap 6). Started looking into Buzzard's FLT project (reading through paper).
+
 2025-01-18 Sat: Continuation of work on Lean. Worked throug exercises for mathematics in Lean textbook.
 
 2025-01-17 Fri: Continuation of AI for math. Product testing for next launch idea.
