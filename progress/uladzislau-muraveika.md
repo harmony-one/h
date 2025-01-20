@@ -1,6 +1,16 @@
+2025-01-17 Fri:
+
+One of the main topics was to implement storage of the localnet logs between different runs, done with persistent Loki in docker. Main advantage, you can start log aggregations and run localnet any number of times, all logs will be saved and can be searched and this will speed up feedback loop to the developer.
+
+The other one topic was testing and there were new tests for the fresh `effectiveGasPrice` field in the [transaction receipt RPC calls](https://github.com/harmony-one/harmony-test/pull/34/).
+
+And finally, after productive discussion with Soph and Konstantin I've returned [logic](https://github.com/harmony-one/harmony/pull/4832) where harmony-test repo will fetch the same branch name with test if branch exists and in other cases it will be master. Reasoning - simplification and no more extra steps with manual pointing to the right branch.
+
+---
+
 2025-01-10 Fri:
 
-Main focus of the current week was to check what is causing RAM usage and it was fresh libp2p resource manager, discussed this with team and checked how nodes are working with enabled resource manager, waiting for merge of [PR-4827](https://github.com/harmony-one/harmony/pull/4827/files) to test how regular will work with disabled resource manager.
+Main focus of the this week was to check what is causing RAM usage and it was fresh libp2p resource manager, discussed this with team and checked how nodes are working with enabled resource manager, waiting for merge of [PR-4827](https://github.com/harmony-one/harmony/pull/4827/files) to test how regular node will work with disabled resource manager.
 
 Additionally, I've found out how to preserve localnet logs between different runs. It will allow consensus engineers to search against different setups easily and get the feedback.
 
