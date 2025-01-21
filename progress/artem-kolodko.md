@@ -1,3 +1,7 @@
+2025-01-20 Mon: ElizaAI agent: researched docs and various plugins to use with Harmony chain, configured [plugin-env](https://github.com/elizaOS/community-plugins/tree/develop/packages/plugin-evm), tested wallet balance check and ONE token transfers
+
+---
+
 2025-01-17 Fri: Eliza AI agents: researching [plugins](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-evm) structure, started working on Harmony EVM agent plugin. Explorer client: [merged](https://github.com/protofire/bs-frontend/pull/23/commits/382ec47d7d38f2c4504649d54fe1774055d2a745) the staging branch, which includes recent updates to staking transaction values, into Pull Request #23 with transaction value in USD
 
 2025-01-16 Thu: yield enhancer: fixed bug with max button amount, added 18 decimals support, [added](https://github.com/harmony-one/yield-enhancer/commit/d62156c303775bcf496efd8f29ceeebca833b601) insufficient amount check; [reviewed](https://github.com/harmony-one/yield-enhancer/pull/2) and merged PR#2 from Theo, [updated](https://harmony-vault.netlify.app/) the client
