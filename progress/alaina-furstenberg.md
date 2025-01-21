@@ -1,4 +1,14 @@
-2024-01-16 Thu: Sync with Li Amanda and Rika. Action items:
+2024-01-20 Mon: MLK holiday
+
+---
+
+2024-01-19 Sun: design of graphics in preparation for PTO.
+
+2024-01-18 Sat: Posting of community section to X.
+
+2024-01-17 Fri: Sync with Theo for boostDAI and AI agent marketing. Updating of the community section. Writing of week 3 for the january newsletter.
+
+2024-01-16 Thu: Sync with Li Amanda and Rika. Action items: research AI marketing tools to target developers. Animation for boostDAI. 
 
 2024-01-15 Wed: Continuation of animation for yield enhancer launch. Tweet with [LayerZero](https://x.com/harmonyprotocol/status/1879610260601905181) and [Mona](https://x.com/harmonyprotocol/status/1879654950126710925).
 
