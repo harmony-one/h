@@ -20,7 +20,9 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
-2025-01-20 Mon: MLK holiday. Worked on chapter 7 of mathematics in lean, also looked through more on Fermat's Last Theorem from Buzzard.
+2025-01-21 Tue: Continued through chapter 7 & 8 for Mathematics in Lean. Read paper on DeepSeek-R1.
+
+2025-01-20 Mon: MLK holiday. Worked on chapter 7 of Mathematics in Lean, also looked through more on Fermat's Last Theorem from Buzzard.
 
 ---
 
