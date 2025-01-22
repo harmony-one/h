@@ -1,3 +1,8 @@
+2025-01-21 Tue: Added custom GitBook plugin implementation to [harmony-eliza-agent](https://github.com/harmony-one/eliza-harmony-agent/pull/1) and tested with Harmony's Eliza Bot. Configuring fly.io deployment for internal testing. Fixing 1Bot /send command functionality.
+
+2025-01-20 Mon: Troubleshooting 1Bot wallet-connect issue affecting external balance transfers based on user support request. Enhanced our GitBook plugin response handling - implemented [auto-retry](https://github.com/harmony-one/eliza-harmony/pull/1) with suggested follow-up queries to improve AI response quality when initial user inquiry lacks clarity.
+
+---
 2025-01-17 Fri: Resolved runtime agent creation issues and implemented endpoints for [agent listing and creation](https://github.com/harmony-one/eliza-harmony/pull/1). Set up GitBook configuration in harmony-eliza repo - plugin integration successful but content retrieval pending.
 
 2025-01-16 Thu: GitBook plugin not available as npm package, preventing direct import to harmony-eliza-agent fork. Testing plugin functionality in harmony-eliza main repo before creating our custom implementation.
