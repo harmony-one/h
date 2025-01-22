@@ -20,6 +20,10 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
+2025-01-20 Mon: MLK holiday. Worked on chapter 7 of mathematics in lean, also looked through more on Fermat's Last Theorem from Buzzard.
+
+---
+
 2025-01-19 Sun: Continued work on Lean, uploaded work [here](https://github.com/rikaa15/mathematics_in_lean) (up to chap 6). Started looking into Buzzard's FLT project (reading through [paper](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)).
 
 2025-01-18 Sat: Continuation of work on Lean. Worked throug exercises for mathematics in Lean textbook.
