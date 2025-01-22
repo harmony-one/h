@@ -1,3 +1,5 @@
+2024-01-21 Tue: Preparation of [launch thread](https://www.notion.so/harmonyone/pump-one-launch-materials-182a38fc04878080970cd2d93437b962) for pump.one and animation of a promotional graphic. Began draft revising wording on the pump.one rules, for clarity. [Tweet]() on b.country plus design of a graphic in Midjourney. Resolution of Ledger icons with Soph. Sync with team and 1 v 1 with Li. Action items: find AI marketing tools to amplify our impact.
+
 2024-01-20 Mon: MLK holiday
 
 ---
