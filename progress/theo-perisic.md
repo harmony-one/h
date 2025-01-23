@@ -1,3 +1,17 @@
+2025-01-22 Wed: Completed first draft for universal bridge UI, sync with Philipp for lecture content. Continued planning for scheduled sync with Alaina tomorrow.
+
+2025-01-21 Tue: Team sync for bridge, yield boost, and universal bridge prioritization. Added questions for Philipp. 
+
+2025-01-20 Mon: Federal holiday
+
+---
+
+2025-01-19 Sun: (3.0h) Deep dive into [AGI formal math](https://i.country) and [Delphi article](https://members.delphidigital.io/reports/the-year-ahead-for-ai-depin-2025#2025-predictions--living-the-inflection-0399https://members.delphidigital.io/reports/the-year-ahead-for-ai-depin-2025#2025-predictions--living-the-inflection-0399) on "The Year Ahead for AI + DePIN 2025".
+
+2025-01-18 Sat: (2.0h) Refined marketing strategy for boostDAI.
+
+2025-01-17 Fri: Docs walkthrough with Alaina and marketing planning. 
+
 2025-01-16 Thu: [Frontend changes](https://github.com/harmony-one/yield-enhancer/pull/2) to Yield Enhancer. Community TX DAO coordination.
 
 2025-01-15 Wed: Researched JSON and xml [AI-optimization](https://www.restack.io/p/ai-data-management-xml-vs-json-answer) for documents. Further conversations with community tx dao for AthleteFi.
