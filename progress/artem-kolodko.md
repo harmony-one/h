@@ -1,3 +1,5 @@
+2025-01-22 Wed: Eliza AI agent: [created](https://github.com/harmony-one/eliza-harmony/commit/128623ccfa2e540c343c55e69807d19c52f65104) base structures to implement Harmony plugin with staking and validators info; tested responses with simple requests to Eliza bot; started working on internal logic
+
 2025-01-21 Tue: started working on harmony plugin based on [Eliza EVM](https://github.com/harmony-one/eliza-harmony/tree/develop/packages/plugin-evm) plugin. Discussed with the team about features to implement, explored Harmony staking and Swap API.
 
 2025-01-20 Mon: ElizaAI agent: researched docs and various plugins to use with Harmony chain, configured [plugin-env](https://github.com/elizaOS/community-plugins/tree/develop/packages/plugin-evm), tested wallet balance check and ONE token transfers
