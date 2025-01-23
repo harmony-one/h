@@ -1,4 +1,8 @@
 
+2025-01-22 Wed: Synchronized with Artem regarding improvements to the pump.one contract. Worked on an upgradable version of the Token Factory contract.
+
+2025-01-21 Tue: Tested unify assets full flow: transferred bsсUSDC to harmony, converted to USDCe, transferred back through a proxy USDCe contract. Worked on rest lz bridge frontend fixes: renaming legacy tokens to legacyAssets, adding lz logo banner. Waiting for a decision from Theo and Alaina on the way to integrate the USDCe converter: inside the bridge application or redirect to a separate application.
+
 2025-01-20 Mon: Worked on updating the [frontend part](https://github.com/harmony-one/layerzero-bridge.frontend) of the bridge application - added checks for the available transfer limit for all USDC tokens by calling a new contract proxy method. Also working on displaying warnings and changing token links.
 
 ---
