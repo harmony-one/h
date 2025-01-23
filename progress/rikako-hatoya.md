@@ -1,25 +1,3 @@
-**2025 Goals:**
-
-In 2025, my focus will be on developing AI agents for Twitter, using automation and natural language processing to boost engagement. I also plan to integrate decentralized identity and tokenized rewards to streamline user onboarding, support developers, and promote dApps. By merging AI and blockchain, I aim to innovate community management and reward mechanisms, driving adoption in decentralized systems.
-
-I will enhance the Telegram bot (Hod1) by incorporating features from Human Protocol and Harmony1Bot, creating gamified experiences like daily challenges and prediction games to attract a broader user base. Incentives like token rewards, NFTs, or exclusive perks will foster community engagement and improve user retention.
-
-Lastly, I plan to expand my backend development skills by contributing to projects like Pump.fun, focusing on protocol engineering, contract development, and community-driven initiatives. Whether refining smart contracts, improving cross-chain interoperability, or building DeFi tools, I aim to combine technical growth with impactful contributions to the ecosystem.
-
----
-
-**2024 Q4 Review:**
-
-Over the past three months, I focused on implementing bonding curve token models, achieving millisecond-level timestamp transcription for video content, and testing solutions within the emerging AI agent ecosystem.
-
-For the bonding curve implementation, I developed and tested smart contracts that integrate bonding curve logic to enable dynamic token pricing based on supply and demand. This involved creating bonding curves using mathematical functions such as linear, exponential, and sigmoid curves. I deployed demos to showcase real-time price adjustments as tokens were bought and sold, simulating practical use cases for decentralized finance (DeFi) platforms. Additionally, I explored bonding curve mechanisms for liquidity provisioning and fundraising models, ensuring the contracts were optimized for gas efficiency and seamless integration with existing blockchain infrastructures.
-
-On the transcription side, I achieved millisecond-level precision in video content processing. Using ffmpeg along with advanced AI transcription tools like Whisper, Deepgram, and AssemblyAI, I implemented an end-to-end pipeline accessible through the command-line interface. The pipeline automates the entire process: downloading video streams from .m3u8 file types, converting to .mp4, generating transcriptions with millisecond-aligned timestamps in .srt format, and overlaying transcriptions onto the original video to produce a final .mp4 output. I further optimized workflows for batch processing and added speaker diarization capabilities to improve usability for multi-speaker scenarios.
-
-Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
-
----
-
 2025-01-21 Tue: Continued through chapter 7 & 8 for Mathematics in Lean. Read paper on DeepSeek-R1.
 
 2025-01-20 Mon: MLK holiday. Worked on chapter 7 of Mathematics in Lean, also looked through more on Fermat's Last Theorem from Buzzard.
@@ -70,6 +48,26 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 2024-12-31 Tue: Continued working on mathematics in lean workbook. Further research on adoption of Lean and open source projects.
 
 2024-12-30 Mon: Started working on Mathematics in Lean workbook. Also read through Lean conference paper ("bridging formal mathematics and software verification").
+
+**2025 Goals:**
+
+In 2025, my focus will be on developing AI agents for Twitter, using automation and natural language processing to boost engagement. I also plan to integrate decentralized identity and tokenized rewards to streamline user onboarding, support developers, and promote dApps. By merging AI and blockchain, I aim to innovate community management and reward mechanisms, driving adoption in decentralized systems.
+
+I will enhance the Telegram bot (Hod1) by incorporating features from Human Protocol and Harmony1Bot, creating gamified experiences like daily challenges and prediction games to attract a broader user base. Incentives like token rewards, NFTs, or exclusive perks will foster community engagement and improve user retention.
+
+Lastly, I plan to expand my backend development skills by contributing to projects like Pump.fun, focusing on protocol engineering, contract development, and community-driven initiatives. Whether refining smart contracts, improving cross-chain interoperability, or building DeFi tools, I aim to combine technical growth with impactful contributions to the ecosystem.
+
+---
+
+**2024 Q4 Review:**
+
+Over the past three months, I focused on implementing bonding curve token models, achieving millisecond-level timestamp transcription for video content, and testing solutions within the emerging AI agent ecosystem.
+
+For the bonding curve implementation, I developed and tested smart contracts that integrate bonding curve logic to enable dynamic token pricing based on supply and demand. This involved creating bonding curves using mathematical functions such as linear, exponential, and sigmoid curves. I deployed demos to showcase real-time price adjustments as tokens were bought and sold, simulating practical use cases for decentralized finance (DeFi) platforms. Additionally, I explored bonding curve mechanisms for liquidity provisioning and fundraising models, ensuring the contracts were optimized for gas efficiency and seamless integration with existing blockchain infrastructures.
+
+On the transcription side, I achieved millisecond-level precision in video content processing. Using ffmpeg along with advanced AI transcription tools like Whisper, Deepgram, and AssemblyAI, I implemented an end-to-end pipeline accessible through the command-line interface. The pipeline automates the entire process: downloading video streams from .m3u8 file types, converting to .mp4, generating transcriptions with millisecond-aligned timestamps in .srt format, and overlaying transcriptions onto the original video to produce a final .mp4 output. I further optimized workflows for batch processing and added speaker diarization capabilities to improve usability for multi-speaker scenarios.
+
+Additionally, I delved into the emerging AI agent ecosystem, testing platforms such as Virtuals Fun, Holoworld, and vvaifu for AI character creation and autonomy. I explored repositories like lalalune's Magick and Eliza, researching ways to implement and leverage these agents effectively. In parallel, I investigated pump.one contracts to identify opportunities for integrating AI and decentralized technologies, driving practical and scalable solutions.
 
 ---
 
