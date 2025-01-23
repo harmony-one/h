@@ -49,6 +49,8 @@
 
 2024-12-30 Mon: Started working on Mathematics in Lean workbook. Also read through Lean conference paper ("bridging formal mathematics and software verification").
 
+---
+
 **2025 Goals:**
 
 In 2025, my focus will be on developing AI agents for Twitter, using automation and natural language processing to boost engagement. I also plan to integrate decentralized identity and tokenized rewards to streamline user onboarding, support developers, and promote dApps. By merging AI and blockchain, I aim to innovate community management and reward mechanisms, driving adoption in decentralized systems.
