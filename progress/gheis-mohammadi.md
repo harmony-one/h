@@ -1,4 +1,18 @@
+2025-01-25 Sat:  
+
+Last week, we finalized and released **v2025.0.0**, marking a significant improvement for the project.  
+
+I primarily focused on resolving issues with [PR #4824](https://github.com/harmony-one/harmony/pull/4824). The PR had a fatal error causing tests to fail when one of the localnet nodes restarted. After thorough investigation, I identified and fixed the issue, improving the PR in the process. Following a detailed review by the team, the PR was successfully merged into the dev branch.  
+
+In addition to this, I reviewed several other PRs, closed some older ones, and rebased the latest ones to prepare them for merging. We also had discussions about deploying stream sync on the devnet. The team agreed to start with a limited deployment on "stream net", a subset of nodes in the devnet, to validate its performance and stability.  
+
+During these discussions, we identified another issue at the chain setup level, which is currently under investigation. 
+
+---
+
 2025-01-18 Sat: PTO (2025-01-13 - 2025-01-17: 5 days)
+
+---
 
 2025-01-11 Sat:
 Last week, I finalized [PR #4824](https://github.com/harmony-one/harmony/pull/4824), addressing team feedback, adding tests, and resolving issues. The PR has another small issue; after addressing that, it will be ready to be merged.  
