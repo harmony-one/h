@@ -1,3 +1,7 @@
+2025-01-23 (Thu): Enhanced the [Eliza Web3 features document](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md) by adding precise URL references and refining plugin classifications. Encountered challenges with Docker configurations during the deployment of Eliza's Agent on Fly.io.
+
+2025-01-22 (Wed): [Introduced Harmonious](https://github.com/harmony-one/eliza-harmony-agent/pull/1), a character with a fun, optimistic, and harmonious tone, to Eliza's Harmony Agent. Analyzed the Eliza framework repository to identify blockchain plugins and compiled a comprehensive [feature list](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md). Made progress on deploying Harmony's Eliza Agent on Fly.io.
+ 
 2025-01-21 Tue: Added custom GitBook plugin implementation to [harmony-eliza-agent](https://github.com/harmony-one/eliza-harmony-agent/pull/1) and tested with Harmony's Eliza Bot. Configuring fly.io deployment for internal testing. Fixing 1Bot /send command functionality.
 
 2025-01-20 Mon: Troubleshooting 1Bot wallet-connect issue affecting external balance transfers based on user support request. Enhanced our GitBook plugin response handling - implemented [auto-retry](https://github.com/harmony-one/eliza-harmony/pull/1) with suggested follow-up queries to improve AI response quality when initial user inquiry lacks clarity.
