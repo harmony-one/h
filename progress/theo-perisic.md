@@ -1,3 +1,5 @@
+2025-01-23 Thu: Submitted pull request for [universal bridge](https://github.com/harmony-one/usdc-converter/pull/1) for usdc.
+
 2025-01-22 Wed: Completed first draft for universal bridge UI, sync with Philipp for lecture content. Continued planning for scheduled sync with Alaina tomorrow.
 
 2025-01-21 Tue: Team sync for bridge, yield boost, and universal bridge prioritization. Added questions for Philipp. 
