@@ -1,87 +1,70 @@
 # Eliza Web3 Plugin Ecosystem
 
-## Core EVM Plugin Dependencies
-The following plugins extend or use Eliza's base EVM plugin:
+## Plugin Architecture
 
-1. Avalanche
-- Inherits EVM base functionality
-- Extends with Avalanche-specific features
-- Uses EVM wallet functionality
-
-2. Cronos zkEVM
-- Built on EVM base functionality
-- Uses EVM hooks and wallet providers
-- Customizes for zkEVM specific features
-
-3. Story Protocol
-- Utilizes EVM for wallet interactions
-- Uses core EVM transaction handling
-- Extends with IP/licensing features
-
-4. zkSync Era
-- Uses EVM for base transactions
-- Extends with zkSync specific optimizations
-- Shares EVM wallet architecture
+Each plugin implements independent functionality, with no shared base implementation.
 
 ## Plugin Categories
 
-### 1. Basic Token Operations
-Common features: transfers, balances, transactions
-- Chains: Arthera, Avalanche*, Binance, Cosmos, Cronos zkEVM*, EVM (base), Flow, Fuel, Massa, Movement, MultiversX, NEAR, Quai, Starknet, Sui, TON, zkSync Era*
-(*EVM-based implementations)
+### 1. Chain-Specific Operations
+
+**Core features:** transfers, balances, transactions, smart contracts
+
+- **Layer 1:** Avalanche, Arthera, Flow, Massa, Movement, MultiversX, NEAR, Quai, Sui, TON
+- **Layer 2:** Cronos zkEVM, Starknet, zkSync Era
+- **Other:** Binance, Cosmos
 
 ### 2. DeFi & Trading
-#### Advanced Trading
-- Binance (CEX)
-- Hyperliquid (DEX)
-- Rabbi-Trader (Analysis)
 
-#### Swaps & Liquidity
-- Avalanche* (YAK router)
-- NEAR (Ref Finance)
-- Starknet (AVNU)
+**Exchange Integration**
 
-### 3. NFT & IP Management
-#### NFT Infrastructure
-- Solana NFT Generator
-- Story Protocol* (IP rights)
-- Flow (NFT standards)
-- MultiversX (ESDT)
+- **Centralized:** Binance (Traditional order book trading)
+- **Decentralized Swaps:**
+  - [Avalanche](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-avalanche/README.md) (YAK [swaps](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-avalanche/src/actions/yakSwap.ts))
+  - NEAR ([Ref Finance](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-near/src/actions/swap.ts): Native DEX enabling token swaps, liquidity provision, and yield farming across NEAR ecosystem)
+  - Starknet ([AVNU](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-starknet/src/actions/swap.ts): DEX aggregator with cross-protocol routing and gas optimization)
+  - [Hyperliquid](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-hyperliquid/README.md) (DEX trading)
+- **Analytics:**
+- Rabbi Trader (Solana-based token analysis tool with AI-driven market insights, trust scoring, and [trading recommendations](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-rabbi-trader/src/actions/analyzeTrade.ts))
 
-#### Domain Services
-- Massa (MNS)
-- Starknet (Domain system)
+*Note: Currently no staking functionality is implemented in any plugin*
 
-### 4. Cross-Chain & Infrastructure
-#### Cross-Chain Solutions
-- EVM (LIFI bridge)
-- Cosmos (IBC)
-- Quai
+### 3. Memecoin/Token Creation
 
-#### Infrastructure Services
-- Spheron (Compute/Deploy)
-- Irys (Storage)
+- **Starknet:** Unruggable memecoin deployment (agent action that generates [unruggable tokens](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-starknet/src/actions/unruggable.ts))
+- **Avalanche:** Token creation and [market generation](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-avalanche/src/utils/tokenMill.ts)
+- **MultiversX:** ESDT token creation
+- **Flow:** NFT collection creation
 
-### 5. Protocol-Specific Features
-#### Social/Content
-- Lens Protocol
-- Momoka
+### 4. Naming services & NFTs
 
-#### Oracle/Data
-- Allora Network
-- Hyperliquid
+- **Collections:** Solana NFT Generator, Flow, MultiversX
+- **Domains:** [Starknet](https://github.com/harmony-one/eliza-harmony/tree/develop/packages/plugin-starknet) (.stark naming, subdomain management)
 
-#### Commerce
-- Coinbase Commerce
+### 5. Intellectual Property
+- **IP Rights:** Story Protocol (Blockchain-based intellectual property rights management)
 
-## Integration Notes
-- Plugins marked with * are built on the EVM base plugin
-- All EVM-based chains share common wallet and transaction handling
-- Non-EVM chains implement their own transaction and wallet management
-- Cross-chain features often utilize the EVM plugin for Ethereum-based operations
+### 6. Infrastructure
 
-## Usage
-Each plugin can be used independently or in combination with others. The EVM plugin provides base functionality for Ethereum-compatible chains, while other plugins extend or implement their own functionality as needed.
+- **Cross-Chain:** Cosmos (Inter-Blockchain Communication)
+- **Compute:** Spheron ([Cloud computing infrastructure](https://github.com/harmony-one/eliza-harmony/tree/develop/packages/plugin-spheron), GPU compute resources, supports multiple blockchain tokens)
+- **Storage:** Irys (allows agents to store and retrieve data in a [decentralized manner](https://github.com/harmony-one/eliza-harmony/tree/develop/packages/plugin-irys))
 
-## Future Development
-The modular architecture allows for easy addition of new chains and protocols, with the EVM plugin serving as a template for Ethereum-compatible implementations.
+### 7. Application Layer
+
+- **Social:** Lens Protocol/Momoka
+- **Payments:** Coinbase Commerce
+
+### 8. Trading & Predictive Services
+
+
+- **Decentralized Exchange:** [Hyperliquid](https://github.com/harmony-one/eliza-harmony/blob/develop/packages/plugin-hyperliquid/README.md) (Spot trading platform with market and limit order capabilities)
+- **Machine Learning Inference:** [Allora Network](https://docs.allora.network/devs/get-started/overview)  (Decentralized machine learning network for on-chain predictive intelligence, providing AI-powered inference via smart contract integration)
+
+## Implementation Pattern
+
+Each plugin provides:
+
+- Custom wallet implementation
+- Chain-specific transaction handling
+- Protocol-unique features
