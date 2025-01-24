@@ -1,3 +1,7 @@
+2025-01-23 Thu: Started working on Chapter 9 for Mathematics in Lean (current goal date is 01-27 for the whole tutorial). 
+
+2025-01-22 Wed: Chapter 8 for Mathematics in Lean. Sync with team, scoping out and adjustment of deliverables on FLT by continuing reading through paper.
+
 2025-01-21 Tue: Continued through chapter 7 & 8 for Mathematics in Lean. Read paper on DeepSeek-R1.
 
 2025-01-20 Mon: MLK holiday. Worked on chapter 7 of Mathematics in Lean, also looked through more on Fermat's Last Theorem from Buzzard.
