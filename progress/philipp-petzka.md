@@ -1,3 +1,8 @@
+2025-01-25 Sat: Given the start of the new year, I prepared an article outlining the DeFi roadmap for Harmony in 2025 and gathered material for a general DeFi-related outlook. The Outlook is going to be published in a video format and will cover new trends, the general environment, and previously emerging innovations across the DeFi landscape. 
+
+In addition, to anticipate the launch of the Harmony Yield Enhancer I prepared additional content that can be used for marketing purposes such as an article and raw Twitter content. 
+
+
 2025-01-18 Sat: The last two weeks were occupied by testing the Harmony Yield Enhancer, planning the next steps for the product, and preparing a marketing strategy for its launch. I curated a list of KOLs focussing on yield farming and DeFi that I can contact at launch. I prepared content to promote boostDAI strategies on the Harmony Twitter account.
 
 After launch, cross-chain deposits and 1-click deposits with any asset from any chain should be possible. I am currently talking with Across as a partner to enable those features. 
