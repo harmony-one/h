@@ -1,3 +1,11 @@
+2025-01-24 Fri:
+- Resolved the issue with duplicated proposal messages, which could potentially trigger the view change mechanism.
+- Enhanced the make debug-kill command to ensure all processes are properly terminated, addressing an issue where some processes were left running.
+- Reviewed several PRs, particularly those related to the release branch.
+- Made approximately 50% progress on the view change issue.
+
+---
+
 2025-01-17 Fri:
 - I, Ulad and Soph devised and implemented an approach to repository testing that eliminates the need to explicitly specify the test branch in the main repository. This avoids hardcoding and significantly enhances development flexibility.
 - Together with Ulad and Soph, I participated in discussions about potential additional testing scenarios. The current approach no longer meets our needs as it tests an outdated model. In its current state, we need to validate scenarios where a node has multiple keys and/or multiple validators running on the same node. Brute-forcing all possible combinations would exponentially increase test execution time or make it impractical. At this stage, we are exploring optimal solutions.
