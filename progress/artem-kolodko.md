@@ -1,3 +1,5 @@
+2025-01-24 Fri: Pump.ONE: implemented user restriction on the [backend](https://github.com/harmony-one/pump.fun.backend/pull/6/commits/c1bd9000643d8c2f22d606b829c1623cd8fdb6e3) and [client](https://github.com/harmony-one/pump.fun.client/pull/16/commits/9b249096d469c2ee7eb6e1c82801f447b19e2098) side, added restricted access disclaimer; Pump.ONE admin can now disable publishing the new tokens for the user.
+ 
 2025-01-23 Thu: Eliza AI agent: [added](https://github.com/harmony-one/eliza-harmony/pull/2/commits/af773c97b8a901693305e5fd89076bbd1869d3fa) integration with staking validators info; tested requests to Eliza for information about validators
 
 2025-01-22 Wed: Eliza AI agent: [created](https://github.com/harmony-one/eliza-harmony/commit/128623ccfa2e540c343c55e69807d19c52f65104) base structures to implement Harmony plugin with staking and validators info; tested responses with simple requests to Eliza bot; started working on internal logic
