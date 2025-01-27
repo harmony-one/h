@@ -1,4 +1,8 @@
 
+2025-01-24 Fri: Review and test of the front-end part of the usdc converter - [pull request](https://github.com/harmony-one/usdc-converter/pull/1) from Teo. Assessing integration into the main bridge application, it looks like the converter should be a separate application or a separate widget.
+
+2025-01-23 Thu: Tested updating contracts via hardhat Upgradeable Contracts. [Added](https://github.com/harmony-one/pump.fun.contracts/commit/d17f70d4d83d5c462461f66f731f62dc342b0c42) update support for Token Factory and Liquidity Manager contracts. Added new deployment and update scripts.
+
 2025-01-22 Wed: Synchronized with Artem regarding improvements to the pump.one contract. Worked on an upgradable version of the Token Factory contract.
 
 2025-01-21 Tue: Tested unify assets full flow: transferred bsсUSDC to harmony, converted to USDCe, transferred back through a proxy USDCe contract. Worked on rest lz bridge frontend fixes: renaming legacy tokens to legacyAssets, adding lz logo banner. Waiting for a decision from Theo and Alaina on the way to integrate the USDCe converter: inside the bridge application or redirect to a separate application.
