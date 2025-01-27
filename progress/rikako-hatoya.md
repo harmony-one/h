@@ -1,3 +1,13 @@
+2025-01-27 Mon:
+
+---
+
+2025-01-26 Sun: Look into Deepseek AI models. Chapter 10 Mathematics in Lean.
+
+2025-01-25 Sat: Continued tutorial for Mathematics in Lean (Chapter 9/10). Read on the year ahead for infra (delphi digital).
+
+2025-01-24 Fri: In-person team sync. Continued tutorial for Mathematics in Lean (Chapter 9).
+
 2025-01-23 Thu: Started working on Chapter 9 for Mathematics in Lean (current goal date is 01-27 for the whole tutorial). 
 
 2025-01-22 Wed: Chapter 8 for Mathematics in Lean. Sync with team, scoping out and adjustment of deliverables on FLT by continuing reading through paper.
