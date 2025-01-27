@@ -1,4 +1,8 @@
-2025-01-08 Fri:
+2025-01-24: The v2025.0.0 PR has been reviewed, approved, and successfully merged. This release includes a critical fix addressing consensus loss that occurred when the next leader was assigned to the same machine. Release planned next week.
+
+During latest dev branch protocol testing, a new edge case was identified where consensus failure can occur under specific conditions: when the leader is on the same node during an epoch change. While this issue does not occur consistently, current investigations suggest that the updateConsensus process may disrupt consensus if triggered at a specific moment during the epoch transition. Issue has been significantly improved with the changes introduced in [PR #4837](https://github.com/harmony-one/harmony/pull/4837)
+
+2025-01-17 Fri:
 **Blockscout Explorer Updates**: After refining and testing features 1, 2, and 3, they were approved for deployment to production, and the community provided positive feedback. The inclusion of the dollar-equivalent ONE value, initially planned within these features, was deferred to a newly designated feature (#5). Additionally, discussions and clarifications were made for Feature 4, which is aimed at displaying a summary of staking accounts, in preparation for its upcoming implementation.
 
 **Ledger Update**: The previously submitted PR did not pass Ledger’s CI tests due to missing information and the icon not adhering to their recommendations. These issues have been addressed, and the updated PR is now pending approval.
