@@ -1,3 +1,5 @@
+2025-01-28 Tue: Pump.ONE: [added](https://github.com/harmony-one/pump.fun.client/commit/f562d50ae261ad0f44242f8753b714ef4cc2351b) token report page in Client; started working on reports support on the backend side
+
 2025-01-27 Mon: Eliza AI agent: [improved](https://github.com/harmony-one/eliza-harmony/pull/2/commits/f826e49b0f3f47d62baf2e91e200cc669171712a) staking information response, [added](https://github.com/harmony-one/eliza-harmony/pull/2/commits/e4435c8f6d7575c0960af66928fd9ca6f617b531) validators by lowest fees response. Sync with the team about steps to prepare for the upcoming Pump.ONE launch.
 
 ---
