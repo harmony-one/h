@@ -1,3 +1,17 @@
+2025-01-25 Tue: Reviewed forum flagged posts. Created notion for Harmony Gitbook [flag collection](https://www.notion.so/harmonyone/Harmony-GitBook-Flags-189a38fc048780089f07e8660e9a6848), sync with Amanda for implementation. Insight: AI runs on data, agents (and users) need quality Harmony data to navigate efficiently.
+
+2025-01-24 Mon: Harmony listed as official [Made in USA](https://www.coingecko.com/en/categories/made-in-usa) category on Coingecko. Next will be Coinmarketcap.
+
+---
+
+2025-01-23 Sun: Continued Deepseek R1 applications for Harmony, code building, dapp building, etc. Insight: safeguards and checks will be important for no-code building in web3.
+
+2025-01-25 Sat: Experiment with Deepseek R1. Insights: reasoning is the main difference, now able to see how the models are interpreting prompts. 
+
+2025-01-24 Fri: UI/UX review for the initial [universal bridge](https://github.com/harmony-one/usdc-converter/pull/1), shared with Artem and Yuriy. Deep dive with Li and team.
+
+2025-01-23 Thu: Submitted pull request for [universal bridge](https://github.com/harmony-one/usdc-converter/pull/1) for usdc.
+
 2025-01-23 Thu: Submitted pull request for [universal bridge](https://github.com/harmony-one/usdc-converter/pull/1) for usdc.
 
 2025-01-22 Wed: Completed first draft for universal bridge UI, sync with Philipp for lecture content. Continued planning for scheduled sync with Alaina tomorrow.
