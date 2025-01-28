@@ -1,4 +1,20 @@
-2025-01-17 Fri: (Write unit tests for PR 4833)
+2025-01-27 Mon:
+
+---
+
+2025-01-24 Fri: Paid time off (sick day)
+
+2025-01-23 Thu: Paid time off (sick day)
+
+2025-01-22 Wed: Paid time off (sick day)
+
+2025-01-21 Tue: Continued analyzing the implementation details and the implementation write up.
+
+2025-01-20 Mon: Federal holiday
+
+---
+
+2025-01-17 Fri: Began writing implementation details for EIP-1153 based on the [geth implementation](https://github.com/ethereum/go-ethereum/pull/26003/files).
 
 2025-01-16 Thu: Completed the [write up](https://brazen-need-a0a.notion.site/EIP-1153-Transient-Storage-Opcodes-17e04f79c1428049983ff124c26cbc1c?pvs=73). Reviewed, tested (accessing gas prices through `hmyv2` namespace calls), and approved [PR 4759](https://github.com/harmony-one/harmony/pull/4759/), which introduces effective gas price. Raised [PR 4883](https://github.com/harmony-one/harmony/pull/4833), which introduces BlockOverrides and StateOverrides to the `eth_call` required for bundlers.
 
