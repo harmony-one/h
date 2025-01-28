@@ -1,4 +1,6 @@
-2025-01-27 Mon:
+2025-01-28 Tue: ([Analyze](https://brazen-need-a0a.notion.site/EIP-1153-Requirements-18904f79c14280a89829caa044f1270e) the EIP requirements and lay out implementation plan)
+
+2025-01-27 Mon: Completed the first two components within the [implementation details](https://brazen-need-a0a.notion.site/EIP-1153-Implementation-Details-18904f79c14280f8a427fa782062146b). Realized that the transient storage depends on other EIPs.
 
 ---
 
@@ -8,7 +10,7 @@
 
 2025-01-22 Wed: Sick day off
 
-2025-01-21 Tue: Continued analyzing the implementation details and the implementation write up.
+2025-01-21 Tue: Continued analyzing the codebase and documenting the implementation write up.
 
 2025-01-20 Mon: Federal holiday
 
