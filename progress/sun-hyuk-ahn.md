@@ -2,11 +2,11 @@
 
 ---
 
-2025-01-24 Fri: Paid time off (sick day)
+2025-01-24 Fri: Sick day off
 
-2025-01-23 Thu: Paid time off (sick day)
+2025-01-23 Thu: Sick day off
 
-2025-01-22 Wed: Paid time off (sick day)
+2025-01-22 Wed: Sick day off
 
 2025-01-21 Tue: Continued analyzing the implementation details and the implementation write up.
 
