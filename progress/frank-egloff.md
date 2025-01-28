@@ -1,8 +1,11 @@
-2025-01-24 (Fri): 2025-01-24 (Fri): Configured pgvector extension on a dedicated Postgres instance via flyio for Eliza's agent requirements. Added comprehensive [deployment docs](https://github.com/harmony-one/eliza-harmony-agent/pull/2).
+2025-01-27 Mon: Deployed [Eliza Harmony Agent](https://github.com/harmony-one/eliza-harmony-agent/pull/2) with GitBook integration and Telegram client on flyio, scaling instance to 2GB RAM. Researching conversational agent creation using Eliza's framwork.
 
-2025-01-23 (Thu): Enhanced the [Eliza Web3 features document](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md) by adding precise URL references and refining plugin classifications. Encountered challenges with Docker configurations during the deployment of Eliza's Agent on Fly.io.
+---
+2025-01-24 Fri: 2025-01-24 (Fri): Configured pgvector extension on a dedicated Postgres instance via flyio for Eliza's agent requirements. Added comprehensive [deployment docs](https://github.com/harmony-one/eliza-harmony-agent/pull/2).
 
-2025-01-22 (Wed): [Introduced Harmonious](https://github.com/harmony-one/eliza-harmony-agent/pull/1), a character with a fun, optimistic, and harmonious tone, to Eliza's Harmony Agent. Analyzed the Eliza framework repository to identify blockchain plugins and compiled a comprehensive [feature list](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md). Made progress on deploying Harmony's Eliza Agent on Fly.io.
+2025-01-23 Thu: Enhanced the [Eliza Web3 features document](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md) by adding precise URL references and refining plugin classifications. Encountered challenges with Docker configurations during the deployment of Eliza's Agent on Fly.io.
+
+2025-01-22 Wed: [Introduced Harmonious](https://github.com/harmony-one/eliza-harmony-agent/pull/1), a character with a fun, optimistic, and harmonious tone, to Eliza's Harmony Agent. Analyzed the Eliza framework repository to identify blockchain plugins and compiled a comprehensive [feature list](https://github.com/harmony-one/h/blob/main/docs/eliza-web3-plugin-ecosystem.md). Made progress on deploying Harmony's Eliza Agent on Fly.io.
  
 2025-01-21 Tue: Added custom GitBook plugin implementation to [harmony-eliza-agent](https://github.com/harmony-one/eliza-harmony-agent/pull/1) and tested with Harmony's Eliza Bot. Configuring fly.io deployment for internal testing. Fixing 1Bot /send command functionality.
 
