@@ -1,3 +1,5 @@
+2025-01-30 Thu: Pump.ONE: deployed and tested [new version](https://github.com/harmony-one/pump.fun.contracts/pull/20) of Pump.ONE upgradable conracts with client and backend; [updated](https://pump-fun-backend-staging.fly.dev/api) staging backend. Synced with Yuriy on the final version of Pump.ONE contacts.
+
 2025-01-29 Wed: Pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/commit/8b894d41907e2b7ae60d2fdbe521ea5da1a37394) POST and GET /report endpoints on the backend side, [completed](https://github.com/harmony-one/pump.fun.client/commit/a704cb6b5cf5fa30ab662194b1b79418365ab0f0) integration with client
 
 2025-01-28 Tue: Pump.ONE: [added](https://github.com/harmony-one/pump.fun.client/commit/f562d50ae261ad0f44242f8753b714ef4cc2351b) token report page in Client; started working on reports support on the backend side
