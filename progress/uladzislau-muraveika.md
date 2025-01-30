@@ -1,3 +1,13 @@
+2025-01-24 Fri:
+
+The main focus of this week - `v2025.0.0` release, I was preparing our ansible inventory and playbooks, installed and initially monitored it though the devnet/testnet/mainnet networks.
+
+On the protocol side, I've enhanced storage of the localnet logs between different runs after initial feedback from the team, now logs despite initial size in GBs can be ingested into Loki in several minutes without issues or waiting time- [PR-4830](https://github.com/harmony-one/harmony/pull/4830)
+
+And as part of my ops activities, I've setup 2 nodes in the tesnet with the disabled AggregateSig, which means 1 harmony process can have bls keys from 2 validators. Additionally, I've added this state to the ansible inventory to automatically deploy these nodes.
+
+---
+
 2025-01-17 Fri:
 
 One of the main topics was to implement storage of the localnet logs between different runs, done with persistent Loki in docker. Main advantage, you can start log aggregations and run localnet any number of times, all logs will be saved and can be searched and this will speed up feedback loop to the developer.
