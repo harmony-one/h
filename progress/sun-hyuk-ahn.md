@@ -1,4 +1,8 @@
-2025-01-28 Tue: ([Analyze](https://brazen-need-a0a.notion.site/EIP-1153-Requirements-18904f79c14280a89829caa044f1270e) the EIP requirements and lay out implementation plan)
+2025-01-30 Thu: (Complete implementation details for typed transaction envelope. Began development.)
+
+2025-01-29 Wed: Began analyzing geth's [PR 21502](https://github.com/ethereum/go-ethereum/pull/21502). The PR implemented both EIP 2718 (typed transaction envelope) and EIP 2930 (optional access list). After further inspection, decided typed transaction envelope is to be developed first. Began laying out implementation details.
+
+2025-01-28 Tue: [Analyzed](https://brazen-need-a0a.notion.site/EIP-1153-Requirements-18904f79c14280a89829caa044f1270e) the EIP requirements and lay out implementation plan.
 
 2025-01-27 Mon: Completed the first two components within the [implementation details](https://brazen-need-a0a.notion.site/EIP-1153-Implementation-Details-18904f79c14280f8a427fa782062146b). During planning realized that the transient storage depends on other EIPs. One bypass is to simply update the gas price to reflect one of the dependent EIPs but eventually, will need to implement the full dependent EIPs.
 
