@@ -1,4 +1,11 @@
 
+2025-01-28 Tue: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/20/files) more changes to pump.one Upgradeable-contracts version. Changed package versions to support compatibility with ethers 5 (used in deployment and update scripts). Shared with Aaron for security review.
+
+2025-01-27 Mon: Changed USDC converter contract - according to [issue](https://github.com/harmony-one/usdc-converter/issues/2) from Aaron. Transfer of tokens has been replaced by burning. Started working on improvements to the front end of the usdc converter service.
+
+
+---
+
 2025-01-24 Fri: Review and test of the front-end part of the usdc converter - [pull request](https://github.com/harmony-one/usdc-converter/pull/1) from Teo. Assessing integration into the main bridge application, it looks like the converter should be a separate application or a separate widget.
 
 2025-01-23 Thu: Tested updating contracts via hardhat Upgradeable Contracts. [Added](https://github.com/harmony-one/pump.fun.contracts/commit/d17f70d4d83d5c462461f66f731f62dc342b0c42) update support for Token Factory and Liquidity Manager contracts. Added new deployment and update scripts.
