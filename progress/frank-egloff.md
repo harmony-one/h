@@ -1,3 +1,7 @@
+2025-01-29 Wed: Added response examples and style directives to [Harmonious configuration](https://github.com/harmony-one/eliza-harmony-agent/pull/2). Started testnet deployment plugin for Eliza's framework.
+
+2025-01-28 Tue: Resolved flyio memory allocation issues and integrated [Twitter client](https://github.com/harmony-one/eliza-harmony-agent/pull/2) with Harmony's Eliza Agent. Advanced research on conversational agent creation within Eliza's framework.
+
 2025-01-27 Mon: Deployed [Eliza Harmony Agent](https://github.com/harmony-one/eliza-harmony-agent/pull/2) with GitBook integration and Telegram client on flyio, scaling instance to 2GB RAM. Researching conversational agent creation using Eliza's framwork.
 
 ---
