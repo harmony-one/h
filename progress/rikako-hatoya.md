@@ -1,8 +1,8 @@
-2025-01-29 Wed:
+2025-01-29 Wed: Lean chapter 11/12. Drafting of contributions for FLT.
 
-2025-01-28 Tue:
+2025-01-28 Tue: Lean chapter 11. Contination of research on FLT.
 
-2025-01-27 Mon:
+2025-01-27 Mon: Lean chapter 10/11. Started working with Deepseek prover repo.
 
 ---
 
