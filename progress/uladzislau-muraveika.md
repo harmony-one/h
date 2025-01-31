@@ -1,3 +1,17 @@
+2025-01-31 Fri:
+
+The main focus of this week was to stabilize bootnodes in the mainnet, community validators started to complain about connectivity timings again and while it has become better we need to enhance it even more.
+What I found - excessive logging, sometimes we have debug level logs and gives out of space issues.Fixed space problem and checked the logs and found that we have libp2p topics and peer from other networks.
+For example, even devnet has thousands of peers despite the fact that we are the only ones who control it.
+I've shared all my findings with the consensus team and Gheis started to work on the possible solution asap.
+
+From the ops side, I've spent the other part of the week creating Ansible code to properly rotate, collect by Promtail and store in Loki bootnode logs and covered libp2p, p2p_trace logs and connectivity logs.
+This will help the team with debug of the further bootnode debug and improve our observability over our networks.
+
+Additionally, on the ops side, I've created a fresh SnapDB snapshot - 340GB -> 120 GB, this decreases time to start a node and disk space needs.
+
+---
+
 2025-01-24 Fri:
 
 The main focus of this week - `v2025.0.0` release, I was preparing our ansible inventory and playbooks, installed and initially monitored it though the devnet/testnet/mainnet networks.
