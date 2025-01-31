@@ -1,3 +1,5 @@
+2025-01-31 Fri: Pump.ONE: [deployed](https://github.com/harmony-one/pump.fun.backend/commit/14ad1b7ac7094389145ac995f9659153305ca675#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R142) contracts with disabled competitions; [removed](https://github.com/harmony-one/pump.fun.client/commit/325f20f86819f2968769ce65923f0f99e53e08de) competitions from client and updated staging client and backend
+
 2025-01-30 Thu: Pump.ONE: deployed and tested [new version](https://github.com/harmony-one/pump.fun.contracts/pull/20) of Pump.ONE upgradable conracts with client and backend; [updated](https://pump-fun-backend-staging.fly.dev/api) staging backend. Synced with Yuriy on the final version of Pump.ONE contacts.
 
 2025-01-29 Wed: Pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/commit/8b894d41907e2b7ae60d2fdbe521ea5da1a37394) POST and GET /report endpoints on the backend side, [completed](https://github.com/harmony-one/pump.fun.client/commit/a704cb6b5cf5fa30ab662194b1b79418365ab0f0) integration with client
