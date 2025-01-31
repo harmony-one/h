@@ -1,4 +1,8 @@
 
+2025-01-30 Thu: Synchronized with Artem about improvements to pump.one before launch: at Theo’s request, we are making a version with the optional inclusion of competitions. I made several improvements that allow you to use Token Factory without competitions, with the subsequent optional inclusion of competitions. Several manage methods have also been added for emergency withdrawal of user funds and transfer tokwns ownership.
+
+2025-01-29 Wed: Worked on integrating the USDC converter into the layerzero bridge interface: if the user selects legacy assets and the balance is non-zero, he is prompted to go to a separate usdc converter page. After successful conversion, a redirect is made back to the bridge to continue the operation.
+
 2025-01-28 Tue: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/20/files) more changes to pump.one Upgradeable-contracts version. Changed package versions to support compatibility with ethers 5 (used in deployment and update scripts). Shared with Aaron for security review.
 
 2025-01-27 Mon: Changed USDC converter contract - according to [issue](https://github.com/harmony-one/usdc-converter/issues/2) from Aaron. Transfer of tokens has been replaced by burning. Started working on improvements to the front end of the usdc converter service.
