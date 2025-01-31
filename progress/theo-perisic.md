@@ -1,10 +1,14 @@
-2025-01-25 Tue: Reviewed forum flagged posts. Created notion for Harmony Gitbook [flag collection](https://www.notion.so/harmonyone/Harmony-GitBook-Flags-189a38fc048780089f07e8660e9a6848), sync with Amanda for implementation. Insight: AI runs on data, agents (and users) need quality Harmony data to navigate efficiently.
+2025-01-30 Thu: Community Tx DAO vote finalized, AthleteFi has completed product and marketing material, multisig vote will be placed tomorrow. Frontend cleanup with Artem for [Pump.one](https://pump.one) tokens launched beyond guidelines.
 
-2025-01-24 Mon: Harmony listed as official [Made in USA](https://www.coingecko.com/en/categories/made-in-usa) category on Coingecko. Next will be Coinmarketcap.
+2025-01-29 Wed: [Pump.one](https://pump.one) team coordination, and community sync. Insight: users are expecting parity in functionality with [pump.fun](https://pump.fun), solution sync with Yuriy for implementing competition post launch. 
+
+2025-01-28 Tue: Reviewed forum flagged posts. Created notion for Harmony Gitbook [flag collection](https://www.notion.so/harmonyone/Harmony-GitBook-Flags-189a38fc048780089f07e8660e9a6848), sync with Amanda for implementation. Insight: AI runs on data, agents (and users) need quality Harmony data to navigate efficiently.
+
+2025-01-27 Mon: Harmony listed as official [Made in USA](https://www.coingecko.com/en/categories/made-in-usa) category on Coingecko. Next will be Coinmarketcap.
 
 ---
 
-2025-01-23 Sun: Continued Deepseek R1 applications for Harmony, code building, dapp building, etc. Insight: safeguards and checks will be important for no-code building in web3.
+2025-01-26 Sun: Continued Deepseek R1 applications for Harmony, code building, dapp building, etc. Insight: safeguards and checks will be important for no-code building in web3.
 
 2025-01-25 Sat: Experiment with Deepseek R1. Insights: reasoning is the main difference, now able to see how the models are interpreting prompts. 
 
