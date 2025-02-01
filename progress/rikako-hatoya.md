@@ -1,3 +1,5 @@
+2025-01-30 Thu: Sync with Li. Started working on new goals of testing deepseek models on imo problems.
+
 2025-01-29 Wed: Lean chapter 11/12. Drafting of contributions for FLT.
 
 2025-01-28 Tue: Lean chapter 11. Contination of research on FLT.
