@@ -1,3 +1,5 @@
+2025-01-31 Fri: Finished Lean chapter 12. Started looking through details of each of the unclaimed tasks on FLT.
+
 2025-01-30 Thu: Sync with Li. Started working on new goals of testing deepseek models on imo problems.
 
 2025-01-29 Wed: Lean chapter 11/12. Drafting of contributions for FLT.
