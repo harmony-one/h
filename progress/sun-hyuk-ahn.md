@@ -12,7 +12,7 @@
 
 2025-01-23 Thu: Sick day off
 
-2025-01-22 Wed: Sick day off
+2025-01-22 Wed: Reviewed [PR 4374](https://github.com/harmony-one/harmony/pull/4374) which upgrades StateDB. It also implements the TransientStorage object based on the Ethereum code but not the jump table and the opcodes themselves.
 
 2025-01-21 Tue: Continued analyzing the codebase and documenting the implementation write up.
 
