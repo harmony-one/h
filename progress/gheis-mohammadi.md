@@ -1,3 +1,13 @@
+2025-02-01 Sat:  
+
+Last week, we investigated the issue of an unusually high number of known peers. As part of this effort, I created [PR #4839](https://github.com/harmony-one/harmony/pull/4839), which removes streams from the peer store if they fail the sanity check. This change is expected to improve peer management, and we plan to test it on the devnet next week.  
+
+I also conducted a deep study on how other blockchains manage unwanted connections at the P2P layer. Based on this research, I created [PR #4841](https://github.com/harmony-one/harmony/pull/4841), which introduces a **Connection Manager**, a **Connection Gater**, and an **Extended Peer Store**. The base code has been customized and integrated into Harmony’s codebase. While this PR establishes the core functionality, we still need to determine the best way to detect and filter unwanted connections using the Connection Gater.  
+
+Additionally, we encountered an issue on **stream net** affecting explorer nodes. The issue is related to block insertion failures and is currently under investigation. Identifying and resolving this will be a priority moving forward.  
+
+---
+
 2025-01-25 Sat:  
 
 Last week, we finalized and released **v2025.0.0**, marking a significant improvement for the project.  
