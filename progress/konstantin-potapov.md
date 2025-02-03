@@ -1,3 +1,10 @@
+2025-01-31 Fri:
+- Identified the cause of the view change issue and am actively working on a fix. The issue occurred because a node was left mining alone, with no other nodes triggering block processing mechanisms like prepare and commit.
+- Reviewed and merged multiple PRs.
+- Collaborated closely with Sun on EIP-3607: Reject transactions from senders with deployed code.
+
+--- 
+
 2025-01-24 Fri:
 - Resolved the issue with duplicated proposal messages, which could potentially trigger the view change mechanism.
 - Enhanced the make debug-kill command to ensure all processes are properly terminated, addressing an issue where some processes were left running.
