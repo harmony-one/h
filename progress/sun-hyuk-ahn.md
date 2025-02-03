@@ -1,3 +1,9 @@
+2025-02-03 Mon:
+
+---
+
+2025-01-31 Fri: Continued unit test integration. Troubleshooted an error that prevents the builds from running. To be specific, the builds and tests were unable to locate bls builds due to misconfigured flags.
+
 2025-01-30 Thu: Implemented EIP-3607 and wrote unit tests for the updated `preCheck` ([PR 4840](https://github.com/harmony-one/harmony/pull/4840/files)).
 
 2025-01-29 Wed: Began analyzing geth's [PR 21502](https://github.com/ethereum/go-ethereum/pull/21502). The PR implemented both EIP 2718 (typed transaction envelope) and EIP 2930 (optional access list). After further inspection, decided typed transaction envelope is to be developed first. Began laying out implementation details.
