@@ -1,3 +1,7 @@
+2025-02-02 Sun: Continued scoping out for FLT, and understanding of tasks. A little bit of more work on testing olympiad with deepseek.
+
+2025-02-01 Sat: Tidied lean repo in preparation for push. Look into Open-AI o3 mini.
+
 2025-01-31 Fri: Finished Lean chapter 12. Started looking through details of each of the unclaimed tasks on FLT.
 
 2025-01-30 Thu: Sync with Li. Started working on new goals of testing deepseek models on imo problems.
