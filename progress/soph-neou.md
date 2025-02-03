@@ -1,4 +1,6 @@
-2025-01-24: The v2025.0.0 PR has been reviewed, approved, and successfully merged. This release includes a critical fix addressing consensus loss that occurred when the next leader was assigned to the same machine. Release planned next week.
+2025-01-31 Fri: The network has seen improved performance following validator node upgrades to v2025.0.0. Harmony Ledger v1.15.0 has been delivered; a public announcement will be made after the staking dashboard is updated to support the new ledger application.  Testing and review of the new staking data features for the Harmony Explorer are underway on mainnet, with production deployment expected shortly.
+
+2025-01-24 Fri: The v2025.0.0 PR has been reviewed, approved, and successfully merged. This release includes a critical fix addressing consensus loss that occurred when the next leader was assigned to the same machine. Release planned next week.
 
 During latest dev branch protocol testing, a new edge case was identified where consensus failure can occur under specific conditions: when the leader is on the same node during an epoch change. While this issue does not occur consistently, current investigations suggest that the updateConsensus process may disrupt consensus if triggered at a specific moment during the epoch transition. Issue has been significantly improved with the changes introduced in [PR #4837](https://github.com/harmony-one/harmony/pull/4837)
 
