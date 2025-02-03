@@ -1,3 +1,7 @@
+2025-01-31 Fri: Implemented and deployed o3-mini model with /r command and r. shortcut for 1Bot. Updated context tokens and pricing for OpenAI models. Troubleshooting monorepo config for [Harmony testnet deployment plugin](https://github.com/harmony-one/eliza-harmony/pull/3) for Eliza's framework. Pending Deep Seek API KEY for 1Bot completion.
+
+2025-01-30 Thu: Advanced Harmony testnet deployment plugin development. Implemented [Deep Seek model](https://github.com/harmony-one/harmony-llm-api/pull/29) integration for 1Bot - blocked by API KEY availability.
+
 2025-01-29 Wed: Added response examples and style directives to [Harmonious configuration](https://github.com/harmony-one/eliza-harmony-agent/pull/2). Started testnet deployment plugin for Eliza's framework.
 
 2025-01-28 Tue: Resolved flyio memory allocation issues and integrated [Twitter client](https://github.com/harmony-one/eliza-harmony-agent/pull/2) with Harmony's Eliza Agent. Advanced research on conversational agent creation within Eliza's framework.
