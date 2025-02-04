@@ -1,3 +1,7 @@
+2025-02-03: Mon: USDC converter client: [added](https://github.com/harmony-one/usdc-converter/pull/3/files#diff-e56cb91573ddb6a97ecd071925fe26504bb5a65f921dc64c63e534162950e1ebR38) insufficient balance validation, moved params to separate config file, fixed "max" amount button styles
+
+---
+
 2025-01-31 Fri: Pump.ONE: [deployed](https://github.com/harmony-one/pump.fun.backend/commit/14ad1b7ac7094389145ac995f9659153305ca675#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R142) contracts with disabled competitions; [removed](https://github.com/harmony-one/pump.fun.client/commit/325f20f86819f2968769ce65923f0f99e53e08de) competitions from client and [updated](https://pump-one-staging.netlify.app/) staging client and backend
 
 2025-01-30 Thu: Pump.ONE: deployed and tested [new version](https://github.com/harmony-one/pump.fun.contracts/pull/20) of Pump.ONE upgradable conracts with client and backend; [updated](https://pump-fun-backend-staging.fly.dev/api) staging backend. Synced with Yuriy on the final version of Pump.ONE contacts.
