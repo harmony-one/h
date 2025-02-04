@@ -1,4 +1,4 @@
-2025-02-03 Mon:
+2025-02-03 Mon: Completed [PR 4840](https://github.com/harmony-one/harmony/pull/4840) with tests. Updated core logic and refactored code for [PR 4833](https://github.com/harmony-one/harmony/pull/4833). Will complete the update and testing by tomorrow.
 
 ---
 
