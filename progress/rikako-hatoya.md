@@ -1,3 +1,7 @@
+2025-02-03 Mon: Worked on deepsek prover. Continuation with FLT reading.
+
+---
+
 2025-02-02 Sun: Continued scoping out for FLT, and understanding of tasks. A little bit of more work on testing olympiad with deepseek.
 
 2025-02-01 Sat: Tidied lean repo in preparation for push. Look into Open-AI o3 mini.
