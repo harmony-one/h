@@ -1,3 +1,8 @@
+2025-02-03 Mon: Reviewed [changes](https://github.com/harmony-one/usdc-converter/pull/3) from Artem. Worked on additional front-end features of the USDC converter: selecting tokens from a drop-down list, following a link - passing the token address through the url, as a result of which the USDC converter opens with a pre-installed token for exchange (bridge crossing integration).
+
+---
+
+2025-01-31 Fri: Researched the possibility of withdrawing ROT/MAGGOT tokens from Harmony, or adding them to an existing bridge (at the request of community partners). Testing an updated version of pump.one with upgradable contracts in conjunction with backend and frontend services.
 
 2025-01-30 Thu: Synchronized with Artem about improvements to pump.one before launch: at Theo’s request, we are making a version with the optional inclusion of competitions. I made several improvements that allow you to use Token Factory without competitions, with the subsequent optional inclusion of competitions. Several manage methods have also been added for emergency withdrawal of user funds and transfer tokwns ownership.
 
@@ -6,7 +11,6 @@
 2025-01-28 Tue: [Added](https://github.com/harmony-one/pump.fun.contracts/pull/20/files) more changes to pump.one Upgradeable-contracts version. Changed package versions to support compatibility with ethers 5 (used in deployment and update scripts). Shared with Aaron for security review.
 
 2025-01-27 Mon: Changed USDC converter contract - according to [issue](https://github.com/harmony-one/usdc-converter/issues/2) from Aaron. Transfer of tokens has been replaced by burning. Started working on improvements to the front end of the usdc converter service.
-
 
 ---
 
