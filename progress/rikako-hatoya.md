@@ -1,4 +1,6 @@
-2025-02-03 Mon: Worked on deepsek prover. Continuation with FLT reading.
+2025-02-03 Tue: Continuation of Deepseek prover V1.5. Working on model weight training and comparison of V1.5, RL, base.
+
+2025-02-03 Mon: Worked on deepseek prover. Continuation with FLT reading.
 
 ---
 
