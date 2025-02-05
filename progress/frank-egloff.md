@@ -1,4 +1,4 @@
-2025-02-04 Tue: Resolved plugin config for [Harmony's deployment integration](https://github.com/harmony-one/eliza-harmony/pull/3). Plugin triggers on contract deployment requests but encountering issues with tg client sync. Supporting team with Ledger hw integration. DeepSeek platform remains inaccessible for API credentials.
+2025-02-04 Tue: Resolved plugin config for [Harmony's deployment integration](https://github.com/harmony-one/eliza-harmony/pull/3). Plugin triggers on contract deployment requests but encountering issues with tg client sync. Supporting team with Ledger wallet integration. DeepSeek platform remains inaccessible for API credentials.
 
 2025-02-03 Mon: Advanced Harmony's deployment plugin, patching Client app conflicts affecting agent builds. Supporting Ledger hw wallet integration for Staking dApp - identified M1/Arm64 architecture compatibility [issues](https://github.com/harmony-one/staking-dashboard/issues/717). DeepSeek platform remains down, blocking API access. 
 
