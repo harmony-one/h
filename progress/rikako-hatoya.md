@@ -1,4 +1,4 @@
-2025-02-03 Tue: Continuation of Deepseek prover V1.5. Working on model weight training and comparison of V1, RL, base.
+2025-02-03 Tue: Finally debugged Deepseek-prover model on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of transformers.
 
 2025-02-03 Mon: Worked on deepseek prover. Continuation with FLT reading.
 
