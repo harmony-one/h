@@ -1,3 +1,8 @@
+2025-02-04 Tue: Resolved plugin config for [Harmony's deployment integration](https://github.com/harmony-one/eliza-harmony/pull/3). Plugin triggers on contract deployment requests but encountering issues with tg client sync. Supporting team with Ledger hw integration. DeepSeek platform remains inaccessible for API credentials.
+
+2025-02-03 Mon: Advanced Harmony's deployment plugin, patching Client app conflicts affecting agent builds. Supporting Ledger hw wallet integration for Staking dApp - identified M1/Arm64 architecture compatibility [issues](https://github.com/harmony-one/staking-dashboard/issues/717). DeepSeek platform remains down, blocking API access. 
+
+---
 2025-01-31 Fri: Implemented and deployed o3-mini model with /r command and r. shortcut for 1Bot. Updated context tokens and pricing for OpenAI models. Troubleshooting monorepo config for [Harmony testnet deployment plugin](https://github.com/harmony-one/eliza-harmony/pull/3) for Eliza's framework. Pending Deep Seek API KEY for 1Bot completion.
 
 2025-01-30 Thu: Advanced Harmony testnet deployment plugin development. Implemented [Deep Seek model](https://github.com/harmony-one/harmony-llm-api/pull/29) integration for 1Bot - blocked by API KEY availability.
