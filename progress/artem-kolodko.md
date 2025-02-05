@@ -1,3 +1,5 @@
+2025-02-04: Tue: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/10e067353e65a1f80b6b01746b2631fb2780dab9) button to add boostDAI token to Metamask with 1 click. Completed USDC-converter [pull request](https://github.com/harmony-one/usdc-converter/pull/3/files) with interface updates and send for the review.
+
 2025-02-03: Mon: USDC converter client: [added](https://github.com/harmony-one/usdc-converter/pull/3/files#diff-e56cb91573ddb6a97ecd071925fe26504bb5a65f921dc64c63e534162950e1ebR38) insufficient balance validation, moved params to separate config file, fixed "max" amount button styles
 
 ---
