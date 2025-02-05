@@ -1,4 +1,4 @@
-2025-02-03 Tue: Finally debugged Deepseek-prover model on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of transformers.
+2025-02-03 Tue: Finally debugged Deepseek-prover setup on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of model.
 
 2025-02-03 Mon: Worked on deepseek prover. Continuation with FLT reading.
 
