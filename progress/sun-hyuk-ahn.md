@@ -1,3 +1,5 @@
+2025-02-04 Tue: Complete core logic update and unit tests for [PR 4833](https://github.com/harmony-one/harmony/pull/4833). Looking into integration tests calling `debug_traceCall`.
+
 2025-02-03 Mon: Completed [PR 4840](https://github.com/harmony-one/harmony/pull/4840) with tests. Updated core logic and refactored code for [PR 4833](https://github.com/harmony-one/harmony/pull/4833). Will complete the update and testing by tomorrow.
 
 ---
