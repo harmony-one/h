@@ -1,3 +1,7 @@
+2025-02-05 Wed: Deployment and configuration of the production version of contracts for the USDCe token, proxy contracts for the bsc USDC and USDCe harmony bundle, deployment USDC converter contracts and frontend app, etc.
+
+2025-02-04 Tue: Improvement of the USDC converter and layerzero bridge frontend services to implement a full flow with redirection and conversion of tokens: a return to the bridge after conversion has been added, on the bridge side support for going to the USDCe token page after conversion has been added. Testing the full flow and fix errors.
+
 2025-02-03 Mon: Reviewed [changes](https://github.com/harmony-one/usdc-converter/pull/3) from Artem. Worked on additional front-end features of the USDC converter: selecting tokens from a drop-down list, following a link - passing the token address through the url, as a result of which the USDC converter opens with a pre-installed token for exchange (bridge crossing integration).
 
 ---
