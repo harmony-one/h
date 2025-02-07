@@ -1,4 +1,8 @@
-2025-02-04 Tue: Resolved plugin config for [Harmony's deployment integration](https://github.com/harmony-one/eliza-harmony/pull/3). Plugin triggers on contract deployment requests but encountering issues with tg client sync. Supporting team with Ledger wallet integration. DeepSeek platform remains inaccessible for API credentials.
+2025-02-06 Thu: 2025-02-06 Thu: Resolved Harmony LLM dependencies (openai, anthropic, httpx) but encountered _Insufficient Balance_ error from DeepSeek API. WalletConnect [PR testing](https://github.com/harmony-one/staking-dashboard/issues/719#issuecomment-2641012018) blocked by build errors due to viem/wagmi packages using optional chaining - incompatible with current webpack/babel config.
+
+2025-02-05 Wed: Tested Devin's PR and suggested adding [openssl legacy provider](https://github.com/polymorpher/staking-dashboard/pull/2) to node options env var for M1 compatibility on Devin's PR. Obtained DeepSeek API KEY. The LLM backend integration revealed dependency conflicts from openai package update.
+
+2025-02-04 Tue: Resolved plugin config for [Harmony's deployment integration](https://github.com/harmony-one/eliza-harmony/pull/3). Plugin triggers on contract deployment requests but encountering issues with Telegram client sync. Supporting team with Ledger wallet integration. DeepSeek platform remains inaccessible for API credentials.
 
 2025-02-03 Mon: Advanced Harmony's deployment plugin, patching Client app conflicts affecting agent builds. Supporting Ledger hw wallet integration for Staking dApp - identified M1/Arm64 architecture compatibility [issues](https://github.com/harmony-one/staking-dashboard/issues/717). DeepSeek platform remains down, blocking API access. 
 
