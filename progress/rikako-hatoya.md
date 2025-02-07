@@ -1,3 +1,10 @@
+2025-02-05 Thu: Continued work on deepseek by reading [paper](https://huggingface.co/papers/2405.14333) + attempt to replicate their experiment but later transitioned to research on Defi. Started researching into the products mentioned in [Defi Delphi Digital report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025).
+
+2025-02-04 Wed: Sync with Li, came up with deliverables as noted below. Updated [code](https://www.kaggle.com/code/rikaaaa/notebook7b4e40c0c2) for deepseek, tried tests with a couple questions from miniF2F dataset but timeout due to memory constraints, tested with simpler mathematical analysis.
+
+ - **Deliverables:** Current goal is to try to replicate Deepseek’s evaluation results with minif2f dataset (mainly math olympiad problems) published in this paper: https://huggingface.co/papers/2405.14333. The deepseek-prover v1.5RL (https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1.5-RL) is the best model for math proofs so far. However, I can only work with simple problems as of now due to requiring hundreds of RAM (kaggle supports to 29GB). My next goal is to make a repo similar to AG4Masses, which reduces the memory constraints and can run the model on local.
+
+
 2025-02-03 Tue: Finally debugged Deepseek-prover setup on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of model.
 
 2025-02-03 Mon: Worked on deepseek prover. Continuation with FLT reading.
