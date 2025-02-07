@@ -1,3 +1,19 @@
+2025-02-07 Fri:
+
+The main focus of this week was to help with ongoing issues with the latest `v2025.0.0` release.
+
+The new `effectiveGasPrice` field in the recipient transactions is crashing the RPC call for the old transactions, [link](https://github.com/harmony-one/harmony/issues/4843). I've helped Konstantin with initial debugging, reproduced the issue in the testnet, collected stacktrace and given a user a way to mitigate the impact of the issue.
+
+One more post-`v2025.0.0` task was to ping validators to update to the newest release, because from time to time old version validators gave us short(12s-20s) consensus loss. After a few public and private reminders we don't have this issue in both shards.
+
+From the ops side, I've added one more alarm on the disk space for the archivalDB/fullDB servers with an absolute 500GB limit. Justification - stock node exporter alarm is too wide on the TB scale, e.g. 10% from 24TB is still 2.4TB which can still be used for around 8 months.
+
+From the testing side, I've helped Soph  with the [pyhmy version update and test fixes](https://github.com/harmony-one/harmony-test/pull/35) in harmony-test repo. It was done to have the same stable release in harmony repo.
+
+And finally from the consensus side, I've helped Sun with rosetta tests debug and added my methodology and steps on how to debug this into the [PR](https://github.com/harmony-one/harmony/pull/4840#issuecomment-2643263007).
+
+---
+
 2025-01-31 Fri:
 
 The main focus of this week was to stabilize bootnodes in the mainnet, community validators started to complain about connectivity timings again and while it has become better we need to enhance it even more.
