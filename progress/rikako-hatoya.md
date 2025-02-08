@@ -1,3 +1,5 @@
+2025-02-06 Fri: Product research on open-source, on-chain, non-custodial telegram bots. Deeper read into [Defi report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025) and research to scope out use cases/deliverables for Harmony.
+
 2025-02-05 Thu: Continued work on deepseek by reading [paper](https://huggingface.co/papers/2405.14333) + attempt to replicate their experiment but later transitioned to research on Defi. Started researching into the products mentioned in [Defi Delphi Digital report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025).
 
 2025-02-04 Wed: Sync with Li, came up with deliverables as noted below. Updated [code](https://www.kaggle.com/code/rikaaaa/notebook7b4e40c0c2) for deepseek, tried tests with a couple questions from miniF2F dataset but timeout due to memory constraints, tested with simpler mathematical analysis.
