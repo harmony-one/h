@@ -1,3 +1,5 @@
+2025-02-07: Fri: Pump.ONE: started working on client update to support two different token factories (with competitions and simple one, only trading). Synced with Yueiy on technical details regarding Pump.ONE contract updates.
+
 2025-02-06: Thu: Pump.ONE: [completed](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/a5ffb9b1828f1fb1d4e1b5006a51e33ca8b96393) multiple tokens factory support in tokens indexer; send suggestions about gamification of Pump.ONE competitions to Aaron for review
 
 2025-02-05: Wed: Pump.ONE: [started](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/82c17fc54b491d6a0b2f2404e42b34b7da60b5c2) working on multiple token factories to support optional competitions; updated database scheme in tokens indexer.
