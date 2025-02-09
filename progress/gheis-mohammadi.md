@@ -1,3 +1,14 @@
+2025-02-08 Sat: Last week, I completed and finalized [PR #4841](https://github.com/harmony-one/harmony/pull/4841), addressing issues and refactoring some parts of the code for better integration and performance. This PR introduces a **Connection Manager**, a **Connection Gater**, and an **Extended Peer Store**, enhancing Harmony’s P2P network management.  
+
+We also continued investigating the **stream net** issue affecting explorer nodes, specifically related to block insertion failures. Our deep investigation identified several corner cases:
+- **Future Blocks in Explorer Nodes:** Explorer nodes were accepting future blocks that were not the immediate next block during the COMMIT and PREPARE phases. This led to excessive error logs when the sync module was not fully ready. To address this, I created [PR #4845](https://github.com/harmony-one/harmony/pull/4845).
+- **Peer Connectivity Issues:** Sometimes, **stream net** nodes fail to discover or connect to each other, and we are still investigating the root cause.
+- **Syncing Issue:** In certain scenarios, stream sync nodes stop syncing using the short-range module and are unable to revert to long-range syncing. This issue is under further investigation.  
+
+We are prioritizing these investigations and working on solutions to improve network stability and synchronization consistency.  
+
+---
+
 2025-02-01 Sat:  
 
 Last week, we investigated the issue of an unusually high number of known peers. As part of this effort, I created [PR #4839](https://github.com/harmony-one/harmony/pull/4839), which removes streams from the peer store if they fail the sanity check. This change is expected to improve peer management, and we plan to test it on the devnet next week.  
