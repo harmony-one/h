@@ -1,3 +1,10 @@
+2025-02-07 Fri:
+- Investigated and resolved an issue with the effective gas price. Developed tests to validate the creation of transaction receipts and block receipts across a range of 0% to 15%.
+- Collaborated with Sun on the EIP-1153 transition storage, gathering and refining implementation requirements.
+- Updated old pull requests with the latest changes from the development branch.
+
+---
+
 2025-01-31 Fri:
 - Identified the cause of the view change issue and am actively working on a fix. The issue occurred because a node was left mining alone, with no other nodes triggering block processing mechanisms like prepare and commit.
 - Reviewed and merged multiple PRs.
