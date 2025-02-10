@@ -2,7 +2,7 @@
 
 2025-02-07 Fri: Improvements to the Reward Distributor contract: transition from Ownable to AccessControl. [Added](https://github.com/harmony-one/erc-4626/pull/7) manager role to set epoch duration and epoch reward. Withdrawal methods are available only to the main admin role. Synchronized with Artem regarding improvements to Token Factory - working on another modification for the factory without competition but with support for all events and methods of the original (for full compatibility in the frontend).
 
-2025-02-06 Thu: Completed deploying smart contracts (proxy, USDCe, converter), [published](https://usdc-converter.web.app/?token=0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5) the frontend demo of the usdc converter, and [made](https://github.com/harmony-one/usdc-converter/pull/4) several ui corrections. Working on a flow description for testing a unify bridge assets full demo.
+2025-02-06 Thu: Completed deploying smart contracts: proxy, USDCe, converter, [published](https://usdc-converter.web.app/?token=0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5) the frontend demo of the usdc converter, and [added](https://github.com/harmony-one/usdc-converter/pull/4) several ui corrections. Working on a flow description for testing a unify bridge assets full demo.
 
 2025-02-05 Wed: Deployment and configuration of the production version of contracts for the USDCe token, proxy contracts for the bsc USDC and USDCe harmony bundle, deployment USDC converter contracts and frontend app, etc.
 
