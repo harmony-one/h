@@ -1,3 +1,7 @@
+2025-02-08 Sun (2.0h): Research on defi report continued. Added further notes to later scope for ideas.
+
+2025-02-07 Sat (3.0h): Continued deeper reading on Defi report. Looked through some of the links, started taking down notes.
+
 2025-02-06 Fri: Product research on open-source, on-chain, non-custodial telegram bots. Deeper read into [Defi report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025) and research to scope out use cases/deliverables for Harmony.
 
 2025-02-05 Thu: Continued work on deepseek by reading [paper](https://huggingface.co/papers/2405.14333) + attempt to replicate their experiment but later transitioned to research on Defi. Started researching into the products mentioned in [Defi Delphi Digital report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025).
