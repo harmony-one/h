@@ -1,12 +1,16 @@
-2025-02-07: Fri: Pump.ONE: started working on client update to support two different token factories (with competitions and simple one, only trading). Synced with Yueiy on technical details regarding Pump.ONE contract updates.
+2025-02-10 Mon: Pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/d14ef8ab4509c68bb164ee51affc0a266dff422d) option to create token with or without competition mode; completed refactoring to support two contracts (with enabled and disabled competitions). [Added](https://github.com/harmony-one/pump.fun.client/commit/c6c467fcc9e56e6eacb78ec82d687a6c230cd395) competition rules on token creation page.
 
-2025-02-06: Thu: Pump.ONE: [completed](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/a5ffb9b1828f1fb1d4e1b5006a51e33ca8b96393) multiple tokens factory support in tokens indexer; send suggestions about gamification of Pump.ONE competitions to Aaron for review
+---
 
-2025-02-05: Wed: Pump.ONE: [started](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/82c17fc54b491d6a0b2f2404e42b34b7da60b5c2) working on multiple token factories to support optional competitions; updated database scheme in tokens indexer.
+2025-02-07 Fri: Pump.ONE: started working on client update to support two different token factories (with competitions and simple one, only trading). Synced with Yueiy on technical details regarding Pump.ONE contract updates.
 
-2025-02-04: Tue: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/10e067353e65a1f80b6b01746b2631fb2780dab9) button to add boostDAI token to Metamask with 1 click. Completed USDC-converter [pull request](https://github.com/harmony-one/usdc-converter/pull/3/files) with interface updates and send for the review.
+2025-02-06 Thu: Pump.ONE: [completed](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/a5ffb9b1828f1fb1d4e1b5006a51e33ca8b96393) multiple tokens factory support in tokens indexer; send suggestions about gamification of Pump.ONE competitions to Aaron for review
 
-2025-02-03: Mon: USDC converter client: [added](https://github.com/harmony-one/usdc-converter/pull/3/files#diff-e56cb91573ddb6a97ecd071925fe26504bb5a65f921dc64c63e534162950e1ebR38) insufficient balance validation, moved params to separate config file, fixed "max" amount button styles
+2025-02-05 Wed: Pump.ONE: [started](https://github.com/harmony-one/pump.fun.backend/pull/7/commits/82c17fc54b491d6a0b2f2404e42b34b7da60b5c2) working on multiple token factories to support optional competitions; updated database scheme in tokens indexer.
+
+2025-02-04 Tue: yield enhancer: [added](https://github.com/harmony-one/yield-enhancer/commit/10e067353e65a1f80b6b01746b2631fb2780dab9) button to add boostDAI token to Metamask with 1 click. Completed USDC-converter [pull request](https://github.com/harmony-one/usdc-converter/pull/3/files) with interface updates and send for the review.
+
+2025-02-03 Mon: USDC converter client: [added](https://github.com/harmony-one/usdc-converter/pull/3/files#diff-e56cb91573ddb6a97ecd071925fe26504bb5a65f921dc64c63e534162950e1ebR38) insufficient balance validation, moved params to separate config file, fixed "max" amount button styles
 
 ---
 
