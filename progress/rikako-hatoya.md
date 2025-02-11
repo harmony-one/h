@@ -1,3 +1,5 @@
+2025-02-09 Mon: Scoped out few possible ideas from Defi report. Researched personal on-chain finance and end-to-end finance products that have good reputation but has not been introduced yet to on-chain.
+
 2025-02-08 Sun (2.0h): Research on defi report continued. Added further notes to later scope for ideas.
 
 2025-02-07 Sat (3.0h): Continued deeper reading on Defi report. Looked through some of the links, started taking down notes.
