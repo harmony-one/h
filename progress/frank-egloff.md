@@ -1,4 +1,9 @@
-2025-02-06 Thu: 2025-02-06 Thu: Resolved Harmony LLM dependencies (openai, anthropic, httpx) but encountered _Insufficient Balance_ error from DeepSeek API. WalletConnect [PR testing](https://github.com/harmony-one/staking-dashboard/issues/719#issuecomment-2641012018) blocked by build errors due to viem/wagmi packages using optional chaining - incompatible with current webpack/babel config.
+2025-02-10 Mon: Implemented stream completion and usage metrics for [DeepSeek model](https://github.com/harmony-one/harmony-llm-api/pull/29). Completed DeepSeek integration between llm-backend and [1Bot](https://github.com/harmony-one/HarmonyOneBot/pull/376). Still need funding to enable /sd command.
+
+---
+2025-02-07 Fri: Integrated DeepSeek with 1Bot using GPT-3.5-turbo as fallback during payment issues with Deep Seek Platform. Tested Ledger Wallet integration with new configurations from [PR #719](https://github.com/harmony-one/staking-dashboard/issues/719#issuecomment-2645898448) - still blocked by M1 compatibility issues.
+
+2025-02-06 Thu: Resolved Harmony LLM dependencies (openai, anthropic, httpx) but encountered _Insufficient Balance_ error from DeepSeek API. WalletConnect [PR testing](https://github.com/harmony-one/staking-dashboard/issues/719#issuecomment-2641012018) blocked by build errors due to viem/wagmi packages using optional chaining - incompatible with current webpack/babel config.
 
 2025-02-05 Wed: Tested Devin's PR and suggested adding [openssl legacy provider](https://github.com/polymorpher/staking-dashboard/pull/2) to node options env var for M1 compatibility on Devin's PR. Obtained DeepSeek API KEY. The LLM backend integration revealed dependency conflicts from openai package update.
 
