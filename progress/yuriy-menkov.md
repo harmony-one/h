@@ -1,3 +1,10 @@
+
+2025-02-11 Tue: After synchronizing with Artem and Aaron, it was decided to add publishing methods on Uniswap to the contract and make the token non-tradable after publication. Pushed new [version[(https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/27ce4e5eae0a9da5d55772600828800fab4e83d2). Tested new contract version, found an error "execution reverted: LOK" (uniswap intercation) - Working with Aaron on a fix.
+
+2025-02-10 Mon: [Completed](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/aff875bff2ed28391b3ffbb562a2ac847e451baa) the Token Factory Base contract: only token release, purchase, sale. I gave it to Aaron for review. Working with Artem on integration.
+
+---
+
 2025-02-07 Fri: Improvements to the Reward Distributor contract: transition from Ownable to AccessControl. [Added](https://github.com/harmony-one/erc-4626/pull/7) manager role to set epoch duration and epoch reward. Withdrawal methods are available only to the main admin role. Synchronized with Artem regarding improvements to Token Factory - working on another modification for the factory without competition but with support for all events and methods of the original (for full compatibility in the frontend).
 
 2025-02-06 Thu: Completed deploying smart contracts: proxy, USDCe, converter, [published](https://usdc-converter.web.app/?token=0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5) the frontend demo of the usdc converter, and [added](https://github.com/harmony-one/usdc-converter/pull/4) several ui corrections. Working on a flow description for testing a unify bridge assets full demo.
