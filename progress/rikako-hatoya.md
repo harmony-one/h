@@ -1,3 +1,5 @@
+2025-02-10 Tue: Sync with Li, discussion on AI agents and trading strategies. Worked on forking near intents contracts.
+
 2025-02-09 Mon: Scoped out few possible ideas from Defi report. Researched personal on-chain finance and end-to-end finance products that have good reputation but has not been introduced yet to on-chain.
 
 ---
