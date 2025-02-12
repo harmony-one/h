@@ -1,5 +1,5 @@
 
-2025-02-11 Tue: After synchronizing with Artem and Aaron, it was decided to add publishing methods on Uniswap to the contract and make the token non-tradable after publication. Pushed new [version[(https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/27ce4e5eae0a9da5d55772600828800fab4e83d2). Tested new contract version, found an error "execution reverted: LOK" (uniswap intercation) - Working with Aaron on a fix.
+2025-02-11 Tue: After synchronizing with Artem and Aaron, it was decided to add publishing methods on Uniswap to the contract and make the token non-tradable after publication. Pushed new [version](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/27ce4e5eae0a9da5d55772600828800fab4e83d2). Tested new contract version, found an error "execution reverted: LOK" (uniswap intercation) - Working with Aaron on a fix.
 
 2025-02-10 Mon: [Completed](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/aff875bff2ed28391b3ffbb562a2ac847e451baa) the Token Factory Base contract: only token release, purchase, sale. I gave it to Aaron for review. Working with Artem on integration.
 
