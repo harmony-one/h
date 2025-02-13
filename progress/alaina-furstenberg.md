@@ -1,8 +1,12 @@
-2024-01-27 - 2024-02-11: Paid Time Off.
+2024-02-13 Thu: Reading of "The Fat Wallet Thesis". Continuation of exchange.one mockups. Drafting of responses to community questions on Reddit.
+
+2024-02-12 Wed: Sync with Li, Amanda, and Theo. Read team progress to get up to speed. Read Delphi Digital report: The Year Ahead for DeFi 2025. Quote tweet about Kraken Pro integrating ONE perps. Began design of exchange.one frontend
+
+2024-01-27 Mon - 2024-02-11 Tue: Paid Time Off.
 
 ---
 
-2024-01-26 Sun:
+2024-01-26 Sun: Writing of week 3 of the January newsletter.
 
 2024-01-25 Sat: Community section tweet.
 
@@ -10,7 +14,7 @@
 
 2024-01-23 Thu: Sync with Theo on UX for the Universal Bridge. Sent first iteration
 
-2024-01-22 Wed: 
+2024-01-22 Wed: Began iterating designs for the Universal Bridge. Continued research on AI Marketing tools to 10x impact. Sync with Amanda on offboarding in preparation for PTO.
 
 2024-01-21 Tue: Preparation of [launch thread](https://www.notion.so/harmonyone/pump-one-launch-materials-182a38fc04878080970cd2d93437b962) for pump.one and animation of a promotional graphic. Began draft revising wording on the pump.one rules, for clarity. [Tweet]() on b.country plus design of a graphic in Midjourney. Resolution of Ledger icons with Soph. Sync with team and 1 v 1 with Li. Action items: find AI marketing tools to amplify our impact.
 
