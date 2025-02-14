@@ -1,3 +1,14 @@
+2025-02-14 Fri:
+
+The main focus of this week was to enhance our monitoring stack with [ssl-exporter](https://github.com/ribbybibby/ssl_exporter). I've researched how to put endpoints to monitor and put it as an additional container, integrated it with the current Prometheus stack, developed a dashboard to observe endpoints in one place. Main advantage - now we have one place where we can check the SSL state of all our endpoints and their expiration time.
+help with ongoing issues with the latest `v2025.0.0` release.
+
+From the testing side, I've checked how to better handle logs for the rossetta test for both local and CI run. Now both stdout/stderr will be stored in the `output_rossetta.log`, main benefit - logs are silenced for the CI, but we still have them if we need to debug issues like it was with Sun's PR last week.
+
+And finally from the ops side, I've fixed several issues like filesystem corruption on the testnet bootnode, out of space issues on the monitoring server and internal validator, absence of monitoring for the testnet's bootnode.
+
+---
+
 2025-02-07 Fri:
 
 The main focus of this week was to help with ongoing issues with the latest `v2025.0.0` release.
