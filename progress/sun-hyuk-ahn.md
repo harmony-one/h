@@ -1,4 +1,18 @@
-2025-02-06 Thu:
+2025-02-14 Fri:
+
+2025-02-13 Thu: Continued the debugging process and pushing changes to test against the travis rosetta checker. Will continue debugging tomorrow.
+
+2025-02-12 Wed: Began the debugging process and trigerring different workflows.
+
+2025-02-11 Tue: Analyzing Rosetta library in order to understand how differently transactions are created.
+
+2025-02-10 Mon: Began looking over the Tavis CI failure ([script](https://github.com/harmony-one/harmony/blob/main/scripts/travis_rosetta_checker.sh)).
+
+---
+
+2025-02-06 Fri: Completed testing for [PR 4833](https://github.com/harmony-one/harmony/pull/4833).
+
+2025-02-06 Thu: Continued core logic implementation.
 
 2025-02-05 Wed: Complete core logic update and unit tests for [PR 4833](https://github.com/harmony-one/harmony/pull/4833). Looking into integration tests calling `debug_traceCall`.
 
