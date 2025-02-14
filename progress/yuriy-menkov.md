@@ -1,4 +1,8 @@
 
+2025-02-13 Thu: The transition from Ownable to Access Control contracts has been [implemented](https://github.com/harmony-one/pump.fun.contracts/pull/24) to make it possible to allocate a separate Manager role, which will initiate the start of a new competition. The Administrator role will still be responsible for updating the contract and setting up the configuration.
+
+2025-02-12 Wed: Researched the issue with pablish to uniswap after competition ending. [Reviewed](https://github.com/harmony-one/pump.fun.contracts/pull/23) a pull request from Aaron with a bug fixes. Transferred fixes to Token Factory Base. Synchronized with Artem about updates. A reqiredCollateral parameter has also been added to control the minimum collateral before publishing.
+
 2025-02-11 Tue: After synchronizing with Artem and Aaron, it was decided to add publishing methods on Uniswap to the contract and make the token non-tradable after publication. Pushed new [version](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/27ce4e5eae0a9da5d55772600828800fab4e83d2). Tested new contract version, found an error "execution reverted: LOK" (uniswap intercation) - Working with Aaron on a fix.
 
 2025-02-10 Mon: [Completed](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits/aff875bff2ed28391b3ffbb562a2ac847e451baa) the Token Factory Base contract: only token release, purchase, sale. I gave it to Aaron for review. Working with Artem on integration.
