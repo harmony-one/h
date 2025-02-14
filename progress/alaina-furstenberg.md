@@ -8,11 +8,11 @@
 
 2024-01-26 Sun: Writing of week 3 of the January newsletter.
 
-2024-01-25 Sat: Community section tweet.
+2024-01-25 Sat: Community section [tweet](https://x.com/harmonyprotocol/status/1883225071491178881).
 
 2024-01-24 Fri: Team outing in Palo Alto.
 
-2024-01-23 Thu: Sync with Theo on UX for the Universal Bridge. Sent first iteration
+2024-01-23 Thu: Sync with Theo on [UX for the Universal Bridge](https://www.figma.com/design/cPy595g2lrkAKzSu84OIwA/Simple-Defi-Platform?node-id=0-1&t=epgtzBv1ptXki9Bo-1). Sent first iteration
 
 2024-01-22 Wed: Began iterating designs for the Universal Bridge. Continued research on AI Marketing tools to 10x impact. Sync with Amanda on offboarding in preparation for PTO.
 
