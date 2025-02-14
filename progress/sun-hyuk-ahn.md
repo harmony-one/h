@@ -1,8 +1,8 @@
-2025-02-14 Fri:
+2025-02-14 Fri: Updated the logic to bypass EOA check for staking transactions as Harmony allows for multisigs to send staking transactions. This does not break the original functionality as non-EOAs do not have signing functionality required to become validators. All Travis checks are passing now ([PR #4849](https://github.com/harmony-one/harmony/pull/4849)).
 
 2025-02-13 Thu: Continued the debugging process and pushing changes to test against the travis rosetta checker. Will continue debugging tomorrow.
 
-2025-02-12 Wed: Began the debugging process and trigerring different workflows.
+2025-02-12 Wed: Began the analyzing the issue by trigerring different workflows. As of now, the issue seems to root from staking transactions.
 
 2025-02-11 Tue: Analyzing Rosetta library in order to understand how differently transactions are created.
 
