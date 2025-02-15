@@ -1,12 +1,16 @@
 2025-02-09 Sun: My week was driven by research about trends and new developments in 2025. Specifically, DeFAI in its early stages and its potential to see how we can apply it to Harmony. The whole approach needs to be revisited. Apart from that, general trends for this year need to be identified to see how we can improve Harmony as an ecosystem. I see the vision of Harmony becoming the "Savings Chain" leveraging products from other chains and presenting them in a consumer-friendly, simple way. 
 
+---
 
 2025-02-01 Sat: The Yield Enhancer is ready to be launched. Only bridge assets need to be unified to prepare for better liquidity. I finalized the DeFi roadmap for Harmony, which will be published within the next few days before the Yield Enhancer launch alongside additional content. In addition, I am researching current solutions and trends to identify how a potential interaction with DeFi apps could look in the near future utilizing new technologies such as the use of LLMs, Agents, Wallet abstractions, gamification, and more. The goal is to onboard new user groups that are not familiar with DeFi to the Harmony ecosystem. 
+
+---
 
 2025-01-25 Sat: Given the start of the new year, I prepared an article outlining the DeFi roadmap for Harmony in 2025 and gathered material for a general DeFi-related outlook. The Outlook is going to be published in a video format and will cover new trends, the general environment, and previously emerging innovations across the DeFi landscape. 
 
 In addition, to anticipate the launch of the Harmony Yield Enhancer I prepared additional content that can be used for marketing purposes such as an article and raw Twitter content. 
 
+---
 
 2025-01-18 Sat: The last two weeks were occupied by testing the Harmony Yield Enhancer, planning the next steps for the product, and preparing a marketing strategy for its launch. I curated a list of KOLs focussing on yield farming and DeFi that I can contact at launch. I prepared content to promote boostDAI strategies on the Harmony Twitter account.
 
@@ -14,7 +18,7 @@ After launch, cross-chain deposits and 1-click deposits with any asset from any 
 
 In general, a broader audience outside of the current Harmony community needs to be reached. I had a discussion with Zi about potential cross-community marketing, especially non-crypto natives.
 
-
+---
 
 Q4 Review
 
