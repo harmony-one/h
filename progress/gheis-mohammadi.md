@@ -1,3 +1,15 @@
+2025-02-15 Sat: Last week was very productive, with multiple PRs created, reviewed, finalized, and merged.  
+
+- **[PR #4846](https://github.com/harmony-one/harmony/pull/4846) Merged:** This PR addresses the connectivity issue of **explorer nodes** by adding them to the protocol ID, allowing them to discover and connect with other nodes sharing the same protocol ID.  
+- **[PR #4839](https://github.com/harmony-one/harmony/pull/4839) Finalized:** Reviewed and updated with a new commit, now ready for merging.  
+- **[PR #4845](https://github.com/harmony-one/harmony/pull/4845) Finalized:** Addressed review concerns by adding a few commits, making it ready for merging.  
+- **[PR #4847](https://github.com/harmony-one/harmony/pull/4847) Created:** This PR refactors **staged stream sync loggers** by introducing a dedicated **local logger for each stage**. This enhancement improves log traceability, making it easier to debug and filter logs using **Loki** or other monitoring tools.  
+- **[PR #4848](https://github.com/harmony-one/harmony/pull/4848) Created:** Updates the **advertisement logic** in the protocol, making it more **reliable and adaptive**. This PR introduces a **retry mechanism, dynamic timeout adjustments, peer discovery tracking, and optimized sleep time adjustments** to enhance peer-to-peer connectivity.  
+
+Additionally, I am focusing on fixing a **race condition** affecting **explorer nodes**. Once resolved, we plan to **upgrade and restart** explorer nodes on **streamnet** to improve stability and performance.  
+
+---
+
 2025-02-08 Sat: Last week, I completed and finalized [PR #4841](https://github.com/harmony-one/harmony/pull/4841), addressing issues and refactoring some parts of the code for better integration and performance. This PR introduces a **Connection Manager**, a **Connection Gater**, and an **Extended Peer Store**, enhancing Harmony’s P2P network management.  
 
 We also continued investigating the **stream net** issue affecting explorer nodes, specifically related to block insertion failures. Our deep investigation identified several corner cases:
