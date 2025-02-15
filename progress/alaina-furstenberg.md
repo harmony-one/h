@@ -1,4 +1,6 @@
-2024-02-13 Thu: Reading of "The Fat Wallet Thesis". Continuation of exchange.one mockups. Drafting of responses to community questions on Reddit.
+2024-02-14 Fri: Revision of Ledger icons, sent to Ledger team. Update of the community section plus [posting to X](https://x.com/harmonyprotocol/status/1890534187062489138). Thread on team's progress. Sync with Theo on the exchange.one interface. Aiming for a 'bento box' design to fit in all the components.
+
+2024-02-13 Thu: Reading of "The Fat Wallet Thesis". Continuation of exchange.one mockups. Drafting of responses to community questions on Reddit. [Li.Fi quote tweet](https://x.com/harmonyprotocol/status/1890128910391865775).
 
 2024-02-12 Wed: Sync with Li, Amanda, and Theo. Read team progress to get up to speed. Read Delphi Digital report: The Year Ahead for DeFi 2025. Quote tweet about Kraken Pro integrating ONE perps. Began design of exchange.one frontend
 
