@@ -1,3 +1,7 @@
+2025-02-13 Fri: Continued reading through/researching relevant links+products mentioned in fat wallet thesis. Started working on bridge contracts.
+
+2025-02-12 Thu: Read through the fat wallet thesis [report](https://members.delphidigital.io/reports/the-fat-wallet-thesis). Continued working on near intents. 
+
 2025-02-11 Wed: Continued work on near intents contracts. Search for UI repo for near intents.
 
 2025-02-10 Tue: Sync with Li, discussion on AI agents and trading strategies. Worked on forking near intents contracts.
