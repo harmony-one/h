@@ -1,3 +1,11 @@
+2025-02-14 Fri: Continued outreach with Infinex. Research and sync with Alaina for [exchange.one](https://exchange.one).
+
+2025-02-13 Thu: Updates on quote tweets from main account. Product sync with Artem for [Pump.one](https://pump.one) competitions.
+
+2025-02-12 Wed: Group made with Holyheld, continued Infinex conversations. Catch up and sync with Alaina on products and marketing.
+
+2025-02-11 Tue: Testing Hey Anon platform. Insight: still minor automation, not very helpful short term, long term will be how everyone interacts with DeFi, abstracted via agents. Initial planning for bridge revamp with Layerzero.
+
 2025-02-10 Mon: Outreach for Holyheld and Infinex, coordination with Philipp to reach out to all from Delphi Digital year ahead for 2025. Insight: [infinex](https://infinex.xyz) as an abstraction layer, with focus on product seems most promising.
 
 ---
