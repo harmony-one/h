@@ -1,3 +1,9 @@
+2025-02-18 Tue:
+
+2025-02-17 Mon: Federal holiday
+
+---
+
 2025-02-14 Fri: Updated the logic to bypass EOA check for staking transactions as Harmony allows for multisigs to send staking transactions. This does not break the original functionality as non-EOAs do not have signing functionality required to become validators. All Travis checks are passing now ([PR #4849](https://github.com/harmony-one/harmony/pull/4849)).
 
 2025-02-13 Thu: Continued the debugging process and pushing changes to test against the travis rosetta checker. Will continue debugging tomorrow.
