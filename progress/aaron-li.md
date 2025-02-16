@@ -1,3 +1,49 @@
+2025-2-14 Fri (5.4h): Review and comment on Pump.ONE simple launcher contract and access control. Review research reports and related technical documents on wallets, stablecoins, and DeFi cards.
+
+2025-2-13 Thu (9.4h): Revise and debug Pump.ONE contracts and fix several critical errors related to interacting with Uniswap. Implementing Ledger integration on staking dashboard via new SDK
+
+2025-2-12 Wed (1.2h): Fix staking dashboard compile and local debugging issues. Debugging WalletConnect for dev mode Ledger Live app. Debugging Ledger hardware raw communication via USB
+
+2025-2-11 Tue (6.4h): Fix staking dashboard compile and local debugging issues. Debugging WalletConnect for dev mode Ledger Live app. Debugging Ledger hardware raw communication via USB. Domain operations: debug renewal abnormality on special domains and user-reported issues
+
+---
+
+2025-2-9 Sun (0.5h): Discussions on TODOs for Pump.ONE, vault, and USDC converter
+
+2025-2-5 Thu (2.4h): Code review and discussions on Ledger integeration, math proof, vault, Uniswap v4 requirement
+
+2025-2-5 Wed (1.5h): Discuss Pump.ONE launch and implementation options for non-competition mode. Discuss Devin experiment for staking dashboard bugs and Ledger integrations. Review DeFi AI report, DeFi questions
+
+2025-2-4 Tue (2.4h): Discuss Pump.ONE launch and implementation options for non-competition mode. Discuss Devin experiment for staking dashboard bugs and Ledger integrations. Review DeFi AI report, DeFi questions. Discussing pump.ONE launch issues. Experiment with Devin: staking dashboard dependencies upgrade, resolving arm64 compatibility issues, and setup pipeline. Review Ledger Live integration and Ledger staking dashboard integration
+
+2025-2-3 Mon (0.4h): Review Ledger integration options and progress for Ledger app
+
+---
+
+2025-2-2 Sun (0.9h): Review EIP implementation plans and issues. Domain management, Eliza plugin updates, and upgradable pump.ONe contracts
+
+---
+
+2025-1-26 Sun (1.1h): Review bridge unification and USDC convertion code
+
+2025-1-25 Sat (2.9h): Review Cancun EIP-4844 (blob transactions), EIP-5656 (memory copy op code), and EIP-6780 changes to SELFDESTRUCT and underlying reasons related to planned use of Verkle Tree. Review Verkle tree and current implementation progress
+
+2025-1-24 Fri (0.5h): Review on EIP 1153 (trasient storage), EVM changes, and tests
+
+2025-1-23 Thu (0.5h): Domain operations, batch renewal and refine automation process
+
+---
+
+2025-1-19 Sun (0.7h): Review Cancun EIPs and research on paths for minimum implementation
+
+2025-1-17 Fri (2.9h): Review Instanbul, Berlin, London, Arrow Glacier, Gray Glacier, Paris, Shanghai, London related EIPs in detail, and related code
+
+2025-1-16 Thu (0.5h): Review Instanbul, Berlin, London, Arrow Glacier, Gray Glacier, Paris, Shanghai, London related EIPs in detail, and related code
+
+2025-1-15 Wed (1.4h): Review Instanbul, Berlin, London, Arrow Glacier, Gray Glacier, Paris, Shanghai, London related EIPs in detail, and related code
+
+2025-1-14 Tue (0.7h): Discussions on Pump.ONE, vault issues, bridge and stablecoin unification issues
+
 2025-1-13 Mon (3h): Review and comment on vault code updates. Detailed review of EIP 3074, 5003, and related notes and oppositions
 
 ---
