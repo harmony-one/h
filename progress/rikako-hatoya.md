@@ -1,3 +1,7 @@
+2025-02-15 Sun: Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
+
+2025-02-14 Sat: Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
+
 2025-02-13 Fri: Continued reading through/researching relevant links+products mentioned in fat wallet thesis. Started working on bridge contracts.
 
 2025-02-12 Thu: Read through the fat wallet thesis [report](https://members.delphidigital.io/reports/the-fat-wallet-thesis). Continued working on near intents. 
