@@ -1,4 +1,4 @@
-2025-02-18 Tue:
+2025-02-18 Tue: (Write unit tests for the updated StakingMessage, start transient storage)
 
 2025-02-17 Mon: Federal holiday
 
