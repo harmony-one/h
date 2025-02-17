@@ -1,3 +1,11 @@
+2025-02-14 Fri: A workaround for the harmony-test repo's localnet issue has been deployed, reducing the number of spawned nodes from 24 to 8, a resource usage improvement of over 65%. 1-second finality testing in localnet shows promising results with an average block time of 1.05s. Devnet 1-second finality testing with a live network and real transactions is upcoming. [A fix](https://github.com/harmony-one/harmony/pull/4844) for the 2025.0.0 transaction receipt RPC failure for pre-release transactions has been successfully tested. Staking dashboard development for Ledger support is in progress. A demo site showcasing login and address display with the new Ledger app v1.15.0 has been deployed, but significant further development is needed for full dashboard integration.
+
+---
+
+2025-02-07 Fri: Travis CI tests rely on the harmony-test repo's localnet configuration.  This week, we've been working to reduce the number of spawned nodes to optimize Travis CI resource usage. This revealed a corner-case consensus issue in localnet, occurring during the transition from the pre-staking to staking epoch when no external validators are present and all internal BLS keys reside on a single node.  An initial fix is in place, but further work is required.  Development of the staking dashboard's Ledger support continues.
+
+---
+
 2025-01-31 Fri: The network has seen improved performance following validator node upgrades to v2025.0.0. Harmony Ledger v1.15.0 has been delivered; a public announcement will be made after the staking dashboard is updated to support the new ledger application.  Testing and review of the new staking data features for the Harmony Explorer are underway on mainnet, with production deployment expected shortly.
 
 ---
