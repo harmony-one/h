@@ -1,3 +1,7 @@
+2025-02-17 Mon: Pump.ONE: [added](https://github.com/harmony-one/pump.fun.backend/commit/c76cc6a615c5c66e53e7b620c7ba9961b98591f0) total number of participants in competitions list; continue testing: [fixed](https://github.com/harmony-one/pump.fun.client/commit/30763189154011063def0ee9ba24db1e76ea5c49) check is burn token available for competition token, found bug in contract method burnTokenAndMintWinner, sent info to Yuriy.
+
+---
+
 2025-02-14 Fri: Pump.ONE: deployed [new version](https://github.com/harmony-one/pump.fun.contracts/pull/24) of contracts with access control, [added](https://github.com/harmony-one/pump.fun.client/commit/466d203a7ba687d493fbeb1b76495a70188dc972) new Competitions page and [publish](https://github.com/harmony-one/pump.fun.client/commit/d985ac10a8de103b21c387c455b77ee4a50e80c6) to swap.country for non-competition token in client. [Updated](https://pump-one-staging.netlify.app/board) and tested staging client.
 
 2025-02-13 Thu: Pump.ONE: completed support of [updated version](https://github.com/harmony-one/pump.fun.contracts/pull/22/commits) of contracts in client and backend, [added](https://github.com/harmony-one/pump.fun.client/commit/f4c7e7b8b5dc85a0b6515812d5ccce8d2dcdbd52) collateral progress bar in client on the token page. Synced with Yuriy on issue with publishToUniswap method; [staging](https://pump-one-staging.netlify.app/) client update will be deployed after the fix.
