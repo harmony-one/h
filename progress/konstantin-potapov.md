@@ -1,3 +1,10 @@
+2025-02-14 Fri:
+- Reduced block production time from 1 second to 0.950 seconds in the 1-second-finality branch to mitigate network latency.
+- Implemented a new block version following EIP-1559 and EIP-3198. This branch incorporates changes introduced in these two Ethereum EIPs as part of the London hardfork.
+- Updated the BLS library with the latest changes from upstream. This branch includes over 100 modified files, incorporating the latest security updates. 
+
+---
+
 2025-02-07 Fri:
 - Investigated and resolved an issue with the effective gas price. Developed tests to validate the creation of transaction receipts and block receipts across a range of 0% to 15%.
 - Collaborated with Sun on the EIP-1153 transition storage, gathering and refining implementation requirements.
