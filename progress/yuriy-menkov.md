@@ -1,3 +1,8 @@
+2025-02-17 Mon: Deploy hrc20 production contacts for usdc tokens (eth, arb, bsc, base, linea). Detailing and planning work to update the bridge - transition to LayerZero V2, creation of a common contract for all tokens with the dynamic connection of new tokens.
+
+---
+
+2025-02-14 Fri: [Improvements](https://github.com/harmony-one/usdc-converter/pull/5) to the USDC converter: since bscUSDC differs in decimals from USDC of other chains - amount normalization has been added when converting tokens - now the decimals of input and output tokens are taken into account. Tests have been updated and contracts redeployed.
 
 2025-02-13 Thu: The transition from Ownable to Access Control contracts has been [implemented](https://github.com/harmony-one/pump.fun.contracts/pull/24) to make it possible to allocate a separate Manager role, which will initiate the start of a new competition. The Administrator role will still be responsible for updating the contract and setting up the configuration.
 
