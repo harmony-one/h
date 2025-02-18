@@ -1,3 +1,7 @@
+2025-02-16 Mon (Federal Holiday, 3.0h): Sync with Li. Looked into how to integrate bridged assets to swap pools, and layerzero.
+
+---
+
 2025-02-15 Sun: Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
 
 2025-02-14 Sat: Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
