@@ -1,4 +1,4 @@
-2025-02-18 Tue: (Write unit tests for the updated StakingMessage, start transient storage)
+2025-02-18 Tue: [Completed](https://github.com/harmony-one/harmony/pull/4849/commits/71f2d3d89c6fe14e19ac067f3b2ee57b4459544d) testing for the updated StakingMessage.
 
 2025-02-17 Mon: Federal holiday
 
