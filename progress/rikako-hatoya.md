@@ -1,3 +1,5 @@
+2025-02-17 Tue: Continued with forking layerzero. Look into adding multiple tokens at once to bridge.
+
 2025-02-16 Mon (Federal Holiday, 3.0h): Sync with Li. Looked into how to integrate bridged assets to swap pools, and layerzero.
 
 ---
