@@ -1,3 +1,13 @@
+2025-02-18 Tue: Completed [extensive marketing plan](https://www.notion.so/harmonyone/Harmony-2025-Product-Marketing-19ea38fc0487800aa743fdca04c7fd59) for upcoming 5 product launches and ecosystem upgrades and sync with Alaina for product marketing schedule. Submitted [PR](https://github.com/harmony-one/yield-enhancer/compare/main...ONETheo:yield-enhancer-1:patch-2) for Yield Boost Readme.
+
+2025-02-17 Mon: Federal Holiday
+
+---
+
+2025-02-16 Sun: (2.0h) Continued working with agents, using mistral with function calling. Insight: post-action observability is the difference between a quality agent and a lucky LLM.
+
+2025-02-15 Sat: (3.0h) Dive into daily & weekly DeFi uses. Insights: Pull for simple, consistent yield rather than aggressive casino pump and dumps.
+
 2025-02-14 Fri: Continued outreach with Infinex. Research and sync with Alaina for [exchange.one](https://exchange.one).
 
 2025-02-13 Thu: Updates on quote tweets from main account. Product sync with Artem for [Pump.one](https://pump.one) competitions.
