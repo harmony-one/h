@@ -1,4 +1,4 @@
-2024-02-19 Wed: Animation of pump.one teaser + teaser tweet. Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
+2024-02-19 Wed: Animation of pump.one teaser + [teaser tweet](https://x.com/harmonyprotocol/status/1892348425905021359). Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
 
 2024-02-18 Tue: [Thread](https://x.com/harmonyprotocol/status/1891929102128447882) on team progress. [Quote tweet](https://x.com/harmonyprotocol/status/1891972637770854730) from Stephen on yields. Sync with Theo on marketing intitiatives for upcoming product launches. 
 
