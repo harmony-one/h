@@ -1,3 +1,8 @@
+2025-02-17 Mon: Designed architecture for portfolio rebalancer prototype after scope discussion with Li. Started development of asset allocation grid.
+
+---
+2025-02-14 Fri: Developed deposit website for harmony-llm-api within Flask ecosystem. Pending fixes on deposit-web endpoint integration.
+
 2025-02-13 Thu: Developing payment integration with ONE balance management for harmony-llm-api models access. Started client website for users to add ONE balance.
 
 2025-02-12 Wed: Fixed image generation in 1Bot after vision model discontinuation - all models now include vision features. Deployed DeepSeek model to harmony-llm-api dev and 0Bot for testing. Requests successful despite high latency due to DeepSeek API streaming issues.
