@@ -1,4 +1,6 @@
-2025-02-18 Tue: [Completed](https://github.com/harmony-one/harmony/pull/4849/commits/71f2d3d89c6fe14e19ac067f3b2ee57b4459544d) testing for the updated StakingMessage. Analyzed `StateDB` and [documented](https://brazen-need-a0a.notion.site/StateDB-Explained-19e04f79c14280309607d53d3ca8ea1d) the explanation of the core components.
+2025-02-19 Wed: ([Implemented]() transient storage opcodes.)
+
+2025-02-18 Tue: [Completed](https://github.com/harmony-one/harmony/pull/4849/commits/71f2d3d89c6fe14e19ac067f3b2ee57b4459544d) testing for the updated StakingMessage. Analyzed `StateDB` and [documented](https://brazen-need-a0a.notion.site/StateDB-Explained-19e04f79c14280309607d53d3ca8ea1d) the explanation of the core components. [Began](https://github.com/harmony-one/harmony/pull/4854) implementing transient storage opcodes.
 
 2025-02-17 Mon: Federal holiday
 
