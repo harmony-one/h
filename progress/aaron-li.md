@@ -1,3 +1,15 @@
+2025-2-19 Wed (1.6h+): Staking Dashboard: finalize CollectReward, Transfer, Undelegate. Run end-to-end tests, and make code production ready
+
+2025-2-18 Tue (6.6h): Make staking dashboard changes reprodicble. Automated scripts for patching staking dashboard dependencies post-installation. Add new yarn commands for fast local installation and testing. Debug and implement staking dashboard ledger integration for all ledger devices compatible with new and old accounts using Harmony-specific derivation paths. Test end-to-end and finalize the integration. Resolve babel, typescript, webpack transpile and compatibility issues and patch out-of-maintanence dependency files. Discuss findings
+
+2025-2-17 Mon (12.7h): Debug and implement staking dashboard ledger integration for all ledger devices compatible with new and old accounts using Harmony-specific derivation paths. Test end-to-end and finalize the integration. Resolve babel, typescript, webpack transpile and compatibility issues and patch out-of-maintanence dependency files. Discuss findings
+
+---
+
+2025-2-16 Sun (4.6h): Debugging staking dashboard code using new Ledger SDK, retrieve accounts on Ledger and complete basic login flow. Review research reports and related technical documents on wallets, stablecoins, and DeFi cards.
+
+2025-2-15 Sat (3.2h): Review research reports and related technical documents on wallets, stablecoins, and DeFi cards.
+
 2025-2-14 Fri (5.4h): Review and comment on Pump.ONE simple launcher contract and access control. Review research reports and related technical documents on wallets, stablecoins, and DeFi cards.
 
 2025-2-13 Thu (9.4h): Revise and debug Pump.ONE contracts and fix several critical errors related to interacting with Uniswap. Implementing Ledger integration on staking dashboard via new SDK
