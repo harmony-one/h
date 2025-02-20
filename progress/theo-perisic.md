@@ -1,3 +1,7 @@
+2025-02-20 Thu: Review of Aeordrome and Drift for further look into cross-chain yield aggregation. Insight: incentives and ties to longer lockups allow for more sustainable yields in volatile markets, incentives aggregator for users may be useful in itself. Scheduled [Holyheld](https://holyheld.com/) integrations call.
+
+2025-02-19 Wed: Outreach for Moralis for potential NFT and chain API. Apple Developer account coordination.
+
 2025-02-18 Tue: Completed [extensive marketing plan](https://www.notion.so/harmonyone/Harmony-2025-Product-Marketing-19ea38fc0487800aa743fdca04c7fd59) for upcoming 5 product launches and ecosystem upgrades and sync with Alaina for product marketing schedule. Submitted [PR](https://github.com/harmony-one/yield-enhancer/compare/main...ONETheo:yield-enhancer-1:patch-2) for Yield Boost Readme.
 
 2025-02-17 Mon: Federal Holiday
