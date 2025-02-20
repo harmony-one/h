@@ -1,3 +1,10 @@
+
+2025-02-20 Thu: Reviewed staking dashboard [update](https://github.com/harmony-one/staking-dashboard/pull/721) (Ledger App Integration via Ledger SDK feature). Continue to work on the architecture of the common contract of the V2 bridge.
+
+2025-02-19 Wed: [Added](https://github.com/harmony-one/usdc-converter/commit/e3933d1eba4d11a4dea63280abf761446748e482) fixes for ui usdc converter: fixed error when converting decimals, updated configs and contract addresses. A new version of ui has been [deployed](https://usdc-converter.web.app). Sent all updates to Aaron for security review.
+
+2025-02-18 Tue: [Fixed](https://github.com/harmony-one/pump.fun.contracts/pull/25/files) tests for pump.one contracts: support for interfaces of updated contracts, fixed a bug with the withdrawal of commissions by the administrator, fixed a bug with waiting for a delay between publication on Uniswap and the conversion of tokens.
+
 2025-02-17 Mon: Deploy hrc20 production contacts for usdc tokens (eth, arb, bsc, base, linea). Detailing and planning work to update the bridge - transition to LayerZero V2, creation of a common contract for all tokens with the dynamic connection of new tokens.
 
 ---
