@@ -1,3 +1,7 @@
+2025-02-19: Working on the [Portfolio Management prototype](https://github.com/harmony-one/portfolio-management-prototype/pull/1), integrating RPC calls to fetch supported ERC-20 token balances from user wallet address. Implemented and tested rebalancing algorithm with mock swap calls prior to swap integration. Resolving deployment configurations on fly.io platform.
+
+2025-02-18: Built portfolio management interface with NextJS, implementing view components and custom hooks for asset display. Set up data layer with mock API endpoints for portfolio grid integration.
+
 2025-02-17 Mon: Designed architecture for portfolio rebalancer prototype after scope discussion with Li. Started development of asset allocation grid.
 
 ---
