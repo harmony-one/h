@@ -1,4 +1,4 @@
-2025-02-20 Thu: (Began implementing 1) method to clear out transient storage prior to state db transition and 2) tests to ensure the opcodes are working as expected.)
+2025-02-20 Thu: [Implemented](https://github.com/sunwavesun/harmony/commit/1adbb9093365aa8e18589dc2c43686456a219369) and updated state db logic to clear out transient storage prior to state transition.
 
 2025-02-19 Wed: [Implemented](https://github.com/harmony-one/harmony/pull/4854) transient storage opcodes.
 
