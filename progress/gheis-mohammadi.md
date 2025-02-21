@@ -1,3 +1,21 @@
+2025-02-22 Sat: Last week, my primary focus remained on improving the **P2P layer, stream managers, and syncing modules** to enhance performance and stability. However, I also introduced two PRs aimed at **macOS users**, significantly simplifying the development process for them.  
+
+**[PR #4851](https://github.com/harmony-one/harmony/pull/4851)** updates the **README.md** with macOS-specific configuration instructions. This change provides **clear, step-by-step guidance** to help macOS developers set up their environment effortlessly. By addressing common setup issues, this update reduces onboarding time and streamlines the workflow for macOS users.  
+
+**[PR #4852](https://github.com/harmony-one/harmony/pull/4852)** introduces a **cross-platform build solution**, allowing macOS users to build **Linux static binaries** for the Harmony project. Since macOS lacks native support for Linux binaries, this PR provides a **Docker-based approach** to generate **fully functional Linux executables**. A new shell script automates the build process inside a **Docker container**, making cross-compilation seamless. Additionally, a **Makefile command** (`linux_static_from_macos`) enables developers to initiate the build with a single command. This change eliminates the need for complex manual setups, making development more efficient across platforms.  
+
+On the **P2P side**, I introduced several crucial improvements to enhance network reliability, reduce resource waste, and improve synchronization stability.  
+
+**[PR #4856](https://github.com/harmony-one/harmony/pull/4856)** fixes an issue where the **stream manager** was operating with an outdated list of streams, causing inefficiencies and missed updates. Now, the system properly signals the stream feed when a new stream is added from the **reserved list**, ensuring the request manager always operates with the latest and most relevant data.  
+
+**[PR #4857](https://github.com/harmony-one/harmony/pull/4857)** introduces **monitorStreamHealth**, a crucial function that **monitors active streams** in the request manager. If no valid peers remain for a certain threshold, the system **automatically cancels pending requests** to prevent overload and unnecessary resource usage. This watchdog mechanism significantly improves **network resilience**, preventing requests from getting stuck when no reachable peers are available.  
+
+**[PR #4853](https://github.com/harmony-one/harmony/pull/4853)** improves the **P2P layer** by introducing a **cooldown mechanism** for removed streams. Previously, if a stream was removed due to failure, the system could **immediately reconnect** to the same stream in the next discovery cycle, leading to potential issues if the peer was still unsynced or invalid. To prevent this, the update introduces a **60-minute cooldown period**, ensuring the system does not reconnect to unreliable streams too soon. Additionally, a new **RemovalInfo** structure tracks removal timestamps and expiration times, enforcing better **stream management** and **sync stability**.  
+
+These **performance improvements** significantly enhance **network reliability**, reduce **resource consumption**, and make the system more **adaptive** to dynamic network conditions.
+
+---
+
 2025-02-15 Sat: Last week was very productive, with multiple PRs created, reviewed, finalized, and merged.  
 
 - **[PR #4846](https://github.com/harmony-one/harmony/pull/4846) Merged:** This PR addresses the connectivity issue of **explorer nodes** by adding them to the protocol ID, allowing them to discover and connect with other nodes sharing the same protocol ID.  
