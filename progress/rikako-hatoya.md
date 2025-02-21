@@ -1,3 +1,7 @@
+2025-02-19 Thu: Added LayerZero [frontend PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27) and [backend PR](https://github.com/harmony-one/layerzero-bridge.appengine/pull/12) for AERO token as test. Currently looking into how to automate asset bridging process. 
+
+2025-02-18 Wed: Deployed HRC20 token wrapper, HRC20 Proxy contract, ERC20 Proxy contract (according to [this](https://github.com/harmony-one/h/blob/main/docs/bridge-add-token.md)) for AERO (Base) as test. Worked on deploying contracts for rest of the assets (Morpho, JPL, etc).
+
 2025-02-17 Tue: Continued with forking layerzero. Look into adding multiple tokens at once to bridge.
 
 2025-02-16 Mon (Federal Holiday, 3.0h): Sync with Li. Looked into how to integrate bridged assets to swap pools, and layerzero.
