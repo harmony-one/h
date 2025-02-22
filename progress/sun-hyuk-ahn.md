@@ -1,4 +1,4 @@
-2025-02-21 Fri: (Implement unit tests for the new opcodes and to check transient storage is cleared prior to state transition).
+2025-02-21 Fri: [Implemented](https://github.com/harmony-one/harmony/pull/4854/commits/765be3c6ddc8d78c9837f2bc2547aac378208259) unit tests for the new opcodes and to check transient storage is cleared prior to state transition.
 
 2025-02-20 Thu: [Implemented](https://github.com/sunwavesun/harmony/commit/1adbb9093365aa8e18589dc2c43686456a219369) and updated state db logic to clear out transient storage prior to state transition.
 
