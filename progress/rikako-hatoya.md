@@ -1,3 +1,5 @@
+2025-02-21 Sat: Started exploring Silo Labs. Played around with Silo Finance V2.
+
 2025-02-20 Fri: Continued looking into unified bridge assets. Looked more into how to automate adding brdiged assets.
 
 2025-02-19 Thu: Added LayerZero [frontend PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27) and [backend PR](https://github.com/harmony-one/layerzero-bridge.appengine/pull/12) for AERO token as test. Currently looking into how to automate asset bridging process. 
