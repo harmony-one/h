@@ -1,3 +1,5 @@
+2024-02-21 Fri: Harmony community update. Bonkbot testing insights:
+
 2024-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule and bonkbot. Announcement on X of Ledger update.
 
 2024-02-19 Wed: Animation of pump.one teaser + [teaser tweet](https://x.com/harmonyprotocol/status/1892348425905021359). Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
