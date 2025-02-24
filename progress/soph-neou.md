@@ -1,3 +1,9 @@
+2025-02-21 Fri: This week's focus was integrating the staking dashboard wallet with the latest Harmony Ledger app v1.15.0. All staking transactions are now functional with the new app.
+I also reviewed several protocol features and fixes: EOA sender validation (EIP-3607) #4849, the 1-second finality fix (1.05s) requires further testing after discussion with Konstantin, and the p2p gater PR #4841, which will help control non-Harmony P2P nodes on the network.
+During on-call duty, I investigated five instances of long block times (15s+) on shard 0 mainnet.  Initial findings suggest slower processing times by Harmony node leaders. These same leaders also exhibited varying block times between 2-6s.
+
+---
+
 2025-02-14 Fri: A workaround for the harmony-test repo's localnet issue has been deployed, reducing the number of spawned nodes from 24 to 8, a resource usage improvement of over 65%. 1-second finality testing in localnet shows promising results with an average block time of 1.05s. Devnet 1-second finality testing with a live network and real transactions is upcoming. [A fix](https://github.com/harmony-one/harmony/pull/4844) for the 2025.0.0 transaction receipt RPC failure for pre-release transactions has been successfully tested. Staking dashboard development for Ledger support is in progress. A demo site showcasing login and address display with the new Ledger app v1.15.0 has been deployed, but significant further development is needed for full dashboard integration.
 
 ---
