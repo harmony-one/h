@@ -1,3 +1,10 @@
+2025-02-21 Fri:
+- Created branches to track progress on the Berlin and London updates.
+- Implemented EIP-2565: ModExp Gas Cost, which reduced the gas price for the modexp operation, reaching approximately 25% completion for the Berlin update.
+- Collected EIPs required for implementation as part of the London and Berlin upgrades.
+
+---
+
 2025-02-14 Fri:
 - Reduced block production time from 1 second to 0.950 seconds in the 1-second-finality branch to mitigate network latency.
 - Implemented a new block version following EIP-1559 and EIP-3198. This branch incorporates changes introduced in these two Ethereum EIPs as part of the London hardfork.
