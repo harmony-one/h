@@ -13,7 +13,7 @@ Besides, I talked with projects for potential partnerships whereas I mainly focu
 
 Follow-ups are due this week. 
 
-
+---
 
 2025-02-09 Sun: My week was driven by research about trends and new developments in 2025. Specifically, DeFAI in its early stages and its potential to see how we can apply it to Harmony. The whole approach needs to be revisited. Apart from that, general trends for this year need to be identified to see how we can improve Harmony as an ecosystem. I see the vision of Harmony becoming the "Savings Chain" leveraging products from other chains and presenting them in a consumer-friendly, simple way. 
 
