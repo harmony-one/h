@@ -2,7 +2,7 @@
 
 ---
 
-2024-02-23 Sun: Animation for pump.one marketing launch communicating the value of memes on Harmony. 
+2024-02-23 Sun: Animation for pump.one marketing launch communicating the value of memes on Harmony. Sync with Theo on marketing plan, adjusting for revised pump.one release date.
 
 2024-02-22 Sat: Generations in Google Whisk for exchange.one tweets next week.
 
