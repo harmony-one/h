@@ -1,3 +1,5 @@
+2025-02-22 Sun: Continued Silo. Started looking into Sonic and Phantom.
+
 2025-02-21 Sat: Started exploring Silo Labs. Played around with Silo Finance V2.
 
 2025-02-20 Fri: Continued looking into unified bridge assets. Looked more into how to automate adding brdiged assets.
