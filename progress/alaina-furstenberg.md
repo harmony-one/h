@@ -1,12 +1,12 @@
-2024-02-24 Mon:
+2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. Tweet about exchange.one.
 
 ---
 
-2024-02-23 Sun:
+2024-02-23 Sun: Animation for pump.one marketing launch communicating the value of memes on Harmony. 
 
-2024-02-22 Sat:
+2024-02-22 Sat: Generations in Google Whisk for exchange.one tweets next week.
 
-2024-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The telegram feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well into ONE Bot on harmony upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
+2024-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well onto ONE Bot upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
 
 2024-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule. Coinrule Insights: [Announcement on X](https://x.com/harmonyprotocol/status/1892661322992779320) of Ledger update.
 
