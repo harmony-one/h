@@ -1,3 +1,5 @@
+2025-02-21 Fri: continue on Uniswap X: researching architecture, [whitepaper](https://app.uniswap.org/whitepaper-uniswapx.pdf) and official [repo](https://github.com/Uniswap/UniswapX)
+
 2025-02-20 Thu: Pump.ONE: tested [updated](https://github.com/harmony-one/pump.fun.contracts/pull/25) contracts with fixed bug with burn token method. [Added](https://github.com/harmony-one/pump.fun.backend/commit/97a564205390c227b24e6c8ad62253a27a8bdd9b) initial competition in tokens indexer, [added](https://github.com/harmony-one/pump.fun.client/commit/a304f1f017ffe4aa3aa9b9326025d401364b7fc3) winner icon in tokens feed, deployed an update.
 
 2025-02-19 Wed: started researching UniswapX docs and [source](https://github.com/Uniswap/UniswapX) code. Pump.ONE client: [added](https://github.com/harmony-one/pump.fun.client/commit/71c0365a941549bb529fc66c4f94f44d4e749491) Discord link in disclaimer.
