@@ -1,7 +1,19 @@
+2025-02-21 Fri:
+
+The main focus of this week was three ops tasks.
+
+The first one was to check why the watchdog is reporting an issue on the block that looks normal in explorer - 2 seconds from the previous one.
+In fact, the watchdog is reporting everything correctly, because it is checking internal validators and RPC last block time and for them the reported block is really having issues on the proposal time.
+
+The second one was to debug the integration between Blockscout, Nginx and archival RPC. I've checked everything from the Harmony side and asked the Blockscout team to check on their side.
+
+The third one was to add alarms and logs view on the integrated [ssl-exporter](https://github.com/ribbybibby/ssl_exporter) from the previous week.
+
+---
+
 2025-02-14 Fri:
 
 The main focus of this week was to enhance our monitoring stack with [ssl-exporter](https://github.com/ribbybibby/ssl_exporter). I've researched how to put endpoints to monitor and put it as an additional container, integrated it with the current Prometheus stack, developed a dashboard to observe endpoints in one place. Main advantage - now we have one place where we can check the SSL state of all our endpoints and their expiration time.
-help with ongoing issues with the latest `v2025.0.0` release.
 
 From the testing side, I've checked how to better handle logs for the rossetta test for both local and CI run. Now both stdout/stderr will be stored in the `output_rossetta.log`, main benefit - logs are silenced for the CI, but we still have them if we need to debug issues like it was with Sun's PR last week.
 
