@@ -1,6 +1,14 @@
-2024-02-21 Fri: Harmony community update. Bonkbot testing insights:
+2024-02-24 Mon:
 
-2024-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule and bonkbot. Announcement on X of Ledger update.
+---
+
+2024-02-23 Sun:
+
+2024-02-22 Sat:
+
+2024-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The telegram feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well into ONE Bot on harmony upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
+
+2024-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule. Coinrule Insights: [Announcement on X](https://x.com/harmonyprotocol/status/1892661322992779320) of Ledger update.
 
 2024-02-19 Wed: Animation of pump.one teaser + [teaser tweet](https://x.com/harmonyprotocol/status/1892348425905021359). Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
 
