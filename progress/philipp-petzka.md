@@ -1,3 +1,20 @@
+2025-02-24 Mon: I participated in Consensus Hong Kong events last week to gather feedback from communities and projects. Besides that, my focus is to integrate with fast bridge infrastructure to enable cross-chain deposits and strategies leveraging Harmony-foreign products. Here is a summary of my visit at consensus: 
+
+It was the first event week where I emphasized building DeFi on Harmony. The main purpose was to gather feedback from projects and people in the industry. There are surprisingly many people still holding some $ONE. Most remember the days of DeFi Kingdoms as good times so Harmony as a chain triggers rather a positive feeling in them. All of those that used Harmony before are excited that we are trying to revive the chain, some asked me when they can use the first products like the yield enhancer.
+
+There were a couple of questions and recommendations: 
+
+- A rebrand could be useful to get rid of the past fully
+- We should try to launch a unique retail-friendly product, abstracted from the chain. One example was an on-chain Mahjong Game. 
+- We need to figure out an incentive programs for teams to onboard
+- Build/attract a cross-industry product to onboard more retail users such as a health device (such as https://x.com/Moonringai) or fitness-to-earn. 
+
+Besides, I talked with projects for potential partnerships whereas I mainly focused on infrastructure projects such as socket protocol for bridging or Spark Fi for Lending. Since we want to leverage profitable, yield-distributing products on harmony, cross-chain integrations are an integral part of enabling unique strategies on top of them. GameFi projects were also interesting since Harmony is performant and has the DeFi Kingdom's History.
+
+Follow-ups are due this week. 
+
+
+
 2025-02-09 Sun: My week was driven by research about trends and new developments in 2025. Specifically, DeFAI in its early stages and its potential to see how we can apply it to Harmony. The whole approach needs to be revisited. Apart from that, general trends for this year need to be identified to see how we can improve Harmony as an ecosystem. I see the vision of Harmony becoming the "Savings Chain" leveraging products from other chains and presenting them in a consumer-friendly, simple way. 
 
 ---
