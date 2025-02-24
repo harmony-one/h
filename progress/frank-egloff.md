@@ -1,4 +1,6 @@
-2025-02-20: Resolved fly.io deployment issues for Portfolio Management prototype. Integrated token list from [harmony-one/swap-token-list repo](https://github.com/harmony-one/swap-token-list) filtering for supported assets (ONE, 1WBTC, 1USDT). Enhanced UI to demonstrate rebalancing algorithm through mock rebalancing and swap operations.
+2025-02-21 Fri: Analyzing swap implementation logic from swap.one and harmony-portfolio repositories for integration into Portfolio Management prototype. Deployed DeepSeek r1 paid model to 1Bot, encountering equivalent latency issues as observed with the free tier model. 
+
+2025-02-20 Thu: Resolved fly.io deployment issues for Portfolio Management prototype. Integrated token list from [harmony-one/swap-token-list repo](https://github.com/harmony-one/swap-token-list) filtering for supported assets (ONE, 1WBTC, 1USDT). Enhanced UI to demonstrate rebalancing algorithm through mock rebalancing and swap operations.
 
 2025-02-19: Working on the [Portfolio Management prototype](https://github.com/harmony-one/portfolio-management-prototype/pull/1), integrating RPC calls to fetch supported ERC-20 token balances from user wallet address. Implemented and tested rebalancing algorithm with mock swap calls prior to swap integration. Resolving deployment configurations on fly.io platform.
 
