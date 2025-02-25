@@ -1,3 +1,11 @@
+2025-02-24 Mon: Sync with Alaina for marketing and deep dive with Philipp into universal bridge and upcoming product launches. Insight: [Pump.one](https://pump.one) reaching code completion, all marketing materials are go for launch, shifting focus on daily use cross-chain portfolio product.
+
+2025-02-23 Sun: (2.0h) Coordination with Alaina for [Pump.one](https://pump.one) launch and following a slightly modified version of [marketing plan](https://www.notion.so/harmonyone/Harmony-2025-Product-Marketing-19ea38fc0487800aa743fdca04c7fd59).
+
+2025-02-22 Sat: (2.0h) Troubleshooting allocation from Community Tx DAO to AthleteFi. Insight: gnosis safe unable to submit transaction, extending issue to Protofire team.
+
+2025-02-21 Fri: [Infinex](https://infinex.xyz) group created with their developer relations to discuss Harmony support. Insight: leveraging a product on top of Infinex may be best for end user satisfaction. No need to switch wallets and keep track of chains.
+
 2025-02-20 Thu: Review of Aeordrome and Drift for further look into cross-chain yield aggregation. Insight: incentives and ties to longer lockups allow for more sustainable yields in volatile markets, incentives aggregator for users may be useful in itself. Scheduled [Holyheld](https://holyheld.com/) integrations call.
 
 2025-02-19 Wed: Outreach for Moralis for potential NFT and chain API. Apple Developer account coordination.
