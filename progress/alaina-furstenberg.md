@@ -1,4 +1,4 @@
-2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. Tweet about exchange.one.
+2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. [Thread](https://x.com/harmonyprotocol/status/1894178986026299697) on team progress with a "be the ONE to fly" animation.
 
 ---
 
