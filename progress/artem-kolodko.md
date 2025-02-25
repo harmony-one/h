@@ -1,4 +1,8 @@
-2025-02-21 Fri: continue on Uniswap X: researching architecture, [whitepaper](https://app.uniswap.org/whitepaper-uniswapx.pdf) and official [repo](https://github.com/Uniswap/UniswapX)
+2025-02-24 Mon: UniswapX: completed initial research, started researching questions that require clarification: [Permit2](https://eips.ethereum.org/EIPS/eip-2612) order sign on Harmony; can we integrate swap.country with UniswapX. Discussed UniswapX technical details with Aaron. Created Pump.ONE launch steps and shared with team.
+
+---
+
+2025-02-21 Fri: continue on UniswapX: researching architecture, [whitepaper](https://app.uniswap.org/whitepaper-uniswapx.pdf) and official [repo](https://github.com/Uniswap/UniswapX)
 
 2025-02-20 Thu: Pump.ONE: tested [updated](https://github.com/harmony-one/pump.fun.contracts/pull/25) contracts with fixed bug with burn token method. [Added](https://github.com/harmony-one/pump.fun.backend/commit/97a564205390c227b24e6c8ad62253a27a8bdd9b) initial competition in tokens indexer, [added](https://github.com/harmony-one/pump.fun.client/commit/a304f1f017ffe4aa3aa9b9326025d401364b7fc3) winner icon in tokens feed, deployed an update.
 
