@@ -50,9 +50,19 @@ According to [DefiLlama](https://defillama.com/chain/Sonic), [Silo Finance](http
 #### For Classic Stable:
 ![SwapX Stable Pools](https://github.com/user-attachments/assets/dd1edb5b-1fd6-48f8-a537-53f6d1c1bb01)
 
+### Shadow Exchange
+Shadow is a Sonic-native concentrated liquidity DEX with 1800+ pools.
+Pools with highest APR:
+<img width="1282" alt="image" src="https://github.com/user-attachments/assets/93dce567-0eea-443c-861c-6072afa5ee13" />
+Pools with highest TVL:
+<img width="1282" alt="image" src="https://github.com/user-attachments/assets/854313ce-bb18-41ea-90db-ac685a0902cd" />
+
+
 ### Beefy Finance
 On [Beefy Finance](https://www.beefy.finance/), the top 3 highest yields are with **USDC.e**.  
 ![Beefy Finance USDC.e Pools](https://github.com/user-attachments/assets/f1f01b32-bdfb-413c-b30d-bcde709565d4)
+
+
 
 ### Risk & Sustainability Assessment
 Sonic is built on **Solana**, which has experienced network outages in the past. However, it benefits from **low fees** and **high throughput**, making it an attractive choice for DeFi activities. While **Sonic’s** ecosystem has a relatively low-risk profile, the past issues with Solana's network stability should be kept in mind.
