@@ -1,4 +1,11 @@
 
+2025-02-24 Mon: [Added](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA) a description with screenshots and comments on the current flow of unidy bridge assets translations (for discussion with Theo and Philip). Layerzero V2 - research for the possibility of transferring liquidity to new contracts with V1. Research for bridge solutions based on liquidity pools from the Socket protocol team (suggestion from Philip). 
+
+---
+
+2025-02-21 Fri: [Added](https://github.com/harmony-one/layerzero-bridge.frontend/pull/28) ux improvements for the layerzero bridge: a fix for displaying legacy assets, displaying tokens available for transfer, and validation at the stage of entering the transfer amount. Published the latest version on the [bridge](https://bridge.harmony.one) prod. [Tested](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27) the full bridge AERO flow from Rika.
+
+
 2025-02-20 Thu: Reviewed staking dashboard [update](https://github.com/harmony-one/staking-dashboard/pull/721) (Ledger App Integration via Ledger SDK feature). Continue to work on the architecture of the common contract of the V2 bridge.
 
 2025-02-19 Wed: [Added](https://github.com/harmony-one/usdc-converter/commit/e3933d1eba4d11a4dea63280abf761446748e482) fixes for ui usdc converter: fixed error when converting decimals, updated configs and contract addresses. A new version of ui has been [deployed](https://usdc-converter.web.app). Sent all updates to Aaron for security review.
