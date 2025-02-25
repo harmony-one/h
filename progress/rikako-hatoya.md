@@ -1,4 +1,4 @@
-2025-02-23 Mon: Debugged bridge for AERO by fixing deployment of ERC20Proxy contract with help from Yuriy. Research on Sonic and Phantom.
+2025-02-23 Mon: Debugged bridge for Base by fixing deployment of ERC20Proxy contract with help from Yuriy. Research on Sonic and Phantom.
 
 ---
 
