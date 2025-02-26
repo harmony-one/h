@@ -1,3 +1,9 @@
+2025-02-25 Tue: Began implementing tests utilizing smart contract interaction for PRs #4854 and #4833.
+
+2025-02-24 Mon: Researched into access list implementation for [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930). Began looking into geth [implementation](https://github.com/ethereum/go-ethereum/pull/21502/files).
+
+---
+
 2025-02-21 Fri: [Implemented](https://github.com/harmony-one/harmony/pull/4854/commits/765be3c6ddc8d78c9837f2bc2547aac378208259) unit tests for the new opcodes and to check transient storage is cleared prior to state transition.
 
 2025-02-20 Thu: [Implemented](https://github.com/sunwavesun/harmony/commit/1adbb9093365aa8e18589dc2c43686456a219369) and updated state db logic to clear out transient storage prior to state transition.
