@@ -1,4 +1,4 @@
-2025-02-26 Wed: Developed [test cases](https://github.com/harmony-one/tracecall-test) for `debug_traceCall` to be integrated into the CI.
+2025-02-26 Wed: Created [test cases](https://github.com/harmony-one/tracecall-test) for CI integration and documented details to `debug_traceCall` with the updated logic of configurable state and block overrides.
 
 2025-02-25 Tue: Began implementing tests utilizing smart contract interaction for PRs #4854 and #4833; unit tests are already implemented and fully working as expected. Reviewed PRs #4846 and #4847.
 
