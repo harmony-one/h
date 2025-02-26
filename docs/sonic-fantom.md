@@ -1,4 +1,4 @@
-# Sonic and Phantom Research
+# Sonic and Fantom Research
 
 ## 1. Top Yield Pools
 
