@@ -1,4 +1,4 @@
-2025-02-25 Tue: Began implementing tests utilizing smart contract interaction for PRs #4854 and #4833. Reviewed PRs #4846 and #4847.
+2025-02-25 Tue: Began implementing tests utilizing smart contract interaction for PRs #4854 and #4833; unit tests are already implemented and fully working as expected. Reviewed PRs #4846 and #4847.
 
 2025-02-24 Mon: Researched into access list implementation for [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930). Began looking into geth [implementation](https://github.com/ethereum/go-ethereum/pull/21502/files).
 
