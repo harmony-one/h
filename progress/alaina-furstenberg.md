@@ -1,3 +1,5 @@
+2024-02-25 Tue: Sync with Amanda on product testing. Action items: Spreadsheet of insights on each product. [Tweet](https://x.com/harmonyprotocol/status/1894563281307930968) promoting hiring DeFi engineers. Testing of shadow.so liquitidy pools. Design of graphics in Midjourney for exchange.one.
+
 2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. [Thread](https://x.com/harmonyprotocol/status/1894178986026299697) on team progress with a "be the ONE to fly" animation.
 
 ---
