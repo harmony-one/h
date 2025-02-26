@@ -1,3 +1,8 @@
+2025-02-25 Tue: Implemented swap execution logic for Portfolio Management prototype. Simplified routing approach by leveraging existing rebalancing algorithm after encountering route generation issues. Debugging gas estimation errors related to swap amount calculation logic.
+
+2025-02-24 Mon: Enhanced Portfolio Management UX by streamlining rebalancing workflow. [Integrated Coingecko API](https://github.com/harmony-one/portfolio-management-prototype/pull/1) for real-time token pricing. Refactored UI components for improved clarity and deployed [latest build to fly.io](https://portfolio-rebalancer.fly.dev/). Continued development of swap integration logic.
+
+---
 2025-02-21 Fri: Analyzing swap implementation logic from swap.one and harmony-portfolio repositories for integration into Portfolio Management prototype. Deployed DeepSeek r1 paid model to 1Bot, encountering equivalent latency issues as observed with the free tier model. 
 
 2025-02-20 Thu: Resolved fly.io deployment issues for Portfolio Management prototype. Integrated token list from [harmony-one/swap-token-list repo](https://github.com/harmony-one/swap-token-list) filtering for supported assets (ONE, 1WBTC, 1USDT). Enhanced UI to demonstrate rebalancing algorithm through mock rebalancing and swap operations.
