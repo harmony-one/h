@@ -1,3 +1,5 @@
+2025-02-24 Tue: Sync with Li + Yuriy. Added [docs](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md) for yield research on Sonic, tested new deploy for unify bridge.
+
 2025-02-23 Mon: [Debugged](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27/commits/6a95406bf74cfcedac9cccf1856c00f7b5a73843) bridge for Base by fixing deployment of ERC20Proxy contract with help from Yuriy. Research on Sonic and Phantom.
 
 ---
