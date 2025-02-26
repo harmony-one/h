@@ -1,3 +1,7 @@
+2025-02-26 Wed: Completed and submitted [pull request](https://github.com/harmony-one/pump.fun.client/pull/17) for [Pump.one](https://pump.one) rules page. Continued Sonic ecosystem testing. Inisghts: beyond complexity of accessing yields, what works well is everything is connected, each action on Sonic leads to points, Veda vaults compound into Rings, Rings assets compound into more points on Magpie. Reviewed opencover.
+
+2025-02-25 Tue: Sync with Amanda for DEX clarifications and Li for a product deep dive into what sets Harmony apart moving forward. Testing Sonic yields for several applications, [Shadow](https://www.shadow.so/), Rings, SwapX, MagPie, Veda. Insights: all yield pools (most are underdeveloped/early) revolve around incentives and points. I.e. artificial yields. There is a clear gap for simple, abstracted simple one-click DeFi. 
+
 2025-02-24 Mon: Sync with Alaina for marketing and deep dive with Philipp into universal bridge and upcoming product launches. Insight: [Pump.one](https://pump.one) reaching code completion, all marketing materials are go for launch, shifting focus on daily use cross-chain portfolio product.
 
 2025-02-23 Sun: (2.0h) Coordination with Alaina for [Pump.one](https://pump.one) launch and following a slightly modified version of [marketing plan](https://www.notion.so/harmonyone/Harmony-2025-Product-Marketing-19ea38fc0487800aa743fdca04c7fd59).
