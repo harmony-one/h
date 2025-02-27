@@ -1,3 +1,5 @@
+2025-02-26 Wed: Troubleshooting integration issues with Harmony's universal router contract for swap execution. Encountering difficulties handling native ONE token transactions during swap operations. Attempted implementation of Uniswap SDK with patches from swap/interface fork repository without success. Developing custom patches to resolve compatibility issues.
+
 2025-02-25 Tue: Implemented swap execution logic for Portfolio Management prototype. Simplified routing approach by leveraging existing rebalancing algorithm after encountering route generation issues. Debugging gas estimation errors related to swap amount calculation logic.
 
 2025-02-24 Mon: Enhanced Portfolio Management UX by streamlining rebalancing workflow. [Integrated Coingecko API](https://github.com/harmony-one/portfolio-management-prototype/pull/1) for real-time token pricing. Refactored UI components for improved clarity and deployed [latest build to fly.io](https://portfolio-rebalancer.fly.dev/). Continued development of swap integration logic.
