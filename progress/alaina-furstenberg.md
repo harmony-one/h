@@ -1,3 +1,5 @@
+2024-02-26 Wed: Designing of graphic + [thread](https://x.com/harmonyprotocol/status/1894900845210403186) on DeFAI. A/B Testing with Theo on product screens for pump.one. Continued writing of the February newsletter to be released on Friday. Reading the shadow.so [docs](https://docs.shadow.so/pages/concentrated-liquidity) on concentrated liquity (CL Positions). Insights: CL positions can be rather complicated to the novice user. The interface needs to be intuitive actionable and potentially guided for new users. 
+
 2024-02-25 Tue: Sync with Amanda on product testing. Action items: Spreadsheet of insights on each product. [Tweet](https://x.com/harmonyprotocol/status/1894563281307930968) promoting hiring DeFi engineers. Testing of shadow.so liquitidy pools. Beginning draft of the February newsletter.
 
 2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. [Thread](https://x.com/harmonyprotocol/status/1894178986026299697) on team progress with a "be the ONE to fly" animation.
