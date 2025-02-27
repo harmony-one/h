@@ -1,4 +1,8 @@
 
+2025-02-26 Wed: Unify assets: improvements to the proxy contract V1 - one more parameter has been added to the constructor that indicates a usdc-supported legacy token (burning only). Also, in the _debitFrom method you can now explicitly indicate which token will be burned. Debugging and fixing problematic USDC (Base) bridge transactions.
+
+2025-02-25 Tue: Synchronized with Theo and Philip about the current version of [unify assets](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA) - it was decided to finalize the architecture to make it possible to do hidden legace usdc conversion without redirects to the conversion interface. Helped Rika with contract deployment, debugging and understanding of bridge contract structure.
+
 2025-02-24 Mon: [Added](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA) a description with screenshots and comments on the current flow of unidy bridge assets translations (for discussion with Theo and Philip). Layerzero V2 - research for the possibility of transferring liquidity to new contracts with V1. Research for bridge solutions based on liquidity pools from the Socket protocol team (suggestion from Philip). 
 
 ---
