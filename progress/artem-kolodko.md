@@ -1,3 +1,5 @@
+2025-02-27 Thu: UniswapX: started working on demo implementation, [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/backend/src/index.ts) DutchOrder script, researching DutchOrderReactor contract sources. Pump.ONE: [launched](https://pump.one/board) production backend and client, monitored the services for the first few hours after the launch.
+
 2025-02-26 Wed: UniswapX: [deployed](https://explorer.harmony.one/address/0xC5f4c7C1C20532CdCB84dcf9A2B4FfB8F431246C?shard=0) Permit2 contract that is used in the UniswapX logic, Aaron helped to resolve issue with create2 factory contract. Continue on UniswapX contracts deploy script.
 
 2025-02-25 Tue: UniswapX: exploring prototol codebase, deploying [permit2](https://github.com/Uniswap/permit2) contract but got error "missing CREATE2 deployer". Create2 deployer contract is required to deploy contract to deterministic address; working on solution. Pump.ONE: [minor](https://github.com/harmony-one/pump.fun.client/commit/46cf22fc218cb45a49cb240d8eeb19348744c632) updates following Aaron's comments.  
