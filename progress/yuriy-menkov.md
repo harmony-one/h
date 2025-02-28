@@ -1,4 +1,8 @@
 
+2025-02-28 Fri: Support for layerzero v1 bridge: several bugs blocking the transfer of bnb/one tokens have been fixed (reports from Sopha and Theo). Studying statistics on operations - there are many explorer errors associated with the limited unavailability of free bsc rpc (considering the option of returning to our own node for bsc). Finishing up updating the interface for the hidden conversion of legacy assets, preparing a demo.
+
+2025-02-27 Thu: [Updated](https://github.com/harmony-one/unify-bridge-assets/pull/1) OFTCore contract for unify bridge assets: allows specifying a token in the sendFrom method and includes a whitelist mechanism. Testing new version. Researched sonic gateway bridge solutions: [repositories](https://github.com/Fantom-foundation/), [audit](audit here https://blog.openzeppelin.com/sonic-gateway-audit), [docs](https://docs.soniclabs.com/sonic/sonic-gateway), possibility of porting to harmony.
+
 2025-02-26 Wed: Unify assets: improvements to the proxy contract V1 - one more parameter has been added to the constructor that indicates a usdc-supported legacy token (burning only). Also, in the _debitFrom method you can now explicitly indicate which token will be burned. Debugging and fixing problematic USDC (Base) bridge transactions.
 
 2025-02-25 Tue: Synchronized with Theo and Philip about the current version of [unify assets](https://docs.google.com/document/d/1K39LcmO8Z1AHg380HA_kU0aSPW-N3w-r4yVzJ_dxtfA) - it was decided to finalize the architecture to make it possible to do hidden legace usdc conversion without redirects to the conversion interface. Helped Rika with contract deployment, debugging and understanding of bridge contract structure.
