@@ -1,3 +1,5 @@
+2025-02-26 Thu: Fixed bridge contract configurations again and redeployed. Continued work on Sonic: read Philip's overview document, started playing with swapx data on dune, and allocation optimization.
+
 2025-02-25 Wed: Redeployed and reconfigured contracts (HRC20 token, Proxy HRC20, Proxy ERC20) to fix misconfigurations ([PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)). Tested out swap/bridge for Sonic and farming pools on Silo + SwapX, dApps on soniclabs, looked in ICHI Vault docs.
 
 2025-02-24 Tue: Sync with Li + Yuriy. Added [docs](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md) for yield research on Sonic, tested new deploy for unify bridge.
