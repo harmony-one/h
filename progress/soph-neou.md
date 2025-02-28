@@ -1,3 +1,11 @@
+2025-02-28 Fri: Following the Ledger integration with the staking dashboard, we identified two issues: "Show on Ledger" functionality and clear signing. The first issue was resolved with [PR #722](https://github.com/harmony-one/staking-dashboard/pull/720).  Clear signing requires further development, potentially involving [ERC7730](https://developers.ledger.com/docs/clear-signing/erc7730/process) implementation with the registration of the precompile staking contract, a new [wallet integration](https://developers.ledger.com/docs/clear-signing/wallets) and Ledger's Generic Parser (WIP on ledger side).
+
+Investigation into inconsistent debug_traceTransaction results continues, with suspected timeout and resource constraint issues. A separate timeout problem is being investigated for single-transaction failures.
+
+I also reviewed numerous PRs to support protocol team feature development.
+
+---
+
 2025-02-21 Fri: This week's focus was integrating the staking dashboard wallet with the latest Harmony Ledger app v1.15.0. All staking transactions are now functional with the new app.
 I also reviewed several protocol features and fixes: EOA sender validation (EIP-3607) #4849, the 1-second finality fix (1.05s) requires further testing after discussion with Konstantin, and the p2p gater PR #4841, which will help control non-Harmony P2P nodes on the network.
 During on-call duty, I investigated five instances of long block times (15s+) on shard 0 mainnet.  Initial findings suggest slower processing times by Harmony node leaders. These same leaders also exhibited varying block times between 2-6s.
