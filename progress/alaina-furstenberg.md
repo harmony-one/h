@@ -1,3 +1,5 @@
+2024-02-28 Fri: Harmony community update + tweet. Finalization of February newsletter and ran through edits with Li, Theo, and Sun. Design of exchange.one graphic in Midjourney + Canva.
+
 2024-02-27 Thu: [Thread](https://x.com/harmonyprotocol/status/1895152540045713723) on pump.one launch! Finished first draft of the February newsletter. Designed thumbnail and sent for review.
 
 2024-02-26 Wed: Designing of graphic + [thread](https://x.com/harmonyprotocol/status/1894900845210403186) on DeFAI. A/B Testing with Theo on product screens for pump.one. Continued writing of the February newsletter to be released on Friday. Reading the shadow.so [docs](https://docs.shadow.so/pages/concentrated-liquidity) on concentrated liquity (CL Positions). Insights: CL positions can be rather complicated to the novice user. The interface needs to be intuitive actionable and potentially guided for new users. 
