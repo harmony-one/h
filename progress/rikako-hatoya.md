@@ -1,3 +1,5 @@
+2025-02-27 Fri: Looked into Dune Analytics and played around with queries/tables for SwapX, Shadow, Beets/Beethoven, Sonic, Euler Finance, and WAGMI. Estimated incentives for top pools on Sonic by gathering data from Dune, Graph Explorer, SonicScan and compiled summary into [docs](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?usp=sharing).
+
 2025-02-26 Thu: Fixed bridge contract configurations again and redeployed. Continued work on Sonic: read Philip's overview document, started playing with swapx data on dune, and allocation optimization.
 
 2025-02-25 Wed: Redeployed and reconfigured contracts (HRC20 token, Proxy HRC20, Proxy ERC20) to fix misconfigurations ([PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)). Tested out swap/bridge for Sonic and farming pools on Silo + SwapX, dApps on soniclabs, looked in ICHI Vault docs.
