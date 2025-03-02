@@ -1,3 +1,9 @@
+2025-03-01 Sat: Performed detailed patch analysis between [harmony-portfolio](https://github.com/harmony-one/harmony-portfolio) repo and current implementation. Identified and applied missing Harmony network configuration patches. Despite comprehensive patching, continuing to encounter invalid address errors during factory contract resolution.
+
+2025-02-28 Fri: Refactored implementation to utilize Uniswap SDK with Token and NativeCurrency classes. Experimented with various AlphaRouter configurations and explicit Protocol V3 parameters. Identified critical issue with invalid factory address errors—SDK attempting to resolve incorrect factory contract on Harmony chain.
+
+2025-02-27 Thu: Attempted direct contract interaction with Universal Router (0xdAa5Bf7004e33789ce13A2bBE620953B55608B8b) using [ABI](https://github.com/harmony-one/harmony-portfolio/blob/main/src/abi/router.json). Encountered gas estimation failures with "transaction would have cost extra fees" errors. Debugging router execution path to identify parameters causing the transaction rejection.
+
 2025-02-26 Wed: Troubleshooting integration issues with Harmony's universal router contract for swap execution. Encountering difficulties handling native ONE token transactions during swap operations. Attempted implementation of Uniswap SDK with patches from swap/interface fork repository without success. Developing custom patches to resolve compatibility issues.
 
 2025-02-25 Tue: Implemented swap execution logic for Portfolio Management prototype. Simplified routing approach by leveraging existing rebalancing algorithm after encountering route generation issues. Debugging gas estimation errors related to swap amount calculation logic.
