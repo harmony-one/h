@@ -1,3 +1,5 @@
+2025-03-01 Sat: investigation issue with failing UniswapX DutchOrderReactor deployment: [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/test/contracts/Create2Factory.sol) custom create2factory contract, [deployed](https://explorer.harmony.one/address/0x4caA6ae8a53deBcDaDEf5C03F2b03D1c1FAFB7B6?shard=0) new permit2 contract, required in DutchOrderReactor, but issue still presented; continue work on the solution.
+
 2025-02-28 Fri: UniswapX: working on [DutchOrderReactor](https://github.com/Uniswap/UniswapX/blob/main/src/reactors/DutchOrderReactor.sol) deployment, but have some failed transactions related to create2 contract; synced with Aaron, working on solution. Sonic: read Philip's DeFi Ecosystem overview document, started playing with soniclabs dapps.
 
 2025-02-27 Thu: UniswapX: started working on demo implementation, [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/backend/src/index.ts) DutchOrder script, researching DutchOrderReactor contract sources. Pump.ONE: [launched](https://pump.one/board) production backend and client, monitored the services for the first few hours after the launch.
