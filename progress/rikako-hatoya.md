@@ -1,3 +1,5 @@
+2025-02-29 Sun: Started looking into Subgraph to get definitive statistics and data for shadowx. Read defi platforms comparison and looked into vfat.io.
+
 2025-02-28 Sat: Started working on calculating shadowx fees/rewards. Also started looking into yield analytics and research on strategies for most profitable LP.
 
 2025-02-27 Fri: Looked into Dune Analytics and played around with queries/tables for SwapX, Shadow, Beets/Beethoven, Sonic, Euler Finance, and WAGMI. Estimated incentives for top pools on Sonic by gathering data from Dune, Graph Explorer, SonicScan and compiled summary into [docs](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?usp=sharing).
