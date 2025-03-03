@@ -1,3 +1,14 @@
+2025-02-28 Fri:
+
+From the testing perspective, I've created set of regression tests for the [effectiveGasPrice RPC operation](https://github.com/harmony-one/harmony-test/pull/38), it covers 3 transactions from the old version of binary and also check for the latest operation in blockchain, checks all 3 namespaces(hmy,hmyv2, eth). Main advantage - we can easily run as a smoke test on each fresh release in the testnet.
+The main focus of this week was three ops tasks.
+
+From the operations side, I've found the way how to check what application/server is sending the most of the logs to the Loki and found how to threat this logs separately. These actions helped with the space usage on the monitoring server, now it is stable 65%, previously it was around 96-97%.
+
+Finally, as part of my on-call, I've fixed numerous alarms connected with the state of the devnet nodes and helped with Stream Sync deployment to the devnet.
+
+---
+
 2025-02-21 Fri:
 
 The main focus of this week was three ops tasks.
