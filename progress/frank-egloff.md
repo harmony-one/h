@@ -1,3 +1,8 @@
+2025-03-03 Mon: Expanded swap implementation approaches while continuing SDK integration efforts. Built direct swap component using hardcoded parameters to bypass complex routing. Implemented SushiSwap integration with custom calldata construction for token exchanges. Addressing MetaMask gas estimation failures and JSON-RPC errors encountered during transaction execution. Cleansing code after testing multiple alternatives to request Aaron's assistance with troubleshooting errors.
+
+---
+2025-03-02 Sun: Worked on troubleshooting Uniswap SDK integration on Harmony network. Developed simplified route generation approach with enhanced debugging to isolate specific failure points. Continuing to address persistent invalid address errors despite comprehensive patch application.
+
 2025-03-01 Sat: Performed detailed patch analysis between [harmony-portfolio](https://github.com/harmony-one/harmony-portfolio) repo and current implementation. Identified and applied missing Harmony network configuration patches. Despite comprehensive patching, continuing to encounter invalid address errors during factory contract resolution.
 
 2025-02-28 Fri: Refactored implementation to utilize Uniswap SDK with Token and NativeCurrency classes. Experimented with various AlphaRouter configurations and explicit Protocol V3 parameters. Identified critical issue with invalid factory address errors—SDK attempting to resolve incorrect factory contract on Harmony chain.
