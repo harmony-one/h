@@ -1,3 +1,7 @@
+2025-03-03 Mon: continue on UniswapX deployment: during the DutchOrderReactor debugging, deployed DutchOrderReactor in Arbitrum Sepolia without any issues: [transaction](https://sepolia.arbiscan.io/tx/0x444c1b432254aa02dae019d887d59146e52bbf49f8cc42a66ed9be0f0769ab66), [contract address](https://sepolia.arbiscan.io/address/0x744aa5638e503e73957f07087745684e0afc2b9f). Synced with Aaron and Li, started checking contract source code for hardcoded values. Created [UniswapX page](https://github.com/harmony-one/h/blob/main/docs/UniswapX.md) in /docs to share deployment steps and updates with the team.
+
+---
+
 2025-03-01 Sat: investigating issue with failing UniswapX DutchOrderReactor deployment: [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/test/contracts/Create2Factory.sol) custom create2factory contract, [deployed](https://explorer.harmony.one/address/0x4caA6ae8a53deBcDaDEf5C03F2b03D1c1FAFB7B6?shard=0) new permit2 contract, required in DutchOrderReactor, but issue still presented; continue work on the solution.
 
 2025-02-28 Fri: UniswapX: working on [DutchOrderReactor](https://github.com/Uniswap/UniswapX/blob/main/src/reactors/DutchOrderReactor.sol) deployment, but have some failed transactions related to create2 contract; synced with Aaron, working on solution. Sonic: read Philip's DeFi Ecosystem overview document, started playing with soniclabs dapps.
