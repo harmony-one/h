@@ -1,65 +1,69 @@
-2025-02-29 Sun: Started looking into Subgraph to get definitive statistics and data for shadowx. Read defi platforms comparison and looked into vfat.io.
-
-2025-02-28 Sat: Started working on calculating shadowx fees/rewards. Also started looking into yield analytics and research on strategies for most profitable LP.
-
-2025-02-27 Fri: Looked into Dune Analytics and played around with queries/tables for SwapX, Shadow, Beets/Beethoven, Sonic, Euler Finance, and WAGMI. Estimated incentives for top pools on Sonic by gathering data from Dune, Graph Explorer, SonicScan and compiled summary into [docs](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?usp=sharing).
-
-2025-02-26 Thu: Fixed bridge contract configurations again and redeployed. Continued work on Sonic: read Philip's overview document, started playing with swapx data on dune, and allocation optimization.
-
-2025-02-25 Wed: Redeployed and reconfigured contracts (HRC20 token, Proxy HRC20, Proxy ERC20) to fix misconfigurations ([PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)). Tested out swap/bridge for Sonic and farming pools on Silo + SwapX, dApps on soniclabs, looked in ICHI Vault docs.
-
-2025-02-24 Tue: Sync with Li + Yuriy. Added [docs](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md) for yield research on Sonic, tested new deploy for unify bridge.
-
-2025-02-23 Mon: [Debugged](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27/commits/6a95406bf74cfcedac9cccf1856c00f7b5a73843) bridge for Base by fixing deployment of ERC20Proxy contract with help from Yuriy. Research on Sonic and Phantom.
+2025-03-03
 
 ---
 
-2025-02-22 Sun: Continued Silo. Started looking into Sonic and Phantom.
+2025-03-02 Sun: Started looking into Subgraph to get definitive statistics and data for shadowx. Read defi platforms comparison and looked into vfat.io.
 
-2025-02-21 Sat: Started exploring Silo Labs. Played around with Silo Finance V2.
+2025-03-01 Sat: Started working on calculating shadowx fees/rewards. Also started looking into yield analytics and research on strategies for most profitable LP.
 
-2025-02-20 Fri: Continued looking into unified bridge assets. Looked more into how to automate adding brdiged assets.
+2025-02-28 Fri: Looked into Dune Analytics and played around with queries/tables for SwapX, Shadow, Beets/Beethoven, Sonic, Euler Finance, and WAGMI. Estimated incentives for top pools on Sonic by gathering data from Dune, Graph Explorer, SonicScan and compiled summary into [docs](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?usp=sharing).
 
-2025-02-19 Thu: Added LayerZero [frontend PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27) and [backend PR](https://github.com/harmony-one/layerzero-bridge.appengine/pull/12) for AERO token as test. Currently looking into how to automate asset bridging process. 
+2025-02-27 Thu: Fixed bridge contract configurations again and redeployed. Continued work on Sonic: read Philip's overview document, started playing with swapx data on dune, and allocation optimization.
 
-2025-02-18 Wed: Deployed HRC20 token wrapper, HRC20 Proxy contract, ERC20 Proxy contract (according to [this](https://github.com/harmony-one/h/blob/main/docs/bridge-add-token.md)) for AERO (Base) as test. Worked on deploying contracts for rest of the assets (Morpho, JPL, etc).
+2025-02-26 Wed: Redeployed and reconfigured contracts (HRC20 token, Proxy HRC20, Proxy ERC20) to fix misconfigurations ([PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)). Tested out swap/bridge for Sonic and farming pools on Silo + SwapX, dApps on soniclabs, looked in ICHI Vault docs.
 
-2025-02-17 Tue: Continued with forking layerzero. Look into adding multiple tokens at once to bridge.
+2025-02-25 Tue: Sync with Li + Yuriy. Added [docs](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md) for yield research on Sonic, tested new deploy for unify bridge.
 
-2025-02-16 Mon (Federal Holiday, 3.0h): Sync with Li. Looked into how to integrate bridged assets to swap pools, and layerzero.
-
----
-
-2025-02-15 Sun: Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
-
-2025-02-14 Sat: Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
-
-2025-02-13 Fri: Continued reading through/researching relevant links+products mentioned in fat wallet thesis. Started working on bridge contracts.
-
-2025-02-12 Thu: Read through the fat wallet thesis [report](https://members.delphidigital.io/reports/the-fat-wallet-thesis). Continued working on near intents. 
-
-2025-02-11 Wed: Continued work on near intents contracts. Search for UI repo for near intents.
-
-2025-02-10 Tue: Sync with Li, discussion on AI agents and trading strategies. Worked on forking near intents contracts.
-
-2025-02-09 Mon: Scoped out few possible ideas from Defi report. Researched personal on-chain finance and end-to-end finance products that have good reputation but has not been introduced yet to on-chain.
+2025-02-24 Mon: [Debugged](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27/commits/6a95406bf74cfcedac9cccf1856c00f7b5a73843) bridge for Base by fixing deployment of ERC20Proxy contract with help from Yuriy. Research on Sonic and Phantom.
 
 ---
 
-2025-02-08 Sun (2.0h): Research on defi report continued. Added further notes to later scope for ideas.
+2025-02-23 Sun: Continued Silo. Started looking into Sonic and Phantom.
 
-2025-02-07 Sat (3.0h): Continued deeper reading on Defi report. Looked through some of the links, started taking down notes.
+2025-02-22 Sat: Started exploring Silo Labs. Played around with Silo Finance V2.
 
-2025-02-06 Fri: Product research on open-source, on-chain, non-custodial telegram bots. Deeper read into [Defi report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025) and research to scope out use cases/deliverables for Harmony.
+2025-02-21 Fri: Continued looking into unified bridge assets. Looked more into how to automate adding brdiged assets.
 
-2025-02-05 Thu: Continued work on deepseek by reading [paper](https://huggingface.co/papers/2405.14333) + attempt to replicate their experiment but later transitioned to research on Defi. Started researching into the products mentioned in [Defi Delphi Digital report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025).
+2025-02-20 Thu: Added LayerZero [frontend PR](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27) and [backend PR](https://github.com/harmony-one/layerzero-bridge.appengine/pull/12) for AERO token as test. Currently looking into how to automate asset bridging process. 
 
-2025-02-04 Wed: Sync with Li, came up with deliverables as noted below. Updated [code](https://www.kaggle.com/code/rikaaaa/notebook7b4e40c0c2) for deepseek, tried tests with a couple questions from miniF2F dataset but timeout due to memory constraints, tested with simpler mathematical analysis.
+2025-02-19 Wed: Deployed HRC20 token wrapper, HRC20 Proxy contract, ERC20 Proxy contract (according to [this](https://github.com/harmony-one/h/blob/main/docs/bridge-add-token.md)) for AERO (Base) as test. Worked on deploying contracts for rest of the assets (Morpho, JPL, etc).
+
+2025-02-18 Tue: Continued with forking layerzero. Look into adding multiple tokens at once to bridge.
+
+2025-02-17 Mon (Federal Holiday, 3.0h): Sync with Li. Looked into how to integrate bridged assets to swap pools, and layerzero.
+
+---
+
+2025-02-16 Sun: Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
+
+2025-02-15 Sat: Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
+
+2025-02-14 Fri: Continued reading through/researching relevant links+products mentioned in fat wallet thesis. Started working on bridge contracts.
+
+2025-02-13 Thu: Read through the fat wallet thesis [report](https://members.delphidigital.io/reports/the-fat-wallet-thesis). Continued working on near intents. 
+
+2025-02-12 Wed: Continued work on near intents contracts. Search for UI repo for near intents.
+
+2025-02-11 Tue: Sync with Li, discussion on AI agents and trading strategies. Worked on forking near intents contracts.
+
+2025-02-10 Mon: Scoped out few possible ideas from Defi report. Researched personal on-chain finance and end-to-end finance products that have good reputation but has not been introduced yet to on-chain.
+
+---
+
+2025-02-09 Sun (2.0h): Research on defi report continued. Added further notes to later scope for ideas.
+
+2025-02-08 Sat (3.0h): Continued deeper reading on Defi report. Looked through some of the links, started taking down notes.
+
+2025-02-07 Fri: Product research on open-source, on-chain, non-custodial telegram bots. Deeper read into [Defi report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025) and research to scope out use cases/deliverables for Harmony.
+
+2025-02-06 Thu: Continued work on deepseek by reading [paper](https://huggingface.co/papers/2405.14333) + attempt to replicate their experiment but later transitioned to research on Defi. Started researching into the products mentioned in [Defi Delphi Digital report](https://members.delphidigital.io/reports/the-year-ahead-for-defi-2025).
+
+2025-02-05 Wed: Sync with Li, came up with deliverables as noted below. Updated [code](https://www.kaggle.com/code/rikaaaa/notebook7b4e40c0c2) for deepseek, tried tests with a couple questions from miniF2F dataset but timeout due to memory constraints, tested with simpler mathematical analysis.
 
  - **Deliverables:** Current goal is to try to replicate Deepseek’s evaluation results with minif2f dataset (mainly math olympiad problems) published in this paper: https://huggingface.co/papers/2405.14333. The deepseek-prover v1.5RL (https://huggingface.co/deepseek-ai/DeepSeek-Prover-V1.5-RL) is the best model for math proofs so far. However, I can only work with simple problems as of now due to requiring hundreds of RAM (kaggle supports to 29GB). My next goal is to make a repo similar to AG4Masses, which reduces the memory constraints and can run the model on local.
 
 
-2025-02-03 Tue: Finally debugged Deepseek-prover setup on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of model.
+2025-02-04 Tue: Finally debugged Deepseek-prover setup on kaggle, tested with deepseek-prover V1.5RL. Currently working on comparison of model.
 
 2025-02-03 Mon: Worked on deepseek prover. Continuation with FLT reading.
 
