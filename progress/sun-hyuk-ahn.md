@@ -1,3 +1,9 @@
+2025-03-04 Tue: 
+
+2025-03-03 Mon: Began implementing [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930), which adds transaction type that contains a list of addresses and storage keys that the transaction can access. Working with Konstantin to implement the London and Berlin upgrade.
+
+---
+
 2025-02-28 Fri: Began looking into harmony-test repo in order to simulate bundled user op for Travis CI testing purposes. Reviewed and approved updates for stream sync (PRs #4861 and #4862).
 
 2025-02-27 Thu: Completed and merged [PR #4854](https://github.com/harmony-one/harmony/pull/4854).
