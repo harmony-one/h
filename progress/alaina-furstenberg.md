@@ -1,3 +1,11 @@
+2024-03-03 Mon: Research for /w. Extensive testing of CL positions on shadow.so. Insights: Acquiring the assets exactly needed for this concentrated liquidity pool was very difficult. I explored various exchanges and buying platforms but ran into issues with gas fees, compatible wallets, and not being able to purchase Sonic directly. [Thread](https://x.com/harmonyprotocol/status/1896667701940248847) on the February newsletter.
+
+---
+
+2024-03-02 Sun: Designed an animation & published the team progress [thread](https://x.com/harmonyprotocol/status/1896238786771919019) on X.
+
+2024-03-01 Sat: Final edits + publishing of the [February newsletter](https://t.co/W6tTfrV0IW). Creation of AI podcast in NotebookLM.
+
 2024-02-28 Fri: Harmony community update + tweet. Finalization of February newsletter and ran through edits with Li, Theo, and Sun. Design of exchange.one graphic in Midjourney + Canva.
 
 2024-02-27 Thu: [Thread](https://x.com/harmonyprotocol/status/1895152540045713723) on pump.one launch! Finished first draft of the February newsletter. Designed thumbnail and sent for review.
