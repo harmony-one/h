@@ -1,3 +1,13 @@
+2025-03-03 Mon: Sync with Li and Rika, established prioritizations on [Dune analytics](https://dune.com/theo1/shadow-swapx) and upcoming Bridge updates. Insights: Yield Enhancer contracts are complete, universal bridge and UX changes pending for launch. Dune issue to work around: SwapX volumes from 0xkhmerlab unavailable.
+
+---
+
+2025-03-02 Sun: (2.0h) Product strategy based on using Aerodrome (established) and Shadow (new and improved). Insights: Base going for both average user and DeFi power users (50/50), Shadow 100% on DeFi power users, this leaves a gap for 100% on average user, while giving strong yields.
+
+2025-03-01 Sat: (2.0h) Using Shadow and navigation with x33. Insights: abstraction for yield automation makes minting x33 win-win for holders and platform.
+
+2025-02-28 Fri: Continued deep dive into Aerodrome vs. Shadow. Insights: current market dominance favors Aero, but 100% DeFi focus will help in the long run. Submitted and sync with Soph for Lend contract updates.
+
 2025-02-27 Thu: Launch of [Pump.one](https://pump.one). Sync with community on current bridge issues. Continued metrics collecting and testing for Shadow.
 
 2025-02-26 Wed: Completed and submitted [pull request](https://github.com/harmony-one/pump.fun.client/pull/17) for [Pump.one](https://pump.one) rules page. Continued Sonic ecosystem testing. Inisghts: beyond complexity of accessing yields, what works well is everything is connected, each action on Sonic leads to points, Veda vaults compound into Rings, Rings assets compound into more points on Magpie. Reviewed opencover.
