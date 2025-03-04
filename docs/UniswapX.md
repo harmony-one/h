@@ -93,3 +93,11 @@ Permit2 address: 0xC5f4c7C1C20532CdCB84dcf9A2B4FfB8F431246C
 ```
 forge script --broadcast --rpc-url https://a.api.s0.t.hmny.io  --private-key 0x12345 --create2-deployer 0xA769Ee082Dd5ed0912f81f58C4Ee15b8C300a6aa script/DeployDutchV2.s.sol:DeployDutchV2 --legacy
 ```
+
+Test deployment in Arbitrum Sepolia:
+```
+forge script --broadcast --rpc-url https://sepolia-rollup.arbitrum.io/rpc  --private-key 0x12345 script/DeployDutchV2.s.sol:DeployDutchV2 --legacy -vvvvv
+```
+
+Transaction in Sepolia Explorer: https://sepolia.arbiscan.io/tx/0x444c1b432254aa02dae019d887d59146e52bbf49f8cc42a66ed9be0f0769ab66
+Contract address: https://sepolia.arbiscan.io/address/0x744aA5638e503E73957f07087745684E0aFc2b9F
