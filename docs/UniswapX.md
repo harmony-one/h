@@ -99,5 +99,6 @@ Test deployment in Arbitrum Sepolia:
 forge script --broadcast --rpc-url https://sepolia-rollup.arbitrum.io/rpc  --private-key 0x12345 script/DeployDutchV2.s.sol:DeployDutchV2 --legacy -vvvvv
 ```
 
-Transaction in Sepolia Explorer: https://sepolia.arbiscan.io/tx/0x444c1b432254aa02dae019d887d59146e52bbf49f8cc42a66ed9be0f0769ab66
+Transaction in Sepolia Explorer: https://sepolia.arbiscan.io/tx/0x444c1b432254aa02dae019d887d59146e52bbf49f8cc42a66ed9be0f0769ab66]
+
 Contract address: https://sepolia.arbiscan.io/address/0x744aA5638e503E73957f07087745684E0aFc2b9F
