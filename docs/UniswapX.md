@@ -47,16 +47,16 @@ const createDutchOrder = () => {
 
   const input = {
     token: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2', // WETH on Mainnet
-    startAmount: BigNumber.from('10'), // 1 WETH start
-    endAmount: BigNumber.from('1'), // 0.95 WETH end (decay)
+    startAmount: BigNumber.from('10'),
+    endAmount: BigNumber.from('1'),
   };
 
   // Output Token (e.g., USDC)
   const outputs = [
     {
-      token: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48', // USDC on Mainnet
-      startAmount: BigNumber.from('3100'), // 3000 USDC start
-      endAmount: BigNumber.from('300'), // 3100 USDC end (decay)
+      token: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      startAmount: BigNumber.from('3100'),
+      endAmount: BigNumber.from('300'),
       recipient: wallet.address,
     },
   ];
