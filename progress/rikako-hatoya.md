@@ -1,4 +1,5 @@
-2025-03-03
+2025-03-03 Mon: Sync with Li and Theo, fixed bug with bridge contract, and looked into vfat.io.
+Continued research on Sonic: test transaction on ShadowX, looked into top wallets for wS-USDC.e pair, and started research on best farming strategies.
 
 ---
 
