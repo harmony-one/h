@@ -1,4 +1,4 @@
-2025-03-04 Tue: 
+2025-03-04 Tue: Continued implementation while analyzing the differences within the [Geth PR](https://github.com/ethereum/go-ethereum/pull/21502/files).
 
 2025-03-03 Mon: Began implementing [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930), which adds transaction type that contains a list of addresses and storage keys that the transaction can access. Working with Konstantin to implement the London and Berlin upgrade.
 
