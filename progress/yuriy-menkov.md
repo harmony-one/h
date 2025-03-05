@@ -1,4 +1,10 @@
 
+2025-03-04 Tue: [Published](https://github.com/harmony-one/layerzero-bridge-v2) layerzero v2 bridge contracts first version: allows the owner to add and remove supported tokens, transmitted message contains token address, amount and receiver, token wrappers still should be deployed manually. Continue working on dynamic token wrappers deployment.
+
+2025-03-03 Mon: Researched the socket bridge proposal, compared it with existing analogues; dealt with the problem of deploying new contracts on layerzero v1 (Destination transaction caused payload stored). Contacted layerzero developers to register configs of new contracts.
+
+---
+
 2025-02-28 Fri: Support for layerzero v1 bridge: several bugs blocking the transfer of bnb/one tokens have been fixed (reports from Sopha and Theo). Studying statistics on operations - there are many explorer errors associated with the limited unavailability of free bsc rpc (considering the option of returning to our own node for bsc). Finishing up updating the interface for the hidden conversion of legacy assets, preparing a demo.
 
 2025-02-27 Thu: [Updated](https://github.com/harmony-one/unify-bridge-assets/pull/1) OFTCore contract for unify bridge assets: allows specifying a token in the sendFrom method and includes a whitelist mechanism. Testing new version. Researched sonic gateway bridge solutions: [repositories](https://github.com/Fantom-foundation/), [audit](audit here https://blog.openzeppelin.com/sonic-gateway-audit), [docs](https://docs.soniclabs.com/sonic/sonic-gateway), possibility of porting to harmony.
