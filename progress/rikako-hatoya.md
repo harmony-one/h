@@ -1,3 +1,6 @@
+2025-03-04 Tue: Extracted top wallet holders of wS-USDC.e rewards on ShadowX by writing [code](https://github.com/rikaa15/sonic-rewards/tree/main), which fetches all token transfer transactions from the [gauge]( https://sonicscan.org/token/0x3333b97138d4b086720b5ae8a7844b1345a33333?a=0x0ac98ce57d24f77f48161d12157cb815af469fc0
+), retrieves the sum of $SHADOW (for now, can later add $xSHADOW and get sum) both distributed to each wallet, and returns the addresses of top wallets. Started analyzing these top wallet movements by looking through their transactions on deBank and Zapper, some of them came from vfat contracts, other top holders were individuals providing huge liquidity to the pool, analysis tools were limited but will later try debank pro and if not write code.
+
 2025-03-03 Mon: Sync with Li and Theo, fixed bug with bridge contract, and looked into vfat.io.
 Continued research on Sonic: test transaction on ShadowX, looked into top wallets for wS-USDC.e pair, and started research on best farming strategies.
 
