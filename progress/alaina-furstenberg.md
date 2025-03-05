@@ -1,3 +1,5 @@
+2024-03-04 Tue: Research and testing of vfat.io and beefy finance. Read through their docs to contribute to /w. Synced with Li on liquidity pools, action items from the meeting include reading uniswap docs on automated market making and continuing to fill out /w. Tweeted about simple defi and designed a graphic for exchange.one.
+
 2024-03-03 Mon: Research for /w. Extensive testing of CL positions on shadow.so. Insights: Acquiring the assets exactly needed for this concentrated liquidity pool was very difficult. I explored various exchanges and buying platforms but ran into issues with gas fees, compatible wallets, and not being able to purchase Sonic directly. [Thread](https://x.com/harmonyprotocol/status/1896667701940248847) on the February newsletter.
 
 ---
