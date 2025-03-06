@@ -89,12 +89,15 @@ forge script --broadcast --rpc-url https://api.harmony.one  --private-key 0x1234
 
 Permit2 address: 0xC5f4c7C1C20532CdCB84dcf9A2B4FfB8F431246C
 
-2. Change permit2 address and deploy Dutch order Reactor
+2. Change permit2 address in [deploy script](https://github.com/Uniswap/UniswapX/blob/main/script/DeployDutchV2.s.sol#L15) and deploy DutchOrderReactor
 ```
 forge script --broadcast --rpc-url https://a.api.s0.t.hmny.io  --private-key 0x12345 --create2-deployer 0xA769Ee082Dd5ed0912f81f58C4Ee15b8C300a6aa script/DeployDutchV2.s.sol:DeployDutchV2 --legacy
 ```
 
-Test deployment in Arbitrum Sepolia:
+Failed transaction on Harmony:
+https://explorer.harmony.one/tx/0x738000eeb9776eb9a724445cc26ca7908099c76200bca89513ad66256460e99c?shard=0
+
+Successful test deployment (Arbitrum Sepolia):
 ```
 forge script --broadcast --rpc-url https://sepolia-rollup.arbitrum.io/rpc  --private-key 0x12345 script/DeployDutchV2.s.sol:DeployDutchV2 --legacy -vvvvv
 ```
