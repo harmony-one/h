@@ -22,11 +22,11 @@ Built in Solidity. SDK available in Rust, Typescript, Python.
 - Perpetual DEX with built-in AMM and lending systems
 - Hybrid order fulfillment
     - Primarily method: off-chain sequencer (10-30ms latency)
-        - clients submits (limit and market) orders directly to sequencer (with signatures)
-        - sequencer records open orders on its internal (offchain, distributed) orderbook and match if possible 
+        - client submits (limit and market) orders directly to sequencer (with signatures)
+        - sequencer records open orders on its internal (offchain, distributed) orderbook and match them if possible
         - sequencer submits matched order to smart contract for finalization
     - Secondary method: using liquidity from built-in AMM (onchain, i.e. slow mode)
-        - sequencer submits orders matched against AMM on smart contract and finalize
+        - sequencer submits orders matched against AMM on smart contract and finalize it
 - Cross-margin accounts
     - all open positions (AMM LP, lending, perps...) under user account are summed up for calculating margin (a.k.a "health") requirement
         -  across all (L2) chains where Vertex is deployed
@@ -54,7 +54,7 @@ Built in Solidity. SDK available in Rust, Typescript, Python.
         - maintains the (supposedly distributed) orderbook
         - routes the orders
         - decides whether to use AMM
-    - It would take some work to  re-implemente the functionalities on-chain (in Solidity) or off-chain
+    - It would take some work to  re-implement the functionalities on-chain (in Solidity) or off-chain
         - On-chain implementation would lead to slower orderbook matching (depending on block time, defeating one of the core advantage of Vertex' architecture
 - Strong reliance on low-latency, accurate oracle
     - Stork is used exclusively
