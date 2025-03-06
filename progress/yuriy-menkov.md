@@ -1,4 +1,6 @@
 
+2025-03-05 Wed: [Added](https://github.com/harmony-one/layerzero-bridge-v2/commit/e9d9c4e50c397e5598facb03c691afac3f3206d0) layer zero v2 receiver contract for use on the harmony side: standard methods for receiving and sending tokens + deploy wrapper token contract in case of a new token. Now the main problem is the correct calculation of the cost of deployment and increasing the fee for cases when deploying a new token.
+
 2025-03-04 Tue: [Published](https://github.com/harmony-one/layerzero-bridge-v2) layerzero v2 bridge contracts first version: allows the owner to add and remove supported tokens, transmitted message contains token address, amount and receiver, token wrappers still should be deployed manually. Continue working on dynamic token wrappers deployment.
 
 2025-03-03 Mon: Researched the socket bridge proposal, compared it with existing analogues; dealt with the problem of deploying new contracts on layerzero v1 (Destination transaction caused payload stored). Contacted layerzero developers to register configs of new contracts.
