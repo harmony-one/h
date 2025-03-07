@@ -1,3 +1,5 @@
+2025-03-06 Thu: [creacted](https://github.com/ArtemKolodko/shadow-scraper/commit/f49446e74e4bd247cb03e5eb7f651cee5a1f10ae) script to calculate Shadow TVL for Theo. [Added](https://github.com/ArtemKolodko/shadow-scraper/commit/4a72bb93dfdff7d843b898ea900a6500086868bb) script to calculate average TVL based on data at the end of each day, shared results with Stephen and Li.
+
 2025-03-05 Wed: completed first version of Shadow Exchange scraper tool, and [exported](https://github.com/ArtemKolodko/shadow-scraper/tree/main/export_dump) over 150K of mint and burn transactions from the wS/USDC.e pool (all transactions since the launch of the pool at the end of December 2024).
 
 2025-03-04 Tue: switched to a task about parsing and storing analytics data from Shadow liquidity pools. Looked at [Shadow subgrapgh](https://sonic.kingdomsubgraph.com/subgraphs/name/exp/graphql), played with graphql queries, made some deposits and withdraws on Shadow from my personal address to test it, and started the development.
