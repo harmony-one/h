@@ -1,3 +1,5 @@
+2025-03-06 Thu: Started researching vfat.io's [sickle-public repo](https://github.com/vfat-io/sickle-public). Looked through transaction functions in contracts to understand how they're executing and researched for other similar strategy contracts.
+
 2025-03-05 Wed: Continued deeper analysis on the strategies of top wallet holders by looking through each of their transactions. Compiled this [document](https://docs.google.com/document/d/1BJBM-FEiBxAZCdJplxBMJIxmhUiXFu8DWUZXaUBgj1I/edit?usp=sharing) noting their moves and also started looking into shadow-scraper. 
 
 2025-03-04 Tue: Extracted top wallet holders of wS-USDC.e rewards on ShadowX by writing [code](https://github.com/rikaa15/sonic-rewards/tree/main), which fetches all token transfer transactions from the [gauge]( https://sonicscan.org/token/0x3333b97138d4b086720b5ae8a7844b1345a33333?a=0x0ac98ce57d24f77f48161d12157cb815af469fc0
