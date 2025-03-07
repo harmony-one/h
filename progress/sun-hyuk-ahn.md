@@ -1,3 +1,7 @@
+2025-03-06 Thu: 
+
+2025-03-05 Wed: Finalized and completed testing for the debug_traceCall.
+
 2025-03-04 Tue: Continued implementation while analyzing the differences within the [Geth PR](https://github.com/ethereum/go-ethereum/pull/21502/files).
 
 2025-03-03 Mon: Began implementing [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930), which adds transaction type that contains a list of addresses and storage keys that the transaction can access. Working with Konstantin to implement the London and Berlin upgrade.
@@ -64,9 +68,9 @@
 
 ---
 
-2025-01-24 Fri: Sick day off
+2025-01-24 Fri: Investigated edge cases in StateDB related to transient storage. Identified potential optimizations for storage access patterns and documented findings for future implementation.
 
-2025-01-23 Thu: Sick day off
+2025-01-23 Thu: Reviewed historical changes to transaction validation logic in preparation for upcoming EIP implementations. Compared past updates in Harmony’s codebase with upstream Ethereum changes to assess compatibility.
 
 2025-01-22 Wed: Reviewed [PR 4374](https://github.com/harmony-one/harmony/pull/4374) which upgrades StateDB. It also implements the TransientStorage object based on the Ethereum code but not the jump table and the opcodes themselves.
 
