@@ -1,3 +1,5 @@
+2025-03-06 Thu: Auto-rebalancing strategy set up on [vfat.io](https://vfat.io), testing x33/shadow, deep dive on ideal strategies for liquidity providers. Community Tx DAO signers able to queue transaction for AthleteFi. 
+
 2025-03-05 Wed: Fixed USD value issues, added accurate onchain fees, volume, TVL, and APR to [Dune queries](https://dune.com/theo1/shadow-swapx). Insight: separated raw logic with USD values for calculations, with TVL and APR for 24hr and 7d, we can identify pools with consistent performance vs. recent activity spikes.
 
 2025-03-04 Tue: Testing [vfat.io](https://vfat.io) and [writing queries](https://dune.com/theo1/shadow-swapx) for Dune analytics. Insights: current dashboards are pulling from DefiLlama API, created custom sql to verify onchain data. Found for pairs with “shadow” data is calculated only on one side, reducing accuracy. Currently able to pull legacy and concentrated liquidity positions, troubleshooting getting human readable dollar amounts for fees and rewards.
