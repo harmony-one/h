@@ -1,4 +1,6 @@
 
+2025-03-06 Thu: [Added](https://github.com/harmony-one/layerzero-bridge-v2/commit/1059ce846da4ead22e8e956984ccb84f9ab2a779) improvements for layerzero v2 receiver: automatic wrapped token registration, fee handling for token transfers, validation of supported chains, and improved event logging for better tracking and security. Added more tests.
+
 2025-03-05 Wed: [Added](https://github.com/harmony-one/layerzero-bridge-v2/commit/e9d9c4e50c397e5598facb03c691afac3f3206d0) layer zero v2 receiver contract for use on the harmony side: standard methods for receiving and sending tokens + deploy wrapper token contract in case of a new token. Now the main problem is the correct calculation of the cost of deployment and increasing the fee for cases when deploying a new token.
 
 2025-03-04 Tue: [Published](https://github.com/harmony-one/layerzero-bridge-v2) layerzero v2 bridge contracts first version: allows the owner to add and remove supported tokens, transmitted message contains token address, amount and receiver, token wrappers still should be deployed manually. Continue working on dynamic token wrappers deployment.
