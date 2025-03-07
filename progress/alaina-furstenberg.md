@@ -1,3 +1,11 @@
+2024-03-08 Sat: Thread on the teams progress. Completion of Popsicle Finance and Mellow Protocol in /w.
+
+2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. 
+
+2024-03-06 Thu: Continuation of research for /w, generally checking Sonic compatibility within different DeFi products and tracking peak TVL. Creation of graphics in Whisk to [promote](https://x.com/harmonyprotocol/status/1897755080390328366) the FlappyH1 referral program. Video generations in Sora to pair with upcoming threads.
+
+2024-03-05 Wed: Animation showcasing pump.one creations, [posted onto X](https://x.com/harmonyprotocol/status/1897404644948869353). [Promotion](https://x.com/harmonyprotocol/status/1897393586121101440) of new trading pair on Swap from CryptoLand DAO. Documentation of my user experience of shadow.so. Continuation of research for /w.
+
 2024-03-04 Tue: Research and testing of vfat.io and beefy finance. Read through their docs to contribute to /w. Synced with Li on liquidity pools, action items from the meeting include reading uniswap docs on automated market making and continuing to fill out /w. Tweeted about simple defi and designed a graphic for exchange.one.
 
 2024-03-03 Mon: Research for /w. Extensive testing of CL positions on shadow.so. Insights: Acquiring the assets exactly needed for this concentrated liquidity pool was very difficult. I explored various exchanges and buying platforms but ran into issues with gas fees, compatible wallets, and not being able to purchase Sonic directly. [Thread](https://x.com/harmonyprotocol/status/1896667701940248847) on the February newsletter.
