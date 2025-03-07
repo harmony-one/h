@@ -1,6 +1,6 @@
 2024-03-08 Sat: Thread on the teams progress. Completion of Popsicle Finance and Mellow Protocol in /w.
 
-2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. 
+2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. Promotion of [UniFAI](https://x.com/harmonyprotocol/status/1898050971416379721) on X
 
 2024-03-06 Thu: Continuation of research for /w, generally checking Sonic compatibility within different DeFi products and tracking peak TVL. Creation of graphics in Whisk to [promote](https://x.com/harmonyprotocol/status/1897755080390328366) the FlappyH1 referral program. Video generations in Sora to pair with upcoming threads.
 
