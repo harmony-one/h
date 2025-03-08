@@ -1,4 +1,4 @@
-2024-03-08 Sat: Thread on the teams progress. Completion of Popsicle Finance and Mellow Protocol in /w.
+2024-03-08 Sat: [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Popsicle Finance and Mellow Protocol in /w.
 
 2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. Promotion of [UniFAI](https://x.com/harmonyprotocol/status/1898050971416379721) on X
 
