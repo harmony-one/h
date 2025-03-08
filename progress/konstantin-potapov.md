@@ -1,4 +1,4 @@
-2025-03-28 Fri:
+2025-02-28 Fri:
 - Implemented EIP-2929: Increased gas costs for state access opcodes, such as SSTORE. This PR is the second of four required for the Berlin update.
 - Finalized EIP-2565: Adjusted ModExp gas costs and resolved issues with failed Travis CI tests.
 - Fixed effective gas price calculation to return the GasUsed value instead of nil.
