@@ -1,3 +1,5 @@
+2025-03-07 Fri: working on full Shadow exchange export to jsonl format: refactored Graphql queries to support faster filtering by blockNumber, [created](https://github.com/ArtemKolodko/shadow-scraper/blob/main/src/jsonl/index.ts) export script; exported data contains 500Mb of data, 334220 mint and 317501 burn events. Looking at vfat [FarmStrategy](https://github.com/vfat-io/sickle-public/blob/main/contracts/strategies/FarmStrategy.sol) contract.
+
 2025-03-06 Thu: [creacted](https://github.com/ArtemKolodko/shadow-scraper/commit/f49446e74e4bd247cb03e5eb7f651cee5a1f10ae) script to calculate Shadow TVL for Theo. [Added](https://github.com/ArtemKolodko/shadow-scraper/commit/4a72bb93dfdff7d843b898ea900a6500086868bb) script to calculate average TVL based on data at the end of each day, shared results with Stephen and Li.
 
 2025-03-05 Wed: completed first version of Shadow Exchange scraper tool, and [exported](https://github.com/ArtemKolodko/shadow-scraper/tree/main/export_dump) over 150K of mint and burn transactions from the wS/USDC.e pool (all transactions since the launch of the pool at the end of December 2024).
