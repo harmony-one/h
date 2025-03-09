@@ -1,3 +1,5 @@
+2025-03-08 Sat: Continued strategy analysis on shadow. Looking into frequency of rebalancing for top wallets.
+
 2025-03-07 Fri: Looked into shadow scraper, and investigated if there are ways to calculate rewards from there. Continued looking into sickle and strategies logic.
 
 2025-03-06 Thu: Started researching vfat.io's [sickle-public repo](https://github.com/vfat-io/sickle-public). Looked through transaction functions in contracts to understand how they're executing and researched for other similar strategy contracts.
