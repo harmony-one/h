@@ -1,4 +1,42 @@
-2025-2-19 Wed (1.6h+): Staking Dashboard: finalize CollectReward, Transfer, Undelegate. Run end-to-end tests, and make code production ready
+2025-3-8 Sat (1.7h): Review Harmony Java SDK universal address support implementation. Experiment with loss-versus-rebalancing code, review product implementations and industry analysis
+
+2025-3-7 Fri (3.4h): Review loss-versus-rebalancing research and references in product documentations. Debug and fix UniswapX deployment issues, and discuss
+
+2025-3-6 Thu (7.7h): Deep dive on Beefy concentraded liquidity balancing mechanisms and evolution from traditional vaults, evalaute experimental portfolio and track positions, debugging docker-based localnet
+
+2025-3-5 Wed (4.2h): Debugging local net, genesis accounts, faucets, write notes for Harmony Java SDK. Domain and node operations. Fix issues and debugging Harmony Java SDK
+
+2025-3-4 Tue (2.2h): Experiment with LP and vault products. Discussions on defi automation mechanisms and needs.
+
+2025-3-3 Mon (4.2h): Experiment with LP and vault products. Review vault automation codes and research in loss versus rebalancing. Review and experiment with LP and vault products. Review vault automation codes, deployments, and research in loss versus rebalancing. Discussion on rebalancing tools, UniswapX deployment and issues. Research on automated rebalancers and liquidity provisioning practices
+
+---
+
+2025-3-2 Sun (6.2h): Research on automated rebalancers and liquidity provisioning practices. Review and experiment with vfat, ShadowX, Beefy, SwapX. Research and experiment with Metropolis, vfat, Socket protocol, automated rebalancing contracts that manage liquidity and generate yields
+
+2025-3-1 Sat (1.9h): Review and experiment with vfat, ShadowX, Beefy, SwapX
+
+2025-2-28 Fri (5.7h): ICHI vaults and mechanisms, ShadowX staking, liquidity, and emission models, Socket protocol. Deep dive on ShadowX mechanisms and data
+
+2025-2-27 Thu (5.6h): Deep dive on SwapX mechanisms and data. Review and test Metropolis
+
+2025-2-26 Wed (8.1h): Code for Pump.ONE deployment from multisig, admin configurations, verification. Review and test Metropolis.
+
+2025-2-25 Tue (2h): Review Permit2 spec and related code. Review Pump.ONE and deployment scripts.
+
+2025-2-24 Mon (0.7h): Discussion on UniswapX, Permit2, and Pump.ONE launch
+
+---
+
+2025-2-23 Sun (0.3h): Deep dive on loss-versus-rebalancing and automated market maker papers
+
+2025-2-22 Sat (0.3h): Deep dive on loss-versus-rebalancing and automated market maker papers
+
+2025-2-21 Fri (5.1h): Review and debugging staking dashboard CSP issues. Deep dive on loss-versus-rebalancing and automated market maker papers
+
+2025-2-20 Thu (7.5h): Review research on loss-versus-rebalancing and delta-heding for dynamic lending pool. Debugging staking dashboard CSP issues. Discussion on cross-chain rebalancing and possible products. 
+
+2025-2-19 Wed (2.6h): Staking Dashboard: finalize CollectReward, Transfer, Undelegate. Run end-to-end tests, and make code production ready
 
 2025-2-18 Tue (6.6h): Make staking dashboard changes reprodicble. Automated scripts for patching staking dashboard dependencies post-installation. Add new yarn commands for fast local installation and testing. Debug and implement staking dashboard ledger integration for all ledger devices compatible with new and old accounts using Harmony-specific derivation paths. Test end-to-end and finalize the integration. Resolve babel, typescript, webpack transpile and compatibility issues and patch out-of-maintanence dependency files. Discuss findings
 
