@@ -1,3 +1,13 @@
+2025-03-08 Sat: Last week, I continued working on **stability improvements for StreamNet and Explorer nodes**. Several **critical bug fixes and optimizations** were implemented to enhance the syncing process. While **syncing performance has improved**, further investigations are ongoing to resolve remaining issues.  
+
+- **[PR #4846](https://github.com/harmony-one/harmony/pull/4846)** improved the **advertise function** with **dynamic timeout adjustments and adaptive backoff**. Previously, fixed 60s timeouts caused unnecessary delays. Now, timeouts increase incrementally up to 5m, and retries follow a progressive backoff strategy. This ensures **better adaptation to network conditions** while **preventing excessive delays and retries**.  
+
+- **[PR #4865](https://github.com/harmony-one/harmony/pull/4865)** fixed a **deadlock in the downloader loop** by resolving a double-lock issue in **syncMutex**. This also optimizes **downloadC signal handling**, preventing excessive goroutine creation and memory usage.  
+
+These improvements **enhance syncing reliability, reduce delays, and improve network efficiency**. Work is ongoing to further refine the synchronization process.  
+
+---
+
 2025-03-01 Sat: Last week, I focused on improving **synchronization efficiency, error handling, and stream stability** in the P2P layer. Several key PRs were merged, bringing **significant performance optimizations** to the syncing process.  
 
 - **[PR #4861](https://github.com/harmony-one/harmony/pull/4861)** refactored the **staged stream sync downloader loop** to enhance concurrency and **eliminate sync overlaps**. Now, new syncs are only triggered if no sync is already in progress, preventing redundant operations.  
