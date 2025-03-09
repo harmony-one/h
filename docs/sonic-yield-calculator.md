@@ -1,8 +1,46 @@
-2025-03-06 Thu: Token icon is not shown. 
+[# 2025-03-07 Fri: FarmStrategy.sol contract](#2025-03-07)
+
+##  FarmStrategy.sol Contract Summary
+
+### Core Purpose
+A strategy module in the Sickle system that manages farming operations across DeFi protocols.
+
+### Key Functions
+- **Deposit/Increase**: Adds tokens to farming positions
+- **Compound**: Claims rewards and reinvests them
+- **Harvest**: Claims rewards without reinvesting
+- **Withdraw**: Removes tokens from farming positions
+- **Exit**: Combines harvest and withdraw operations
+
+### Automation Capabilities
+- **harvestFor**: Claims rewards for a user automatically
+- **compoundFor**: Compounds positions automatically
+- **exitFor**: Performs exit operations automatically
+
+### Architecture
+- Inherits from StrategyModule
+- Implements IAutomation and FarmStrategyEvents interfaces
+- Uses specialized libraries for token transfers, swaps, fees, liquidity operations, and position settings
+
+### Key Components
+- **Position Settings Registry**: Tracks and validates configuration for different farms
+- **Multicall Pattern**: Batches multiple operations into a single transaction
+- **Modular Design**: Uses specialized libraries for different functions
+
+### Rebalancing Mechanism
+- Implemented primarily through the _compound function
+- Claims rewards from one position
+- Reinvests into same or different position
+- Uses zapping to optimize token swaps and liquidity provision
+
+This contract essentially acts as the operational center for automated farming strategies, allowing users to optimize their yield farming through automated compounding, harvesting, and position management.
+
+---
+# 2025-03-06 Thu: Token icon is not shown. 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/bd62e580-b329-4cfb-9bb6-74b03ab72b81" />
 
 ---
-2025-03-05 Wed: Current UI implementation as of March 5th. Sheet cell interaction functionality planned for next iteration.
+# 2025-03-05 Wed: Current UI implementation as of March 5th. Sheet cell interaction functionality planned for next iteration.
 
 <img width="1253" alt="image" src="https://github.com/user-attachments/assets/f6dfb61a-02c0-4de1-b1e8-07ef2eab8883" />
 
