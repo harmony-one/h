@@ -1,4 +1,6 @@
-2024-03-08 Sat: [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Popsicle Finance and Mellow Protocol in /w.
+2024-03-09 Sun (2.0 hrs): Continuation in Sora. Following up with the team on /p completion. 
+
+2024-03-08 Sat (2.0 hrs): [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Sonic compatibility in /w. Creations using Sora relating to blue hearts, butterflies, harmonious symphonies, and DeFi.
 
 2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. Promotion of [UniFAI](https://x.com/harmonyprotocol/status/1898050971416379721) on X
 
@@ -28,9 +30,9 @@
 
 ---
 
-2024-02-23 Sun: Animation for pump.one marketing launch communicating the value of memes on Harmony. Sync with Theo on marketing plan, adjusting for revised pump.one release date.
+2024-02-23 Sun (2.0 hrs): Animation for pump.one marketing launch communicating the value of memes on Harmony. Sync with Theo on marketing plan, adjusting for revised pump.one release date.
 
-2024-02-22 Sat: Generations in Google Whisk for exchange.one tweets next week.
+2024-02-22 Sat (1.0 hr): Generations in Google Whisk for exchange.one tweets next week.
 
 2024-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well onto ONE Bot upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
 
@@ -44,9 +46,9 @@
 
 ---
 
-2024-02-16 Sun: Continued reading of Delphi Digital articles.
+2024-02-16 Sun (1.0 hr): Continued reading of Delphi Digital articles.
 
-2024-02-15 Sat: Continued reading of Delphi Digital articles.
+2024-02-15 Sat (1.0 hr): Continued reading of Delphi Digital articles.
 
 2024-02-14 Fri: Revision of Ledger icons, sent to Ledger team. Update of the community section plus [posting to X](https://x.com/harmonyprotocol/status/1890534187062489138). Sync with Theo on the exchange.one interface. Aiming for a 'bento box' design to fit in all the components.
 
@@ -58,9 +60,9 @@
 
 ---
 
-2024-01-26 Sun: Writing of week 3 of the January newsletter.
+2024-01-26 Sun (1.0 hr): Writing of week 3 of the January newsletter.
 
-2024-01-25 Sat: Community section [tweet](https://x.com/harmonyprotocol/status/1883225071491178881).
+2024-01-25 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1883225071491178881).
 
 2024-01-24 Fri: Team outing in Palo Alto.
 
@@ -74,9 +76,9 @@
 
 ---
 
-2024-01-19 Sun: design of graphics in preparation for PTO.
+2024-01-19 Sun (1.0 hr): Design of graphics in preparation for PTO.
 
-2024-01-18 Sat: Posting of community section to X.
+2024-01-18 Sat (1.0 hr): Posting of community section to X.
 
 2024-01-17 Fri: Sync with Theo for boostDAI and AI agent marketing. Updating of the community section. Writing of week 3 for the january newsletter.
 
@@ -90,9 +92,9 @@
 
 ---
 
-2024-01-12 Sun: Design of graphics in preparation for PTO.
+2024-01-12 Sun (1.0 hr): Design of graphics in preparation for PTO.
 
-2024-01-11 Sat: Community Tweet on X. 
+2024-01-11 Sat (1.0 hr): Community Tweet on X. 
 
 2024-01-10 Fri: Updating of the harmony.one community section. Wrote the recap for the first week of January for the monthly newsletter. Design of graphic using Midjourney to [quote tweet](https://x.com/harmonyprotocol/status/1877860187081461778) Stephen's content on i.country.
 
@@ -106,9 +108,9 @@
 
 ---
 
-2024-01-05 Sun: Designs in Midjourney in preparation for PTO. 
+2024-01-05 Sun (1.0 hr): Designs in Midjourney in preparation for PTO. 
 
-2024-01-04 Sat: Community section [tweet](https://x.com/harmonyprotocol/status/1875617947114447214).
+2024-01-04 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1875617947114447214).
 
 2024-01-03 Fri: Sync with Amanda on creating memes/graphics for our twitter account. Animation on #1sfinality for a quote [tweet](https://x.com/harmonyprotocol/status/1875360696843825356) from Stephen.
 
