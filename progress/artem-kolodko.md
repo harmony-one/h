@@ -1,3 +1,7 @@
+2025-03-09 Sun: (3.0h) started research of auto-balance, based on data from Shadow Exchange. [Drafted](https://github.com/harmony-one/h/blob/main/docs/automated-liquidity-manager.md) document with key concepts, data structures and basic strategy. [Improved](https://github.com/harmony-one/shadow-scraper/commit/4737c77d32311e8ede6443038563229db2e2237e) jsonl export script in shadow-scraper to support Swap events which can be useful for the test auto-balance strategy implementation. [Optimized](https://github.com/harmony-one/shadow-scraper/commit/ce113fa8e1ef7d2e9100dbf5d1d9fecde1bddf9c) jsonl export script, full mints and burns export now takes about 40 minutes instead of 1.5 hours.
+
+2025-03-08 Sat: (1.0h) tested [fixed version](https://github.com/Uniswap/UniswapX/compare/main...polymorpher:UniswapX:main) of UniswapX contracts created by Aaron: the issue was related to some EVM features that are not currently supported in the Harmony chain. Configured and [deployed](https://explorer.harmony.one/tx/0xa1d3b05a814d9003324299512da116a7fb01d009ed348963b1047486b6edfbc6?tab=index&shard=0) [DutchOrderReactorV2](https://explorer.harmony.one/address/0x35a87Ee887dFD4145B277B59998b3Bb4b2A50274?tab=txs&shard=0) contract.
+
 2025-03-07 Fri: working on full Shadow exchange export to jsonl format: refactored Graphql queries to support faster filtering by blockNumber, [created](https://github.com/ArtemKolodko/shadow-scraper/blob/main/src/jsonl/index.ts) export script; exported data contains 500Mb of data, 334220 mint and 317501 burn events. Looking at vfat [FarmStrategy](https://github.com/vfat-io/sickle-public/blob/main/contracts/strategies/FarmStrategy.sol) contract.
 
 2025-03-06 Thu: [creacted](https://github.com/ArtemKolodko/shadow-scraper/commit/f49446e74e4bd247cb03e5eb7f651cee5a1f10ae) script to calculate Shadow TVL for Theo. [Added](https://github.com/ArtemKolodko/shadow-scraper/commit/4a72bb93dfdff7d843b898ea900a6500086868bb) script to calculate average TVL based on data at the end of each day, shared results with Stephen and Li.
@@ -10,7 +14,7 @@
 
 ---
 
-2025-03-01 Sat: investigating issue with failing UniswapX DutchOrderReactor deployment: [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/test/contracts/Create2Factory.sol) custom create2factory contract, [deployed](https://explorer.harmony.one/address/0x4caA6ae8a53deBcDaDEf5C03F2b03D1c1FAFB7B6?shard=0) new permit2 contract, required in DutchOrderReactor, but issue still presented; continue work on the solution.
+2025-03-01 Sat: (2.0h) investigating issue with failing UniswapX DutchOrderReactor deployment: [created](https://github.com/ArtemKolodko/uniswapx-demo/blob/main/test/contracts/Create2Factory.sol) custom create2factory contract, [deployed](https://explorer.harmony.one/address/0x4caA6ae8a53deBcDaDEf5C03F2b03D1c1FAFB7B6?shard=0) new permit2 contract, required in DutchOrderReactor, but issue still presented; continue work on the solution.
 
 2025-02-28 Fri: UniswapX: working on [DutchOrderReactor](https://github.com/Uniswap/UniswapX/blob/main/src/reactors/DutchOrderReactor.sol) deployment, but have some failed transactions related to create2 contract; synced with Aaron, working on solution. Sonic: read Philip's DeFi Ecosystem overview document, started playing with soniclabs dapps.
 
