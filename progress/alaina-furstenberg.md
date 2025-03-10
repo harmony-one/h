@@ -1,3 +1,7 @@
+2024-03-10 Mon: ETH SF, with a goal to connect with 30 people on harmony.one/hire.
+
+---
+
 2024-03-09 Sun (2.0 hrs): Continuation in Sora. Following up with the team on /p completion. 
 
 2024-03-08 Sat (2.0 hrs): [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Sonic compatibility in /w. Creations using Sora relating to blue hearts, butterflies, harmonious symphonies, and DeFi.
