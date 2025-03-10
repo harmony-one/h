@@ -105,3 +105,15 @@ forge script --broadcast --rpc-url https://sepolia-rollup.arbitrum.io/rpc  --pri
 Transaction in Sepolia Explorer: https://sepolia.arbiscan.io/tx/0x444c1b432254aa02dae019d887d59146e52bbf49f8cc42a66ed9be0f0769ab66
 
 Contract address: https://sepolia.arbiscan.io/address/0x744aA5638e503E73957f07087745684E0aFc2b9F
+
+#### Deploying DutchOrderReactor2 (polymorpher fixes)
+
+Contracts: https://github.com/polymorpher/uniswapx
+
+Fixes: https://github.com/Uniswap/UniswapX/compare/main...polymorpher:UniswapX:main
+
+== Logs ==
+  Owner 0x98f0c3D42b8DaFB1f73d8F105344C6a4434a0109
+  Reactor 0x35a87Ee887dFD4145B277B59998b3Bb4b2A50274
+
+Transaction: 0xddff511ad0543aa1cd9cb11de9557cb873ff7968ace49bf8a38526fdba20fe2e
