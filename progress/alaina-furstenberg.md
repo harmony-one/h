@@ -1,4 +1,4 @@
-2024-03-10 Mon: ETH SF, with a goal to connect with 30 people on harmony.one/hire.
+2024-03-10 Mon: ETH SF, with a goal to connect with 30 people on [harmony.one/hire](https://x.com/stse/status/1893670310676930868).
 
 ---
 
