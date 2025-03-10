@@ -1,3 +1,5 @@
+2025-03-09 Sun: Continuation of strategy logic. Checking of dune queries.
+
 2025-03-08 Sat: Continued strategy analysis on shadow. Looking into frequency of rebalancing for top wallets.
 
 2025-03-07 Fri: Looked into shadow scraper, and investigated if there are ways to calculate rewards from there. Continued looking into sickle and strategies logic.
