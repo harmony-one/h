@@ -1,3 +1,5 @@
+2024-03-11 Tue: Animation of a graphic to promote harmony.one/hire on [X](https://x.com/harmonyprotocol/status/1899595652704927885). Watched some tutorials on storyboarding in Sora, and experimented with piecing together visuals from harmony.one/videos. Sora can flash through photos well, but I'm still struggling to showcase a cohesive storyline throughout. Replying to community questions on [Reddit]. 
+
 2024-03-10 Mon: ETH SF, with a goal to connect with 30 people on [harmony.one/hire](https://x.com/stse/status/1893670310676930868).
 
 ---
