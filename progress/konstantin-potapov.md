@@ -1,3 +1,9 @@
+2025-03-07 Fri:
+- Updated the Ethereum version in our source code to 1.9.25. This update includes EIP-2929 and a VM update to stack uint256.Int. However, it requires test modifications, which I am currently working on.
+- Upgraded the Go version to 1.24, the latest available at the moment.
+
+--- 
+
 2025-02-28 Fri:
 - Implemented EIP-2929: Increased gas costs for state access opcodes, such as SSTORE. This PR is the second of four required for the Berlin update.
 - Finalized EIP-2565: Adjusted ModExp gas costs and resolved issues with failed Travis CI tests.
