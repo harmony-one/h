@@ -1,3 +1,5 @@
+2025-03-10 Mon: Team off-site event (based rollup summit).
+
 2025-03-09 Sun: Continuation of strategy logic. Checking of dune queries.
 
 2025-03-08 Sat: Continued strategy analysis on shadow. Looking into frequency of rebalancing for top wallets.
