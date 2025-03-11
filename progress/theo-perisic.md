@@ -1,3 +1,11 @@
+2025-03-10 Mon: Attended [Base Roll-Up](https://lu.ma/37ykg387) & AI Summit in San Francisco with team. Insights: lots of the same conversations regarding privacy, AI, and DeFi, as well as Layer 2 conversations. Non-crypto native conversations gave insights into narrowing down user personas for upcoming products.
+
+---
+
+2025-03-09 Sun: (2.0h) Discussions on bridging the gap between DeFi power users and non-native. Platforms like Panoptic offer ideal strategies for markets, but offer too much customization options for greater adoption.
+
+2025-03-08 Sat: (3.0h) Continuing search for the optimal automated LP platform or product.
+
 2025-03-07 Fri: Review and deep dive on Loss-Versus-Rebalancing (LVR) from [a16z](https://a16zcrypto.com/posts/article/lvr-quantifying-the-cost-of-providing-liquidity-to-automated-market-makers/), accompanying [arxiv paper](https://arxiv.org/abs/2208.06046). Insights: calculations and optimizations are straightforward, benefit of a standard similar to Black-Scholes for traditional options, next steps can be building custom tracking and implementation for optimized liquidity providing. Found an [LVR minimization repo](https://github.com/aloantony/LVR-Minimization-Tool-for-Uniswap-v4), but limited, building our own and having the right differentiators looks to be the best path.
 
 2025-03-06 Thu: Auto-rebalancing strategy set up on [vfat.io](https://vfat.io), testing x33/shadow, deep dive on ideal strategies for liquidity providers. Community Tx DAO signers able to queue transaction for AthleteFi. 
