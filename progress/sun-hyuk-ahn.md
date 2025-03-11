@@ -1,4 +1,12 @@
-2025-03-06 Thu: 
+2025-03-11 Tue: 
+
+2025-03-10 Mon: ETH SF
+
+---
+
+2025-03-07 Fri: Continued EIP-2930, optional access list implementation.
+
+2025-03-06 Thu: Completed integration for the harmony-test repo for the new rosetta calls.
 
 2025-03-05 Wed: Finalized and completed testing for the debug_traceCall.
 
