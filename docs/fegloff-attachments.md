@@ -1,3 +1,11 @@
+[# 2025-03-010 Mon: Sonic-yield-calculator](#2025-03-10)
+### Sonic Yield Calculator
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/1c381efa-f2b6-4f69-be64-eac3926771e9" />
+
+### 1Bot models
+![image](https://github.com/user-attachments/assets/023a4cb7-8ad8-4fcc-9a2e-f83a1317e9d5)
+
+
 [# 2025-03-07 Fri: FarmStrategy.sol contract](#2025-03-07)
 
 ##  FarmStrategy.sol Contract Summary
