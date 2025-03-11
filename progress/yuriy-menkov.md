@@ -1,4 +1,10 @@
 
+2025-03-10 Mon: Worked on developing a contract based on FarmStrategy: predefined parameters, limited settings, application consists of a contract and a client. The client checks for out-of-range and calls rebalance methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
+
+---
+
+2025-03-07 Fri: Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arrakis, gamma. Research of the sonic mainnet eco system, analysis of interaction with liquidity pools using Farm Strategy as an example.
+
 2025-03-06 Thu: [Added](https://github.com/harmony-one/layerzero-bridge-v2/commit/1059ce846da4ead22e8e956984ccb84f9ab2a779) improvements for layerzero v2 receiver: automatic wrapped token registration, fee handling for token transfers, validation of supported chains, and improved event logging for better tracking and security. Added more tests.
 
 2025-03-05 Wed: [Added](https://github.com/harmony-one/layerzero-bridge-v2/commit/e9d9c4e50c397e5598facb03c691afac3f3206d0) layer zero v2 receiver contract for use on the harmony side: standard methods for receiving and sending tokens + deploy wrapper token contract in case of a new token. Now the main problem is the correct calculation of the cost of deployment and increasing the fee for cases when deploying a new token.
