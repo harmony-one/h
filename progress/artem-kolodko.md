@@ -1,3 +1,7 @@
+2025-03-10 Mon: started research of [Bancor](https://arxiv.org/pdf/2111.09192) analysis, [Gauntlet](https://www.gauntlet.xyz/resources/uniswap-alm-analysis) Automated Liquidity Management report to verify the idea of rebalancing using dynamic volatility
+
+---
+
 2025-03-09 Sun: (3.0h) started research of automated liquidity manager. [Drafted](https://github.com/harmony-one/h/blob/main/docs/automated-liquidity-manager.md) document with key concepts, data structures and basic strategy. [Improved](https://github.com/harmony-one/shadow-scraper/commit/4737c77d32311e8ede6443038563229db2e2237e) jsonl export script in shadow-scraper to support Swap events which can be useful for the first auto-balancer strategy implementation. [Optimized](https://github.com/harmony-one/shadow-scraper/commit/ce113fa8e1ef7d2e9100dbf5d1d9fecde1bddf9c) jsonl export script, full mints and burns export now takes about 40 minutes instead of 1.5 hours.
 
 2025-03-08 Sat: (1.0h) tested [fixed version](https://github.com/Uniswap/UniswapX/compare/main...polymorpher:UniswapX:main) of UniswapX contracts created by Aaron: the issue was related to some EVM features that are not currently supported in the Harmony chain. Configured and deployed [DutchOrderReactorV2](https://explorer.harmony.one/address/0x35a87Ee887dFD4145B277B59998b3Bb4b2A50274?tab=txs&shard=0) contract.
