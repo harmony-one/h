@@ -1,3 +1,6 @@
+[# 2025-03-11 Tue: Sonic-yield-calculator + 1Bot models](#2025-03-11)
+<img width="1366" alt="image" src="https://github.com/user-attachments/assets/4d413f47-be33-40fa-a007-4381888804c1" />
+
 [# 2025-03-010 Mon: Sonic-yield-calculator + 1Bot models](#2025-03-10)
 ### Sonic Yield Calculator
 <img width="1071" alt="image" src="https://github.com/user-attachments/assets/1c381efa-f2b6-4f69-be64-eac3926771e9" />
