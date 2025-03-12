@@ -1,3 +1,5 @@
+2025-03-11 Tue: Worked on Shadow top profiters: created code to fetch all incentive rewards distributed to given address from wS-USDC.e rewards gauge, code to fetch all transactions pertaining to liquidity increase/decrease in wS-USDC.e pool (or any other pool if specified), code to fetch real-time token price from coingecko and analyze the user's rebalancing frequency as well as their APR, and added ReadMe ([repo here](https://github.com/rikaa15/sonic-rewards)). Test run on one of the top profiters and debugging to solve soniccscan API threshold limit.
+
 2025-03-10 Mon: Team off-site event (based rollup summit).
 
 2025-03-09 Sun: Continuation of strategy logic. Checking of dune queries.
