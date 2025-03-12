@@ -1,4 +1,6 @@
-2025-03-11 Tue: 
+2025-03-12 Wed:
+
+2025-03-11 Tue: [Began](https://github.com/sunwavesun/harmony/commit/d2904325ffd51fe963ae112ca2a3939a0342f452) implementation for type transaction (EIP-2718), that will serve as a dependency for other EIPs.
 
 2025-03-10 Mon: ETH SF
 
