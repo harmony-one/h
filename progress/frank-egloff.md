@@ -1,4 +1,7 @@
-2025-03-10 Mon: Deployed 1Bot with Claude 3.7 Sonnet model integration and implemented both free and paid versions of DeepEeek. After examining FarmStrategy and Automation contracts in vfat.tools repo, gained crucial insights into their pool handling methods, enabling [dynamic CL pool retrieval with detailed display](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-10) similar to vfat.io. Next steps include resolving loading latency issues and implementing position purchasing to analyze 1Tic rebalancing failures.
+2025-03-11 Tue: Developing deposit feature for Sonic Yield Calculator app. Improving pool retrieval logic to enhance CL (Concentrated Liquidity) data extraction ([here](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-11) current app look and feel).
+
+
+2025-03-10 Mon: Deployed 1Bot with Claude 3.7 Sonnet model integration and implemented both free and paid versions of DeepEeek. After examining FarmStrategy and Automation contracts in vfat.tools repo, gained crucial insights into their pool handling methods, enabling [dynamic CL pool retrieval with detailed display](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-10) similar to vfat.io. Next steps include resolving loading latency issues and implementing position purchasing to analyze 1Tick rebalancing failures.
 
 ---
 2025-03-09 Sun: (2.0h) Analyzing vfat.tools codebase to understand implementation patterns for automatic rebalancing functionality. Searching for contract interactions with Automation.sol and FarmStrategy contracts due to restricted access to vfat.io private repository.
