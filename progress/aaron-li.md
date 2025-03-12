@@ -1,3 +1,9 @@
+2025-3-10 Tue (5.8h): Review Socket documentations. Discuss with Socket team on integration needs and security concerns. Review Socket Protocol innerworkings and deep analysis. Debug bridge issues step-by-step and discuss. Review deBridge in depth. Domain operations. Research automated liquidity provisioning rebalancing in major products
+
+2025-3-10 Mon (1.5h): (At ETH SF) Review vault return analysis from Gamma, Mellow, and others. Review loss-versus-rebalcning implementations
+
+---
+
 2025-3-8 Sat (1.7h): Review Harmony Java SDK universal address support implementation. Experiment with loss-versus-rebalancing code, review product implementations and industry analysis
 
 2025-3-7 Fri (3.4h): Review loss-versus-rebalancing research and references in product documentations. Debug and fix UniswapX deployment issues, and discuss
