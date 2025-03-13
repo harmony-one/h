@@ -1,3 +1,5 @@
+2025-03-12 Wed: Fixed bugs and improved error handling for API errors (timeout when requested too frequent, incorrect transaction response being recorded, no transactions being fetched, etc). Unified 3 programs to one code (`user-stats.py`) so that user only needs to enter the wallet address once to collect all liquidity, rewards, and rebalance/APR stats, updated readme (repo [here](https://github.com/rikaa15/sonic-rewards)).
+
 2025-03-11 Tue: Worked on Shadow top profiters: created code to fetch all incentive rewards distributed to given address from wS-USDC.e rewards gauge (previously only scraped for $SHADOW but now includes $xSHADOW as well), code to fetch all transactions pertaining to liquidity increase/decrease in wS-USDC.e pool (or any other pool if specified), code to fetch real-time token price from coingecko and analyze the user's rebalancing frequency as well as their APR, and added ReadMe ([repo here](https://github.com/rikaa15/sonic-rewards)). Test run on one of the top profiters and finding workaround to solve scraping error caused by SonicScan API threshold limit.
 
 2025-03-10 Mon: Team off-site event (based rollup summit).
