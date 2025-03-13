@@ -1,3 +1,5 @@
+2025-03-12 Wed: research and verification of vfat [wS/USDC.e](https://vfat.io/farm?chainId=146&farmAddress=0xe879d0e44e6873cf4ab71686055a4f6817685f02&poolId=0) stats  (TVL, APR, fees) with onchain data from subgraph events, shared report with Stephen and Li
+
 2025-03-11 Tue: completed research of ALM (Automated Liquidity Management) protocols, based on information from Gauntlet report, dashboards and DeFilLama. Gamma looks like the best choise for dynamic volatility and narrow range strategy; summarized data and shared report with Stephen and Li. Checked latest Gamma development updates and security reports. Started working on verifying numbers from vfat [wS/USDC.e](https://vfat.io/farm?chainId=146&farmAddress=0xe879d0e44e6873cf4ab71686055a4f6817685f02&poolId=0) pool dashboard.
 
 2025-03-10 Mon: started research of [Bancor](https://arxiv.org/pdf/2111.09192) analysis, [Gauntlet](https://www.gauntlet.xyz/resources/uniswap-alm-analysis) Automated Liquidity Management report to verify the idea of rebalancing using dynamic volatility
