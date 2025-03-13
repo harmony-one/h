@@ -1,3 +1,5 @@
+2025-03-12 Wed: Complete [deposit logic implementation](https://github.com/harmony-one/sonic-yield-calculator/pull/1) with new depositApi module that interfaces with NFT Manager Shadow contract (to create a liquidity position with a specific price range, represented as an NFT) and NFT Farm Strategy (to stake the position, enabling auto-rebalancing and configuring reward preferences using the SHADOW token).
+
 2025-03-11 Tue: Developing deposit feature for Sonic Yield Calculator app. Improving pool retrieval logic to enhance CL (Concentrated Liquidity) data extraction ([here](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-11) current app look and feel).
 
 
