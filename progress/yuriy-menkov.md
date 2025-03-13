@@ -1,3 +1,8 @@
+2025-03-13 Thu: sick day-off
+
+2025-03-12 Wed: sick day-off
+
+2025-03-11 Tue: Researched interaction with shadow exchange pools, including via vfat (Farm Strategy) adapters. Transferred the logic of making decisions on rebalance to the contract level, testing Farm Strategy on the usdc shadow pool.
 
 2025-03-10 Mon: Worked on developing a contract based on FarmStrategy: predefined parameters, limited settings, application consists of a contract and a client. The client checks for out-of-range and calls rebalance methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
 
