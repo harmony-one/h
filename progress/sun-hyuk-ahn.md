@@ -1,4 +1,4 @@
-2025-03-12 Wed:
+2025-03-12 Wed: [Replaced](https://github.com/sunwavesun/harmony/commit/d2904325ffd51fe963ae112ca2a3939a0342f452) Transaction data struct into an interface so that different typed transaction can have their own logic.
 
 2025-03-11 Tue: [Began](https://github.com/sunwavesun/harmony/commit/d2904325ffd51fe963ae112ca2a3939a0342f452) implementation for type transaction (EIP-2718), that will serve as a dependency for other EIPs.
 
