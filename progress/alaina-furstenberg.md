@@ -1,3 +1,11 @@
+Q1 Review:
+
+This quarter, I focused on DeFi testing for /wealth, AI-driven content creation, and product marketing strategy. I explored cross-chain swaps, concentrated liquidity, and DeFi rebalancing, gathering research on /wealth. I improved with AI tools like Sora, Pika, and Midjourney, developed detailed marketing plans for five products, and designed animations and graphics for Pump.ONE, exchange.ONE, boostDAI, and ecosystem initiatives. My content efforts included writing newsletters, generating AI-powered podcast summaries via NotebookLM, and producing Twitter threads on team progress and ecosystem happenings.
+
+On X, I strengthened co-marketing efforts through collaborations with HeyEddie, FlappyH1, KrakenPro, and Band Protocol. Here are the Q1 stats on our Twitter performance: 895.3k impressions (-7%), 49.6k total engagements (+6%), 18.6k likes (+16%), and 4.1k reposts (+30%). 
+
+---
+
 2024-03-16 Sun: Video generations in Sora.
 
 2024-03-15 Sat: Thread on the team's progress.
