@@ -95,7 +95,8 @@ Data is current as of March 14, 2025
 
 #### Methodology
 [wS/USDC.e Subgraph Query](https://sonic.kingdomsubgraph.com/subgraphs/name/exp/graphql?query=%7B%0A++clPools%28%0A++++first%3A1%2C%0A++++where%3A%7B%0A++++++symbol%3A%22wS%2FUSDC.e%22%2C%0A++++++id%3A%220x324963c267C354c7660Ce8CA3F5f167E05649970%22%0A++++%7D%0A++%29%7B%0A++++id%0A++++createdAtTimestamp%0A++++createdAtBlockNumber%0A++++token0+%7B+symbol+%7D%0A++++token1+%7B+symbol+%7D%0A++++symbol%0A++++initialFeeTier%0A++++feeTier%0A++++feesUSD%0A++++txCount%0A++++totalValueLockedUSD%0A++++poolDayData%28%0A++++++first%3A+8%0A++++++orderBy%3AstartOfDay%0A++++++orderDirection%3Adesc%0A++++%29%7B%0A++++++startOfDay%0A++++++feesUSD%0A++%09%7D%0A++%7D%0A%7D#)
-- Open Sonic Subgraph GraphQL client
+
+- Open Sonic [Subgraph GraphQL client](https://sonic.kingdomsubgraph.com/subgraphs/name/exp/graphql?query=%7B%0A++clPools%28%0A++++first%3A1%2C%0A++++where%3A%7B%0A++++++symbol%3A%22wS%2FUSDC.e%22%2C%0A++++++id%3A%220x324963c267C354c7660Ce8CA3F5f167E05649970%22%0A++++%7D%0A++%29%7B%0A++++id%0A++++createdAtTimestamp%0A++++createdAtBlockNumber%0A++++token0+%7B+symbol+%7D%0A++++token1+%7B+symbol+%7D%0A++++symbol%0A++++initialFeeTier%0A++++feeTier%0A++++feesUSD%0A++++txCount%0A++++totalValueLockedUSD%0A++++poolDayData%28%0A++++++first%3A+8%0A++++++orderBy%3AstartOfDay%0A++++++orderDirection%3Adesc%0A++++%29%7B%0A++++++startOfDay%0A++++++feesUSD%0A++%09%7D%0A++%7D%0A%7D#)
 - Press "Execute query" (Ctrl-Enter) and check the results in the right column
 
 1) TVL is available in "totalValueLockedUSD" field
@@ -117,9 +118,7 @@ Weekly fees = 61432 + 46073 + 56288 + 47729 + 45019 + 31387 + 59060 =  $346,988
 | $155,540 | 13.23% | 
 
 #### Methodology
-[https://api.goldsky.com/api/public/project_clu2walwem1qm01w40v3yhw1f/subgraphs/beefy-clm-sonic/latest/gn](https://api.goldsky.com/api/public/project_clu2walwem1qm01w40v3yhw1f/subgraphs/beefy-clm-sonic/latest/gn)
-
-- Open Beefy Subgraph GraphQL client
+- Open Beefy [Subgraph GraphQL client](https://api.goldsky.com/api/public/project_clu2walwem1qm01w40v3yhw1f/subgraphs/beefy-clm-sonic/latest/gn)
 
 - Add following query:
 ```shell
