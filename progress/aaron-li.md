@@ -1,4 +1,8 @@
-2025-3-10 Tue (5.8h): Review Socket documentations. Discuss with Socket team on integration needs and security concerns. Review Socket Protocol innerworkings and deep analysis. Debug bridge issues step-by-step and discuss. Review deBridge in depth. Domain operations. Research automated liquidity provisioning rebalancing in major products
+2025-3-13 Thu (5.2h): Review LikwidFi, Double, UseUltra, Meteora. Document and discuss bridge tasks in details. Domain renewal and automation operations. Experiment with various Sonic vaults
+
+2025-3-12 Wed (0.9h): (At Stanford Blockchain Summit) Review comparitive analysis on GMX, Hyperliquid, Aerodrome vault
+
+2025-3-11 Tue (5.9h): Review Socket documentations. Discuss with Socket team on integration needs and security concerns. Review Socket Protocol innerworkings and deep analysis. Debug bridge issues step-by-step and discuss. Review deBridge in depth. Domain operations. Research automated liquidity provisioning rebalancing in major products
 
 2025-3-10 Mon (1.5h): (At ETH SF) Review vault return analysis from Gamma, Mellow, and others. Review loss-versus-rebalcning implementations
 
