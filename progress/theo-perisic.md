@@ -1,3 +1,9 @@
+2025-03-13 Thu: Direct coordination for 0x support and extensive troubleshooting unlocked values for [CoinMarketCap](https://coinmarketcap.com/currencies/harmony/). Sync with Philipp for sourcing Shadow emissions outside of Shadow platform, and general vault and rebalancing findings.
+
+2025-03-12 Wed: Coordination with team for Q1 Reviews. Continued Shadow verifications, currently trying to add emissions to Dune dashboard. Insights: need to sync with philipp on how to best source this information, as xShadow is emitted but not available for extraction, unless 50% penalty. Total supply and vesting information is available, but precise pair emissions are needed to verify values.
+
+2025-03-11 Tue: Panoptic testing, narrowing down strategies, Reviewed a16z [Arbitrage Extractable Value](https://a16zcrypto.com/posts/videos/arbitrage-extractable-value/). Insight: this combines the notions from Loss-Versus-Rebalancing (LVR) from [a16z](https://a16zcrypto.com/posts/article/lvr-quantifying-the-cost-of-providing-liquidity-to-automated-market-makers/), providing liquidity in a way that optimizes for limiting loss-versus-rebalancing gives the arbitrage extractable value to the original liquidity provider rather than the arbitrage user.
+
 2025-03-10 Mon: Attended [Base Roll-Up](https://lu.ma/37ykg387) & AI Summit in San Francisco with team. Insights: lots of the same conversations regarding privacy, AI, and DeFi, as well as Layer 2 conversations. Non-crypto native conversations gave insights into narrowing down user personas for upcoming products.
 
 ---
