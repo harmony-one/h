@@ -209,3 +209,6 @@ Estimate Monthly Yield = Total Yield / Number of months = 0.02395 / 2.3 = 0.0104
 APY = (1 + MonthlyYield) ^ n - 1 = (1 + 0.01041) ^ 12 - 1  = 0.1323 or 13.23%
 ```
 
+CSV dump of Beefy harvest events:
+[https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv](https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv)
+
