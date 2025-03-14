@@ -1,3 +1,7 @@
+2025-03-14 Fri: prepared [detailed report](https://github.com/harmony-one/h/blob/main/docs/automated-liquidity-manager.md#analysis-of-existing-pools) about beefy and vfat pools values in /docs (TVL, APY, weekly rewards). Prepared scripts and exported raw vault data to csv: [vfat_wS-USDC.e](https://github.com/harmony-one/shadow-scraper/blob/main/export/vfat_wS-USDC.e_daily_snapshots.csv), [beefy_wS-USDC.e](https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_wS-USDC.e_harvest_events.csv).
+
+2025-03-13 Thu: beefy [wS-USDC.e vault](https://app.beefy.com/vault/shadow-cow-sonic-ws-usdc.e-vault) research: collected and validated TVL and APY data, shared info
+
 2025-03-12 Wed: research and verification of vfat [wS/USDC.e](https://vfat.io/farm?chainId=146&farmAddress=0xe879d0e44e6873cf4ab71686055a4f6817685f02&poolId=0) stats  (TVL, APR, fees) with onchain data from subgraph events, shared report with Stephen and Li
 
 2025-03-11 Tue: completed research of ALM (Automated Liquidity Management) protocols, based on information from Gauntlet report, dashboards and DeFilLama. Gamma looks like the best choise for dynamic volatility and narrow range strategy; summarized data and shared report with Stephen and Li. Checked latest Gamma development updates and security reports. Started working on verifying numbers from vfat [wS/USDC.e](https://vfat.io/farm?chainId=146&farmAddress=0xe879d0e44e6873cf4ab71686055a4f6817685f02&poolId=0) pool dashboard.
