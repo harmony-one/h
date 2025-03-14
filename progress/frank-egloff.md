@@ -1,7 +1,8 @@
+2025-03-13 Thu: Testing depositApi implementation while resolving implementation errors, troubleshooting excessive gas estimation issue in mint transaction. Enhanced error handling throughout depositApi module.
+ 
 2025-03-12 Wed: Complete [deposit logic implementation](https://github.com/harmony-one/sonic-yield-calculator/pull/1) with new depositApi module that interfaces with NFT Manager Shadow contract (to create a liquidity position with a specific price range, represented as an NFT) and NFT Farm Strategy (to stake the position, enabling auto-rebalancing and configuring reward preferences using the SHADOW token).
 
 2025-03-11 Tue: Developing deposit feature for Sonic Yield Calculator app. Improving pool retrieval logic to enhance CL (Concentrated Liquidity) data extraction ([here](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-11) current app look and feel).
-
 
 2025-03-10 Mon: Deployed 1Bot with Claude 3.7 Sonnet model integration and implemented both free and paid versions of DeepEeek. After examining FarmStrategy and Automation contracts in vfat.tools repo, gained crucial insights into their pool handling methods, enabling [dynamic CL pool retrieval with detailed display](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md#2025-03-10) similar to vfat.io. Next steps include resolving loading latency issues and implementing position purchasing to analyze 1Tick rebalancing failures.
 
