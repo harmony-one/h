@@ -182,6 +182,12 @@ Insert another query to get full list of `clmHarvestEvents`:
   ) {
     rewardToNativePrices
     nativeToUSDPrice
+    underlyingAmount0
+    underlyingAmount1
+    rewardToNativePrices
+    nativeToUSDPrice
+    createdWith { id, blockTimestamp, blockNumber, sender }
+    clm { underlyingToken0 { symbol } underlyingToken1 { symbol } }
   }
 }
 ```
@@ -197,7 +203,7 @@ console.log('totalRewardsUsd', totalRewardsUsd) // $3726
 
 CSV dump of Beefy rewards:
 
-[https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv](https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv)
+[[https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv](https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_wS-USDC.e_harvest_events.csv)]([https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_harvestEvents.csv](https://github.com/harmony-one/shadow-scraper/blob/main/export/beefy_wS-USDC.e_harvest_events.csv))
 
 [Full script](https://github.com/harmony-one/shadow-scraper/blob/main/src/beefy/index.ts) (github) to calculate rewards
 
