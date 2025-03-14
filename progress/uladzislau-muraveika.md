@@ -1,7 +1,37 @@
+2025-03-14 Fri:
+
+Main focus of this week was [the fix for the our CI](https://github.com/harmony-one/harmony/pull/4871), because two binary dependencies `go-imports` and `genocodec` were using `latest` version instead of pinned one. So I've checked our `genocodec` version previously [forked by Eugene Kim](https://github.com/harmony-ek/gencodec) and decided to switch to the main repo, because repo was already switched from vendor dependencies to the modules structure and have a release. Together with Konstantin we decided to use and pin previous of `go-imports`. Additionally, I've hotfixed the strange behavior with GOPATH in the CI.
+
+Additionally, I've communicated the future work to be done with Soph and asked one of validators to turn off his backup node detected by our monitoring.
+
+---
+
+2025-03-14 Thu: 4 hours sickday-off
+
+---
+
+2025-03-13 Thu: 4 hours sickday-off
+
+---
+
+2025-03-07 Fri: PTO
+
+---
+
+2025-03-06 Thu:
+
+Main focus of this week was the Nginx updates:
+* remove OCSP Stapling from SSL certs - Let's encrypt asked to stop use this feature, they will drop support it in May.
+* enable HTTP2 on the RPC endpoints - should improve overall performance due to built multiplexing.
+* renew SSL on our RPCs endpoints
+
+From the operations side, as part of my on-call, I've fixed our monitoring for the Layer Zero tokens metrics, issue was with 2 metrics which have exact labels, fix was just to add one more label to make the whole set unique.
+
+---
+
 2025-02-28 Fri:
 
 From the testing perspective, I've created set of regression tests for the [effectiveGasPrice RPC operation](https://github.com/harmony-one/harmony-test/pull/38), it covers 3 transactions from the old version of binary and also check for the latest operation in blockchain, checks all 3 namespaces(hmy,hmyv2, eth). Main advantage - we can easily run as a smoke test on each fresh release in the testnet.
-The main focus of this week was three ops tasks.
 
 From the operations side, I've found the way how to check what application/server is sending the most of the logs to the Loki and found how to threat this logs separately. These actions helped with the space usage on the monitoring server, now it is stable 65%, previously it was around 96-97%.
 
