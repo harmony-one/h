@@ -1,3 +1,5 @@
+2025-03-14 Fri: Extended CL pool deposit logic with wallet integration and token support (S and USDC.e). Resolved price retrieval issues for current, minimum, and maximum values. Continuing to debug mint transaction completion errors.
+
 2025-03-13 Thu: Testing depositApi implementation while resolving implementation errors, troubleshooting excessive gas estimation issue in mint transaction. Enhanced error handling throughout depositApi module.
  
 2025-03-12 Wed: Complete [deposit logic implementation](https://github.com/harmony-one/sonic-yield-calculator/pull/1) with new depositApi module that interfaces with NFT Manager Shadow contract (to create a liquidity position with a specific price range, represented as an NFT) and NFT Farm Strategy (to stake the position, enabling auto-rebalancing and configuring reward preferences using the SHADOW token).
