@@ -1,4 +1,4 @@
-2025-03-14 Fri: Extended CL pool deposit logic with wallet integration and token support (S and USDC.e). Resolved price retrieval issues for current, minimum, and maximum values. Continuing to debug mint transaction completion errors.
+2025-03-14 Fri: Extended CL pool deposit logic with wallet integration and token support (S and USDC.e). Resolved [price retrieval issues](https://github.com/harmony-one/sonic-yield-calculator/pull/1) for current, minimum, and maximum values. Continuing to debug mint transaction completion errors.
 
 2025-03-13 Thu: Testing depositApi implementation while resolving implementation errors, troubleshooting excessive gas estimation issue in mint transaction. Enhanced error handling throughout depositApi module.
  
