@@ -8,7 +8,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 2024-03-16 Sun: Video generations in Sora.
 
-2024-03-15 Sat: Thread on the team's progress.
+2024-03-15 Sat: [Thread](https://x.com/harmonyprotocol/status/1900999207500296281) on the team's progress.
 
 2024-03-14 Fri: Community section update and tweet. Final draft of Q1 Progress. Completion of Prioritizing 0x graphic. Pump.one graphic + update on X.
 
