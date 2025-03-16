@@ -1,3 +1,5 @@
+2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
+
 2025-03-14 Fri: Researching where vfat is pulling their numbers (TVL, etc) from, and look into calculation to observe where discrepancies between Shadow are coming from. Further worked on Q1 summary, and also started looking into other platforms for top wallet analysis (silo, rings, beets.)
 
 2025-03-13 Thu: Compiled stats into a [document](https://docs.google.com/spreadsheets/d/1pLWlG6-umw_tI5q8WBPeAMjw4MktYg6SDOyaZYmG6Zo/edit?gid=0#gid=0) for top profiters on Shadow wS-USDC.e pool by running [code](https://github.com/rikaa15/sonic-rewards) from yesterday. Looked into sickle contracts to analyze yield for the same farming pool on vfat.io, and started writing Q1 progress report.
