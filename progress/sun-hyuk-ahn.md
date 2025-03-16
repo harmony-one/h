@@ -1,4 +1,8 @@
-2025-03-14 Fri: 
+2025-03-17 Mon:
+
+---
+
+2025-03-14 Fri: Upgraded to key methods to the changed Transaction interface (Signer, AsMessage, etc.)
 
 2025-03-13 Thu: Continued updates to the transaction struct. Updating marshalling logic to not use gencodec due to the updated struct following [geth's update](https://github.com/ethereum/go-ethereum/pull/21502/fil).
 
