@@ -1,3 +1,10 @@
+2025-03-17 Sun: I discussed a more detailed relationship model with Socket Protocol and joined a call with them and Aaron to discuss the technicals. We are waiting for more detailed technical descriptions. 
+
+To get a deeper understanding of ALM strategies, I researched LVR and impermanent loss. In discussion with Theo, we synthesized the most valuable next step towards an actual better product compared to existing managers: Track the real-time volatility of certain assets. 
+
+I researched more potential strategies to deploy stablecoins from the treasury to generate returns. We are still in the progress of identifying optimal allocations and protocols. 
+
+
 2025-03-09 Sun: I researched automated liquidity management and related data to support the product development of the cross-chain portfolio manager. The synthesis for a successful product may be related to depend the ALM on asset volatility changes. 
 
 After additional conversations with Socket Protocol, a partnership will be very interesting to enable cross-chain deposits to Harmony. In the long run, the partnership will work towards an app-based, user-centric product approach, abstracting chains completely to lift user experience to the next level.
