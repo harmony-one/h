@@ -1,3 +1,5 @@
+2025-03-16 Sun: Continuation of vfat/Q1 summary. Look into Metropolis Exchange.
+
 2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
 
 2025-03-14 Fri: Researching where vfat is pulling their numbers (TVL, etc) from, and look into calculation to observe where discrepancies between Shadow are coming from. Further worked on Q1 summary, and also started looking into other platforms for top wallet analysis (silo, rings, beets.)
