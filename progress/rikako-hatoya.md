@@ -15,6 +15,8 @@ Deliverables:
  - [PR for bridge asset (AERO)](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)
  - (personal learning) [Mathematics in Lean Workbook](https://github.com/rikaa15/mathematics_in_lean)
 
+---
+
 2025-03-16 Sun: Continuation of vfat/Q1 summary. Look into Metropolis Exchange.
 
 2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
