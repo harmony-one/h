@@ -6,7 +6,7 @@ My main focus has been on the Sonic chain. I began by exploring its ecosystem, r
 
 My most impactful work was developing a repo to extract top profiters from any pool on Sonic—initially focusing on the wS-USDC.e pool on Shadow Exchange through fetching transaction data using SonicScan API. The tool fetches all incentive transactions from a specified rewards gauge (address can be found on Shadow exchange Dune), tracks every interaction (liquidity changes, rewards) between the pool and individual addresses, and computes key metrics like rebalance frequency and APR. This provided valuable insight into the trading strategies of top wallets and can be applied flexibly across pools by modifying the input address.
 
-Deliverables:
+**Deliverables:**
  - [Repo to extract top profiters on wS-USDC.e, their rebalance frequency, and APR calculation](https://github.com/rikaa15/sonic-rewards)
  - [Google Sheets - wS-USDC.e Top Profiters Stats](https://docs.google.com/spreadsheets/u/1/d/1pLWlG6-umw_tI5q8WBPeAMjw4MktYg6SDOyaZYmG6Zo/edit?usp=sharing)
  - (old) [Google Docs - wS-USDC.e Top Profiters Activity](https://docs.google.com/document/d/1BJBM-FEiBxAZCdJplxBMJIxmhUiXFu8DWUZXaUBgj1I/edit?tab=t.0#heading=h.cbxohay215gy)
