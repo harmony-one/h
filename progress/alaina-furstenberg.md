@@ -6,7 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2024-03-17 Mon: Animation of pump.one graphic + [tweet](https://x.com/harmonyprotocol/status/1901746154465054972). Sync with Artem on updating pump.one/rules, revising the rule pertaining to competition extensions: "Each round lasts 7 days, ending at a random time around midnight US Pacific Time only if a token reaches 420,000 ONE in net liquidity. If not, the round extends indefinitely until the liquidity threshold is met.". We're discussing lowering the liquidity threshold as well for competitions. Continuation on /wealth, testing orange finance.
+2024-03-17 Mon: Animation of pump.one graphic + [tweet](https://x.com/harmonyprotocol/status/1901746154465054972). Sync with Artem on updating pump.one/rules, revising the rule pertaining to competition extensions: "Each round lasts 7 days, ending at a random time around midnight US Pacific Time only if a token reaches 420,000 ONE in net liquidity. If not, the round extends indefinitely until the liquidity threshold is met.". We're discussing lowering the liquidity threshold to 4200 ONE as well for competitions. Continuation on /wealth, testing orange finance.
 
 
 ---
