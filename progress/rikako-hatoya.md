@@ -1,3 +1,20 @@
+**2025 Q1 Summary**
+
+In early Q1 2025, I worked on AI and mathematics, specifically formal proofs using Lean and testing math Olympiad problems from the minif2f dataset with models from huggingface (AlphaGeometry and DeepSeek Prover). I then shifted to DeFi, researching end-to-end finance and personal on-chain finance tools. This led to hands-on work with asset bridging on Harmony, where I deployed proxy contracts (HRC20 and ERC20, with a lot of help from Yuriy) integrated with LayerZero for assets like AERO.
+
+My main focus has been on the Sonic chain. I began by exploring its ecosystem, researching the highest-yield platforms and pools—primarily SwapX and Shadow. I utilized Dune Analytics, SonicScan, and Graph Explorer to estimate incentives and rewards across pools, and contributed to optimizing allocation strategies. I also tested various dApps within Sonic Labs, investigated farming pools on Silo + SwapX, and experimented with vaults like ICHI + vfat.io. 
+
+My most impactful work was developing a repo to extract top profiters from any pool on Sonic—initially focusing on the wS-USDC.e pool on Shadow Exchange through fetching transaction data using SonicScan API. The tool fetches all incentive transactions from a specified rewards gauge (address can be found on Shadow exchange Dune), tracks every interaction (liquidity changes, rewards) between the pool and individual addresses, and computes key metrics like rebalance frequency and APR. This provided valuable insight into the trading strategies of top wallets and can be applied flexibly across pools by modifying the input address.
+
+Deliverables:
+ - [Repo to extract top profiters on wS-USDC.e, their rebalance frequency, and APR calculation](https://github.com/rikaa15/sonic-rewards)
+ - [Google Sheets - wS-USDC.e Top Profiters Stats](https://docs.google.com/spreadsheets/u/1/d/1pLWlG6-umw_tI5q8WBPeAMjw4MktYg6SDOyaZYmG6Zo/edit?usp=sharing)
+ - (old) [Google Docs - wS-USDC.e Top Profiters Activity](https://docs.google.com/document/d/1BJBM-FEiBxAZCdJplxBMJIxmhUiXFu8DWUZXaUBgj1I/edit?tab=t.0#heading=h.cbxohay215gy)
+ - (old) [Google Docs - Estimated Rewards for Top Pools on Sonic](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?tab=t.0#heading=h.a1af622wvd0l)
+ - (old) [Sonic Yield Platforms Research](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md)
+ - [PR for bridge asset (AERO)](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)
+ - (personal learning) [Mathematics in Lean Workbook](https://github.com/rikaa15/mathematics_in_lean)
+
 2025-03-16 Sun: Continuation of vfat/Q1 summary. Look into Metropolis Exchange.
 
 2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
