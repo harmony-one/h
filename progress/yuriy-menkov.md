@@ -1,3 +1,16 @@
+2025 Q1 Review (Draft)
+
+Improvements and launch of Pump.ONE [contracts](https://github.com/harmony-one/pump.fun.contracts). All contracts are made upgradable. Added a second alternative version of the Token Factory contract without competitions with the preserved functionality of trading and publishing in Uniswap V3 pools. Transition to AсcessControl with the division of functionality between the roles of administrator and manager. Added utility methods for withdrawing rewards and liquidity. Fixed critical errors in interaction with Uniswap and price calculation. Assistance with integration with backend and frontend services. Support at [Pump.ONE application](https://pump.one/board) launch.
+
+Completed Unify Bridge Assets V1 feature: USDC converter contract allow converting legacy USDC to USDC.e at a rate of 1-1, extended ProxyHRC20 layerzero contracts to support bridging USDC tokens from different chains to one USDC.e on the harmony side, the frontend was also updated to support unify assets feature. Now the conversion works for the linea and base networks.
+
+Started working on Layerzero V2 bridge contract: one common contract for all tokens, dynamic addition of new tokens via contract method calls, auto deployment of token wrapper on the harmony side. Draft version is ready, currently in debugging stage. Researched options for transferring liquidity from v1 contracts to v2.
+
+Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arrakis, gamma. Created contract based on FarmStrategy with predefined parameters. The contract checks for range out-of-range and calls rebalancing methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
+
+
+---
+
 2025-03-13 Thu: sick day-off
 
 2025-03-12 Wed: sick day-off
