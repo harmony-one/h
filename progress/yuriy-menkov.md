@@ -11,6 +11,10 @@ Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arr
 
 ---
 
+2025-03-15 Sat: Added more contract events to support analytics collection (rebalancing prices, fee, ticks etc).  Worked on Q1 Review.
+
+2025-03-14 Fri: Completed integration with shadow exchange pools via Ramses V3 Protocol [interfaces](https://github.com/code-423n4/2024-10-ramses-exchange/blob/main/contracts/CL/core/RamsesV3Factory.sol) (used shadow exchange for managing pools). Added a simple backend service for calling methods for checking out-of-range with automatic rebalancing. Testing the contract and strategy.
+
 2025-03-13 Thu: sick day-off
 
 2025-03-12 Wed: sick day-off
