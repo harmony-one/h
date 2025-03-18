@@ -1,3 +1,6 @@
+2025-03-17 Mon: Discovered and implemented [DefiLlama pool endpoint](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/1) for retrieving granular TVL data. Refactored DefiLlama provider with local storage caching to optimize API consumption. Expanded protocol coverage by adding Curve, Aave and Beets implementations. Enhanced CLI functionality for improved data querying capabilities. Added [Readme](https://github.com/harmony-one/defi-protocol-tvl-tracker/blob/main/README.md) file
+
+---
 2025-03-16 Sun: (5.0h) Evaluated DefiLlama API for DeFi TVL tracker and determined it primarily provides chain/protocol-level data without the required pool-specific metrics needed for our use case. Established modular [project architecture with provider-protocol pattern](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/1), implemented CLI interface, and initialized Silo protocol integration. Exploring alternative approaches using subgraphs and web scraping to extract granular pool market data
 
 2025-03-14 Fri: Extended CL pool deposit logic with wallet integration and token support (S and USDC.e). Resolved [price retrieval issues](https://github.com/harmony-one/sonic-yield-calculator/pull/1) for current, minimum, and maximum values. Continuing to debug mint transaction completion errors.
