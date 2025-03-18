@@ -36,7 +36,7 @@ Contract address › 0x324963c267c354c7660ce8ca3f5f167e05649970
 ✔ Fetching contract name from contract API...
 ? Start block › 1949593
 
-Contract name › RamsesV3Poo
+Contract name › RamsesV3Pool
 Index contract events as entities (Y/n) › true
 Add another contract? (y/N) · false
 ```
