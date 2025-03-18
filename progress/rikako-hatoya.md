@@ -19,6 +19,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 2025-03-17 Mon: Tested and researched Avalon Finance for Sonic, tested shadow scraper. Continued with looking for how vfat stats are being pulled.
 
+---
+
 2025-03-16 Sun: Continuation of vfat/Q1 summary. Looked into Metropolis Exchange.
 
 2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
