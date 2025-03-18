@@ -1,3 +1,11 @@
+2025-03-17 Mon: Set up meeting times for Frank and Rika sync tomorrow. Reviewed AthleteFi marketing post. Deep dive into USD pairings for lending, pools, and vaults to earn stable yields as a base strategy. Insights: Pendle fixed rates offers lower guaranteed yields, with x33 pools tied to USD with added incentives looks a strong yielding strategy in order to take advantage of Shadow platform. 
+
+---
+
+2025-03-16 Sat: (2.0h) Looking into [Silo sonic markets](https://v2.silo.finance/). Insights: Lending on yields remains beneficial for hedging on more aggressive strategies, or as a short for underlying assets, otherwise best to stay with pools and emissions.
+
+2025-03-15 Sat: (1.0h) Reviewed Yuriy’s [Q1 update](https://github.com/harmony-one/h/blob/main/progress/yuriy-menkov.md).
+
 2025-03-13 Thu: Direct coordination for 0x support and extensive troubleshooting unlocked values for [CoinMarketCap](https://coinmarketcap.com/currencies/harmony/). Sync with Philipp for sourcing Shadow emissions outside of Shadow platform, and general vault and rebalancing findings.
 
 2025-03-12 Wed: Coordination with team for Q1 Reviews. Continued Shadow verifications, currently trying to add emissions to Dune dashboard. Insights: need to sync with philipp on how to best source this information, as xShadow is emitted but not available for extraction, unless 50% penalty. Total supply and vesting information is available, but precise pair emissions are needed to verify values.
