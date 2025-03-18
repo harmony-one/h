@@ -4,6 +4,10 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-17 Mon: portfolio tracker: [added](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/swapx.ts) SwapX rewards amount info. Exported all Sonic Shadow swaps for the USDC.e-USDT pool and created a [script](https://github.com/harmony-one/shadow-scraper/blob/main/src/shadow_trades/stats.ts) to calculate price range for 90% amount of trades for the given pool ($1 +- 0.5126%).
+
+---
+
 2025-03-16 Sun: (2.0h) portfolio tracker: looking at Shadow and [UniswapV3](https://docs.uniswap.org/contracts/v3/reference/core/interfaces/pool/IUniswapV3PoolState) documentation on how to calculate active position fees. Working on portfolio tracker prototype, [implemented code](https://github.com/harmony-one/shadow-scraper/commit/a2690eafe75e521b2e46a68bf6936faaf46e05f0) to collect active position data for the given pool.
 
 2025-03-15 Sat: (2.0h) started working on tracking overall portfolio performance across multiple defi protocols on sonic. Deposited small amount of funds into [silo](https://v2.silo.finance/markets/sonic/s-usdc-20), [shadow](https://www.shadow.so/liquidity/0x324963c267c354c7660ce8ca3f5f167e05649970), [swapx](https://swapx.fi/earn?search=wS/USDC.e), [beets](https://beets.fi/pools/sonic/v2/0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018), [euler](https://app.euler.finance/vault/0xeEb1DC1Ca7ffC5b54aD1cc4c1088Db4E5657Cb6c?network=sonic), [aave](https://app.aave.com/reserve-overview/?underlyingAsset=0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38&marketName=proto_sonic_v3) and [curve](https://curve.fi/dex/sonic/pools/factory-stable-ng-4/deposit) sonic pools. Started looking for APIs for the given pools to get portfolio performance data.
