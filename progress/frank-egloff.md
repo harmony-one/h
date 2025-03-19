@@ -1,3 +1,5 @@
+2025-03-18 Tue: Synced with Theo and Rika on current initiatives and coordinated with Artem regarding protocol subgraph requirements. Expanded CLI app with Pendle protocol integration using DefiLlama API and implemented Shadow protocol with [Kingdom Subgraph provider](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/2). Refactored formatter to handle data output factoring to each provider, due to different data availability and added sorting functionality on TVL data.
+
 2025-03-17 Mon: Discovered and implemented [DefiLlama pool endpoint](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/1) for retrieving granular TVL data. Refactored DefiLlama provider with local storage caching to optimize API consumption. Expanded protocol coverage by adding Curve, Aave and Beets implementations. Enhanced CLI functionality for improved data querying capabilities. Added [Readme](https://github.com/harmony-one/defi-protocol-tvl-tracker/blob/main/README.md) file
 
 ---
