@@ -4,6 +4,8 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-18 Tue: [improved](https://github.com/harmony-one/shadow-scraper/commit/b7cf3e9812390ef1e568a13bfc542c5d5ce04d8d) portfolio tracker with adding support of all concentrated liquidity pools on SwapX; added support of --userAddress command line parameter. [Configured](https://github.com/harmony-one/shadow-scraper/tree/main/src/subgraph/sonic-shadow) and [launched](https://thegraph.com/studio/subgraph/sonic-shadow/) Shadow subgraph on graph network, [created](https://github.com/harmony-one/h/blob/main/docs/subgraph-deployment.md) manual in /docs how to replicate all steps.
+
 2025-03-17 Mon: portfolio tracker: [added](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/swapx.ts) SwapX rewards amount info. Exported all Sonic Shadow swaps for the USDC.e-USDT pool and created a [script](https://github.com/harmony-one/shadow-scraper/blob/main/src/shadow_trades/stats.ts) to calculate price range for 90% amount of trades for the given pool ($1 +- 0.5126%).
 
 ---
