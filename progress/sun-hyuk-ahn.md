@@ -1,4 +1,8 @@
-2025-03-17 Mon:
+2025-03-19 Wed: 
+
+2025-03-18 Tue: Updates to the harmony-test repo to accompany debug_traceCall. Continuing the debugging process of the updated methods, will continue tomorrow.
+
+2025-03-17 Mon: Working on fixing the logic to the updated methods so that the unit tess can pass.
 
 ---
 
