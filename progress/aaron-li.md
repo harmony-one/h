@@ -1,3 +1,15 @@
+2025-3-18 Tue (0.5h+): Review socket integration guide, issues with patching bridge, Shadow staking performance and opportunities
+
+2025-3-17 Mon (0.3h): Research and discuss token batch approval
+
+---
+
+2025-3-16 Sun (1.2h): Investigate Shadow liquidity provisioning and staking opportunities. Review Shadow. Review Cosmos defi and yield projects. Review and discuss Flying Tulip, Cosmos defi projects
+
+2025-3-15 Sat (6.5h): Investigate and experiment with xSHADOW incentives, returns, voting mechanisms. Review Flying Tulip LTV model. Review Cosmos yield products. Review Flying Tulip AMM and volatility based curve model. Review Arrakis PALM, Arrakis HOT AMM
+
+2025-3-14 Fri (2.1h): (Flight to Australia) Review Arrakis PALM, Arrakis HOT AMM. Review Stability, Avalon Labs, Silo, Beets, Veda, Rings, Pendle
+
 2025-3-13 Thu (5.2h): Review LikwidFi, Double, UseUltra, Meteora. Document and discuss bridge tasks in details. Domain renewal and automation operations. Experiment with various Sonic vaults
 
 2025-3-12 Wed (0.9h): (At Stanford Blockchain Summit) Review comparitive analysis on GMX, Hyperliquid, Aerodrome vault
