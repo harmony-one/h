@@ -1,3 +1,7 @@
+2025-03-19 Wed: Meeting with Soph for Lend contract changes. Further testing of Euler and Shadow pools. Insights: fixed yields work best for medium to long term, but with active management pools acquire the highest APY with limited risk (for certain pools). Completed clarification on CoinMarketCap discrepancies, continued push for 0x prioritization.
+
+2025-03-18 Tue: Group call with Frank and Rika to prioritize focus on stable pools and shadow specific information not available on DefiLlama. Submitted ticket for Paladin rewards issue.
+
 2025-03-17 Mon: Set up meeting times for Frank and Rika sync tomorrow. Reviewed AthleteFi marketing post. Deep dive into USD pairings for lending, pools, and vaults to earn stable yields as a base strategy. Insights: Pendle fixed rates offers lower guaranteed yields, with x33 pools tied to USD with added incentives looks a strong yielding strategy in order to take advantage of Shadow platform. 
 
 ---
