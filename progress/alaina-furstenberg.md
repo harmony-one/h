@@ -6,6 +6,8 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2024-03-19 Wed: [Promotion of FlappyH1](https://x.com/harmonyprotocol/status/1902433324095918439) and Cryptoland DAO weekly airdrop. Generated graphic using Whisk and promoted on X. Animated a graphic for Prioritizing 0x, synced with Theo on the first iteration of the [graphic](https://www.notion.so/harmonyone/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081?pvs=4#1bca38fc04878038b1cefd02ac023974). 
+
 2024-03-18 Tue: Design of thumbnail for Q2 roadmap + uploaded to [Youtube](https://youtu.be/k6kLgW0F6fo) and shared on [X](https://x.com/harmonyprotocol/status/1902119437928390876). Continuation of filling out /w, reading the docs for Unipilot and Popsicle Finance.
 
 2024-03-17 Mon: Animation of pump.one graphic + [tweet](https://x.com/harmonyprotocol/status/1901746154465054972). Sync with Artem on updating pump.one/rules, revising the rule pertaining to competition extensions: "Each round lasts 7 days, ending at a random time around midnight US Pacific Time only if a token reaches 420,000 ONE in net liquidity. If not, the round extends indefinitely until the liquidity threshold is met.". We're discussing lowering the liquidity threshold to 4200 ONE as well for competitions. Continuation on /wealth, testing orange finance.
