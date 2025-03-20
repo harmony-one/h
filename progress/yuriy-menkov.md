@@ -8,6 +8,11 @@ Started working on Layerzero V2 bridge contract: one common contract for all tok
 
 Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arrakis, gamma. Created contract based on FarmStrategy with predefined parameters. The contract checks for range out-of-range and calls rebalancing methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
 
+---
+
+2025-03-18 Tue: [Added](https://github.com/harmony-one/shadow-scraper/pull/3) scripts for uploading swap data from swapX. Uploaded more data on USDC.e/scUSD pools, updated the script for calculating stats range by volume. Started researching the possibility of linking swap events to position commission data - to calculate rewards in the 90% range.
+
+2025-03-17 Mon: Used portfolio tracker to output all trades of the last 7 days in csv format for shadow’s and swapX USDC.e/USDT pool. [Added](https://github.com/harmony-one/shadow-scraper/pull/1) scripts for calculating the range (centered around $1) where 90% of trades were in for maximizing gains from fees.
 
 ---
 
