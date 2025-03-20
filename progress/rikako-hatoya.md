@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-19 Wed: Created a subgraph for pool contract [here](https://thegraph.com/explorer/subgraphs/B8TYKy3qa6ycaKDmpkRzyqJbJzUe7yfKqeH7PcGSWPdu?view=Query&chain=arbitrum-one), and currently looking into how to subgraph a proxy contract to query for farm contract. The issue is, there seems to be some methods that query the reward for individual user or position but not a method for total rewards, currently investigating this.
+
 2025-03-18 Tue: Sync with Theo and Frank. Started working on Shadow incentives and looking into vfat tools.
 
 2025-03-17 Mon: Tested and researched Avalon Finance for Sonic, tested shadow scraper. Continued with looking for how vfat stats are being pulled.
