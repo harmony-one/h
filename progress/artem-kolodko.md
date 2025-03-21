@@ -4,6 +4,8 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-20 Thu: portfolio tracker: [added](https://github.com/harmony-one/shadow-scraper/commit/3f080efddafa31e49738a30165a146e91ea88610) Shadow pool pending rewards with all 3 reward tokens: Shadow, XShadow and X33. [Added](https://github.com/harmony-one/shadow-scraper/commit/c34e3f42b1cb8bfe6a21408cb19bd8a54923602d) wallet ERC20 tokens balance. [Improved](https://github.com/harmony-one/shadow-scraper/commit/dbfeae5902f5c2883b4e19ecadef113168863735) export to tsv format.
+
 2025-03-19 Wed: portfolio tracker: [added](https://github.com/harmony-one/shadow-scraper/commit/3c149392eb2ba62553fc1607f5b1f2dd352c7461) export to tsv, refactored output to paste into excel table. Looked at koinly portfolio and compared it with our portfolio prototype. Researching methods to calculate total rewards for Shadow exchange.
 
 2025-03-18 Tue: [improved](https://github.com/harmony-one/shadow-scraper/commit/b7cf3e9812390ef1e568a13bfc542c5d5ce04d8d) portfolio tracker with adding support of all concentrated liquidity pools on SwapX; added support of --userAddress command line parameter. [Configured](https://github.com/harmony-one/shadow-scraper/tree/main/src/subgraph/sonic-shadow) and [launched](https://thegraph.com/studio/subgraph/sonic-shadow/) Shadow subgraph on graph network, [created](https://github.com/harmony-one/h/blob/main/docs/subgraph-deployment.md) manual in /docs how to replicate all steps.
