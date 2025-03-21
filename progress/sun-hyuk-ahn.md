@@ -1,4 +1,6 @@
-2025-03-19 Wed: 
+2025-03-20 Thu: Reviewing the materials necessary to the devops team continuing from the previous day.
+
+2025-03-19 Wed: Began analyzing documents related to devops handoff. Meeting with Soph in order to work out the handoff.
 
 2025-03-18 Tue: Updates to the harmony-test repo to accompany debug_traceCall. Continuing the debugging process of the updated methods, will continue tomorrow.
 
