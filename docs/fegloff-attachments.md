@@ -1,4 +1,8 @@
-[# 2025-03-11 Tue: Sonic-yield-calculator + 1Bot models](#2025-03-11)
+[#2025-03-20 Thu: Total Strategy Yield Recalculation](#2025-03-20):
+#### Total Strategy Yield Recalculation
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/3ebc4bb5-0919-4633-a194-703878e2a7b1" />
+
+[#2025-03-11 Tue: Sonic-yield-calculator + 1Bot models](#2025-03-11)
 <img width="1366" alt="image" src="https://github.com/user-attachments/assets/4d413f47-be33-40fa-a007-4381888804c1" />
 
 [# 2025-03-010 Mon: Sonic-yield-calculator + 1Bot models](#2025-03-10)
