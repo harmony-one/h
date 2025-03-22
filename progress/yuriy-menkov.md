@@ -10,6 +10,12 @@ Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arr
 
 ---
 
+2025-03-21 Fri: Worked on a script for loading (directly through my subgraph) and generating statistics for specified pools, positions: tick-range in usdc/usd* pools, rebalance occurrences (calculated through mint/burn events), trading fees, liquid rewards (through subgraph queries), future points, overall return.
+
+2025-03-20 Thu: Researched way to detect how much tvl is in shadow’s vaults via direct deposits vs managed by vfat’s "auto rebalancing" or "auto compounding" strategies. Deployed and [configured](https://github.com/harmony-one/h/blob/main/docs/subgraph-deployment.md) custom Shadow Pool Subgraph.
+
+2025-03-19 Wed: Researched graphql queries to get data (positions and rewards). Completed a script to calculate TVL and rewards for a price in range of 90% (from $1). some problem with linking rewards to swap transactions (ie grouping by price range)
+
 2025-03-18 Tue: [Added](https://github.com/harmony-one/shadow-scraper/pull/3) scripts for uploading swap data from swapX. Uploaded more data on USDC.e/scUSD pools, updated the script for calculating stats range by volume. Started researching the possibility of linking swap events to position commission data - to calculate rewards in the 90% range.
 
 2025-03-17 Mon: Used portfolio tracker to output all trades of the last 7 days in csv format for shadow’s and swapX USDC.e/USDT pool. [Added](https://github.com/harmony-one/shadow-scraper/pull/1) scripts for calculating the range (centered around $1) where 90% of trades were in for maximizing gains from fees.
