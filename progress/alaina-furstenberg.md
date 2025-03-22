@@ -6,6 +6,12 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2024-03-23 Sun: Creation of AI videos in Sora.
+
+2024-03-22 Sat: [Thread]() on teams progress. Review of the team's formatting in /p.
+
+2024-03-21 Fri: Drafting a quick Sora tutorial to help onboard Amanda into making AI graphics/videos. Update of the harmony community section plus [recap tweet](https://x.com/harmonyprotocol/status/1903204409548607511). Testing wallet connect for bridge platforms Amanda was having trouble with. Testing the stargate bridge and documenting my sentiments on the user experience and speed of use.
+
 2024-03-20 Thu: Sync with Amanda on /wealth, delegating tasks to complete the spreadsheet + we discussed our bridge testing. [Tweet](https://x.com/harmonyprotocol/status/1902938638410973318) about Coinbase Liquidity Pools. Animated the second iteration of the 0x marketing graphic. Scheduled a call with Colossus Digital to discuss co-marketing initiatives.
 
 2024-03-19 Wed: [Promotion of FlappyH1](https://x.com/harmonyprotocol/status/1902433324095918439) and Cryptoland DAO weekly airdrop. Generated graphic using Whisk and promoted on X. Animated a graphic for Prioritizing 0x, synced with Theo on the first iteration of the [graphic](https://www.notion.so/harmonyone/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081?pvs=4#1bca38fc04878038b1cefd02ac023974). 
