@@ -1,3 +1,10 @@
+2025-03-21 Fri:
+- Updated 1-second finality feature based on review comments and additional improvements. Passed the review and is expected to be deployed to devnet next week.
+- Updated effective gas price to return a default value of 100 GWEI, preventing potential null values.
+- Reviewed 25% of the PR for the 1.9.25 update, which includes modifications across more than 40 files.
+
+---
+
 2025-03-14 Fri:
 - Updated Ethereum version in source code to 1.9.25; all unit tests passed, integration tests expected to pass as well.
 - Discussed details of 1-second launch with Ulad; scheduled launch for next week, working on necessary preparations.
