@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-21 Fri: Continued with subgraph weekly reward calculation. Values on vfat are very off compared to transaction data, investigating their calculation method.
+
 2025-03-20 Thu: Created [subgraph code](https://github.com/rikaa15/sonic-farm) to query distributed rewards for wS-USDC.e vfat [Farm Pool Contract](https://sonicscan.org/address/0xe879d0e44e6873cf4ab71686055a4f6817685f02), and 7-day window historical averages. Deployed to The Graph [here](https://thegraph.com/explorer/subgraphs/8AsovqeqdWaYKUNFLLpK1a1sKXbapQcuAKD5yHUhTCuT?view=Query&chain=arbitrum-one
 ) but values seem off from "Weekly Rewards" displayed by vfat, looking into how they may be calculating it otherwise.
 
