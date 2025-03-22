@@ -1,3 +1,10 @@
+## 2025 Q1 Review
+In Q1, I implemented EIP-1153, which introduces transient storage opcodes to reduce gas costs and improve smart contract efficiency. I also implemented EIP-2718, which standardizes transaction envelopes, allowing for easier integration of future transaction types. Additionally, I began work on EIP-2930, which introduces access lists to reduce gas costs and improve reliability for certain types of transactions. Alongside protocol work, I began transitioning into the DevOps lead role previously held by Soph. This included managing Ulad, overseeing server infrastructure, system operations, and taking on other critical DevOps responsibilities.
+
+---
+
+2025-03-21 Fri: Continuing reviewing devops handoff material, especially the travis scripts required for deployment and testing. Note, all these devops handoff material will be obscure due to security reasons.
+
 2025-03-20 Thu: Reviewing the materials necessary to the devops team continuing from the previous day.
 
 2025-03-19 Wed: Began analyzing documents related to devops handoff. Meeting with Soph in order to work out the handoff.
