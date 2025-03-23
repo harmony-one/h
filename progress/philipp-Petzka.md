@@ -1,3 +1,5 @@
+2025-03-23 Sun: This week, I mostly researched the most profitable farming opportunities for treasury farming and to help the team understand certain protocol mechanics, risk factors, strategy execution steps, etc. Apart from that, I continued writing the product description for a basis trade stablecoin protocol earning fees from funding rates. 
+
 2025-03-17 Sun: I discussed a more detailed relationship model with Socket Protocol and joined a call with them and Aaron to discuss the technicals. We are waiting for more detailed technical descriptions. 
 
 To get a deeper understanding of ALM strategies, I researched LVR and impermanent loss. In discussion with Theo, we synthesized the most valuable next step towards an actual better product compared to existing managers: Track the real-time volatility of certain assets. 
