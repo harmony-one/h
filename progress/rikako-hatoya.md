@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-22 Sat: Testing of [gaugeRewardsClaims()](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration/graphql?query=%7B%0A++gaugeRewardClaims%28%0A++++first%3A1000%2C%0A++++where%3A%7B%0A++++++transaction_%3A+%7B%0A++++++++from%3A%220x4E430992Db6F3BdDbC6A50d1513845f087E9af4A%22%2C%0A++++++%7D%0A++++%7D%0A++++orderBy%3Atransaction__blockNumber%0A++++orderDirection%3Adesc%0A++%29+%7B%0A++++id%0A++++gauge+%7B+clPool+%7B+id+symbol+%7D+%7D%0A++++transaction+%7B+id+from+%7D%0A++++nfpPositionHash%0A++++rewardToken+%7B+id+symbol+%7D%0A++++rewardAmount%0A++++period%0A++++timestamp%0A++%7D%0A%7D) found by Yuriy, and gauges() epochRewards to see if of any use. Started working on task from Tuesday's meeting with Theo & Frank - rewards ranking for top pools on shadow.
+
 2025-03-21 Fri: Continued with subgraph weekly reward calculation. Values on vfat are very off compared to transaction data, investigating their calculation method.
 
 2025-03-20 Thu: Created [subgraph code](https://github.com/rikaa15/sonic-farm) to query distributed rewards for wS-USDC.e vfat [Farm Pool Contract](https://sonicscan.org/address/0xe879d0e44e6873cf4ab71686055a4f6817685f02), and 7-day window historical averages. Deployed to The Graph [here](https://thegraph.com/explorer/subgraphs/8AsovqeqdWaYKUNFLLpK1a1sKXbapQcuAKD5yHUhTCuT?view=Query&chain=arbitrum-one
