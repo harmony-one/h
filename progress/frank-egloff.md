@@ -1,3 +1,7 @@
+2025-03-23 Sun: (3.0h) Integrated GraphExplorer provider for SwapX protocol. Examined available [subgraph](https://thegraph.com/explorer/subgraphs/Gw1DrPbd1pBNorCWEfyb9i8txJ962qYqqPtuyX6iEH8u) but found it lacks essential TVL query endpoints. Subgraph contains basic vault data and transaction history but missing direct TVL metrics or complete token information required for accurate calculations. 
+
+2025-03-22 Sat: (1.0h) Implemented [Euler protocol integration](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/2) to the DeFi-protocol-TVL-Tracker. 
+
 2025-03-21 Fri: Sick day-off
 
 2025-03-20 Thu: Got the flu today, limiting work time. Researched Pendle v2 API and analyzed PTaUSDC/USDC pool assets, extracting underlyingApy, impliedApy, and swapFeeApy metrics for more accurate yield estimation. Discovered pool expiration date (August 14, 2025), adjusting investment timeline to 5 months. Updated [report](https://github.com/harmony-one/h/blob/main/docs/sonic_aave_pendle_analysis.md) and created a standalone yield [summary table](https://github.com/harmony-one/h/blob/main/docs/fegloff-attachments.md) showing complete breakdown of all steps (YT tokens, PT in LP, PT held, Magpie staking) with revised rates totaling 21.35%+ APY and projected $963,056+ return over the 5-month period.
