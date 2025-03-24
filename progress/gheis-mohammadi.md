@@ -1,3 +1,10 @@
+2025-03-22 Sat: Last week, I continued refining stream sync optimizations and code refactoring. I created and deployed **[PR #4873](https://github.com/harmony-one/harmony/pull/4873)**, addressing a critical issue in epoch sync caused by protocol ID mismatches. Previously, shard nodes relied on a separate protocol ID to discover beacon peers, but stream connections were later rejected due to inconsistencies. 
+
+This PR introduces a dedicated protocol for beacon validators to manage epoch sync independently. The P2P host now supports multiple protocols, each operating with its own stream manager and set of discovered nodes. This resolves the previous discovery issues and ensures stable connections for epoch sync. The PR was reviewed, merged, and successfully deployed to devnet.  
+
+
+---
+
 2025-03-15 Sat: Last week, I completed and deployed **[PR #4866](https://github.com/harmony-one/harmony/pull/4866)** to devnet, introducing significant improvements to Stream Management. This update enhances reconnection logic, optimizes buffer usage, and improves block request handling, leading to better stability and performance. Streams now support a reconnection mechanism that attempts up to three retries with short intervals before failing. Memory usage has been optimized by improving buffer pooling, reducing unnecessary allocations, and enhancing overall efficiency. Block request timeouts have been adjusted to fix context deadline exceeded issues, while unexpected blocks in the database are now properly validated and handled with appropriate head adjustments. Additionally, the block height estimation mechanism has been refined for greater accuracy in long-range syncing.  
 
 The PR was reviewed, merged, and deployed to devnet, and investigations confirm that block request timeouts and context deadline exceeded issues have been resolved. Currently, I am focusing on fixing connection issues between shards. While shard nodes can see and connect to each other, challenges remain in epoch chain synchronization and cross-shard syncing, which are now my primary focus.  
