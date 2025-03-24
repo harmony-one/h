@@ -1,3 +1,11 @@
+2025-03-23 Sun: (2.0h) Looking into Lend contracts following liquidityincentivemantissa update, research into closefactormantissa.
+
+2025-03-22 Sat: (4.0h) Continued testing [vfat.io](https://vfat.io). Insight: vfat product offering is missing a key feature that would allow auto rebalance prior to price moving outside of liquidity bounds. Adding this feature on a larger liquidity spread would lead to more “time in the money” for liquidity providers, earning more consistent yield.
+
+2025-03-21 Fri: Extensive review and estimates for portfolio strategy. Insights: clear distinction between aggressive strategies in terms of % allocations, decision needs to be made for consistent rewards vs higher risk potential rewards.
+
+2025-03-20 Thu: Troubleshooting with Frank. Sync with Alaina for Colossus co-marketing for ONE integrations on Firebrick, and Amanda.
+
 2025-03-19 Wed: Meeting with Soph for Lend contract changes. Further testing of Euler and Shadow pools. Insights: fixed yields work best for medium to long term, but with active management pools acquire the highest APY with limited risk (for certain pools). Completed clarification on CoinMarketCap discrepancies, continued push for 0x prioritization.
 
 2025-03-18 Tue: Group call with Frank and Rika to prioritize focus on stable pools and shadow specific information not available on DefiLlama. Submitted ticket for Paladin rewards issue.
@@ -6,7 +14,7 @@
 
 ---
 
-2025-03-16 Sat: (2.0h) Looking into [Silo sonic markets](https://v2.silo.finance/). Insights: Lending on yields remains beneficial for hedging on more aggressive strategies, or as a short for underlying assets, otherwise best to stay with pools and emissions.
+2025-03-16 Sun: (2.0h) Looking into [Silo sonic markets](https://v2.silo.finance/). Insights: Lending on yields remains beneficial for hedging on more aggressive strategies, or as a short for underlying assets, otherwise best to stay with pools and emissions.
 
 2025-03-15 Sat: (1.0h) Reviewed Yuriy’s [Q1 update](https://github.com/harmony-one/h/blob/main/progress/yuriy-menkov.md).
 
