@@ -1,3 +1,10 @@
+**2025 Q1 Review (24 hours)** 
+
+In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Tick automatic rebalancing, and yield analysis; by developing a Python-based command-line DeFi-protocol-TVL-Tracker with a modular provider-protocol architecture, implementing integrations for Euler, SwapX, Shadow, Curve, Aave, and Beets protocols. I built the Sonic Yield Calculator app to analyze how 1tick automatic rebalancer works, implementing vfat.io functionality using the vfat.tools repository which implements a deposit logic on the Sonic chain. Additionally, I created a Portfolio Management prototype with rebalancing algorithms, using a patched Uniswap SDK and direct contract calls. I provided technical support for Ledger hardware wallet integration, identifying M1/Arm64 architecture compatibility issues.
+
+I enhanced our AI infrastructure by integrating multiple models into Harmony1Bot, including Claude 3.7 Sonnet, DeepSeek, and OpenAI's o1. For the harmony-llm-api, I developed a payment system with ONE balance management and a deposit website built within Flask (not yet live). I configured a Harmony Agent using Eliza's framework with GitBook integration, Telegram client deployment, and created both a Harmony character and Harmonious character with a fun, optimistic tone. I conducted detailed yield analysis for multi-protocol strategies combining Aave, Pendle, and Magpie on the Soniclabs chain.
+
+---
 2025-03-23 Sun: (3.0h) Integrated GraphExplorer provider for SwapX protocol. Examined available [subgraph](https://thegraph.com/explorer/subgraphs/Gw1DrPbd1pBNorCWEfyb9i8txJ962qYqqPtuyX6iEH8u) but found it lacks essential TVL query endpoints. Subgraph contains basic vault data and transaction history but missing direct TVL metrics or complete token information required for accurate calculations. 
 
 2025-03-22 Sat: (1.0h) Implemented [Euler protocol integration](https://github.com/harmony-one/defi-protocol-tvl-tracker/pull/2) to the DeFi-protocol-TVL-Tracker. 
