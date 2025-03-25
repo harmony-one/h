@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
+
 2025-03-23 Sun: Continuation of rewards of top pools on Shadow. Calculation of anualized yield of vfat.
 
 2025-03-22 Sat: Testing of [gaugeRewardsClaims()](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration/graphql?query=%7B%0A++gaugeRewardClaims%28%0A++++first%3A1000%2C%0A++++where%3A%7B%0A++++++transaction_%3A+%7B%0A++++++++from%3A%220x4E430992Db6F3BdDbC6A50d1513845f087E9af4A%22%2C%0A++++++%7D%0A++++%7D%0A++++orderBy%3Atransaction__blockNumber%0A++++orderDirection%3Adesc%0A++%29+%7B%0A++++id%0A++++gauge+%7B+clPool+%7B+id+symbol+%7D+%7D%0A++++transaction+%7B+id+from+%7D%0A++++nfpPositionHash%0A++++rewardToken+%7B+id+symbol+%7D%0A++++rewardAmount%0A++++period%0A++++timestamp%0A++%7D%0A%7D) found by Yuriy, and gauges() epochRewards to see if of any use. Started working on task from Tuesday's meeting with Theo & Frank - rewards ranking for top pools on shadow.
