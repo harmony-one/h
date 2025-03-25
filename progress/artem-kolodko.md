@@ -4,6 +4,10 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-24 Mon: Shadow portfolio: [updated](https://github.com/harmony-one/shadow-scraper/commit/7986f53cd0ba6ae9316db727aae73ec98e948910) total claimed rewards calculation in USD and [added](https://github.com/harmony-one/shadow-scraper/commit/b77d4ef87ca33eeca469726f25646430275d80db) APR calculation for the pool, updated export in TSV.
+
+---
+
 2025-03-23 Sun (3.0h): portfolio tracker: researched [Subgraph API](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration) and [implemented](https://github.com/harmony-one/shadow-scraper/commit/c832ff2b6d81ace84bba8a23221bfbd9b7f895fe) logic to get the full history of rewards claimed by a user. Continie working on the APY calculation for Shadow pools.
 
 2025-03-21 Fri: [added](https://github.com/harmony-one/shadow-scraper/commit/5227a40f4f51cf12b37077dad6c3bef91f863e34) values and balances in USD in portfolio tracker for all coins available in Coingecko API. Started working on the APR calclation for pools.
