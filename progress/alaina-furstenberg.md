@@ -6,9 +6,15 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2024-03-25 Tue: Call with Colossus Digital. Action items:... Editing Theo's Q1 video manually + utilizing Descript
+
+2024-03-24 Mon: Animation for "Priorititizing 0x". Synced with Amanda on our DeFi testing progress. Research of Fireblocks in preparation for my meeting with Colossus Digital.
+
+---
+
 2024-03-23 Sun: Creation of AI videos in Sora.
 
-2024-03-22 Sat: [Thread]() on teams progress. Review of the team's formatting in /p.
+2024-03-22 Sat: [Thread](https://x.com/harmonyprotocol/status/1903496482990559242) on teams progress. Review of the team's formatting in /p.
 
 2024-03-21 Fri: Drafting a quick Sora tutorial to help onboard Amanda into making AI graphics/videos. Update of the harmony community section plus [recap tweet](https://x.com/harmonyprotocol/status/1903204409548607511). Testing wallet connect for bridge platforms Amanda was having trouble with. Testing the stargate bridge and documenting my sentiments on the user experience and speed of use.
 
