@@ -6,7 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2024-03-25 Tue: Call with Colossus Digital. Action items: Animate a graphic highlighting the new integration + increased ONE utility. Review and publish their article on our LinkedIn channels. Create a NotebookLM podcast highlighting the integration. Editing Theo's Q1 video manually + utilizing Descript
+2024-03-25 Tue: Call with Colossus Digital. Action items: Animate a graphic highlighting the new integration + increased ONE utility. Review and publish their article on our LinkedIn channels. Create a NotebookLM podcast highlighting the integration. Editing Theo's Q1 video manually + utilizing Descript to create shorts for Youtube. [Tweet](https://x.com/harmonyprotocol/status/1904753174491062438) on ONE Bot.
 
 2024-03-24 Mon: Animation for "Priorititizing 0x". Synced with Amanda on our DeFi testing progress. Research of Fireblocks in preparation for my meeting with Colossus Digital.
 
