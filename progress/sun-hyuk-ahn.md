@@ -3,6 +3,12 @@ In Q1, I implemented EIP-1153, which introduces transient storage opcodes to red
 
 ---
 
+2025-03-25 Tue: Continued the sesions with Soph (vague for security reasons) and went through the documents required to perform the tasks. Will have a last session with him tomorrow.
+
+2025-03-24 Mon: Had a handoff session with Soph on managaging all our programs (vague for security reasons).
+
+---
+
 2025-03-21 Fri: Continuing reviewing devops handoff material, especially the travis scripts required for deployment and testing. Note, all these devops handoff material will be obscure due to security reasons.
 
 2025-03-20 Thu: Reviewing the materials necessary to the devops team continuing from the previous day.
