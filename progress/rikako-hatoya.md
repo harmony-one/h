@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
+
 2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
 
 2025-03-23 Sun: Continuation of rewards of top pools on Shadow. Calculation of anualized yield of vfat.
