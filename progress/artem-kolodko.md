@@ -4,6 +4,8 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-25 Tue: [added](https://github.com/harmony-one/shadow-scraper/commit/bccbda978bbe2173548a519e80b68f361b66b8e8) more fields to portfolio output: deposit values for each token, rewards, blocks number elapsed and total days; updated TSV output. 
+
 2025-03-24 Mon: Shadow portfolio: [updated](https://github.com/harmony-one/shadow-scraper/commit/7986f53cd0ba6ae9316db727aae73ec98e948910) total claimed rewards calculation in USD and [added](https://github.com/harmony-one/shadow-scraper/commit/b77d4ef87ca33eeca469726f25646430275d80db) APR calculation for the pool, updated export in TSV.
 
 ---
