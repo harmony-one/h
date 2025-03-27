@@ -1,3 +1,11 @@
+2025-03-26 Wed: Sync with Li and Rika. Continued Sonic testing moving liquidity positions, tested Magpie additional Pendle pool deposits and vicuna finance lending. Insights: an automated looping aggregator would be a helpful product when lending and borrowing rates are optimal.
+
+2025-03-25 Tue: Changed Q1 video to unscripted version, slightly longer, but includes more context into overall Q1 updates. Set up closefactormantissa transaction for Lend. 
+
+2025-03-24 Mon: Shared simple product ideas with team for DeFi use case and security. Recorded Q1 update.
+
+---
+
 2025-03-23 Sun: (2.0h) Looking into Lend contracts following liquidityincentivemantissa update, research into closefactormantissa.
 
 2025-03-22 Sat: (4.0h) Continued testing [vfat.io](https://vfat.io). Insight: vfat product offering is missing a key feature that would allow auto rebalance prior to price moving outside of liquidity bounds. Adding this feature on a larger liquidity spread would lead to more “time in the money” for liquidity providers, earning more consistent yield.
