@@ -5,7 +5,8 @@
 2025-03-24 Mon: Executed and analyzed complete Aave+Pendle+Magpie yield strategy using my wallet. Performed each step: deposited 17 USDC.e to Aave (0.24%/8.416% yield), minted PT+YT tokens (10.19% yield), created Pendle LP position with additional 64.48 USDC.e liquidity (9.992% yield), and staked LP tokens on Magpie (14.38% yield). Verified APR calculation methodology in Sonic Yield calculator app. Drafted Q1 2025 review summarizing achievements across DeFi analytics, portfolio rebalancing, and AI infrastructure projects.
 
 ---
-**2025 Q1 Review (24 hours)** 
+
+2025 Q1 Review (24 hours)
 
 In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Tick automatic rebalancing, and yield analysis; by developing a Python-based command-line DeFi-protocol-TVL-Tracker with a modular provider-protocol architecture, implementing integrations for Euler, SwapX, Shadow, Curve, Aave, and Beets protocols. I built the Sonic Yield Calculator app to analyze how 1tick automatic rebalancer works, implementing vfat.io functionality using the vfat.tools repository which implements a deposit logic on the Sonic chain. Additionally, I created a Portfolio Management prototype with rebalancing algorithms, using a patched Uniswap SDK and direct contract calls. I provided technical support for Ledger hardware wallet integration, identifying M1/Arm64 architecture compatibility issues.
 
