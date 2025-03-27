@@ -17,6 +17,8 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
+2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
+
 2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
 
 2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
