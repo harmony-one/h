@@ -4,7 +4,7 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
-2025-03-26 Wed: portfolio report fixes and improvements: more accurate values with 6 significant digits, formatted columns with underscore, calculate APR using only values from table. [Finalized](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743011328.tsv) portfolio export format. Looking at other vault APIs.
+2025-03-26 Wed: portfolio report [fixes](https://github.com/harmony-one/shadow-scraper/commit/5dce75f88b8dcfc44a24ddcfce5d827e2aaff208) and improvements: more accurate values with 6 significant digits, formatted columns with underscore, calculate APR using only values from table. [Finalized](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743011328.tsv) portfolio export format. Looking at other vault APIs.
 
 2025-03-25 Tue: [added](https://github.com/harmony-one/shadow-scraper/commit/bccbda978bbe2173548a519e80b68f361b66b8e8) more fields to portfolio output: deposit values for each token, rewards, blocks number elapsed and total days; updated TSV output. 
 
