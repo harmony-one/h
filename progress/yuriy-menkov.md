@@ -10,6 +10,16 @@ Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arr
 
 ---
 
+2025-03-27 Thu: [Completed](https://github.com/potvik/shadow-scraper/commit/40680aa05ff229ca3b8d307c03672f645c2cff4a) final version of the statistic script using a combined approach to loading rewards and calculating apr - all methods are used: totalFeeCollateral and claimRewards from the subgraph, direct call earned for positions for which there was no withdrawal of rewards, analysis of transfers of reward tokens from the guard address to the address of the position owner. Also expanded the range of information collection to 1 month - to capture more positions and rewards (since most open them for a long time). 
+
+2025-03-26 Wed: Tried an alternative method for loading rewards by unloading reward token transfer operations via sonic api. Based on the developed python [script](https://github.com/rikaa15/sonic-rewards/blob/main/user-stats.py) from Rika. [Updated](https://github.com/potvik/shadow-scraper/blob/main/export/filtered_limited_positions_stats_USDC_e_USDT.tsv) some stats tsv data.
+
+2025-03-25 Tue: Worked on solving the problem of calculating apr with reference to positions - loaded part of the data from the subgraph via claimRewards and part by directly calling the earned method of the contract. When unloading for the week, the general data does not match the declared in the shadow total rewards interface. Doing a deeper research of the problem of linking rewards to positions.
+
+2025-03-24 Mon: Converted tables with reports to tsv format, redid rounding and grouping by prices. There is still a problem with the APR calculation - some of them are negative or 0, which does not correspond to the general statistics. It seems that the problem is in the extended time range of creating positions and collecting rewards, also part of positions still not claim rewards.
+
+---
+
 2025-03-21 Fri: Worked on a script for loading (directly through my subgraph) and generating statistics for specified pools, positions: tick-range in usdc/usd* pools, rebalance occurrences (calculated through mint/burn events), trading fees, liquid rewards (through subgraph queries), future points, overall return.
 
 2025-03-20 Thu: Researched way to detect how much tvl is in shadow’s vaults via direct deposits vs managed by vfat’s "auto rebalancing" or "auto compounding" strategies. Deployed and [configured](https://github.com/harmony-one/h/blob/main/docs/subgraph-deployment.md) custom Shadow Pool Subgraph.
