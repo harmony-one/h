@@ -6,6 +6,10 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2024-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
+
+2024-03-27 Thu: Edited and uploaded Li's video using Descript. Designed thumbnail and [uploaded to Youtube](https://youtu.be/P0EnbjuwvGA?si=MWRduiF_-QMPNCd4) and [X](https://x.com/harmonyprotocol/status/1905380052642267305). Creation of DeFi and Harmony related inforgraphics using ChatGPT's new image gen tool, seen [here]().
+
 2024-03-26 Wed: Testing of ChatGPT's new native image generation, created a studio ghibli rendering of the team and [posted to X](https://x.com/harmonyprotocol/status/1905068856089157767). Finalized edits on Theo's Q1 report, corrected the transcript using Descript, designed thumbnail, and uploaded to [Youtube](https://www.youtube.com/watch?v=WV4ztBtzvig). Began the editing process for Li's video. 
 
 2024-03-25 Tue: Call with Colossus Digital. Action items: Animate a graphic highlighting the new integration + increased ONE utility. Review and publish their article on our LinkedIn channels. Create a NotebookLM podcast highlighting the integration. Editing Theo's Q1 video manually + utilizing Descript to create shorts for Youtube. [Tweet](https://x.com/harmonyprotocol/status/1904753174491062438) on ONE Bot.
