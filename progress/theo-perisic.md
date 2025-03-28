@@ -1,3 +1,5 @@
+2025-03-27 Thu: Followed up with 0x prioritizations. Update: potential continuation following necessary due diligence. Reviewed usd* pools and strategies to optimize for high yields while reducing platform risk due to new products or higher leverage. Iterated panoptic options UI for usability. Insight: up/down with user testing is much easier, could combine with call to action button showing long or short but main interaction remains up/down.
+
 2025-03-26 Wed: Sync with Li and Rika. Continued Sonic testing moving liquidity positions, tested Magpie additional Pendle pool deposits and vicuna finance lending. Insights: an automated looping aggregator would be a helpful product when lending and borrowing rates are optimal.
 
 2025-03-25 Tue: Changed Q1 video to unscripted version, slightly longer, but includes more context into overall Q1 updates. Set up closefactormantissa transaction for Lend. 
