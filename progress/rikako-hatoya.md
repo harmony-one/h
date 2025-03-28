@@ -1,3 +1,14 @@
+
+2025-03-27 Thu: Continued with USDC.e-scUSD on Euler: implemented and updated calculation for all metrics (Max ROE, Supply APY, etc) on Euler, debugged errors caused by mapping.ts, added new query method "market", updated deploy [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one), and pushed code [here](https://github.com/rikaa15/euler-usdce-scusd). Currently, the big problem is rewards APY calculation: there's two rewards (lending and Merkl campaign), and Merkl rewards are calculated off-chain with Merkl API (as a total sum of all campaigns), in which case we need to either partially do this off-chain or if we want to completely use subgraph, we need to deploy a rewards oracle contract to listen on-chain, will think through and work on this tomorrow.
+
+2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
+
+2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
+
+2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
+
+---
+
 **2025 Q1 Summary**
 
 In early Q1 2025, I worked on AI and mathematics, specifically formal proofs using Lean and testing math Olympiad problems from the minif2f dataset with models from huggingface (AlphaGeometry and DeepSeek Prover). I then shifted to DeFi, researching end-to-end finance and personal on-chain finance tools. This led to hands-on work with asset bridging on Harmony, where I deployed proxy contracts (HRC20 and ERC20, with a lot of help from Yuriy) integrated with LayerZero for assets like AERO.
@@ -14,14 +25,6 @@ My most impactful work was developing a repo to extract top profiters from any p
  - (old) [Sonic Yield Platforms Research](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md)
  - [PR for bridge asset (AERO)](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)
  - (personal learning) [Mathematics in Lean Workbook](https://github.com/rikaa15/mathematics_in_lean)
-
----
-
-2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
-
-2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
-
-2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
 
 ---
 
