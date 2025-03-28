@@ -1,6 +1,6 @@
 PreSetup	https://vicunafinance.com/markets				
 Initial USDC.e	$107.61				
-Supply/Borrow rewards	Airdrop, Gems, Points	can we list each reward separately? is the logic of each of the reward in the smart contract?			
+Supply/Borrow rewards	Airdrop, Gems, Points				
 					
 Setup	Loop 1	Loop 2	Loop 3	Loop 4	Loop 5
 Current Lending APY	10.64%	10.64%	10.64%	10.66%	10.66%
