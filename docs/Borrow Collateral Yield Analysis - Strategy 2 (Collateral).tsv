@@ -1,0 +1,42 @@
+Swap USDCe -> wstscUSD	
+Initial capital USDC.e	10
+wstscUSD	9.98416
+Transaction hash	https://sonicscan.org/tx/0xd1fb5f726cf916c8c2c834768e5463ab8781ba325aaed373bda3d7ff1594c7c8
+Timestamp	Mar-28-2025 03:25:35 AM UTC
+	
+Swap wstscUSD -> PT-wstscUSD Pendle	https://app.pendle.finance/trade/markets/0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa/swap?view=pt&chain=sonic&page=1&trades=trade-history
+Input (wstscUSD)	9.984161
+Output (PT-wstscUSD)	10.1575
+Transaction Hash	https://sonicscan.org/tx/0xca1a0828db34f9fd7e1c02aff598cf5ff7fb9fa671abdcd184c6ef47d11f2065
+Timestamp	Mar-28-2025 03:42:16 AM UTC
+Maturity date	28 May 2025 (61 days)
+Redemption value (stkcUSD)	10.1575
+Redemption gain (%)	1.58%
+Market Data	
+Liquidity	$3.68M
+24h Volume	$697,980
+Underlying APY	1.78%
+Fixed APY	9.87%
+	
+Euler Multiply Position	https://app.euler.finance/positions/0xF6E2ddf7a149C171E591C8d58449e371E6dc7570/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic
+Input (PT-wstscUSD)	10.1575
+USD value	~$9.91
+Multiplier selected	3.33x
+Short asset (borrowed) - MEV Capital USDC (~$23.15 USD)	23.146463
+Long asset (collateral) -  MEV Capital PT-wstscUSD (~$22.95 USD)	23.519439
+Price impact	~(-0.81%)
+Transaction hash	https://sonicscan.org/tx/0x73f0c59b09624c47872d92b34341360fbfa89b01ab6d924885de9b818ca79b66
+Timestamp	Mar-28-2025 04:20:27 AM UTC
+Position	
+ROE (Return on Equity)	15.04%
+Your LTV	70.43%
+Liquidation LTV	91.50%
+Health factor	129
+Time to liquidation	>1 year
+Financial Details	
+Total supply value	$32.87
+Total borrowing power	$30.07
+Total loan value	$23.14
+Total borrowing power	$30.07
+PT-wstscUSD supply APY	9.87%
+USDC.e borrow APY	7.69%

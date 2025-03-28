@@ -1,0 +1,36 @@
+PreSetup	https://vicunafinance.com/markets				
+Initial USDC.e	$107.61				
+Supply/Borrow rewards	Airdrop, Gems, Points	can we list each reward separately? is the logic of each of the reward in the smart contract?			
+					
+Setup	Loop 1	Loop 2	Loop 3	Loop 4	Loop 5
+Current Lending APY	10.64%	10.64%	10.64%	10.66%	10.66%
+Current Borrowing APY	-7.43%	-7.43%	-7.44%	-7.44%	-7.44%
+					
+Supply Colateral					
+Amount USDC.e Deposited	$10.00	$8.00	$6.40	$5.12	$4.10
+Transaction Hash	https://sonicscan.org/tx/0xe6ac30dff9dac7c6de234a073bf2592ad2aa2bac1172ecc95b58933ae59296d8	https://sonicscan.org/tx/0x0344532432c5a5dad2d8ad6c084451f0a3cb7dada69b253a1b1a015546f07a4b	https://sonicscan.org/tx/0xcfc7b199f2210ae56f53ebf1d44c9a16cfe755b8292e77724e28c7b982126605	https://sonicscan.org/tx/0x9f4aea6a5a2906b9c134d89cec0b85be085353da0bd5e123eb04934ada1ecd11	https://sonicscan.org/tx/0xc11b96bc2e1879268ed31dbfa651fcaa6e5eaadc140a29e938e142375cfe1edb
+Timestamp	Mar-27-2025 11:39:58 PM UTC	Mar-27-2025 11:50:10 PM UTC	Mar-28-2025 12:07:07 AM UTC	Mar-28-2025 12:13:42 AM UTC	Mar-28-2025 12:18:53 AM UTC
+Borrow Limit	$8.00	$6.40	$5.12	$4.10	$3.28
+Borrow Limit used	0.00%	55.55%	73.77%	82.65%	87.80%
+Health factor	5	1.89	1.42	1.27	1.2
+Portolio after sypply					
+Supplied	$10.00	$18.00	$24.40	$29.52	$33.62
+Borrowed	$0.00	$8.00	$14.40	$19.52	$23.62
+Net Value	$10.00	$10.00	$10.00	$10.00	$10.00
+Net APR	10.65%	13.24%	15.30%	16.95%	18.27%
+Yearly Earnings	$1.07	$1.32	$1.53	$1.69	$1.83
+Leverage	0.00x	0.80x	1.44x	1.95x	2.36x
+					
+Borrow					
+Amount of USDCe borrowed	7.999997	6.400002	5.119993	4.095993	3.279993
+Transaction Hash	https://sonicscan.org/tx/0x4bca947c6bb87dc327adc5046a99c9d757b0a1dd5a4791882d4de43b0b4f8ca9	https://sonicscan.org/tx/0x55412bba18ed9a4fb34620b047bccde59d56499647e6be6edf62075b9107c1fe	https://sonicscan.org/tx/0xbb690cd3de1de8e269d2dcd346839edb0fabc9e93835d5d1773944923541a365	https://sonicscan.org/tx/0x308c9769aec92e13e0afc30d9b5a4071b3b51ab78d424fdf0acfcf84962353ba	https://sonicscan.org/tx/0x6343e18977192a7557bfd60a8875f8b1fb2c0fa10eb35ee95bceb84d63d707d4
+Timestamp	Mar-27-2025 11:47:05 PM UTC	Mar-28-2025 12:00:08 AM UTC	Mar-28-2025 12:09:48 AM UTC	Mar-28-2025 12:15:22 AM UTC	Mar-28-2025 12:21:02 AM UTC
+Borrow Limit used	99.99%	99.99%	99.99%	99.99%	99.99%
+Health factor	1.05	1.05	1.05	1.05	1.05
+Portolio after borrow					
+Supplied	$10.00	$18.00	$24.40	$29.52	$33.62
+Borrowed	$8.00	$14.40	$19.52	$23.62	$26.90
+Net Value	$2.00	$3.60	$4.88	$5.90	$6.72
+Net APR	23.55%	23.55%	23.55%	23.55%	23.55%
+Yearly Earnings	$0.47	$0.85	$1.15	$1.39	$1.58
+Leverage	4.00x	4.00x	4.00x	4.00x	4.00x
