@@ -1,3 +1,21 @@
+Q1 Review:
+
+In Q1 2025, I focused on strengthening RPC testing, CI workflows, and network observability for Harmony. I built and expanded automated test suites for debug_traceCall and effectiveGasPrice, contributed to a major dependency update, and fixed CI issues with Go module pinning.
+
+On the ops side, I integrated ssl-exporter, optimized Nginx configs, and resolved logging and disk space issues in our monitoring stack. I also preserved localnet logs for better debugging and deployed log rotation for bootnodes. Throughout the quarter, I supported devnet/testnet stability, validator coordination, and Rosetta test debugging.
+
+---
+
+2025-03-28 Fri:
+
+My main focus was to finish two PRs for the testing area - I've added more test cases for the `debug_traceCall` operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) and now it is already running against each new CI run. And also I've finished the regression tests for [the effectiveGas price after final fix in the main repo](https://github.com/harmony-one/harmony-test/pull/38).
+
+Additionally, I am helping Konstantin with a [huge dependency update to eth 1.9.25 testing](https://github.com/harmony-one/harmony/pull/4867/).
+
+And finally, I've just started my work on the Travis CI enhancement, right now we are running against all branches and PRs - my idea to limit this behavior to the PRs - both main repo and fork, main/dev branches and release tags. Main advantage - it will reduce wait time by 50%.
+
+---
+
 2025-03-21 Fri:
 
 My main focus was the testing area - I've created new test cases for the debug_traceCall operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) will run against every CI run after the merge insuring RPC integrity after each run.
