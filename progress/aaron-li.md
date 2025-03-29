@@ -8,7 +8,7 @@
 
 2025-3-25 Tue (5.9h): Research on methods to simplify defi interactions while retaining hardware wallet security, session-key smart wallets, gnosis modules; Experiment on stablecoin vaults and manual liquidity provisioning; Research on Bitcoin yield protocols; Experiment with strategies involving hedging using Hyperliquid; Review Hyperliquid margin requirements and integrations
 
-2025-3-24 Mon (3.2h): Review stablecoin performance and strategies. Evaluate automated vault performance. Quick review on vault backend bug. Research on Bitcoin yield products
+2025-3-24 Mon (3.2h): (Returned to US) Review stablecoin performance and strategies. Evaluate automated vault performance. Quick review on vault backend bug. Research on Bitcoin yield products
 
 ---
 
