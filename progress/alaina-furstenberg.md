@@ -6,7 +6,9 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2024-03-29 Sat: Thread on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
+2024-03-30 Sun: Design of graphics using ChatGPTs new model.
+
+2024-03-29 Sat: [Thread](https://x.com/harmonyprotocol/status/1906125824144920740) on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
 
 2024-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
 
