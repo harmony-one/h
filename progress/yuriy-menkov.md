@@ -1,4 +1,4 @@
-2025 Q1 Review (Draft)
+2025 Q1 Review:
 
 Improvements and launch of Pump.ONE [contracts](https://github.com/harmony-one/pump.fun.contracts). All contracts are made upgradable. Added a second alternative version of the Token Factory contract without competitions with the preserved functionality of trading and publishing in Uniswap V3 pools. Transition to AсcessControl with the division of functionality between the roles of administrator and manager. Added utility methods for withdrawing rewards and liquidity. Fixed critical errors in interaction with Uniswap and price calculation. Assistance with integration with backend and frontend services. Support at [Pump.ONE application](https://pump.one/board) launch.
 
