@@ -3,13 +3,15 @@ In Q1, I implemented EIP-1153, which introduces transient storage opcodes to red
 
 ---
 
-2025-03-27 Thu: Last session with Soph (vague for security reasons). Continued Gitbook in order to overview key management and rotations.
+2025-03-28 Fri: Analyzed current architecture of secret management, as well as all the related scripts.
+
+2025-03-27 Thu: Last session with Soph. Continued Gitbook in order to overview key management and rotations.
 
 2025-03-26 Wed: Recreated the VPN server. Gained access to the servers and services, as well as going over Gitbook in order to review the details.
 
-2025-03-25 Tue: Continued the sesions with Soph (vague for security reasons) and went through the documents required to perform the tasks. Will have a last session with him Thursday.
+2025-03-25 Tue: Continued the sesions with Soph and went through the documents required to perform the tasks. Will have a last session with him Thursday.
 
-2025-03-24 Mon: Had a handoff session with Soph on managaging all our programs (vague for security reasons).
+2025-03-24 Mon: Had a handoff session with Soph on managaging all our programs.
 
 ---
 
