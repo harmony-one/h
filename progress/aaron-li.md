@@ -1,14 +1,30 @@
-2025-3-18 Tue (0.5h+): Review socket integration guide, issues with patching bridge, Shadow staking performance and opportunities
+2025-3-29 Sat (3.5h+): Deep dive on Magpie, Euler vaults, review Beefy stablecoin pairs, vaults with unusual performance, and aUSDC
+
+2025-3-28 Fri (5.6h): Deep dive on Euler, Pendle, pricing of specific token pairs, and analyze historical data. Review Vicuna oracle, API3, evaluate relevant stablecoin positions and yield
+
+2025-3-27 Thu (7h): Deep dive on Vicuna, review high stablecoin yield strategies utilizing, Rings, Euler, Pendle. Review stablecoin looping strategies (Ring, Pendle, Silo), option-based yield strategies (Stryke, Panoptic), and AI tools and agents for yield
+
+2025-3-26 Wed (8.1h): Research on and compare high yield stablecoin strategies. Review Rings protocol, Aerodrome tokenomics, Sonic tokenomics, Shadow exchange inflation and fee net balance. Research on Optimex, Avalon
+
+2025-3-25 Tue (5.9h): Research on methods to simplify defi interactions while retaining hardware wallet security, session-key smart wallets, gnosis modules; Experiment on stablecoin vaults and manual liquidity provisioning; Research on Bitcoin yield protocols; Experiment with strategies involving hedging using Hyperliquid; Review Hyperliquid margin requirements and integrations
+
+2025-3-24 Mon (3.2h): Review stablecoin performance and strategies. Evaluate automated vault performance. Quick review on vault backend bug. Research on Bitcoin yield products
+
+---
+
+2025-3-21 Fri (3.3h): Research on stablecoin and Bitcoin yield on-chain products and cards
+
+2025-3-18 Tue (0.5h): Research on stablecoin and Bitcoin yield on-chain products and cards. Review socket integration guide, issues with patching bridge, Shadow staking performance and opportunities
 
 2025-3-17 Mon (0.3h): Research and discuss token batch approval
 
 ---
 
-2025-3-16 Sun (1.2h): Investigate Shadow liquidity provisioning and staking opportunities. Review Shadow. Review Cosmos defi and yield projects. Review and discuss Flying Tulip, Cosmos defi projects
+2025-3-16 Sun (3.1h): Investigate and experiment with xSHADOW incentives, returns, voting mechanisms. Review Shadow. Review Flying Tulip LTV model. Review Cosmos defi and yield projects. Review and discuss Flying Tulip, Cosmos defi projects. 
 
-2025-3-15 Sat (6.5h): Investigate and experiment with xSHADOW incentives, returns, voting mechanisms. Review Flying Tulip LTV model. Review Cosmos yield products. Review Flying Tulip AMM and volatility based curve model. Review Arrakis PALM, Arrakis HOT AMM
+2025-3-15 Sat (4.9h): Review Flying Tulip AMM and volatility based curve model. Review Arrakis PALM, Arrakis HOT AMM
 
-2025-3-14 Fri (2.1h): (Flight to Australia) Review Arrakis PALM, Arrakis HOT AMM. Review Stability, Avalon Labs, Silo, Beets, Veda, Rings, Pendle
+2025-3-14 Fri (1.9h): (Flight to Australia) Review Stability, Avalon Labs, Silo, Beets, Veda, Rings, Pendle
 
 2025-3-13 Thu (5.2h): Review LikwidFi, Double, UseUltra, Meteora. Document and discuss bridge tasks in details. Domain renewal and automation operations. Experiment with various Sonic vaults
 
