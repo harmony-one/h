@@ -1,4 +1,6 @@
 
+2025-03-28 Fri: Continued with USDC.e-scUSD on Euler: fixed calculations for metrics, except discrepancy for "Available Liquidity" and "Max ROE" remains (though, "Max ROE" discrepancy seems not so worrysome). Pushed updates here and also investigating Euler's calculation method for "Available Liquidity".
+
 2025-03-27 Thu: Continued with USDC.e-scUSD on Euler: implemented and updated calculation for all metrics (Max ROE, Supply APY, etc) on Euler, debugged errors caused by mapping.ts, added new query method "market", updated deploy [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one), and pushed code [here](https://github.com/rikaa15/euler-usdce-scusd). Currently, the big problem is rewards APY calculation: there's two rewards (lending and Merkl campaign), and Merkl rewards are calculated off-chain with Merkl API (as a total sum of all campaigns), in which case we need to either partially do this off-chain or if we want to completely use subgraph, we need to deploy a rewards oracle contract to listen on-chain, will think through and work on this tomorrow.
 
 2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
