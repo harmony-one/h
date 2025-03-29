@@ -6,6 +6,8 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2024-03-29 Sat: Thread on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
+
 2024-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
 
 2024-03-27 Thu: Edited and uploaded Li's video using Descript. Designed thumbnail and [uploaded to Youtube](https://youtu.be/P0EnbjuwvGA?si=MWRduiF_-QMPNCd4) and [X](https://x.com/harmonyprotocol/status/1905380052642267305). Creation of DeFi and Harmony related inforgraphics using ChatGPT's new image gen tool, seen [here]().
