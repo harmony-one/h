@@ -2,7 +2,11 @@
 
 The Yield Enhancer is ready to be launched, and the treasury is accruing yield for it. To enable a better user experience, the bridge infrastructure of Harmony needs to be improved. I built a partnership with Socket protocol to make any asset quickly available via the issuance of wrapped tokens and ensure fast deposits and withdrawals for users. Additional product ideas are evolving around stablecoins, yield product leveraging, and portfolio management.
 
+---
+
 2025-03-23 Sun: This week, I mostly researched the most profitable farming opportunities for treasury farming and to help the team understand certain protocol mechanics, risk factors, strategy execution steps, etc. Apart from that, I continued writing the product description for a basis trade stablecoin protocol earning fees from funding rates. 
+
+---
 
 2025-03-17 Sun: I discussed a more detailed relationship model with Socket Protocol and joined a call with them and Aaron to discuss the technicals. We are waiting for more detailed technical descriptions. 
 
@@ -10,6 +14,7 @@ To get a deeper understanding of ALM strategies, I researched LVR and impermanen
 
 I researched more potential strategies to deploy stablecoins from the treasury to generate returns. We are still in the progress of identifying optimal allocations and protocols. 
 
+---
 
 2025-03-09 Sun: I researched automated liquidity management and related data to support the product development of the cross-chain portfolio manager. The synthesis for a successful product may be related to depend the ALM on asset volatility changes. 
 
