@@ -4,6 +4,8 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 ---
 
+2025-03-29 Sat (3.0 h): vicunafinance.com [strategy](https://github.com/harmony-one/shadow-scraper/blob/main/docs/vicuna-finance-vault.md) analysis: researched strategy, completed 5 iterations of supply - borrow - swap loop, prepared [report draft](https://github.com/harmony-one/shadow-scraper/blob/main/docs/vicuna-finance-vault.md). On Sunday, March 30, the situation changed: the rates drastically dropped which made this strategy unprofitable.
+
 2025-03-28 Fri: portfolio: [refactored](https://github.com/harmony-one/shadow-scraper/commit/f0b59a334d9e43ee8d486c6ac882f89386b1a256) SwapX script to get total amounts of token0 and token1 deposited into vault to add it to a new version of report. [Added](https://github.com/harmony-one/shadow-scraper/commit/44e03a5b52094781c2aadeea9f796b9f4852ce6f) APR calculation for SwapX vault which matched with dashboard values with small deviation. Started working on [vicuna](https://vicunafinance.com/markets) finance algorhytm to test potential returns on USDC/USDT vaults.
 
 2025-03-27 Thu: invested into Pendle pools (mint pt+yt tokens of aUSDC, LP PTaUSDC, Stake LP on Magpie) to test potential rewards. Portfolio tracker: [found](https://github.com/harmony-one/shadow-scraper/commit/592e86911e79dc164e70972ee77a158cdc877735) a way ot get pending rewards for any pool (reward pool address is not hardcoded anymore), [exported](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743086471.tsv) updated version of portfolio.
