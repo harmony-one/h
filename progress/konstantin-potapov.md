@@ -1,8 +1,8 @@
 2025 Q1 review:
 
-I upgraded the Harmony codebase from Ethereum source 1.8 to 1.9, improving EVM internals—stack, function handling, and initialization. The PR aligns our codebase with Ethereum, resolving key discrepancies.
+I upgraded the Harmony codebase from Ethereum source version 1.8 to the 1.9 major release, improving EVM internals—including stack management, function handling, and initialization. This PR aligns our codebase with Ethereum, resolving key discrepancies.
 
-I also fixed leader rotation stability in block production, launched 1-second finality on devnet, upgraded Golang to 1.24, and improved CI testing for PRs on Travis.   
+I also fixed leader rotation stability in block production, launched 1-second finality on devnet, implemented the BaseFee field in the block header and integrated Ethereum’s EIP-2565 update, upgraded Golang to version 1.24, and improved CI testing for PRs on Travis.
 
 ---
 
