@@ -1,3 +1,12 @@
+2025 Q1 review:
+
+I upgraded the Harmony codebase from Ethereum source 1.8 to 1.9, improving EVM internals—stack, function handling, and initialization. The PR aligns our codebase with Ethereum, resolving key discrepancies.
+
+I also fixed leader rotation stability in block production, launched 1-second finality on devnet, upgraded Golang to 1.24, and improved CI testing for PRs on Travis.   
+
+---
+
+
 2025-03-21 Fri:
 - Updated 1-second finality feature based on review comments and additional improvements. Passed the review and is expected to be deployed to devnet next week.
 - Updated effective gas price to return a default value of 100 GWEI, preventing potential null values.
