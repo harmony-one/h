@@ -1,3 +1,9 @@
+2025-03-29 Sat: Last week, I updated the default devnet configurations through [PR #4874](https://github.com/harmony-one/harmony/pull/4874). In devnet, explorer nodes were often syncing only with each other due to a strict two-connection limit, preventing them from obtaining the actual chain height from validators. This PR increases the minimum number of connections to three, ensuring better connectivity and improving synchronization reliability.  
+
+I also worked on [PR #4876](https://github.com/harmony-one/harmony/pull/4876), which optimizes staged stream sync by removing redundant processing of last-mile blocks. Previously, both the last-mile blocks stage and a helper component handled final block delivery, leading to duplication. This PR eliminates the redundant stage and delegates the task entirely to the helper, streamlining the sync process and reducing unnecessary overhead.  
+
+---
+
 2025-03-22 Sat: PTO (2025-03-18 - 2025-03-21) Last week, I continued refining stream sync optimizations and code refactoring. I created and deployed **[PR #4873](https://github.com/harmony-one/harmony/pull/4873)**, addressing a critical issue in epoch sync caused by protocol ID mismatches. Previously, shard nodes relied on a separate protocol ID to discover beacon peers, but stream connections were later rejected due to inconsistencies. 
 
 This PR introduces a dedicated protocol for beacon validators to manage epoch sync independently. The P2P host now supports multiple protocols, each operating with its own stream manager and set of discovered nodes. This resolves the previous discovery issues and ensures stable connections for epoch sync. The PR was reviewed, merged, and successfully deployed to devnet.  
