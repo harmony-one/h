@@ -4,6 +4,9 @@ In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Ti
 
 I enhanced our AI infrastructure by integrating multiple models into Harmony1Bot, including Claude 3.7 Sonnet, DeepSeek, and OpenAI's o1. For the harmony-llm-api, I developed a payment system with ONE balance management and a deposit website built within Flask (not yet live). I configured a Harmony Agent using Eliza's framework with GitBook integration, Telegram client deployment, and created both a Harmony character and Harmonious character with a fun, optimistic tone. I conducted detailed yield analysis for multi-protocol strategies combining Aave, Pendle, and Magpie on the Soniclabs chain.
 
+___
+2025-03-31 Mon: Completed Pendle reward handling analysis with detailed technical [documentation](https://github.com/harmony-one/h/blob/main/docs/defi/pendle_contract_analysis.md). Examining Pendle's DefiLlama adapters logic, discovering their reliance on MarketFactory events for market information retrieval and TVL calculation mechanisms. Analyzed Pendle event structures for subgraph custom implementation to efficiently index and retrieve rewards information.​​​​​​​​​​​​​​​​
+
 ---
 2025-03-28 Fri: Exploring Vicuna, Euler and Pendle protocols for comprehensive Borrow/Collateral yield analysis. Discovered DefiLlama lacks support for Sonic chain implementations of Pendle and Euler protocols, requiring alternative data sources. Advanced Pendle protocol reward logic documentation. Initiated subgraph development research for Pendle Protocol on Sonic chain.
 
