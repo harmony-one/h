@@ -6,174 +6,177 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2024-03-30 Sun: Design of graphics using ChatGPTs new model.
-
-2024-03-29 Sat: [Thread](https://x.com/harmonyprotocol/status/1906125824144920740) on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
-
-2024-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
-
-2024-03-27 Thu: Edited and uploaded Li's video using Descript. Designed thumbnail and [uploaded to Youtube](https://youtu.be/P0EnbjuwvGA?si=MWRduiF_-QMPNCd4) and [X](https://x.com/harmonyprotocol/status/1905380052642267305). Creation of DeFi and Harmony related inforgraphics using ChatGPT's new image gen tool, seen [here]().
-
-2024-03-26 Wed: Testing of ChatGPT's new native image generation, created a studio ghibli rendering of the team and [posted to X](https://x.com/harmonyprotocol/status/1905068856089157767). Finalized edits on Theo's Q1 report, corrected the transcript using Descript, designed thumbnail, and uploaded to [Youtube](https://www.youtube.com/watch?v=WV4ztBtzvig). Began the editing process for Li's video. 
-
-2024-03-25 Tue: Call with Colossus Digital. Action items: Animate a graphic highlighting the new integration + increased ONE utility. Review and publish their article on our LinkedIn channels. Create a NotebookLM podcast highlighting the integration. Editing Theo's Q1 video manually + utilizing Descript to create shorts for Youtube. [Tweet](https://x.com/harmonyprotocol/status/1904753174491062438) on ONE Bot.
-
-2024-03-24 Mon: Animation for "Priorititizing 0x". Synced with Amanda on our DeFi testing progress. Research of Fireblocks in preparation for my meeting with Colossus Digital.
 
 ---
 
-2024-03-23 Sun: Creation of AI videos in Sora.
+2025-03-30 Sun: Design of graphics using ChatGPTs new model.
 
-2024-03-22 Sat: [Thread](https://x.com/harmonyprotocol/status/1903496482990559242) on teams progress. Review of the team's formatting in /p.
+2025-03-29 Sat: [Thread](https://x.com/harmonyprotocol/status/1906125824144920740) on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
 
-2024-03-21 Fri: Drafting a quick Sora tutorial to help onboard Amanda into making AI graphics/videos. Update of the harmony community section plus [recap tweet](https://x.com/harmonyprotocol/status/1903204409548607511). Testing wallet connect for bridge platforms Amanda was having trouble with. Testing the stargate bridge and documenting my sentiments on the user experience and speed of use.
+2025-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
 
-2024-03-20 Thu: Sync with Amanda on /wealth, delegating tasks to complete the spreadsheet + we discussed our bridge testing. [Tweet](https://x.com/harmonyprotocol/status/1902938638410973318) about Coinbase Liquidity Pools. Animated the second iteration of the 0x marketing graphic. Scheduled a call with Colossus Digital to discuss co-marketing initiatives.
+2025-03-27 Thu: Edited and uploaded Li's video using Descript. Designed thumbnail and [uploaded to Youtube](https://youtu.be/P0EnbjuwvGA?si=MWRduiF_-QMPNCd4) and [X](https://x.com/harmonyprotocol/status/1905380052642267305). Creation of DeFi and Harmony related inforgraphics using ChatGPT's new image gen tool, seen [here]().
 
-2024-03-19 Wed: [Promotion of FlappyH1](https://x.com/harmonyprotocol/status/1902433324095918439) and Cryptoland DAO weekly airdrop. Generated graphic using Whisk and promoted on X. Animated a graphic for Prioritizing 0x, synced with Theo on the first iteration of the [graphic](https://www.notion.so/harmonyone/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081?pvs=4#1bca38fc04878038b1cefd02ac023974). 
+2025-03-26 Wed: Testing of ChatGPT's new native image generation, created a studio ghibli rendering of the team and [posted to X](https://x.com/harmonyprotocol/status/1905068856089157767). Finalized edits on Theo's Q1 report, corrected the transcript using Descript, designed thumbnail, and uploaded to [Youtube](https://www.youtube.com/watch?v=WV4ztBtzvig). Began the editing process for Li's video. 
 
-2024-03-18 Tue: Design of thumbnail for Q2 roadmap + uploaded to [Youtube](https://youtu.be/k6kLgW0F6fo) and shared on [X](https://x.com/harmonyprotocol/status/1902119437928390876). Continuation of filling out /w, reading the docs for Unipilot and Popsicle Finance.
+2025-03-25 Tue: Call with Colossus Digital. Action items: Animate a graphic highlighting the new integration + increased ONE utility. Review and publish their article on our LinkedIn channels. Create a NotebookLM podcast highlighting the integration. Editing Theo's Q1 video manually + utilizing Descript to create shorts for Youtube. [Tweet](https://x.com/harmonyprotocol/status/1904753174491062438) on ONE Bot.
 
-2024-03-17 Mon: Animation of pump.one graphic + [tweet](https://x.com/harmonyprotocol/status/1901746154465054972). Sync with Artem on updating pump.one/rules, revising the rule pertaining to competition extensions: "Each round lasts 7 days, ending at a random time around midnight US Pacific Time only if a token reaches 420,000 ONE in net liquidity. If not, the round extends indefinitely until the liquidity threshold is met.". We're discussing lowering the liquidity threshold to 4200 ONE as well for competitions. Continuation on /wealth, testing orange finance.
+2025-03-24 Mon: Animation for "Priorititizing 0x". Synced with Amanda on our DeFi testing progress. Research of Fireblocks in preparation for my meeting with Colossus Digital.
+
+---
+
+2025-03-23 Sun: Creation of AI videos in Sora.
+
+2025-03-22 Sat: [Thread](https://x.com/harmonyprotocol/status/1903496482990559242) on teams progress. Review of the team's formatting in /p.
+
+2025-03-21 Fri: Drafting a quick Sora tutorial to help onboard Amanda into making AI graphics/videos. Update of the harmony community section plus [recap tweet](https://x.com/harmonyprotocol/status/1903204409548607511). Testing wallet connect for bridge platforms Amanda was having trouble with. Testing the stargate bridge and documenting my sentiments on the user experience and speed of use.
+
+2025-03-20 Thu: Sync with Amanda on /wealth, delegating tasks to complete the spreadsheet + we discussed our bridge testing. [Tweet](https://x.com/harmonyprotocol/status/1902938638410973318) about Coinbase Liquidity Pools. Animated the second iteration of the 0x marketing graphic. Scheduled a call with Colossus Digital to discuss co-marketing initiatives.
+
+2025-03-19 Wed: [Promotion of FlappyH1](https://x.com/harmonyprotocol/status/1902433324095918439) and Cryptoland DAO weekly airdrop. Generated graphic using Whisk and promoted on X. Animated a graphic for Prioritizing 0x, synced with Theo on the first iteration of the [graphic](https://www.notion.so/harmonyone/Prioritizing-0x-Addresses-in-the-Harmony-Ecosystem-8fad1b2a6c054619aff41b9d8f771081?pvs=4#1bca38fc04878038b1cefd02ac023974). 
+
+2025-03-18 Tue: Design of thumbnail for Q2 roadmap + uploaded to [Youtube](https://youtu.be/k6kLgW0F6fo) and shared on [X](https://x.com/harmonyprotocol/status/1902119437928390876). Continuation of filling out /w, reading the docs for Unipilot and Popsicle Finance.
+
+2025-03-17 Mon: Animation of pump.one graphic + [tweet](https://x.com/harmonyprotocol/status/1901746154465054972). Sync with Artem on updating pump.one/rules, revising the rule pertaining to competition extensions: "Each round lasts 7 days, ending at a random time around midnight US Pacific Time only if a token reaches 420,000 ONE in net liquidity. If not, the round extends indefinitely until the liquidity threshold is met.". We're discussing lowering the liquidity threshold to 4200 ONE as well for competitions. Continuation on /wealth, testing orange finance.
 
 
 ---
 
-2024-03-16 Sun: Video generations in Sora.
+2025-03-16 Sun: Video generations in Sora.
 
-2024-03-15 Sat: [Thread](https://x.com/harmonyprotocol/status/1900999207500296281) on the team's progress.
+2025-03-15 Sat: [Thread](https://x.com/harmonyprotocol/status/1900999207500296281) on the team's progress.
 
-2024-03-14 Fri: Community section update and tweet. Final draft of Q1 Progress. Completion of Prioritizing 0x graphic. Pump.one graphic + update on X.
+2025-03-14 Fri: Community section update and tweet. Final draft of Q1 Progress. Completion of Prioritizing 0x graphic. Pump.one graphic + update on X.
 
-2024-03-13 Thu: Testing of HeyEddiev2 + [promotion](https://x.com/harmonyprotocol/status/1900254697040302389) on X. Sync with Theo on upcoming marketing initiatives, including twitter spaces. Design of a graphic for "Prioritizing 0x". First draft of Q1 Progress.
+2025-03-13 Thu: Testing of HeyEddiev2 + [promotion](https://x.com/harmonyprotocol/status/1900254697040302389) on X. Sync with Theo on upcoming marketing initiatives, including twitter spaces. Design of a graphic for "Prioritizing 0x". First draft of Q1 Progress.
 
-2024-03-12 Wed: Tweets relating to [pump.one/rules](https://x.com/harmonyprotocol/status/1899976287219048685) and [#1s finality](https://x.com/harmonyprotocol/status/1899940274115407983). Continuation in /w as well as continued generations in Sora. Insights: I'm stress testing how detailed these videos can get, and have found stories need to be short and simple.
+2025-03-12 Wed: Tweets relating to [pump.one/rules](https://x.com/harmonyprotocol/status/1899976287219048685) and [#1s finality](https://x.com/harmonyprotocol/status/1899940274115407983). Continuation in /w as well as continued generations in Sora. Insights: I'm stress testing how detailed these videos can get, and have found stories need to be short and simple.
 
-2024-03-11 Tue: Animation of a graphic to promote harmony.one/hire on [X](https://x.com/harmonyprotocol/status/1899595652704927885). Watched some tutorials on storyboarding in Sora, and experimented with piecing together visuals from harmony.one/videos. Sora can flash through photos well, but I'm still struggling to showcase a cohesive storyline throughout. Replying to community questions on [Reddit]. 
+2025-03-11 Tue: Animation of a graphic to promote harmony.one/hire on [X](https://x.com/harmonyprotocol/status/1899595652704927885). Watched some tutorials on storyboarding in Sora, and experimented with piecing together visuals from harmony.one/videos. Sora can flash through photos well, but I'm still struggling to showcase a cohesive storyline throughout. Replying to community questions on [Reddit]. 
 
-2024-03-10 Mon: ETH SF, with a goal to connect with 30 people on [harmony.one/hire](https://x.com/stse/status/1893670310676930868).
-
----
-
-2024-03-09 Sun (2.0 hrs): Continuation in Sora. Following up with the team on /p completion. 
-
-2024-03-08 Sat (2.0 hrs): [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Sonic compatibility in /w. Creations using Sora relating to blue hearts, butterflies, harmonious symphonies, and DeFi.
-
-2024-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. Promotion of [UniFAI](https://x.com/harmonyprotocol/status/1898050971416379721) on X
-
-2024-03-06 Thu: Continuation of research for /w, generally checking Sonic compatibility within different DeFi products and tracking peak TVL. Creation of graphics in Whisk to [promote](https://x.com/harmonyprotocol/status/1897755080390328366) the FlappyH1 referral program. Video generations in Sora to pair with upcoming threads.
-
-2024-03-05 Wed: Animation showcasing pump.one creations, [posted onto X](https://x.com/harmonyprotocol/status/1897404644948869353). [Promotion](https://x.com/harmonyprotocol/status/1897393586121101440) of new trading pair on Swap from CryptoLand DAO. Documentation of my user experience of shadow.so. Continuation of research for /w.
-
-2024-03-04 Tue: Research and testing of vfat.io and beefy finance. Read through their docs to contribute to /w. Synced with Li on liquidity pools, action items from the meeting include reading uniswap docs on automated market making and continuing to fill out /w. Tweeted about simple defi and designed a graphic for exchange.one.
-
-2024-03-03 Mon: Research for /w. Extensive testing of CL positions on shadow.so. Insights: Acquiring the assets exactly needed for this concentrated liquidity pool was very difficult. I explored various exchanges and buying platforms but ran into issues with gas fees, compatible wallets, and not being able to purchase Sonic directly. [Thread](https://x.com/harmonyprotocol/status/1896667701940248847) on the February newsletter.
+2025-03-10 Mon: ETH SF, with a goal to connect with 30 people on [harmony.one/hire](https://x.com/stse/status/1893670310676930868).
 
 ---
 
-2024-03-02 Sun: Designed an animation & published the team progress [thread](https://x.com/harmonyprotocol/status/1896238786771919019) on X.
+2025-03-09 Sun (2.0 hrs): Continuation in Sora. Following up with the team on /p completion. 
 
-2024-03-01 Sat: Final edits + publishing of the [February newsletter](https://t.co/W6tTfrV0IW). Creation of AI podcast in NotebookLM.
+2025-03-08 Sat (2.0 hrs): [Thread](https://x.com/harmonyprotocol/status/1898475088191901816) on the teams progress. Completion of Sonic compatibility in /w. Creations using Sora relating to blue hearts, butterflies, harmonious symphonies, and DeFi.
 
-2024-02-28 Fri: Harmony community update + tweet. Finalization of February newsletter and ran through edits with Li, Theo, and Sun. Design of exchange.one graphic in Midjourney + Canva.
+2025-03-07 Fri: Community update section plus tweet. Continuation in /w, filling out the auto-rebalancing and completing research for Arakis, Gamma, DefiEdge, and Unipilot. Promotion of [UniFAI](https://x.com/harmonyprotocol/status/1898050971416379721) on X
 
-2024-02-27 Thu: [Thread](https://x.com/harmonyprotocol/status/1895152540045713723) on pump.one launch! Finished first draft of the February newsletter. Designed thumbnail and sent for review.
+2025-03-06 Thu: Continuation of research for /w, generally checking Sonic compatibility within different DeFi products and tracking peak TVL. Creation of graphics in Whisk to [promote](https://x.com/harmonyprotocol/status/1897755080390328366) the FlappyH1 referral program. Video generations in Sora to pair with upcoming threads.
 
-2024-02-26 Wed: Designing of graphic + [thread](https://x.com/harmonyprotocol/status/1894900845210403186) on DeFAI. A/B Testing with Theo on product screens for pump.one. Continued writing of the February newsletter to be released on Friday. Reading the shadow.so [docs](https://docs.shadow.so/pages/concentrated-liquidity) on concentrated liquity (CL Positions). Insights: CL positions can be rather complicated to the novice user. The interface needs to be intuitive actionable and potentially guided for new users. 
+2025-03-05 Wed: Animation showcasing pump.one creations, [posted onto X](https://x.com/harmonyprotocol/status/1897404644948869353). [Promotion](https://x.com/harmonyprotocol/status/1897393586121101440) of new trading pair on Swap from CryptoLand DAO. Documentation of my user experience of shadow.so. Continuation of research for /w.
 
-2024-02-25 Tue: Sync with Amanda on product testing. Action items: Spreadsheet of insights on each product. [Tweet](https://x.com/harmonyprotocol/status/1894563281307930968) promoting hiring DeFi engineers. Testing of shadow.so liquitidy pools. Beginning draft of the February newsletter.
+2025-03-04 Tue: Research and testing of vfat.io and beefy finance. Read through their docs to contribute to /w. Synced with Li on liquidity pools, action items from the meeting include reading uniswap docs on automated market making and continuing to fill out /w. Tweeted about simple defi and designed a graphic for exchange.one.
 
-2024-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. [Thread](https://x.com/harmonyprotocol/status/1894178986026299697) on team progress with a "be the ONE to fly" animation.
-
----
-
-2024-02-23 Sun (2.0 hrs): Animation for pump.one marketing launch communicating the value of memes on Harmony. Sync with Theo on marketing plan, adjusting for revised pump.one release date.
-
-2024-02-22 Sat (1.0 hr): Generations in Google Whisk for exchange.one tweets next week.
-
-2024-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well onto ONE Bot upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
-
-2024-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule. Coinrule Insights: [Announcement on X](https://x.com/harmonyprotocol/status/1892661322992779320) of Ledger update.
-
-2024-02-19 Wed: Animation of pump.one teaser + [teaser tweet](https://x.com/harmonyprotocol/status/1892348425905021359). Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
-
-2024-02-18 Tue: [Thread](https://x.com/harmonyprotocol/status/1891929102128447882) on team progress. [Quote tweet](https://x.com/harmonyprotocol/status/1891972637770854730) from Stephen on yields. Sync with Theo on marketing intitiatives for upcoming product launches. 
-
-2024-02-17 Mon: Federal Holiday 
+2025-03-03 Mon: Research for /w. Extensive testing of CL positions on shadow.so. Insights: Acquiring the assets exactly needed for this concentrated liquidity pool was very difficult. I explored various exchanges and buying platforms but ran into issues with gas fees, compatible wallets, and not being able to purchase Sonic directly. [Thread](https://x.com/harmonyprotocol/status/1896667701940248847) on the February newsletter.
 
 ---
 
-2024-02-16 Sun (1.0 hr): Continued reading of Delphi Digital articles.
+2025-03-02 Sun: Designed an animation & published the team progress [thread](https://x.com/harmonyprotocol/status/1896238786771919019) on X.
 
-2024-02-15 Sat (1.0 hr): Continued reading of Delphi Digital articles.
+2025-03-01 Sat: Final edits + publishing of the [February newsletter](https://t.co/W6tTfrV0IW). Creation of AI podcast in NotebookLM.
 
-2024-02-14 Fri: Revision of Ledger icons, sent to Ledger team. Update of the community section plus [posting to X](https://x.com/harmonyprotocol/status/1890534187062489138). Sync with Theo on the exchange.one interface. Aiming for a 'bento box' design to fit in all the components.
+2025-02-28 Fri: Harmony community update + tweet. Finalization of February newsletter and ran through edits with Li, Theo, and Sun. Design of exchange.one graphic in Midjourney + Canva.
 
-2024-02-13 Thu: Reading of "The Fat Wallet Thesis". Continuation of exchange.one mockups. Drafting of responses to community questions on Reddit. [Li.Fi quote tweet](https://x.com/harmonyprotocol/status/1890128910391865775).
+2025-02-27 Thu: [Thread](https://x.com/harmonyprotocol/status/1895152540045713723) on pump.one launch! Finished first draft of the February newsletter. Designed thumbnail and sent for review.
 
-2024-02-12 Wed: Sync with Li, Amanda, and Theo. Read team progress to get up to speed. Read Delphi Digital report: The Year Ahead for DeFi 2025. Quote tweet about Kraken Pro integrating ONE perps. Began design of exchange.one frontend
+2025-02-26 Wed: Designing of graphic + [thread](https://x.com/harmonyprotocol/status/1894900845210403186) on DeFAI. A/B Testing with Theo on product screens for pump.one. Continued writing of the February newsletter to be released on Friday. Reading the shadow.so [docs](https://docs.shadow.so/pages/concentrated-liquidity) on concentrated liquity (CL Positions). Insights: CL positions can be rather complicated to the novice user. The interface needs to be intuitive actionable and potentially guided for new users. 
 
-2024-01-27 Mon - 2024-02-11 Tue: Paid Time Off.
+2025-02-25 Tue: Sync with Amanda on product testing. Action items: Spreadsheet of insights on each product. [Tweet](https://x.com/harmonyprotocol/status/1894563281307930968) promoting hiring DeFi engineers. Testing of shadow.so liquitidy pools. Beginning draft of the February newsletter.
 
----
-
-2024-01-26 Sun (1.0 hr): Writing of week 3 of the January newsletter.
-
-2024-01-25 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1883225071491178881).
-
-2024-01-24 Fri: Team outing in Palo Alto.
-
-2024-01-23 Thu: Sync with Theo on [UX for the Universal Bridge](https://www.figma.com/design/cPy595g2lrkAKzSu84OIwA/Simple-Defi-Platform?node-id=0-1&t=epgtzBv1ptXki9Bo-1). Sent first iteration
-
-2024-01-22 Wed: Began iterating designs for the Universal Bridge. Continued research on AI Marketing tools to 10x impact. Sync with Amanda on offboarding in preparation for PTO.
-
-2024-01-21 Tue: Preparation of [launch thread](https://www.notion.so/harmonyone/pump-one-launch-materials-182a38fc04878080970cd2d93437b962) for pump.one and animation of a promotional graphic. Began draft revising wording on the pump.one rules, for clarity. [Tweet]() on b.country plus design of a graphic in Midjourney. Resolution of Ledger icons with Soph. Sync with team and 1 v 1 with Li. Action items: find AI marketing tools to amplify our impact.
-
-2024-01-20 Mon: MLK holiday
+2025-02-24 Mon: Sync with Aaron, Artem, Amanda, and Li. Will launch pump.one at 9am following the final testing and approval from Aaron, Artem, and Yuriy. Writing thoughtful responses to community inquiries on Reddit. [Thread](https://x.com/harmonyprotocol/status/1894178986026299697) on team progress with a "be the ONE to fly" animation.
 
 ---
 
-2024-01-19 Sun (1.0 hr): Design of graphics in preparation for PTO.
+2025-02-23 Sun (2.0 hrs): Animation for pump.one marketing launch communicating the value of memes on Harmony. Sync with Theo on marketing plan, adjusting for revised pump.one release date.
 
-2024-01-18 Sat (1.0 hr): Posting of community section to X.
+2025-02-22 Sat (1.0 hr): Generations in Google Whisk for exchange.one tweets next week.
 
-2024-01-17 Fri: Sync with Theo for boostDAI and AI agent marketing. Updating of the community section. Writing of week 3 for the january newsletter.
+2025-02-21 Fri: Harmony community update + [summary tweet](https://x.com/harmonyprotocol/status/1893045645285769527). Bonkbot testing insights: The feature of pasting a pump.fun link to buy a token is very simple and intuitive. I believe this feature would integrate well onto ONE Bot upon the release of pump.one. Bonkbot's error messaging could be improved for simplicity. If a token transaction fails, there isn't ample messaging to explain why. Bonkbot is very text heavy as well. Simplicity could be improved by categorizing the information better.
 
-2024-01-16 Thu: Sync with Li Amanda and Rika. Action items: research AI marketing tools to target developers. Animation for boostDAI. 
+2025-02-20 Thu: Sync with Amanda and Li, discussed the portfolio rebalancer and my task to test a variety of cross chain swaps. Tested cross chain swaps like coinrule. Coinrule Insights: [Announcement on X](https://x.com/harmonyprotocol/status/1892661322992779320) of Ledger update.
 
-2024-01-15 Wed: Continuation of animation for yield enhancer launch. Tweet with [LayerZero](https://x.com/harmonyprotocol/status/1879610260601905181) and [Mona](https://x.com/harmonyprotocol/status/1879654950126710925).
+2025-02-19 Wed: Animation of pump.one teaser + [teaser tweet](https://x.com/harmonyprotocol/status/1892348425905021359). Testing of crosschain swaps on UniswapX + Li.Fi. Sync with Frank on spreadsheet design.
 
-2024-01-14 Tue: Situated privacy complaint on Youtube channel. Designed boostDAI logo. Animation for the yield enhancer launch. Tweet + designed a graphic for i.country
+2025-02-18 Tue: [Thread](https://x.com/harmonyprotocol/status/1891929102128447882) on team progress. [Quote tweet](https://x.com/harmonyprotocol/status/1891972637770854730) from Stephen on yields. Sync with Theo on marketing intitiatives for upcoming product launches. 
 
-2024-01-13 Mon: Writing of week 2 for the January newsletter. Beginning to create marketing materials for the launch of the yield enhancer. Continued reading on i.country and testing of Eliza.
-
----
-
-2024-01-12 Sun (1.0 hr): Design of graphics in preparation for PTO.
-
-2024-01-11 Sat (1.0 hr): Community Tweet on X. 
-
-2024-01-10 Fri: Updating of the harmony.one community section. Wrote the recap for the first week of January for the monthly newsletter. Design of graphic using Midjourney to [quote tweet](https://x.com/harmonyprotocol/status/1877860187081461778) Stephen's content on i.country.
-
-2024-01-09 Thu: [Announcement](https://x.com/harmonyprotocol/status/1877474602638524707) of FlappyH1's weekly airdrop winner + design of a flappy graphic using Google's Whisk. Did continued designs in Whisk in prepartion for PTO.
-
-2024-01-08 Wed: [Co-marketing](https://x.com/harmonyprotocol/status/1877062477877215334) with Band Protocol on their 2024 report. Continuation of reading/watching the resources of i.country. 
-
-2024-01-07 Tue: Beginning test of [Eliza](https://github.com/harmony-one/h/blob/main/docs/ElizaAIAgent.md) agent. Reading + design of animation for i.country. Sync with Amanda on designed twitter graphics.
-
-2024-01-06 Mon: Sync with Li, Aaron, and Sun. Action items: Begin testing Eliza soon. Design of a human + ai graphic, inserted in a [quote tweet](https://x.com/harmonyprotocol/status/1876358123147141241) of Li's AI Agent tweet. [Quote tweeted](https://x.com/harmonyprotocol/status/1876410564756513164) Stephen's post on AI Agents.
+2025-02-17 Mon: Federal Holiday 
 
 ---
 
-2024-01-05 Sun (1.0 hr): Designs in Midjourney in preparation for PTO. 
+2025-02-16 Sun (1.0 hr): Continued reading of Delphi Digital articles.
 
-2024-01-04 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1875617947114447214).
+2025-02-15 Sat (1.0 hr): Continued reading of Delphi Digital articles.
 
-2024-01-03 Fri: Sync with Amanda on creating memes/graphics for our twitter account. Animation on #1sfinality for a quote [tweet](https://x.com/harmonyprotocol/status/1875360696843825356) from Stephen.
+2025-02-14 Fri: Revision of Ledger icons, sent to Ledger team. Update of the community section plus [posting to X](https://x.com/harmonyprotocol/status/1890534187062489138). Sync with Theo on the exchange.one interface. Aiming for a 'bento box' design to fit in all the components.
 
-2024-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
+2025-02-13 Thu: Reading of "The Fat Wallet Thesis". Continuation of exchange.one mockups. Drafting of responses to community questions on Reddit. [Li.Fi quote tweet](https://x.com/harmonyprotocol/status/1890128910391865775).
 
-2024-01-01 Wed: New Years Day
+2025-02-12 Wed: Sync with Li, Amanda, and Theo. Read team progress to get up to speed. Read Delphi Digital report: The Year Ahead for DeFi 2025. Quote tweet about Kraken Pro integrating ONE perps. Began design of exchange.one frontend
+
+2025-01-27 Mon - 2024-02-11 Tue: Paid Time Off.
+
+---
+
+2025-01-26 Sun (1.0 hr): Writing of week 3 of the January newsletter.
+
+2025-01-25 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1883225071491178881).
+
+2025-01-24 Fri: Team outing in Palo Alto.
+
+2025-01-23 Thu: Sync with Theo on [UX for the Universal Bridge](https://www.figma.com/design/cPy595g2lrkAKzSu84OIwA/Simple-Defi-Platform?node-id=0-1&t=epgtzBv1ptXki9Bo-1). Sent first iteration
+
+2025-01-22 Wed: Began iterating designs for the Universal Bridge. Continued research on AI Marketing tools to 10x impact. Sync with Amanda on offboarding in preparation for PTO.
+
+2025-01-21 Tue: Preparation of [launch thread](https://www.notion.so/harmonyone/pump-one-launch-materials-182a38fc04878080970cd2d93437b962) for pump.one and animation of a promotional graphic. Began draft revising wording on the pump.one rules, for clarity. [Tweet]() on b.country plus design of a graphic in Midjourney. Resolution of Ledger icons with Soph. Sync with team and 1 v 1 with Li. Action items: find AI marketing tools to amplify our impact.
+
+2025-01-20 Mon: MLK holiday
+
+---
+
+2025-01-19 Sun (1.0 hr): Design of graphics in preparation for PTO.
+
+2025-01-18 Sat (1.0 hr): Posting of community section to X.
+
+2025-01-17 Fri: Sync with Theo for boostDAI and AI agent marketing. Updating of the community section. Writing of week 3 for the january newsletter.
+
+2025-01-16 Thu: Sync with Li Amanda and Rika. Action items: research AI marketing tools to target developers. Animation for boostDAI. 
+
+2025-01-15 Wed: Continuation of animation for yield enhancer launch. Tweet with [LayerZero](https://x.com/harmonyprotocol/status/1879610260601905181) and [Mona](https://x.com/harmonyprotocol/status/1879654950126710925).
+
+2025-01-14 Tue: Situated privacy complaint on Youtube channel. Designed boostDAI logo. Animation for the yield enhancer launch. Tweet + designed a graphic for i.country
+
+2025-01-13 Mon: Writing of week 2 for the January newsletter. Beginning to create marketing materials for the launch of the yield enhancer. Continued reading on i.country and testing of Eliza.
+
+---
+
+2025-01-12 Sun (1.0 hr): Design of graphics in preparation for PTO.
+
+2025-01-11 Sat (1.0 hr): Community Tweet on X. 
+
+2025-01-10 Fri: Updating of the harmony.one community section. Wrote the recap for the first week of January for the monthly newsletter. Design of graphic using Midjourney to [quote tweet](https://x.com/harmonyprotocol/status/1877860187081461778) Stephen's content on i.country.
+
+2025-01-09 Thu: [Announcement](https://x.com/harmonyprotocol/status/1877474602638524707) of FlappyH1's weekly airdrop winner + design of a flappy graphic using Google's Whisk. Did continued designs in Whisk in prepartion for PTO.
+
+2025-01-08 Wed: [Co-marketing](https://x.com/harmonyprotocol/status/1877062477877215334) with Band Protocol on their 2024 report. Continuation of reading/watching the resources of i.country. 
+
+2025-01-07 Tue: Beginning test of [Eliza](https://github.com/harmony-one/h/blob/main/docs/ElizaAIAgent.md) agent. Reading + design of animation for i.country. Sync with Amanda on designed twitter graphics.
+
+2025-01-06 Mon: Sync with Li, Aaron, and Sun. Action items: Begin testing Eliza soon. Design of a human + ai graphic, inserted in a [quote tweet](https://x.com/harmonyprotocol/status/1876358123147141241) of Li's AI Agent tweet. [Quote tweeted](https://x.com/harmonyprotocol/status/1876410564756513164) Stephen's post on AI Agents.
+
+---
+
+2025-01-05 Sun (1.0 hr): Designs in Midjourney in preparation for PTO. 
+
+2025-01-04 Sat (1.0 hr): Community section [tweet](https://x.com/harmonyprotocol/status/1875617947114447214).
+
+2025-01-03 Fri: Sync with Amanda on creating memes/graphics for our twitter account. Animation on #1sfinality for a quote [tweet](https://x.com/harmonyprotocol/status/1875360696843825356) from Stephen.
+
+2025-01-02 Thu: Animation of a [2025 graphic](https://x.com/harmonyprotocol/status/1874917556374618135). Welcoming AthleteFi to the ecosystem on [X](https://x.com/harmonyprotocol/status/1874956831560515635).
+
+2025-01-01 Wed: New Years Day
 
 2024-12-31 Tue: Designs in Midjourney plus animation in Pika. 1bot stats sync with Amanda. Designs in Midjourney in preparation for PTO. 
 
