@@ -6,6 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2025-03-31 Mon: Finalization of the [Q1 newsletter](https://blog.harmony.one/p/q1-on-harmony-foundations-for-simple) plus [thread on X](https://x.com/harmonyprotocol/status/1906841502162231507). Creation of a podcast for Youtube on NotebookLM. Writing of content on X for UniQ, on Messari, and on Cryptoland_DAO. 
 
 ---
 
