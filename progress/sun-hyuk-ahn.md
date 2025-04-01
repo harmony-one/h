@@ -3,6 +3,12 @@ In Q1, I implemented EIP-1153, which introduces transient storage opcodes to red
 
 ---
 
+2025-04-01 Tue: Finalized clean up of all services and servers. Created new Outline VPN server.
+
+2025-03-31 Mon: Final session with Soph. Rotation of all passwords and security with the change of members.
+
+---
+
 2025-03-28 Fri: Analyzed current architecture of secret management, as well as all the related scripts.
 
 2025-03-27 Thu: Last session with Soph. Continued Gitbook in order to overview key management and rotations.
