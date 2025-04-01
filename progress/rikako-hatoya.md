@@ -1,3 +1,5 @@
+2025-03-31 Mon: Sync with Li, came up with goal to master Euler this week, specifically focusing on liquidation/leverage/penalties. Started looking into those as well as strategies and their github repo with implementation.
+
 2025-03-30 Sun: Continued with checking calculation for APY (10% difference). Also continued catching up with looking through Yuriy/Artem's /progress.
 
 2025-03-29 Sat: Started looking into Lending APY + Max ROE discrepancy between my subgraph and Euler front-end. Also searching for MEV Capital PT-wstkscUSD.
