@@ -10,6 +10,12 @@ Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arr
 
 ---
 
+2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
+
+---
+
+2025-03-28 Fri: Fixed calculation errors, corrected data. Researched to understand which positions were opened via vfat and which via shadow ux. Added position lifespan analysis for more accurate calculation for apr.
+
 2025-03-27 Thu: [Completed](https://github.com/potvik/shadow-scraper/commit/40680aa05ff229ca3b8d307c03672f645c2cff4a) final version of the statistic script using a combined approach to loading rewards and calculating apr - all methods are used: totalFeeCollateral and claimRewards from the subgraph, direct call earned for positions for which there was no withdrawal of rewards, analysis of transfers of reward tokens from the guard address to the address of the position owner. Also expanded the range of information collection to 1 month - to capture more positions and rewards (since most open them for a long time). 
 
 2025-03-26 Wed: Tried an alternative method for loading rewards by unloading reward token transfer operations via sonic api. Based on the developed python [script](https://github.com/rikaa15/sonic-rewards/blob/main/user-stats.py) from Rika. [Updated](https://github.com/potvik/shadow-scraper/blob/main/export/filtered_limited_positions_stats_USDC_e_USDT.tsv) some stats tsv data.
