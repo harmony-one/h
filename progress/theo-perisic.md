@@ -8,6 +8,12 @@ Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](htt
 
 ---
 
+2025-04-01 Tue: Sync with Philipp for portfolio manager and DeFi products. Troubleshooting Q1 review copy with Alaina. Answered community questions regarding Soph’s farewell.
+
+2025-03-31 Mon: Iterating on simple DeFi product offering. Insight: [defi.app](https://defi.app) includes all DeFi aspects people want, most still coming soon and unreleased, but this direct offering of all features scares users away. Goal should be to abstract difficulties from users, only showing yields based on their risk tolerance and optimizing their positions accordingly, no manual selection unless configured in settings.
+
+---
+
 2025-03-30 Sun: (2.0h) Finalizing Q1 review, and main Q1 draft. Added [potential intro](https://www.notion.so/harmonyone/Q1-DeFi-Intro-1c6a38fc048780639bf2f0c22f15fda1) following original deeper DeFi focus.
 
 2025-03-29 Sat: (1.0h) Further testing of [vfat.io](https://vfat.io). Insight: ignoring fees and slippage lost during rebalancing, auto rebalance only happening outside of bounds is a critical issue that we can improve upon allowing users to rebalance before their position leaves their desired range.
