@@ -1,4 +1,12 @@
-2025-3-29 Sat (3.5h+): Deep dive on Magpie, Euler vaults, review Beefy stablecoin pairs, vaults with unusual performance, and aUSDC
+2025-4-1 Mon (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs
+
+2025-3-31 Mon (5.3h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability
+
+---
+
+2025-3-30 Sun (5.5h): Research on Lombard, LayerZero bridging security parameters, Silo, Silo vs Euler analysis, DIA oracle, Beets, Stability, Sommelier
+
+2025-3-29 Sat (7.5h): Deep dive on Magpie, Euler vaults, review Beefy stablecoin pairs, vaults with unusual performance, and aUSDC
 
 2025-3-28 Fri (5.6h): Deep dive on Euler, Pendle, pricing of specific token pairs, and analyze historical data. Review Vicuna oracle, API3, evaluate relevant stablecoin positions and yield
 
