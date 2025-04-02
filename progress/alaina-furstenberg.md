@@ -6,6 +6,10 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2025-04-02 Wed: Research + writing of [thread on Rho](https://x.com/harmonyprotocol/status/1907564176677200120). Testing of Jeet games (lottery + slot) + [announcement](https://x.com/harmonyprotocol/status/1907570159554052237) of launch. Insights:. Writing of thread on the team's Q1 progress.
+
+2025-04-01 Tue: Corrections to the Q1 newsletter, adding content to summarize the weekly progress throughout March. Editing, uploading, and designing thumbnail for the [combined Q1 videos](https://x.com/harmonyprotocol/status/1907184546044678505). Editing of photo of Soph + writing of farewell tweet [posted to X](https://x.com/harmonyprotocol/status/1907194255942271135). Research on PumpSwap and writing of a [thread](https://x.com/harmonyprotocol/status/1907145055338639599). Insights: PumpSwap shows how DeFi apps are growing up—owning more of the stack to give users and creators more control and better tools.
+
 2025-03-31 Mon: Finalization of the [Q1 newsletter](https://blog.harmony.one/p/q1-on-harmony-foundations-for-simple) plus [thread on X](https://x.com/harmonyprotocol/status/1906841502162231507). Creation of a podcast for Youtube on NotebookLM. Writing of content on X for UniQ, on Messari, and on Cryptoland_DAO. 
 
 ---
