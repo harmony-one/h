@@ -1,3 +1,5 @@
+2025-04-01 Tue: completed manual research of [magpie usdc](https://www.pendle.magpiexyz.io/stake/0x3F5EA53d1160177445B1898afbB16da111182418) pool and calculation of pending rewards based on data from smart contracts, results fully matched with magpie dashboard; started implementation in portfolio script.
+
 2025-03-31 Mon: portfolio script: updated formatting of APR and amount fields, added pool label, deposit link, [exported](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743422366.tsv) new version. Started looking at Silo, Pendle and Beefy pools to collect rewards data in portfolio script. Added [article](https://github.com/harmony-one/shadow-scraper/blob/main/docs/uniswap_liquidity_calculation.md) on Uniswap V3 liquidity calculation with step-by-step explanation, that clarify unproportional token amounts in some edge cases. All formulas found on Uniswap V3 [docs](https://uniswapv3book.com/milestone_1/calculating-liquidity.html) page.
 
 ---
