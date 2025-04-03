@@ -1,4 +1,4 @@
-2025-04-02 Wed: Continuation with research on strategies for Euler Finance by researching through GitHub repos. 
+2025-04-02 Wed: Continuation with research on strategies for Euler Finance by researching through GitHub repos. Looked into best strategies using leverage.
 
 2025-04-01 Tue: Started compiling a summary document listing all features of euler. Researched and summarized liquidation/penalties, etc and now researching strategies. Summarization on docs for past exploits and analysis of best leverage ratios
 
