@@ -10,6 +10,12 @@ Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arr
 
 ---
 
+2025-04-03 Thu: Added a script for determining the optimal strategy by positions: first grouping by wallets and ticks, then averaging values of APR, deposited, time in range, position duration, and then calculating parameters like total profit in usd, number of rebalances, and rebalances gap in hours. [Exported](https://github.com/potvik/shadow-scraper/commit/d0b3d89fa199b89079dda0fa8b1b0d5fed059e03) the results to TSV tables.
+
+2025-04-02 Wed: To determine whether a position was in-range, two approaches were used: based on pool hours data (with hourly accuracy) and by exporting all swap events (more precise). [Updated](https://github.com/potvik/shadow-scraper/commit/366f24e9c89f8efd3d91c7881b94a1b5fafd45a4) the statistics calculation script according to the new data and performed the final export.
+
+2025-04-01 Tue: [Added](https://github.com/potvik/shadow-scraper/commit/d04f9d8eae84ab5311cdaa37c4877e219227c136) a script for exporting burn events to determine the exact lifetime of each position, and accordingly added recalculation of the actual APR.
+
 2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
 
 ---
