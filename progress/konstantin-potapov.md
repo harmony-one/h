@@ -1,3 +1,11 @@
+2025-04-04 Fri:
+- Launched devnet testing for the update to Ethereum source code version 1.9.
+- Devnet and testnet have been updated to the latest development version. The release branch has been tagged. Currently preparing the release build.
+- Upgraded the Ethereum codebase to version 1.10, affecting approximately 25% of the total codebase. This update includes the Berlin and London network upgrades.
+
+---
+
+
 2025 Q1 review:
 
 I upgraded the Harmony codebase from Ethereum source version 1.8 to the 1.9 major release, improving EVM internals—including stack management, function handling, and initialization. This PR aligns our codebase with Ethereum, resolving key discrepancies.
