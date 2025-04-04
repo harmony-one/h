@@ -3,9 +3,13 @@ In Q1, I implemented EIP-1153, which introduces transient storage opcodes to red
 
 ---
 
+2025-04-03 Thu: Reviewed possible devops candidate's interview project. Went over ansible scripts related to the change of servers.
+
+2025-04-02 Wed: Rotation of all passwords and security with the change of members.
+
 2025-04-01 Tue: Finalized clean up of all services and servers. Created new Outline VPN server.
 
-2025-03-31 Mon: Final session with Soph. Rotation of all passwords and security with the change of members.
+2025-03-31 Mon: Final session with Soph. 
 
 ---
 
