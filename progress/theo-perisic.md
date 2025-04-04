@@ -8,6 +8,12 @@ Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](htt
 
 ---
 
+2025-04-04 Fri: Starting deeper focus on [vfat.io](https://vfat.io) for rebalancing. Specifically looking into parameters for USD pools ([USDC/scUSDC](https://vfat.io/farm?chainId=146&farmAddress=0xf8440c989c72751c3a36419e61b6f62dfeb7630e&poolId=0) and [USDC/USDT](https://vfat.io/farm?chainId=146&farmAddress=0xf3ac5aef4116abfd322fdc683420a4fc4b7f2d73&poolId=0)) for optimal returns.
+
+2025-04-03 Thu: Review of correlated and non-correlated assets for yield earning. Insight: correlated pairs offer a safe alternative for higher yields compared to USD pairs. Looking into DeBank and Sushi sunsetting Harmony. Finalized [mock for a potential 1earn product](https://1earn.vercel.app/) bringing simple strategies to Harmony.
+
+2025-04-02 Wed: Sync with Li covering BTC yields and breakdown of leverage looping within Euler. Troubleshooting Claude API for Harmony1Bot.
+
 2025-04-01 Tue: Sync with Philipp for portfolio manager and DeFi products. Troubleshooting Q1 review copy with Alaina. Answered community questions regarding Soph’s farewell.
 
 2025-03-31 Mon: Iterating on simple DeFi product offering. Insight: [defi.app](https://defi.app) includes all DeFi aspects people want, most still coming soon and unreleased, but this direct offering of all features scares users away. Goal should be to abstract difficulties from users, only showing yields based on their risk tolerance and optimizing their positions accordingly, no manual selection unless configured in settings.
