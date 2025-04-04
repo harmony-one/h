@@ -1,3 +1,5 @@
+2025-04-03 Thu: [completed](https://github.com/harmony-one/shadow-scraper/commit/30323f03fdff135c5ee99b15a30da48ce8af1811) magpie pendle portfolio export (#5 in /farms): base apr is around 3% for aUSDC pool, this number correlates with base reward from the dashboard. Additional rewards, such as SY, wasn't found in reward contracts, continue researching. Started looking at the rest pools from /farms: euler (#2), silo (#3), beefy (#7).
+
 2025-04-02 Wed: [added](https://github.com/harmony-one/shadow-scraper/commit/2e98c1daf071255ec8b19dc9e988a9f6a77c9a39) address transactions history to portfolio [export](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x881E625E5C30973b47ceE3a0f3Ef456012F13f7D_1743604632.tsv); data is fetched from Sonicscan API, wallet balance is calculated in USD and S at the time of each transaction.
 
 2025-04-01 Tue: completed manual research of [magpie usdc](https://www.pendle.magpiexyz.io/stake/0x3F5EA53d1160177445B1898afbB16da111182418) pool and calculation of pending rewards based on data from smart contracts, results fully matched with magpie dashboard; started implementation in portfolio script.
