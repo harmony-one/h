@@ -1,3 +1,16 @@
+2025-04-04 Fri:
+
+This week was a great one in all work aspects.
+CI topic - now we are running only for the PR and dev/main, main advantage, as I've mentioned before - it will reduce wait time by 50%. Example for [dev branch](https://github.com/harmony-one/harmony/runs/39939345648) and [for PR](https://github.com/harmony-one/harmony/runs/39927672610).
+
+And [I've also fixed 3rd party dependency](https://github.com/harmony-one/harmony-test/pull/41) in our CI runs due to renaming of rossetta-cli repo to the mesh-cli and tests have started to run again.
+
+Ops topic - [new VPN server](https://github.com/harmony-one/harmony-ops-priv/issues/262), I've finished setup and monitoring to it.
+
+For the testing, I've updated devnet and testnet with golang 1.24 version and will do a regression testing at the begging of the following week.
+
+---
+
 Q1 Review:
 
 In Q1 2025, I focused on strengthening RPC testing, CI workflows, and network observability for Harmony. I built and expanded automated test suites for debug_traceCall and effectiveGasPrice, contributed to a major dependency update, and fixed CI issues with Go module pinning.
