@@ -6,6 +6,8 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2025-04-04 Fri: Researched and wrote a [thread](https://x.com/harmonyprotocol/status/1908277754401005847) on "How Countries Go Broke The Big Cycle". Updated the community section and [uploaded to X.](https://x.com/harmonyprotocol/status/1908277754401005847).
+
 2025-04-03 Thu: Wrote and [tweeted thread](https://x.com/harmonyprotocol/status/1907930844247064985) on Q1 progress. Created illustrated graphic of the team with ChatGPT. Researched BTCFi and wrote a [thread](https://x.com/harmonyprotocol/status/1907939265352540289). 
 
 2025-04-02 Wed: Research + writing of [thread on Rho](https://x.com/harmonyprotocol/status/1907564176677200120). Testing of Jeet games (lottery + slot) + [announcement](https://x.com/harmonyprotocol/status/1907570159554052237) of launch. Insights: Really fun to play low wager games like slots on Harmony. I've seen this GameFi concept successfully executed on other chains, so I'm excited it's live on Harmony!
