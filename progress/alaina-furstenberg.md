@@ -6,7 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-04-05 Sat: Writing and publishing of the [progress thread]().
+2025-04-05 Sat: Writing and publishing of the [progress thread](https://x.com/harmonyprotocol/status/1908543587027214526) plus animation of graphic.
 
 2025-04-04 Fri: Updated the community section and [uploaded to X.](https://x.com/harmonyprotocol/status/1908277754401005847).. Researched and wrote a [thread](https://x.com/harmonyprotocol/status/1908277754401005847) on "How Countries Go Broke The Big Cycle". Insight: In centralized systems, debt becomes the norm, and policies serve the few in charge. Web3 flips that — value flows from the community, not the top.
 
