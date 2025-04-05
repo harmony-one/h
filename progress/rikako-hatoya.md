@@ -1,3 +1,5 @@
+2025-04-04 Fri: Watching of beating the stock market youtube video. Continuation of Euler summary to present as deliverables.
+
 2025-04-03 Thu: Continuation of research into strategies on Euler. Also researched on PT (Principal Token)/Pendle and Rings protocol.
 
 2025-04-02 Wed: Continuation with research on strategies for Euler Finance by researching through GitHub repos. Looked into best strategies using leverage.
