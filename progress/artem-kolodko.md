@@ -1,3 +1,5 @@
+2025-04-06 Sun (2.0h): tested vfat auto-rebalancing on volatile wS/USDC.e pool, monitored pool stats, adjusted position width and deposited amount to meet the requirements from vfat [docs](https://docs.vfat.io/automation/rebalance/).
+
 2025-04-05 Sat (1.0h): looking at vfat vaults paramaters + auto-rebalance, deposited funds into [CL5-USDC.e/scUSD](https://vfat.io/farm?chainId=146&farmAddress=0xf8440c989c72751c3a36419e61b6f62dfeb7630e&poolId=0) and [CL50-wS/USDC.e](https://vfat.io/farm?chainId=146&farmAddress=0xe879d0e44e6873cf4ab71686055a4f6817685f02&poolId=0) with narrow ranges, enabled auto-rebalancing with 3% max slippage to check how auto-rebalancing works without restraints. Monitoring vault stats.
 
 2025-04-04 Fri: started researching vfat auto-rebalancing for [USDC.e/scUSD](https://vfat.io/farm?chainId=146&farmAddress=0xf8440c989c72751c3a36419e61b6f62dfeb7630e&poolId=0) vault to compare with other volatility models. Checked vfat and underlying shadow pool contracts, [collected](https://github.com/harmony-one/shadow-scraper/commit/f780cff6e9d49c77dd13aca183487d7876df9af5) methods to track position ticks range and current tick in the pool.
