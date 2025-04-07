@@ -5,8 +5,7 @@
 
 ---
 
-
-2025 Q1 review:
+2025 Q1 Review
 
 I upgraded the Harmony codebase from Ethereum source version 1.8 to the 1.9 major release, improving EVM internals—including stack management, function handling, and initialization. This PR aligns our codebase with Ethereum, resolving key discrepancies.
 
