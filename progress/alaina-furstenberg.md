@@ -6,6 +6,12 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
+2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report.  
+
+---
+
+2025-04-06 Sun (1.0h): First draft of Colossus co-marketing graphics. 
+
 2025-04-05 Sat (1.0h): Writing and publishing of the [progress thread](https://x.com/harmonyprotocol/status/1908543587027214526) plus animation of graphic.
 
 2025-04-04 Fri: Updated the community section and [uploaded to X.](https://x.com/harmonyprotocol/status/1908277754401005847).. Researched and wrote a [thread](https://x.com/harmonyprotocol/status/1908277754401005847) on "How Countries Go Broke The Big Cycle". Insight: In centralized systems, debt becomes the norm, and policies serve the few in charge. Web3 flips that — value flows from the community, not the top.
