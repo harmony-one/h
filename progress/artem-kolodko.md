@@ -14,7 +14,7 @@
 
 ---
 
-Q1 Review:
+2025 Q1 Review
 
 In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performance tracking across Sonic-based DeFi protocols like Silo, Shadow, and Aave, depositing funds and looking for APIs for data aggregation. I completed research on ALM (Automated Liquidity Management) protocols, identifying Gamma as optimal for dynamic volatility strategies, and shared findings with Stephen and Li. Created Shadow Exchange scraper, a set of scripts to export pool's deposits and withdrawals events from the Shadow Subgrarph to CSV, and developed scripts for TVL and APY analysis of Beefy and vfat pools. Additionally, I contributed to Pump.ONE’s client and backend updates, improving competition features and launching production services. I also started researching UniswapX, resolved deployment issues with Aaron's help, and started testing contract deployments on Harmony. My work focused on analyzing DeFi liquidity pools, validating the data, and working with the team on the analysis results.
 
