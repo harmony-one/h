@@ -1,4 +1,4 @@
-Q1 Review:
+2025 Q1 Review
 
 This quarter, I focused on DeFi testing for /wealth, AI-driven content creation, and product marketing strategy. I researched cross-chain swaps, concentrated liquidity, and DeFi rebalancing, documenting my findings on /wealth. I refined my workflow with AI tools like Sora, Pika, and MidJourney, developed detailed marketing plans for five products, and designed animations and graphics for Pump.ONE, exchange.ONE, boostDAI, and other ecosystem initiatives. My content efforts included writing newsletters, generating AI-powered podcast summaries via NotebookLM, and producing Twitter threads covering team progress and ecosystem developments.
 
