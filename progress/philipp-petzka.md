@@ -4,7 +4,7 @@ I started researching the Berachain ecosystem and its mechanisms to find potenti
 
 ---
 
-Q1 Review
+2025 Q1 Review
 
 The vision for Harmony to be the Home of Simple DeFi became more structured and detailed, with most of my work contributing to that vision. Q1 was driven by extensive product research focussing on laying the knowledge foundation to develop cross-chain products on Harmony. Users should be able to access yield opportunities across several ecosystems in a simple click and leverage custom strategies on Harmony. 
 
