@@ -1,3 +1,5 @@
+2025-04-06 Sun: Started looking into verification of Euler metrics on deeper level and brainstorming of related tasks (vaults, price oracles, campaign rewards). Started working on verification of rewards on Merkle side as well as checking discrepancy of Supply APY between borrow and lending page, as well as simulation of looping strategies.
+
 2025-04-05 Sat: Continuation with research on Rings assets. Further research on Euler's risks and best possible strategies.
 
 2025-04-04 Fri: Watching of beating the stock market youtube video. Continuation of Euler summary to present as deliverables.
