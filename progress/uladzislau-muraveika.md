@@ -11,7 +11,7 @@ For the testing, I've updated devnet and testnet with golang 1.24 version and wi
 
 ---
 
-Q1 Review:
+2025 Q1 Review
 
 In Q1 2025, I focused on strengthening RPC testing, CI workflows, and network observability for Harmony. I built and expanded automated test suites for debug_traceCall and effectiveGasPrice, contributed to a major dependency update, and fixed CI issues with Go module pinning.
 
