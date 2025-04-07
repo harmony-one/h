@@ -4,7 +4,9 @@ This week, I opened [PR 4877](https://github.com/harmony-one/harmony/pull/4877),
 
 ---
 
-2025 Q1 Summary: During Q1 2025, I focused on improving Harmony’s P2P layer, stream sync, and network stability through multiple optimizations, bug fixes, and new features. Notable improvements include refining stream sync logic, optimizing reconnections, enhancing block request handling, and reducing memory usage. Several PRs addressed syncing inefficiencies, protocol mismatches, and connectivity issues, significantly improving network performance. 
+2025 Q1 Review 
+
+During Q1 2025, I focused on improving Harmony’s P2P layer, stream sync, and network stability through multiple optimizations, bug fixes, and new features. Notable improvements include refining stream sync logic, optimizing reconnections, enhancing block request handling, and reducing memory usage. Several PRs addressed syncing inefficiencies, protocol mismatches, and connectivity issues, significantly improving network performance. 
 
 Key updates include a new reconnection mechanism for streams, adaptive backoff for peer advertisements, and better error handling for block downloads. I also improved macOS development support by introducing cross-platform builds and streamlined setup instructions. Additionally, major updates to the protocol ID system, epoch sync handling, and explorer node connectivity have enhanced overall network resilience. 
 
