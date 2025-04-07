@@ -6,7 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-04-05 Sat: Writing and publishing of the [progress thread](https://x.com/harmonyprotocol/status/1908543587027214526) plus animation of graphic.
+2025-04-05 Sat (1.0h): Writing and publishing of the [progress thread](https://x.com/harmonyprotocol/status/1908543587027214526) plus animation of graphic.
 
 2025-04-04 Fri: Updated the community section and [uploaded to X.](https://x.com/harmonyprotocol/status/1908277754401005847).. Researched and wrote a [thread](https://x.com/harmonyprotocol/status/1908277754401005847) on "How Countries Go Broke The Big Cycle". Insight: In centralized systems, debt becomes the norm, and policies serve the few in charge. Web3 flips that — value flows from the community, not the top.
 
@@ -20,9 +20,9 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-03-30 Sun: Design of graphics using ChatGPTs new model.
+2025-03-30 Sun (1.0h): Design of graphics using ChatGPTs new model.
 
-2025-03-29 Sat: [Thread](https://x.com/harmonyprotocol/status/1906125824144920740) on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
+2025-03-29 Sat (1.0h): [Thread](https://x.com/harmonyprotocol/status/1906125824144920740) on the team's progress + finalization of the Q1 report. Syncing with teammates on /p.
 
 2025-03-28 Fri: Update of the Harmony community section and shared on X. Writing the first iteration of the Q1 report. 
 
@@ -36,9 +36,9 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-03-23 Sun: Creation of AI videos in Sora.
+2025-03-23 Sun (1.0h): Creation of AI videos in Sora.
 
-2025-03-22 Sat: [Thread](https://x.com/harmonyprotocol/status/1903496482990559242) on teams progress. Review of the team's formatting in /p.
+2025-03-22 Sat (1.0h): [Thread](https://x.com/harmonyprotocol/status/1903496482990559242) on teams progress. Review of the team's formatting in /p.
 
 2025-03-21 Fri: Drafting a quick Sora tutorial to help onboard Amanda into making AI graphics/videos. Update of the harmony community section plus [recap tweet](https://x.com/harmonyprotocol/status/1903204409548607511). Testing wallet connect for bridge platforms Amanda was having trouble with. Testing the stargate bridge and documenting my sentiments on the user experience and speed of use.
 
@@ -53,9 +53,9 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-03-16 Sun: Video generations in Sora.
+2025-03-16 Sun (1.0h): Video generations in Sora.
 
-2025-03-15 Sat: [Thread](https://x.com/harmonyprotocol/status/1900999207500296281) on the team's progress.
+2025-03-15 Sat (1.0h): [Thread](https://x.com/harmonyprotocol/status/1900999207500296281) on the team's progress.
 
 2025-03-14 Fri: Community section update and tweet. Final draft of Q1 Progress. Completion of Prioritizing 0x graphic. Pump.one graphic + update on X.
 
