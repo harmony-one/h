@@ -30,7 +30,7 @@
 
 ---
 
-**2025 Q1 Summary**
+2025 Q1 Review
 
 In early Q1 2025, I worked on AI and mathematics, specifically formal proofs using Lean and testing math Olympiad problems from the minif2f dataset with models from huggingface (AlphaGeometry and DeepSeek Prover). I then shifted to DeFi, researching end-to-end finance and personal on-chain finance tools. This led to hands-on work with asset bridging on Harmony, where I deployed proxy contracts (HRC20 and ERC20, with a lot of help from Yuriy) integrated with LayerZero for assets like AERO.
 
