@@ -1,3 +1,20 @@
+
+2025-04-08 Mon: Finished a script for loading data and calculating the parameters of impermanent Loss percent and short term volatility percent. Working on wrapping the script in the nestjs service with an api to be able to make requests to custom pools in real time.
+
+---
+
+2025-04-04 Fri: Started working on a service for assessing impermanent loss for positions opened via vfat.io. Data for analysis about the position and pool is loaded via subgraphs and token prices are taken via open APIs coingecko, binance.
+
+2025-04-03 Thu: Added a script for determining the optimal strategy by positions: first grouping by wallets and ticks, then averaging values of APR, deposited, time in range, position duration, and then calculating parameters like total profit in usd, number of rebalances, and rebalances gap in hours. [Exported](https://github.com/potvik/shadow-scraper/commit/d0b3d89fa199b89079dda0fa8b1b0d5fed059e03) the results to TSV tables.
+
+2025-04-02 Wed: To determine whether a position was in-range, two approaches were used: based on pool hours data (with hourly accuracy) and by exporting all swap events (more precise). [Updated](https://github.com/potvik/shadow-scraper/commit/366f24e9c89f8efd3d91c7881b94a1b5fafd45a4) the statistics calculation script according to the new data and performed the final export.
+
+2025-04-01 Tue: [Added](https://github.com/potvik/shadow-scraper/commit/d04f9d8eae84ab5311cdaa37c4877e219227c136) a script for exporting burn events to determine the exact lifetime of each position, and accordingly added recalculation of the actual APR.
+
+2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
+
+---
+
 2025 Q1 Review
 
 Improvements and launch of Pump.ONE [contracts](https://github.com/harmony-one/pump.fun.contracts). All contracts are made upgradable. Added a second alternative version of the Token Factory contract without competitions with the preserved functionality of trading and publishing in Uniswap V3 pools. Transition to AсcessControl with the division of functionality between the roles of administrator and manager. Added utility methods for withdrawing rewards and liquidity. Fixed critical errors in interaction with Uniswap and price calculation. Assistance with integration with backend and frontend services. Support at [Pump.ONE application](https://pump.one/board) launch.
@@ -7,16 +24,6 @@ Completed Unify Bridge Assets V1 feature: USDC converter contract allow converti
 Started working on Layerzero V2 bridge contract: one common contract for all tokens, dynamic addition of new tokens via contract method calls, auto deployment of token wrapper on the harmony side. Draft version is ready, currently in debugging stage. Researched options for transferring liquidity from v1 contracts to v2.
 
 Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arrakis, gamma. Created contract based on FarmStrategy with predefined parameters. The contract checks for range out-of-range and calls rebalancing methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
-
----
-
-2025-04-03 Thu: Added a script for determining the optimal strategy by positions: first grouping by wallets and ticks, then averaging values of APR, deposited, time in range, position duration, and then calculating parameters like total profit in usd, number of rebalances, and rebalances gap in hours. [Exported](https://github.com/potvik/shadow-scraper/commit/d0b3d89fa199b89079dda0fa8b1b0d5fed059e03) the results to TSV tables.
-
-2025-04-02 Wed: To determine whether a position was in-range, two approaches were used: based on pool hours data (with hourly accuracy) and by exporting all swap events (more precise). [Updated](https://github.com/potvik/shadow-scraper/commit/366f24e9c89f8efd3d91c7881b94a1b5fafd45a4) the statistics calculation script according to the new data and performed the final export.
-
-2025-04-01 Tue: [Added](https://github.com/potvik/shadow-scraper/commit/d04f9d8eae84ab5311cdaa37c4877e219227c136) a script for exporting burn events to determine the exact lifetime of each position, and accordingly added recalculation of the actual APR.
-
-2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
 
 ---
 
