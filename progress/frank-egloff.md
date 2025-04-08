@@ -4,6 +4,9 @@ In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Ti
 
 I enhanced our AI infrastructure by integrating multiple models into Harmony1Bot, including Claude 3.7 Sonnet, DeepSeek, and OpenAI's o1. For the harmony-llm-api, I developed a payment system with ONE balance management and a deposit website built within Flask (not yet live). I configured a Harmony Agent using Eliza's framework with GitBook integration, Telegram client deployment, and created both a Harmony character and Harmonious character with a fun, optimistic tone. I conducted detailed yield analysis for multi-protocol strategies combining Aave, Pendle, and Magpie on the Soniclabs chain.
 
+---
+2025-04-07 Mon: Expanded Pendle/Sonic subgraph capabilities with [GaugeController contract events tracking](https://github.com/harmony-one/pendle-sonic-rewards/pull/3), implementing MarketClaimReward and UpdateMarketReward event handlers. Enhanced market metadata retrieval logic for PT, YT and ST contract address resolution. Developed script for querying and displaying market claimed rewards.
+
 ___
 2025-04-05 Sat: (5.0h) Refactoring entity naming conventions in Pendle/Sonic subgraph to resolve indexing issues. Fixing schema inconsistencies causing entity name conflicts that prevented proper event capture.
 
