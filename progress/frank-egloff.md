@@ -1,10 +1,3 @@
-2025 Q1 Review (24 hours)
-
-In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Tick automatic rebalancing, and yield analysis; by developing a Python-based command-line DeFi-protocol-TVL-Tracker with a modular provider-protocol architecture, implementing integrations for Euler, SwapX, Shadow, Curve, Aave, and Beets protocols. I built the Sonic Yield Calculator app to analyze how 1tick automatic rebalancer works, implementing vfat.io functionality using the vfat.tools repository which implements a deposit logic on the Sonic chain. Additionally, I created a Portfolio Management prototype with rebalancing algorithms, using a patched Uniswap SDK and direct contract calls. I provided technical support for Ledger hardware wallet integration, identifying M1/Arm64 architecture compatibility issues.
-
-I enhanced our AI infrastructure by integrating multiple models into Harmony1Bot, including Claude 3.7 Sonnet, DeepSeek, and OpenAI's o1. For the harmony-llm-api, I developed a payment system with ONE balance management and a deposit website built within Flask (not yet live). I configured a Harmony Agent using Eliza's framework with GitBook integration, Telegram client deployment, and created both a Harmony character and Harmonious character with a fun, optimistic tone. I conducted detailed yield analysis for multi-protocol strategies combining Aave, Pendle, and Magpie on the Soniclabs chain.
-
----
 2025-04-07 Mon: Expanded Pendle/Sonic subgraph capabilities with [GaugeController contract events tracking](https://github.com/harmony-one/pendle-sonic-rewards/pull/3), implementing MarketClaimReward and UpdateMarketReward event handlers. Enhanced market metadata retrieval logic for PT, YT and ST contract address resolution. Developed script for querying and displaying market claimed rewards.
 
 ___
@@ -17,6 +10,16 @@ ___
 2025-04-02 Wed: Published pendle-sonic-rewards [subgraph](https://thegraph.com/studio/subgraph/pendle-sonic-rewards/playground) implementing [RedeemRewards event tracking functionality](https://github.com/harmony-one/pendle-sonic-rewards/pull/2). Deployed subgraph to production environment and initiated testing to validate data output structure and accuracy.
 
 2025-04-01 Tue: Discussed protocols taks with Artem for Sonic ecosystem, deciding to maintain separate codebases while sharing ideas to enable cross-verification of results for improved accuracy. Met with Li to discuss new task - verifying reward calculations for [Aave aUSDC pool](https://www.pendle.magpiexyz.io/stake/0x3F5EA53d1160177445B1898afbB16da111182418) on Magpie. Began development of Sonic Pendle Rewards [subgraph](https://github.com/harmony-one/pendle-sonic-rewards).
+
+---
+
+2025 Q1 Review (24 hours)
+
+In Q1 2025, I focused on working on DeFi analytics on Portfolio Rebalancing, 1Tick automatic rebalancing, and yield analysis; by developing a Python-based command-line DeFi-protocol-TVL-Tracker with a modular provider-protocol architecture, implementing integrations for Euler, SwapX, Shadow, Curve, Aave, and Beets protocols. I built the Sonic Yield Calculator app to analyze how 1tick automatic rebalancer works, implementing vfat.io functionality using the vfat.tools repository which implements a deposit logic on the Sonic chain. Additionally, I created a Portfolio Management prototype with rebalancing algorithms, using a patched Uniswap SDK and direct contract calls. I provided technical support for Ledger hardware wallet integration, identifying M1/Arm64 architecture compatibility issues.
+
+I enhanced our AI infrastructure by integrating multiple models into Harmony1Bot, including Claude 3.7 Sonnet, DeepSeek, and OpenAI's o1. For the harmony-llm-api, I developed a payment system with ONE balance management and a deposit website built within Flask (not yet live). I configured a Harmony Agent using Eliza's framework with GitBook integration, Telegram client deployment, and created both a Harmony character and Harmonious character with a fun, optimistic tone. I conducted detailed yield analysis for multi-protocol strategies combining Aave, Pendle, and Magpie on the Soniclabs chain.
+
+---
 
 2025-03-31 Mon: Completed Pendle reward handling analysis with detailed technical [documentation](https://github.com/harmony-one/h/blob/main/docs/defi/pendle_contract_analysis.md). Examining Pendle's DefiLlama adapters logic, discovering their reliance on MarketFactory events for market information retrieval and TVL calculation mechanisms. Analyzed Pendle event structures for subgraph custom implementation to efficiently index and retrieve rewards information.​​​​​​​​​​​​​​​​
 
