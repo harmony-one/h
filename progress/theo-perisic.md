@@ -8,7 +8,14 @@ Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](htt
 
 ---
 
-2025-04-04 Fri: Starting deeper focus on [vfat.io](https://vfat.io) for rebalancing. Specifically looking into parameters for USD pools ([USDC/scUSDC](https://vfat.io/farm?chainId=146&farmAddress=0xf8440c989c72751c3a36419e61b6f62dfeb7630e&poolId=0) and [USDC/USDT](https://vfat.io/farm?chainId=146&farmAddress=0xf3ac5aef4116abfd322fdc683420a4fc4b7f2d73&poolId=0)) for optimal returns.
+2025-04-07 Mon: Alignment for Q2 moving forward and Q1 review. Main push for yield earnings, prioritizing tooling for optimized liquidity provisions. Using coingecko api to track 100 daily, 100 hourly prices for historical volatility necessary for realtime volatility estimations.
+
+---
+
+2025-04-06 Sun: (2.0h) Further research on [vfat.io](https://vfat.io). Insight: fees, slippage, and out of bounds rebalancing make larger pool width more profitable. 
+
+2025-04-05 Sat: (1.0h) Planning for real-time volatility script.
+ 2025-04-04 Fri: Starting deeper focus on [vfat.io](https://vfat.io) for rebalancing. Specifically looking into parameters for USD pools ([USDC/scUSDC](https://vfat.io/farm?chainId=146&farmAddress=0xf8440c989c72751c3a36419e61b6f62dfeb7630e&poolId=0) and [USDC/USDT](https://vfat.io/farm?chainId=146&farmAddress=0xf3ac5aef4116abfd322fdc683420a4fc4b7f2d73&poolId=0) for optimal returns. 
 
 2025-04-03 Thu: Review of correlated and non-correlated assets for yield earning. Insight: correlated pairs offer a safe alternative for higher yields compared to USD pairs. Looking into DeBank and Sushi sunsetting Harmony. Finalized [mock for a potential 1earn product](https://1earn.vercel.app/) bringing simple strategies to Harmony.
 
