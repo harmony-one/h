@@ -16,13 +16,15 @@
 
 2025-04-01 Tue: completed manual research of [magpie usdc](https://www.pendle.magpiexyz.io/stake/0x3F5EA53d1160177445B1898afbB16da111182418) pool and calculation of pending rewards based on data from smart contracts, results fully matched with magpie dashboard; started implementation in portfolio script.
 
-2025-03-31 Mon: portfolio script: updated formatting of APR and amount fields, added pool label, deposit link, [exported](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743422366.tsv) new version. Started looking at Silo, Pendle and Beefy pools to collect rewards data in portfolio script. Added [article](https://github.com/harmony-one/shadow-scraper/blob/main/docs/uniswap_liquidity_calculation.md) on Uniswap V3 liquidity calculation with step-by-step explanation, that clarify unproportional token amounts in some edge cases. All formulas found on Uniswap V3 [docs](https://uniswapv3book.com/milestone_1/calculating-liquidity.html) page.
-
 ---
 
 2025 Q1 Review
 
 In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performance tracking across Sonic-based DeFi protocols like Silo, Shadow, and Aave, depositing funds and looking for APIs for data aggregation. I completed research on ALM (Automated Liquidity Management) protocols, identifying Gamma as optimal for dynamic volatility strategies, and shared findings with Stephen and Li. Created Shadow Exchange scraper, a set of scripts to export pool's deposits and withdrawals events from the Shadow Subgrarph to CSV, and developed scripts for TVL and APY analysis of Beefy and vfat pools. Additionally, I contributed to Pump.ONE’s client and backend updates, improving competition features and launching production services. I also started researching UniswapX, resolved deployment issues with Aaron's help, and started testing contract deployments on Harmony. My work focused on analyzing DeFi liquidity pools, validating the data, and working with the team on the analysis results.
+
+---
+
+2025-03-31 Mon: portfolio script: updated formatting of APR and amount fields, added pool label, deposit link, [exported](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1743422366.tsv) new version. Started looking at Silo, Pendle and Beefy pools to collect rewards data in portfolio script. Added [article](https://github.com/harmony-one/shadow-scraper/blob/main/docs/uniswap_liquidity_calculation.md) on Uniswap V3 liquidity calculation with step-by-step explanation, that clarify unproportional token amounts in some edge cases. All formulas found on Uniswap V3 [docs](https://uniswapv3book.com/milestone_1/calculating-liquidity.html) page.
 
 ---
 
