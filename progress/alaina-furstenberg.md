@@ -6,7 +6,7 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 
 ---
 
-2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report.  
+2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report. Continuation of animating graphics for Colossus. 
 
 ---
 
