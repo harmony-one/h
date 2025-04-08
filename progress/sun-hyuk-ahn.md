@@ -1,6 +1,4 @@
-2025 Q1 Review
-
-In Q1, I implemented EIP-1153, which introduces transient storage opcodes to reduce gas costs and improve smart contract efficiency. I also implemented EIP-2718, which standardizes transaction envelopes, allowing for easier integration of future transaction types. Additionally, I began work on EIP-2930, which introduces access lists to reduce gas costs and improve reliability for certain types of transactions. Alongside protocol work, I began transitioning into the DevOps lead role previously held by Soph. This included managing Ulad, overseeing server infrastructure, system operations, and taking on other critical DevOps responsibilities.
+2025-04-05 Mon:
 
 ---
 
@@ -11,6 +9,12 @@ In Q1, I implemented EIP-1153, which introduces transient storage opcodes to red
 2025-04-02 Wed: Rotation of all passwords and security with the change of members.
 
 2025-04-01 Tue: Finalized clean up of all services and servers. Created new Outline VPN server.
+
+---
+
+2025 Q1 Review
+
+In Q1, I implemented EIP-1153, which introduces transient storage opcodes to reduce gas costs and improve smart contract efficiency. I also implemented EIP-2718, which standardizes transaction envelopes, allowing for easier integration of future transaction types. Additionally, I began work on EIP-2930, which introduces access lists to reduce gas costs and improve reliability for certain types of transactions. Alongside protocol work, I began transitioning into the DevOps lead role previously held by Soph. This included managing Ulad, overseeing server infrastructure, system operations, and taking on other critical DevOps responsibilities.
 
 2025-03-31 Mon: Final session with Soph. 
 
