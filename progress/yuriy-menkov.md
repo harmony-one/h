@@ -11,8 +11,6 @@
 
 2025-04-01 Tue: [Added](https://github.com/potvik/shadow-scraper/commit/d04f9d8eae84ab5311cdaa37c4877e219227c136) a script for exporting burn events to determine the exact lifetime of each position, and accordingly added recalculation of the actual APR.
 
-2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
-
 ---
 
 2025 Q1 Review
@@ -24,6 +22,10 @@ Completed Unify Bridge Assets V1 feature: USDC converter contract allow converti
 Started working on Layerzero V2 bridge contract: one common contract for all tokens, dynamic addition of new tokens via contract method calls, auto deployment of token wrapper on the harmony side. Draft version is ready, currently in debugging stage. Researched options for transferring liquidity from v1 contracts to v2.
 
 Researched contracts for auto balance strategies: vfat Farm Strategy, beefy, arrakis, gamma. Created contract based on FarmStrategy with predefined parameters. The contract checks for range out-of-range and calls rebalancing methods. The goal is to collect statistics for analysis in-range fee-collecting performance in sonic mainnet.
+
+---
+
+2025-03-31 Mon: Added a script to determine the best strategies by grouping by average price and range, as well as by tick. Added calculation of the ROI parameter, total profitability and average APR. Because most of the positions are concentrated in the most profitable group, it is difficult to isolate winning strategies. Working on adding rebalancing parameters and time in the range.
 
 ---
 
