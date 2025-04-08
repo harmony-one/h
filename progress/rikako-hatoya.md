@@ -1,3 +1,7 @@
+2025-04-07 Mon: Team sync with Li, Artem, and Alaina. Looked into vfat auto-rebalancing, action items to work more closely with Artem and portfolio tracker.
+
+---
+
 2025-04-06 Sun: Started looking into verification of Euler metrics on deeper level and brainstorming of related tasks (vaults, price oracles, campaign rewards). Started working on verification of rewards on Merkle side as well as checking discrepancy of Supply APY between borrow and lending page.
 
 2025-04-05 Sat: Continuation with research on Rings assets. Further research on Euler's risks and best possible strategies.
