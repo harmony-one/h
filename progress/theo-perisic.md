@@ -1,13 +1,3 @@
-2025 Q1 Review (51h)
-
-I enhanced core DeFi infrastructure by implementing [Lend](https://lend.harmony.one/) contract updates (closefactormantissa, liquidationincentivemantissa) enabling liquidations and improving stability againts bad debt. I developed the Yield Boost frontend and [added details](https://github.com/harmony-one/yield-enhancer/compare/main...ONETheo:yield-enhancer-1:patch-2) (targeting 15%+ stablecoin APY), [contributed code](https://github.com/harmony-one/pump.fun.client/pull/17) and user-driven strategy to Pump.ONE's dual-launch system, and designed the initial [universal bridge UI](https://github.com/harmony-one/usdc-converter/pull/1) to eliminate USDC fragmentation into unified USDC.e.
-
-I led the strategic 0x prioritization initiative to resolve our top user onboarding friction point via seamless address compatibility. I researched Loss-Versus-Rebalancing (LVR) for optimized liquidity strategies and built custom SQL queries for accurate on-chain TVL and fee tracking. I resolved CoinMarketCap supply data issues bringing our untracked reporting from 2.65B to 0. Sonic ecosystem analysis led to critical feature potential comparing industry leading rebalancing tools like [vfat.io](https://vfat.io), tracking revealed 50%+ of APY values for various pools come from artificial incentivized yields, confirming a market opportunity for simplified DeFi.
-
-Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](https://www.coingecko.com/en/categories/made-in-usa) category listing on CoinGecko and [perpetual futures for ONE](https://pro.kraken.com/app/trade/futures-one-usd-perp) on Kraken, further increasing market access.
-
----
-
 2025-04-07 Mon: Alignment for Q2 moving forward and Q1 review. Main push for yield earnings, prioritizing tooling for optimized liquidity provisions. Using coingecko api to track 100 daily, 100 hourly prices for historical volatility necessary for realtime volatility estimations.
 
 ---
@@ -22,6 +12,18 @@ Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](htt
 2025-04-02 Wed: Sync with Li covering BTC yields and breakdown of leverage looping within Euler. Troubleshooting Claude API for Harmony1Bot.
 
 2025-04-01 Tue: Sync with Philipp for portfolio manager and DeFi products. Troubleshooting Q1 review copy with Alaina. Answered community questions regarding Soph’s farewell.
+
+---
+
+2025 Q1 Review (51h)
+
+I enhanced core DeFi infrastructure by implementing [Lend](https://lend.harmony.one/) contract updates (closefactormantissa, liquidationincentivemantissa) enabling liquidations and improving stability againts bad debt. I developed the Yield Boost frontend and [added details](https://github.com/harmony-one/yield-enhancer/compare/main...ONETheo:yield-enhancer-1:patch-2) (targeting 15%+ stablecoin APY), [contributed code](https://github.com/harmony-one/pump.fun.client/pull/17) and user-driven strategy to Pump.ONE's dual-launch system, and designed the initial [universal bridge UI](https://github.com/harmony-one/usdc-converter/pull/1) to eliminate USDC fragmentation into unified USDC.e.
+
+I led the strategic 0x prioritization initiative to resolve our top user onboarding friction point via seamless address compatibility. I researched Loss-Versus-Rebalancing (LVR) for optimized liquidity strategies and built custom SQL queries for accurate on-chain TVL and fee tracking. I resolved CoinMarketCap supply data issues bringing our untracked reporting from 2.65B to 0. Sonic ecosystem analysis led to critical feature potential comparing industry leading rebalancing tools like [vfat.io](https://vfat.io), tracking revealed 50%+ of APY values for various pools come from artificial incentivized yields, confirming a market opportunity for simplified DeFi.
+
+Efforts also boosted Harmony's market presence. Securing the ['Made in USA'](https://www.coingecko.com/en/categories/made-in-usa) category listing on CoinGecko and [perpetual futures for ONE](https://pro.kraken.com/app/trade/futures-one-usd-perp) on Kraken, further increasing market access.
+
+---
 
 2025-03-31 Mon: Iterating on simple DeFi product offering. Insight: [defi.app](https://defi.app) includes all DeFi aspects people want, most still coming soon and unreleased, but this direct offering of all features scares users away. Goal should be to abstract difficulties from users, only showing yields based on their risk tolerance and optimizing their positions accordingly, no manual selection unless configured in settings.
 
