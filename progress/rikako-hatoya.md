@@ -14,24 +14,6 @@
 
 2025-04-01 Tue: Started compiling a summary document listing all features of euler. Researched and summarized liquidation/penalties, etc and now researching strategies. Summarization on docs for past exploits and analysis of best leverage ratios
 
-2025-03-31 Mon: Sync with Li, came up with goal to master Euler this week, specifically focusing on liquidation/leverage/penalties. Started looking into those as well as strategies and their github repo with implementation.
-
----
-
-2025-03-30 Sun: Continued with checking calculation for APY (10% difference). Also continued catching up with looking through Yuriy/Artem's /progress.
-
-2025-03-29 Sat: Started looking into Lending APY + Max ROE discrepancy between my subgraph and Euler front-end. Also searching for MEV Capital PT-wstkscUSD.
-
-2025-03-28 Fri: Continued with USDC.e-scUSD on Euler: fixed some minor calculations for metrics as well as big findings on Euler's calculation method for "Available Liquidity" by extensive trial and error to match metrics (all metrics match except for "Max ROE" remains but perhaps not so worrysome due to formula causing big fluctuations with slight value difference.) Added detailed readme and pushed to repo [here](https://github.com/rikaa15/euler-usdce-scusd), and published newest version (v0.0.34) to subgraph [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one).
-
-2025-03-27 Thu: Continued with USDC.e-scUSD on Euler: implemented and updated calculation for all metrics (Max ROE, Supply APY, etc) on Euler, debugged errors caused by mapping.ts, added new query method "market", updated deploy [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one), and pushed code [here](https://github.com/rikaa15/euler-usdce-scusd). Currently, the big problem is rewards APY calculation: there's two rewards (lending and Merkl campaign), and Merkl rewards are calculated off-chain with Merkl API (as a total sum of all campaigns), in which case we need to either partially do this off-chain or if we want to completely use subgraph, we need to deploy a rewards oracle contract to listen on-chain, will think through and work on this tomorrow.
-
-2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
-
-2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
-
-2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
-
 ---
 
 2025 Q1 Review
@@ -50,6 +32,26 @@ My most impactful work was developing a repo to extract top profiters from any p
  - (old) [Sonic Yield Platforms Research](https://github.com/harmony-one/h/blob/main/docs/sonic-fantom.md)
  - [PR for bridge asset (AERO)](https://github.com/harmony-one/layerzero-bridge.frontend/pull/27)
  - (personal learning) [Mathematics in Lean Workbook](https://github.com/rikaa15/mathematics_in_lean)
+
+---
+
+2025-03-31 Mon: Sync with Li, came up with goal to master Euler this week, specifically focusing on liquidation/leverage/penalties. Started looking into those as well as strategies and their github repo with implementation.
+
+---
+
+2025-03-30 Sun: Continued with checking calculation for APY (10% difference). Also continued catching up with looking through Yuriy/Artem's /progress.
+
+2025-03-29 Sat: Started looking into Lending APY + Max ROE discrepancy between my subgraph and Euler front-end. Also searching for MEV Capital PT-wstkscUSD.
+
+2025-03-28 Fri: Continued with USDC.e-scUSD on Euler: fixed some minor calculations for metrics as well as big findings on Euler's calculation method for "Available Liquidity" by extensive trial and error to match metrics (all metrics match except for "Max ROE" remains but perhaps not so worrysome due to formula causing big fluctuations with slight value difference.) Added detailed readme and pushed to repo [here](https://github.com/rikaa15/euler-usdce-scusd), and published newest version (v0.0.34) to subgraph [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one).
+
+2025-03-27 Thu: Continued with USDC.e-scUSD on Euler: implemented and updated calculation for all metrics (Max ROE, Supply APY, etc) on Euler, debugged errors caused by mapping.ts, added new query method "market", updated deploy [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one), and pushed code [here](https://github.com/rikaa15/euler-usdce-scusd). Currently, the big problem is rewards APY calculation: there's two rewards (lending and Merkl campaign), and Merkl rewards are calculated off-chain with Merkl API (as a total sum of all campaigns), in which case we need to either partially do this off-chain or if we want to completely use subgraph, we need to deploy a rewards oracle contract to listen on-chain, will think through and work on this tomorrow.
+
+2025-03-26 Wed: Sync with Li, look into aUSDC on pendle, catch up with past few weeks of Artem/Yuriy/Frank's progress. Created subgraphs for USDC.e-scUSD (eg. vault address), and investigating query methods for verifying metrics.
+
+2025-03-25 Tue: Started looking into Pendle Finance. Also started working on verification of data with subgraph.
+
+2025-03-24 Mon: Analysis of top rewards for pools on shadow. Back to research for on-chain logic, strategies contracts.
 
 ---
 
