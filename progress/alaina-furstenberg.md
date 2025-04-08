@@ -1,12 +1,4 @@
-2025 Q1 Review
-
-This quarter, I focused on DeFi testing for /wealth, AI-driven content creation, and product marketing strategy. I researched cross-chain swaps, concentrated liquidity, and DeFi rebalancing, documenting my findings on /wealth. I refined my workflow with AI tools like Sora, Pika, and MidJourney, developed detailed marketing plans for five products, and designed animations and graphics for Pump.ONE, exchange.ONE, boostDAI, and other ecosystem initiatives. My content efforts included writing newsletters, generating AI-powered podcast summaries via NotebookLM, and producing Twitter threads covering team progress and ecosystem developments.
-
-On X, I strengthened co-marketing efforts through collaborations with HeyEddie, CryptoLand_DAO, FlappyH1, KrakenPro, and Band Protocol. Q1 performance on X: 895.3k impressions (-7%), 49.6k total engagements (+6%), 18.6k likes (+16%), and 4.1k reposts (+30%). 
-
----
-
-2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report. Continuation of animating graphics for Colossus. 
+ 2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report. Continuation of animating graphics for Colossus. 
 
 ---
 
@@ -21,6 +13,17 @@ On X, I strengthened co-marketing efforts through collaborations with HeyEddie, 
 2025-04-02 Wed: Research + writing of [thread on Rho](https://x.com/harmonyprotocol/status/1907564176677200120). Testing of Jeet games (lottery + slot) + [announcement](https://x.com/harmonyprotocol/status/1907570159554052237) of launch. Insights: Really fun to play low wager games like slots on Harmony. I've seen this GameFi concept successfully executed on other chains, so I'm excited it's live on Harmony!
 
 2025-04-01 Tue: Corrections to the Q1 newsletter, adding content to summarize the weekly progress throughout March. Editing, uploading, and designing thumbnail for the [combined Q1 videos](https://x.com/harmonyprotocol/status/1907184546044678505). Editing of photo of Soph + writing of farewell tweet [posted to X](https://x.com/harmonyprotocol/status/1907194255942271135). Research on PumpSwap and writing of a [thread](https://x.com/harmonyprotocol/status/1907145055338639599). Insights: PumpSwap shows how DeFi apps are growing up—owning more of the stack to give users and creators more control and better tools.
+
+---
+
+2025 Q1 Review
+
+This quarter, I focused on DeFi testing for /wealth, AI-driven content creation, and product marketing strategy. I researched cross-chain swaps, concentrated liquidity, and DeFi rebalancing, documenting my findings on /wealth. I refined my workflow with AI tools like Sora, Pika, and MidJourney, developed detailed marketing plans for five products, and designed animations and graphics for Pump.ONE, exchange.ONE, boostDAI, and other ecosystem initiatives. My content efforts included writing newsletters, generating AI-powered podcast summaries via NotebookLM, and producing Twitter threads covering team progress and ecosystem developments.
+
+On X, I strengthened co-marketing efforts through collaborations with HeyEddie, CryptoLand_DAO, FlappyH1, KrakenPro, and Band Protocol. Q1 performance on X: 895.3k impressions (-7%), 49.6k total engagements (+6%), 18.6k likes (+16%), and 4.1k reposts (+30%).
+
+
+---
 
 2025-03-31 Mon: Finalization of the [Q1 newsletter](https://blog.harmony.one/p/q1-on-harmony-foundations-for-simple) plus [thread on X](https://x.com/harmonyprotocol/status/1906841502162231507). Creation of a podcast for Youtube on NotebookLM. Writing of content on X for UniQ, on Messari, and on Cryptoland_DAO. 
 
