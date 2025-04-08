@@ -1,3 +1,11 @@
+2025-4-8 Tue (1.7h+): Detailed evaluation of Socket technical integration documentation. Review and simplify bridge frontend code
+
+2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability
+
+---
+
+2025-4-6 Sun (4h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies
+
 2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements 
 
 2025-4-3 Thu (4.8h): Resaerch on Euler strategies submission and governance process, past proposals. Research on stablecoin pair DEX yield performance and correlations. Research on Shadow staking downsides. Research on Penpie. Discussions on strategies performance, expectations, stablecoin risks. Research on stablecoin short and hedge strategies and risk mitigated
