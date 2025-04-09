@@ -4,9 +4,9 @@
 
 ---
 
-2025-04-06 Sun: Started looking into verification of Euler metrics on deeper level and brainstorming of related tasks (vaults, price oracles, campaign rewards). Started working on verification of rewards on Merkle side as well as checking discrepancy of Supply APY between borrow and lending page.
+2025-04-06 Sun (3.0h): Started looking into verification of Euler metrics on deeper level and brainstorming of related tasks (vaults, price oracles, campaign rewards). Started working on verification of rewards on Merkle side as well as checking discrepancy of Supply APY between borrow and lending page.
 
-2025-04-05 Sat: Continuation with research on Rings assets. Further research on Euler's risks and best possible strategies.
+2025-04-05 Sat (1.5h): Continuation with research on Rings assets. Further research on Euler's risks and best possible strategies.
 
 2025-04-04 Fri: Watching of beating the stock market youtube video. Continuation of Euler summary to present as deliverables.
 
@@ -41,9 +41,9 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
-2025-03-30 Sun: Continued with checking calculation for APY (10% difference). Also continued catching up with looking through Yuriy/Artem's /progress.
+2025-03-30 Sun (3.0h): Continued with checking calculation for APY (10% difference). Also continued catching up with looking through Yuriy/Artem's /progress.
 
-2025-03-29 Sat: Started looking into Lending APY + Max ROE discrepancy between my subgraph and Euler front-end. Also searching for MEV Capital PT-wstkscUSD.
+2025-03-29 Sat (1.5h): Started looking into Lending APY + Max ROE discrepancy between my subgraph and Euler front-end. Also searching for MEV Capital PT-wstkscUSD.
 
 2025-03-28 Fri: Continued with USDC.e-scUSD on Euler: fixed some minor calculations for metrics as well as big findings on Euler's calculation method for "Available Liquidity" by extensive trial and error to match metrics (all metrics match except for "Max ROE" remains but perhaps not so worrysome due to formula causing big fluctuations with slight value difference.) Added detailed readme and pushed to repo [here](https://github.com/rikaa15/euler-usdce-scusd), and published newest version (v0.0.34) to subgraph [here](https://thegraph.com/explorer/subgraphs/6v4FYePDBWG5rWEd4KFpVWKAeKA7fPSLdSCQA6FrqWj9?view=Query&chain=arbitrum-one).
 
@@ -57,9 +57,9 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
-2025-03-23 Sun: Continuation of rewards of top pools on Shadow. Calculation of anualized yield of vfat.
+2025-03-23 Sun (2.5h): Continuation of rewards of top pools on Shadow. Calculation of anualized yield of vfat.
 
-2025-03-22 Sat: Testing of [gaugeRewardsClaims()](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration/graphql?query=%7B%0A++gaugeRewardClaims%28%0A++++first%3A1000%2C%0A++++where%3A%7B%0A++++++transaction_%3A+%7B%0A++++++++from%3A%220x4E430992Db6F3BdDbC6A50d1513845f087E9af4A%22%2C%0A++++++%7D%0A++++%7D%0A++++orderBy%3Atransaction__blockNumber%0A++++orderDirection%3Adesc%0A++%29+%7B%0A++++id%0A++++gauge+%7B+clPool+%7B+id+symbol+%7D+%7D%0A++++transaction+%7B+id+from+%7D%0A++++nfpPositionHash%0A++++rewardToken+%7B+id+symbol+%7D%0A++++rewardAmount%0A++++period%0A++++timestamp%0A++%7D%0A%7D) found by Yuriy, and gauges() epochRewards to see if of any use. Started working on task from Tuesday's meeting with Theo & Frank - rewards ranking for top pools on shadow.
+2025-03-22 Sat (2.0h): Testing of [gaugeRewardsClaims()](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration/graphql?query=%7B%0A++gaugeRewardClaims%28%0A++++first%3A1000%2C%0A++++where%3A%7B%0A++++++transaction_%3A+%7B%0A++++++++from%3A%220x4E430992Db6F3BdDbC6A50d1513845f087E9af4A%22%2C%0A++++++%7D%0A++++%7D%0A++++orderBy%3Atransaction__blockNumber%0A++++orderDirection%3Adesc%0A++%29+%7B%0A++++id%0A++++gauge+%7B+clPool+%7B+id+symbol+%7D+%7D%0A++++transaction+%7B+id+from+%7D%0A++++nfpPositionHash%0A++++rewardToken+%7B+id+symbol+%7D%0A++++rewardAmount%0A++++period%0A++++timestamp%0A++%7D%0A%7D) found by Yuriy, and gauges() epochRewards to see if of any use. Started working on task from Tuesday's meeting with Theo & Frank - rewards ranking for top pools on shadow.
 
 2025-03-21 Fri: Continued with subgraph weekly reward calculation. Values on vfat are very off compared to transaction data, investigating their calculation method.
 
@@ -74,9 +74,9 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
-2025-03-16 Sun: Continuation of vfat/Q1 summary. Looked into Metropolis Exchange.
+2025-03-16 Sun (2.0h): Continuation of vfat/Q1 summary. Looked into Metropolis Exchange.
 
-2025-03-15 Sat: Continued work on vfat stats verification. Also continued with Q1 progress review draft.
+2025-03-15 Sat (3.5h): Continued work on vfat stats verification. Also continued with Q1 progress review draft.
 
 2025-03-14 Fri: Researching where vfat is pulling their numbers (TVL, etc) from, and look into calculation to observe where discrepancies between Shadow are coming from. Further worked on Q1 summary, and also started looking into other platforms for top wallet analysis (silo, rings, beets.)
 
@@ -90,9 +90,9 @@ My most impactful work was developing a repo to extract top profiters from any p
 
 ---
 
-2025-03-09 Sun: Continuation of strategy logic. Checking of dune queries.
+2025-03-09 Sun (3.0h): Continuation of strategy logic. Checking of dune queries.
 
-2025-03-08 Sat: Continued strategy analysis on shadow. Looking into frequency of rebalancing for top wallets.
+2025-03-08 Sat (5.0h): Continued strategy analysis on ShadowX. Looking into frequency of rebalancing for top wallets.
 
 2025-03-07 Fri: Looked into shadow scraper, and investigated if there are ways to calculate rewards from there. Continued looking into sickle and strategies logic.
 
@@ -108,9 +108,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-03-02 Sun: Started looking into Subgraph to get definitive statistics and data for shadowx. Read defi platforms comparison and looked into vfat.io.
+2025-03-02 Sun (3.0h): Started looking into Subgraph to get definitive statistics and data for ShadowX. Read defi platforms comparison and looked into vfat.io.
 
-2025-03-01 Sat: Started working on calculating shadowx fees/rewards. Also started looking into yield analytics and research on strategies for most profitable LP.
+2025-03-01 Sat (3.5h): Started working on calculating ShadowX fees/rewards. Also started looking into yield analytics and research on strategies for most profitable LP.
 
 2025-02-28 Fri: Looked into Dune Analytics and played around with queries/tables for SwapX, Shadow, Beets/Beethoven, Sonic, Euler Finance, and WAGMI. Estimated incentives for top pools on Sonic by gathering data from Dune, Graph Explorer, SonicScan and compiled summary into [docs](https://docs.google.com/document/d/1Y-DFZ-a0Fjz25IjB_C6IN0MajVd3JcH5EHOxDNfVTvQ/edit?usp=sharing).
 
@@ -124,9 +124,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-02-23 Sun: Continued Silo. Started looking into Sonic and Phantom.
+2025-02-23 Sun (1.5h): Continued Silo. Started looking into Sonic and Phantom.
 
-2025-02-22 Sat: Started exploring Silo Labs. Played around with Silo Finance V2.
+2025-02-22 Sat (1.0h): Started exploring Silo Labs. Played around with Silo Finance V2.
 
 2025-02-21 Fri: Continued looking into unified bridge assets. Looked more into how to automate adding brdiged assets.
 
@@ -140,9 +140,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-02-16 Sun: Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
+2025-02-16 Sun (2.0h): Started looking into Unify Bridge Assets repo. Reading into Yuriy's progress updates and Unify Bridge Assets documentation.
 
-2025-02-15 Sat: Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
+2025-02-15 Sat (3.0h): Looked through bridge-add-token documentation. Worked on bridge contracts for wrapped assets on Remix.
 
 2025-02-14 Fri: Continued reading through/researching relevant links+products mentioned in fat wallet thesis. Started working on bridge contracts.
 
@@ -175,9 +175,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-02-02 Sun: Continued scoping out for FLT, and understanding of tasks. A little bit of more work on testing olympiad with deepseek.
+2025-02-02 Sun (2.5h): Continued scoping out for FLT, and understanding of tasks. A little bit of more work on testing olympiad with deepseek.
 
-2025-02-01 Sat: Tidied lean repo in preparation for push. Look into Open-AI o3 mini.
+2025-02-01 Sat (1.0h): Tidied lean repo in preparation for push. Look into Open-AI o3 mini.
 
 2025-01-31 Fri: Finished Lean chapter 12. Started looking through details of each of the unclaimed tasks on FLT.
 
@@ -191,9 +191,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-01-26 Sun: Look into Deepseek AI models. Chapter 10 Mathematics in Lean.
+2025-01-26 Sun (1.5h): Look into Deepseek AI models. Chapter 10 Mathematics in Lean.
 
-2025-01-25 Sat: Continued tutorial for Mathematics in Lean (Chapter 9/10). Read on the year ahead for infra (delphi digital).
+2025-01-25 Sat (2.0h): Continued tutorial for Mathematics in Lean (Chapter 9/10). Read on the year ahead for infra (delphi digital).
 
 2025-01-24 Fri: In-person team sync. Continued tutorial for Mathematics in Lean (Chapter 9).
 
@@ -207,9 +207,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 
 ---
 
-2025-01-19 Sun: Continued work on Lean, uploaded work [here](https://github.com/rikaa15/mathematics_in_lean) (up to chap 6). Started looking into Buzzard's FLT project (reading through [paper](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)).
+2025-01-19 Sun (3.5h): Continued work on Lean, uploaded work [here](https://github.com/rikaa15/mathematics_in_lean) (up to chap 6). Started looking into Buzzard's FLT project (reading through [paper](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)).
 
-2025-01-18 Sat: Continuation of work on Lean. Worked throug exercises for mathematics in Lean textbook.
+2025-01-18 Sat (1.5h): Continuation of work on Lean. Worked through exercises for mathematics in Lean textbook.
 
 2025-01-17 Fri: Continuation of AI for math. Product testing for next launch idea.
 
@@ -238,9 +238,9 @@ Continued research on Sonic: test transaction on ShadowX, looked into top wallet
 2025-01-06 Mon: Continue work on /math. Looked into links and researched on AGI-* for Formal Math n Proof Code.
 
 ---
-2025-01-05 Sun: Further work on cloning lean 4 repo.
+2025-01-05 Sun (1.0h): Further work on cloning lean 4 repo.
 
-2025-01-04 Sat: Continued readings on Lean.
+2025-01-04 Sat (1.0h): Continued readings on Lean.
 
 2025-01-03 Fri: Continued research on AI models for Putnam. Further look into lean 4.
 
@@ -276,11 +276,11 @@ Additionally, I delved into the emerging AI agent ecosystem, testing platforms s
 
 ---
 
-2024-12-29 Sun: Research on AWS's open source projects adopting Lean. Looked into AILean, Cedar, LNSym, and Sampcert.
+2024-12-29 Sun (1.5h): Research on AWS's open source projects adopting Lean. Looked into AILean, Cedar, LNSym, and Sampcert.
 
-2024-12-28 Sat: Started looking into AGI for Math. Math.country, machine assisted proofs, AI models for Putnam, proof steps.
+2024-12-28 Sat (1.5h): Started looking into AGI for Math. Math.country, machine assisted proofs, AI models for Putnam, proof steps.
 
-2024-12-27 Fri: Furtehr continued with Eliza/@jensenxcountry. 
+2024-12-27 Fri: Further continued with Eliza/@jensenxcountry. 
 
 2024-12-26 Thu: Looked into setting up Eliza agent for our twitter. Also worked on revising 2025 goals in respect to AI agents, continued more research.
 
