@@ -1,3 +1,5 @@
+2025-04-08 Tue: Implemented subgraph's pagination system for comprehensive data retrieval beyond 1000-row limit with TSV file export functionality via local storage. Integrated Coingecko API for real-time Pendle token price fetching to enable accurate APR calculations. Began SY rewards integration to expand yield analysis capabilities with Standard Yield information for complete protocol reward tracking.
+
 2025-04-07 Mon: Expanded Pendle/Sonic subgraph capabilities with [GaugeController contract events tracking](https://github.com/harmony-one/pendle-sonic-rewards/pull/3), implementing MarketClaimReward and UpdateMarketReward event handlers. Enhanced market metadata retrieval logic for PT, YT and ST contract address resolution. Developed script for querying and displaying market claimed rewards.
 
 ___
