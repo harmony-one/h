@@ -1,3 +1,5 @@
+2025-04-08 Tue: Completed optimization backtesting framework for USD* pool parameters. The [repo](https://github.com/ONETheo/liquidity-pool-optimizer) now provides comprehensive simulation capabilities for liquidity provisioning strategies, including width, buffer, and cutoff parameter optimization.
+
 2025-04-07 Mon: Alignment for Q2 moving forward and Q1 review. Main push for yield earnings, prioritizing tooling for optimized liquidity provisions. Using coingecko api to track 100 daily, 100 hourly prices for historical volatility necessary for realtime volatility estimations.
 
 ---
