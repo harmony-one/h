@@ -1,3 +1,5 @@
+2025-04-08 Tue: Work on verification of Euler rewards (previously 10%~ discrepancy). Work on subgraph to verify Merkl rewards by multiple methods (1d, 7d, 1m).
+
 2025-04-07 Mon: Team sync with Li, Artem, and Alaina. Looked into vfat auto-rebalancing, action items to work more closely with Artem and portfolio tracker.
 
 ---
