@@ -1,3 +1,5 @@
+2025-04-10 Thu: Review of /p formatting. Reading and writing [thread](https://www.paradigm.xyz/2024/05/the-edges-of-finance) on "The Edges of Finance". Reading and writing a thread on "Why Google Has So Many Half-Baked AI Products". Insights: Google has an innovation first mindset while Apple has a user first mindset. Thinking of the user needs first (before just showcasing cool tech) is a stronger method to connecting with your use base.
+
 2025-04-09 Wed: [Thread](https://x.com/harmonyprotocol/status/1910058615492530181) on Berachain. Review of the Harmony x Colossus Integration. Insights: This integration gives ONE greater exposure by making it accessible to institutions through trusted custody platforms like Fireblocks, Ledger, and DFNS.
 
 2025-04-08 Tue: Research and wrote [thread](https://x.com/harmonyprotocol/status/1909686036277739543) on the Big Basis Trade. Insights: The basis trade has quietly become one of the biggest hidden risks in the market—$800B of leveraged exposure that can shake both bonds and stocks when it unwinds. Revisions to the Colossus animation. 
