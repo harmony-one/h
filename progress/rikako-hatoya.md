@@ -1,3 +1,5 @@
+2025-04-09 Wed: Forked Artem’s portfolio tracker, looked into [Euler](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/euler), worked on adding token rewards calculation - added function fetch all active campaign IDs on Euler vault, fetching user’s claimed/pending rewards, wS-USD conversion, and added node test script. Currently, the problem is Merkl API has time lag and will not give live updates - `RewardDistributed` logs only fire when tokens are claimed, currently working on debugging.
+
 2025-04-08 Tue: Work on verification of Euler rewards (previously 10%~ discrepancy). Work on subgraph to verify Merkl rewards by multiple methods (1d, 7d, 1m).
 
 2025-04-07 Mon: Team sync with Li, Artem, and Alaina. Looked into vfat auto-rebalancing, action items to work more closely with Artem and portfolio tracker.
