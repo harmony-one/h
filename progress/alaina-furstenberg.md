@@ -1,4 +1,8 @@
- 2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report. Continuation of animating graphics for Colossus. 
+2025-04-09 Wed: [Thread](https://x.com/harmonyprotocol/status/1910058615492530181) on Berachain. Review of the Harmony x Colossus Integration. Insights: This integration gives ONE greater exposure by making it accessible to institutions through trusted custody platforms like Fireblocks, Ledger, and DFNS.
+
+2025-04-08 Tue: Research and wrote [thread](https://x.com/harmonyprotocol/status/1909686036277739543) on the Big Basis Trade. Insights: The basis trade has quietly become one of the biggest hidden risks in the market—$800B of leveraged exposure that can shake both bonds and stocks when it unwinds. Revisions to the Colossus animation. 
+
+2025-04-07 Mon: Meeting with Li, Artem, and Rika. Action items: Create twitter content related to Artem's portfolio and impermanent loss report. Continuation of animating graphics for Colossus. 
 
 ---
 
