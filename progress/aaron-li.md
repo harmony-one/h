@@ -1,7 +1,5 @@
 2025-4-11 Fri (0.0h): 
 
-2025-4-2 Wed (2.7h): Review BTC yield pairs and suggestions, stablecoin pool performance on Shadow
-
 2025-4-1 Tue (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs
 
 2025-3-31 Mon (5.3h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability
