@@ -1,7 +1,5 @@
 2025-4-11 Fri (0.0h): 
 
----
-
 2025-3-30 Sun (5.5h): Research on Lombard, LayerZero bridging security parameters, Silo, Silo vs Euler analysis, DIA oracle, Beets, Stability, Sommelier
 
 2025-3-29 Sat (7.5h): Deep dive on Magpie, Euler vaults, review Beefy stablecoin pairs, vaults with unusual performance, and aUSDC
