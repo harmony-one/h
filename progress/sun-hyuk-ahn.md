@@ -1,3 +1,11 @@
+---
+
+2025-04-09 Fri: (Update methods and structs that depends on the previous transaction).
+
+2025-04-08 Thu: Began updating methods and structs that depended on the previous transaction. Will continue working on this tomorrow.
+
+2025-04-07 Wed: Updated transaction struct to utilize interface rather than structs, allowing for implementation of various transactions.
+
 2025-04-06 Tue: Cleaned up servers on cloud providers. Continued Eip-2930 implementation from previously left off.
 
 2025-04-05 Mon: Audited user access logs and server lists. Updated Watchdog, and corresponding script with the upcoming hard fork and member change.
