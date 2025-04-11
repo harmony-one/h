@@ -1,5 +1,11 @@
 
-2025-04-08 Mon: Finished a script for loading data and calculating the parameters of impermanent Loss percent and short term volatility percent. Working on wrapping the script in the nestjs service with an api to be able to make requests to custom pools in real time.
+2025-04-10 Thu: Worked on linking historical shadow exchange positions to vfat strategies, mainly by checking for the SickleDepositedNft event in position creation [transactions](https://sonicscan.org/tx/0x4eb38e38c893d49636b0ccbf23b684d313059920a3b830a5b49caa16fea5bc81#eventlog#29) or mapping NftSettingsSet events from the NftSettingsRegistry [contract](https://sonicscan.org/address/0xb7190708356b592cdaa0082e15a43baa983cb72c) by tokenId. This will let us group positions by wallet and strategy parameters like cutoff and buffer. Building scripts to load event data and refresh the stats.
+
+2025-04-09 Wed: Researched issues with performance limitations of the shadow-pool-analytics application on fly.io, configured the deployment. Switching to vfat contract analysis and searching for a subgraph or writing a custom event listener to bind vfat parameters (cutoff / buffer) to positions and generate general statistics.
+
+2025-04-08 Tue: [Completed](https://github.com/harmony-one/shadow-pool-analytics) shadow pool analytics service for receiving full statistics on positions (including impermanent losses) and wallets in real time. Added swagger on developed APIs (by position, by wallet, general list etc). Working on optimization: due to the fact that the analysis of the entire pool of about 10 thousand positions takes up too many processor resources fly.io
+
+2025-04-07 Mon: Finished a script for loading data and calculating the parameters of impermanent Loss percent and short term volatility percent. Working on wrapping the script in the nestjs service with an api to be able to make requests to custom pools in real time.
 
 ---
 
