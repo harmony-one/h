@@ -1,3 +1,15 @@
+2025-04-11 Fri:
+
+From the operational side, I've shared the Harmony archival mainnet db with pinax.network, helped one of validator users with his setup and added the [hint](https://docs.harmony.one/home/network/validators/node-setup/generating-a-bls-key#configuring-the-bls-keys) in our official documentation about the user problem and, finally, explained to one of validators why there is an alarm icon in the Metamask on the staking website - it was just a fresh UI/UX improvement from Metamask team.
+
+From the testing side, I was checking the state of the go 1.24.2 update and found 2 problems:
+* view change that occurs time to time only on the epoch change - shared details with Konstantin
+* [bootnode restart is crashing leveldb](https://github.com/harmony-one/harmony/issues/4883) - created the issue and shared details with Gheis
+
+As part of my on-call activities, I've improved our `check the peer state` dashboard in Grafana with possibility to filter by shard and see the whole shard performance. Main advantage: I was able to spot 2 validator having a low performance as leaders and already contacted them about their hardware setup.
+
+---
+
 2025-04-04 Fri:
 
 This week was a great one in all work aspects.
@@ -7,7 +19,7 @@ And [I've also fixed 3rd party dependency](https://github.com/harmony-one/harmon
 
 Ops topic - [new VPN server](https://github.com/harmony-one/harmony-ops-priv/issues/262), I've finished setup and monitoring to it.
 
-For the testing, I've updated devnet and testnet with golang 1.24 version and will do a regression testing at the begging of the following week.
+For the testing, I've updated devnet and testnet with golang 1.24 version and will do a regression testing at the beginning of the following week.
 
 ---
 
