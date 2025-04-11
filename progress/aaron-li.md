@@ -8,6 +8,8 @@
 
 2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
 
+---
+
 2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
 
 2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
@@ -19,6 +21,8 @@
 2025-4-1 Tue (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs.
 
 2025-3-31 Mon (5.2h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability.
+
+---
 
 2025-3-30 Sun (5.5h): Research on Lombard, LayerZero bridging security parameters, Silo, Silo vs Euler analysis, DIA oracle, Beets, Stability, Sommelier
 
