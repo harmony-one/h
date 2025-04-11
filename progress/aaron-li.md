@@ -1,7 +1,5 @@
 2025-4-11 Fri (0.0h): 
 
-2025-4-3 Thu (4.8h): Resaerch on Euler strategies submission and governance process, past proposals. Research on stablecoin pair DEX yield performance and correlations. Research on Shadow staking downsides. Research on Penpie. Discussions on strategies performance, expectations, stablecoin risks. Research on stablecoin short and hedge strategies and risk mitigated
-
 2025-4-2 Wed (2.7h): Review BTC yield pairs and suggestions, stablecoin pool performance on Shadow
 
 2025-4-1 Tue (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs
