@@ -1,7 +1,5 @@
 2025-4-11 Fri (0.0h): 
 
-2025-3-31 Mon (5.3h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability
-
 ---
 
 2025-3-30 Sun (5.5h): Research on Lombard, LayerZero bridging security parameters, Silo, Silo vs Euler analysis, DIA oracle, Beets, Stability, Sommelier
