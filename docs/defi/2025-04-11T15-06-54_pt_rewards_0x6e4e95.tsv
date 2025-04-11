@@ -1,0 +1,21 @@
+# Pendle PT Rewards Report
+# Generated: 2025-04-11T15:06:55.835Z
+# Market: 0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa (PT-wstkscUSD-29MAY2025)
+# 
+# Principal Token: PT-wstkscUSD-29MAY2025 (0xBe27993204Ec64238F71A527B4c4D5F4949034C3)
+# Standardized Yield: SY-wstkscUSD (0x896f4D49916aC5cfC36d7a260a7039ba4Ea317b6)
+# Yield Token: YT-wstkscUSD-29MAY2025 (0xdCad0f3992A72eA0Ce5eb703293a353249C0a76F)
+# 
+# Implied Rate (annualized): 8.65%
+# Calculated Fixed APY: 8.65%
+# PT Price (calculated): 0.988894
+# Maturity Date: 2025-05-28 (47.37 days remaining)
+# 
+# User holds 4.415267 PT-wstkscUSD-29MAY2025
+# Estimated Initial Value: $4.3635
+# Current Value: $4.3662
+# Value at Maturity: $4.4153
+# Projected Gain: $0.0517 (1.19%)
+# 
+Market Address	PT Symbol	Maturity Date	Days To Maturity	PT Price	PT Balance	Estimated Purchase Price	Deposit Amount	Implied Rate (%)	Fixed APY (%)	Current Value	Value at Maturity	Projected Gain (%)
+0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa	PT-wstkscUSD-29MAY2025	2025-05-28	47.37	0.988894	4.415267	0.988284	4.36354	8.65	8.65	4.3662	4.4153	1.19
