@@ -1,26 +1,22 @@
-2025-4-10 Thu (7.3h+): Experiment with hedged stablecoin strategies. Research on options for stablecoin derivatives.
+2025-4-10 Thu (7.3h): Experiment with hedged stablecoin strategies. Research on options for stablecoin derivatives.
 
-2025-4-9 Wed (6.8h+): Evaluate Ethena stablecoin risks, strategies, and option trading platforms. Debug, review, and test AI generated tools for auto-syncing work log.
+2025-4-9 Wed (6.8h): Evaluate Ethena stablecoin risks, strategies, and option trading platforms. Debug, review, and test AI generated tools for auto-syncing work log.
 
-2025-4-8 Tue (3.4h+): Review bridge code simplification plan and staking dashboard walletconnect patch, and discuss with engineers. Detailed evaluation of Socket technical integration documentation. Review and simplify bridge frontend code.
+2025-4-8 Tue (3.4h): Review bridge code simplification plan and staking dashboard walletconnect patch, and discuss with engineers. Detailed evaluation of Socket technical integration documentation. Review and simplify bridge frontend code.
 
-2025-4-7 Mon (7.6h+): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
+2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
 
-2025-4-6 Sun (4.0h+): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
+2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
 
-2025-4-5 Sat (0.0h+): 
+2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
 
-2025-4-4 Fri (6.3h+): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
+2025-4-3 Thu (4.8h): Resaerch on Euler strategies submission and governance process, past proposals. Research on stablecoin pair DEX yield performance and correlations. Research on Shadow staking downsides. Research on Penpie. Discussions on strategies performance, expectations, stablecoin risks. Research on stablecoin short and hedge strategies and risk mitigated.
 
-2025-4-3 Thu (4.8h+): Resaerch on Euler strategies submission and governance process, past proposals. Research on stablecoin pair DEX yield performance and correlations. Research on Shadow staking downsides. Research on Penpie. Discussions on strategies performance, expectations, stablecoin risks. Research on stablecoin short and hedge strategies and risk mitigated.
+2025-4-2 Wed (2.7h): Review BTC yield pairs and suggestions, stablecoin pool performance on Shadow.
 
-2025-4-2 Wed (2.7h+): Review BTC yield pairs and suggestions, stablecoin pool performance on Shadow.
+2025-4-1 Tue (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs.
 
-2025-4-1 Tue (5.6h+): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs.
-
-2025-3-31 Mon (5.2h+): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability.
-
-2025-4-11 Fri (0.0h): 
+2025-3-31 Mon (5.2h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability.
 
 2025-3-30 Sun (5.5h): Research on Lombard, LayerZero bridging security parameters, Silo, Silo vs Euler analysis, DIA oracle, Beets, Stability, Sommelier
 
