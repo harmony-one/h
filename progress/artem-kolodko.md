@@ -1,3 +1,5 @@
+2025-04-11 Fri: [completed](https://github.com/harmony-one/shadow-scraper/commit/85a2953d1bb511fc1b2ccd0a5d703e38ff964cb6) Euler usdc.e vault apr history over the past [x] days for specific wallet. APR calculated for the value at 11:59pm. Results for my wallet varies around 3.05%. Next tasks for Rika and Frank. Details about Pendle PT from Philipp, shared with other devs.
+
 2025-04-10 Thu: started working on Euler apr over the last x days, tested solution with archival node calls to get contract state for each day, started working on implementation. Monitored vfat USDC.e/scUSD position with 0.05% width and enabled auto-reblancing, buffer + cutoff. Sync with Frank and Rika, split the tasks for the devs.
 
 2025-04-09 Wed: [completed](https://github.com/harmony-one/shadow-scraper/commit/05ae63bbd39f21560fc6149bcf8c276af6c24f52) Euler apr calculation for base rewards, my result is 3.1% which is not too far from the dashboard value (3.4%). Defined steps to complete research for all vaults from /farms: Pendle and Aave. Researching how to calculate historical apr over the past x days for Euler vault.
