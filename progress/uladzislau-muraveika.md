@@ -1,4 +1,4 @@
-025-04-11 Fri:
+2025-04-11 Fri:
 
 From the operational side, I've shared the Harmony archival mainnet db with pinax.network, helped one of validator users with his setup and added the [hint](https://docs.harmony.one/home/network/validators/node-setup/generating-a-bls-key#configuring-the-bls-keys) in our official documentation about the user problem and, finally, explained to one of validators why there is an alarm icon in the Metamask on the staking website - it was just a fresh UI/UX improvement from Metamask team.
 
