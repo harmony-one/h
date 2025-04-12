@@ -1,6 +1,8 @@
+2025-04-12 Mon: (Contineu logic update for typed transaction.)
 
+---
 
-2025-04-09 Fri: (Update methods and structs that depends on the previous transaction).
+2025-04-09 Fri: [Refactored]() and updated logic to process new typed transaction.
 
 2025-04-08 Thu: Began updating methods and structs that depended on the previous transaction. Will continue working on this tomorrow.
 
