@@ -1,3 +1,9 @@
+2025-04-11 Fri: Completed [liquidity optimization tool](https://github.com/ONETheo/lp-optimizer-v2) for Aerodrome and Shadow Pools. Insight: allows for quick backtesting and pool performance calculations via subgraphs. Sync with Yuriy for data priority and collecting wallet data.
+
+2025-04-10 Thu: Troubleshooting updates to LP optimizer to include subgraph and volatile pool pairings, tracking best performing [vfat.io](https://vfat.io) parameters over past 90 days.
+
+2025-04-09 Wed: Sync with Yuriy for merging usd* historical data with vfat optimizer to calculate best performing strategies. Insight: risk from new sonic usd pegged assets remains too high, earning stable yields from holding longer term proven usd assets while shorting newer usd assets may be the best strategy, Aaron looking into this currently.
+
 2025-04-08 Tue: Completed optimization backtesting framework for USD* pool parameters. The [repo](https://github.com/ONETheo/liquidity-pool-optimizer) now provides comprehensive simulation capabilities for liquidity provisioning strategies, including width, buffer, and cutoff parameter optimization.
 
 2025-04-07 Mon: Alignment for Q2 moving forward and Q1 review. Main push for yield earnings, prioritizing tooling for optimized liquidity provisions. Using coingecko api to track 100 daily, 100 hourly prices for historical volatility necessary for realtime volatility estimations.
