@@ -1,3 +1,9 @@
+2025-04-12 Sat: This week, I focused on improving the **staged stream sync** for better stability and reliability. Key updates include refactoring the stream request manager, isolating health checks into separate routines, tuning timeouts, fixing concurrency issues, and improving error propagation in the block hash staging flow. I also added a flag to track active block downloads and tuning stream checking intervals for more accurate monitoring.
+
+All these changes are consolidated into [PR #4882](https://github.com/harmony-one/harmony/pull/4882), which is now ready for review and merge.
+
+--- 
+
 2025-04-05 Sat: I completed [PR 4876](https://github.com/harmony-one/harmony/pull/4876), which simplifies the staged stream sync by removing the last-mile blocks stage. Previously, this stage duplicated the work already handled by the helper through a channel that receives blocks directly from consensus. The PR delegates this responsibility entirely to the helper, reducing redundancy and streamlining the sync process. The change was reviewed and successfully merged by the team.
 
 This week, I opened [PR 4877](https://github.com/harmony-one/harmony/pull/4877), which refactors the block body download loop to adopt a pull-based worker model. The previous approach could lead to deadlocks, especially when workers failed during the processing of final batches. The new model allows workers to explicitly request tasks when ready, eliminating coordination issues and busy waiting. It also introduces improved error handling using `gbm`'s retry mechanism, tracks active workers using an atomic counter, and ensures a clean shutdown once all work is complete. This refactor enhances both the reliability and maintainability of the download stage.
