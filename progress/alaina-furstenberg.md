@@ -1,3 +1,5 @@
+2025-04-12 Sat: Thread on team progress plus animated a graphic for the [thread](https://x.com/harmonyprotocol/status/1911135904418451711).
+
 2025-04-11 Fri: Update of the community section plus [posting it to X](https://x.com/harmonyprotocol/status/1910820310766723512). [Thread](https://x.com/harmonyprotocol/status/1910816184741892463) on restaking. Writing of the April newsletter, week 1 and 2. 
 
 2025-04-10 Thu: Review of /p formatting. Reading and writing [thread](https://www.paradigm.xyz/2024/05/the-edges-of-finance) on "The Edges of Finance". Reading and writing a [thread](https://x.com/harmonyprotocol/status/1910406133619286266) on "Why Google Has So Many Half-Baked AI Products". Insights: Google has an innovation first mindset while Apple has a user first mindset. Thinking of the user needs first (before just showcasing cool tech) is a stronger method to connecting with your use base. Scheduling sync with Colossus on the [Harmony integration](https://www.loom.com/share/251597dcd40c4502bfc147447c0985d7?sid=0371d773-c6f5-4c26-8b13-cd0679e69294) and marketing campaign.
