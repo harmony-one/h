@@ -1,4 +1,4 @@
-2025-4-12 Sat (0.6h+): Research on APIs and implementation plans for testing and simulating strategies.
+2025-4-12 Sat (1.0h): Research on APIs and implementation plans for testing and simulating strategies.
 
 2025-4-11 Fri (6.7h): Experiment with lending-multiplication strategies. Research and explore funding-rate and hedge-based stablecoin strategies. Review derivitative trading updates since 2024 and automation APIs (Derive, Panoptic, Deribit).
 
