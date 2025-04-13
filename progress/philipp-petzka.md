@@ -1,3 +1,7 @@
+2025-04-13 I started collecting volatility data of coins such as BTC or S to develop a first draft of a portfolio-balancing strategy. The strategy leverages a top-down approach to identify the optimal range in concentrated liquidity pools and measure weather to adjust the range during increased levels of volatility. The strategy needs to get tested and verified once we have price data on the minute level. 
+
+I connected with Artem to help him navigate the Sonic ecosystem during his tests and explain how protocols work or where to find certain functions.
+
 2025-04-06 I helped finalizing treasury farming strategies across Sonic and discussed the next steps with Theo after the treasury funds were deployed. The focus will be on products and measurements that have the most positive impact.
 
 I started researching the Berachain ecosystem and its mechanisms to find potential opportunities that we can leverage for ourselves. Berachain offers the best yields across most chains and has an interesting flywheel effect going on.
