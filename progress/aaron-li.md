@@ -1,6 +1,4 @@
-2025-4-13 Sun (0.0h): 
-
-2025-4-11 Fri (6.7h): Experiment with lending-multiplication strategies. Research and explore funding-rate and hedge-based stablecoin strategies. Review derivitative trading updates since 2024 and automation APIs (Derive, Panoptic, Deribit).
+2025-4-13 Sun (0.6h): Review stable strategy yield comparison analysis.
 
 2025-4-10 Thu (7.3h): Experiment with hedged stablecoin strategies. Research on options for stablecoin derivatives.
 
