@@ -1,4 +1,4 @@
-2025-04-12 Sat: Verified Merkl API json was indeed returning the same values for total rewards amount as Merkl UI dashboard. Calculated APR for funds supplied to USDC.e vault 24hours earlier, results turned out to be much less than that of advertised APR.
+2025-04-12 Sat (1.0h): Verified Merkl API json was indeed returning the same values for total rewards amount as Merkl UI dashboard. Calculated APR for funds supplied to USDC.e vault 24hours earlier, results turned out to be much less than that of advertised APR.
 
 2025-04-11 Fri: Did some test transaction by creating a new wallet and investing to USDC.e vault to analyze rewards 24 hrs later. Continued researching on logic for Euler.
 
