@@ -1,3 +1,5 @@
+2025-04-12 Sat: Verified Merkl API json was indeed returning the same values for total rewards amount as Merkl UI dashboard. Calculated APR for funds supplied to USDC.e vault 24hours earlier, results turned out to be much less than that of advertised APR.
+
 2025-04-11 Fri: Did some test transaction by creating a new wallet and investing to USDC.e vault to analyze rewards 24 hrs later. Continued researching on logic for Euler.
 
 2025-04-10 Thu: Looked into Merkl's APR calculation method, and [wrote script](https://github.com/rikaa15/merkl-test/tree/main)/tested with their npm package ([@merkl/api](https://www.npmjs.com/package/@merkl/api)) as well as their endpoint: `https://api.merkl.xyz/v4/users/${address}/rewards?chainId=146`. Thought through and outlined a process for retrieving true APR calculation.
