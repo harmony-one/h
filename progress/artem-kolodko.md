@@ -1,4 +1,4 @@
-2025-04-13 Sun (2.0h): [drafter](https://github.com/harmony-one/shadow-scraper/commit/0585a5b8d56973f91f446f2ddddeda6c4c421706) apr calculation for the entire Euler usdc.e vault for the past x days. Reviewed Rika's report with Euler additional rewards apr, break down the next week tasks in our team with Rika and Frank.
+2025-04-13 Sun (2.0h): [drafted](https://github.com/harmony-one/shadow-scraper/commit/0585a5b8d56973f91f446f2ddddeda6c4c421706) apr calculation for the entire Euler usdc.e vault for the past x days. Reviewed Rika's report with Euler additional rewards apr, break down the next week tasks in our team with Rika and Frank.
 
 2025-04-12 Sat (2.0h): researching apr calculation over the last X days for the entire Euler usdc.e vault. Monitored vfat usdc.e/scusd position with auto-rebalancing, still in the initial range.
 
