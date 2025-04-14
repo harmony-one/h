@@ -1,4 +1,10 @@
-2025-04-12 Sat: Thread on team progress plus animated a graphic for the [thread](https://x.com/harmonyprotocol/status/1911135904418451711).
+2025-04-14 Mon: Sync with Colossus. Action items: Revisions to the animation, plus expecting an article from them by the end of the week. Will create AI podcast content and posts to X and LinkedIn to promote the partnership. Thread on x plus design of graphic. 
+
+---
+
+2025-04-13 Sun (2.0 hrs): Animation revisions for Colossus partnership.
+
+2025-04-12 Sat (1.0 hr): Thread on team progress plus animated a graphic for the [thread](https://x.com/harmonyprotocol/status/1911135904418451711).
 
 2025-04-11 Fri: Update of the community section plus [posting it to X](https://x.com/harmonyprotocol/status/1910820310766723512). [Thread](https://x.com/harmonyprotocol/status/1910816184741892463) on restaking. Writing of the April newsletter, week 1 and 2. 
 
