@@ -1,3 +1,5 @@
+2025-04-13 Sun (2.0h): [drafted](https://github.com/harmony-one/shadow-scraper/commit/0e9baee5f2fe1f43a1c66f47f2bbecf9ade76047) apr calculation for the entire Euler usdc.e vault for the past x days. Reviewed Rika's report with Euler additional rewards apr, break down the next week tasks in our team with Rika and Frank.
+
 2025-04-12 Sat (2.0h): researching apr calculation over the last X days for the entire Euler usdc.e vault. Monitored vfat usdc.e/scusd position with auto-rebalancing, still in the initial range.
 
 2025-04-11 Fri: [completed](https://github.com/harmony-one/shadow-scraper/commit/85a2953d1bb511fc1b2ccd0a5d703e38ff964cb6) Euler usdc.e vault apr history over the past [x] days for specific wallet. APR calculated for the value at 11:59pm. Results for my wallet varies around 3.05%. Next tasks for Rika and Frank. Details about Pendle PT from Philipp, shared with other devs.
