@@ -1,7 +1,8 @@
 2025-04-04 Fri:
 - This week, progress on the upgrade to version 1.10 reached approximately 50%. Key updates include the addition of the BASEFEE opcode, implementation of Access List support, and integration of several PRs adjusting opcode pricing. These changes are essential steps toward aligning with upcoming protocol specifications and improving overall performance.
-- Additionally, enhanced logging was introduced to improve visibility into the view change process during epoch transitions. Although I haven’t been able to reproduce the reported issue locally, the added logs should provide better diagnostics and help track down the root cause if it reappears. 
-- 
+- Additionally, enhanced logging was introduced to improve visibility into the view change process during epoch transitions. Although I haven’t been able to reproduce the reported issue locally, the added logs should provide better diagnostics and help track down the root cause if it reappears.
+
+--- 
 
 2025-04-04 Fri:
 - Launched devnet testing for the update to Ethereum source code version 1.9.
