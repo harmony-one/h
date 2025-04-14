@@ -1,8 +1,10 @@
+2025-4-14 Mon (1.8h): Review stable strategy yield comparison analysis. Research on Convex and related yield strategies. Review stable strategy yield comparison analysis.
+
+---
+
 2025-4-13 Sun (1.3h): Review stable strategy yield comparison analysis.
 
 2025-4-12 Sat (1.0h): Research on APIs and implementation plans for testing and simulating strategies.
-
-2025-4-14 Mon (1.8h): Review stable strategy yield comparison analysis. Research on Convex and related yield strategies. Review stable strategy yield comparison analysis.
 
 2025-4-11 Fri (6.7h): Experiment with lending-multiplication strategies. Research and explore funding-rate and hedge-based stablecoin strategies. Review derivitative trading updates since 2024 and automation APIs (Derive, Panoptic, Deribit).
 
