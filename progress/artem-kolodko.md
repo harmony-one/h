@@ -1,3 +1,7 @@
+2025-04-14 Mon: started researching [Spectra](https://app.spectra.finance/pools/sonic:0x167b0951c5d3fb8ff5ab675401e369dd65817801) pool, deposited tokens, calculated Yield token (YT) rewards based on data from the contract: value fully matched with YT rewards in the UI. Synced with Frank and Rika on tasks for this week.
+
+---
+
 2025-04-13 Sun (2.0h): [drafted](https://github.com/harmony-one/shadow-scraper/commit/0585a5b8d56973f91f446f2ddddeda6c4c421706) apr calculation for the entire Euler usdc.e vault for the past x days. Reviewed Rika's report with Euler additional rewards apr, break down the next week tasks in our team with Rika and Frank.
 
 2025-04-12 Sat (2.0h): researching apr calculation over the last X days for the entire Euler usdc.e vault. Monitored vfat usdc.e/scusd position with auto-rebalancing, still in the initial range.
