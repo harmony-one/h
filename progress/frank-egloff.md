@@ -1,3 +1,8 @@
+2025-04-18 Fri: Day off for Good Friday
+
+2025-04-17 Thu: Day off for Holy Thursday
+
+---
 2025-04-13 Sun: (6.0h) Implementing APY component extraction tool for Pendle markets on Sonic chain that breaks down returns into PT Yield, Underlying Yield, and LP Yield. Script queries market contracts, Gauge Controller, and token data to produce TSV exports. Currently investigating discrepancies between calculated values and Pendle UI. Added [user LP balance tracking](https://github.com/harmony-one/pendle-sonic-rewards/pull/5) (actual LP tokens held) and active balance monitoring (effective balance for reward calculation including vePENDLE boost) with comprehensive data insights including boost factor analysis. Added UserLPPosition entity to subgraph with Transfer event handling for LP token movements.
 
 2025-04-11 Fri: Expanded Pendle/Sonic subgraph with comprehensive YieldToken contract event tracking, [implementing handlers](https://github.com/harmony-one/pendle-sonic-rewards/pull/5) for YTSwap, YTRedemption, YTYieldClaim, and UserYTBalance events. Developed querying script to analyze and visualize YT reward distribution patterns across protocol participants.
