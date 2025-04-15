@@ -1,6 +1,4 @@
-2025-4-15 Tue (0.0h): 
-
-2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
+2025-4-15 Tue (0.4h+): Discuss stablecoin strategies.
 
 2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
 
