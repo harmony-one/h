@@ -1,4 +1,12 @@
 
+2025-04-15 Tue: Switched to fixing several outstanding bridge issues from the community: $AXS asset stuck when bridging $1AXS from Ethereum to HarmonyONE, and a LEDGER Nano-related issue. Also finishing the final export of scUSD strategies (will update later today).
+
+2025-04-14 Mon: [Exported](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export/price_historical_data_USDC.e_scUSD.csv) the historical price data of scUSDC for the entire period, based on the subgraph events swaps and historyPoolData, and plotted its distribution using AI. I'm continuing to work on researching how to tie vfat rebalancing strategy parameters to scUSD positions — currently, there's an issue where too few vfat strategies are found for the scUSD pool, and the parameters are repeating, so I'm double-checking the approach.
+
+---
+
+2025-04-11 Fri: [Finished](https://github.com/harmony-one/shadow-pool-analytics/commit/e9ecb57fc04d2116fe177aa0299ba810d6af6fbd) the service for loading NftSettingsSet events and finding positions related to those settings. As a result, there’s now an extended [tsv table](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export/vfat_positions_USDC.e_USDT_pool_0x9053fe060f412ad5677f934f89e07524343ee8e7.tsv) with vfat positions. Parameters like cutoff, buffer, etc., have been added. However, as we can see for the USDC.e/USDT pool, the settings are almost identical across all positions.
+
 2025-04-10 Thu: Worked on linking historical shadow exchange positions to vfat strategies, mainly by checking for the SickleDepositedNft event in position creation [transactions](https://sonicscan.org/tx/0x4eb38e38c893d49636b0ccbf23b684d313059920a3b830a5b49caa16fea5bc81#eventlog#29) or mapping NftSettingsSet events from the NftSettingsRegistry [contract](https://sonicscan.org/address/0xb7190708356b592cdaa0082e15a43baa983cb72c) by tokenId. This will let us group positions by wallet and strategy parameters like cutoff and buffer. Building scripts to load event data and refresh the stats.
 
 2025-04-09 Wed: Researched issues with performance limitations of the shadow-pool-analytics application on fly.io, configured the deployment. Switching to vfat contract analysis and searching for a subgraph or writing a custom event listener to bind vfat parameters (cutoff / buffer) to positions and generate general statistics.
