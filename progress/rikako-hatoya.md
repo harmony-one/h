@@ -1,3 +1,5 @@
+2025-04-14 Mon: Started research on Spectra, looked into how zapping to pools work, and looked into Spectra API, [spectra-core repo](https://github.com/perspectivefi/spectra-core), and contracts for pool, LP, PT, and IBT. Researched on how to possibly calculate LP fees, PT fixed rate, and SPECTRA rewards.
+
 2025-04-13 Sun (1.0h): Re-verfiication of rewards from USDC.e pool on Euler. Started looking into and researching for scUSD pool on Spectra finance.
 
 2025-04-12 Sat (1.0h): Verified Merkl API json was indeed returning the same values for total rewards amount as Merkl UI dashboard. Calculated APR for funds supplied to USDC.e vault 24hours earlier, results turned out to be much less than that of advertised APR.
