@@ -1,7 +1,5 @@
 2025-4-15 Tue (0.0h): 
 
-2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
-
 ---
 
 2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
