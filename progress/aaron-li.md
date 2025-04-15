@@ -1,7 +1,5 @@
 2025-4-15 Tue (0.0h): 
 
-2025-4-8 Tue (3.4h): Review bridge code simplification plan and staking dashboard walletconnect patch, and discuss with engineers. Detailed evaluation of Socket technical integration documentation. Review and simplify bridge frontend code.
-
 2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
 
 ---
