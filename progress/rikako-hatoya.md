@@ -1,3 +1,5 @@
+2025-04-15 Tue: Implemented logic for Spectra LP and PT rewards calculation, pushed new script, PR here: [https://github.com/harmony-one/shadow-scraper/pull/3]. Currently investigating entry price issue for PT rewards (in the current logic, we can only estimate the entry price for PT tokens since PT ratio dynamically changes on Spectra, looking for better logic), as well as adding Spectra to ".tsv" export file.
+
 2025-04-14 Mon: Started research on Spectra, looked into how zapping to pools work, and looked into Spectra API, [spectra-core repo](https://github.com/perspectivefi/spectra-core), and contracts for pool, LP, PT, and IBT. Researched on how to possibly calculate LP fees, PT fixed rate, and SPECTRA rewards.
 
 ---
