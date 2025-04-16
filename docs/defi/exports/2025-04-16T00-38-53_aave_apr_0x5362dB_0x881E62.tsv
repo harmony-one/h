@@ -1,13 +1,2 @@
-# Market Rewards Report
-# Generated: 2025-04-16T00:38:53.993Z
-# Market: 0x5362dBb1e601abF3a4c14c22ffEdA64042E5eAA3
-# 
-# Contract APR: 0.1931%%
-# Initial deposit: 1
-# Current Balance: 1.000128
-# Interest earned: 0.00012799999999990597 'USDC'
-# Days elapsed: 25.3019
-# Observed APR: 0.1847%%
-# 
 name	address	deposit_time	deposit_asset0	deposit_asset1	deposit_amount0	deposit_amount1	deposit_value0	deposit_value1	deposit_value	reward_asset0	reward_asset1	reward_amount0	reward_amount1	reward_value0	reward_value1	reward_value	total_days	total_blocks	apr	type	deposit_link
 aave	0x578Ee1ca3a8E1b54554Da1Bf7C583506C4CD11c6	25/03/21 12:24:11	USDC.e		1		1		1	aSonUSDC		0.00012800		0.00012800		0.00012800	25.302	1093041	0.18470	Lending	https://app.aave.com/reserve-overview/?underlyingAsset=0x29219dd400f2bf60e5a23d13be72b486d4038894&marketName=proto_sonic_v3
