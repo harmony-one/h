@@ -1,3 +1,13 @@
+2025-04-15 Tue: Coordination for resolving bridge and ledger issues. Refactoring liquidity optimizations for strictly usd*.
+
+2025-04-14 Mon: Sync with Yuriy. Reviewed Aaron’s four step options play on panoptic against traditional options market. Insight: Panoptic’s streamia (streaming premium rather than fixed) and volatility are keys to the success of this strategy, which may show more stable and guaranteed gains than our original usd* plan.
+
+---
+
+2025-04-13 Sun: (1.0h) Further testing. Base data for volatility and pairs are there, but a path of improvement is in the ability to add any pair and find the best path of rewards throughout the 90 day backtest.
+
+2025-04-12 Sat: (2.0h) Testing [vfat optimization tool](https://github.com/ONETheo/lp-optimizer-v2). Insight: pairing backtesting with real time volatility indexing may prove more profitable, resulting in rebalance spending, but prior to position being out of range. Note: would need a different tool, as vfat does not support this type of rebalancing.
+
 2025-04-11 Fri: Completed [liquidity optimization tool](https://github.com/ONETheo/lp-optimizer-v2) for Aerodrome and Shadow Pools. Insight: allows for quick backtesting and pool performance calculations via subgraphs. Sync with Yuriy for data priority and collecting wallet data.
 
 2025-04-10 Thu: Troubleshooting updates to LP optimizer to include subgraph and volatile pool pairings, tracking best performing [vfat.io](https://vfat.io) parameters over past 90 days.
