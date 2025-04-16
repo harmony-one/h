@@ -1,4 +1,24 @@
-2025-4-15 Tue (0.9h): Discuss stablecoin strategies.
+2025-4-14 Mon (5.8h): Review proposed stablecoin strategies, analysis, and results. Review stable strategy yield comparison analysis. Research on Convex and related yield strategies. Review stable strategy yield comparison analysis.
+
+---
+
+2025-4-13 Sun (1.3h): Review stable strategy yield comparison analysis.
+
+2025-4-12 Sat (1.0h): Research on APIs and implementation plans for testing and simulating strategies.
+
+2025-4-11 Fri (6.7h): Experiment with lending-multiplication strategies. Research and explore funding-rate and hedge-based stablecoin strategies. Review derivitative trading updates since 2024 and automation APIs (Derive, Panoptic, Deribit).
+
+2025-4-10 Thu (7.3h): Experiment with hedged stablecoin strategies. Research on options for stablecoin derivatives.
+
+2025-4-9 Wed (6.8h): Evaluate Ethena stablecoin risks, strategies, and option trading platforms. Debug, review, and test AI generated tools for auto-syncing work log.
+
+2025-4-8 Tue (3.4h): Review bridge code simplification plan and staking dashboard walletconnect patch, and discuss with engineers. Detailed evaluation of Socket technical integration documentation. Review and simplify bridge frontend code.
+
+2025-4-7 Mon (7.6h): Deep dive on SolvBTC custody, security, yield. Evaluate Ethena strategy, yield, sustainability.
+
+---
+
+2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
 
 2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
 
