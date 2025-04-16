@@ -1,4 +1,6 @@
 
+2025-04-16 Wed: Finished fixing the bridge issues related to the loss of AXS tokens. The core problem was that Horizon legacy tokens operate through an intermediate contract, which requires more gas, and this wasn't calculated correctly in the proxy on the Ethereum side. Also fixed the issue with the explorer service interacting with the Arbitrum RPC.
+
 2025-04-15 Tue: Switched to fixing several outstanding bridge issues from the community: $AXS asset stuck when bridging $1AXS from Ethereum to HarmonyONE, and a LEDGER Nano-related issue. Also finishing the final export of scUSD strategies (will update later today).
 
 2025-04-14 Mon: [Exported](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export/price_historical_data_USDC.e_scUSD.csv) the historical price data of scUSDC for the entire period, based on the subgraph events swaps and historyPoolData, and plotted its distribution using AI. I'm continuing to work on researching how to tie vfat rebalancing strategy parameters to scUSD positions — currently, there's an issue where too few vfat strategies are found for the scUSD pool, and the parameters are repeating, so I'm double-checking the approach.
