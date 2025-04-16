@@ -1,3 +1,5 @@
+2025-04-16 Wed: [reviewed](https://github.com/harmony-one/shadow-scraper/pull/3#pullrequestreview-2772671910) PR from Rika and Euler LP fees and PT rate analysis, tested her script locally. Send new tasks for Rika and Frank to complete Aave and Euler research in the next few days. Started researching leveraged position on Euler, opened new position with modest leverage (5x). Synced with Li on best vaults, started working on the final list.
+
 2025-04-15 Tue: [created](https://github.com/harmony-one/shadow-scraper/commit/a5746ab92e96ea4cc9cf7fa96e6803da4d644eea) script to calculate Spectra Yield Token (YT) rewards and deposits based on on-chain data and Spectra API. This data will be merged with Spectra LP rewards script when it's ready. Synced with the team, defined next tasks about exporting data to tsv.
 
 2025-04-14 Mon: started researching [Spectra](https://app.spectra.finance/pools/sonic:0x167b0951c5d3fb8ff5ab675401e369dd65817801) pool, deposited tokens, calculated Yield token (YT) rewards based on data from the contract: value fully matched with YT rewards in the UI. Synced with Frank and Rika on tasks for this week.
