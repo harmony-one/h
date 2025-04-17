@@ -1,4 +1,4 @@
-2025-4-17 Thu (0h): [TBD] 
+2025-4-17 Thu (0.0h): 
 
 2025-4-16 Wed (7.0h): Review and experiment with proposed stablecoin strategies, analysis, and results.
 
