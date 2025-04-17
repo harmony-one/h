@@ -1,4 +1,4 @@
-2025-4-16 Wed (6.0h+): Review and experiment with proposed stablecoin strategies, analysis, and results.
+2025-4-16 Wed (7.0h): Review and experiment with proposed stablecoin strategies, analysis, and results.
 
 2025-4-15 Tue (3.5h): Review proposed stablecoin strategies, analysis, and results. Discuss stablecoin strategies.
 
