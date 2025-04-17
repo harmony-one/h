@@ -1,3 +1,14 @@
+2025-04-17 Thu:
+
+From the testing side and preparation to the fresh relase, I was checking the state of the go 1.24.2 update and found 2 problems:
+* view change that occurs time to time only on the epoch change, checked by me and shared with the [team](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) - in short - we faced one more rare edge case which should covered.
+* [bootnode restart is crashing leveldb](https://github.com/harmony-one/harmony/issues/4883) - verified fix by Gheis, everything works fine.
+* added to the bootnode possibility to serve RPC request from the public network interface - now we can send POST request to it and get the understanding of its state.
+
+As part of my on-call activities, I was fixing both devnet and testnet networks after small outage in the Contabo, communicated this with community.
+
+---
+
 2025-04-11 Fri:
 
 From the operational side, I've shared the Harmony archival mainnet db with pinax.network, helped one of validator users with his setup and added the [hint](https://docs.harmony.one/home/network/validators/node-setup/generating-a-bls-key#configuring-the-bls-keys) in our official documentation about the user problem and, finally, explained to one of validators why there is an alarm icon in the Metamask on the staking website - it was just a fresh UI/UX improvement from Metamask team.
