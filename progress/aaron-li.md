@@ -1,6 +1,6 @@
-2025-4-16 Wed (7.0h): Review and experiment with proposed stablecoin strategies, analysis, and results. Validate steps and rates in Equilibria, Penpie, Pendle. Review Equilibria documentation and security.
-
 2025-4-17 Thu (1.3h+): Validate derivative rates and token mechanisms from Rings. Review Equilibria tokenomics and analysis of comparison against Penpie.
+
+2025-4-16 Wed (7.0h): Review and experiment with proposed stablecoin strategies, analysis, and results. Validate steps and rates in Equilibria, Penpie, Pendle. Review Equilibria documentation and security.
 
 2025-4-15 Tue (3.5h): Review proposed stablecoin strategies, analysis, and results. Discuss stablecoin strategies.
 
