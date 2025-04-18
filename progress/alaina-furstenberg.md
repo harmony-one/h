@@ -2,7 +2,7 @@
 
 2025-04-17 Thu: Continuation of Colossus animation. Researched, wrote a [tweet](https://x.com/harmonyprotocol/status/1912947579098402882), and designed a graphic about Clanker. Review of the team's /p formatting. 
 
-2025-04-16 Wed:
+2025-04-16 Wed: Reanimation of the Colossus graphic. 
 
 2025-04-15 Tue: Revision of storyboard for the Colossus animation to better communicate Colossus as the connector between custodians (VCs, Funds, Asset Managers, Banks) and also custody providers to validators. 
 
