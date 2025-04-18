@@ -1,4 +1,12 @@
-2025-04-14 Mon: Sync with Colossus. Action items: Revisions to the animation, plus expecting an article from them by the end of the week. Will create AI podcast content and posts to X and LinkedIn to promote the partnership. Thread on x plus design of graphic. 
+2025-04-18 Fri: Update of the Harmony community section. Revision of Colossus article. Insights: ... Writing of Week 3 of the April newsletter. Thread + design of graphic. Review of the team's /p for the upcoming progress thread. 
+
+2025-04-17 Thu: Continuation of Colossus animation. Researched, wrote a [tweet](https://x.com/harmonyprotocol/status/1912947579098402882), and designed a graphic about Clanker. Review of the team's /p formatting. 
+
+2025-04-16 Wed:
+
+2025-04-15 Tue: Revision of storyboard for the Colossus animation to better communicate Colossus as the connector between custodians (VCs, Funds, Asset Managers, Banks) and also custody providers to validators. 
+
+2025-04-14 Mon: Sync with Colossus. Action items: Revisions to the animation, plus expecting an article from them by the end of the week. Will create AI podcast content and posts to X and LinkedIn to promote the partnership. [Thread](https://x.com/harmonyprotocol/status/1911963100657639659) on i.country plus design of graphic. 
 
 ---
 
