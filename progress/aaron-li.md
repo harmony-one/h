@@ -1,7 +1,5 @@
 2025-4-18 Fri (0.0h): 
 
-2025-4-11 Fri (6.7h): Experiment with lending-multiplication strategies. Research and explore funding-rate and hedge-based stablecoin strategies. Review derivitative trading updates since 2024 and automation APIs (Derive, Panoptic, Deribit).
-
 2025-4-10 Thu (7.3h): Experiment with hedged stablecoin strategies. Research on options for stablecoin derivatives.
 
 2025-4-9 Wed (6.8h): Evaluate Ethena stablecoin risks, strategies, and option trading platforms. Debug, review, and test AI generated tools for auto-syncing work log.
