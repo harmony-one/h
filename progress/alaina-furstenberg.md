@@ -1,4 +1,4 @@
-2025-04-18 Fri: Update of the Harmony community section. Revision of Colossus article. Insights: ... Writing of Week 3 of the April newsletter. Thread + design of graphic. Review of the team's /p for the upcoming progress thread. 
+2025-04-18 Fri: [Update](https://x.com/harmonyprotocol/status/1913304302501994792) of the Harmony community section. Revision of Colossus article. Insights: ... Writing of Week 3 of the April newsletter. Thread + design of graphic. Review of the team's /p for the upcoming progress thread. 
 
 2025-04-17 Thu: Continuation of Colossus animation. Researched, wrote a [tweet](https://x.com/harmonyprotocol/status/1912947579098402882), and designed a graphic about Clanker. Review of the team's /p formatting. 
 
