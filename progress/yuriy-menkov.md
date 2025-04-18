@@ -1,3 +1,5 @@
+2025-04-17 Fri: Since the vfat sample of positions shows too little data with almost identical rebalancing settings for the USDC.e/scUSD and USDC.e/USDT pools, Theo and I decided to expand the data collection range to include all usd* pools — goal is to find the most profitable usd* pool from the last 90 days - working on scripts extending.
+
 2025-04-16 Thu: Investigated user issues related to using Ledger Nano for staking. Then returned to analyzing USD strategies, [exported](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export/vfat_positions.tsv) the settings for all vfat positions — still have the main question is how to analyze params correctly. Synced with Theo about next steps.
 
 2025-04-16 Wed: Finished fixing the bridge issues related to the loss of AXS tokens. The core problem was that Horizon legacy tokens operate through an intermediate contract, which requires more gas, and this wasn't calculated correctly in the proxy on the Ethereum side. Also fixed the issue with the explorer service interacting with the Arbitrum RPC.
