@@ -1,3 +1,5 @@
+2025-04-18 Fri: reviewed and merged Rika's [pull request](https://github.com/harmony-one/shadow-scraper/pull/3) with Spectra apr calculation; the last part of Spectra rewards is the LP fee. Checked Euler script, [added](https://github.com/harmony-one/shadow-scraper/commit/224f87b78538f1b6dcfdd6ca3a2b355548f5b8c1) additional Merkle rewards. Verified APR for [USDC.e Euler vault](https://app.euler.finance/vault/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic) = 4.24%, APR from Euler client = 6.80%.
+
 2025-04-17 Thu: found a way to calculate PT rate on Spectra, using pt price and time to maturity, results similar to the values in Spectra app. Researching [Euler](https://app.euler.finance/positions/0x3D9e5462A940684073EED7e4a13d19AE0Dcd13bc/0xeEb1DC1Ca7ffC5b54aD1cc4c1088Db4E5657Cb6c?network=sonic&tab=multiply) leveraged positions performance. Opened position in [PT-wstkscUSD-29MAY2025](https://app.euler.finance/vault/0xF6E2ddf7a149C171E591C8d58449e371E6dc7570?network=sonic), checking on how to verify displayed rate.
 
 
