@@ -1,4 +1,12 @@
-2025-04-12 Mon: (Contineu logic update for typed transaction.)
+2025-04-16 Fri:
+
+2025-04-15 Thu: Began working on saving transaction to the internal dtabase. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
+
+2025-04-14 Wed: Continued refactoring for typed transaction.
+
+2025-04-13 Tue: [Updated]() to the `debug_traceCall` logic that configured the status of the block=.
+
+2025-04-12 Mon: Analyzed devnet outage issue. Realized Contabo servers were having troubles.
 
 ---
 
