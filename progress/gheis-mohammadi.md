@@ -1,3 +1,11 @@
+2025-04-19 Sat: Last week, we upgraded devnet along with the latest [PR 4882](https://github.com/harmony-one/harmony/pull/4882), which was a major milestone. The entire devnet now runs on stream sync, and all nodes were fully synced and remained stable. Devnet is composed of both server-only and client-enabled nodes, and it's a great step forward that both parts are now communicating properly without issues.
+
+We also investigated an issue with boot nodes, detailed in [Issue 4883](https://github.com/harmony-one/harmony/issues/4883). After several hours of uptime, shutting down boot nodes would leave behind DHT files that caused startup failures unless manually cleaned. I created [PR 4885](https://github.com/harmony-one/harmony/pull/4885) to address this. After testing various approaches—such as deleting DHT files on shutdown and using the `Truncate` flag—I found that the root cause was the discovery module not being closed properly. Ensuring the discovery is explicitly closed after the host resolves the issue. 
+
+Finally, I started working on [PR 4888](https://github.com/harmony-one/harmony/pull/4888), which is still in progress. This PR introduces a caching mechanism to reduce the load and frequency of querying other nodes for their current height.
+
+---
+
 2025-04-12 Sat: This week, I focused on improving the **staged stream sync** for better stability and reliability. Key updates include refactoring the stream request manager, isolating health checks into separate routines, tuning timeouts, fixing concurrency issues, and improving error propagation in the block hash staging flow. I also added a flag to track active block downloads and tuning stream checking intervals for more accurate monitoring.
 
 All these changes are consolidated into [PR #4882](https://github.com/harmony-one/harmony/pull/4882), which is now ready for review and merge.
