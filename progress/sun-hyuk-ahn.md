@@ -1,24 +1,24 @@
-2025-04-16 Fri:
+2025-04-18 Fri:
 
-2025-04-15 Thu: Began working on saving transaction to the internal dtabase. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
+2025-04-17 Thu: Began working on saving transaction to the internal dtabase. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
 
-2025-04-14 Wed: Continued refactoring for typed transaction.
+2025-04-16 Wed: Continued refactoring for typed transaction.
 
-2025-04-13 Tue: [Updated]() to the `debug_traceCall` logic that configured the status of the block=.
+2025-04-15 Tue: [Updated]() to the `debug_traceCall` logic that configured the status of the block=.
 
-2025-04-12 Mon: Analyzed devnet outage issue. Realized Contabo servers were having troubles.
+2025-04-14 Mon: Analyzed devnet outage issue. Realized Contabo servers were having troubles.
 
 ---
 
-2025-04-09 Fri: [Refactored]() and updated logic to process new typed transaction.
+2025-04-11 Fri: [Refactored]() and updated logic to process new typed transaction.
 
-2025-04-08 Thu: Began updating methods and structs that depended on the previous transaction. Will continue working on this tomorrow.
+2025-04-10 Thu: Began updating methods and structs that depended on the previous transaction. Will continue working on this tomorrow.
 
-2025-04-07 Wed: Updated transaction struct to utilize interface rather than structs, allowing for implementation of various transactions.
+2025-04-09 Wed: Updated transaction struct to utilize interface rather than structs, allowing for implementation of various transactions.
 
-2025-04-06 Tue: Cleaned up servers on cloud providers. Continued Eip-2930 implementation from previously left off.
+2025-04-08 Tue: Cleaned up servers on cloud providers. Continued Eip-2930 implementation from previously left off.
 
-2025-04-05 Mon: Audited user access logs and server lists. Updated Watchdog, and corresponding script with the upcoming hard fork and member change.
+2025-04-07 Mon: Audited user access logs and server lists. Updated Watchdog, and corresponding script with the upcoming hard fork and member change.
 
 ---
 
