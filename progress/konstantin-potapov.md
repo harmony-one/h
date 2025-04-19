@@ -1,4 +1,12 @@
-2025-04-04 Fri:
+2025-04-18 Fri:
+- This week, I implemented a fix for the view change issue that occurred during the updateConsensusInformation function call.
+  Previously, this call could interrupt the leader’s signature collection process, leading to an unintended view change. The patch ensures smoother consensus updates without disrupting the leader’s operation.
+- Additionally, I refactored the interaction between the consensus and synchronization processes.
+  The synchronization logic now supports applying multiple blocks at once and invokes updateConsensusInformation automatically after block insertion. This streamlines the update flow and reduces the interface complexity needed to propagate consensus changes.  
+
+---
+
+2025-04-11 Fri:
 - This week, progress on the upgrade to version 1.10 reached approximately 50%. Key updates include the addition of the BASEFEE opcode, implementation of Access List support, and integration of several PRs adjusting opcode pricing. These changes are essential steps toward aligning with upcoming protocol specifications and improving overall performance.
 - Additionally, enhanced logging was introduced to improve visibility into the view change process during epoch transitions. Although I haven’t been able to reproduce the reported issue locally, the added logs should provide better diagnostics and help track down the root cause if it reappears.
 
