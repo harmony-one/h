@@ -1,6 +1,6 @@
-2025-04-18 Fri: Day off for Good Friday
+2025-04-18 Fri: Day off for Good Friday. (3.0h) Investigated Luma error reported by user - identified issue in client.generations.list() method which is used to calculate user's queue position and estimates waiting time. Implemented workaround by catching the error and returning randomized queue position between 1-3 to maintain functionality. Posted [issue on Luma GitHub repository](https://github.com/lumalabs/lumaai-python/issues/153) for upstream resolution.
 
-2025-04-17 Thu: Day off for Holy Thursday
+2025-04-17 Thu: Day off for Holy Thursday. (1.0h) Responded to user-reported Luma command failure in 1BOT. After initial troubleshooting, temporarily disabled Luma command functionality while developing permanent solution for harmony-llm-api.
 
 2025-04-16 Wed: 2025-04-16 Wed: Investigated Aave Merit program on Sonic revealing non-continuous reward distribution model - program creates short-lived 4-hour distribution windows that represent claiming periods rather than continuous reward accrual. Attempted to match displayed APY with real rewards ($0.27 for 10 USDC deposit), but encountered "PAST" status on all [reward opportunities](https://github.com/harmony-one/pendle-sonic-rewards/pull/8) with APR and TVL zeroed out. For Pendle LP Yield analysis, worked on calculating yield using market state storage but encountered challenges accessing accurate rate values via Gauge Controller contract. Successfully retrieved TVL information for Pendle/Sonic markets using [Python CLI solution](https://github.com/harmony-one/defi-protocol-tvl-tracker).
 
