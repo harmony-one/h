@@ -1,3 +1,5 @@
+2025-4-19 Sat (0.9h): Evaluate top candidates for stable yield. Planning for analytics and management tools.
+
 2025-4-18 Fri (1.4h): Evaluate top candidates for stable yield. Planning for analytics and management tools.
 
 2025-4-17 Thu (8.6h): Evaluate yield data of existing experiments. Prototyping tools for collecting funding rate and option premium data. Discuss top stablecoin strategies, executions, and next steps for strategies in Bitcoin and volatile token. Validate derivative rates and token mechanisms from Rings. Review Equilibria tokenomics and analysis of comparison against Penpie.
