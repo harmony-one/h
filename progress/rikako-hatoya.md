@@ -1,3 +1,5 @@
+2025-04-19 Sat: Continuation of LP fee calculation. Currently working on debugging logic implementation.
+
 2025-04-18 Fri: Verification/testing of updated Spectra PT+LP Rewards APR. Look into LP fees.
 
 2025-04-17 Thu: Updated Spectra PT rewards script: implemented fixed PT APR calculation (thanks to Artem's help!), added .tsv export  and [file](https://github.com/harmony-one/shadow-scraper/blob/f4cf1a94a4b0caec43b06c407c8e3157be96a3f8/export/portfolio_0x4E430992Db6F3BdDbC6A50d1513845f087E9af4A_1744913400.tsv), added some node test scripts for Euler/Merkl/Spectra (commit [here](https://github.com/harmony-one/shadow-scraper/pull/3/commits/f4cf1a94a4b0caec43b06c407c8e3157be96a3f8).) Started working on testing portfolio scripts: tested/checked with my Shadow portfolio, looking into Shadow [subgraph](https://sonicv2.kingdomsubgraph.com/subgraphs/name/core) to check where discrepancy is from. 
