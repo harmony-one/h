@@ -1,6 +1,6 @@
-2025-04-18 Fri:
+2025-04-18 Fri: Continued new typed transaction and database interaction, mostly persistence logic.
 
-2025-04-17 Thu: Began working on saving transaction to the internal dtabase. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
+2025-04-17 Thu: Began working on saving transaction to the internal database. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
 
 2025-04-16 Wed: Continued refactoring for typed transaction.
 
