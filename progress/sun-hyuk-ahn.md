@@ -4,7 +4,7 @@
 
 2025-04-16 Wed: Continued refactoring for typed transaction.
 
-2025-04-15 Tue: [Updated]() to the `debug_traceCall` logic that configured the status of the block=.
+2025-04-15 Tue: [Updated]() to the `debug_traceCall` logic that configured the status of the block.
 
 2025-04-14 Mon: Analyzed devnet outage issue. Realized Contabo servers were having troubles.
 
