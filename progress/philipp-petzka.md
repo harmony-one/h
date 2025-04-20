@@ -1,3 +1,7 @@
+2025-04-20 I helped finalize the farming strategies that will be deployed on Sonic and discussed automated liquidity management strategies further to find a solution for identifying upcoming volatility for certain coins.
+
+Taking the basis trade yield product idea, Aaron suggested an option-based yield product. I started studying the basic mechanics of options and how they work. In addition, I looked into MegaETH to identify its potential compared to Berachain from a yield farming perspective. 
+
 2025-04-13 I started collecting volatility data of coins such as BTC or S to develop a first draft of a portfolio-balancing strategy. The strategy leverages a top-down approach to identify the optimal range in concentrated liquidity pools and measure weather to adjust the range during increased levels of volatility. The strategy needs to get tested and verified once we have price data on the minute level. 
 
 I connected with Artem to help him navigate the Sonic ecosystem during his tests and explain how protocols work or where to find certain functions.
