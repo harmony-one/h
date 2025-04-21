@@ -1,3 +1,7 @@
+2025-04-21 Mon: [included](https://github.com/harmony-one/shadow-scraper/commit/c275f9662955cd8cd7993528378c53afddfb2525) Spectra apr into common portfolio script, [merged](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_export.tsv) all stats together into one table, synced with Rika and Frank and prepared new tasks, synced with Li on top candidates for stable pool, discussed next steps.
+
+---
+
 2025-04-20 Sun (1.0h): looked at Sonic scUSD internal structure, core features and potential risks. Checked Pendle PT aUSDC, updated top candidates for stable pool.
 
 2025-04-18 Fri: reviewed and merged Rika's [pull request](https://github.com/harmony-one/shadow-scraper/pull/3) with Spectra apr calculation; the last part of Spectra rewards is the LP fee. Checked Euler script, [added](https://github.com/harmony-one/shadow-scraper/commit/224f87b78538f1b6dcfdd6ca3a2b355548f5b8c1) additional Merkle rewards. [USDC.e Euler vault](https://app.euler.finance/vault/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic) APR from script = 4.24%, Euler client = 6.80%.
