@@ -1,3 +1,5 @@
+2025-04-20 Sun: Continued with debugging implementation of LP fee calculation.
+
 2025-04-19 Sat: Continuation of LP fee calculation. Currently working on debugging logic implementation.
 
 2025-04-18 Fri: Verification/testing of updated Spectra PT+LP Rewards APR. Look into LP fees.
