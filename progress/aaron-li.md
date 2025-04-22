@@ -1,4 +1,4 @@
-2025-4-21 Mon (0.9h+): Research on Hyperliquid, Deribit, Derive, and Binance APIs and on-chain interactions.
+2025-4-21 Mon (1.9h+): Research on Hyperliquid, Deribit, Derive, and Binance APIs and on-chain interactions.
 
 2025-4-19 Sat (0.9h): Evaluate top candidates for stable yield. Planning for analytics and management tools.
 
