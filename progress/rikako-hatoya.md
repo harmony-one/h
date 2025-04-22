@@ -1,3 +1,5 @@
+2025-04-21 Mon: Started working on testing for portfolio-script. Checking of deposit rewards for Shadow.
+
 2025-04-20 Sun: Continued with debugging implementation of LP fee calculation.
 
 2025-04-19 Sat: Continuation of LP fee calculation. Currently working on debugging logic implementation.
