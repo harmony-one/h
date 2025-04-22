@@ -1,3 +1,5 @@
+2025-04-22 Tue: research on Pendle + [Equilibria](https://equilibria.fi/stake) aUSDC pool and [Beefy](https://beets.fi/pools/sonic/v3/0x43026d483f42fb35efe03c20b251142d022783f2) USDC.e/scUSD, sent both reports to Li. Started comparing Equilibria vs Penpie pools. Both pools rewards based on StandardizedYield (SY), asked Frank and Rika to start looked for details about SY on Equilibria and Penpie and then calculate SY rewards apr. Verified Rika's formula for calculating Spectra LP Fees, everything is correct; finalizing some details to add this rewards to our portfolio script.
+
 2025-04-21 Mon: [included](https://github.com/harmony-one/shadow-scraper/commit/c275f9662955cd8cd7993528378c53afddfb2525) Spectra apr into common portfolio script, [merged](https://github.com/harmony-one/shadow-scraper/blob/main/export/portfolio_export.tsv) all stats together into one table, synced with Rika and Frank and prepared new tasks, synced with Li on top candidates for stable pool, discussed next steps.
 
 ---
