@@ -1,4 +1,4 @@
-2025-4-22 Tue (0.5h+): Verify Penpie reward and growth in total value locked.
+2025-4-22 Tue (0.7h): Verify Penpie reward and growth in total value locked.
 
 2025-4-21 Mon (3.1h): Research on Hyperliquid, Deribit, Derive, and Binance APIs and on-chain interactions.
 
