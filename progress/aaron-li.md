@@ -1,4 +1,4 @@
-2025-4-22 Tue (3.7h+): Re-evalaute total value locked and incentive portion of top stable strategies. Discuss top candidates for stable strategies, risks, anomalies, and explore new strategies leveraging interest rate differences. Verify Penpie reward and growth in total value locked.
+2025-4-22 Tue (3.8h): Re-evalaute total value locked and incentive portion of top stable strategies. Discuss top candidates for stable strategies, risks, anomalies, and explore new strategies leveraging interest rate differences. Verify Penpie reward and growth in total value locked.
 
 2025-4-21 Mon (3.1h): Research on Hyperliquid, Deribit, Derive, and Binance APIs and on-chain interactions.
 
