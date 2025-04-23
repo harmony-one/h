@@ -1,3 +1,15 @@
+2025-04-22 Tue: Verifying [Penpie](https://www.pendle.magpiexyz.io/stake/0x88C4F34B86907b7221c0061f7a0bBeC9391Ea727) TVL metrics and time to achieve current TVL. Found [anomalies for two markets](https://dune.com/queries/5022329/8302746) which increased TVL by more than 100,000% and 7000% in August of 2024 and 2025. Update: these came from PT-sfPEPE-26SEP2024 and PT-ctsUSDe-10APR2025 respectively.
+
+2025-04-21 Mon: Sync with Yuriy covering additional usd* tracking pairs and [SnapshotX](https://github.com/snapshot-labs?q=sx&type=all&language=&sort=) as primary open source governance tooling. 
+
+---
+
+2025-04-20 Sun: (2.0h) Continued looking into tracking market states. Putting together volatility correlation mapped against key events.
+
+2025-04-19 Sat: (1.0h) Finalizing usd* best options for highest returns paired with lowest risks, Pendle fixed rates provides high returns with balance between risks, Euler multiplying offers higher returns, but risk of liquidation of entire position is too high for our liquidity amounts. Looking into market trends, with more movements into crypto, stable coin approach should be tied to current market state.
+
+2025-04-18 Fri: Continued search into open source governance, [SnapshotX](https://github.com/snapshot-labs?q=sx&type=all&language=&sort=) provides best option that follows our previous governance tooling. Sync with Yuriy to expand data collection to all usd* pools to find the most profitable usd* pool from the last 90 days. Insight: only 3 usd* pools on Shadow have TVL higher than $1m, needs to be kept in mind for allocation dilution. 
+
 2025-04-18 Fri: Continued search into open source governance, [SnapshotX](https://github.com/snapshot-labs?q=sx&type=all&language=&sort=) provides best option that follows our previous governance tooling. Sync with Yuriy to expand data collection to all usd* pools to find the most profitable usd* pool from the last 90 days. Insight: only 3 usd* pools on Shadow have TVL higher than $1m, needs to be kept in mind for allocation dilution. 
 
 2025-04-17 Thu: Completed Vfat [usd* liquidity refactor](https://github.com/ONETheo/stablecoin-lp-optimizer) complete to prioritize stable pairs, with pair volatility tracked over 90 days for tick placement. Insight: largest observed base rate was only 1.89% APR, significantly lower than yield shown on shadow. Shadow allocates xshadow earned through fees from other pools to funnel back into stable pairs. For yields on pairs, weekly tracking of rewards is needed. For strategy, this ties stable yield to volatile governance, leading to uncertainties. [Euler](https://app.euler.finance/positions/0xF6E2ddf7a149C171E591C8d58449e371E6dc7570/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic) markets and [Pendle](https://app.pendle.finance/trade/markets?chains=sonic) fixed rates offer higher and more consistent yields.
