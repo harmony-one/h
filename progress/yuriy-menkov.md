@@ -1,3 +1,6 @@
+
+2025-04-22 Tue: [Finished](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_all) the full data export for positions in the top 10 vfat pools. Still need to load the rewards from gauges for the entire period — after that, we’ll be able to launch advanced analytics to calculate pool strategies. Also did some research on [SnapshotX](https://www.starknet.io/blog/snapshot-x-onchain-voting/) (open-source Snapshot) to work with Harmony, for a governance solution.
+
 2025-04-21 Mon: Continuing work on exporting data for all Shadow pools to generate extended statistics for VFAT. There are several issues with the subgraph when retrieving old positions from many pools — working on resolving them. [Grouped](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export/grouped_vfat_positions.tsv) all VFAT position-settings by cutoff and buffer parameters — most strategies monitor the entire Uniswap price range without restrictions. With no buffer and auto-rebalance enabled, the system instantly reacts as soon as the price moves out of range.
 
 ---
