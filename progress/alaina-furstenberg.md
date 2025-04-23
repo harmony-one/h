@@ -1,3 +1,11 @@
+2025-04-22 Tue: Reading of Charlie Mungers The Psychology of Human Misjudgment + writing of a [tweet](https://x.com/harmonyprotocol/status/1914867999695364537). Sync with the Colossus team, revision of the article, and updating of the animation.
+
+2025-04-21 Mon: [Promotion](https://x.com/harmonyprotocol/status/1914516806682992985) of Jeet Bets and [tweet](https://x.com/harmonyprotocol/status/1914388334300029011) on Pendle Boros. Creation of shorts using Descript for Harmony youtube channel.
+
+---
+
+2025-04-20 Sun (1.0 hr): Revision of team's /p formatting.
+
 2025-04-19 Sat (1.0 hr): Animation of graphic + writing of the [progress thread](https://x.com/harmonyprotocol/status/1913734507724968290).
 
 2025-04-18 Fri: [Update](https://x.com/harmonyprotocol/status/1913304302501994792) of the Harmony community section. Revision of Colossus article. Insights: ... Writing of Week 3 of the April newsletter. Thread + design of graphic. Review of the team's /p for the upcoming progress thread. 
