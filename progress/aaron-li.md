@@ -1,4 +1,4 @@
-2025-4-23 Wed (1.1h): Research and improve LP and hedge based strategy.
+2025-4-23 Wed (1.8h+): Research and improve LP and hedge based strategy.
 
 2025-4-22 Tue (7.3h): Discuss top candidates for stable strategies, risks, anomalies, and explore new strategies leveraging interest rate differences. Re-evalaute total value locked and incentive portion of top stable strategies. Verify Penpie reward and growth in total value locked.
 
