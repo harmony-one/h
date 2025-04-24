@@ -1,4 +1,4 @@
-2025-4-24 Thu (1.9h+): Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance. Research on Hyperliquid, Deribit, and Derive APIs and on-chain interactions.
+2025-4-24 Thu (2.9h+): Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance. Research on Hyperliquid, Deribit, and Derive APIs and on-chain interactions.
 
 2025-4-23 Wed (7.5h): Research on top, new stablecoins outside Sonic (USDS, deUSD, USDO, reUSD, f(x), alUSD, DOLA) and their sources of yield. Research and improve LP and hedge based strategy.
 
