@@ -1,3 +1,9 @@
+2025-04-25 Fri: Design of the thumbnail, and publishing the April 2025 newsletter. Working in Runway to create the anime version of "Harmony as ONE's Future". Update of the Harmony community section and posted to X.
+
+2025-04-24 Thu: Worked in ChatGPT to turn the video "Harmony as ONE's Future" into Nippon animation style. Imported the 21 assets and began turning them into videos, which I'll eventually edit together with the original audio. Continuation writing the April newsletter. 
+
+2025-04-23 Wed: Created [graphic](https://x.com/harmonyprotocol/status/1915227427372241273) promoting FlappyH1. Writing of the April newsletter and continued edits to the Colossus animation. Reviewed second iteration of the article.
+
 2025-04-22 Tue: Reading of Charlie Mungers The Psychology of Human Misjudgment + writing of a [tweet](https://x.com/harmonyprotocol/status/1914867999695364537). Sync with the Colossus team, revision of the article, and updating of the animation.
 
 2025-04-21 Mon: [Promotion](https://x.com/harmonyprotocol/status/1914516806682992985) of Jeet Bets and [tweet](https://x.com/harmonyprotocol/status/1914388334300029011) on Pendle Boros. Creation of shorts using Descript for Harmony youtube channel.
