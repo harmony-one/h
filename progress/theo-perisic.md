@@ -1,4 +1,10 @@
-2025-04-22 Tue: Verifying [Penpie](https://www.pendle.magpiexyz.io/stake/0x88C4F34B86907b7221c0061f7a0bBeC9391Ea727) TVL metrics and time to achieve current TVL. Found [anomalies for two markets](https://dune.com/queries/5022329/8302746) which increased TVL by more than 100,000% and 7000% in August of 2024 and 2025. Update: these came from PT-sfPEPE-26SEP2024 and PT-ctsUSDe-10APR2025 respectively.
+2025-04-25 Fri: Continued sourcing aggregated stable coin bond markets. Answered [Euler](https://app.euler.finance/strategies?network=sonic) and Pendle due diligence questions. Insight: usdc.e supply on Euler without liquidation risks pairs well with Pendle expiring bonds. Necessary step is finding vePENDLE value to obtain maximum boosted directly on Pendle to see if locking is worth it. Strategy without locking, which allows for much more favorable liquid assets, is Equilibria. 
+
+2025-04-24 Thu: Sourcing Penpie and Equilibria fee distributions to compare with native [Pendle](https://app.pendle.finance/trade/pools?chains=sonic). Insights: [Equilibria](https://equilibria.fi/stake) offers highest returns without locking vePENDLE for the end user. (12.67% for Equilibria vs 13.69%) values updated every 7 days.
+
+2025-04-23 Wed: For Sonic [Pendle pools](https://equilibria.fi/stake), 9.3% Sonic rewards are the main driver for aUSDC liquidity providing yields. Insight: important for us to keep in mind how Sonic will be released (June 2025: 25% immediately claimable, 75% vested over 270 days via NFT positions.)
+
+2025-04-22 Tue: Completed custom Dune analytics queries to verify [Penpie metrics](https://www.pendle.magpiexyz.io/stake/0x88C4F34B86907b7221c0061f7a0bBeC9391Ea727). TVL metrics and time to achieve current TVL. Found [anomalies for two markets](https://dune.com/queries/5022329/8302746) which increased TVL by more than 100,000% and 7000% in August of 2024 and 2025. Update: these came from PT-sfPEPE-26SEP2024 and PT-ctsUSDe-10APR2025 respectively.
 
 2025-04-21 Mon: Sync with Yuriy covering additional usd* tracking pairs and [SnapshotX](https://github.com/snapshot-labs?q=sx&type=all&language=&sort=) as primary open source governance tooling. 
 
