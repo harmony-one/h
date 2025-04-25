@@ -1,6 +1,12 @@
-2025-04-17 Thu:
+2025-04-25 Fri: Main focus was on the issue - some Contabo nodes had extra internal routes for the same subnet, which caused inconsistent behavior when one server had a route and another did not, or when a gateway misrouted internal traffic. This broke internal communication, while our devnet/testnet design expects all nodes to communicate over the public Internet like mainnet peers. Main advantage - fixing this ensures consistent and reliable network behavior across all devnet/testnet nodes, eliminating hidden connectivity issues and making the environment more accurately reflect real-world mainnet conditions.
 
-From the testing side and preparation to the fresh relase, I was checking the state of the go 1.24.2 update and found 2 problems:
+Additionally, after a few complains from the Ledger users I've created a small [PR](https://github.com/harmony-one/staking-dashboard/pull/724) with steps how-to properly connect ledger.
+
+And finally,  I was helping Konstantin with the [issue](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) testing.
+
+---
+
+2025-04-17 Thu: From the testing side and preparation to the fresh relase, I was checking the state of the go 1.24.2 update and found 2 problems:
 * view change that occurs time to time only on the epoch change, checked by me and shared with the [team](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) - in short - we faced one more rare edge case which should covered.
 * [bootnode restart is crashing leveldb](https://github.com/harmony-one/harmony/issues/4883) - verified fix by Gheis, everything works fine.
 * added to the bootnode possibility to serve RPC request from the public network interface - now we can send POST request to it and get the understanding of its state.
@@ -9,9 +15,7 @@ As part of my on-call activities, I was fixing both devnet and testnet networks 
 
 ---
 
-2025-04-11 Fri:
-
-From the operational side, I've shared the Harmony archival mainnet db with pinax.network, helped one of validator users with his setup and added the [hint](https://docs.harmony.one/home/network/validators/node-setup/generating-a-bls-key#configuring-the-bls-keys) in our official documentation about the user problem and, finally, explained to one of validators why there is an alarm icon in the Metamask on the staking website - it was just a fresh UI/UX improvement from Metamask team.
+2025-04-11 Fri: From the operational side, I've shared the Harmony archival mainnet db with pinax.network, helped one of validator users with his setup and added the [hint](https://docs.harmony.one/home/network/validators/node-setup/generating-a-bls-key#configuring-the-bls-keys) in our official documentation about the user problem and, finally, explained to one of validators why there is an alarm icon in the Metamask on the staking website - it was just a fresh UI/UX improvement from Metamask team.
 
 From the testing side, I was checking the state of the go 1.24.2 update and found 2 problems:
 * view change that occurs time to time only on the epoch change - shared details with Konstantin
@@ -21,9 +25,7 @@ As part of my on-call activities, I've improved our check the peer state dashboa
 
 ---
 
-2025-04-04 Fri:
-
-This week was a great one in all work aspects.
+2025-04-04 Fri: This week was a great one in all work aspects.
 CI topic - now we are running only for the PR and dev/main, main advantage, as I've mentioned before - it will reduce wait time by 50%. Example for [dev branch](https://github.com/harmony-one/harmony/runs/39939345648) and [for PR](https://github.com/harmony-one/harmony/runs/39927672610).
 
 And [I've also fixed 3rd party dependency](https://github.com/harmony-one/harmony-test/pull/41) in our CI runs due to renaming of rossetta-cli repo to the mesh-cli and tests have started to run again.
@@ -42,9 +44,7 @@ On the ops side, I integrated ssl-exporter, optimized Nginx configs, and resolve
 
 ---
 
-2025-03-28 Fri:
-
-My main focus was to finish two PRs for the testing area - I've added more test cases for the debug_traceCall operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) and now it is already running against each new CI run. And also I've finished the regression tests for [the effectiveGas price after final fix in the main repo](https://github.com/harmony-one/harmony-test/pull/38).
+2025-03-28 Fri: My main focus was to finish two PRs for the testing area - I've added more test cases for the debug_traceCall operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) and now it is already running against each new CI run. And also I've finished the regression tests for [the effectiveGas price after final fix in the main repo](https://github.com/harmony-one/harmony-test/pull/38).
 
 Additionally, I am helping Konstantin with a [huge dependency update to eth 1.9.25 testing](https://github.com/harmony-one/harmony/pull/4867/).
 
@@ -52,9 +52,7 @@ And finally, I've just started my work on the Travis CI enhancement, right now w
 
 ---
 
-2025-03-21 Fri:
-
-My main focus was the testing area - I've created new test cases for the debug_traceCall operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) will run against every CI run after the merge insuring RPC integrity after each run.
+2025-03-21 Fri: My main focus was the testing area - I've created new test cases for the debug_traceCall operation block and state overrides, [test suite](https://github.com/harmony-one/harmony-test/pull/39) will run against every CI run after the merge insuring RPC integrity after each run.
 
 Additionally, I've helped with the appropriate solution for the effectiveGas price operation fix, deployed it, and reran [my regression test suite - now it is passing all the test](https://github.com/harmony-one/harmony-test/pull/38).
 
@@ -62,17 +60,13 @@ And finally as part of my on-call, I was helping with stabilization of the devne
 
 ---
 
-2025-03-14 Fri:
-
-Main focus of this week was [the fix for the our CI](https://github.com/harmony-one/harmony/pull/4871), because two binary dependencies go-imports and genocodec were using latest version instead of pinned one. So I've checked our genocodec version previously [forked by Eugene Kim](https://github.com/harmony-ek/gencodec) and decided to switch to the main repo, because repo was already switched from vendor dependencies to the modules structure and have a release. Together with Konstantin we decided to use and pin previous of go-imports. Additionally, I've hotfixed the strange behavior with GOPATH in the CI.
+2025-03-14 Fri: Main focus of this week was [the fix for the our CI](https://github.com/harmony-one/harmony/pull/4871), because two binary dependencies go-imports and genocodec were using latest version instead of pinned one. So I've checked our genocodec version previously [forked by Eugene Kim](https://github.com/harmony-ek/gencodec) and decided to switch to the main repo, because repo was already switched from vendor dependencies to the modules structure and have a release. Together with Konstantin we decided to use and pin previous of go-imports. Additionally, I've hotfixed the strange behavior with GOPATH in the CI.
 
 Additionally, I've communicated the future work to be done with Soph and asked one of validators to turn off his backup node detected by our monitoring.
 
 ---
 
-2025-03-07 Fri:
-
-Main focus of this week was the Nginx updates:
+2025-03-07 Fri: Main focus of this week was the Nginx updates:
 * remove OCSP Stapling from SSL certs - Let's encrypt asked to stop use this feature, they will drop support it in May.
 * enable HTTP2 on the RPC endpoints - should improve overall performance due to built multiplexing.
 * renew SSL on our RPCs endpoints
@@ -81,9 +75,7 @@ From the operations side, as part of my on-call, I've fixed our monitoring for t
 
 ---
 
-2025-02-28 Fri:
-
-From the testing perspective, I've created set of regression tests for the [effectiveGasPrice RPC operation](https://github.com/harmony-one/harmony-test/pull/38), it covers 3 transactions from the old version of binary and also check for the latest operation in blockchain, checks all 3 namespaces(hmy,hmyv2, eth). Main advantage - we can easily run as a smoke test on each fresh release in the testnet.
+2025-02-28 Fri: From the testing perspective, I've created set of regression tests for the [effectiveGasPrice RPC operation](https://github.com/harmony-one/harmony-test/pull/38), it covers 3 transactions from the old version of binary and also check for the latest operation in blockchain, checks all 3 namespaces(hmy,hmyv2, eth). Main advantage - we can easily run as a smoke test on each fresh release in the testnet.
 The main focus of this week was three ops tasks.
 
 From the operations side, I've found the way how to check what application/server is sending the most of the logs to the Loki and found how to threat this logs separately. These actions helped with the space usage on the monitoring server, now it is stable 65%, previously it was around 96-97%.
@@ -92,9 +84,7 @@ Finally, as part of my on-call, I've fixed numerous alarms connected with the st
 
 ---
 
-2025-02-21 Fri:
-
-The main focus of this week was three ops tasks.
+2025-02-21 Fri: The main focus of this week was three ops tasks.
 
 The first one was to check why the watchdog is reporting an issue on the block that looks normal in explorer - 2 seconds from the previous one.
 In fact, the watchdog is reporting everything correctly, because it is checking internal validators and RPC last block time and for them the reported block is really having issues on the proposal time.
@@ -105,9 +95,7 @@ The third one was to add alarms and logs view on the integrated [ssl-exporter](h
 
 ---
 
-2025-02-14 Fri:
-
-The main focus of this week was to enhance our monitoring stack with [ssl-exporter](https://github.com/ribbybibby/ssl_exporter). I've researched how to put endpoints to monitor and put it as an additional container, integrated it with the current Prometheus stack, developed a dashboard to observe endpoints in one place. Main advantage - now we have one place where we can check the SSL state of all our endpoints and their expiration time.
+2025-02-14 Fri: The main focus of this week was to enhance our monitoring stack with [ssl-exporter](https://github.com/ribbybibby/ssl_exporter). I've researched how to put endpoints to monitor and put it as an additional container, integrated it with the current Prometheus stack, developed a dashboard to observe endpoints in one place. Main advantage - now we have one place where we can check the SSL state of all our endpoints and their expiration time.
 
 From the testing side, I've checked how to better handle logs for the rossetta test for both local and CI run. Now both stdout/stderr will be stored in the `output_rossetta.log`, main benefit - logs are silenced for the CI, but we still have them if we need to debug issues like it was with Sun's PR last week.
 
@@ -115,9 +103,7 @@ And finally from the ops side, I've fixed several issues like filesystem corrupt
 
 ---
 
-2025-02-07 Fri:
-
-The main focus of this week was to help with ongoing issues with the latest `v2025.0.0` release.
+2025-02-07 Fri: The main focus of this week was to help with ongoing issues with the latest `v2025.0.0` release.
 
 The new `effectiveGasPrice` field in the recipient transactions is crashing the RPC call for the old transactions, [link](https://github.com/harmony-one/harmony/issues/4843). I've helped Konstantin with initial debugging, reproduced the issue in the testnet, collected stacktrace and given a user a way to mitigate the impact of the issue.
 
@@ -131,9 +117,7 @@ And finally from the consensus side, I've helped Sun with rosetta tests debug an
 
 ---
 
-2025-01-31 Fri:
-
-The main focus of this week was to stabilize bootnodes in the mainnet, community validators started to complain about connectivity timings again and while it has become better we need to enhance it even more.
+2025-01-31 Fri: The main focus of this week was to stabilize bootnodes in the mainnet, community validators started to complain about connectivity timings again and while it has become better we need to enhance it even more.
 What I found - excessive logging, sometimes we have debug level logs and gives out of space issues.Fixed space problem and checked the logs and found that we have libp2p topics and peer from other networks.
 For example, even devnet has thousands of peers despite the fact that we are the only ones who control it.
 I've shared all my findings with the consensus team and Gheis started to work on the possible solution asap.
