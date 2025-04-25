@@ -1,3 +1,5 @@
+2025-4-25 Fri (0.3h): Review top strategy candidates.
+
 2025-4-24 Thu (7.5h): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside. Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance. Research on Hyperliquid, Deribit, and Derive APIs and on-chain interactions. Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance.
 
 2025-4-23 Wed (7.5h): Research on top, new stablecoins outside Sonic (USDS, deUSD, USDO, reUSD, f(x), alUSD, DOLA) and their sources of yield. Research and improve LP and hedge based strategy.
