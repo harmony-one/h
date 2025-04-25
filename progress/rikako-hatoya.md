@@ -1,3 +1,5 @@
+2025-04-24 Thu: Continued research with SY APY for Penpie. Looked into APR calculation for LP fees for Spectra.
+
 2025-04-23 Wed: Research on Penpie: further investigation on SY APY through Penpie. Looked into how Penpie rewards system (mPENDLE) and the voting system (vePENDLE) on Pendle works.
 
 2025-04-22 Tue: Looked into how SY rewards work on Penpie/PENDLE: checked their docs and API, found SY-aUSDC token address, found PENDLE's advertised SY APR calculation method, currently working on manually verifying the rate for APR. Also working on Spectra again to 1. fix discrepancies found from yesterday's testing, 2. total volume estimated from number of swaps seem to have been working at one point but now the values seem off - checking now.
