@@ -1,3 +1,17 @@
+2025-04-25 Fri:
+
+Main focus was on the issue - some Contabo nodes had extra internal routes for the same subnet, which caused inconsistent behavior when one server had a route and another did not, or when a gateway misrouted internal traffic. This broke internal communication, while our devnet/testnet design expects all nodes to communicate over the public Internet like mainnet peers. Main advantage - fixing this ensures consistent and reliable network behavior across all devnet/testnet nodes, eliminating hidden connectivity issues and making the environment more accurately reflect real-world mainnet conditions.
+
+Additionally, after a few complains from the Ledger users I've created a small [PR](https://github.com/harmony-one/staking-dashboard/pull/724) with steps how-to properly connect ledger.
+
+And finally,  I was helping Konstantin with the [issue](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) testing.
+
+---
+
+2025-04-18 - 2025-04-22 - PTO
+
+---
+
 2025-04-17 Thu:
 
 From the testing side and preparation to the fresh relase, I was checking the state of the go 1.24.2 update and found 2 problems:
