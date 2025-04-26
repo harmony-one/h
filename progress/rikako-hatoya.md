@@ -1,3 +1,5 @@
+2025-04-25 Fri: Further looking into Penpie. Working on adding APR calculation script.
+
 2025-04-24 Thu: Continued research with SY APY for Penpie. Looked into APR calculation for LP fees for Spectra.
 
 2025-04-23 Wed: Research on Penpie: further investigation on SY APY through Penpie. Looked into how Penpie rewards system (mPENDLE) and the voting system (vePENDLE) on Pendle works.
