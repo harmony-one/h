@@ -1,4 +1,4 @@
-2025-4-26 Sat (1.0h+): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside.
+2025-4-26 Sat (2.0h+): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside.
 
 2025-4-25 Fri (4.8h): Review top strategy candidates.
 
