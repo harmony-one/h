@@ -1,3 +1,9 @@
+2025-04-25 Fri:
+- This week, I focused on integrating the consensus module with the Loki logging system. I enhanced the consensus logging infrastructure to produce structured logs, significantly improving the experience when analyzing data in Grafana.
+- In addition, I refactored the logger to populate consensus-related fields without requiring a lock. Previously, acquiring locks for logging was a delicate task that demanded careful handling to avoid deadlocks or performance degradation. The updated implementation eliminates the need for locks entirely, simplifying the system and reducing the risk of misuse within the consensus logging logic.
+
+---
+
 2025-04-18 Fri:
 - This week, I implemented a fix for the view change issue that occurred during the updateConsensusInformation function call.
   Previously, this call could interrupt the leader’s signature collection process, leading to an unintended view change. The patch ensures smoother consensus updates without disrupting the leader’s operation.
