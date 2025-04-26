@@ -1,4 +1,8 @@
 
+2025-04-25 Fri: Finished analyzing VFAT positions and strategies based on the collected data. Added a [document](https://github.com/harmony-one/shadow-pool-analytics/blob/main/docs/vfat_analysis.md) with key findings on pools, losses, the impact of auto-rebalancing, and overall conclusions. Fixed errors in range tracking calculations and corrected the alignment of position timestamps with hours_pool_data.
+
+2025-04-24 Thu: [Added](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_all) missing pool data. Updated script integration and collected statistical information — [resulting](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_all/positions-stats-all.tsv) in a complete dataset including: position, price range, deposits, profit, annual percentage rate, time in range, impermanent loss, wallet, strategy settings, pool, and more.
+
 2025-04-23 Wed: Finished exporting all rewards across all tokens, as well as hourly data on pool states. Currently working on the final script for data aggregation and position statistics calculation — vfat strategies (the exported data covers 45% of all vfat positions and the top 10 pools with 90% of the TVL). 
 
 2025-04-22 Tue: [Finished](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_all) the full data export for positions in the top 10 vfat pools. Still need to load the rewards from gauges for the entire period — after that, we’ll be able to launch advanced analytics to calculate pool strategies. Also did some research on [SnapshotX](https://www.starknet.io/blog/snapshot-x-onchain-voting/) (open-source Snapshot) to work with Harmony, for a governance solution.
