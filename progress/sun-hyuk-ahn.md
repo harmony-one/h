@@ -1,3 +1,19 @@
+2025-04-28 - 2025-05-02: Out of office.
+
+---
+
+2025-04-25 Fri: Analyzed the commits for the upcoming release candidates. Went over the release documentations.
+
+2025-04-24 Thu: [Generalized](https://github.com/harmony-one/harmony/a930dkbid) typed transaction logic handling and implemented the required logic for each typed transactions.
+
+2025-04-23 Thu: [Added]() processing logic and persistent logic for the optional access list typed transaction.
+
+2025-04-22 Thu: Continued legacy transaction implementation. Began implementing optional access list typed transaction.
+
+2025-04-21 Mon: Began implementing legacy transaction.
+
+---
+
 2025-04-18 Fri: Continued new typed transaction and database interaction, mostly persistence logic.
 
 2025-04-17 Thu: Began working on saving transaction to the internal database. Large scale change needs to be done here. Analyzed internal database and transaction interaction.
