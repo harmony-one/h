@@ -1,0 +1,2 @@
+name	address	deposit_time	deposit_asset0	deposit_asset1	deposit_amount0	deposit_amount1	deposit_value0	deposit_value1	deposit_value	reward_asset0	reward_asset1	reward_amount0	reward_amount1	reward_value0	reward_value1	reward_value	total_days	total_blocks	apr	type	deposit_link
+equilibria	0x3F5EA53d1160177445B1898afbB16da111182418	23/04/25 12:24:46	eqbPENDLE-LPT		10		10		10	PENDLE		0.000507673974839931		0.00183778		0.00183778	2.000	86400	3.35395	Yield Farming	https://equilibria.fi/dashboard
