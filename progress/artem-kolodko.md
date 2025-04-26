@@ -1,3 +1,7 @@
+2025-04-26 Sat (4.0h): created [script](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/euler/history.ts) to export historical lending APR for Euler vaults. [Exported](https://github.com/harmony-one/shadow-scraper/blob/main/docs/Euler-USDC.e-apr.md) lending APR for MEV Capital Sonic Cluster USDC.e and Re7 Labs Cluster USDC.e vaults for the last 30 days.
+
+2025-04-25 Fri: [completed](https://portfolio-tracker-api.fly.dev/portfolioSnapshots) simple backend app with cron job to export wallet portfolio on daily basis. Synced with Frank and Rika on Penpie and Equilibria progress. The goal is to complete first version of script next week and compare performance with underlying Pendle LP.
+
 2025-04-24 Thu: looked at [delta neutral strategy](https://yielddev.io/deep-delta-neutral-fixed-pt-yield-on-sonic-with-euler) for wS pool on Euler. [Started](https://github.com/harmony-one/shadow-scraper/commit/d5e1f1b92972eee93e09efb6913fc863820092d7) working on portfolio client with data updated by cron job for specific wallet to track wallet performance over time.
 
 2025-04-23 Wed: prepared reports on [Beefy frxUSD-​scUSD](https://app.beefy.com/vault/swapx-ichi-frxusd-scusd) and [MEV USDC.e](https://app.euler.finance/vault/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic), estimated impermanent loss risks for both pools, sent reports to Li. Sync with team.
