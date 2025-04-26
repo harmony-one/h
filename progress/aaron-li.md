@@ -1,3 +1,5 @@
+2025-4-26 Sat (1.0h+): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside.
+
 2025-4-25 Fri (4.8h): Review top strategy candidates.
 
 2025-4-24 Thu (7.5h): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside. Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance. Research on Hyperliquid, Deribit, and Derive APIs and on-chain interactions. Research on reUSD (resupply.fi), yield mechanisms, stablecoin attestations, Exilir, and Inverse Finance.
