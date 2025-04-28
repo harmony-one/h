@@ -1,3 +1,11 @@
+2025-04-28 Mon: Completed initial [Jupyter-like notebook for Shadow pools](https://github.com/ONETheo/shadow-lp-analyzer) based on Yuriy’s data collection.
+
+---
+
+2025-04-27 Sun: (2.0h) Reviewed marketing copy for Colossus, made corrections and sent edits to Alaina and Colossus team. 
+
+2025-04-26 Sat: (1.0h) Collected April team updates to iterate on monthly newsletter title. Sync with Alaina for newsletter.
+
 2025-04-25 Fri: Continued sourcing aggregated stable coin bond markets. Answered [Euler](https://app.euler.finance/strategies?network=sonic) and Pendle due diligence questions. Insight: usdc.e supply on Euler without liquidation risks pairs well with Pendle expiring bonds. Necessary step is finding vePENDLE value to obtain maximum boosted directly on Pendle to see if locking is worth it. Strategy without locking, which allows for much more favorable liquid assets, is Equilibria. 
 
 2025-04-24 Thu: Sourcing Penpie and Equilibria fee distributions to compare with native [Pendle](https://app.pendle.finance/trade/pools?chains=sonic). Insights: [Equilibria](https://equilibria.fi/stake) offers highest returns without locking vePENDLE for the end user. (12.67% for Equilibria vs 13.69%) values updated every 7 days.
