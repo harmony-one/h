@@ -1,3 +1,7 @@
+2025-04-28 Mon: reviewed Frank's [pull request](https://github.com/harmony-one/shadow-scraper/pull/5) with Equilibria script. Researching [beefy frxUSD-​scUSD](https://app.beefy.com/vault/swapx-ichi-frxusd-scusd) vault to calculate APR. Started drafting 30-days apr estimation for all vaults in our list.
+
+---
+
 2025-04-26 Sat (4.0h): created [script](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/euler/history.ts) to export historical lending APR for Euler vaults. [Exported](https://github.com/harmony-one/shadow-scraper/blob/main/docs/Euler-USDC.e-apr.md) lending APR for MEV Capital Sonic Cluster USDC.e and Re7 Labs Cluster USDC.e vaults for the last 30 days.
 
 2025-04-25 Fri: [completed](https://portfolio-tracker-api.fly.dev/portfolioSnapshots) simple backend app with cron job to export wallet portfolio on daily basis. Synced with Frank and Rika on Penpie and Equilibria progress. The goal is to complete first version of script next week and compare performance with underlying Pendle LP.
