@@ -1,4 +1,8 @@
 
+2025-04-28 Mon: Made an additional export and analysis for vfat USD pools. Started collecting data on ichi's strategies beefy's pools to create a comparative analysis with vfat. Discussing the current analytics results with the team, making adjustments.
+
+---
+
 2025-04-25 Fri: Finished analyzing VFAT positions and strategies based on the collected data. Added a [document](https://github.com/harmony-one/shadow-pool-analytics/blob/main/docs/vfat_analysis.md) with key findings on pools, losses, the impact of auto-rebalancing, and overall conclusions. Fixed errors in range tracking calculations and corrected the alignment of position timestamps with hours_pool_data.
 
 2025-04-24 Thu: [Added](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_all) missing pool data. Updated script integration and collected statistical information — [resulting](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_all/positions-stats-all.tsv) in a complete dataset including: position, price range, deposits, profit, annual percentage rate, time in range, impermanent loss, wallet, strategy settings, pool, and more.
