@@ -1,3 +1,9 @@
+2025-05-02 Fri: day-off
+
+2025-05-01 Thu: day-off
+
+2025-04-30 Wed: day-off
+
 2025-04-29 Tue: analysed vaults past gains, prepared full [report](https://github.com/harmony-one/shadow-scraper/blob/main/docs/vaults-performance.md). Sent vaults allocation suggestion to Li. Reviewed recent fixes in Equilibria [pull request](https://github.com/harmony-one/shadow-scraper/pull/5).
 
 2025-04-28 Mon: reviewed Frank's [pull request](https://github.com/harmony-one/shadow-scraper/pull/5) with Equilibria script. Researching [beefy frxUSD-​scUSD](https://app.beefy.com/vault/swapx-ichi-frxusd-scusd) vault to calculate APR. Started drafting 30-days apr estimation for all vaults in our list.
