@@ -1,3 +1,7 @@
+2025-04-28 Mon: Calculation and verification of conditions on how to activate max boost. Wrote script on verifying rewards for aUSDC PT token.
+
+---
+
 2025-04-27 Sun: Further investigation of vePENDLE. Look into how to write a script for it.
 
 2025-04-26 Sat: Started looking more deeply into vePENDLE. Investigating boost yields and comparison to Penpie/Equilibria.
