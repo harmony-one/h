@@ -1,4 +1,12 @@
-2025-04-25 Fri: Design of the thumbnail, and publishing the April 2025 newsletter. Working in Runway to create the anime version of "Harmony as ONE's Future". Update of the Harmony community section and posted to X.
+2025-04-28 Mon: Reading DL Research on The DeFi Yield Renaissance. Insights: As token rewards fade, DeFi’s next wave of yield is fee-driven. Designed a graphic and wrote a [tweet](https://x.com/harmonyprotocol/status/1917053470169043209) to promote the article. Continuation on AI Anime video. Corresponded with the Colossus team, the campaign will be launching in the next few days. Updating the last progress updates from April.
+
+---
+
+2025-04-27 Sun: Continuation on AI Anime video
+
+2025-04-26 Sat: Revisions the April 2025 newsletter
+
+2025-04-25 Fri: Design of the thumbnail, and revisions the April 2025 newsletter. Working in Runway to create the anime version of "Harmony as ONE's Future". Update of the Harmony community section and posted to X.
 
 2025-04-24 Thu: Worked in ChatGPT to turn the video "Harmony as ONE's Future" into Nippon animation style. Imported the 21 assets and began turning them into videos, which I'll eventually edit together with the original audio. Continuation writing the April newsletter. 
 
