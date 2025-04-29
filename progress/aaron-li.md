@@ -1,4 +1,4 @@
-2025-4-28 Mon (4.4h+): Evaluate proposed yield candidates and allocations.
+2025-4-28 Mon (4.8h): Evaluate proposed yield candidates and allocations.
 
 2025-4-26 Sat (4.7h): Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside. Evaluate and discuss auto-rebalancing negative effect on yield and loss in principal, and optimal auto-rebalancing parameter setup. Evaluate return over time using xSHADOW yield vs SHADOW. Research on synthetic put options, and alternative methods to hedge S volatility while capturing upside.
 
