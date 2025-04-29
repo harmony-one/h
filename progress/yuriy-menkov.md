@@ -1,3 +1,4 @@
+2025-04-29 Tue: Continue research on swapx vault ICHI strategies: Exported data on the vaults, including deposit, withdrawal, fee collection, and rebalancing events. Currently exporting the final positions from AlgebraPools to build comparison statistics between manually managed positions and those managed by the vault strategies.
 
 2025-04-28 Mon: Made an additional export and analysis for vfat USD pools. Started collecting data on ichi's strategies beefy's pools to create a comparative analysis with vfat. Discussing the current analytics results with the team, making adjustments.
 
