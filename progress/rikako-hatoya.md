@@ -1,3 +1,5 @@
+2025-04-29 Tue: Was working on PT yield: reading through SY, PT, and router contract ABIs to get entry price while accounting for net-weight for multiple deposits with update in boosts which was seemingly complex but later realized unneccessary work. Switched to working on LP yield.
+
 2025-04-28 Mon: Calculation and verification of conditions on how to activate max boost. Wrote script on verifying rewards for aUSDC PT token.
 
 ---
