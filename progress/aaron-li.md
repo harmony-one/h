@@ -1,4 +1,4 @@
-2025-4-29 Tue (0.2h): Review Magic Internet Money (abracadabra.money) and yield.
+2025-4-29 Tue (1.1h+): Review Magic Internet Money (abracadabra.money) and yield.
 
 2025-4-28 Mon (4.8h): Evaluate proposed yield candidates and allocations.
 
