@@ -1,3 +1,5 @@
+2025-04-30 Wed: [Added](https://github.com/rikaa15/shadow-scraper/commit/2c5f2be20ea359e725e54c300d8a424cdfb9ca32) Pendle LP Yield - LP aUSDC swap fee calculation, by obtaining fee rate from method `getNonOverrideLnFeeRateRoot` in market contract. Currently working on Pendle Incentive Rewards - method `userReward()` on market contract seems to give wrong amount, `readReward()` from SDK seems to be deprecated, and `redeemRewards()` from API gives side effects - will see if I can use `callStatic()` in ethers to prevent side effects.
+
 2025-04-29 Tue: Was working on PT yield: reading through SY, PT, and router contract ABIs to get entry price while accounting for net-weight for multiple deposits with update in boosts which was seemingly complex but later realized unneccessary work. Switched to working on LP yield.
 
 2025-04-28 Mon: Calculation and verification of conditions on how to activate max boost. Wrote script on verifying rewards for aUSDC PT token.
