@@ -1,8 +1,12 @@
+2025-04-30 Wed: Wrote revisions to the April newsletter. [Tweeted](https://x.com/harmonyprotocol/status/1917768785169375537) about i.country. Finished first pass of the Harmony as ONE's Future anime video.
+
+2025-04-29 Tue: Continuation of Harmony as ONE's Future anime video. Finalized the Colossus graphic. [Tweeted](https://x.com/harmonyprotocol/status/1917318552203452876) on the future of DeFi being build for AI bots vs human users.
+
 2025-04-28 Mon: Reading DL Research on The DeFi Yield Renaissance. Insights: As token rewards fade, DeFi’s next wave of yield is fee-driven. Designed a graphic and wrote a [tweet](https://x.com/harmonyprotocol/status/1917053470169043209) to promote the article. Continuation on AI Anime video. Corresponded with the Colossus team, the campaign will be launching in the next few days. Updating the last progress updates from April.
 
 ---
 
-2025-04-27 Sun: Continuation on AI Anime video
+2025-04-27 Sun: Continuation on Harmony as ONE's Future anime video
 
 2025-04-26 Sat: Revisions the April 2025 newsletter
 
