@@ -1,4 +1,4 @@
-2025-4-30 Wed (3.5h+): Evaluate final yield candidates and allocations, and the breakdown of yield derivative and lending options. Implement tools to verify Beefy vault principal preservation, actual return, and realized yield.
+2025-4-30 Wed (4.5h+): Evaluate final yield candidates and allocations, and the breakdown of yield derivative and lending options. Implement tools to verify Beefy vault principal preservation, actual return, and realized yield.
 
 2025-4-29 Tue (2.9h): Review Magic Internet Money (abracadabra.money) and yield.
 
