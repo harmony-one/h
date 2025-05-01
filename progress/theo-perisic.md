@@ -1,3 +1,7 @@
+2025-04-30 Wed: Iterations on [notebook for Shadow pools](https://github.com/ONETheo/shadow-lp-analyzer), pulling APR usd* specific information., Completed initial allocation % for usd* strategy, optimizing for highest return with lowest smart contract and rebalancing losses.
+
+2025-04-29 Tue: Working on funding rates for Sonic. Most funding rate api’s are restricted. Will try [coinalyze](https://coinalyze.net/).
+
 2025-04-28 Mon: Completed initial [Jupyter-like notebook for Shadow pools](https://github.com/ONETheo/shadow-lp-analyzer) based on Yuriy’s data collection.
 
 ---
