@@ -1,3 +1,9 @@
+2025-05-02 Fri: Main focus of this week - fix the tests in the pyhmy repo to include them into CI runs - I've updated pyhmy with latest changes from dependencies, merged Max PR with fix, fixed tests, now only one test left with estimate Gas and tests will be ready to be included to the CI, current draft [PR-40](https://github.com/harmony-one/pyhmy/pull/40)
+
+And finally,  I was helping Konstantin with the [issue](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) testing, now it have been spotted in the mainnet, shared details with the team.
+
+---
+
 2025-04-25 Fri: Main focus was on the issue - some Contabo nodes had extra internal routes for the same subnet, which caused inconsistent behavior when one server had a route and another did not, or when a gateway misrouted internal traffic. This broke internal communication, while our devnet/testnet design expects all nodes to communicate over the public Internet like mainnet peers. Main advantage - fixing this ensures consistent and reliable network behavior across all devnet/testnet nodes, eliminating hidden connectivity issues and making the environment more accurately reflect real-world mainnet conditions.
 
 Additionally, after a few complains from the Ledger users I've created a small [PR](https://github.com/harmony-one/staking-dashboard/pull/724) with steps how-to properly connect ledger.
