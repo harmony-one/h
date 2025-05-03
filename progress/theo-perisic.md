@@ -1,3 +1,7 @@
+2025-05-02 Fri: Testing funding rates from Artem’s message, shared relevant data with Phillip for Sonic funding rates since Jan 30 2025. Made copy edits and completed a read through for the April newsletter with Alaina.
+
+2025-05-01 Thu: Changed allocation % for usd* strategy. Insights: Pendle ausdc and silo-20 usdc offer similar risk profiles, but 3%+ apr is too much of a difference to spend allocation adversely.
+
 2025-04-30 Wed: Iterations on [notebook for Shadow pools](https://github.com/ONETheo/shadow-lp-analyzer), pulling APR usd* specific information., Completed initial allocation % for usd* strategy, optimizing for highest return with lowest smart contract and rebalancing losses.
 
 2025-04-29 Tue: Working on funding rates for Sonic. Most funding rate api’s are restricted. Will try [coinalyze](https://coinalyze.net/).
