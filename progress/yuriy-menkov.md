@@ -1,3 +1,8 @@
+
+2025-05-02 Fri: Exported data for all swap operations in the frxUSD/scUSD pool to more accurately determine price changes and calculate the average in-range time for wallets, as well as impermanent loss. Working on the final analysis and conclusion comparing vfat and beefy swapx ichi vaults.
+
+2025-05-01 Thu: [Finished](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/all_wallets.tsv) generating statistics on closed wallets based on data from the Ichi subgraph and gauge contract events. The challenge lies in the fact that a single wallet can have multiple deposits and withdrawals at different times, so I have to calculate the APR for time intervals and average them. Also prepared an [export](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/top_wallets.tsv) for the top wallets with a profit of over 10 dollars.
+
 2025-04-29 Wed: [Added](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/active_wallets.tsv) statistics for the swapx ichi vault frxUSD/scUSD – 60 active wallets with calculated rewards and APR. Some difficulties arise because rewards need to be calculated differently for active and closed positions (via contract method calls or events). I will also expand this table with data on time in range and loss.
 
 2025-04-29 Tue: Continue research on swapx vault ICHI strategies: Exported data on the vaults, including deposit, withdrawal, fee collection, and rebalancing events. Currently exporting the final positions from AlgebraPools to build comparison statistics between manually managed positions and those managed by the vault strategies.
