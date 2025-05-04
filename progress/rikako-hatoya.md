@@ -1,3 +1,5 @@
+2025-05-03 Sat (1.5h): Continuation with underlying yield. Further search on how to get pendle yield data.
+
 2025-05-02 Fri: Started working on implementing underlying yield (USDC.e + wS). Will come back to Pendle incentive later.
 
 2025-05-01 Thu: Continued looking around for fetching unclaimed user PENDLE rewards. [Market contract](https://sonicscan.org/address/0x3f5ea53d1160177445b1898afbb16da111182418#readContract) shows wS and PENDLE as reward tokens but `userReward()` returns 0, no existing subgraph/api (deprecated), [SY](0xc4A9d8b486f388CC0E4168d2904277e8C8372FA3) + [PT](https://sonicscan.org/address/0x930441Aa7Ab17654dF5663781CA0C02CC17e6643) + [YT](https://sonicscan.org/address/0x18D2D54f42ba720851bAE861b98A0F4B079e6027) show only wS rewards which means, rewards should be coming from [GaugeController](https://sonicscan.org/address/0xed0dc8c074255c277bc704d6b096167d7a6e4311) for [Sonic](https://sonicscan.org/address/0xee708fc793a02f1edd5bb9dbd7fd13010d1f7136) (addresses summarized [here](https://github.com/pendle-finance/pendle-core-v2-public/blob/main/deployments/146-core.json)) but only has `rewardData()` for the reward stream and not user specific. 
