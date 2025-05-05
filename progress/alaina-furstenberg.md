@@ -1,4 +1,4 @@
-2025-05-05 Mon: Reading and [posting](https://x.com/harmonyprotocol/status/1919510280759083181) on sETHFI. Insights: Ether.fi is proving that DeFi can scale beyond speculation by stacking real revenues across staking, vaults, and on-chain banking. Beginning to create another Harmony video in Nippon animation style. 
+2025-05-05 Mon: Reading and [posting](https://x.com/harmonyprotocol/status/1919510280759083181) on sETHFI. Insights: Ether.fi is proving that DeFi can scale beyond speculation by stacking real revenues across staking, vaults, and on-chain banking. Beginning to create another Harmony video in Nippon animation style. Published the [April 2025 podcast](https://www.youtube.com/watch?v=6ZCF8BvsoI4) on Youtube.
 
 ---
 
