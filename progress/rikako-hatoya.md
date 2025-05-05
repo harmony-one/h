@@ -1,3 +1,5 @@
+2025-05-04 Sun: Continuation from yesterday's work. Underlying yield + pendle calculation.
+
 2025-05-03 Sat (1.5h): Continuation with underlying yield. Further search on how to get pendle yield data.
 
 2025-05-02 Fri: Started working on implementing underlying yield (USDC.e + wS). Will come back to Pendle incentive later.
