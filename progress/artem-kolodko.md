@@ -1,3 +1,7 @@
+2025-05-05 Mon: [finished](https://github.com/harmony-one/shadow-scraper/commits/main/) collateral exposure history script and export; found [Merkle rewards page](https://app.merkl.xyz/opportunities/sonic/EULER/0x196F3C7443E940911EE2Bb88e019Fd71400349D9) for MEV USDC.e vault ends May 13; helping Rika with Debank data: checked official API - too expensive, found [workaround](https://github.com/ilyx-dev/DebankChecker/tree/main), started testing.
+
+---
+
 2025-05-04 Sun (3.0h): researched details about MEV Capital Sonic [USDC.e](https://app.euler.finance/vault/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic) and prepared [script](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/euler/history-collateral.ts) to extract total supply (assets, deposited by suppliers) and borrows amount to calculate value utilization over the last 30 days, [export file](https://github.com/harmony-one/shadow-scraper/blob/main/docs/EulerCollateralHistory.md). Checking how to get collateral amounts and ratios (LTV, LLTV) for USDC.e.
 
 2025-05-02 Fri: day-off
