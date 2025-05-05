@@ -1,3 +1,15 @@
+2025-05-05 Mon: Reading and [posting](https://x.com/harmonyprotocol/status/1919510280759083181) on sETHFI. Insights: Ether.fi is proving that DeFi can scale beyond speculation by stacking real revenues across staking, vaults, and on-chain banking. Beginning to create another Harmony video in Nippon animation style. 
+
+---
+
+2025-05-04 Sun (1.0 hr): Creation of AI podcast for the April 2025 newsletter in NotebookLM. Began editing graphics to accompany the AI podcast
+
+2025-05-03 Sat (1.0 hr): Review of the team's progress and wrote a [thread]().
+
+2025-05-02 Fri: Publishing of the [April newsletter](https://x.com/harmonyprotocol/status/1918474452528185526). Updating of the community section. Utilized Descript to create a Youtube Short with captioning from the [Harmony as ONE's Future](https://youtube.com/shorts/shrhoYeWS4A?feature=share). 
+
+2025-05-01 Thu: Review and [promotion](https://x.com/harmonyprotocol/status/1918148501944639611) of AthleteFi's April recap. Finalized editing and posted [Harmony as ONE's Future](https://x.com/harmonyprotocol/status/1918068771660636489) in Nippon Animation Style.
+
 2025-04-30 Wed: Wrote revisions to the April newsletter. [Tweeted](https://x.com/harmonyprotocol/status/1917768785169375537) about i.country. Finished first pass of the Harmony as ONE's Future anime video.
 
 2025-04-29 Tue: Continuation of Harmony as ONE's Future anime video. Finalized the Colossus graphic. [Tweeted](https://x.com/harmonyprotocol/status/1917318552203452876) on the future of DeFi being build for AI bots vs human users.
