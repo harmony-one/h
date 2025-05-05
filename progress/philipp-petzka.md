@@ -1,3 +1,9 @@
+2025-05-05: I got data on S funding rates and am currently analyzing it to see if changes in funding rates are a good indicator of upcoming price moves. 
+
+I also did a status check-up on the Berachain ecosystem since it is a potential ecosystem to look into after Sonic. My conclusion is that in the current market environment, the chain economics are not sustainable, especially with the characteristics of participants in their chain ecosystem. 
+
+Besides that, I continued to help the team understand Pendle strategies and assess risks involved. 
+
 2025-04-27: I looked deeper into options and the Box Spread strategy Aaron proposed. First results did not look very promising in terms of potential profitability, yield distribution and its effects on a tokenization, and how safe the yields are. 
 
 I decided to use tracking of funding rates to optimize liquidity provision in volatile pools and looked for backtesting tools. A data set with historical funding rates in short intervals will bring more clarity if the combination of funding rates and liquidity strategy increases profitability for LP management. 
