@@ -1,4 +1,4 @@
-2025-5-5 Mon (3.2h+): Generalizable LP rolling unrealized and realized profit analysis and reporting. Beefy vault LP adaptation. End-to-end analysis on selected vaults.
+2025-5-5 Mon (4.2h+): Generalizable LP rolling unrealized and realized profit analysis and reporting. Beefy vault LP adaptation. End-to-end analysis on selected vaults.
 
 2025-5-4 Sun (1.3h): Generalizable LP rolling unrealized and realized profit analysis and reporting. Beefy vault LP adaptation. End-to-end analysis on selected vaults.
 
