@@ -1,4 +1,4 @@
-2025-05-05 Mon: Tried working through the [Debank checker](https://github.com/ilyx-dev/DebankChecker) Artem found for me. Trouble with proxy, started looking for alternative defi apps and looking back through the Pendle API/contracts. 
+2025-05-05 Mon: Tried working through the [Debank checker](https://github.com/ilyx-dev/DebankChecker) Artem found for me. Trouble with proxy, tried looking for alternative defi apps and looking back through the Pendle API/contracts. 
 
 ---
 
