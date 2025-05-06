@@ -1,4 +1,8 @@
 
+2025-05-05 Mon: Synced with Theo regarding the final comparison between VFAT and Swapx ICHI vaults — we agreed that the most accurate approach is to compare the USDC.e/USDT and frxUSD/scUSD pools separately. Accordingly, I [generated](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/swapx-ichi-wallets-usdc-usdt.csv) the data for the USDT pool on Swapx ICHI and wrote the final report — it's currently under review with Theo.
+
+---
+
 2025-05-02 Fri: Exported data for all swap operations in the frxUSD/scUSD pool to more accurately determine price changes and calculate the average in-range time for wallets, as well as impermanent loss. Working on the final analysis and conclusion comparing vfat and beefy swapx ichi vaults.
 
 2025-05-01 Thu: [Finished](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/all_wallets.tsv) generating statistics on closed wallets based on data from the Ichi subgraph and gauge contract events. The challenge lies in the fact that a single wallet can have multiple deposits and withdrawals at different times, so I have to calculate the APR for time intervals and average them. Also prepared an [export](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/top_wallets.tsv) for the top wallets with a profit of over 10 dollars.
