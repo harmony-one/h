@@ -1,3 +1,7 @@
+2025-05-05 Mon: Tried working through the [Debank checker](https://github.com/ilyx-dev/DebankChecker) Artem found for me. Trouble with proxy, started looking for alternative defi apps and looking back through the Pendle API/contracts. 
+
+---
+
 2025-05-04 Sun: Continuation from yesterday's work. Underlying yield + pendle calculation.
 
 2025-05-03 Sat (1.5h): Continuation with underlying yield. Further search on how to get pendle yield data.
