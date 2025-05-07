@@ -1,3 +1,5 @@
+2025-05-06 Tue: tested [DebankChecker](https://github.com/ilyx-dev/DebankChecker/tree/main) script for Debank data, portfolio data is available (script require some configuration with proxy address). Started working on advanced portfolio metrics: CAGR and MWRR.
+
 2025-05-05 Mon: [finished](https://github.com/harmony-one/shadow-scraper/commits/main/) collateral exposure history script and export; found [Merkle rewards page](https://app.merkl.xyz/opportunities/sonic/EULER/0x196F3C7443E940911EE2Bb88e019Fd71400349D9) for MEV USDC.e vault ends May 13; helping Rika with Debank data: checked official API - too expensive, found [workaround](https://github.com/ilyx-dev/DebankChecker/tree/main), started testing.
 
 ---
