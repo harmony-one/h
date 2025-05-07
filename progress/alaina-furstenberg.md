@@ -1,3 +1,7 @@
+2025-05-07 Wed: Sync with Theo on learning Windsurf and Cursor, AI coding tools. Action items: Youtube tutorials on the basics and designing a basic frontend. Continuation of the second AI video, Blue to Fly. Tweet on FlappyH1, and [Blue to Fly](https://x.com/harmonyprotocol/status/1920256311440085447).
+
+2025-05-06 Tue: Sync with Theo on current initiatives and how learning AI coding tools can include 'non-technical' users, like myself, to become a part of the building process. Continuation of the second AI video, Blue to Fly.
+
 2025-05-05 Mon: Reading and [posting](https://x.com/harmonyprotocol/status/1919510280759083181) on sETHFI. Insights: Ether.fi is proving that DeFi can scale beyond speculation by stacking real revenues across staking, vaults, and on-chain banking. Beginning to create another Harmony video in Nippon animation style. Published the [April 2025 podcast](https://www.youtube.com/watch?v=6ZCF8BvsoI4) on Youtube.
 
 ---
