@@ -1,6 +1,8 @@
 
 2025-05-06 Tue: [Added](https://github.com/harmony-one/shadow-pool-analytics/commit/e10fbefe04101ede92830b875b14fb7cc61aba69) export of an extended version of the raw data for all pools used to calculate the vfat position metrics. Switched to supporting the bridge (upon request from support) — investigating an issue with transferring funds from Harmony to Linea. It looks like there is a problem with some contract settings on the harmony side" 
 
+2025-05-06 Wed: Fixed issue with transfers USDC.e from Harmony to Linea: the problem was with the version update on the unify bridge assets (error in contract sources). The contract was fixed and redeployed, also updated the related frontend and backend services. Users in the community have been notified.
+
 2025-05-05 Mon: Synced with Theo regarding the final comparison between VFAT and Swapx ICHI vaults — we agreed that the most accurate approach is to compare the USDC.e/USDT and frxUSD/scUSD pools separately. Accordingly, I [generated](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/swapx-ichi-wallets-usdc-usdt.csv) the data for the USDT pool on Swapx ICHI and wrote the final report — it's currently under review with Theo.
 
 ---
