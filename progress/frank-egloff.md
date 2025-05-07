@@ -1,3 +1,8 @@
+2025-05-06 Tue: Still with limited capacity due to illness. Completed subgraph integration with Beefy tracker. Added dedicated Beefy subgraph module to centralize tracker subgraphs logic across protocols (Euler, Silo, Shadow). Submitted [PR](https://github.com/harmony-one/shadow-scraper/pull/6) for review and requested code review from Artem.
+
+2025-05-05 Mon: Identified performance bottleneck in Beefy user deposit information retrieval process. Started implementing subgraph integration to significantly improve query speed and efficiency. Also, added USD price conversion for underlying tokens. Note: Working with limited capacity this week due to illness, but making progress on core functionality.
+
+---
 2025-05-03 Sat: (3.5h) Integrated [Price Per Full Share (PPFS) retrieval](https://github.com/harmony-one/shadow-scraper/pull/6) for deposit value calculation in Beefy script, along with both APR and APY calculations. The User Interface currently displays APY as the primary KPI (Key Performance Indicator). Will discuss with team on Monday whether to standardize on APR or APY for reporting purposes. Current implementation calculates all values in underlying tokens rather than USD - will implement price conversion functionality on Monday.
 
 2025-05-02 Fri: Resolved PPFS retrieval issue after researching Beefy's repo - identified an alternative API endpoint for historical Price Per Full Share data. This enables comparison of mooToken prices at deposit time vs current price, essential for tracking actual user APR and APY. Currently implementing API logic in Beefy module within shadow-scraper repo. Will complete implementation over the weekend.
