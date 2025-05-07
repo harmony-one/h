@@ -1,4 +1,4 @@
-2025-5-6 Tue (1.7h+): Emergency exit contracts. Funding rate tracker and monitor. Discussion on final allocations, operation steps, and verify yield.
+2025-5-6 Tue (1.8h): Emergency exit contracts. Funding rate tracker and monitor. Discussion on final allocations, operation steps, and verify yield.
 
 2025-5-5 Mon (7.1h): Generalizable LP rolling unrealized and realized profit analysis and reporting. Beefy vault LP adaptation. End-to-end analysis on selected vaults.
 
