@@ -4,10 +4,13 @@ I also did a status check-up on the Berachain ecosystem since it is a potential 
 
 Besides that, I continued to help the team understand Pendle strategies and assess risks involved. 
 
+---
+
 2025-04-27: I looked deeper into options and the Box Spread strategy Aaron proposed. First results did not look very promising in terms of potential profitability, yield distribution and its effects on a tokenization, and how safe the yields are. 
 
 I decided to use tracking of funding rates to optimize liquidity provision in volatile pools and looked for backtesting tools. A data set with historical funding rates in short intervals will bring more clarity if the combination of funding rates and liquidity strategy increases profitability for LP management. 
 
+---
 
 2025-04-20 I helped finalize the farming strategies that will be deployed on Sonic and discussed automated liquidity management strategies further to find a solution for identifying upcoming volatility for certain coins.
 
