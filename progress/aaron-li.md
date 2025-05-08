@@ -1,3 +1,5 @@
+2025-5-8 Thu (1.0h+): Emergency exit contracts. Funding rate tracker and monitor.
+
 2025-5-7 Wed (4.7h): Emergency exit contracts. Funding rate tracker and monitor.
 
 2025-5-6 Tue (1.8h): Emergency exit contracts. Funding rate tracker and monitor. Discussion on final allocations, operation steps, and verify yield.
