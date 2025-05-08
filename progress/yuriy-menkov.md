@@ -1,4 +1,6 @@
 
+2025-05-08 Thu: Made several adjustments to the data format for the ichi vaults sources / vfat: switched from csv to tsv and corrected an error that caused some amounts to be misinterpreted as dates. Additionally, begun researching yield strategies for bitcoin.
+
 2025-05-07 Wed: Fixed issue with transfers USDC.e from Harmony to Linea: the problem was with the version update on the unify bridge assets (error in contract sources). The contract was fixed and redeployed, also updated the related frontend and backend services. Users in the community have been notified.
 
 2025-05-06 Tue: [Added](https://github.com/harmony-one/shadow-pool-analytics/commit/e10fbefe04101ede92830b875b14fb7cc61aba69) export of an extended version of the raw data for all pools used to calculate the vfat position metrics. Switched to supporting the bridge (upon request from support) — investigating an issue with transferring funds from Harmony to Linea. It looks like there is a problem with some contract settings on the harmony side" 
