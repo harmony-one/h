@@ -1,3 +1,11 @@
+2025-05-09 Fri: Main focus was to include tests in the pyhmy repo to include them into CI runs, I've fixed estimate gas test - issue was with smart contract without fallback function - added an exact call, pinned dependencies versions, fixed elected validators tests. [PYHMY-40](https://github.com/harmony-one/pyhmy/pull/40) and [PYHMY-41](https://github.com/harmony-one/pyhmy/pull/40).
+
+For the harmony-test repo, I've added pyhmy tests the same way as it done for the rpc-tests and additionally refactored Dockerfile according to best [practices](https://github.com/harmony-one/harmony-test/pull/43)
+
+And finally, I've included this test into the Travis CI run, [harmony PR](https://github.com/harmony-one/harmony-test/pull/43).
+
+---
+
 2025-05-02 Fri: Fixed the tests in the pyhmy repo to include them into CI runs - I've updated pyhmy with latest changes from dependencies, merged Max PR with fix, fixed tests, now only one test left with estimate Gas and tests will be ready to be included to the CI, current draft [PR-40](https://github.com/harmony-one/pyhmy/pull/40)
 
 And finally,  I was helping Konstantin with the [issue](https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476) testing, now it have been spotted in the mainnet, shared details with the team.
