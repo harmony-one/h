@@ -1,4 +1,4 @@
-2025-05-08 Thu: Fixed calculation for Pendle LP Incentive (made position daysActive separate for incentive vs LP aUSDC, and switch from userReward()->simulation from total emissions since last index), cleaned code pushed [here](https://github.com/rikaa15/shadow-scraper/commit/c194e695d93285543829d2dca94075ba47a4b043) for now. Researched into underlying yield.
+2025-05-08 Thu: Fixed calculation for Pendle LP Incentive (made position daysActive separate for incentive vs LP aUSDC, and switch from userReward()->simulation from total emissions since last index, switch to pull price from coingecko), cleaned code pushed [here](https://github.com/rikaa15/shadow-scraper/commit/c194e695d93285543829d2dca94075ba47a4b043) for now. Looked into underlying yield.
 
 2025-05-07 Wed: Finished writing script for Pendle LP rewards (finished LP incentive rewards in PENDLE today). Now working onunderlying yield rewards.
 
