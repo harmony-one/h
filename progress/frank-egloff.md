@@ -1,3 +1,5 @@
+2025-05-07 Wed: Supported Rika on Pendle reward tracking. Also, started researching vePendle boost effects through on-chain data analysis. Working on scripts to retrieve vePendle info from Pendle's contracts and examine cross-chain boost mechanisms (Pendles and vePendle are generated/locked in Ethereum mainnet, while LP are on Sonic chain). This approach should provide direct insight into actual boost effects through contract interactions.
+
 2025-05-06 Tue: Still with limited capacity due to illness. Completed subgraph integration with Beefy tracker. Added dedicated Beefy subgraph module to centralize tracker subgraphs logic across protocols (Euler, Silo, Shadow). Submitted [PR](https://github.com/harmony-one/shadow-scraper/pull/6) for review and requested code review from Artem.
 
 2025-05-05 Mon: Identified performance bottleneck in Beefy user deposit information retrieval process. Started implementing subgraph integration to significantly improve query speed and efficiency. Also, added USD price conversion for underlying tokens. Note: Working with limited capacity this week due to illness, but making progress on core functionality.
