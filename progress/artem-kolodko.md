@@ -1,3 +1,5 @@
+2025-05-09 Fri: portfolio metrics: added Magpie vault stats, updated the app. Testing portfolio apr scripts, found that Re7 vault not supported, synced with Frank to work on this.
+
 2025-05-08 Thu: portfolio metrics: [prepared](https://github.com/harmony-one/portfolio-tracker/blob/main/api/src/app.service.ts) cron job for Euler, Beefy and Pendle PT data for selected wallet, added performance chart, CAGR and Volatility metric in client.
 
 2025-05-07 Wed: portfolio metrics: [merged](https://github.com/harmony-one/portfolio-tracker/commit/6d8982aadfd6112e84bfb0f995305b230257bbbb) beefy stats and [completed](https://portfolio-tracker-api.fly.dev/portfolioSnapshots?limit=1000&offset=0) first version of backend with cron job to save stats daily. Finalizing calculations of CAGR and MWRR metrics based on portfolio value. [Reviewed](https://github.com/harmony-one/shadow-scraper/pull/6) Frank's PR with Beefy vault stats.
