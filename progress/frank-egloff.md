@@ -1,3 +1,7 @@
+2025-05-09 Fri: (status-ongoing) Working on Artem's request to support multiple vaults inquiry in Euler APR scripts. Identified issue with Euler subgraph resource contract and refactored subgraph to work with Vault factory instead of individual vault addresses. Encountering deployment issues with The Graph - troubleshooting in progress.
+
+2025-05-08 Thu: Continued vePendle research, creating scripts to fetch user vePendle balance, lock duration, and expiry information. Established new positions on Swapx and Euler protocols (Swapx's ICHI position showing 1.94% APR after few hours vs 1.64% displayed in UI). [Created PR](https://github.com/harmony-one/shadow-scraper/pull/7) to fix negative earnings and rewards value initialization in Euler protocol script.
+
 2025-05-07 Wed: Supported Rika on Pendle reward tracking. Also, started researching vePendle boost effects through on-chain data analysis. Working on scripts to retrieve vePendle info from Pendle's contracts and examine cross-chain boost mechanisms (Pendles and vePendle are generated/locked in Ethereum mainnet, while LP are on Sonic chain). This approach should provide direct insight into actual boost effects through contract interactions.
 
 2025-05-06 Tue: Still with limited capacity due to illness. Completed subgraph integration with Beefy tracker. Added dedicated Beefy subgraph module to centralize tracker subgraphs logic across protocols (Euler, Silo, Shadow). Submitted [PR](https://github.com/harmony-one/shadow-scraper/pull/6) for review and requested code review from Artem.
