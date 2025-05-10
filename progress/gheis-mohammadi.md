@@ -1,3 +1,9 @@
+2025-05-10 Sat: Last week, I continued investigating the stream read issues using the latest logs. I focused on refactoring the P2P stream and exploring adjustments to the P2P host configuration. As part of this effort, I’ve been reviewing logs and stream behavior across all nodes one by one to identify root causes and improve reliability.
+
+We also discussed the upcoming Harmony release with the team and planned a partial upgrade for testnet. Since the release doesn’t require a hardfork and isn’t mandatory, we’ll upgrade only part of the testnet validators. This setup will help simulate the mainnet scenario where only some validators adopt the new version, allowing us to evaluate compatibility and stability under mixed conditions.
+
+---
+
 2025-05-03 Sat: I investigated issues with stream reads where some streams were randomly failing. To aid debugging, I created [PR 4894](https://github.com/harmony-one/harmony/pull/4894), which improves observability by adding reason strings whenever a stream is removed. This enhancement spans the P2P layer, the sync downloader, and staged stream sync. Each stream removal now includes clear logs explaining why it was closed—whether due to invalid blocks, connectivity problems, or missing responses. This addresses a previous gap where stream closures were difficult to trace, slowing down investigations. With the improved logging, we can now identify problems more quickly and streamline debugging of sync and network-related issues.
 
 I also created [PR 4895](https://github.com/harmony-one/harmony/pull/4895), which adds additional logs on stream closure and performs general cleanup. 
