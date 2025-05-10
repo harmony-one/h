@@ -1,4 +1,6 @@
 
+2025-05-09 Fri: Exploring yield strategies for Bitcoin on the Aerodrome Finance platform, focusing on the cbBTC/USDC and cbBTC/WETH pools — following a similar research approach used for other platforms: collecting data through the subgraph and reward information via contract events, followed by analysis and calculation of actual APRs per wallet.
+
 2025-05-08 Thu: Made several adjustments to the data format for the ichi vaults sources / vfat: switched from csv to tsv and corrected an error that caused some amounts to be misinterpreted as dates. Additionally, begun researching yield strategies for bitcoin.
 
 2025-05-07 Wed: Fixed issue with transfers USDC.e from Harmony to Linea: the problem was with the version update on the unify bridge assets (error in contract sources). The contract was fixed and redeployed, also updated the related frontend and backend services. Users in the community have been notified.
