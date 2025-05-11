@@ -1,4 +1,4 @@
-2025-5-10 Sat (1.2h): Fix bugs in log automation.
+2025-5-10 Sat (1.7h+): Revise emergency exit smart contracts. Fix bugs in log automation.
 
 2025-5-9 Fri (5.6h): Smart contract definitions and iterative constructions for emergency exit. Funding rate caching, visualization styles, resolutions, and bug fixes. Local persistence, chunked caching and segmented lookup. Uniform structure for funding rate API response. Funding rate data analyzer and export.
 
