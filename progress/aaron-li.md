@@ -1,4 +1,4 @@
-2025-5-9 Fri (5.6h): Emergency exit contracts. Funding rate tracker and monitor.
+2025-5-9 Fri (5.6h): Smart contract definitions and iterative constructions for emergency exit. Funding rate caching, visualization styles, resolutions, and bug fixes. Local persistence, chunked caching and segmented lookup. Uniform structure for funding rate API response. Funding rate data analyzer and export.
 
 2025-5-8 Thu (3.3h): Emergency exit contracts. Funding rate tracker and monitor.
 
