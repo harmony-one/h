@@ -106,7 +106,7 @@
 
 ---
 
-2025-3-16 Sun (3.1h): Investigate and experiment with xSHADOW incentives, returns, voting mechanisms. Review Shadow. Review Flying Tulip LTV model. Review Cosmos defi and yield projects. Review and discuss Flying Tulip, Cosmos defi projects. 
+2025-3-16 Sun (3.1h): Investigate and experiment with xSHADOW incentives, returns, voting mechanisms. Review Shadow. Review Flying Tulip LTV model. Review Cosmos defi and yield projects. Review and discuss Flying Tulip, Cosmos defi projects.
 
 2025-3-15 Sat (4.9h): Review Flying Tulip AMM and volatility based curve model. Review Arrakis PALM, Arrakis HOT AMM
 
@@ -158,7 +158,7 @@
 
 2025-2-21 Fri (5.1h): Review and debugging staking dashboard CSP issues. Deep dive on loss-versus-rebalancing and automated market maker papers
 
-2025-2-20 Thu (7.5h): Review research on loss-versus-rebalancing and delta-heding for dynamic lending pool. Debugging staking dashboard CSP issues. Discussion on cross-chain rebalancing and possible products. 
+2025-2-20 Thu (7.5h): Review research on loss-versus-rebalancing and delta-heding for dynamic lending pool. Debugging staking dashboard CSP issues. Discussion on cross-chain rebalancing and possible products.
 
 2025-2-19 Wed (2.6h): Staking Dashboard: finalize CollectReward, Transfer, Undelegate. Run end-to-end tests, and make code production ready
 
@@ -330,7 +330,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-11-6 Wed (2.2h): Research and discussion on crypto investment AI Agent. Discussion offline interview question. Pano CLI mode code review.
 
-2024-11-5 Tue (0.9h): Test and discuss memecoin launchpad 
+2024-11-5 Tue (0.9h): Test and discuss memecoin launchpad
 
 2024-11-4 Mon (0.6h): Pano task planning, discussions, debugging developer setup
 
@@ -352,9 +352,9 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-10-27 Sun (6.5h): Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging numerical inconsistency, implementing unpacking logics for packed signed-integer data. Restructure submenus
 
-2024-10-26 Sat (2.9h): Pano: Debugging and implementing write-contract simulation logics for computing in-the-money position values, and research alternatives. 
+2024-10-26 Sat (2.9h): Pano: Debugging and implementing write-contract simulation logics for computing in-the-money position values, and research alternatives.
 
-2024-10-25 Fri (7h): Review graph documentation and experiment with local subgraph deployments. Debugging assemblyscripts for parsing contract data and persisting to Postgres. Experiment with local event indexing for Panoptic and ERC20 tokens. Pano: compare v1.0 and v0.x code and revise contract function usage in clients, remove deprecated functions and make client future-proof. Store tick with position at client. Plan for portofolio value tracking data structure. 
+2024-10-25 Fri (7h): Review graph documentation and experiment with local subgraph deployments. Debugging assemblyscripts for parsing contract data and persisting to Postgres. Experiment with local event indexing for Panoptic and ERC20 tokens. Pano: compare v1.0 and v0.x code and revise contract function usage in clients, remove deprecated functions and make client future-proof. Store tick with position at client. Plan for portofolio value tracking data structure.
 
 2024-10-24 Thu (3.6h): Domain management, reusable Foundry scripts for domain initialization, debugging with multisig deployer. Launchpad contract discussion and work planning. Pano: compare v1.0 and v0.x code and revise contract function usage in clients, remove deprecated functions and make client future-proof. Store tick with position at client. Plan for portofolio value tracking data structure
 
@@ -366,17 +366,17 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ----
 
-2024-10-20 Sun (0h): (ETHGlobal Hackathon) 
+2024-10-20 Sun (0h): (ETHGlobal Hackathon)
 
-2024-10-19 Sat (0h): (ETHGlobal Hackathon) 
+2024-10-19 Sat (0h): (ETHGlobal Hackathon)
 
 2024-10-18 Fri (2.7h): Panoptic v1.0 pool code review (internal premium calculation, incremental update, and position settlement). Quick review of Panoptic v1.1 changes and Uniswap v4 updates. Pano: store position tick locally. Debugging and testing
 
 2024-10-17 Thu (1.8h): (ETHGlobal Conference) Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation)
 
-2024-10-16 Wed (1.5h): (ETHGlobal Conference)  Research on World PVP game. Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation). 
+2024-10-16 Wed (1.5h): (ETHGlobal Conference)  Research on World PVP game. Panoptic v1.0 pool code review (premia, position settlement, accumulator, force exercise, liquidation).
 
-2024-10-15 Tue (4.7h): Draft and discussion on Harmony state of DeFi projects under development and in production. Foundry buggy command debugging. Research and analysis on building Raspberry Pi 5 based validator and RPC nodes, and research and comparisons with barebone server options. Discussion on token launchpad code and project timelines. Discussion and research on RPC physical machine, and Ledger app local development issue. 
+2024-10-15 Tue (4.7h): Draft and discussion on Harmony state of DeFi projects under development and in production. Foundry buggy command debugging. Research and analysis on building Raspberry Pi 5 based validator and RPC nodes, and research and comparisons with barebone server options. Discussion on token launchpad code and project timelines. Discussion and research on RPC physical machine, and Ledger app local development issue.
 
 2024-10-14 Mon (2.5h): Farming strategy review, research and discussions. Cast and RPC contract deployment transaction debugging. Panoptic v1.0 pool code review and analysis
 
@@ -406,7 +406,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-10-03 Thu (4.2h): Review Ledger blockchain and live integration in detail. Review and research stablecoin options. Review 1market and write feedback. Pano: debugging portfolio value and premium related functionalities
 
-2024-10-02 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues 
+2024-10-02 Wed (4.3h): Research and discuss AI use cases, incentives, and economics in bot. Domain management. Further research on Ledger app, blockchain listing and approval process. Review and discuss new DeFi plans and analysis. Review and discuss Ledger app issues and unique address tracking issues
 
 2024-10-01 Tue (5.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers. Review, analyze, discuss progress, code commits, and quaterly updates
 
@@ -434,7 +434,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-09-21 Sat (2.3h): Pano: implement tools to parse token id into position, parse position on-chain scan result, add scan interrupt functionality, make scan duration and block numbers customizable, improve ui
 
-2024-09-20 Fri (5.1h): Pano: end-to-end bug fixes and debugging for portofolio sync, scanning, and position parsing from blockchain log 
+2024-09-20 Fri (5.1h): Pano: end-to-end bug fixes and debugging for portofolio sync, scanning, and position parsing from blockchain log
 
 2024-09-19 Thu (6h): Pano: portofolio and positions component. Debugging position scanning and syncing end-to-end. processing scanned events into actual positions
 
@@ -460,7 +460,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ----
 
-2024-09-08 Sun (1.9h): Pano: debugging tick spacing issues, strike price revert error and format 
+2024-09-08 Sun (1.9h): Pano: debugging tick spacing issues, strike price revert error and format
 
 2024-09-07 Sat (6.4h): Pano: end-to-end option minting testing and bug fixes. Design and implement quote-base asset selection, input, and display. Reimplement some components in sell flow using that, and fix bugs in end-to-end testing. Review corresponding smart contract logic again, write notes for amount and asset type parameters, and revise code.
 
@@ -476,13 +476,13 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-09-01 Sun (0.3h): (Continued)
 
-2024-08-31 Sat (0.3h): Pano: local database reader and writer implementation. Review key-range search, index, and remote-sync capability for PouchDB 
+2024-08-31 Sat (0.3h): Pano: local database reader and writer implementation. Review key-range search, index, and remote-sync capability for PouchDB
 
 2024-08-29 Thu (0.8h): (Continued) and reviewing product plans and chatbot recursive crawling capabilities
 
 2024-08-28 Wed (3.5h): Pano: debugging Panoptic Typescript SDK import issues, testing key encoding and decoding functions. Extract useful code from SDK and rewrite types, encoding and decoding functions.
 
-2024-08-27 Tue (3.3h): Pano: database operation functions, hooks, and manipulation and conversion between tokenId and positions. Deploy script for PanopticHelper, a library for constructing multi-leg, hedging positions. 
+2024-08-27 Tue (3.3h): Pano: database operation functions, hooks, and manipulation and conversion between tokenId and positions. Deploy script for PanopticHelper, a library for constructing multi-leg, hedging positions.
 
 2024-08-26 Mon (5.6h): Discussion on SY, GX, and Vertex development. Pano: end-to-end approval and actual deposit flow. Fix issues and notification with wallet loading and unloading. Fix focus issues of textinput between main menu and submenu. Add proper error handling for sections that require wallet but none is set. Fix deposit unit error. Add token unit conversion. Fix display errors. Allow .env file or command line argument to preload a wallet. Fix stale data after transaction in deposits. Fix display defects for collateral stats. Add withdraw end-to-end. Fix withdraw confirmation bug
 
@@ -506,7 +506,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-08-16 Fri (1.5h): Find solutions and debug on type inference issues of dynamically loaded smart contract application-binary interface in Viem. Implement typechain-like generation script for application-binary interface
 
-2024-08-14 Wed (4.2h): Debug and test newly implemented Uniswap V3 spot oracles in production. Debug on Synthetix pools. Testing statistics of collateral and pool pair verification end-to-end. 
+2024-08-14 Wed (4.2h): Debug and test newly implemented Uniswap V3 spot oracles in production. Debug on Synthetix pools. Testing statistics of collateral and pool pair verification end-to-end.
 
 2024-08-13 Tue (6.3h): Implement and test Synthetix V2 compatible oracle based Uniswap V3 spot prices. Research and experiment on Uniswap squared-price formats and related math precision issues. Continued on Panoptic hooks
 
@@ -568,11 +568,11 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-07-13 Sat (1.7h): Experiment with Cannon build and configuration for Synthetix. Review Cannon tools, upgradeable proxy storage collision avoidance, and related hardhat plugin
 
-2024-07-12 Fri (4.1h): Fix Panoptic test failures. Review Panoptic test code. Prepare developing liquidity provider command line tool. 
+2024-07-12 Fri (4.1h): Fix Panoptic test failures. Review Panoptic test code. Prepare developing liquidity provider command line tool.
 
 2024-07-11 Thu (4.6h): Review Panoptic test code, test failures, and deployment parameters. Key domain renewal and certificate management. Synthetix oracle integration with Band. Review Foundry/Cannon configuration files for Panoptic and Synthetix, deployment scripts, and efficient ways for customization. Certificate renewal automation issues
 
-2024-07-10 Wed (1.7h): Analyze, discuss, debug Synthetix v2 oracle code (Chainlink data feed, Pyth). Review points system, Synthetix v2 oracles 
+2024-07-10 Wed (1.7h): Analyze, discuss, debug Synthetix v2 oracle code (Chainlink data feed, Pyth). Review points system, Synthetix v2 oracles
 
 2024-07-09 Tue (4.8h): Synthetix custom deploy and oracle review, and dependency security review. Evalaute Synthetix oracle integration with Band Protocol.
 
@@ -598,9 +598,9 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-06-27 Thu (2.2h): Debug Safe address issues for LayerZero claim. Debug arachnid Create2 contract issues. Review Contango analysis and documentations
 
-2024-06-26 Wed (0.6h): Review Contango analysis and documentations 
+2024-06-26 Wed (0.6h): Review Contango analysis and documentations
 
-2024-06-25 Tue (4.7h): Review SynFutures analysis, docs, analytics. Review Uniswap greeks, Pyth analysis. Quick review on Contango  
+2024-06-25 Tue (4.7h): Review SynFutures analysis, docs, analytics. Review Uniswap greeks, Pyth analysis. Quick review on Contango
 
 2024-06-24 Mon (3.7h): Debug LayerZero claim issue. Examine Squeeth analytics. Review Drift protocol and analytics, oracle risks for bridge and staked assets. Review SynFutures analysis, docs, analytics.
 
@@ -638,9 +638,9 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-06-06 Thu (5.4h): Review virtual automated market maker mechanisms and landscape. Quick review of Hubble, Ribbon Finance, Thetanuts, Rollbit, Floor (NFT) perpetual instrument design. Review and verify staking and security issue impact and resolution. Domain managements for gx.country, gpt.country, and similar ones. Escalate and follow up domain dispute. Review and examine audit and development work of prospective collaborator (SwiftGate, Teller Finance, Titles, Exactly Protocol, veRWA). Review Everything Perpetual and verify mathematical derivations and possible extensions. Quick review of GMX technical analysis, DeFi derivative analysis. Evaluate and verify security issue impact.
 
-2024-06-05 Wed (7.3h): Investigate urgent staking and security issue. Research on time-weighted automated market maker and possible uses in derivatives. Research on liquidity mining, math for ever lasting option, power perpetual. Resolve domain trademark and logo misuse issues. Research and discuss licensing issues. 
+2024-06-05 Wed (7.3h): Investigate urgent staking and security issue. Research on time-weighted automated market maker and possible uses in derivatives. Research on liquidity mining, math for ever lasting option, power perpetual. Resolve domain trademark and logo misuse issues. Research and discuss licensing issues.
 
-2024-06-04 Tue (5.7h): Review updates, on-chain options development plans. Review Panoptic analysis on LP tokens, delta neutral synthetics and parity analysis. Review onchain option plans, related presentations, EIP 4626 vaults. Reivew dydx evolution and UX review. Revisit perp historical evolutions and theories, price impact and calculations in old and new AMM. Discussion on expertise and familiarity of Panoptic UI and smart contract tasks planning with Alex. Discussion and resolving Chainlink oracle and CCIP deployment issues with Artem for use in Synthetix. 
+2024-06-04 Tue (5.7h): Review updates, on-chain options development plans. Review Panoptic analysis on LP tokens, delta neutral synthetics and parity analysis. Review onchain option plans, related presentations, EIP 4626 vaults. Reivew dydx evolution and UX review. Revisit perp historical evolutions and theories, price impact and calculations in old and new AMM. Discussion on expertise and familiarity of Panoptic UI and smart contract tasks planning with Alex. Discussion and resolving Chainlink oracle and CCIP deployment issues with Artem for use in Synthetix.
 
 2024-06-03 Mon (2.8h): Review expirationless option analysis and comparison against native perpetual. DNS management for gm.country. Review analysis and products referenced in Three Sigma research on perpetual landscape. Review high frequency trading systems.
 
@@ -662,11 +662,11 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
-2024-05-26 Sun (5h): Research and review on Surf exchange and protocol. Revisit Uniswap v3 technical details and analyze relation to options based on Panoptic analogy. Revisit Uniswap v3 paper, mathematics, and implementation. 
+2024-05-26 Sun (5h): Research and review on Surf exchange and protocol. Revisit Uniswap v3 technical details and analyze relation to options based on Panoptic analogy. Revisit Uniswap v3 paper, mathematics, and implementation.
 
-2024-05-25 Sat (6.5h): Deep dive into Infinity Pool protocol and its mathematics, liquidity reserve mechanisms, option analogy, fixed term and revolving loans. Review Hubble exchange history and design. Quick review on Infinity Pool community discussions and developer topics. Reviewing dydx history and version changes. 
+2024-05-25 Sat (6.5h): Deep dive into Infinity Pool protocol and its mathematics, liquidity reserve mechanisms, option analogy, fixed term and revolving loans. Review Hubble exchange history and design. Quick review on Infinity Pool community discussions and developer topics. Reviewing dydx history and version changes.
 
-2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes. 
+2024-05-24 Fri (5.5h): Review Vertex SDK code. Detailed review on Vertex on-chain code. Revisiting Vertex code and designs. Writing Vertex protocol notes.
 
 2024-05-23 Thu (4h): Quick review on recent regulatory compliance updates, content and impact of pending congressional bills, and updates for impactful cases on appeal.
 
@@ -702,11 +702,11 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
-2024-05-04 Sat (3.0h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation. 
+2024-05-04 Sat (3.0h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation.
 
 2024-05-03 Fri (3.0h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays.
 
-2024-05-02 Thu (1.0h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects. 
+2024-05-02 Thu (1.0h): Analyze and resolve DDOS attacks on SMS / Telegram Wallet. Add rate limiting on signup. Review, analyze, discuss list of notable Q2 2024 defi projects.
 
 2024-05-01 Wed (1.0h): (Continued) and discuss practical limitations, implementation steps, tasks.
 
@@ -748,7 +748,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-04-06 Sat (1.0h): Candidate recommendation: bug fixes on server configuration, environment variable setting, and package and dependency management for deployment and remote development
 
-2024-04-04 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment 
+2024-04-04 Thu (0.5h): Review and discussion on Foundry fixed CREATE2 deployer address issue encountered during Optimism rollup deployment
 
 2024-04-03 Wed (0.5h): (Continued) and deploying REST server for job recommendation
 
@@ -760,9 +760,9 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-03-30 Sat (4.0h): Prompt design for job matching from a pool of candidates. Review Claude SDK, documentations, unique designs. Claude and Gemini implementation and initial experiments for response performance. Cost analysis
 
-2024-03-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend 
+2024-03-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend
 
-2024-03-28 Thu (3.5h): Python server scaffolding and debugging on SSL settings. Setup data analysis environment. Review OpenAI fine-tuning documentations and practical options. Review Huggingface dataset SDK and designs. In-depth review of hackernews resume and job post dataset, and alternatives. Review Gemini models, environment settings, API usage and API key scopes.. 
+2024-03-28 Thu (3.5h): Python server scaffolding and debugging on SSL settings. Setup data analysis environment. Review OpenAI fine-tuning documentations and practical options. Review Huggingface dataset SDK and designs. In-depth review of hackernews resume and job post dataset, and alternatives. Review Gemini models, environment settings, API usage and API key scopes..
 
 2024-03-27 Wed (4.5h): Review models and existing work using hackernews job data. Detailed examination of hackernews data and its patterns. Review existing implementation of GLRec and latest language models that support Chinese. Review feasibility of building AI systems in Rust. Review options for Python production server, type safety, performance, and API framework. Python data-analysis server security settings, production settings, debugging, and testing
 
@@ -844,7 +844,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2024-02-11 Sun (0.5h): Compute, review, and discuss recovery analytics and implications of increased market rate for depegged assets. Update and aggregate results from multiple contracts belonging to a large round.
 
-2024-02-09 Fri (4.5h): Configure, deploy and end-to-end testing for VPN with network congestion simulation. Create one-click VPN installation profiles for macOS and iOS. Manual Cisco VPN setup instructions. Fix DNS, certificate, and subdomain embedding issues with lend.country and docs.lend.country (reassigning nameserver, re-generate certificates, fix infinite redirect loop by Cloudflare, fix missing ownership on blockchain by manual registrations, manual configuration of DNS and notion embeddings, bifurcate subdomains and reassign nameserver to Cloudflare). h.country DNS and nameserver migration. Documentation for VPN server with traffic control. 
+2024-02-09 Fri (4.5h): Configure, deploy and end-to-end testing for VPN with network congestion simulation. Create one-click VPN installation profiles for macOS and iOS. Manual Cisco VPN setup instructions. Fix DNS, certificate, and subdomain embedding issues with lend.country and docs.lend.country (reassigning nameserver, re-generate certificates, fix infinite redirect loop by Cloudflare, fix missing ownership on blockchain by manual registrations, manual configuration of DNS and notion embeddings, bifurcate subdomains and reassign nameserver to Cloudflare). h.country DNS and nameserver migration. Documentation for VPN server with traffic control.
 
 2024-02-08 Thu (6.0h): Review progress and discussion on Lottery and Human Protocol implementation. Research on Telegram group-wallet design based on Human Protocol / Minimal Social Wallet. Debugging and fixing L2TP IPSec VPN server and ppp issues caused by non-standard GCP cloud linux kernels. Research and experiment on options and tools for network emulation in GCP (Cloud Armor), docker (pumba), and vanilla Linux tools (netem).
 
@@ -926,7 +926,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2023-12-02 Sat (0.5h): Research and discussions on sheet popup sizing and layout control options, limitations prior to iOS 16, alternative libraries and potential impact to build. Review logs and events captured during end-to-end testing of apps
 
-2023-12-01 Fri (3.5h): Review #273, #274, #275, #277, #278, #279 (comment on sign-in test coverage), #280, #282, #285 (comment on nil-able variables), #286, #287, #288, #289 (comment on configurable variable), #283 (draft), #284 (draft, comment on mock benchmark purposes), #290, #291 (comment on language code as setting). Review iPad actionsheet issue. Discuss ElasticSearch charting issues and tasks. Discuss NLP pipeline and processing of other languages. Review #296 (concern on redundant ElasticSearch implementation at client), #292, #294, #293, #295. Research options for multi-action popups for iPad actions and compatibility, experiment, debug, and fix issues 
+2023-12-01 Fri (3.5h): Review #273, #274, #275, #277, #278, #279 (comment on sign-in test coverage), #280, #282, #285 (comment on nil-able variables), #286, #287, #288, #289 (comment on configurable variable), #283 (draft), #284 (draft, comment on mock benchmark purposes), #290, #291 (comment on language code as setting). Review iPad actionsheet issue. Discuss ElasticSearch charting issues and tasks. Discuss NLP pipeline and processing of other languages. Review #296 (concern on redundant ElasticSearch implementation at client), #292, #294, #293, #295. Research options for multi-action popups for iPad actions and compatibility, experiment, debug, and fix issues
 
 2023-11-30 Thu (1.5h): Review and debug multisig 422 error and signing issues from some devices. Review #266, #267, #268, #269, #270 (questions on deterministic test issue), #271, #272 (questions on audio tap removal, comment on whether actual functionalities are tested and need for more advanced action simulation).
 
@@ -950,7 +950,7 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 2023-11-16 Thu (2.5h): End-to-end debugging and testing for app attestation and relay-based OpenAI queries. Debug and fix issues related to verifying develop-environment attestation. Fix issues related to non-functioning app caused by multiple initialization of relayer authentication module. Review devops TODO list proposal. Review and discuss in-app purchase flows (#196) and integrations with server.
 
-2023-11-15 Wed (6.0h): Review in-app-purchase issues and existing implementations. Discuss key leakage issues and review logs. Implement RelayAuth client module for app attestation and relay token management. Debug and fix issues with relay app attestation verification and logging. Discussion on key protection. 
+2023-11-15 Wed (6.0h): Review in-app-purchase issues and existing implementations. Discuss key leakage issues and review logs. Implement RelayAuth client module for app attestation and relay token management. Debug and fix issues with relay app attestation verification and logging. Discussion on key protection.
 
 2023-11-14 Tue (3.5h): Fixing SSL issues and domain registration issues. Review and implement EWS Substack anchor link sharing. Review implementation plan and issues for account signup, login, in-app purchase restoration. Review #179, #181, #183, #182, #184. GCP IAM setup for devops personnel, and ElasticSearch operation instructions. Debug MetaMask mobile issues on multisig. Recovery security discussions. Research on and discuss OpenAI Assistant and threading APIs.
 
@@ -1055,6 +1055,3 @@ Review, test, and compare Swift websocket libraries and code. Code review #4 (au
 2023-09-27 Wed: (4.0h) Discussions on bot, voice AI products, technical limitations, and use cases.
 
 2023-09-26 Tue: (1.0h) Research on voice AI state of the art demos and improvements (tortoise, coqui, bark, fastspeech, naturalspeech, promptts, and others).
-
-
-
