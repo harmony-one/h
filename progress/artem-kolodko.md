@@ -1,4 +1,4 @@
-2025-05-12 Mon: reviwed Pendle LP script [PR](https://github.com/harmony-one/shadow-scraper/pull/8) from Rika. [Added](https://github.com/harmony-one/portfolio-tracker/commit/5f1c4fb7b3e4b9108c48b89259d556639ad89ac0) Merkl rewards and export to TSV from the last snapshot in the portfolio tracker.
+2025-05-12 Mon: reviewed Pendle LP script [PR](https://github.com/harmony-one/shadow-scraper/pull/8) from Rika. [Added](https://github.com/harmony-one/portfolio-tracker/commit/5f1c4fb7b3e4b9108c48b89259d556639ad89ac0) Merkl rewards and export to TSV from the last snapshot in the portfolio tracker.
 
 ---
 
