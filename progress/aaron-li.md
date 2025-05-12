@@ -1,4 +1,4 @@
-2025-5-11 Sun (0.4h+): Revise emergency exit smart contracts.
+2025-5-11 Sun (0.9h+): Revise emergency exit smart contracts.
 
 2025-5-10 Sat (2.9h): Revise emergency exit smart contracts. Fix bugs in log automation.
 
