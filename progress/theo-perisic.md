@@ -12,11 +12,11 @@
 
 2025-05-05 Mon: Completed iteration on Li’s pendle for [PT-USDC (Silo-20)](https://github.com/ONETheo/pendle). Insight: product that sources all PT variations and gives highest divergence can be useful and profitable if we want to push in that direction. 
 
+---
+
 2025-05-04 Sun: (1.0h) Contuniued look into Pendle yields. Insights: even though PT yield may drop from a PT asset, the underlying PT appreciates in value, allowing the holder to capitalize on difference immediately rather than wait for expiration.
 
 2025-05-03 Sat: (2.0h) Looking further into Pendle yields.
-
----
 
 2025-05-02 Fri: Testing funding rates from Artem’s message, shared relevant data with Phillip for Sonic funding rates since Jan 30 2025. Made copy edits and completed a read through for the April newsletter with Alaina.
 
