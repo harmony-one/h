@@ -1,3 +1,11 @@
+2025-05-11 Sun: Continuation animating and editing the Blue to Fly AI video, have been dealing with a credit issue on Runway but have upgraded tiers to improve the video quality.
+
+2025-05-10 Sat: Review of the team's /progress and writing of a progress thread.
+
+2025-05-09 Fri: Update of the [community section](https://x.com/harmonyprotocol/status/1920981304155177299). FlappyH1 graphic and [promotion](https://x.com/harmonyprotocol/status/1920987732446171228). Continuation of Cursor tutorials. Continuation animating and editing the Blue to Fly AI video.
+
+2025-05-08 Thu: Continued [learning](https://youtu.be/3289vhOUdKA?si=a8JuU1J0_azhzhEv) in Cursor, learning how to utilize the Cursor Agents and troubleshooting. Continuation animating and editing the Blue to Fly AI video.
+
 2025-05-07 Wed: Sync with Theo on learning Windsurf and Cursor, AI coding tools. Action items: Youtube tutorials on the basics and designing a basic frontend. Continuation of the second AI video, Blue to Fly. Tweet on FlappyH1, and [Blue to Fly](https://x.com/harmonyprotocol/status/1920256311440085447).
 
 2025-05-06 Tue: Sync with Theo on current initiatives and how learning AI coding tools can include 'non-technical' users, like myself, to become a part of the building process. Continuation of the second AI video, Blue to Fly.
