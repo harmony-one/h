@@ -1,3 +1,8 @@
+2025-05-09 Fri:
+- This week, our efforts were centered around validating the upcoming release. During testing, we identified an issue related to the bootnode. While the impact appears to be limited and not a blocker, I proactively submitted a PR with a potential fix involving targeted code changes.
+  After further in-depth testing, it became clear that the fix did not fully resolve the issue. Still, we kept things moving and continued with the testing process.
+  We are now updating mainnet validators with the new release to assess compatibility in a live environment and ensure readiness for deployment.
+
 2025-05-02 Fri:
 - This week, after a series of updates, Gheis, Ulad, and I successfully resolved an issue that caused unintended view change activation on the first block of a new epoch. This fix enhances consensus stability and ensures smoother epoch transitions.
 - In addition, I reviewed, approved, and merged several small pull requests, including changes to the release branch. These updates contribute to improved logging performance, more robust error handling, and increased test coverage.
