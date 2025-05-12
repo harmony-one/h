@@ -1,3 +1,5 @@
+2025-05-10 Sat: Continued testing with portfolio tracker to see if any incorrect values returned. Slight work on cleaning and merging code for Pendle PT and LP.
+
 2025-05-09 Fri: Added Pendle PT fixed yield calculation by writing script to fetch PT mint timestamp, fetch PT discount, and calculate APY at time of deposit. Refactored code and opened PR [here](https://github.com/harmony-one/shadow-scraper/pull/8).
 
 2025-05-08 Thu: Fixed calculation for Pendle LP Incentive (made position daysActive separate for incentive vs LP aUSDC, and switch from userReward()->simulation from total emissions since last index, switch to pull price from coingecko), cleaned code pushed [here](https://github.com/rikaa15/shadow-scraper/commit/c194e695d93285543829d2dca94075ba47a4b043) for now. Looked into underlying yield.
