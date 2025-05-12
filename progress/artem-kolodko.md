@@ -1,3 +1,7 @@
+2025-05-12 Mon: reviwed Pendle LP script [PR](https://github.com/harmony-one/shadow-scraper/pull/8) from Rika. [Added](https://github.com/harmony-one/portfolio-tracker/commit/5f1c4fb7b3e4b9108c48b89259d556639ad89ac0) Merkl rewards and export to TSV from the last snapshot in the portfolio tracker.
+
+---
+
 2025-05-11 Sun (4.0h): reviewed and tested Euler Re7 vault [PR](https://github.com/harmony-one/shadow-scraper/pull/9) frpm Frank, merged. Portfolio metrics: [added](https://github.com/harmony-one/portfolio-tracker/commit/447dc0efabcfa32fc616c2be65988627fd4d1ad7) support of Euler Re7 vault, [added](https://github.com/harmony-one/portfolio-tracker/commit/b5d95313852ec83b941e0d80e49f9cddd24b4ef7) full portfolio into into snapshot, updated the app.
 
 2025-05-09 Fri: portfolio metrics: added Magpie vault stats, updated the app. Testing portfolio apr scripts, found that Re7 vault not supported, synced with Frank to work on this.
