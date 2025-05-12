@@ -1,6 +1,6 @@
 2025-05-11 Sun: Continuation animating and editing the Blue to Fly AI video, have been dealing with a credit issue on Runway but have upgraded tiers to improve the video quality.
 
-2025-05-10 Sat: Review of the team's /progress and writing of a progress thread.
+2025-05-10 Sat: Review of the team's /progress and writing of a [progress thread](https://x.com/harmonyprotocol/status/1921989524281803046).
 
 2025-05-09 Fri: Update of the [community section](https://x.com/harmonyprotocol/status/1920981304155177299). FlappyH1 graphic and [promotion](https://x.com/harmonyprotocol/status/1920987732446171228). Continuation of Cursor tutorials. Continuation animating and editing the Blue to Fly AI video.
 
