@@ -1,3 +1,18 @@
+
+---
+
+2025-05-09 Fri: Analyzed the released Pectra upgrade in order to ensure that implementations are lined up.
+
+2025-05-08 Thu: Continued optional access list typed transaction implementation. Analyzing failed tests with the updated struct.
+
+2025-05-07 Wed: Completed legacy transaction implementation.
+
+2025-05-06 Tue: Completed the test update. Ulad finalized through tests with the CI.
+
+2025-05-05 Mon: Updated hamrony python test to manually create the transaction objects instead of using the hardcoded objects.
+
+---
+
 2025-04-28 - 2025-05-02: Out of office.
 
 ---
