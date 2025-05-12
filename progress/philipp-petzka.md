@@ -1,5 +1,7 @@
 2025-05-11: I started learning to build Apps with the help of LLMs. My goal is to build useful tools that can test a given thesis faster. After an initial success with a basic pendle-related app I began to build an app that tracks funding rates of Tokens and will connect it to a liquidity manager or trading bot. 
 
+---
+
 2025-05-05: I got data on S funding rates and am currently analyzing it to see if changes in funding rates are a good indicator of upcoming price moves. 
 
 I also did a status check-up on the Berachain ecosystem since it is a potential ecosystem to look into after Sonic. My conclusion is that in the current market environment, the chain economics are not sustainable, especially with the characteristics of participants in their chain ecosystem. 
