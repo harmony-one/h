@@ -1,3 +1,13 @@
+2025-05-11 Sun: (3.0h) Continued look into yields, checked Idle, Babylon, Beefy, Aerodrome, Aave. Insight: current best strategy with long term bullish on BTC - [cbBTC<>wETH aerodrome](https://aerodrome.finance/deposit?token0=0x4200000000000000000000000000000000000006&token1=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&type=100&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A) pool (fees and Aero rewards automatically harvested to cbBTC via vfat), observed apy 40%. 
+
+2025-05-10 Sat: (1.0h) Look into Badger DAO, and Yearn for BTC yields.
+
+2025-05-09 Fri: Troubleshooting reward spreadsheet for usd* strategies, fixing misunderstandings and calculations based on compounding protocols vs. non-compounding protocols. 
+
+2025-05-08 Thu: Sync with Philipp for Pendle strategy and implementation. Insight: cursor is a tool for everyone, even non-coders, but mindset for using the IDE and prompting are main limitations and areas of inefficiency. Will test another approach with Alaina. 
+
+2025-05-07 Wed: Sync with Yuriy for shift to bitcoin yields. Insight: looking into two main strategies, one that aims to be market neutral, yielding rewards and protection against price volatility, and the other is maximizing return in BTC amounts, more aggressive, will suffer more downturns, but long term potential for yield higher returns.
+
 2025-05-06 Tue: Corrections on funding rate sourcing, fixed “e” formatting issues. Syncs with Li, Amanda, Alaina, and Phillip for alignment on current yield strategies and areas of production. Initialized strategy spreadsheet for Amanda. Iterated on allocation %. Insight: with recent price increase of PT aUSDC and PT USDC (Silo-20) we could have locked in a 12% APY instantly if we had a PT USDC (Silo-20) fixed rate open. Adjusted allocations in spreadsheet based on current market rates.
 
 2025-05-05 Mon: Completed iteration on Li’s pendle for [PT-USDC (Silo-20)](https://github.com/ONETheo/pendle). Insight: product that sources all PT variations and gives highest divergence can be useful and profitable if we want to push in that direction. 
