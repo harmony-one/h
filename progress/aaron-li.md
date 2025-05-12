@@ -1,4 +1,4 @@
-2025-5-12 Mon (0.4h+): S delta-neutral hedging strategies. Review BTC yields and strategies.
+2025-5-12 Mon (1.3h+): Revise emergency exit smart contracts. S delta-neutral hedging strategies. Review BTC yields and strategies.
 
 2025-5-11 Sun (1.1h): Revise emergency exit smart contracts.
 
