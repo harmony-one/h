@@ -1,3 +1,9 @@
+2025-05-12 Mon: Reviewed PR comments for Pendle merge and updated, added support for Pendle Silo USDC. Currently thinking through what the best format is for the output, considering mixed pools and also trying to collate the two Pendle scripts in a cleaner format.
+
+---
+
+2025-05-11 Sun: Continue testing with portfolio tracker and reviewing code to see if anything is off.
+
 2025-05-10 Sat: Continued testing with portfolio tracker to see if any incorrect values returned. Work on cleaning and merging code for Pendle PT and LP into one file.
 
 2025-05-09 Fri: Added Pendle PT fixed yield calculation by writing script to fetch PT mint timestamp, fetch PT discount, and calculate APY at time of deposit. Refactored code and opened PR [here](https://github.com/harmony-one/shadow-scraper/pull/8).
