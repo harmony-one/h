@@ -1,3 +1,5 @@
+2025-05-13 Tue: Added a separate [export](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/big_wallets.tsv) for big wallets with a deposit value of more than $1000. Finishing the analysis of BTC pools – the issues with reward calculations have been fixed, and an alternative [subgraph](https://thegraph.com/explorer/subgraphs/DTNjoPNU1TiDk1oHVmhz3rBcBbPJjPSqBtg52pRfpH71?view=Query&chain=arbitrum-one) is being used to re-collect the rewards data. In total, the analysis is being conducted for 50,000 positions.
+
 2025-05-12 Mon: Finished extracting data for the aerodrome pools cbBTC/USDC and cbBTC/WETH with the promised APR of over 100%. Working on a script for analyzing the new data and a scheme for determining real impermanent losses. 
 
 ---
