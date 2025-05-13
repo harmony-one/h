@@ -1,3 +1,6 @@
+2025-05-12 Mon: Finished extracting data for the aerodrome pools cbBTC/USDC and cbBTC/WETH with the promised APR of over 100%. Working on a script for analyzing the new data and a scheme for determining real impermanent losses. 
+
+---
 
 2025-05-09 Fri: Exploring yield strategies for Bitcoin on the Aerodrome Finance platform, focusing on the cbBTC/USDC and cbBTC/WETH pools — following a similar research approach used for other platforms: collecting data through the subgraph and reward information via contract events, followed by analysis and calculation of actual APRs per wallet.
 
