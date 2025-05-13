@@ -1,4 +1,7 @@
-2025-05-09 Fri: (status-ongoing) Working on Artem's request to support multiple vaults inquiry in Euler APR scripts. Identified issue with Euler subgraph resource contract and refactored subgraph to work with Vault factory instead of individual vault addresses. Encountering deployment issues with The Graph - troubleshooting in progress.
+2025-05-12 Mon: Established and analyzed positions across multiple DeFi protocols (Magpie, Silo, PendlePT, and PendleLP pools) to validate tracking accuracy. Reviewed Rika's script for Pendle PT position monitoring. Extended script coverage by implementing [multiple market support](https://github.com/harmony-one/shadow-scraper/pull/10) for both Equilibria and Beefy protocols. Resolved issue with Beefy API integration that was affecting data retrieval.
+
+----
+2025-05-09 Fri: Implemented [multiple vaults support](https://github.com/harmony-one/shadow-scraper/pull/9/) for Euler APR scripts. Refactored Euler subgraph to interact with Vault factory rather than individual vault addresses after identifying resource contract limitations. Enhanced getEulerInfo logic to handle multiple vault addresses efficiently.
 
 2025-05-08 Thu: Continued vePendle research, creating scripts to fetch user vePendle balance, lock duration, and expiry information. Established new positions on Swapx and Euler protocols (Swapx's ICHI position showing 1.94% APR after few hours vs 1.64% displayed in UI). [Created PR](https://github.com/harmony-one/shadow-scraper/pull/7) to fix negative earnings and rewards value initialization in Euler protocol script.
 
