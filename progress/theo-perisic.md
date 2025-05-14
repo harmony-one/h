@@ -1,3 +1,9 @@
+2025-05-13 Tue: Sync with Philipp. Decided on market subset for [lighter.xyz](https://lighter.xyz/), [hyper liquid](https://app.hyperliquid.xyz/trade), and [vertex](https://vertexprotocol.com/) as initial funding rate arbitrage spread. Insight: Lighter API blocked, Philipp will apply for it, strategy for funding rate arbitrage determined to be higher reward potential and less risk than Pendle inefficient bond market capitalization.
+
+2025-05-12 Mon: Shift from Pendle. Reviewed funding rates. Sync with Alaina for best practices on cursor usage, to get more out of it than with base ChatGPT. 
+
+---
+
 2025-05-11 Sun: (3.0h) Continued look into yields, checked Idle, Babylon, Beefy, Aerodrome, Aave. Insight: current best strategy with long term bullish on BTC - [cbBTC<>wETH aerodrome](https://aerodrome.finance/deposit?token0=0x4200000000000000000000000000000000000006&token1=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&type=100&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A) pool (fees and Aero rewards automatically harvested to cbBTC via vfat), observed apy 40%. 
 
 2025-05-10 Sat: (1.0h) Look into Badger DAO, and Yearn for BTC yields.
