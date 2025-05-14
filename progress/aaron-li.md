@@ -1,4 +1,4 @@
-2025-5-14 Wed (0.9h+): Implement Euler and Penpie emergency exits.
+2025-5-14 Wed (1.3h): Implement Euler and Penpie emergency exits.
 
 2025-5-13 Tue (3.4h): Revise emergency exit smart contracts (Beefy). Fix notes on Pendle regarding LP token removal. Improve notes on Pendle, Penpie, Euler on possibility and steps for contracts to act on behalf of holder.
 
