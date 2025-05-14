@@ -1,6 +1,6 @@
-2025-05-13 Tue: Added Pendle Silo support. Deposited to WBTC/USDC on Shadow, verified rewards match with Shadow script, currently looking through other interesting BTC vaults as well as the other GEMS + USDC rewards.
+2025-05-13 Tue: [Added](https://github.com/harmony-one/shadow-scraper/pull/8/commits/5ce1531cceb2491431edd623e60ab150bb43aacf) Pendle Silo support. Deposited to WBTC/USDC on Shadow, verified rewards match with Shadow script, currently looking through other interesting BTC vaults as well as the other GEMS + USDC rewards.
 
-2025-05-12 Mon: Reviewed PR comments for Pendle merge and updated, adding support for Pendle Silo USDC. Currently thinking through what the best format is for the output, considering mixed pools and also trying to collate the two Pendle scripts in a cleaner format.
+2025-05-12 Mon: Reviewed [PR](https://github.com/harmony-one/shadow-scraper/pull/8) comments for Pendle merge and updated, adding support for Pendle Silo USDC. Currently thinking through what the best format is for the output, considering mixed pools and also trying to collate the two Pendle scripts in a cleaner format.
 
 ---
 
