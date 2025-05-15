@@ -1,3 +1,5 @@
+2025-05-14 Wed: [completed](https://github.com/harmony-one/shadow-scraper/commit/3995ca67e4e6fba3738595d6279ffd8915bb1421) script for SwapX USDC/scBTC, the result is 12.1200%; continue on other SwapX btc* vaults. Reviwed and merged pull requests from Frank and Rika with [Beefy WBTC pools](https://github.com/harmony-one/shadow-scraper/pull/13) and [Shadow WBTC](https://github.com/harmony-one/shadow-scraper/pull/14).
+
 2025-05-13 Tue: started BTC vaults analysis, invested into swapx, shadow and beefy vaults. Prepared export in TSV with transactions history. Calculated Merkl rewards APR (in wS tokens) for the positions in MEV USDC and Re7.
 
 2025-05-12 Mon: reviewed Pendle LP script [PR](https://github.com/harmony-one/shadow-scraper/pull/8) from Rika. [Added](https://github.com/harmony-one/portfolio-tracker/commit/5f1c4fb7b3e4b9108c48b89259d556639ad89ac0) Merkl rewards and export to TSV from the last snapshot in the portfolio tracker.
