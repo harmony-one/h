@@ -1,3 +1,11 @@
+2025-05-14 Wed: Research and [thread](https://x.com/harmonyprotocol/status/1922762692248371209) on passkeys. Insights: Passkeys show how login can be both simpler and safer, which proves that strong cryptography doesn’t have to mean worse UX. Final review of Colossus posts in preparation for our sync tomorrow. 
+
+2025-05-13 Tue: Research and [thread](https://x.com/harmonyprotocol/status/1922507817883156612) on USENIX. Testing new v7 features of Midjourney, like [Omni](https://x.com/ciguleva/status/1922702675185107307).
+
+2025-05-12 Mon: Cursor session with Theo, discussing the best practices for optimizing output. Research and [thread](https://x.com/harmonyprotocol/status/1922070201719259148) on UNIT. Insights: UNIT is the quiet backbone of Hyperliquid, driving BTC/ETH volume with native infra, deep protocol hooks, and stealthy fee capture—no token.
+
+---
+
 2025-05-11 Sun: Continuation animating and editing the Blue to Fly AI video, have been dealing with a credit issue on Runway but have upgraded tiers to improve the video quality.
 
 2025-05-10 Sat: Review of the team's /progress and writing of a [progress thread](https://x.com/harmonyprotocol/status/1921989524281803046).
