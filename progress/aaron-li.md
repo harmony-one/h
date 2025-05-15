@@ -1,3 +1,5 @@
+2025-5-15 Thu (0.1h): Finalize exit contract construction and make end-to-end integration.
+
 2025-5-14 Wed (4.1h): Implement Euler and Penpie emergency exits. Discuss BTC related strategies and funding rate strategies.
 
 2025-5-13 Tue (3.4h): Revise emergency exit smart contracts (Beefy). Fix notes on Pendle regarding LP token removal. Improve notes on Pendle, Penpie, Euler on possibility and steps for contracts to act on behalf of holder.
