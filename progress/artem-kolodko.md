@@ -1,3 +1,5 @@
+2025-05-15 Thu: completed analysis for all SwapX btc* vaults (USDC.e/scBTC, WBTC/scBTC, wS/scBTC). [Improved](https://github.com/harmony-one/portfolio-tracker/commit/7b9dac59ce63c22b2405c34837b6979bceb5b46f) portfolio tracker chart and snapshots data, fixed metrics.
+
 2025-05-14 Wed: [completed](https://github.com/harmony-one/shadow-scraper/commit/3995ca67e4e6fba3738595d6279ffd8915bb1421) script for SwapX USDC/scBTC, the result is 12.1200%; continue on other SwapX btc* vaults. Reviewed and merged pull requests from Frank and Rika with [Beefy WBTC pools](https://github.com/harmony-one/shadow-scraper/pull/13) and [Shadow WBTC](https://github.com/harmony-one/shadow-scraper/pull/14).
 
 2025-05-13 Tue: started BTC vaults analysis, invested into swapx, shadow and beefy vaults. Prepared export in TSV with transactions history. Calculated Merkl rewards APR (in wS tokens) for the positions in MEV USDC and Re7.
