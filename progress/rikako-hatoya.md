@@ -1,3 +1,5 @@
+2025-05-15 Thu: Fixed issues and cleaned code for Pendle, PR [here](https://github.com/harmony-one/shadow-scraper/pull/15). Continue looking into Silo.
+
 2025-05-14 Wed: Created [PR](https://github.com/harmony-one/shadow-scraper/pull/14) for wBTC/USDC on Shadow: add pool, add the rest of the reward tokens to APY, prioritize listing USDC.e as to Shadow (since there is also wS reward, maybe we should change script to listing the top 2 reward tokens later but USDC.e seems to be top for now). Started looking into Silo vaults.
 
 2025-05-13 Tue: [Added](https://github.com/harmony-one/shadow-scraper/pull/8/commits/5ce1531cceb2491431edd623e60ab150bb43aacf) Pendle Silo support. Deposited to WBTC/USDC on Shadow, verified rewards match with Shadow script, currently looking through other interesting BTC vaults as well as the other GEMS + USDC rewards.
