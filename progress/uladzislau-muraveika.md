@@ -1,3 +1,9 @@
+2025-05-16 Fri: This week main focus was on the [v2025.1.0 release](https://github.com/harmony-one/harmony/releases/tag/untagged-ff433265eed669be943f), which is still in the **draft mode**, because of [bug](https://github.com/harmony-one/harmony/issues/4903) that is breaking one of the important harmony config options- DisablePrivateIPScan needed by community. Dev team is aware and working on the fix. Additionally, I've rechecked our infra for this flag and fixed a few bugs in our ansible code.
+
+For the observability, I've created a Grafana dashboard with all versions running right now in the mainnet for all possible node types - RPC, validators in normal and non-staking mode, now we can understand what version are running in the network right now. Additionally I've put a link from watchdog to this dashboard.
+
+---
+
 2025-05-09 Fri: I included tests in the pyhmy repo to include them into CI runs, I've fixed estimate gas test - issue was with smart contract without fallback function - added an exact call, pinned dependencies versions, fixed elected validators tests. [PYHMY-40](https://github.com/harmony-one/pyhmy/pull/40) and [PYHMY-41](https://github.com/harmony-one/pyhmy/pull/40).
 
 For the harmony-test repo, I've added pyhmy tests the same way as it done for the rpc-tests and additionally refactored Dockerfile according to best [practices](https://github.com/harmony-one/harmony-test/pull/43)
