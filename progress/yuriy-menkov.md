@@ -1,3 +1,6 @@
+
+2025-05-15 Thu: Finished exporting data and analyzing wallet statistics from the pools of Beefy and SwapX Ichi: wbtc-scbtc, scbtc-wbtc, ws/scbtc, usdc.e/scbtc. Researching the Beets and Spectra platforms for data export and wallet analysis, as well as strategies for btc pools.
+
 2025-05-14 Wed: Added statistics for positions and wallets for several pools [WBTC_scBTC](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats/export_WBTC_%20scBTC) (914 positions) and [scBTC_LBTC](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats/export_scBTC_LBTC) (98 positions) - for vfat and shadow exchange. Working on data collection and analysis of BTC pools in Beefy Ichi Vaults.
 
 2025-05-13 Tue: Added a separate [export](https://github.com/harmony-one/shadow-pool-analytics/blob/main/export_swapx_ichi/big_wallets.tsv) for big wallets with a deposit value of more than $1000. Finishing the analysis of BTC pools – the issues with reward calculations have been fixed, and an alternative [subgraph](https://thegraph.com/explorer/subgraphs/DTNjoPNU1TiDk1oHVmhz3rBcBbPJjPSqBtg52pRfpH71?view=Query&chain=arbitrum-one) is being used to re-collect the rewards data. In total, the analysis is being conducted for 50,000 positions.
