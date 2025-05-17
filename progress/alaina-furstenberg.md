@@ -1,4 +1,4 @@
-2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. 
+2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. Reviewing Codex, ChatGPT's newest coding tool.
 
 2025-05-15 Thu: [Sharing](https://x.com/harmonyprotocol/status/1923160995091927480) of harmony.validator.services. Sync with the Colossus team. Action items: Posting of contents the first week of June due to Colossus attendance of events. In the mean time, will be creating an AI podcast and YouTube video with NotebookLM to promote the integration. 
 
