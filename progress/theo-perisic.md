@@ -1,3 +1,9 @@
+2025-05-16 Fri: Added missing initial arbitrage opportunity search for tokens before the start of the funding rate arbitration rather than default hummingbot with manual token inputs. Issues with sqlite initialization.
+
+2025-05-15 Thu: Switched to Hummingbot for direct application of funding rate strategies. Insight: connectors to new protocols like [lighter.xyz](https://lighter.xyz/) may need manual placement, first is profitability with established perpetual exchanges. Sync with Amanda for finalizing usd* testing, resolved issues with [Equilibria](https://equilibria.fi/stake) and [SwapX](https://swapx.fi/swap?tokenIn=0x0000000000000000000000000000000000000000&tokenOut=0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70). 
+
+2025-05-14 Wed: Initial look into funding rate arbitrage. Coinalyze offers most API results, but no direct connectors, will need to switch to Hummingbot, websockets more optimal.
+
 2025-05-13 Tue: Sync with Philipp. Decided on market subset for [lighter.xyz](https://lighter.xyz/), [hyper liquid](https://app.hyperliquid.xyz/trade), and [vertex](https://vertexprotocol.com/) as initial funding rate arbitrage spread. Insight: Lighter API blocked, Philipp will apply for it, strategy for funding rate arbitrage determined to be higher reward potential and less risk than Pendle inefficient bond market capitalization.
 
 2025-05-12 Mon: Shift from Pendle. Reviewed funding rates. Sync with Alaina for best practices on cursor usage, to get more out of it than with base ChatGPT. 
