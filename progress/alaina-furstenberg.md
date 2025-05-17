@@ -1,3 +1,7 @@
+2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. 
+
+2025-05-15 Thu: [Sharing](https://x.com/harmonyprotocol/status/1923160995091927480) of harmony.validator.services. Sync with the Colossus team. Action items: Posting of contents the first week of June due to Colossus attendance of events. In the mean time, will be creating an AI podcast and YouTube video with NotebookLM to promote the integration. 
+
 2025-05-14 Wed: Research and [thread](https://x.com/harmonyprotocol/status/1922762692248371209) on passkeys. Insights: Passkeys show how login can be both simpler and safer, which proves that strong cryptography doesn’t have to mean worse UX. Final review of Colossus posts in preparation for our sync tomorrow. 
 
 2025-05-13 Tue: Research and [thread](https://x.com/harmonyprotocol/status/1922507817883156612) on USENIX. Testing new v7 features of Midjourney, like [Omni](https://x.com/ciguleva/status/1922702675185107307).
