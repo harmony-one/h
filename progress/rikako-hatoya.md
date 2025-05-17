@@ -1,3 +1,5 @@
+2025-05-16 Fri: Reviewed Artem's feedback for Pendle, changed API to match helper type structure, and moved some functions for better organization (PR commit [here](https://github.com/harmony-one/shadow-scraper/pull/15#commits-pushed-7f59803)). Did further testing and rewards seem to match my wallet but not for another, will come back to this after Silo.
+
 2025-05-15 Thu: Fixed issues and cleaned code for Pendle, PR [here](https://github.com/harmony-one/shadow-scraper/pull/15). Continue looking into Silo.
 
 2025-05-14 Wed: Created [PR](https://github.com/harmony-one/shadow-scraper/pull/14) for wBTC/USDC on Shadow: add pool, add the rest of the reward tokens to APY, prioritize listing USDC.e as to Shadow (since there is also wS reward, maybe we should change script to listing the top 2 reward tokens later but USDC.e seems to be top for now). Started looking into Silo vaults.
