@@ -1,4 +1,6 @@
 
+2025-05-16 Fri: [Updated](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_swapx_ichi) and expanded the data on swapx ichi wallets stats. Completed the general comparison of btc pools on vfat, shadow, and swapx based on the collected statistics. Continuing research on the Spectra platform for data export and analytic.
+
 2025-05-15 Thu: Finished exporting data and analyzing wallet statistics from the pools of Beefy and SwapX Ichi: wbtc-scbtc, scbtc-wbtc, ws/scbtc, usdc.e/scbtc. Researching the Beets and Spectra platforms for data export and wallet analysis, as well as strategies for btc pools.
 
 2025-05-14 Wed: Added statistics for positions and wallets for several pools [WBTC_scBTC](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats/export_WBTC_%20scBTC) (914 positions) and [scBTC_LBTC](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats/export_scBTC_LBTC) (98 positions) - for vfat and shadow exchange. Working on data collection and analysis of BTC pools in Beefy Ichi Vaults.
