@@ -1,3 +1,5 @@
+2025-5-16 Fri (0.4h+): Finalize exit contract construction and make end-to-end integration.
+
 2025-5-15 Thu (1.3h): Finalize exit contract construction and make end-to-end integration.
 
 2025-5-14 Wed (4.1h): Implement Euler and Penpie emergency exits. Discuss BTC related strategies and funding rate strategies.
