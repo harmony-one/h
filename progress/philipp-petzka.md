@@ -1,3 +1,5 @@
+2025-05-18: I continued learning "vibe coding" to build tools. Due to my research about funding rates, I came across an opportunity to build a yield-accruing product based on the arbitrage of on-chain funding rates and started adding a section to the yield-bearing asset vault product. After the discussion with Aaron I received more funding rate data for Hyperliquid to analyze it. 
+
 2025-05-11: I started learning to build Apps with the help of LLMs. My goal is to build useful tools that can test a given thesis faster. After an initial success with a basic pendle-related app I began to build an app that tracks funding rates of Tokens and will connect it to a liquidity manager or trading bot. 
 
 ---
