@@ -1,3 +1,5 @@
+2025-05-18 Sun (2.0h): continue research on Lombard finance: looked at documentation, underlying [Babylon](https://btcstaking.babylonlabs.io/) BTC yield, LBTC token and [Veda](https://app.veda.tech/points) points program.
+
 2025-05-16 Fri: [reviewed](https://github.com/harmony-one/shadow-scraper/pull/15) and tested locally Rika's PR with Pendle stats. Checked Spectra btc* vault, unable to deposit funds due to some internal error on contracts side (non-btc vaults are working fine). Started researching [lombard](https://www.lombard.finance/sonic/) vaults on Sonic.
 
 2025-05-15 Thu: completed analysis for all SwapX btc* vaults (USDC.e/scBTC, WBTC/scBTC, wS/scBTC). [Improved](https://github.com/harmony-one/portfolio-tracker/commit/7b9dac59ce63c22b2405c34837b6979bceb5b46f) portfolio tracker chart and snapshots data, fixed metrics.
