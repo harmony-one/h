@@ -1,3 +1,11 @@
+2025-05-17 Sat: Last week, I worked on several improvements related to P2P networking and stream handling. I submitted [PR 4901](https://github.com/harmony-one/harmony/pull/4901) to ensure the libp2p resource manager is fully disabled by explicitly setting `libp2p.ResourceManager(nil)` in the host configuration. While the `ResourceMgrEnabled = false` flag was already in place, libp2p still applies a default manager unless explicitly disabled. This fix prevents unexpected connection blocking due to resource limits, ensuring smoother and unrestricted P2P communication, particularly in development or scenarios where fine-grained resource control is not needed.
+
+I also continued investigating stream issues and submitted [PR 4900](https://github.com/harmony-one/harmony/pull/4900), which improves stream handling by adding read deadlines, introducing configurable internal tuning, and ensuring stream loops exit cleanly on shutdown signals. Locking was refactored for improved concurrency, and recoverable errors such as timeouts no longer cause full resets. 
+
+Additionally, I identified issues with legacy P2P muxers and submitted [PR 4902](https://github.com/harmony-one/harmony/pull/4902), which removes the outdated `/mplex/0.7.0` protocol and sets `/mplex/6.7.0` and `/yamux/1.0.0` as the defaults. This change improves stream stability and simplifies configuration while aligning with modern libp2p recommendations, helping ensure better interoperability and reliability across nodes.
+
+---
+
 2025-05-10 Sat: I continued investigating the stream read issues using the latest logs. I focused on refactoring the P2P stream and exploring adjustments to the P2P host configuration. As part of this effort, I’ve been reviewing logs and stream behavior across all nodes one by one to identify root causes and improve reliability.
 
 We also discussed the upcoming Harmony release with the team and planned a partial upgrade for testnet. Since the release doesn’t require a hardfork and isn’t mandatory, we’ll upgrade only part of the testnet validators. This setup will help simulate the mainnet scenario where only some validators adopt the new version, allowing us to evaluate compatibility and stability under mixed conditions.
