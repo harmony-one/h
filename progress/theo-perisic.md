@@ -1,3 +1,7 @@
+2025-05-18 Sun: (1.0h) Using o3 from openAI to find optimal strategy with risk tolerance, with every out of the box strategy Hummingbot offers. Insight: XEMM (cross-exchange market making) and funding rate arbitrage are the winners for consistent returns that are not dependent on market swings.
+
+2025-05-17 Sat: (2.0h) Deep dive on [Hummingbot documentation](https://hummingbot.org/docs/).
+
 2025-05-16 Fri: Added missing initial arbitrage opportunity search for tokens before the start of the funding rate arbitration rather than default hummingbot with manual token inputs. Issues with sqlite initialization.
 
 2025-05-15 Thu: Switched to Hummingbot for direct application of funding rate strategies. Insight: connectors to new protocols like [lighter.xyz](https://lighter.xyz/) may need manual placement, first is profitability with established perpetual exchanges. Sync with Amanda for finalizing usd* testing, resolved issues with [Equilibria](https://equilibria.fi/stake) and [SwapX](https://swapx.fi/swap?tokenIn=0x0000000000000000000000000000000000000000&tokenOut=0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70). 
