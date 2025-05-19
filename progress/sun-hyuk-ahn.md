@@ -1,5 +1,16 @@
+2025-05-19 Mon:
 
-2025-05-12 Mon:
+---
+
+2025-05-16 Fri: Performed security operations and password rotations. Fixed ansible script to perform internal scans for hetzner instances. 
+
+2025-05-15 Thu: Analyzing release documentation and updating it correspondingly. Documented release notes.
+
+2025-05-14 Wed: Continued and completed the Testnet upgrade process. Will set a single node in Testnet to ensure it is fully operating.
+
+2025-05-13 Tue: Updated Devnet, followed by Testnet, v2025.1.0 for stability testing.
+
+2025-05-12 Mon: Reviewed the upcoming v2025.1.0 release for hardfork dependency.
 
 ---
 
