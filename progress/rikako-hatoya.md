@@ -1,4 +1,6 @@
-2025-05-17 Sat: Continued looking into Silo. 
+2025-05-18 Sun: Look into more of interesting BTC vaults. 
+
+2025-05-17 Sat: Continued looking into Silo. Look into reward system and contracts.
 
 2025-05-16 Fri: Reviewed Artem's feedback for Pendle, changed API to match helper type structure, and moved some functions for better organization (PR commit [here](https://github.com/harmony-one/shadow-scraper/pull/15#commits-pushed-7f59803)). Did further testing and rewards seem to match my wallet but not for another, will come back to this after Silo.
 
