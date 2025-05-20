@@ -1,3 +1,9 @@
+2025-05-20 Tue: [implemented](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/vfat/index.ts) basic vfat btc* position performance: deposited amount, unclaimed rewards and APR. Started adding calculation of claimed rewards amount, it's important for vfat due to active auto-rebalancing of positions.
+
+2025-05-19 Mon: completed initial reseach on Lombard binance BTC staking, shared in group. Started working on script to calculate APR for VFAT btc* positions,
+
+---
+
 2025-05-18 Sun (2.0h): continue research on Lombard finance: looked at documentation, underlying [Babylon](https://btcstaking.babylonlabs.io/) BTC yield, LBTC token and [Veda](https://app.veda.tech/points) points program.
 
 2025-05-16 Fri: [reviewed](https://github.com/harmony-one/shadow-scraper/pull/15) and tested locally Rika's PR with Pendle stats. Checked Spectra btc* vault, unable to deposit funds due to some internal error on contracts side (non-btc vaults are working fine). Started researching [lombard](https://www.lombard.finance/sonic/) vaults on Sonic.
