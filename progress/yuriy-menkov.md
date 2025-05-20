@@ -1,4 +1,8 @@
 
+2025-05-19 Mon: Opened several positions on beets.fi and spectra for yield testing, as well as event tracking and verifying the accuracy of information from the pools against real data. Started researching contracts, events, and subgraphs to collect data on beets.fi based on the [docs](https://docs.beets.fi/technicals/subgraphs).
+
+---
+
 2025-05-16 Fri: [Updated](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_swapx_ichi) and expanded the data on swapx ichi wallets stats. Completed the general comparison of btc pools on vfat, shadow, and swapx based on the collected statistics. Continuing research on the Spectra platform for data export and analytic.
 
 2025-05-15 Thu: Finished exporting data and analyzing wallet statistics from the pools of Beefy and SwapX Ichi: wbtc-scbtc, scbtc-wbtc, ws/scbtc, usdc.e/scbtc. Researching the Beets and Spectra platforms for data export and wallet analysis, as well as strategies for btc pools.
