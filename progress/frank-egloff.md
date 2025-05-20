@@ -1,3 +1,8 @@
+2025-05-19 Mon: Exploredproper APR calculation methodology for Balancer liquidity positions on Sonic network. Reviewed Balancer contract structures and identified VaultExplorer.getBptRate() for BPT price retrieval, but found this contract unused in production. Discovered position valuation mechanics: while theoretical BPT price equals totalLiquidity/totalShares, actual position value derives from summing current USD values of underlying tokens (not BPT price × shares). Validated approach using scBTC/LBTC position data, calculating 2,533% APR over ~3.14 days, with results matching UI-displayed position value of $6.04. Now working on update the tracker script to include this logic
+
+---
+2025-05-18 Sun: (4.0) Implemented Balancer subgraph queries to retrieve Beets deposit and position data, uncovering key protocol mechanics: while LP token shares remain constant, underlying token balances in pools change over time as swap fees accumulate. Initial APR calculations comparing the amount variation of one of the deposit tokens showed significant deviation from Beets UI values. Will try calculating the APR using the BPT (Balancer Pool Token) price.
+
 2025-05-16 Fri: Continued development of Beets Protocol integration, working with Balancer and Gauge subgraphs to retrieve pool configuration and stake position data.  Planning to continue integration progress on the weekend.
 
 2025-05-15 Thu: Diagnosed Spectra Protocol RPC issues by comparing their website behavior with our tracking script — while the Spectra interface experienced RPC errors for wBTC positions, our script successfully retrieved APR data for USDC positions without connection problems. Advanced Beets Protocol integration research, focusing on their composable liquidity pool architecture.
