@@ -1,3 +1,9 @@
+2025-05-16 Fri:
+- This week, I continued progressing with the Ethereum 1.10 integration into our blockchain codebase. Based on the current status, I estimate we are approximately 30% through the update process.
+- During release testing, Ulad encountered an issue related to node startup. The problem appears to be minor and is not expected to impact the current release timeline. Gheis investigating the issue and expect to have a fix by monday.
+
+---
+
 2025-05-09 Fri:
 - This week, our efforts were centered around validating the upcoming release. During testing, we identified an issue related to the bootnode. While the impact appears to be limited and not a blocker, I proactively submitted a PR with a potential fix involving targeted code changes.
   After further in-depth testing, it became clear that the fix did not fully resolve the issue. Still, we kept things moving and continued with the testing process.
