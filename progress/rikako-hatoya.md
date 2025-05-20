@@ -1,3 +1,5 @@
+2025-05-19 Mon: Researched into how the reward system of Silo works and how to calculate points rewards that rely on campaigns/airdrops. Started working on adding base APR calculation for 2 vaults.
+
 2025-05-18 Sun: Look into more of interesting BTC vaults. 
 
 2025-05-17 Sat: Continued looking into Silo. Look into reward system and contracts.
