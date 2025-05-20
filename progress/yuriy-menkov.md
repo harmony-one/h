@@ -1,4 +1,6 @@
 
+2025-05-20 Tue: Analyzed the Balancer V3 Gyro Pool contracts to collect missing event data for the following beets.fi pools: scETH/scBTC, SolvBTC.BBN/SolvBTC, and scBTC/LBTC on sonic. Additionally, developing new scripts to aggregate data and compute wallet-level statistics.
+
 2025-05-19 Mon: Opened several positions on beets.fi and spectra for yield testing, as well as event tracking and verifying the accuracy of information from the pools against real data. Started researching contracts, events, and subgraphs to collect data on beets.fi based on the [docs](https://docs.beets.fi/technicals/subgraphs).
 
 ---
