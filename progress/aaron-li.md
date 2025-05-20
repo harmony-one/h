@@ -1,4 +1,4 @@
-2025-5-20 Tue (0.5h): End-to-end simulation for exit contract execution using local fork.
+2025-5-20 Tue (1.5h+): End-to-end simulation for exit contract execution using local fork.
 
 2025-5-19 Mon (5.4h): Exit contract configuration example, production and local setup, deploy script. Verify each platform's deployed contracts and anticipated execution parameters and responses.
 
