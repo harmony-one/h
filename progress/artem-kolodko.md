@@ -1,3 +1,5 @@
+2025-05-21 Wed: [completed](https://github.com/harmony-one/shadow-scraper/tree/main/src/portfolio-tracker/vfat) vfat btc* script, started testing the resulst on CL1-WBTC/scBTC and CL1-scBTC/LBTC positions. Checking Silo vaults structure and subgraphs to add btc* vaults.
+
 2025-05-20 Tue: [implemented](https://github.com/harmony-one/shadow-scraper/blob/main/src/portfolio-tracker/vfat/index.ts) basic vfat btc* position performance: deposited amount, unclaimed rewards and APR. Started adding calculation of claimed rewards amount, it's important for vfat due to active auto-rebalancing of positions.
 
 2025-05-19 Mon: completed initial reseach on Lombard binance BTC staking, shared in group. Started working on script to calculate APR for VFAT btc* positions,
