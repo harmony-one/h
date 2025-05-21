@@ -1,4 +1,4 @@
-2025-5-20 Tue (5.6h): End-to-end simulation for exit contract execution using local fork. Discussion on BTC options, perp, funding rate, lending, and liquidity provisioning data and strategies.
+2025-5-20 Tue (6.6h+): End-to-end simulation for exit contract execution using local fork. Discussion on BTC options, perp, funding rate, lending, and liquidity provisioning data and strategies.
 
 2025-5-19 Mon (5.4h): Exit contract configuration example, production and local setup, deploy script. Verify each platform's deployed contracts and anticipated execution parameters and responses.
 
