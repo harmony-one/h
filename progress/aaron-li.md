@@ -1,4 +1,4 @@
-2025-5-22 Thu (0.6h+): Funding rate with historical price query.
+2025-5-22 Thu (1.0h): Funding rate with historical price query.
 
 2025-5-21 Wed (3.1h): End-to-end simulation for exit contract execution using local fork.
 
