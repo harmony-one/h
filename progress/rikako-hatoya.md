@@ -1,3 +1,5 @@
+2025-05-21 Wed: Debugged subgraph issue with getting deposit data from Silo contracts. Created and published subgraphs for vaults, sync with Theo on cursor/hummingbot.
+
 2025-05-20 Tue: Continuation with Silo. Started working on creating subgraphs to fetch deposit amount data.
 
 2025-05-19 Mon: Researched into how the reward system of Silo works and how to calculate points rewards that rely on campaigns/airdrops. Started working on adding base APR calculation for 2 vaults.
