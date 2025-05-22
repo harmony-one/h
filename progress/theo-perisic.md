@@ -1,3 +1,11 @@
+2025-05-21 Wed: Sync with Li, going over Li and Aaron discussions on BTC strategies, suggesting combination of funding rates and hedging to produce highest possible returns against holding BTC. Sync with Rika to teach her best cursor usage, efficiency gained from cursor is a must for engineers, but some learning pains to get through.
+
+2025-05-20 Tue: Review and aggregation of Yuriy’s platform data. Split [Ichi](https://github.com/harmony-one/shadow-pool-analytics/tree/main/export_swapx_ichi) and [shadow](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats)
+
+2025-05-19 Mon: Successful run of hummingbot v2 funding rate arbitrage strategy. Insight: basic strategies only go so far, our edge will need to come from opportunity gathering, currently hummingbot only supports manual asset and exchange inputs, this needs to be automated for our implementation.
+
+---
+
 2025-05-18 Sun: (1.0h) Using o3 from openAI to find optimal strategy with risk tolerance, with every out of the box strategy Hummingbot offers. Insight: XEMM (cross-exchange market making) and funding rate arbitrage are the winners for consistent returns that are not dependent on market swings.
 
 2025-05-17 Sat: (2.0h) Deep dive on [Hummingbot documentation](https://hummingbot.org/docs/).
