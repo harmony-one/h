@@ -1,3 +1,5 @@
+2025-5-22 Thu (0.6h+): Funding rate with historical price query.
+
 2025-5-21 Wed (3.1h): End-to-end simulation for exit contract execution using local fork.
 
 2025-5-20 Tue (6.8h): End-to-end simulation for exit contract execution using local fork. Discussion on BTC options, perp, funding rate, lending, and liquidity provisioning data and strategies.
