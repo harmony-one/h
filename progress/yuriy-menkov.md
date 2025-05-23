@@ -1,4 +1,8 @@
 
+2025-05-22 Thu: Switched to analyzing statistics for the Shadow pool [S/USDC](https://www.shadow.so/liquidity/0x324963c267c354c7660ce8ca3f5f167e05649970): wallets with earnings over $1000, top 10 earning wallets, breakdown of the 327% APY for the 7.5% range, total trading fees, rebalancing frequencies.
+
+2025-05-21 Wed: Synced with Artem regarding the Beets Protocol tracker and the optimal calculation of strategy profitability. Reviewed the [pull request](https://github.com/harmony-one/shadow-scraper/pull/16) for beets-protocol in shadow ccaper. Currently working on the updated APR calculation and other parameters for all wallets stats.
+
 2025-05-20 Tue: Analyzed the Balancer V3 Gyro Pool contracts to collect missing event data for the following beets.fi pools: scETH/scBTC, SolvBTC.BBN/SolvBTC, and scBTC/LBTC on sonic. Additionally, developing new scripts to aggregate data and compute wallet-level statistics.
 
 2025-05-19 Mon: Opened several positions on beets.fi and spectra for yield testing, as well as event tracking and verifying the accuracy of information from the pools against real data. Started researching contracts, events, and subgraphs to collect data on beets.fi based on the [docs](https://docs.beets.fi/technicals/subgraphs).
