@@ -1,8 +1,12 @@
+2025-05-22 Thu: Modified Silo subgraphs to match the format + schema of the existing subgraph (scUSD) and redeployed subgraphs. Completed Silo APY calculation by adding more vaults, pulling token price, and resturcturing some things such as modifying silo-subgraph API to pull data from subgraph for all vaults ([PR](https://github.com/harmony-one/shadow-scraper/pull/17)).
+
 2025-05-21 Wed: Debugged subgraph issue with getting deposit data from Silo contracts. Created and published subgraphs for vaults, sync with Theo on cursor/hummingbot.
 
 2025-05-20 Tue: Continuation with Silo. Started working on creating subgraphs to fetch deposit amount data.
 
 2025-05-19 Mon: Researched into how the reward system of Silo works and how to calculate points rewards that rely on campaigns/airdrops. Started working on adding base APR calculation for 2 vaults.
+
+---
 
 2025-05-18 Sun: Look into more of interesting BTC vaults. 
 
