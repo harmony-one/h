@@ -1,4 +1,12 @@
-2025-05-19 Mon: Research and [tweet on DEX-EE](https://x.com/harmonyprotocol/status/1924535861078892635). Insight: DEX-EE gives AI physical agency — pair that with crypto smart contracts, and you get autonomous agents that can sense, act, and transact in the real world. Began writing the May newsletter, recapping Weeks 1 and 2.
+2025-05-23 Fri: Update of the community section and review of the team's progress for tomorrows thread. Continued writing of the May newsletter, writing Week 3.
+
+2025-05-22 Thu: Continued reading of the information on 5.country. Continued writing of the May newsletter, writing Week 2.
+
+2025-05-21 Wed: Research into the io partnership with OpenAI & Jony Ives and shared a [tweet](https://x.com/harmonyprotocol/status/1925301719044669872). Insights: Software has been the main focus for the past decade. The iPhone was the most recent and most widely used hardware breakthrough, so I believe the next hardware breakthrough will center around AI. 
+
+2025-05-20 Tue: Further explored Cursor's features, practiced organizing code into clean project structures, and successfully created and linked multiple markdown files for documentation. Also began experimenting with version control within Cursor.
+
+2025-05-19 Mon: Research and [tweet on DEX-EE](https://x.com/harmonyprotocol/status/1924535861078892635). Insight: DEX-EE gives AI physical agency — pair that with crypto smart contracts, and you get autonomous agents that can sense, act, and transact in the real world. Began writing the May newsletter, recapping Weeks 1.
 
 ---
 
@@ -6,7 +14,7 @@
 
 2025-05-17 Sat: Writing and posting of the team [progress thread](https://x.com/harmonyprotocol/status/1923955282075582676). Looking into the links on 'Humanoid & Fingers'.
 
-2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. Reviewing Codex, ChatGPT's newest coding tool.
+2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. Reviewing Codex, ChatGPT's newest coding tool, but won't be purchasing and I'll continue using Cursor. 
 
 2025-05-15 Thu: [Sharing](https://x.com/harmonyprotocol/status/1923160995091927480) of harmony.validator.services. Sync with the Colossus team. Action items: Posting of contents the first week of June due to Colossus attendance of events. In the mean time, will be creating an AI podcast and YouTube video with NotebookLM to promote the integration. 
 
