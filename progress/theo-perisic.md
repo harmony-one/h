@@ -1,4 +1,4 @@
-2025-05-23 Fri: Sync with Yuriy to break down BTC strategy, through aerodrome liquidity providing, and hyper liquid for perpetual hedging and upside protection.
+2025-05-23 Fri: Sync with Yuriy to break down BTC strategy into tasks, optimizing for aerodrome liquidity providing, and hyper liquid for perpetual hedging and upside protection.
 
 2025-05-22 Thu: Completed initial 1-pager detailing steps for complete BTC strategy, initial strategy includes [cbBTC from aerodrome](https://aerodrome.finance/deposit?token0=0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913&token1=0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf&type=2000&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A), which may add additional provider risk, but highest returns for yields. 
 
