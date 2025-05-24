@@ -1,3 +1,5 @@
+2025-05-23 Fri: reviewed and merged scripts with improved [beets](https://github.com/harmony-one/shadow-scraper/pull/18) and [Silo](https://github.com/harmony-one/shadow-scraper/pull/17) position tracking. Improved vfat stats. Merged portfolio data from beets, silo, vfat, swapx into one TSV file. Started researching on funding rates, cex prices to create and maintain optimal LP strategy.
+
 2025-05-22 Thu: [review](https://github.com/harmony-one/shadow-scraper/pull/16) of Beets performace pull request from Frank. Finalizing vfat performance script. Review of Silo subgraph from Rika. Call with Amanda on some DeFi vaults questions.
 
 2025-05-21 Wed: [completed](https://github.com/harmony-one/shadow-scraper/tree/main/src/portfolio-tracker/vfat) vfat btc* script, started testing the resulst on CL1-WBTC/scBTC and CL1-scBTC/LBTC positions. Checking Silo vaults structure and subgraphs to add btc* vaults.
