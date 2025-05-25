@@ -1,4 +1,4 @@
-2025-05-24 Sat: Continuation of hummingbot. 
+2025-05-24 Sat (2.5h): Continuation of hummingbot.
 
 2025-05-23 Fri: Testing of existing positions/pools we have so far and verifying APY calculations match. Continued research on hummingbot.
 
@@ -12,9 +12,9 @@
 
 ---
 
-2025-05-18 Sun: Look into more of interesting BTC vaults. 
+2025-05-18 Sun (1.0h): Look into more of interesting BTC vaults. 
 
-2025-05-17 Sat: Continued looking into Silo. Look into reward system and contracts.
+2025-05-17 Sat (3.0h): Continued looking into Silo. Look into reward system and contracts.
 
 2025-05-16 Fri: Reviewed Artem's feedback for Pendle, changed API to match helper type structure, and moved some functions for better organization (PR commit [here](https://github.com/harmony-one/shadow-scraper/pull/15#commits-pushed-7f59803)). Did further testing and rewards seem to match my wallet but not for another, will come back to this after Silo.
 
@@ -28,9 +28,9 @@
 
 ---
 
-2025-05-11 Sun: Continue testing with portfolio tracker and reviewing code to see if anything is off.
+2025-05-11 Sun (1.0h): Continue testing with portfolio tracker and reviewing code to see if anything is off.
 
-2025-05-10 Sat: Continued testing with portfolio tracker to see if any incorrect values returned. Work on cleaning and merging code for Pendle PT and LP into one file.
+2025-05-10 Sat (3.5h): Continued testing with portfolio tracker to see if any incorrect values returned. Work on cleaning and merging code for Pendle PT and LP into one file.
 
 2025-05-09 Fri: Added Pendle PT fixed yield calculation by writing script to fetch PT mint timestamp, fetch PT discount, and calculate APY at time of deposit. Refactored code and opened PR [here](https://github.com/harmony-one/shadow-scraper/pull/8).
 
@@ -44,7 +44,7 @@
 
 ---
 
-2025-05-04 Sun: Continuation from yesterday's work. Underlying yield + pendle calculation.
+2025-05-04 Sun (4.5h): Continuation from yesterday's work. Underlying yield + pendle calculation.
 
 2025-05-03 Sat (1.5h): Continuation with underlying yield. Further search on how to get pendle yield data.
 
@@ -60,9 +60,9 @@
 
 ---
 
-2025-04-27 Sun: Further investigation of vePENDLE. Look into how to write a script for it.
+2025-04-27 Sun (1.5h): Further investigation of vePENDLE. Look into how to write a script for it.
 
-2025-04-26 Sat: Started looking more deeply into vePENDLE. Investigating boost yields and comparison to Penpie/Equilibria.
+2025-04-26 Sat (4.0h): Started looking more deeply into vePENDLE. Investigating boost yields and comparison to Penpie/Equilibria.
 
 2025-04-25 Fri: Further looking into Penpie. Working on adding APR calculation script.
 
@@ -76,9 +76,9 @@
 
 ---
 
-2025-04-20 Sun: Continued with debugging implementation of LP fee calculation.
+2025-04-20 Sun (2.5h): Continued with debugging implementation of LP fee calculation.
 
-2025-04-19 Sat: Continuation of LP fee calculation. Currently working on debugging logic implementation.
+2025-04-19 Sat (2.5h): Continuation of LP fee calculation. Currently working on debugging logic implementation.
 
 2025-04-18 Fri: Verification/testing of updated Spectra PT+LP Rewards APR. Look into LP fees.
 
