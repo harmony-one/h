@@ -1,4 +1,4 @@
-2025-5-25 Sun (0.3h): Funding rate with historical price query.
+2025-5-25 Sun (0.9h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query. Funding rate with historical price query.
 
 2025-5-24 Sat (0.2h): Funding rate with historical price query.
 
