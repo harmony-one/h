@@ -1,3 +1,5 @@
+2025-5-24 Sat (0.2h): Funding rate with historical price query.
+
 2025-5-23 Fri (1.2h): Funding rate with historical price query.
 
 2025-5-22 Thu (1.0h): Funding rate with historical price query.
