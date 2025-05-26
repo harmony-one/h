@@ -1,3 +1,5 @@
+2025-05-25 Sun (1.5h): Continuation with looking into more BTC vaults. Checking with any errors for current shadow-scraper code.
+
 2025-05-24 Sat (2.5h): Continuation of hummingbot.
 
 2025-05-23 Fri: Testing of existing positions/pools we have so far and verifying APY calculations match. Continued research on hummingbot.
