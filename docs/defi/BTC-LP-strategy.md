@@ -16,9 +16,9 @@ Binance BTCUSDC Perpetual funding rates history:
 
 https://www.binance.com/en/futures/funding-history/perpetual/funding-fee-history
 
-Recent trends indicate bullish sentiment on Bitcoin (as of 25 May 2025).
+<img width="1276" alt="Screenshot 2025-05-26 at 9 58 11 AM" src="https://github.com/user-attachments/assets/a5dae0db-fbc3-4442-92af-7da1145adcb9" />
 
-[SCREENSHOT BINANCE RATES]
+Recent trends indicate bullish sentiment on Bitcoin (as of 25 May 2025).
 
 ### Position allocation
 - investment size: 50% BTC, 50% USDC
