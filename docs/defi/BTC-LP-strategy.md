@@ -9,7 +9,7 @@ Pools examples
 [Shadow CL WBTC/USDC](https://www.shadow.so/liquidity/0x8bc2f9e725cbb07c338df4e77c82190119ddd823)
 
 ### Position range optimization
-Use perpetual futures funding rates to check market dynamics. Positive funding rates suggest bullish outcome; liquidity ranges will go above current price. Negative funding rates indicate bearish outcome, ranges will go below current price.
+Use perpetual futures funding rates to check market dynamics. Positive funding rates suggest bullish sentiment; liquidity ranges will go above current price. Negative funding rates indicate bearish sentiment, ranges will go below current price.
 
 Example:
 Binance BTCUSDC Perpetual funding rates history:
