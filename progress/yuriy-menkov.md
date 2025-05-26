@@ -1,4 +1,10 @@
 
+2025-05-26 Mon: Worked on tracking the optimal strategy for the cbbtc/USDC pool on Aerodrome. Researched the Hyperliquid platform — for perp shorts, long BTC via perps or spot wallet, etc. Also explored the ecosystem to assess opportunities for building analytics and yield evaluation.
+
+---
+
+2025-05-24 Sat (3.0h): [Exported](https://github.com/harmony-one/shadow-pool-analytics/tree/main/vfat_shadow_stats/export_S_USDC) the raw data for the S/USDC pool, finished report and shared the final statistics for the pool.
+
 2025-05-23 Fri: Loaded all the data and completed the analysis of the statistics for the Shadow pool [S/USDC](https://www.shadow.so/liquidity/0x324963c267c354c7660ce8ca3f5f167e05649970) from 05.15 to 22.15 (17th epoch). Currently working on the final report. Synced with Theo regarding new focus on the cbbtc/usdc position analysis from Aerodrome wallets to find the best range for our LP.
 
 2025-05-22 Thu: Switched to analyzing statistics for the Shadow pool [S/USDC](https://www.shadow.so/liquidity/0x324963c267c354c7660ce8ca3f5f167e05649970): wallets with earnings over $1000, top 10 earning wallets, breakdown of the 327% APY for the 7.5% range, total trading fees, rebalancing frequencies.
