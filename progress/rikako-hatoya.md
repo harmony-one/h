@@ -1,3 +1,7 @@
+2025-05-26 Mon (1.5h): Research into BTC-USD vaults. Looked into various platforms (silo, spectra, etc) for vaults with 50k+ TVL and updated list [here](https://github.com/harmony-one/h/blob/main/docs/rika-btc-usd-pools.tsv). 
+
+---
+
 2025-05-25 Sun (1.5h): Continuation with looking into more BTC vaults. Checking with any errors for current shadow-scraper code.
 
 2025-05-24 Sat (2.5h): Continuation of hummingbot.
