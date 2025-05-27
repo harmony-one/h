@@ -1,3 +1,11 @@
+2025-05-26 Mon: Memorial Day
+
+---
+
+2025-05-25 Sun (1.0 hr): Following up with the team to complete progress, writing the thread.
+
+2025-05-24 Sat (1.0 hr): Animating a graphic for the progress thread.
+
 2025-05-23 Fri: Update of the community section and review of the team's progress for tomorrows thread. Continued writing of the May newsletter, writing Week 3.
 
 2025-05-22 Thu: Continued reading of the information on 5.country. Continued writing of the May newsletter, writing Week 2.
@@ -10,9 +18,9 @@
 
 ---
 
-2025-05-18 Sun: Continued reading of 'Humanoid & Fingers' 
+2025-05-18 Sun (1.0 hr): Continued reading of 'Humanoid & Fingers' 
 
-2025-05-17 Sat: Writing and posting of the team [progress thread](https://x.com/harmonyprotocol/status/1923955282075582676). Looking into the links on 'Humanoid & Fingers'.
+2025-05-17 Sat (1.0 hr): Writing and posting of the team [progress thread](https://x.com/harmonyprotocol/status/1923955282075582676). Looking into the links on 'Humanoid & Fingers'.
 
 2025-05-16 Fri: Update of the community section and posting a [thread on X](https://x.com/harmonyprotocol/status/1923552968022135010). Continued learning and testing of Cursor, learning to create markdown files, and properly set up code for a project. Reviewing Codex, ChatGPT's newest coding tool, but won't be purchasing and I'll continue using Cursor. 
 
@@ -26,9 +34,9 @@
 
 ---
 
-2025-05-11 Sun: Continuation animating and editing the Blue to Fly AI video, have been dealing with a credit issue on Runway but have upgraded tiers to improve the video quality.
+2025-05-11 Sun (1.0 hr): Continuation animating and editing the Blue to Fly AI video, have been dealing with a credit issue on Runway but have upgraded tiers to improve the video quality.
 
-2025-05-10 Sat: Review of the team's /progress and writing of a [progress thread](https://x.com/harmonyprotocol/status/1921989524281803046).
+2025-05-10 Sat (1.0 hr): Review of the team's /progress and writing of a [progress thread](https://x.com/harmonyprotocol/status/1921989524281803046).
 
 2025-05-09 Fri: Update of the [community section](https://x.com/harmonyprotocol/status/1920981304155177299). FlappyH1 graphic and [promotion](https://x.com/harmonyprotocol/status/1920987732446171228). Continuation of Cursor tutorials. Continuation animating and editing the Blue to Fly AI video.
 
@@ -58,9 +66,9 @@
 
 ---
 
-2025-04-27 Sun: Continuation on Harmony as ONE's Future anime video
+2025-04-27 Sun (1.0 hr): Continuation on Harmony as ONE's Future anime video
 
-2025-04-26 Sat: Revisions the April 2025 newsletter
+2025-04-26 Sat (1.0 hr): Revisions the April 2025 newsletter
 
 2025-04-25 Fri: Design of the thumbnail, and revisions the April 2025 newsletter. Working in Runway to create the anime version of "Harmony as ONE's Future". Update of the Harmony community section and posted to X.
 
