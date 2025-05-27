@@ -1,4 +1,4 @@
-2025-5-27 Tue (1.9h+): BTC yield strategy spec. Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
+2025-5-27 Tue (1.9h): BTC yield strategy spec. Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
 
 2025-5-26 Mon (5.9h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
 
