@@ -1,3 +1,7 @@
+2025-05-26 Mon: [drafted](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md) BTC/USDC LP strategy, researching BTC LP pools on Sonic. Started working on implementation of BTC LP strategy with hedging against impermanent loss.
+
+---
+
 2025-05-25 Sun (2.0h): reviewed and [merged](https://github.com/harmony-one/shadow-scraper/pull/19) pull request with beets position script update. Continue on BTC/USDC LP strategy research.
 
 2025-05-23 Fri: reviewed and merged scripts with improved [beets](https://github.com/harmony-one/shadow-scraper/pull/18) and [Silo](https://github.com/harmony-one/shadow-scraper/pull/17) position tracking. Improved vfat stats. Merged portfolio data from beets, silo, vfat, swapx into one TSV file. Started researching on funding rates, cex prices to create and maintain optimal LP strategy.
