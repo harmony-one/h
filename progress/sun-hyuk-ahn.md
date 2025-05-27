@@ -1,8 +1,20 @@
-2025-05-19 Mon:
+2025-05-26 Mon: Memorial Day
 
 ---
 
-2025-05-16 Fri: Performed security operations and password rotations. Fixed ansible script to perform internal scans for hetzner instances. 
+2025-05-23 Fri: Performed SSL renewal and nginx upgrade for vault instance.
+ 
+2025-05-22 Thu: Upgraded hashicorp vault network and security configuration.
+
+2025-05-21 Wed: Continued the analysis and made updates correspondingly regarding tranasction upgrade. Began analyzing hashicorp vault configuration for upcoming upgrade. 
+
+2025-05-20 Tue: Analyzed root cause for the failing unit tests with the updtaed transaction struct.
+
+2025-05-19 Mon: Fixed ansible script to perform internal scans for hetzner instances.
+
+---
+
+2025-05-16 Fri: Performed security operations and password rotations. 
 
 2025-05-15 Thu: Analyzing release documentation and updating it correspondingly. Documented release notes.
 
