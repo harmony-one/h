@@ -1,4 +1,4 @@
-2025-5-28 Wed (0.3h+): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
+2025-5-28 Wed (0.7h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
 
 2025-5-27 Tue (3.2h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
 
