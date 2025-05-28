@@ -1,7 +1,20 @@
-Pool Pairs	Liquidity	Protocol	Vault Link
-USDT/WBTC/WETH	$9.91M	Beefy	https://app.beefy.com/vault/convex-tricrypto-usdt
-WBTC-USDC	$697,567	Beefy	https://app.beefy.com/vault/uniswap-cow-base-usdc-cbtbc-rp
-WBTC-USDC	$302.19	Beefy	https://app.beefy.com/vault/shadow-cow-sonic-wbtc-usdc.e-rp
-WBTC-USDC	$167,876	Beefy	https://app.beefy.com/vault/shadow-cow-sonic-wbtc-usdc.e-vault
-CL1-WBTC/scBTC	$732,515	vfat.io	https://vfat.io/farm?chainId=146&farmAddress=0xb6f401f789271bc14ae2229e6189084805c50c&poolIndex=0
-CL5-WBTC/USDC	$183,316	vfat.io	https://vfat.io/farm?chainId=146&farmAddress=0x3ccee9fd8258e47e16f5274ee539e8bff3d92c38&poolIndex=0 
+Pool Pairs	Liquidity	Protocol	chain	Vault Link
+USDT/WBTC/WETH	$9.91M	Beefy	Sonic	https://app.beefy.com/vault/convex-tricrypto-usdt
+WBTC-USDC	$697,567	Beefy	Sonic	https://app.beefy.com/vault/uniswap-cow-base-usdc-cbtbc-rp
+WBTC-USDC	$302.19	Beefy	Sonic	https://app.beefy.com/vault/shadow-cow-sonic-wbtc-usdc.e-rp
+WBTC-USDC	$167,876	Beefy	Sonic	https://app.beefy.com/vault/shadow-cow-sonic-wbtc-usdc.e-vault
+CL1-WBTC/scBTC	$732,515	vfat.io	Sonic	https://vfat.io/farm?chainId=146&farmAddress=0xb6f401f789271bc14ae2229e6189084805c50c&poolIndex=0
+CL5-WBTC/USDC	$183,316	vfat.io	Sonic	https://vfat.io/farm?chainId=146&farmAddress=0x3ccee9fd8258e47e16f5274ee539e8bff3d92c38&poolIndex=0 
+WBTC-​USDC	$2.31M	Beefy	Arbitrum	https://app.beefy.com/vault/uniswap-cow-arb-wbtc-usdc-rp
+WBTC-​USDC	$872,198	Beefy	Arbitrum	https://app.beefy.com/vault/pancake-cow-arb-wbtc-usdc-vault
+WETH/WBTC/USDC.e	$51,254.98	Beets	Optimism	https://beets.fi/pools/optimism/v2/0x5028497af0c9a54ea8c6d42a054c0341b9fc6168000100000000000000000004
+USDC / cbBTC	$22.42M	Ethereum	Euler	https://app.euler.finance/positions/0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9/0x056f3a2E41d2778D3a0c0714439c53af2987718E?network=ethereum&tab=multiply
+USDC / WBTC	$20.42M	Ethereum	Euler	https://app.euler.finance/positions/0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9/0x998D761eC1BAdaCeb064624cc3A1d37A46C88bA4?network=ethereum&tab=multiply
+USDC / LBTC	$15.72M	Ethereum	Euler	https://app.euler.finance/positions/0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9/0xbC35161043EE2D74816d421EfD6a45fDa73B050A?network=ethereum&tab=multiply
+USDT / BTC.b	$1.96M	Avalanche	Euler	https://app.euler.finance/positions/0xa446938b0204Aa4055cdFEd68Ddf0E0d1BAB3E9E/0x6072A6d18446278bB5a43eb747de8F61e34cB77f?network=avalanche&tab=multiply
+savUSD / BTC.b	$1.96M	Avalanche	Euler	https://app.euler.finance/positions/0x5030183B3DD0105d69D7d45595C120Fc4b542EC3/0x6072A6d18446278bB5a43eb747de8F61e34cB77f?network=avalanche&tab=multiply
+USDC / CBBTC	$3.30M	Base	Euler	https://app.euler.finance/positions/0x0A1a3b5f2041F33522C4efc754a7D096f880eE16/0x882018411Bc4A020A879CEE183441fC9fa5D7f8B?network=base&tab=multiply
+CBBTC / USDS	$67,708.50	Base	Euler	https://app.euler.finance/positions/0x882018411Bc4A020A879CEE183441fC9fa5D7f8B/0x556d518FDFDCC4027A3A1388699c5E11AC201D8b?network=base&tab=multiply
+CBBTC / USDC	$2.28M	Base	Euler	https://app.euler.finance/positions/0x882018411Bc4A020A879CEE183441fC9fa5D7f8B/0x0A1a3b5f2041F33522C4efc754a7D096f880eE16?network=base&tab=multiply
+LBTC / USDC	$2.28M	Base	Euler	https://app.euler.finance/positions/0x3f0d3Fd87A42BDaa3dfCC13ADA42eA922e638a7A/0x0A1a3b5f2041F33522C4efc754a7D096f880eE16?network=base&tab=multiply
+IBTC	$52,689	Spectra	Ethereum	https://app.spectra.finance/pools/eth:0xa5d96291e8cc475f94e07bb5af6a75bbe723fd11
