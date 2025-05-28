@@ -1,4 +1,8 @@
 
+2025-05-28 Wed: Synced with Theo regarding the target strategy: Outperform passive BTC by ≥ 15% annual alpha while maintaining near-zero BTC delta. Continuing to work on tracking the owners of positions staked in CLGauge by tracing the position token’s path through events.
+
+2025-05-27 Tue: [Exported](https://github.com/harmony-one/shadow-pool-analytics/tree/main/aerodrome/export_USDC_cbBTC) the raw position data for the cbbtc-usdc pool for the entire period. Discovered an issue with the reward calculation for positions — since some of them participate in staking, the owner is actually the CLGauge contract, which makes it harder to identify the real owner and their yield.
+
 2025-05-26 Mon: Worked on tracking the optimal strategy for the cbbtc/USDC pool on Aerodrome. Researched the Hyperliquid platform — for perp shorts, long BTC via perps or spot wallet, etc. Also explored the ecosystem to assess opportunities for building analytics and yield evaluation.
 
 ---
