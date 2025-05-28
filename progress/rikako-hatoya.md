@@ -1,4 +1,6 @@
-2025-05-26 Mon (1.5h): Research into BTC-USD vaults. Looked into various platforms (silo, spectra, etc) for vaults with 50k+ TVL and updated list [here](https://github.com/harmony-one/h/blob/main/docs/rika-btc-usd-pools.tsv). 
+2025-05-27 Tue: Researched more Defi AMM platforms and looked through BTC-USD pools with >50k TVL, added more pools to this [list](https://github.com/harmony-one/h/blob/main/docs/rika-btc-usd-pools.tsv). Started playing around with dydx and Hyperliquid.
+
+2025-05-26 Mon (Memorial Day, 1.5h): Research into BTC-USD vaults. Looked into various platforms (silo, spectra, etc) for vaults with 50k+ TVL and updated list [here](https://github.com/harmony-one/h/blob/main/docs/rika-btc-usd-pools.tsv). 
 
 ---
 
