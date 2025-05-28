@@ -1,7 +1,41 @@
-Pool Pairs	Liquidity	Protocol	Vault Link
-WBTC/USDC	$2.67M	Shadow	https://www.shadow.so/liquidity/0x8bc2f9e725cbb07c338df4e77c82190119ddd823
-WBTC/USDC	$120k/$76.2k	SwapX	https://sonicscan.org/address/0x3ccee9fd8258e47e16f5274ee539e8bff3d92c38
-WBTC/USDC	$467.9k/$264.2k	Silo	https://app.silo.finance/markets/sonic/wbtc-usdc-50
-wBTC/USDC	$1,979,734	Vertex	https://app.vertexprotocol.com/spot?market=wBTC-USDC
-scETH/scBTC/scUSD/stS Beets	$1.11M	Beets	https://beets.fi/pools/sonic/v2/0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8
-WETH/WBTC/USDC.e	$50.90k	Beets	https://beets.fi/pools/optimism/v2/0x5028497af0c9a54ea8c6d42a054c0341b9fc6168000100000000000000000004
+Pool Pairs	Liquidity	Protocol	Chain	Vault Link
+CL50-WBTC/USDC	$2.67M	Shadow	Sonic https://www.shadow.so/liquidity/0x8bc2f9e725cbb07c338df4e77c82190119ddd823
+wBTC/USDC	$120k/$76.2k	SwapX	 Sonic https://sonicscan.org/address/0x3ccee9fd8258e47e16f5274ee539e8bff3d92c38
+wBTC/USDC	$467.9k/$264.2k	Silo	Sonic https://app.silo.finance/markets/sonic/wbtc-usdc-50
+wBTC/USDC	$70.8k	Vertex	Sonic https://app.vertexprotocol.com/spot?market=wBTC-USDC
+scETH/scBTC/scUSD/stS $1.11M	Beets	Sonic https://beets.fi/pools/sonic/v2/0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8
+wETH/wBTC/USDC.e	$50.90k	Beets	Sonic https://beets.fi/pools/optimism/v2/0x5028497af0c9a54ea8c6d42a054c0341b9fc6168000100000000000000000004
+CL100-USDC/cbBTC $23.1M Aerodrome Base https://aerodrome.finance/deposit?token0=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&token1=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&type=100&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A
+CL2000-USDC/cbBTC $5.88M Aerodrome Base https://aerodrome.finance/deposit?token0=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&token1=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&type=2000&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A
+USDC/cbBTC $3.36M Aerodrome Base https://aerodrome.finance/deposit?token0=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&token1=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&type=-1&chain0=8453&chain1=8453&factory=0x420DD381b31aEf6683db6B902084cB0FFECe40Da
+CL200-tBTC/USDC $717k Aerodrome Base https://aerodrome.finance/deposit?token0=0x236aa50979d5f3de3bd1eeb40e81137f22ab794b&token1=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&type=200&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A
+tBTC/USDC $591k Aerodrome Base https://aerodrome.finance/deposit?token0=0x236aa50979d5f3de3bd1eeb40e81137f22ab794b&token1=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&type=-1&chain0=8453&chain1=8453&factory=0x420DD381b31aEf6683db6B902084cB0FFECe40Da
+oUSDT/cbBTC $403k Aerodrome Base https://aerodrome.finance/deposit?token0=0x236aa50979d5f3de3bd1eeb40e81137f22ab794b&token1=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&type=-1&chain0=8453&chain1=8453&factory=0x420DD381b31aEf6683db6B902084cB0FFECe40Da
+CL100-USDT0/kBTC $381k Velodrome Ink https://velodrome.finance/deposit?token0=0x0200c29006150606b650577bbe7b6248f58470c1&token1=0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98&type=100&chain0=57073&chain1=57073&factory=0x04625B046C69577EfC40e6c0Bb83CDBAfab5a55F
+CL100-USDT0/kBTC $240k Velodrome Optimism https://velodrome.finance/deposit?token0=0x4200000000000000000000000000000000000006&token1=0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40&type=200&chain0=10&chain1=10&factory=0xCc0bDDB707055e04e497aB22a59c2aF4391cd12F
+BTC.b/USDC $196k Pharaoh Avalanche https://pharaoh.exchange/liquidity/v2/0xc03b6457af0292feb12264c8a14ff58e0155b6ae
+USDT/BTCB $16.6M PancakeSwap BNB https://pancakeswap.finance/liquidity/pool/bsc/0x46Cf1cF8c69595804ba91dFdd8d6b960c9B0a7C4
+wBTC/USDT $1.27M PancakeSwap BNB https://pancakeswap.finance/liquidity/pool/bsc/0x659DDDcC02115946e142E856c1F7Cd7E39d03D3D
+USDT/BTCB $1.63M PancakeSwap BNB https://pancakeswap.finance/liquidity/pool/bsc/0x247f51881d1E3aE0f759AFB801413a6C948Ef442
+wBTC/USDC $1.48M PancakeSwap Arbitrum https://pancakeswap.finance/liquidity/pool/arb/0x843aC8dc6D34AEB07a56812b8b36429eE46BDd07
+wBTC/USDT $148k PancakeSwap Arbitrum https://pancakeswap.finance/liquidity/pool/arb/0xeAF03f385C642b02B5C563640BBA7c4FBf96c27D
+wBTC/USDC $122k PancakeSwap Arbitrum https://pancakeswap.finance/liquidity/pool/arb/0x5A17cbf5F866BDe11C28861a2742764Fac0Eba4B
+USDT/BTCB $83.2k PancakeSwap BNB https://pancakeswap.finance/liquidity/pool/bsc/0x6ee3eE9C3395BbD136B6076A70Cb6cFF241c0E24
+BTCB/BUSD $46.6k PancakeSwap BNB https://pancakeswap.finance/liquidity/pool/bsc/0x369482C78baD380a036cAB827fE677C1903d1523
+WBTC/USDC $89.6M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0x99ac8cA7087fA4A2A1FB6357269965A2014ABc35
+WBTC/USDT $34.7M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0x20c3a15e34e5d88aeba004b0753af69e4f6bea80eae2263f7a92e919cd33cc56
+WBTC/USDT $34.4M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0x9Db9e0e53058C89e5B94e29621a205198648425B
+USDC/WBTC $24.6M Uniswap Unichain https://app.uniswap.org/explore/pools/unichain/0x53b06f1bb8b622cc4b7dbd9bc9f4a34788034bc48702cd2af4135b48444d5b24
+WBTC/USDC $22.8M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0xCBFB0745b8489973Bf7b334d54fdBd573Df7eF3c
+WBTC/USDC $16.8M Uniswap Unichain https://app.uniswap.org/explore/pools/unichain/0xbd0f3a7cf4cf5f48ebe850474c8c0012fa5fe893ab811a8b8743a52b83aa8939
+WBTC/USDT0 $15.5M Uniswap Unichain https://app.uniswap.org/explore/pools/unichain/0x05dbb214bd7b9461f9c2f6690b612629b65b9f81d7312fdd3e552d2dda85f771
+USDT0/WBTC $14.9M Uniswap Unichain https://app.uniswap.org/explore/pools/unichain/0xc349e9692b4afe1bcfdd6fadaf9ff0df2a2bea8c1a3e56323b57be08e4b8df6a
+WBTC/USDT $11.7M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0x56534741CD8B152df6d48AdF7ac51f75169A83b2
+WBTC/USDC $10.7M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0x9a772018FbD77fcD2d25657e5C547BAfF3Fd7D16
+WBTC/USDC $8.2M Uniswap Arbitrum https://app.uniswap.org/explore/pools/arbitrum/0x70bf44c3a9b6b047bf60e5a05968225dbf3d6a5b9e8a95a73727e48921e889c1
+USDC/cbBTC $7.6M Uniswap Base https://app.uniswap.org/explore/pools/base/0xfBB6Eed8e7aa03B138556eeDaF5D271A5E1e43ef
+WBTC/USDC $7.1M Uniswap Ethereum https://app.uniswap.org/explore/pools/ethereum/0xb98437c7ba28c6590dd4e1cc46aa89eed181f97108e5b6221730d41347bc817f
+
+
+
+
