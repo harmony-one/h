@@ -1,7 +1,7 @@
-## BTC/S-USDC LP strategy
+## BTC/USDC LP strategy
 
 ### Objective
-Outperform Bitcoin's yearly return by 15% or more while avoiding big price changes.
+Achieve at least 15% higher annual alpha than passive BTC while maintaining minimal BTC delta.
 
 ### Implementation
 
@@ -25,6 +25,9 @@ Outperform Bitcoin's yearly return by 15% or more while avoiding big price chang
 • Monitor Ethereum gas costs; pause rebalancing if Ethereum gas fees exceed $20 per transaction.
 
 ### Key Performance Indicators (KPIs)
+
 • Weekly fee yield ≥ 0.30 % of LP notional.
+
 • Net BTC delta maintained between -5% and +5% of position value.
+
 • Time-in-range ≥ 85% to maximize fee generation
