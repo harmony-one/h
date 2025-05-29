@@ -1,4 +1,4 @@
-2025-05-28 Wed: started implementation of BTC/USDC LP + hedge strategy; looking for historical data for Uniswap BTC/USDC LP. Sync on Cursor AI features.
+2025-05-28 Wed: started implementation of BTC/USDC LP + hedge strategy; looking for historical data for Uniswap [WBTC/USDC LP](https://app.uniswap.org/explore/pools/ethereum/0x99ac8cA7087fA4A2A1FB6357269965A2014ABc35) (apr = 33% from Uniswap interface). Sync on Cursor AI features.
 
 2025-05-27 Tue: researching BTC LPs on other chains: Aerodrome USDC/cbBTC (Base), GMX BTC/USDC (Arbitrum), Uniswap v3 USDC/WBTC (Ethereum). Exploring Hyperliquid and dYdX API.
 
