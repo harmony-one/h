@@ -1,3 +1,5 @@
+2025-05-28 Wed: started implementation of BTC/USDC LP + hedge strategy. Sync on Cursor AI features.
+
 2025-05-27 Tue: researching BTC LPs on other chains: Aerodrome USDC/cbBTC (Base), GMX BTC/USDC (Arbitrum), Uniswap v3 USDC/WBTC (Ethereum). Exploring Hyperliquid and dYdX API.
 
 2025-05-26 Mon: [drafted](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md) BTC/USDC LP strategy, researching BTC LP pools on Sonic. Started working on implementation of BTC LP strategy with hedging against impermanent loss.
