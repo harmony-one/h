@@ -1,4 +1,4 @@
-2025-5-29 Thu (0.9h+): BTC LP strategy spec revision.
+2025-5-29 Thu (1.7h): BTC LP strategy spec revision.
 
 2025-5-28 Wed (5.5h): BTC LP strategy spec revision. Discussion on BTC LP strategies.
 
