@@ -1,3 +1,5 @@
+2025-5-29 Thu (0.9h+): BTC LP strategy spec revision.
+
 2025-5-28 Wed (5.5h): BTC LP strategy spec revision. Discussion on BTC LP strategies.
 
 2025-5-27 Tue (3.2h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
