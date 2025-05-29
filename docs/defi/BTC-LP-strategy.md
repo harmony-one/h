@@ -31,3 +31,5 @@ Achieve at least 15% higher annual alpha than passive BTC while maintaining mini
 • Net BTC delta maintained between -5% and +5% of position value.
 
 • Time-in-range ≥ 85% to maximize fee generation
+
+• Total strategy return (LP fees minus funding costs minus gas) ≥ 15% annually.
