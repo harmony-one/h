@@ -1,3 +1,18 @@
+2025-05-26 Fri: Finalized cursor optimization guide for engineers. Review and [initial testing](https://github.com/ONETheo/btc-hyperliquid-aerodrome) from [Aaron’s BTC-LP](https://hackmd.io/@polymorpher/btc-lp) strategy. Insight: robust strategy, but currently relies on options with expirations and sharp increase in holding costs, possibly a way to run a similar strategy with only short/long from hyper liquid.
+
+2025-05-25 Thu: Reviewed Aerodrome, SwapX, and Shadow pools for BTC strategy. Adding best opportunities to [pre-Hummingbot parameter](https://github.com/hamood1337/CryptoFundingArb) fill. Insight: websockets are necessary for reliable pricing, current arbitrage analysis is too slow from provided repo.
+ 
+2025-05-24 Wed: Led initial cursor onboarding and tooling sync with Li, Artem, and Yuriy. Continued iterations on Aerodrome and Hyperliquid strategies.  
+2025-05-23 Tue: Sync with Li for cursor team planning and BTC yield strategy next steps. Coordination with Artem and Yuriy for cursor best practices.
+
+2025-05-26 Mon: Federal Holiday
+
+---
+
+2025-05-25 Sun: (1.0h) Adding DEX only sourcing for Hummingbot. Insight: largest opportunities are coming from CEX-DEX funding rates, but sticking to DEX-only may be optimal for later productization.
+
+2025-05-24 Sat: (2.0h) Reviewing [Hummingbot docs](https://hummingbot.org/docs/) for v1 vs v2 strategies for market making and funding rates.
+
 2025-05-23 Fri: Sync with Yuriy to break down BTC strategy into tasks, optimizing for aerodrome liquidity providing, and hyper liquid for perpetual hedging and upside protection.
 
 2025-05-22 Thu: Completed initial 1-pager detailing steps for complete BTC strategy, initial strategy includes [cbBTC from aerodrome](https://aerodrome.finance/deposit?token0=0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913&token1=0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf&type=2000&chain0=8453&chain1=8453&factory=0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A), which may add additional provider risk, but highest returns for yields. 
