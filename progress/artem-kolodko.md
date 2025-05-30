@@ -1,3 +1,5 @@
+2025-05-30 Fri: BTC LP strategy: [finalized](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md) documentation, [added](https://github.com/harmony-one/portfolio-manager/commit/2274e9b7678a58f709948303d3002865afd6c889) check of current position. Split strategy into tasks for Frank and Rika.
+
 2025-05-29 Thu: created [portfolio-manager](https://github.com/harmony-one/portfolio-manager) project for BTC/USDC LP + Perps hedge bot, added integration with Uniswap V3 and Hyperliquid SDK. Working on updated LP + Perps strategy.
 
 2025-05-28 Wed: started implementation of BTC/USDC LP + hedge strategy; looking for historical data for Uniswap [WBTC/USDC LP](https://app.uniswap.org/explore/pools/ethereum/0x99ac8cA7087fA4A2A1FB6357269965A2014ABc35) (apr = 33% from Uniswap interface). Sync on Cursor AI features.
