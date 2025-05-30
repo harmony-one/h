@@ -2,8 +2,6 @@
 
 2025-05-31 Sat: Posting of the May 2025 newsletter, thread on X.
 
----
-
 2025-05-30 Fri: Update of the community section and posting to X. Finalizng the May newsletter and reviewing with Li and Theo.
 
 2025-05-29 Thu: Sharing of [5.country onto X](https://x.com/harmonyprotocol/status/1928185173453246757). Continued edits of the May newsletter.
