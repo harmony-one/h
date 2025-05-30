@@ -1,4 +1,4 @@
-2025-05-26 Fri:
+2025-05-30 Fri:
 
 This week main focus was on the [v2025.1.1 release](https://github.com/harmony-one/harmony/releases/tag/v2025.1.1) with a hotfix for the [DisablePrivateIPScan bug](https://github.com/harmony-one/harmony/issues/4903) from Gheis- I've tested it through the devnet->testnet->mainnet and installed on the Harmony  nodes - boontodes, internal validators and RPCs. Plan is to announce it publicly to the community on Tuesday.
 
