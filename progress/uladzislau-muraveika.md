@@ -1,3 +1,15 @@
+2025-05-26 Fri:
+
+This week main focus was on the [v2025.1.1 release](https://github.com/harmony-one/harmony/releases/tag/v2025.1.1) with a hotfix for the [DisablePrivateIPScan bug](https://github.com/harmony-one/harmony/issues/4903) from Gheis- I've tested it through the devnet->testnet->mainnet and installed on the Harmony  nodes - boontodes, internal validators and RPCs. Plan is to announce it publicly to the community on Tuesday.
+
+Additionally, I've helped with testing the new set of the muxers mplexC6 and yamux in the devnet.
+
+On the ops side, I've renewed our our RPC certs, upgraded our nginx to the new [LTS release](https://nginx.org/en/CHANGES-1.28), upgraded [nginx's vts module ](https://github.com/vozlt/nginx-module-vts) to the latest version and spotted the new cool feature here - [counts by each http response code](https://github.com/vozlt/nginx-module-vts?tab=readme-ov-file#vhost_traffic_status_measure_status_codes), planning to add it in our observability stack.
+
+From the support side, I've spent whole Friday in figuring out why we have less blocks producing by the shard 1. Collected the data, shared with the Core Harmony team and will share with validators community after internal discussion.
+
+---
+
 2025-05-19 Mon - 2025-05-25 Sun: Paid Time Off.
 
 ---
