@@ -1,3 +1,5 @@
+2025-05-29 Thu: Implementing of BTC-USD pool to portfolio manager. Switch to TS code.
+
 2025-05-28 Wed: Wrote [script](https://github.com/rikaa15/hyperliquid-backtest) on backtesting Hyperliquid positions from historical prices using SDK's [candles_snapshot](https://github.com/hyperliquid-dex/hyperliquid-python-sdk/blob/a8edca1ea20b6efe8235f4bbd9d6e9096e3aede6/hyperliquid/info.py#L462). Opened short position on Hyperliquid, looked into their calculation for fees, funding rate, and slippage.
 
 2025-05-27 Tue: Researched more Defi AMM platforms and looked through BTC-USD pools with >50k TVL, added more pools to this [list](https://github.com/harmony-one/h/blob/main/docs/rika-btc-usd-pools.tsv). Started playing around with dydx and Hyperliquid.
