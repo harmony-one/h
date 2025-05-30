@@ -1,5 +1,7 @@
 2025-05-25: I researched yield opportunities for BTC and S on the Sonic network. The results show a low available yield for BTC except when paired with S. Currently working on a stratgy on how to provide liquidity with minimal loss risk while capturing the upside by combining the LP position with a pair trade. I started researching Hype EVM ecosystem to assess its potential.
 
+---
+
 2025-05-18: I continued learning "vibe coding" to build tools. Due to my research about funding rates, I came across an opportunity to build a yield-accruing product based on the arbitrage of on-chain funding rates and started adding a section to the yield-bearing asset vault product. After the discussion with Aaron I received more funding rate data for Hyperliquid to analyze it. 
 
 ---
