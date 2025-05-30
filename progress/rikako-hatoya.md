@@ -1,4 +1,4 @@
-2025-05-29 Thu: Implementing of BTC-USD pool to portfolio manager. Switch to TS code.
+2025-05-29 Thu: [Implemented](https://github.com/rikaa15/portfolio-manager/commit/72a0f66764db956ccd54ea80f4d6089a8043edb7) 1 year history of BTC-USD pool PnL simulation to portfolio manager by switching to TS SDK. Currently looking into implementing fees calculation to be withdrawn from PnL.
 
 2025-05-28 Wed: Wrote [script](https://github.com/rikaa15/hyperliquid-backtest) on backtesting Hyperliquid positions from historical prices using SDK's [candles_snapshot](https://github.com/hyperliquid-dex/hyperliquid-python-sdk/blob/a8edca1ea20b6efe8235f4bbd9d6e9096e3aede6/hyperliquid/info.py#L462). Opened short position on Hyperliquid, looked into their calculation for fees, funding rate, and slippage.
 
