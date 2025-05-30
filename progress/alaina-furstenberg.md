@@ -1,3 +1,17 @@
+2025-06-01 Sun: Posting of a progress thread to X.
+
+2025-05-31 Sat: Posting of the May 2025 newsletter, thread on X.
+
+---
+
+2025-05-30 Fri: Update of the community section and posting to X. Finalizng the May newsletter and reviewing with Li and Theo.
+
+2025-05-29 Thu: Sharing of [5.country onto X](https://x.com/harmonyprotocol/status/1928185173453246757). Continued edits of the May newsletter.
+
+2025-05-28 Wed: Testing on Google Veo3. Insights: This is the most impressive video generation tool I've tried! The movement is more intuitive and natural than other platforms. Generated robotic hand gifs.
+
+2025-05-27 Tue: Created the NotebookLM podcast for our collaboration with Colossus. Final announcements coming out next week, Monday, Wednesday, and Friday.
+
 2025-05-26 Mon: Memorial Day
 
 ---
