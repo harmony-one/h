@@ -1,3 +1,10 @@
+2025-05-30 Fri:
+- This week, I focused on integrating the new VM opcodes introduced in the Ethereum 1.10 update. I estimate we’re approximately 80% through the full 1.10 integration.
+- We also continued testing the upcoming release to ensure stability and compatibility across our codebase. So far, results have been promising, with no major issues detected.
+- In parallel, I began working on the implementation of transient storage as specified in EIP-1153. While not part of the 1.10 update itself, it is a feature that will enhance our compatibility with the Ethereum ecosystem.
+
+---
+
 2025-05-23 Fri:
 - This week, I identified and resolved an issue in the tests repository related to an invalid library version. The bug was blocking progress across all branches, and fixing it has unblocked further development and testing workflows.
 - I continued making progress on the Ethereum 1.10 integration into our blockchain codebase. I estimate around 50% through the overall update.
