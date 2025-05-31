@@ -1,4 +1,8 @@
 
+2025-05-30 Fri: Working on a mechanism to determine how rewards relate to specific positions and to organize positions by timeframe, in order to identify entry and exit positions times with reference to BTC prices and calculate impermanent loss. Switched to reviewing and testing the [scripts](https://github.com/lijiang2087/bitcoin) for creating BTC liquidity pools from Li.
+
+2025-05-29 Thu: Additionally [exported](https://github.com/harmony-one/shadow-pool-analytics/blob/main/aerodrome/export_USDC_cbBTC/rewards_USDC_cbBTC.jsonl) the reward events for staked positions in clGauge. Since the contract sends rewards for all of a user's positions at once, it's only possible to accurately determine the APR for individual staked positions. Working on updating the calculation scripts for the statistic based on additional events.
+
 2025-05-28 Wed: Synced with Theo regarding the target strategy: Outperform passive BTC by ≥ 15% annual alpha while maintaining near-zero BTC delta. Continuing to work on tracking the owners of positions staked in CLGauge by tracing the position token’s path through events.
 
 2025-05-27 Tue: [Exported](https://github.com/harmony-one/shadow-pool-analytics/tree/main/aerodrome/export_USDC_cbBTC) the raw position data for the cbbtc-usdc pool for the entire period. Discovered an issue with the reward calculation for positions — since some of them participate in staking, the owner is actually the CLGauge contract, which makes it harder to identify the real owner and their yield.
