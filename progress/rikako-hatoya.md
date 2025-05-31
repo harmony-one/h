@@ -1,3 +1,5 @@
+2025-05-30 Fri: [Implemented](https://github.com/rikaa15/portfolio-manager/commit/2a1b00c64fa7e333c694a15b66f9de0e276c7c48) methods to open or close positions externally through Hyperliquid API. Currently SDK issues with node compatibility, test code raises `buffer.buffer.transfer` error, looking into solution.
+
 2025-05-29 Thu: [Implemented](https://github.com/rikaa15/portfolio-manager/commit/72a0f66764db956ccd54ea80f4d6089a8043edb7) 1 year history of BTC-USD pool PnL simulation to portfolio manager by switching from Python SDK to [TS SDK](https://github.com/nktkas/hyperliquid). Currently looking into implementing fees calculation to be withdrawn from PnL.
 
 2025-05-28 Wed: Wrote [script](https://github.com/rikaa15/hyperliquid-backtest) on backtesting Hyperliquid positions from historical prices using SDK's [candles_snapshot](https://github.com/hyperliquid-dex/hyperliquid-python-sdk/blob/a8edca1ea20b6efe8235f4bbd9d6e9096e3aede6/hyperliquid/info.py#L462). Opened short position on Hyperliquid, looked into their calculation for fees, funding rate, and slippage.
