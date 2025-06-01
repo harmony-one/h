@@ -1,3 +1,5 @@
+2025-05-31 Sat (1.5h): In-depth reading/research to deepening understanding of Artem's BTC [strategy write-up](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md). Working on patching/figuring out workaround for trading methods with SDK issue - ideally we would want it to work with Node for consistency and not have to change structure of repo.
+
 2025-05-30 Fri: [Implemented](https://github.com/rikaa15/portfolio-manager/commit/2a1b00c64fa7e333c694a15b66f9de0e276c7c48) methods to open or close positions externally through Hyperliquid API. Currently SDK issues with node compatibility, test code raises `buffer.buffer.transfer` error, looking into solution.
 
 2025-05-29 Thu: [Implemented](https://github.com/rikaa15/portfolio-manager/commit/72a0f66764db956ccd54ea80f4d6089a8043edb7) 1 year history of BTC-USD pool PnL simulation to portfolio manager by switching from Python SDK to [TS SDK](https://github.com/nktkas/hyperliquid). Currently looking into implementing fees calculation to be withdrawn from PnL.
