@@ -1,4 +1,8 @@
-2025-05-25: I researched yield opportunities for BTC and S on the Sonic network. The results show a low available yield for BTC except when paired with S. Currently working on a stratgy on how to provide liquidity with minimal loss risk while capturing the upside by combining the LP position with a pair trade. I started researching Hype EVM ecosystem to assess its potential.
+2025-06-01: I assessed and gave feedback to LP strategies developed by Li (via LLM) and Aaron. Researched backtesting tools to verify the perp-hedged LP strategy for the BTC/S LP on Shadow Exchange (Sonic). Theo provided a subgraph that I can use as a foundation to backtest the specific pool. 
+
+HyperEVM is a promising ecosystem for yield opportunities, with several protocols set to launch their tokens soon. The sentiment towards the chain is more positive compared to Monad (upcoming) or Berachain. 
+
+2025-05-25: I researched yield opportunities for BTC and S on the Sonic network. The results show a low available yield for BTC except when paired with S. Currently working on a strategy on how to provide liquidity with minimal loss risk while capturing the upside by combining the LP position with a pair trade. I started researching the Hype EVM ecosystem to assess its potential.
 
 ---
 
