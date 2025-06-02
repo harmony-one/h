@@ -1,3 +1,7 @@
+2025-06-02 Mon: started BTC LP strategy backtest, [created](https://github.com/harmony-one/portfolio-manager/commit/46f465460d8b0e20be6e9c8a4563a150634c4998) script with test parameters and base logic. Completed review of Aaron's BTC LP strategy, sent report to Li.
+
+---
+
 2025-06-01 Sun (1.0h): reviewed and merged [pull request](https://github.com/harmony-one/portfolio-manager/pull/1) with simple uniswap LP backtesting script. Continue in-depth review of Aaron's BTC LP strategy.
 
 2025-05-31 Sat (1.0h): started reviewing Aaron's BTC yield strategy; understanding the core principles, studying the options market.
