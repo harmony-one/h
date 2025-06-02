@@ -1,3 +1,5 @@
+2025-06-01 Sun (1.0h): reviewed and merged [pull request](https://github.com/harmony-one/portfolio-manager/pull/1) with simple uniswap LP backtesting script. Continue in-depth review of Aaron's BTC LP strategy.
+
 2025-05-31 Sat (1.0h): started reviewing Aaron's BTC yield strategy; understanding the core principles, studying the options market.
 
 2025-05-30 Fri: BTC LP strategy: [finalized](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md) documentation, [added](https://github.com/harmony-one/portfolio-manager/commit/2274e9b7678a58f709948303d3002865afd6c889) check of current position. Split strategy into tasks for Frank and Rika. Debugged BTC Aerodrome LP python script, suggested the solution.
