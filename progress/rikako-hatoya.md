@@ -1,4 +1,6 @@
-2025-06-02 MonL Started working on changing script to use a [different SDK](https://github.com/nomeida/hyperliquid/blob/main/README.md). Working on service file to adjust for new method calls.
+2025-06-02 Mon: Started working on changing script to use a [different SDK](https://github.com/nomeida/hyperliquid/blob/main/README.md). Working on service file to adjust for new method calls.
+
+---
 
 2025-06-01 Sun (1.5h): In-depth review of [Hyperliquid API documentation](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/exchange-endpoint) and [SDK](https://github.com/nktkas/hyperliquid?tab=readme-ov-file). Looked into methods and  implementations for Exchange endpoint and Subscriptions (websocket). 
 
