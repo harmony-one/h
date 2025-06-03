@@ -1,4 +1,8 @@
 
+2025-06-02 Mon: Fixed the issue with APR calculation by anchoring it to the token prices at the time of deposit and withdrawal, as well as accounting for changes in the reward token’s price at the time of withdrawal. Made adjustments for both types of positions — those staked in clGauge and those held directly by the user.
+
+---
+
 2025-05-30 Fri: Working on a mechanism to determine how rewards relate to specific positions and to organize positions by timeframe, in order to identify entry and exit positions times with reference to BTC prices and calculate impermanent loss. Switched to reviewing and testing the [scripts](https://github.com/lijiang2087/bitcoin) for creating BTC liquidity pools from Li.
 
 2025-05-29 Thu: Additionally [exported](https://github.com/harmony-one/shadow-pool-analytics/blob/main/aerodrome/export_USDC_cbBTC/rewards_USDC_cbBTC.jsonl) the reward events for staked positions in clGauge. Since the contract sends rewards for all of a user's positions at once, it's only possible to accurately determine the APR for individual staked positions. Working on updating the calculation scripts for the statistic based on additional events.
