@@ -1,3 +1,5 @@
+2025-06-02 MonL Started working on changing script to use a [different SDK](https://github.com/nomeida/hyperliquid/blob/main/README.md). Working on service file to adjust for new method calls.
+
 2025-06-01 Sun (1.5h): In-depth review of [Hyperliquid API documentation](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/exchange-endpoint) and [SDK](https://github.com/nktkas/hyperliquid?tab=readme-ov-file). Looked into methods and  implementations for Exchange endpoint and Subscriptions (websocket). 
 
 2025-05-31 Sat (1.5h): In-depth reading/research to deepening understanding of Artem's BTC [strategy write-up](https://github.com/harmony-one/h/blob/main/docs/defi/BTC-LP-strategy.md). Working on patching/figuring out workaround for trading methods with SDK issue - ideally we would want it to work with Node for consistency and not have to change structure of repo.
