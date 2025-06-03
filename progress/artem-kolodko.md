@@ -1,3 +1,5 @@
+2025-06-03 Tue: continue on BTC LP strategy backtesting: [integrated](https://github.com/harmony-one/portfolio-manager/commit/b73a0f3f27972a199b047e16a0dffc09545663d4) backtesting script with historical data from Uniswap LP BTC/USDC pool. Tested Rika's PR with Hyperliquid backtesting script locally, no issue with sdk found.
+
 2025-06-02 Mon: started BTC LP strategy backtest, [created](https://github.com/harmony-one/portfolio-manager/commit/46f465460d8b0e20be6e9c8a4563a150634c4998) script with test parameters and base logic. Completed review of Aaron's BTC LP strategy, sent report to Li.
 
 ---
