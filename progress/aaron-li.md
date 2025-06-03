@@ -1,4 +1,4 @@
-2025-6-2 Mon (1.7h+): Implementing gnosis module for streamlined position management.
+2025-6-2 Mon (2.7h+): Implementing gnosis module for streamlined position management.
 
 2025-5-29 Thu (4.2h): Discussions on BTC LP strategy, simulation, backtesting. Review proposed BTC LP strategies and perpetual hedging strategies. Finalize BTC LP strategy spec (option positions moneyness, scenario analysis, tracking).
 
