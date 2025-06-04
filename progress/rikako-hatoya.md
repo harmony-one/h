@@ -1,3 +1,5 @@
+2025-06-03 Tue: Debugging Open/Close position for error caused by ExchangeInfo (ExchangeClient) endpoint (with help from Artem, found out the earlier @nktkas SDK issue was just caused from node version and went back to using this). Error caused when submitting an Ioc order, order size has to be divisible by tick size but tick size is not available in SDK, currently implementing to pull from HyperLiquid public API instead.
+
 2025-06-02 Mon: Started working on changing script to use a [different SDK](https://github.com/nomeida/hyperliquid/blob/main/README.md). Working on service file to adjust for new method calls.
 
 ---
