@@ -1,3 +1,5 @@
+2025-6-4 Wed (1.0h+): Debug and fix issues with end-to-end operations on Aerodrome using Zodiac.
+
 2025-6-3 Tue (6.0h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. End-to-end debugging and evaluation of Zodiac Roles, programmatic role setup, Zodiac Pilot executions and usage in Aerodrome.
 
 2025-6-2 Mon (4.3h+): Research and evaluate gnosis modules, apps, and potential custom implementations for streamlined position management.
