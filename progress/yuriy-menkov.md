@@ -1,4 +1,8 @@
 
+2025-06-04 Wed: synced with Theo regarding the stats we're getting for the USDC/cbBTC positions — the most popular tick range is from -68,000 to -66,000 (20% range), with an APR of 5.3% and an average position duration of ~8.70 days. However, the biggest USD profit comes from price changes due to high volatility. Working on the issue of merging user positions when different staking mechanisms are used.
+
+2025-06-03 Tue: Added more stats and raw [data](https://github.com/harmony-one/shadow-pool-analytics/tree/main/aerodrome/export_USDC_cbBTC) on the liquidity pool. Switched focus to researching long and Short BTC perp via [Hyperliquid](https://hyperfoundation.org/).
+
 2025-06-02 Mon: Fixed the issue with APR calculation by anchoring it to the token prices at the time of deposit and withdrawal, as well as accounting for changes in the reward token’s price at the time of withdrawal. Made adjustments for both types of positions — those staked in clGauge and those held directly by the user.
 
 ---
