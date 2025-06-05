@@ -1,21 +1,21 @@
-2025-05-31 Wed: Cusor deep dive and demo with Li, Frank, and Rika. Going in depth covering cursor best practices and 10x MCP (model context protocol) plugins for cursor.
+2025-06-04 Wed: Cusor deep dive and demo with Li, Frank, and Rika. Going in depth covering cursor best practices and 10x MCP (model context protocol) plugins for cursor.
 
-2025-05-30 Tue: Reviewed Yuriy’s Aerodrome sourcing. Insights: 5% for max returns on pools that are showing 100%+ APR is too large a discrepancy, will need to unpack with Yuriy further to find the optimal width for the initial BTC LP position.
+2025-06-03 Tue: Reviewed Yuriy’s Aerodrome sourcing. Insights: 5% for max returns on pools that are showing 100%+ APR is too large a discrepancy, will need to unpack with Yuriy further to find the optimal width for the initial BTC LP position.
 
-2025-05-29 Mon: Reviewed monthly newsletter, changed initial opening to transition from previous month. Continued with [BTC yield product](https://github.com/ONETheo/btc-hyperliquid-aerodrome), adding frontend for easy interactions for testing, allowing for opening and closing aerodrome LP and hyperliquid perpetuals.
+2025-06-02 Mon: Sync with Philipp. Continued with [BTC yield product](https://github.com/ONETheo/btc-hyperliquid-aerodrome), adding frontend for easy interactions for testing, allowing for opening and closing aerodrome LP and hyperliquid perpetuals.
 
 ---
 
-2025-05-28 Sun: (2.0h) Continued testing cursor, trying claude-4 max mode. Insights: excellent for large code changes, will try to add unwanted code unless repeatedly guided, pricing unoptimal for changes made, gemini 2.5 max may be best value, but currently claude-4 base and gemini 2.5 base are more than capable for most tasks.
+2025-06-01 Sun: (2.0h) Continued testing cursor, trying claude-4 max mode. Insights: excellent for large code changes, will try to add unwanted code unless repeatedly guided, pricing unoptimal for changes made, gemini 2.5 max may be best value, but currently claude-4 base and gemini 2.5 base are more than capable for most tasks.
 
-2025-05-27 Sat: (1.0h) Debugging [BTC strategy issues](https://github.com/ONETheo/btc-hyperliquid-aerodrome) from [Aaron’s BTC-LP](https://hackmd.io/@polymorpher/btc-lp) strategy. Insight: options funding cut too much into fees earned in pool, better to initialize with hyperliquid only positions.
+2025-05-31 Sat: (1.0h) Debugging [BTC strategy issues](https://github.com/ONETheo/btc-hyperliquid-aerodrome) from [Aaron’s BTC-LP](https://hackmd.io/@polymorpher/btc-lp) strategy. Insight: options funding cut too much into fees earned in pool, better to initialize with hyperliquid only positions.
 
-2025-05-26 Fri: Finalized cursor optimization guide for engineers. Review and [initial testing](https://github.com/ONETheo/btc-hyperliquid-aerodrome) from [Aaron’s BTC-LP](https://hackmd.io/@polymorpher/btc-lp) strategy. Insight: robust strategy, but currently relies on options with expirations and sharp increase in holding costs, possibly a way to run a similar strategy with only short/long from hyper liquid.
+2025-05-30 Fri: Finalized cursor optimization guide for engineers. Review and [initial testing](https://github.com/ONETheo/btc-hyperliquid-aerodrome) from [Aaron’s BTC-LP](https://hackmd.io/@polymorpher/btc-lp) strategy. Insight: robust strategy, but currently relies on options with expirations and sharp increase in holding costs, possibly a way to run a similar strategy with only short/long from hyper liquid.
 
-2025-05-25 Thu: Reviewed Aerodrome, SwapX, and Shadow pools for BTC strategy. Adding best opportunities to [pre-Hummingbot parameter](https://github.com/hamood1337/CryptoFundingArb) fill. Insight: websockets are necessary for reliable pricing, current arbitrage analysis is too slow from provided repo.
+2025-05-29 Thu: Reviewed Aerodrome, SwapX, and Shadow pools for BTC strategy. Adding best opportunities to [pre-Hummingbot parameter](https://github.com/hamood1337/CryptoFundingArb) fill. Insight: websockets are necessary for reliable pricing, current arbitrage analysis is too slow from provided repo.
  
-2025-05-24 Wed: Led initial cursor onboarding and tooling sync with Li, Artem, and Yuriy. Continued iterations on Aerodrome and Hyperliquid strategies.  
-2025-05-23 Tue: Sync with Li for cursor team planning and BTC yield strategy next steps. Coordination with Artem and Yuriy for cursor best practices.
+2025-05-28 Wed: Led initial cursor onboarding and tooling sync with Li, Artem, and Yuriy. Continued iterations on Aerodrome and Hyperliquid strategies.  
+2025-05-27 Tue: Sync with Li for cursor team planning and BTC yield strategy next steps. Coordination with Artem and Yuriy for cursor best practices.
 
 2025-05-26 Mon: Federal Holiday
 
