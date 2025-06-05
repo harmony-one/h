@@ -1,3 +1,13 @@
+2025-06-05 Thu: Deep dive into Figma Make, generating new websites for Harmony, shown [here](). Insights on Framer vs Figma Make: Thread on 5.country.
+
+2025-06-04 Wed: Deep dive into Framer, generating new websites for Harmony, shown [here](). FlappyH1 [promotion](https://x.com/harmonyprotocol/status/1930333314109583674). Creation of 5.country robotics videos in Sora. 
+
+2025-06-03 Tue: Reading of AthleteFi's May newsletter, writing and posting of a [thread](https://x.com/harmonyprotocol/status/1930112001843572931). Continued read of the AGI robotics report
+
+2025-06-02 Mon: Reading and thread on the BondCap Trends – Artificial Intelligence report. Wrote a [thread](https://x.com/harmonyprotocol/status/1929583298835083679). 
+
+---
+
 2025-06-01 Sun: Posting of a progress thread to X.
 
 2025-05-31 Sat: Posting of the May 2025 newsletter, thread on X.
