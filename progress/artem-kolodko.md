@@ -1,3 +1,5 @@
+2025-06-05 Thu: BTC LP backtesting script: [started](https://github.com/harmony-one/portfolio-manager/commits/main/) integration with Hyperliquid historical data
+
 2025-06-04 Wed: reviewed and merged pull requests with [Uniswap](https://github.com/harmony-one/portfolio-manager/pull/4) LP methods and [Hyperliquid](https://github.com/harmony-one/portfolio-manager/pull/5) functions. Continue working on BTC strategy implementation, [added](https://github.com/harmony-one/portfolio-manager/commit/5afe3f02ce61d6296c0014ced979bfc0c08f9376) monitoring of LP position data.
 
 2025-06-03 Tue: continue on BTC LP strategy backtesting: [integrated](https://github.com/harmony-one/portfolio-manager/commit/b73a0f3f27972a199b047e16a0dffc09545663d4) backtesting script with historical data from Uniswap LP BTC/USDC pool. Tested Rika's PR with Hyperliquid backtesting script locally, no issue with sdk found.
