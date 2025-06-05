@@ -1,4 +1,4 @@
-2025-6-4 Wed (6.5h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and fix issues with end-to-end operations on Aerodrome using Zodiac. Deploy new Multicall unwrapper.
+2025-6-4 Wed (7.5h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and fix issues with end-to-end operations on Aerodrome using Zodiac. Deploy new Multicall unwrapper.
 
 2025-6-3 Tue (6.0h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. End-to-end debugging and evaluation of Zodiac Roles, programmatic role setup, Zodiac Pilot executions and usage in Aerodrome.
 
