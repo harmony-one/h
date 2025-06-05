@@ -1,3 +1,5 @@
+2025-6-5 Thu (0.7h+): Fix dot-country domain issues for some specific domains. Extending Zodiac defi-kit for operations on Shadow and Sonic.
+
 2025-6-4 Wed (8.2h): Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and fix issues with end-to-end operations on Aerodrome using Zodiac. Deploy new Multicall unwrapper.
 
 2025-6-3 Tue (6.0h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. End-to-end debugging and evaluation of Zodiac Roles, programmatic role setup, Zodiac Pilot executions and usage in Aerodrome.
