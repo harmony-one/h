@@ -1,3 +1,5 @@
+2025-06-06 Fri: Update of the community section. Testing of the /opus /haiku and /sonnet. Designed a graphic and promoted on X. Continued work in Figma Make on a Harmony website
+
 2025-06-05 Thu: Deep dive into Figma Make, generating new websites for Harmony, shown [here](). Insights on Framer vs Figma Make: Thread on 5.country.
 
 2025-06-04 Wed: Deep dive into Framer, generating new websites for Harmony, shown [here](). FlappyH1 [promotion](https://x.com/harmonyprotocol/status/1930333314109583674). Creation of 5.country robotics videos in Sora. 
