@@ -1,3 +1,13 @@
+2025-06-06 Fri:
+
+Small update on the [v2025.1.1](https://github.com/harmony-one/harmony/releases/tag/v2025.1.1) release — after a discussion with the whole team, we decided to announce it publicly on June 9th. At the same time, our community had already started upgrading without a public announcement. Currently, 52 out of 168 total nodes are already running version `v2025.1.1`.
+
+From the support side, I shared my findings with the validator community. The main issue was a single underperforming leader producing one block every 7 seconds instead of the usual one block every 2 seconds. As a result, shard 1 produced fewer blocks than shard 0, leading to lower rewards for others — around 1.5K to 2.5K blocks, or 5–6% of the total per 18.2-hour epoch. This was a classic [Tragedy of the Commons scenario](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): individual cost-cutting that led to collective degradation. After a productive discussion and support from the validator community, the problematic validator upgraded its hardware. Shard 1 block production has since returned to the expected ~32,768 blocks per epoch.
+
+On the testing side, I focused on improving the pyhmy Jupyter notebook with examples of how to create self-signed transactions of different types used in our tests. I’ve covered simple transfers, smart contracts, cross-shard transfers, validator creation, delegation, and undelegation. I still need to cover editing validators and collecting rewards. This small interactive documentation will make it easier for anyone to create RPC or pyhmy tests with transactions. PR link: https://github.com/harmony-one/pyhmy/pull/42
+
+---
+
 2025-05-30 Fri:
 
 This week main focus was on the [v2025.1.1 release](https://github.com/harmony-one/harmony/releases/tag/v2025.1.1) with a hotfix for the [DisablePrivateIPScan bug](https://github.com/harmony-one/harmony/issues/4903) from Gheis- I've tested it through the devnet->testnet->mainnet and installed on the Harmony  nodes - boontodes, internal validators and RPCs. Plan is to announce it publicly to the community on Tuesday.
