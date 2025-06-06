@@ -1,4 +1,6 @@
-2025-09-04 Wed: Meeting with Theo and Li to sync on cursor. Added some [PR fixes](https://github.com/harmony-one/portfolio-manager/pull/5/commits/2c2ad063376a5333474367cbd68d58cc4fa48f43) and started working on implementing funding rates.
+2025-06-05 Thu: [Added](https://github.com/harmony-one/portfolio-manager/pull/6) funding rate calculation using Hyperliquid SDK. Historical funding rates can be calculated by inputting coin, startTime, and endTime as parameters.
+
+2025-06-04 Wed: Meeting with Theo and Li to sync on cursor. Added some [PR fixes](https://github.com/harmony-one/portfolio-manager/pull/5/commits/2c2ad063376a5333474367cbd68d58cc4fa48f43) and started working on implementing funding rates.
 
 2025-06-03 Tue: Debugging Open/Close position for error caused by ExchangeInfo (ExchangeClient) endpoint (with help from Artem, found out the earlier @nktkas SDK issue was just caused from node version and went back to using this SDK). Fixed error caused when submitting an Ioc order: order size has to be divisible by tick size, changed closePosition method to close the same boolean (short or long) as the position just opened with openPosition method ([PR](https://github.com/harmony-one/portfolio-manager/pull/5/)), need to next work on adjusting openPosition as it is currently set to an aggressive trading strategy (x1/2 for sell, x2 for buy) and closePosition closes all short or long positions.
 
