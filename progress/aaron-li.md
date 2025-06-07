@@ -1,4 +1,4 @@
-2025-6-6 Fri (3.3h): Collecting historical data for BTC strategy backtesting. Fix minor issues with Zodiac Roles setup. Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and test in production end-to-end.
+2025-6-6 Fri (3.7h): Collecting historical data for BTC strategy backtesting. Fix minor issues with Zodiac Roles setup. Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and test in production end-to-end.
 
 2025-6-5 Thu (6.2h): Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and test in production end-to-end. Fix dot-country domain issues for some specific domains.
 
