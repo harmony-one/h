@@ -1,3 +1,5 @@
+2025-06-06 Fri: [Refactoring](https://github.com/harmony-one/portfolio-manager/pull/8) of hyperliquid to move test functions to spec file. Testing of app.service.spec file.
+
 2025-06-05 Thu: [Added](https://github.com/harmony-one/portfolio-manager/pull/6) funding rate calculation using Hyperliquid SDK. Historical funding rates can be calculated by inputting coin, startTime, and endTime as parameters.
 
 2025-06-04 Wed: Meeting with Theo and Li to sync on cursor. Added some [PR fixes](https://github.com/harmony-one/portfolio-manager/pull/5/commits/2c2ad063376a5333474367cbd68d58cc4fa48f43) and started working on implementing funding rates.
