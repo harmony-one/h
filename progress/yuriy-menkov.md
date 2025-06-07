@@ -1,4 +1,8 @@
 
+2025-06-06 Fri: Synced with Theo about best range and BTC yield strategies - that another iteration of the analysis of the Aerodrome pools is required, along with a partial modification of the scripts for aggregating positions by wallets, in order to obtain more accurate statistics closer to the platform's data, with over 100% APR to to understand more precise parameters of the strategy.
+
+2025-06-05 Thu: Continue the analysis of [Hyperliquid](https://hyperfoundation.org/) to check positions to profitable based on short and long rates: comparison of rates, calculation of break-even point, time horizon consideration. Creating new positions without analyzing historical data.
+
 2025-06-04 Wed: synced with Theo regarding the stats we're getting for the USDC/cbBTC positions — the most popular tick range is from -68,000 to -66,000 (20% range), with an APR of 5.3% and an average position duration of ~8.70 days. However, the biggest USD profit comes from price changes due to high volatility. Working on the issue of merging user positions when different staking mechanisms are used.
 
 2025-06-03 Tue: Added more stats and raw [data](https://github.com/harmony-one/shadow-pool-analytics/tree/main/aerodrome/export_USDC_cbBTC) on the liquidity pool. Switched focus to researching long and Short BTC perp via [Hyperliquid](https://hyperfoundation.org/).
