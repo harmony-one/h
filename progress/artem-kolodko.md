@@ -1,4 +1,4 @@
-2025-06-06 Fri: reviwed and merged pull requests with BTC/USD [funding rates history](https://github.com/harmony-one/portfolio-manager/pull/6) and Uniswap LP [Sepolia support](https://github.com/harmony-one/portfolio-manager/pull/7) (for tests without spending gas for real transactions). [Prepared](https://github.com/harmony-one/portfolio-manager/blob/main/src/app.service.spec.ts) first version of strategy backtesting script.
+2025-06-06 Fri: reviewed and merged pull requests with BTC/USD [funding rates history](https://github.com/harmony-one/portfolio-manager/pull/6) and Uniswap LP [Sepolia support](https://github.com/harmony-one/portfolio-manager/pull/7) (for tests without spending gas for real transactions). [Prepared](https://github.com/harmony-one/portfolio-manager/blob/main/src/app.service.spec.ts) first version of strategy backtesting script.
 
 2025-06-05 Thu: BTC LP backtesting script: [started](https://github.com/harmony-one/portfolio-manager/commits/main/) integration with Hyperliquid historical data
 
