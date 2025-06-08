@@ -1,3 +1,5 @@
+2025-06-08 Sun (2.0h): [reviewed](https://github.com/harmony-one/portfolio-manager/pull/8) and merged Rika's pull request with refactored Hyperliquid backtesting script. [Optimized](https://github.com/harmony-one/portfolio-manager/commit/b17a9810eba189dda8dd1020bcd1b20b75d81174) BTC LP strategy script: removed direct subgraph queries, added integration with Uniswap subgraph client.
+
 2025-06-06 Fri: reviewed and merged pull requests with BTC/USD [funding rates history](https://github.com/harmony-one/portfolio-manager/pull/6) and Uniswap LP [Sepolia support](https://github.com/harmony-one/portfolio-manager/pull/7) (for tests without spending gas for real transactions). [Prepared](https://github.com/harmony-one/portfolio-manager/blob/main/src/app.service.spec.ts) first version of strategy backtesting script.
 
 2025-06-05 Thu: BTC LP backtesting script: [started](https://github.com/harmony-one/portfolio-manager/commits/main/) integration with Hyperliquid historical data
