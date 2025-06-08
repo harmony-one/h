@@ -1,3 +1,7 @@
+2025-06-06 Fri: Continued review of Yuriy’s [aerodrome position data](https://github.com/harmony-one/shadow-pool-analytics/blob/main/aerodrome/export_USDC_cbBTC/positions_stats_USDC_cbBTC_all.tsv) for USDC/cbBTC. Insight: top 50 positions show 90-115% APR, all 50 show 0 impermanent loss, meaning positions were opened below current BTC pricing, captured fees, then are now out of range.
+
+2025-06-05 Thu: Troubleshooting [connecting wallet issues](https://github.com/ONETheo/btc-hyperliquid-aerodrome) with LP + Short/Long platform that brings both aspects of strategy in one place.
+
 2025-06-04 Wed: Cusor deep dive and demo with Li, Frank, and Rika. Going in depth covering cursor best practices and 10x MCP (model context protocol) plugins for cursor.
 
 2025-06-03 Tue: Reviewed Yuriy’s Aerodrome sourcing. Insights: 5% for max returns on pools that are showing 100%+ APR is too large a discrepancy, will need to unpack with Yuriy further to find the optimal width for the initial BTC LP position.
