@@ -1,3 +1,5 @@
+2025-06-07 Sat (1.5h): Spent some hours familiarizing with Cursor. Looked into the MCP plugins Theo mentioned in the meeting.
+
 2025-06-06 Fri: [Refactoring](https://github.com/harmony-one/portfolio-manager/pull/8) of hyperliquid to move test functions to spec file. Testing of app.service.spec file.
 
 2025-06-05 Thu: [Added](https://github.com/harmony-one/portfolio-manager/pull/6) funding rate calculation using Hyperliquid SDK. Historical funding rates can be calculated by inputting coin, startTime, and endTime as parameters.
