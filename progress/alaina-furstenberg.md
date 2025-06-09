@@ -2,6 +2,10 @@
 
 ---
 
+2025-06-08 Sun: Continuation in Figma Make.
+
+2025-06-07 Sat: Team progress thread.
+
 2025-06-06 Fri: Update of the community section. Testing of the /opus /haiku and /sonnet. Designed a graphic and promoted on X. Continued work in Figma Make on a Harmony website
 
 2025-06-05 Thu: Deep dive into Figma Make, generating new websites for Harmony, shown [here](). Insights on Framer vs Figma Make: Thread on 5.country.
