@@ -1,3 +1,7 @@
+2025-06-09 Mon: [Announcement]() of v2025.1.1 going live on main! Announcement of Harmony's integration with the Colossus Digital Hub on [X](https://x.com/harmonyprotocol/status/1932182566553239713) and on [LinkedIn](https://www.linkedin.com/posts/harmony-one_harmony-is-now-integrated-with-the-colossus-activity-7337949910371135489-Zu5S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_ge5AB6PS2ToimnVIWjFStvJJOR_a6C5A). Writing of team progress thread. 
+
+---
+
 2025-06-06 Fri: Update of the community section. Testing of the /opus /haiku and /sonnet. Designed a graphic and promoted on X. Continued work in Figma Make on a Harmony website
 
 2025-06-05 Thu: Deep dive into Figma Make, generating new websites for Harmony, shown [here](). Insights on Framer vs Figma Make: Thread on 5.country.
