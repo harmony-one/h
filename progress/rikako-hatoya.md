@@ -1,3 +1,5 @@
+2025-06-08 Sun (1.0h): Continued with yesterday's work. Tested different MCP plugins and models.
+
 2025-06-07 Sat (1.5h): Spent some hours familiarizing with Cursor. Looked into the MCP plugins Theo mentioned in the meeting.
 
 2025-06-06 Fri: [Refactoring](https://github.com/harmony-one/portfolio-manager/pull/8) of hyperliquid to move test functions to spec file. Testing of app.service.spec file.
