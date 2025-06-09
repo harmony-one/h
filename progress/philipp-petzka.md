@@ -1,3 +1,5 @@
+2025-06-08: I backtested my LP strategy for BTC/S in combination with Cursor and manual testing. The results are promising, outperforming holding BTC by 150% despite S losing value compared to BTC. The next step is to implement the strategy with real money, tracking actual returns on an ongoing basis. Despite being simple and performant, the approach requires manual decision-making in terms of rebalancing. That needs to be automated, too. 
+
 2025-06-01: I assessed and gave feedback to LP strategies developed by Li (via LLM) and Aaron. Researched backtesting tools to verify the perp-hedged LP strategy for the BTC/S LP on Shadow Exchange (Sonic). Theo provided a subgraph that I can use as a foundation to backtest the specific pool. 
 
 HyperEVM is a promising ecosystem for yield opportunities, with several protocols set to launch their tokens soon. The sentiment towards the chain is more positive compared to Monad (upcoming) or Berachain. 
