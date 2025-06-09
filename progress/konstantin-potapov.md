@@ -1,3 +1,10 @@
+2025-06-06 Fri:
+- This week, I reviewed and merged the dev branch into master. We agreed to announce the changes on Monday morning to have a full week of support and oversight for validators.
+- I identified portions of the EVM code that were not updated in the 1.9 branch. These sections include conflicts that require manual resolution. I estimate the work is currently about 50% complete and will continue next week.
+- Reviewed, approved and merged several pull requests into dev branch.
+
+---
+
 2025-05-30 Fri:
 - This week, I focused on integrating the new VM opcodes introduced in the Ethereum 1.10 update. I estimate we’re approximately 80% through the full 1.10 integration.
 - We also continued testing the upcoming release to ensure stability and compatibility across our codebase. So far, results have been promising, with no major issues detected.
