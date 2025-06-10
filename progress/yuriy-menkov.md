@@ -1,3 +1,8 @@
+2025-06-10 Tue: Researched the issue with the Binance Smart Chain RPC used in the bridge explorer (as requested by support). I reviewed both public and private BSC RPC options, but unfortunately, they are not suitable due to limited request quotas and reliability. Setting up a dedicated node via QuickNode appears to be the best solution.
+
+2025-06-09 Mon: Developing scripts to calculate real-time APR for a wallet on aerodrome. The idea is to estimate the user’s expected share of the weekly AERO rewards distributed to the pool’s gauge, based on their proportion of the total staked liquidity. 
+
+---
 
 2025-06-06 Fri: Synced with Theo about best range and BTC yield strategies - that another iteration of the analysis of the Aerodrome pools is required, along with a partial modification of the scripts for aggregating positions by wallets, in order to obtain more accurate statistics closer to the platform's data, with over 100% APR to to understand more precise parameters of the strategy.
 
