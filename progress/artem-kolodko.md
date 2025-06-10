@@ -1,3 +1,7 @@
+2025-06-09 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/f230ac4f8a8c63696ed003c35928759980c2f933) hedge PnL calculation in BTC/USDC LP strategy backtesting script, refactored historical data requests; started working on the implementation of BTC/USDC LP strategy
+
+---
+
 2025-06-08 Sun (2.0h): [reviewed](https://github.com/harmony-one/portfolio-manager/pull/8) and merged Rika's pull request with refactored Hyperliquid backtesting script. [Optimized](https://github.com/harmony-one/portfolio-manager/commit/b17a9810eba189dda8dd1020bcd1b20b75d81174) BTC LP strategy script: removed direct subgraph queries, added integration with Uniswap subgraph client.
 
 2025-06-06 Fri: reviewed and merged pull requests with BTC/USD [funding rates history](https://github.com/harmony-one/portfolio-manager/pull/6) and Uniswap LP [Sepolia support](https://github.com/harmony-one/portfolio-manager/pull/7) (for tests without spending gas for real transactions). [Prepared](https://github.com/harmony-one/portfolio-manager/blob/main/src/app.service.spec.ts) first version of strategy backtesting script.
