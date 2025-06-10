@@ -1,3 +1,7 @@
+2025-06-09 Mon: Started researching on options and looking into markets. Work on adjusting hyperliquid position methods.
+
+---
+
 2025-06-08 Sun (1.0h): Continued with yesterday's work. Tested different MCP plugins and models.
 
 2025-06-07 Sat (1.5h): Spent some hours familiarizing with Cursor. Looked into the MCP plugins Theo mentioned in the meeting.
