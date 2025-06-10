@@ -1,3 +1,5 @@
+2025-6-10 Tue (0.6h): Collecting historical data for BTC strategy backtesting.
+
 2025-6-9 Mon (6.1h): Collecting historical data for BTC strategy backtesting.
 
 2025-6-7 Sat (1.1h): Collecting historical data for BTC strategy backtesting.
