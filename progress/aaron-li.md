@@ -1,3 +1,5 @@
+2025-6-11 Wed (0.1h+): End-to-end strategy execution implementation.
+
 2025-6-10 Tue (1.9h): End-to-end strategy execution implementation. Collecting historical data for BTC strategy backtesting.
 
 2025-6-9 Mon (6.1h): Collecting historical data for BTC strategy backtesting.
