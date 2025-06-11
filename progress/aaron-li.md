@@ -1,4 +1,4 @@
-2025-6-11 Wed (4.9h+): End-to-end strategy execution implementation (Hyperliquid).
+2025-6-11 Wed (5.9h+): End-to-end strategy execution implementation (Hyperliquid).
 
 2025-6-10 Tue (1.9h): End-to-end strategy execution implementation. Collecting historical data for BTC strategy backtesting.
 
