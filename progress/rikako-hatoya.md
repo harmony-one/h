@@ -1,3 +1,5 @@
+2025-06-10 Tue: Started working with Binance Options API. Started implementing functions to retrieve historical data as a test.
+
 2025-06-09 Mon: Started researching on options and looking into markets. Work on adjusting hyperliquid position methods.
 
 ---
