@@ -1,3 +1,7 @@
+2025-06-11 Wed: continue on BTC LP strategy implementation: added calculation of LP impermanent loss, started working on hedging logic. Reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/9) from Rika with Binance Options API.
+
+2025-06-10 Tue: implementing BTC LP strategy with active positions on Uniswap LP and futures, using logic from existed backtesting script
+
 2025-06-09 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/f230ac4f8a8c63696ed003c35928759980c2f933) hedge PnL calculation in BTC/USDC LP strategy backtesting script, refactored historical data requests; started working on the implementation of BTC/USDC LP strategy
 
 ---
