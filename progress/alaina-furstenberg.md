@@ -1,4 +1,8 @@
-2025-06-09 Mon: [Announcement]() of v2025.1.1 going live on main! Announcement of Harmony's integration with the Colossus Digital Hub on [X](https://x.com/harmonyprotocol/status/1932182566553239713) and on [LinkedIn](https://www.linkedin.com/posts/harmony-one_harmony-is-now-integrated-with-the-colossus-activity-7337949910371135489-Zu5S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_ge5AB6PS2ToimnVIWjFStvJJOR_a6C5A). Writing of team progress thread. 
+2025-06-11 Wed: Thread on 5.country. Final editing and posting of the Colossus [podcast announcement](https://youtu.be/s4qJ9C6eMQc). Sync with Theo on marketing initiatives and Figma Make designs for harmony.one. Learning to animate on Canva, planning to use this tool to create more high level animated intros on upcoming progress shorts.  
+
+2025-06-10 Tue: Editing of Podcast Intro for the Colossus x Harmony announcement and design of thumbnail. Learning to animate on Canva, planning to use this tool to create more high level animated intros on upcoming progress shorts.  
+
+2025-06-09 Mon: [Announcement]https://x.com/harmonyprotocol/status/1932162581852258456() of v2025.1.1 going live on main! Announcement of Harmony's integration with the Colossus Digital Hub on [X](https://x.com/harmonyprotocol/status/1932182566553239713) and on [LinkedIn](https://www.linkedin.com/posts/harmony-one_harmony-is-now-integrated-with-the-colossus-activity-7337949910371135489-Zu5S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_ge5AB6PS2ToimnVIWjFStvJJOR_a6C5A). Writing of team progress thread. 
 
 ---
 
