@@ -1,3 +1,15 @@
+2025-06-11 Wed: Sync with Alaina for Colossus announcements and marketing videos. Outreach for resolving June recovery burn.
+
+2025-06-10 Tue: Cursor onboarding for Sun with Li tailored for eventual protocol onboarding. Insight: engineering trends follow heavy “tab” usage, most optimal for critical changes, but slowest implementation method, definitely room to 10x. Additional trend of note, external knowledge search in separate Claude or ChatGPT webpage, can all be optimized within MCP search within cursor. 
+
+2025-06-09 Mon: Troubleshooting with Yuri for complex aerodrome rewards. Pooled data isn't clear where vAERO tokens are being distributed for accurate APR recordings. Previous top 50 positions all show initial placement of one sided pools below LP range, clarification that goal is continuous LP rather than short term discount BTC.
+
+---
+
+2025-06-08 Sun: (1.0h) Prep for next cursor tooling session. Context7 MCP addition (allows for continuous update context into codebase).
+
+2025-06-07 Sat: (2.0h) Reviewed and adding pool risk management for aerodrome LP.
+
 2025-06-06 Fri: Continued review of Yuriy’s [aerodrome position data](https://github.com/harmony-one/shadow-pool-analytics/blob/main/aerodrome/export_USDC_cbBTC/positions_stats_USDC_cbBTC_all.tsv) for USDC/cbBTC. Insight: top 50 positions show 90-115% APR, all 50 show 0 impermanent loss, meaning positions were opened below current BTC pricing, captured fees, then are now out of range.
 
 2025-06-05 Thu: Troubleshooting [connecting wallet issues](https://github.com/ONETheo/btc-hyperliquid-aerodrome) with LP + Short/Long platform that brings both aspects of strategy in one place.
