@@ -1,3 +1,5 @@
+2025-06-11 Wed: Added simple backtest and made some improvements to Binance options [https://github.com/harmony-one/portfolio-manager/pull/9]. Debugging of doing the same (retrieving backtest/historical data) with Derive API.
+
 2025-06-10 Tue: Started working with Binance Options API. Started implementing functions to retrieve historical data as a test.
 
 2025-06-09 Mon: Started researching on options and looking into markets. Work on adjusting hyperliquid position methods.
