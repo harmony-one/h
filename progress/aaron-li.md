@@ -1,3 +1,5 @@
+2025-6-12 Thu (1.0h+): End-to-end strategy execution implementation (Deribit, Aerodrome).
+
 2025-6-11 Wed (9.0h): End-to-end strategy execution implementation (Deribit, Aerodrome). End-to-end strategy execution implementation (Hyperliquid).
 
 2025-6-10 Tue (1.9h): End-to-end strategy execution implementation. Collecting historical data for BTC strategy backtesting.
