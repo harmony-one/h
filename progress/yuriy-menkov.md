@@ -1,3 +1,6 @@
+
+2025-06-11 Wed: Continue develop a service for dynamically tracking a user’s aerodrome finance position status: potential APR based on their share in the pool’s gauge, the gauge’s total yield, and the amount of impermanent loss.
+
 2025-06-10 Tue: Researched the issue with the Binance Smart Chain RPC used in the bridge explorer (as requested by support). I reviewed both public and private BSC RPC options, but unfortunately, they are not suitable due to limited request quotas and reliability. Setting up a dedicated node via QuickNode appears to be the best solution.
 
 2025-06-09 Mon: Developing scripts to calculate real-time APR for a wallet on aerodrome. The idea is to estimate the user’s expected share of the weekly AERO rewards distributed to the pool’s gauge, based on their proportion of the total staked liquidity. 
