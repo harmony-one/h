@@ -1,3 +1,9 @@
+2025-06-14 Sat: Progress thread on X.
+
+2025-06-13 Fri: Update of the community section, plus sharing to X. Writing the script, filming, and editing of the 60s progress video for Youtube Shorts. Animated an intro for the series in Canva. 
+
+2025-06-12 Thu: Animation of an intro and an outro for the [Colossus podcast](https://x.com/harmonyprotocol/status/1933205169325699392). Continuation in Figma Make.
+
 2025-06-11 Wed: Thread on 5.country. Final editing and posting of the Colossus [podcast announcement](https://youtu.be/s4qJ9C6eMQc). Sync with Theo on marketing initiatives and Figma Make designs for harmony.one. Learning to animate on Canva, planning to use this tool to create more high level animated intros on upcoming progress shorts.  
 
 2025-06-10 Tue: Editing of Podcast Intro for the Colossus x Harmony announcement and design of thumbnail. Learning to animate on Canva, planning to use this tool to create more high level animated intros on upcoming progress shorts.  
