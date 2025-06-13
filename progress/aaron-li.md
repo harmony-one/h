@@ -8,6 +8,8 @@
 
 2025-6-9 Mon (6.1h): Collecting historical data for BTC strategy backtesting.
 
+---
+
 2025-6-7 Sat (1.1h): Collecting historical data for BTC strategy backtesting.
 
 2025-6-6 Fri (3.7h): Collecting historical data for BTC strategy backtesting. Fix minor issues with Zodiac Roles setup. Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and test in production end-to-end.
@@ -19,6 +21,8 @@
 2025-6-3 Tue (6.0h+): Extending Zodiac defi-kit for operations on Shadow and Sonic. End-to-end debugging and evaluation of Zodiac Roles, programmatic role setup, Zodiac Pilot executions and usage in Aerodrome.
 
 2025-6-2 Mon (4.3h+): Research and evaluate gnosis modules, apps, and potential custom implementations for streamlined position management.
+
+---
 
 2025-5-29 Thu (4.2h): Discussions on BTC LP strategy, simulation, backtesting. Review proposed BTC LP strategies and perpetual hedging strategies. Finalize BTC LP strategy spec (option positions moneyness, scenario analysis, tracking).
 
