@@ -1,3 +1,7 @@
+2025-06-13 Fri: Completed wallet sign in functionality and API updates on DeltaHedge, sync and updates with Yuriy for next week meeting. RMC (recovery multisig custodian) June burn transaction created, awaiting signatures.
+
+2025-06-12 Thu: Continued recovery breakdown and potential ways forward. Sync with recovery multisig custodians, and Yuriy for aerodrome pools. 
+
 2025-06-11 Wed: Sync with Alaina for Colossus announcements and marketing videos. Outreach for resolving June recovery burn.
 
 2025-06-10 Tue: Cursor onboarding for Sun with Li tailored for eventual protocol onboarding. Insight: engineering trends follow heavy “tab” usage, most optimal for critical changes, but slowest implementation method, definitely room to 10x. Additional trend of note, external knowledge search in separate Claude or ChatGPT webpage, can all be optimized within MCP search within cursor. 
