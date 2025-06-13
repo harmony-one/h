@@ -1,3 +1,13 @@
+2025-06-13 Fri: I'm still working with community to update to the latest release version, Monday - 31% - all nodes, 10% validators, current state  - 66% - all nodes, 55% validators.
+
+From the support side, I've notified validator community about one slow validator in the shard 0, additionally highlighted this problem to the consensus devs, right now we are calculating uptime from the signed blocks, but block production is also one of important metrics to understand the performance. Main problem - good validator can easily be a bad leader. Right now I can only push on such leaders together with Harmony validators community.
+
+On the testing side, I focused on the improving the pyhmy Jupyter [notebook](https://github.com/harmony-one/pyhmy/pull/42) from the previous week and started to test the mplexors transition(mplex and yamux -> mplexC6 and yamux) in the devnet.
+
+And finally, I've enriched the Grafana dashboard for checking the shard health with our internal logs metrics, it is helping to understand how many blocks were really validated and highlight slow leader.
+
+---
+
 2025-06-06 Fri: Small update on the [v2025.1.1](https://github.com/harmony-one/harmony/releases/tag/v2025.1.1) release — after a discussion with the whole team, we decided to announce it publicly on June 9th. At the same time, our community had already started upgrading without a public announcement. Currently, 52 out of 168 total nodes are already running version v2025.1.1.
 
 From the support side, I shared my findings with the validator community. The main issue was a single underperforming leader producing one block every 7 seconds instead of the usual one block every 2 seconds. As a result, shard 1 produced fewer blocks than shard 0, leading to lower rewards for others — around 1.5K to 2.5K blocks, or 5–6% of the total per 18.2-hour epoch. This was a classic [Tragedy of the Commons scenario](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): individual cost-cutting that led to collective degradation. After a productive discussion and support from the validator community, the problematic validator upgraded its hardware. Shard 1 block production has since returned to the expected ~32,768 blocks per epoch.
