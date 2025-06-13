@@ -1,3 +1,5 @@
+2025-06-13 Fri: testing BTC LP strategy with real positions, added metrics to calculate current LP APR. Reviewed and merged pull requests with Uniswap LP getPosition method fixes and Aerodrome BTC LP backtesting script.
+
 2025-06-12 Thu: completed the first version of BTC LP + hedging strategy implementation, started testing; reviewed and merged fixes in pull request with Binance options API.
 
 2025-06-11 Wed: continue on BTC LP strategy implementation: added calculation of LP impermanent loss, started working on hedging logic. Reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/9) from Rika with Binance Options API.
