@@ -1,9 +1,10 @@
-2025-05-31 Sat: Last week, I submitted several PRs aimed at improving the observability, performance, and correctness of the P2P stream and sync components.  
-- [PR #4906](https://github.com/harmony-one/harmony/pull/4906) enhances the observability of the P2P stream layer by adding Prometheus metrics to both the `StreamManager` and `RequestManager`. These metrics track stream removals, errors, reserved stream counts, connected/available streams, and request queue lengths—helping diagnose stream churn, request saturation, and protocol-level health. Test cases were also updated to validate the integration and metric labels.
-- [PR #4907](https://github.com/harmony-one/harmony/pull/4907) introduces throttling for both concurrent stream setup and write operations in the `RequestManager`, improving performance stability under load.
-- [PR #4908](https://github.com/harmony-one/harmony/pull/4908) ensures proper cleanup of waiting requests during `RequestManager` shutdown, preventing lingering goroutines and potential resource leaks.
-- [PR #4909](https://github.com/harmony-one/harmony/pull/4909) fixes a logic bug in `DownloadAsync` by correctly checking for and invoking the shard-specific downloader when available, ensuring correct sync behavior across shards.
+2025-06-14 Sat:
 
+Last week, I completed and fixed conflicts and test for two pull requests   [4912]( https://github.com/harmony-one/harmony/pull/4912) and [4914](https://github.com/harmony-one/harmony/pull/4914) both of which are now ready for review and merge. These updates included resolving merge conflicts and ensuring that all related tests passed successfully.
+
+In addition to that, we worked on the deployment plan for the new muxer configuration intended for mainnet. Our strategy involves first deploying this configuration to the testnet, where we will use a hybrid setup — running both old and new muxer configurations across different bootnodes. This testnet environment is designed to replicate the planned mainnet rollout closely, enabling us to validate the behavior under realistic conditions.
+
+This staged deployment process helps us mitigate risks and gain valuable insights into how the new muxer performs in a live network. We aim to ensure a smooth and confident transition when we later apply the changes to the mainnet.
 
 ---
 
