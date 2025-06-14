@@ -1,5 +1,5 @@
 2025-06-13 Fri:
-- This week, I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract, for greater flexibility and future compatibility.   
+- This week, I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract.   
 - I created an issue proposing a new algorithm for calculating validator uptime. The current approach only accounts for signing power, while the new method will also consider blocks produced by validators.  
 - Reviewed, approved and merged several pull requests into dev branch.
 
