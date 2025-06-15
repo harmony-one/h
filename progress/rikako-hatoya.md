@@ -1,4 +1,6 @@
-2025-06-13 Fri: Continue debugging script for Derive.xyz simple backtest, addition of opening/closing methods for Derive.xyz and Binance. Read through Aaron's strategy again to upgrade the backtest logic from its initial version.
+2025-06-14 Sat (6.0h): Continued debugging of Derive backtest function (simple PnL logic for now). Started working on opening/closing position.
+
+2025-06-13 Fri: Continue debugging script for Derive.xyz simple backtest. Read through Aaron's strategy again to upgrade the backtest logic from its initial version.
 
 2025-06-12 Thu: Sync with Li, continued debugging from yesterday's Derive.xyz API, initialized base [code](https://github.com/rikaa15/portfolio-manager/commit/b6a2c0ef7c9f21bf73f865c57523aa5401474420) for retrieving historical data. Now working on improving output for Derive service and looking for other useful API methods to use for backtesting.
 
