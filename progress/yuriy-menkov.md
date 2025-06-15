@@ -1,4 +1,8 @@
 
+2025-06-13 Fri: Updated the reports with statistics for the aerodrome btc pool: added data from the last two weeks (good volatility for calculating impermanent loss), split the APR into several columns — from staking, from trading fees, and from price appreciation/depreciation. Working on the report description for Philipp.
+
+2025-06-12 Thu: Finished the script for dynamic analysis of status, data, and APR of staked positions by user address. Currently working on an API wrapper service to enable calls by rest requests.
+
 2025-06-11 Wed: Continue develop a service for dynamically tracking a user’s aerodrome finance position status: potential APR based on their share in the pool’s gauge, the gauge’s total yield, and the amount of impermanent loss.
 
 2025-06-10 Tue: Researched the issue with the Binance Smart Chain RPC used in the bridge explorer (as requested by support). I reviewed both public and private BSC RPC options, but unfortunately, they are not suitable due to limited request quotas and reliability. Setting up a dedicated node via QuickNode appears to be the best solution.
