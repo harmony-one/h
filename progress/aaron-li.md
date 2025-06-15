@@ -1,4 +1,4 @@
-2025-6-15 Sun (1.3h+): End-to-end strategy execution implementation (Deribit, Aerodrome).
+2025-6-15 Sun (1.6h): End-to-end strategy execution implementation (Deribit, Aerodrome).
 
 2025-6-13 Fri (5.0h): End-to-end strategy execution implementation (Deribit, Aerodrome).
 
