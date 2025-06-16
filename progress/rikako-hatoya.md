@@ -1,3 +1,5 @@
+2025-06-14 Sun (1.0h): Continue implementing position management. Look back into Binance methods.
+
 2025-06-14 Sat (6.0h): Continued debugging of Derive backtest function (simple PnL logic for now). Started working on opening/closing position.
 
 2025-06-13 Fri: Continue debugging script for Derive.xyz simple backtest. Read through Aaron's strategy again to upgrade the backtest logic from its initial version.
