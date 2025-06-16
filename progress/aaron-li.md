@@ -1,4 +1,4 @@
-2025-6-15 Sun (3.9h+): Real-time price monitoring modules for Deribit, Aerodrome to be used by execution modules. End-to-end strategy execution implementation (Deribit, Aerodrome).
+2025-6-15 Sun (4.4h): Real-time price monitoring modules for Deribit, Aerodrome to be used by execution modules.
 
 2025-6-13 Fri (5.0h): End-to-end strategy execution implementation (Deribit, Aerodrome).
 
