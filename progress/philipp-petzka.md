@@ -1,3 +1,5 @@
+2025-06-15: Continued building the strategy deployment so S/BTC with significant progress. A script is pulling prices every 5 seconds for selected pair trades. The connected test wallet can successfully execute Trades on Hyperliquid based on price triggers, which are in rough limit pair trade orders. Limit pair trade orders do not exist on any protocol yet (For example Pear Protocol) so the execution marks a milestone in the development of the strategy. The script can also query LP positions held by the wallet on Shadow exchange but is not able to see the exact amount of Tokens held in the position due to the missing ABI. Once, that is solved, the strategy can be executed entirely. 
+
 2025-06-08: I backtested my LP strategy for BTC/S in combination with Cursor and manual testing. The results are promising, outperforming holding BTC by 150% despite S losing value compared to BTC. The next step is to implement the strategy with real money, tracking actual returns on an ongoing basis. Despite being simple and performant, the approach requires manual decision-making in terms of rebalancing. That needs to be automated, too. 
 
 ---
