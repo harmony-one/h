@@ -1,3 +1,35 @@
+2025-06-13 Fri: Sick day off
+
+2025-06-12 Thu: Analyzed testnet and devnet down issue. Downtime only resulted for ~15 mintues. Found the core cause due to interruption in the European Hetzner server building.
+
+2025-06-11 Wed: Meeting with Li and Theo regarding Cursor AI. Researched into Cursor AI MCP and how it can be used for protocol development. 
+
+2025-06-10 Tue: Monitored validator updates for the new mainnet upgrade.
+
+2025-06-09 Mon: Launched v2025.1.1 on Mainnet.
+
+---
+
+2025-06-06 Fri: Began mainnet upgrade procedures after stable situation on Testnet. 
+
+2025-06-05 Thu: Analyzed releases and documented release notes for v2025.1.1.
+
+2025-06-04 Wed: Analyzed and fixed dot country mail system bug.
+
+2025-06-03 Tue: 
+
+2025-06-02 Mon: Launched v2025.1.1 on Testnet. Will test for stability.
+
+--- 
+
+2025-05-30 Fri: Examined mainnet upgrade procedure through the protocol gitbook and the previous releases. Will apply in the upcoming mainnet release of v2025.1.1.
+
+2025-05-29 Thu: Researched and analyzed Pectra upgrade. Noted that there aren't impactful ones for Harmony. EIP-7702 will most likely impact in the future, but only when account abstraction is implemented at the protocol level.
+
+2025-05-28 Wed: Performed SSL renewal for *.harmony.one. Updated 2FA procedures for protocol servers.
+
+2025-05-27 Tue: Ran security check for password rotation and performed password rotation.
+
 2025-05-26 Mon: Memorial Day
 
 ---
