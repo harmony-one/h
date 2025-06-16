@@ -1,4 +1,4 @@
-2025-6-16 Mon (0.1h): Deribit position and solvency tracking.
+2025-6-16 Mon (0.2h+): Deribit position and solvency tracking.
 
 2025-6-15 Sun (4.4h): Real-time price monitoring modules for Deribit, Aerodrome to be used by execution modules.
 
