@@ -1,3 +1,7 @@
+2025-06-16 Mon: testing Uniswap LP + futures hedge strategy implementation, fixing bugs and minor issues, monitoring the performance with $50 position; looked at Aaron's implementation of the Aerodrome LP strategy.
+
+---
+
 2025-06-15 Sun (2.0h): implementation of Uniswap BTC LP position + hedging strategy; adjusted LP position size, continue testing
 
 2025-06-13 Fri: testing BTC LP strategy with real positions, added metrics to calculate current LP APR. Reviewed and merged pull requests with Uniswap LP getPosition method fixes and Aerodrome BTC LP backtesting script.
