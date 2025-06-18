@@ -1,4 +1,10 @@
 
+2025-06-17 Tue: Research and bug fixing of the bridge explorer related to RPC polling and integration with the LayerZero API. Switched to reviewing and refining the LP tracking scripts and open hedge on Hyperliquid.
+
+2025-06-16 Mon: Made several fixes in the stats calculation scripts related to accounting for impermanent loss during price increase. Published a new version and shared it with Philipp. Continuing work on the API wrapper service for dynamic user position calculation.
+
+---
+
 2025-06-13 Fri: Updated the reports with statistics for the aerodrome btc pool: added data from the last two weeks (good volatility for calculating impermanent loss), split the APR into several columns — from staking, from trading fees, and from price appreciation/depreciation. Working on the report description for Philipp.
 
 2025-06-12 Thu: Finished the script for dynamic analysis of status, data, and APR of staked positions by user address. Currently working on an API wrapper service to enable calls by rest requests.
