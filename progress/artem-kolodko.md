@@ -1,3 +1,5 @@
+2025-06-17 Tue: Uniswap BTC LP + futures hedging: added methods to calculate gas fees cost for rebalancing and collecting fees; started LP rebalancing logic
+
 2025-06-16 Mon: testing Uniswap LP + futures hedge strategy implementation, fixing bugs and minor issues, monitoring the performance with $50 position; looked at Aaron's implementation of the Aerodrome LP strategy.
 
 ---
