@@ -1,3 +1,5 @@
+2025-06-17 Wed: Continued with debugging for DeriveOrder.openPosition() internal error: signature, payload, price and funds seem fine, attempted with multiple instruments, waiting for response to support ticket. Started looking into manual trading and other defi platforms for the meanwhile.
+
 2025-06-16 Tue: Debugged orderbook authentication. Debugging of self-custodial request (signature verification). 
 
 2025-06-15 Mon: Debugging of position methods for derive.xyz. Authentication errors for private API.
