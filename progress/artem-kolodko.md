@@ -1,3 +1,5 @@
+2025-06-19 Thu: LP + futures hedge implementation: fixed small bugs in calculation of hedging position size; continue on LP rebalancing
+
 2025-06-18 Wed: implemented checks for current LP position range and current BTC price, added simple LP rebalancing strategy
 
 2025-06-17 Tue: Uniswap BTC LP + futures hedging: added methods to calculate gas fees cost for rebalancing and collecting fees; started LP rebalancing logic
