@@ -1,4 +1,18 @@
-2025-06-14 Sat: Progress thread on X.
+2025-06-20 Fri: Filming, editing, and posting of the weekly progress recap to Youtube. Review of team's Q3 progress reports. Importing in Substack for next week's newsletter.
+
+2025-06-19 Thu: Juneteenth Holiday
+
+2025-06-18 Wed: Continuation on writing Q2 progress. Sync with Theo on Claude Code, Recovery, and developments to designs in Figma Make. Insights: Anthropic has the best coding models, so coding directly through Claude Code is more streamlined compared to using Cursor. 
+
+2025-06-17 Tue: Beginning writing Q2 progress, reviewing X, Substack, and Youtube analytics. 
+
+2025-06-16 Mon: Promotion of the Colossus x Harmony Encoder on [X](https://x.com/harmonyprotocol/status/1934729884309627151) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7341220495440171011). 
+
+---
+
+2025-06-15 Sun: Continuation in Figma Make.
+
+2025-06-14 Sat: Progress [thread](https://x.com/harmonyprotocol/status/1933936988161495340) on X.
 
 2025-06-13 Fri: Update of the community section, plus sharing to X. Writing the script, filming, and editing of the 60s progress video for Youtube Shorts. Animated an intro for the series in Canva. 
 
