@@ -1,3 +1,15 @@
+2025-06-18 Wed: Sync with Yuriy and Li for the next few days. Expectations, complete deep dive into Artem and Aaron's code and putting the Hyperliquid and Aerodrome implementations together. Completed product requirement document for our DeltaHedge minimal product, with CLI interface.
+
+2025-06-17 Tue: Recovery multisig custodian coordination, June burn finalized. Snapshot, or open source version of snapshotX needed to proceed with proposal.
+
+2025-06-16 Mon: Sync with Frank about claude code. Coordination with team for quarterly updates and with Gheis for further protocol onboarding as we push towards AI-native internally. Continued communications with recovery multisig custodians following [new proposal](https://talk.harmony.one/t/crypto-land-dao-as-additional-recovery-partner-for-the-harmony-horizon-bridge-hack/26462), still missing 2 signatures for June burn.
+
+---
+
+2025-06-15 Sun: (2.0h) Continued research, claude code is currently the clear winner, custom commands also allow for better automation and efficiency for development environment. Insight: Max plan is where the significant value add is made, claude code must be running in terminal, moving from search to coding environment remains inefficient, and custom claude code commands do not work for web based usage.
+
+2025-06-14 Sat: (2.0h) Research into agentic coding tooling, claude code turning into clear winner with value proposition of $100-200/month Max plan allowing users to pull thousands in value, rather than paying per use for API credits. 
+
 2025-06-13 Fri: Completed wallet sign in functionality and API updates on DeltaHedge, sync and updates with Yuriy for next week meeting. RMC (recovery multisig custodian) June burn transaction created, awaiting signatures.
 
 2025-06-12 Thu: Continued recovery breakdown and potential ways forward. Sync with recovery multisig custodians, and Yuriy for aerodrome pools. 
