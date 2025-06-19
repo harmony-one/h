@@ -1,3 +1,5 @@
+2025-06-16 Tue: Debugged orderbook authentication. Debugging of self-custodial request (signature verification). 
+
 2025-06-15 Mon: Debugging of position methods for derive.xyz. Authentication errors for private API.
 
 ---
