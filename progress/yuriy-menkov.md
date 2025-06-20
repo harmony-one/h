@@ -1,3 +1,8 @@
+2025-06-19 Thu: Researched [portfolio manager](https://github.com/harmony-one/portfolio-manager) app by Artem: testing cases for hedging impermanent loss using Hyperliquid perpetual futures and automating position management. Reviewing the code for potential integration into the delta hedge CLI.
+
+2025-06-18 Wed: Sync with Theo and Li for the next goals. Started diving into Artyom's and Aaron's projects. Look at the main user cases of the MVP delta hedge CLI. Planning the architecture for integrating Aerodrome and Hyperliquid.
+
+Expectations, complete deep dive into Artem and Aaron's code and putting the Hyperliquid and Aerodrome implementations together. Completed product requirement document for our DeltaHedge minimal product, with CLI interface.
 
 2025-06-17 Tue: Research and bug fixing of the bridge explorer related to RPC polling and integration with the LayerZero API. Switched to reviewing and refining the LP tracking scripts and open hedge on Hyperliquid.
 
