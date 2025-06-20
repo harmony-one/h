@@ -1,3 +1,18 @@
+2025 Q2 Review
+
+Advanced analytics and research on yield strategies. Collected and analyzed extensive statistics across USD and BTC pools (Aerodrome, Beefy, SwapX, Shadow, Spectra). Developed multiple scripts to calculate APR, impermanent loss, and time-in-range per wallet. Built datasets with over 50,000 positions. Exported and organized raw data from subgraphs and contract events. Grouped LP strategies by parameters (cutoff, buffer, rebalancing gap), including VFAT and Ichi Vaults.
+
+Shadow and VFAT strategy tracking services. Completed a shadow-pool-analytics service to monitor wallet-level LP stats. Added APIs with real-time data on positions and wallets. Created backend tools (NestJS + Swagger) to assess impermanent loss and rebalancing behavior. Built tooling to map strategy parameters to positions via contract 
+events.
+
+APR and performance estimation for Aerodrome pools. Analyzed cbBTC/USDC and cbBTC/WETH pools with over 100% advertised APR. Separated APR sources: trading fees, staking rewards based on contracts events. Built api servicer to track user's pool shares and expected yield dynamically. 
+
+Started work on delta-neutral and delta-hedge strategy. Collaborated with Theo and Artem on delta-hedged BTC strategies. Researched integration with Hyperliquid perps for impermanent loss hedging. Drafted CLI MVP spec and planned architecture for Aerodrome + Hyperliquid integration. Built early testing scenarios and reviewed codebases.
+
+Bridge and LayerZero improvements. Fixed major issues in the Unify Bridge related to stuck assets and contract mismatches (e.g. $AXS, USDC.e). Redeployed contracts and updated frontends. Researched BSC RPC alternatives. Started debugging of LayerZero V2 universal bridge contract with auto-deploy logic and dynamic token mapping.
+
+---
+
 2025-06-20 Fri: Researched Aaron's project and souces. Tried to use and test on main cases: hyperliquid real-time position and price tracking, end-to-end strategy execution. Checked real-time price monitoring modules for Deribit, Aerodrome.
 
 2025-06-19 Thu: Researched portfolio manager app by Artem: testing cases for hedging impermanent loss using Hyperliquid perpetual futures and automating position management. Reviewing the code for potential integration into the delta hedge CLI.
