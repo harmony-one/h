@@ -1,3 +1,11 @@
+2025 Q2 Review
+
+During Q1 2025, I focused on improving Harmony’s P2P consensus, EVM execution, gas calculation, and precompiled contract infrastructure. I upgraded the codebase to Ethereum 1.10, integrating the London and Berlin hard forks to ensure full compatibility.
+
+I launched a new release that completely removed redundant view-change logic, eliminated overhead from the heavily used getLogger method, redesigned the validator uptime calculation to account for mined blocks, and improved localnet testing to be more portable across platforms.
+
+---
+
 2025-06-13 Fri:
 - This week, I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract.   
 - I created an issue proposing a new algorithm for calculating validator uptime. The current approach only accounts for signing power, while the new method will also consider blocks produced by validators.  
