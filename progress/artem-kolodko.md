@@ -1,3 +1,15 @@
+2025 Q2 Review
+
+In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing security, high yields, and verified performance. I developed and tested a suite of scripts in the "shadow-scraper" repository to assess the performance of Euler USDC pools, Pendle PT and LP markets, Shadow CL USDC, Silo Finance, and Beefy. I completed detailed analytics and compiled comprehensive statistics on the top five stablecoin pools for investment opportunities.
+
+I researched a BTC LP trading strategy, analyzing impermanent loss in BTC investments and utilizing Hyperliquid futures positions as a hedge. I created a backtesting script and a prototype for implementing this trading strategy.
+
+I led a team of two developers working on DeFi pool analytics and BTC LP strategy implementation. I participated in daily meetings, reviewed pull requests, and assigned tasks to ensure the team met project goals on schedule.
+
+---
+
+2025-06-20 Fri: continue testing BTC LP strategy implementation: [optimized](https://github.com/harmony-one/portfolio-manager/commit/269cee0c81c9cafe6b508e3093d01646e0df030f) hedge adjustment to avoid frequent updating hedge position, [fixed](https://github.com/harmony-one/portfolio-manager/commit/595436b7dcf84981d51a24166d8b138abe67d83e) calculation of the current lower and upper range in the LP position, added fees amount check in fee collection logic. Current APR is around 40%.
+
 2025-06-19 Thu: LP + futures hedge implementation: fixed small bugs in calculation of hedging position size; continue on LP rebalancing
 
 2025-06-18 Wed: implemented checks for current LP position range and current BTC price, added simple LP rebalancing strategy
