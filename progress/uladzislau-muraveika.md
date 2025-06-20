@@ -1,3 +1,31 @@
+2025 Q2 review
+
+My work this quarter touched on multiple areas within the Harmony ecosystem and delivered tangible impact.
+
+My efforts focused on coordinating the validator community around the `v2025.1.1` release, improving consensus stability, and strengthening observability and testing infrastructure. Through active community outreach, I was able to engage large validators and support their upgrade efforts. As a result, validator adoption of the latest release reached 70% overall — with 79% on shard 0 and 65% on shard 1 — which directly contributed to a significant milestone: zero view changes across both shards following the upgrade.
+
+On the testing side, I improved the pyhmy Jupyter notebook by adding examples of self-signed staking and transfer transactions. The notebook was merged and integrated into CI, making it easier to write and test transactions in RPC and Python environments.
+
+On the observability side, I upgraded our internal monitoring stack by deploying the latest long-term support version of Nginx and updating its VTS module, enabling us to track detailed HTTP response code metrics for RPC traffic. I also created new Grafana dashboards that visualize view changes using Loki logs, shard-level block production trends, and node version distributions across the network. These dashboards are now actively used to spot issues like slow leaders and version fragmentation in real time.
+
+On the support side, I helped resolve a shard 1 issue caused by a low-performance validator producing blocks too slowly. After coordinating with the validator and community, the node was upgraded and shard performance normalized.
+
+Earlier in the quarter, I handled a routing issue in Contabo-hosted devnet/testnet nodes where extra internal routes caused communication inconsistencies. Fixing this aligned internal network behavior with mainnet expectations.
+
+Across the quarter, I supported community validator coordination, tested protocol fixes (including DisablePrivateIPScan), and improved developer tools and CI workflows. These combined efforts helped drive a more stable, observable, and upgrade-ready Harmony network.
+
+---
+
+2025-06-20 Fri: First of all community work, I was able reach out to the big validators and invite them to the community as a result, we have 70% of validators on the latest release(79% on the shard 0 and 65 on the shard 1). As consequence due to fixes in the consensus, we didn't have any view change in both shards. Hopefully, the rest of the validators will update in the nearest time.
+
+On the testing side, I was working on test the mplexors transition(mplex and yamux -> mplexC6 and yamux) in the devnet, it have been stopped for now waiting for Gheis return.
+
+As part of my on-call activities, I've created a simple dashboard to check the view changes in our internal validators by filtring know view change logs stored in Loki.
+
+And finally, while testing is blocked I've added the Nginx vts module feature - [counts by each http response code](https://github.com/vozlt/nginx-module-vts?tab=readme-ov-file#vhost_traffic_status_measure_status_codes) to our observability stack, now we can distinguish on what exactly happen here in terms of exact http codes.
+
+---
+
 2025-06-13 Fri: I'm still working with community to update to the latest release version, Monday - 31% - all nodes, 10% validators, current state  - 66% - all nodes, 55% validators.
 
 From the support side, I've notified validator community about one slow validator in the shard 0, additionally highlighted this problem to the consensus devs, right now we are calculating uptime from the signed blocks, but block production is also one of important metrics to understand the performance. Main problem - good validator can easily be a bad leader. Right now I can only push on such leaders together with Harmony validators community.
