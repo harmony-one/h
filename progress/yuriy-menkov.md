@@ -1,3 +1,5 @@
+2025-06-20 Fri: Researched Aaron's project and souces. Tried to use and test on main cases: hyperliquid real-time position and price tracking, end-to-end strategy execution. Checked real-time price monitoring modules for Deribit, Aerodrome.
+
 2025-06-19 Thu: Researched portfolio manager app by Artem: testing cases for hedging impermanent loss using Hyperliquid perpetual futures and automating position management. Reviewing the code for potential integration into the delta hedge CLI.
 
 2025-06-18 Wed: Sync with Theo and Li for the next goals. Started diving into Artyom's and Aaron's projects. Look at the main user cases of the MVP delta hedge CLI. Planning the architecture for integrating Aerodrome and Hyperliquid.
