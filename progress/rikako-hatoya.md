@@ -1,3 +1,15 @@
+**2025 Q2 Review**
+In Q2, a major focus was the shadow-scraper repo, where I worked on verifying APR calculations across various vaults on the Sonic network. This included cross-validating on-chain data for USDC.e and wBTC/USDC vaults, implementing Pendle reward tracking, and addressing discrepancies in Merkl’s API by parsing RewardDistributed logs directly. I also contributed yield analysis scripts for Spectra, Euler, and Silo vaults, integrating logic for LP fee and fixed PT rewards, and ensuring consistency in .tsv export formats used by the portfolio tracker. A lot of effort went into aligning our APR logic with protocol-specific quirks—like boost mechanics, proxy patterns, and vault token wrappers—to ensure the data we show is accurate and reliable.
+
+Starting mid-May, I shifted focus toward BTC vaults, beginning with an audit of BTC/USDC LPs with over $50K in liquidity across Sonic protocols. I expanded vault coverage in the portfolio-manager repo and worked on new strategies for Hyperliquid backtesting, LP simulations, and PnL tracking. I also built a basic BTC-USD backtest module using historical price feeds, which I later extended to simulate funding rates and fees. In parallel, I explored options markets via Derive and Binance APIs—writing backtest logic and attempting to open/close positions programmatically. While Derive integration is still ongoing due to private API issues, the debugging process gave me valuable insight into authentication flows, orderbook structure, and SDK limitations.
+
+Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizontally (across more vaults and platforms) and vertically (with more detailed APR breakdowns, including fees and rewards). A lot of this wouldn’t have been possible without Artem’s help, and I really want to acknowledge his support—he was incredibly generous with his time and advice. Looking ahead to Q3, I’m hoping to build on this foundation with more robust simulations and the potential to incorporate Aaron’s trading strategies into our system.
+
+Relevant Links:
+ - [portfolio-manager](https://github.com/harmony-one/portfolio-manager)
+ - [shadow-scraper](https://github.com/harmony-one/shadow-scraper)
+
+---
 
 2025-06-20 Fri: Continuation with research of defi platforms and options. 
 
