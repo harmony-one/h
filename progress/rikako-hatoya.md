@@ -1,3 +1,6 @@
+
+2025-06-20 Fri: Continuation with research of defi platforms and options. 
+
 2025-06-19 Thu: Testing and understanding of options, exploration of other defi platforms. Drafting of Q2 summary.
 
 2025-06-18 Wed: Continued with debugging for DeriveOrder.openPosition() internal error: signature, payload, price and funds seem fine, attempted with multiple instruments, waiting for response to support ticket. Started looking into manual trading and other defi platforms for the meanwhile.
