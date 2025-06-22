@@ -1,3 +1,8 @@
+2025-06-21 Sat [PTO (2025-06-17 - 2025-06-25: 7 days)]:
+Last week on Monday I have finalized the latest binary for devnet along with new muxers on devnet boot nodes. I have done a few tests and working on two unsynced nodes issues.  
+
+---
+
 2025-06-14 Sat:
 
 Last week, I completed and fixed conflicts and test for two pull requests   [4912]( https://github.com/harmony-one/harmony/pull/4912) and [4914](https://github.com/harmony-one/harmony/pull/4914) both of which are now ready for review and merge. These updates included resolving merge conflicts and ensuring that all related tests passed successfully.
