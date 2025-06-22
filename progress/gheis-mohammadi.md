@@ -13,6 +13,16 @@ This staged deployment process helps us mitigate risks and gain valuable insight
 
 ---
 
+2025-06-07 Sat:
+Last week, we successfully merged and released version `2025.1.1` of Harmony to `main`. This release represents a significant milestone, bringing notable improvements to the consensus algorithm, bootnode stability, and the P2P communication layer. Additionally, it includes enhancements in observability and logging, optimizations for resource usage, ongoing progress in stream sync development, dependency upgrades, and a number of bug fixes. It was a substantial collaborative effort, and I want to express deep appreciation to the entire team for making this release happen.
+
+Alongside the release, I worked on a couple of important pull requests aimed at strengthening the peer discovery and stream management subsystems.
+[PR #4912](https://github.com/harmony-one/harmony/pull/4912) introduces a configurable timeout for the DHT bootstrap process. This allows operators to fine-tune the duration of peer discovery through a new CLI flag (`--p2p.disc.bootstrap-timeout`), with a default value set to 30 seconds. The change improves observability by logging bootstrap duration and simplifies the stream manager's discovery logic by removing an unnecessary goroutine.
+
+In parallel, [PR #4914](https://github.com/harmony-one/harmony/pull/4914) adds trusted peer prioritization to stream management. The host now exposes a trusted peer set, and the stream manager is updated to recognize and preserve those connections by reconnecting instead of banning them during disruptions. When establishing new streams, the system will attempt to connect to trusted peers before initiating discovery with unknown nodes. This change strengthens peer connectivity, especially in scenarios where only a subset of validators or nodes are upgraded.
+
+---
+
 2025-05-24 Sat: Last week, I investigated the Gater issue described in [issue #4903](https://github.com/harmony-one/harmony/issues/4903) and submitted [PR #4904](https://github.com/harmony-one/harmony/pull/4904) to resolve it. The issue stemmed from conflicting gater implementations during P2P host initialization. To fix this, I merged the default gater into a unified blocking gater and refactored the connection gating logic for better clarity and consistency. The host is now configured to use only the new blocking gater, eliminating overlapping logic and simplifying the initialization process. Tests were also updated and extended to support the new datastore structure, improving reliability and correctness.
 
 Additionally, I continued working on stream management enhancements and created [PR #4905](https://github.com/harmony-one/harmony/pull/4905). This update introduces improvements to stream lifecycle tracking and thread safety. `RemovalInfo` updates are now synchronized to prevent concurrency issues, ensuring that streams are not prematurely re-added or left in inconsistent states. The discovery mechanism now respects cooldown windows for removed streams, preventing redundant or unstable reconnections. Stream counters (`numByProto`) were hardened to update only on valid state changes, avoiding skewed metrics. Finally, the cleanup process was improved to fully remove streams from internal structures, preventing memory leaks and ensuring lifecycle integrity across the system.
