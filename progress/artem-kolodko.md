@@ -8,6 +8,8 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 
 ---
 
+2025-06-22 Sun (2.0h): Uniswap LP strategy daily monitoring during BTC price drop, minor improvements. Reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/15) with Aerodrome LP + futures hedge strategy backtesting. 
+
 2025-06-20 Fri: continue testing BTC LP strategy implementation: [optimized](https://github.com/harmony-one/portfolio-manager/commit/269cee0c81c9cafe6b508e3093d01646e0df030f) hedge adjustment to avoid frequent updating hedge position, [fixed](https://github.com/harmony-one/portfolio-manager/commit/595436b7dcf84981d51a24166d8b138abe67d83e) calculation of the current lower and upper range in the LP position, added fees amount check in fee collection logic. Current APR is around 40%.
 
 2025-06-19 Thu: LP + futures hedge implementation: fixed small bugs in calculation of hedging position size; continue on LP rebalancing
