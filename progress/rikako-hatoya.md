@@ -12,6 +12,8 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-21 Sat (1.0h): Q2 summary write-up. Reading of Jim Simmons book.
+
 2025-06-20 Fri: Continuation with research of defi platforms and options. 
 
 2025-06-19 Thu: Testing and understanding of options, exploration of other defi platforms. Drafting of Q2 summary.
