@@ -1,3 +1,18 @@
+---
+
+2025 Q2 Review (32 hours)
+
+In Q2 2025, I developed DeFi analytics infrastructure for multi-protocol yield tracking and APR calculations across the Sonic ecosystem. I built and deployed the Pendle/Sonic subgraph with RedeemRewards event tracking and entity handlers for PT/YT reward discrimination. Tracking scripts were created for Aave, Beefy, Equilibria, Silo, and Magpie protocols, establishing APR calculation methodologies that matched UI displays. I implemented Balancer v2/v3 yield calculations for Beets tracker, integrating ERC4626RateProvider contracts to handle BEETS rewards and yield-bearing token appreciation.
+
+I completed Uniswap V3 LP backtesting showing 36.18% APR with 100% time-in-range over 1-year historical periods and refactored the Uniswap LP service to use contract calls, eliminating subgraph dependencies to enable mainnet to Sepolia support for backtesting scripts. Full price range backtesting was completed for Aerodrome protocol, achieving APR values close to the User Interface amounts. Cross-protocol backtesting capabilities were advanced by building integrated systems combining Aerodrome LP positions with Hyperliquid perpetual hedging strategies. I fixed funding calculation logic for SHORT positions, resolving negative APR issues where positive funding rates generate income for shorts in bullish markets, and implemented Aaron's BTC LP strategy with dynamic hedge sizing based on token ratio deviations.
+
+I maintained and enhanced 1Bot infrastructure by integrating Claude Opus 4 and Sonnet 4 models, updating OpenAI models with o3 and GPT-4.1 variants, and resolving deployment issues on fly.io servers. Database backup and cloning procedures were implemented to address server instability, adding retry cycles for DB and Telegram connections to prevent continuous restarts. Technical support was provided for user-reported issues including Luma command failures and Harmony Bot deployment troubleshooting.
+
+---
+
+2025-06-23 Mon: Paid time off
+
+---
 2025-06-20 Fri: [Fixed critical funding calculation logic](https://github.com/harmony-one/portfolio-manager/pull/15) for SHORT positions - positive funding rates generate income for shorts in bullish markets, resolving negative APR issues. Continued integrating Aaron's BTC LP strategy implementation with dynamic hedge sizing based on token ratio deviations (>5% from 50/50 triggers rebalancing). Added weekly funding cost monitoring with automatic position reduction when funding exceeds 20% of LP fees, following Aaron's risk management framework.
 
 2025-06-19 Thu: Built cross-protocol backtesting script combining Aerodrome LP positions with Hyperliquid perpetual hedging. Created position classes (AerodromePosition.ts, HyperliquidPosition.ts) with clean state management and real data integration from subgraphs and protocol services. Encountered issues with negative APR calculations that required debugging funding rate logic for SHORT positions.
