@@ -1,3 +1,5 @@
+2025-06-22: The S/BTC strategy script has been completed and tested successfully after several tweaks to the calculation logic. I sought opportunities to run the script on a server to minimize network interruptions for extended performance testing. The script tracks the LP deposit on Shadow exchange, identifies range breaks and triggers equivalent market orders to hedge the asset exposure and catch deviation of both (Pair trade). 
+
 2025-06-15: Continued building the strategy deployment so S/BTC with significant progress. A script is pulling prices every 5 seconds for selected pair trades. The connected test wallet can successfully execute Trades on Hyperliquid based on price triggers, which are in rough limit pair trade orders. Limit pair trade orders do not exist on any protocol yet (For example Pear Protocol) so the execution marks a milestone in the development of the strategy. The script can also query LP positions held by the wallet on Shadow exchange but is not able to see the exact amount of Tokens held in the position due to the missing ABI. Once, that is solved, the strategy can be executed entirely. 
 
 ---
