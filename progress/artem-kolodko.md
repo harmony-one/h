@@ -8,6 +8,8 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 
 ---
 
+2025-06-24 Tue: continue LP rebalancing, [fixed](https://github.com/harmony-one/portfolio-manager/commit/3d8415aa5ef715799de12c05c956b0d8a712c33b) position closing logic. Started testing strategy performance with larger amounts (>$200).
+
 2025-06-23 Mon: continue testing the LP strategy with active LP rebalancing, added logic for closing the LP position when it out of range and started opening a new LP position withing new range. [Resolved](https://github.com/harmony-one/portfolio-tracker/commit/3d02533bcf88f81436173535d41092c20d8544f1) issue with CAGR metric in portfolio-tracker app.
 
 ---
