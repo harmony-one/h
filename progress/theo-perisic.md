@@ -1,3 +1,17 @@
+2025-06-24 Tue: Progress on repo merge between Aaron’s production-ready code, the team’s portfolio manager, and Philipp’s strategy. Completed quarterly review and started reviewing team progress.
+
+2025-06-23 Mon: Research into graph sunset, coordination with Protofire to migrate Lend and other necessary tooling. Sync with Alaina for progress and marketing.
+
+---
+
+2025-06-22 Sun: (2.0h) Initial attempt to merge Aerodrome and Hyperliquid implementations from lp-hedger, and automation from portfolio-manager, as well as implement Philipp’s strategies. 
+
+2025-06-21 Sat: (3.0h) Reviewing Aaron’s lp-hedger, and Artem, Frank, Rika’s portfolio-manager. 
+
+2025-06-20 Fri: Change in priorities for Yuriy with community proposal’s needing governance. SnapshotX implementation underway.
+
+2025-06-19 Thu: Coordination with Ulad for validators operating under efficiency threshold. Additional reminder for team quarterly reviews. 
+
 2025-06-18 Wed: Sync with Yuriy and Li for the next few days. Expectations, complete deep dive into Artem and Aaron's code and putting the Hyperliquid and Aerodrome implementations together. Completed product requirement document for our DeltaHedge minimal product, with CLI interface.
 
 2025-06-17 Tue: Recovery multisig custodian coordination, June burn finalized. Snapshot, or open source version of snapshotX needed to proceed with proposal.
