@@ -12,6 +12,10 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-23 Mon: Compiled list of options trading platforms. Further tried debugging the derive API issue, indeed the internal error still persists, nudged the derive team again for support.
+
+---
+
 2025-06-22 Sun (1.0h): Continuation with defi options research. Revision of Q2 summary write-up.
 
 2025-06-21 Sat (1.0h): Q2 summary write-up. Reading of Jim Simmons book.
