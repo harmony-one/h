@@ -1,3 +1,9 @@
+2025 Q2 Review
+
+In Q2, I implemented EIP-2718, which introduces typed transactions to support the processing and transmission of multiple transaction formats. This included implementing both legacy transactions and optional access list transactions, enabling users to specify the addresses accessed during execution. I also conducted research into libp2p to explore improvements to the peer-to-peer networking protocol. Continuing from Q2, I plan to focus primarily on contributing to and refining the P2P logic in the upcoming quarter. In parallel with protocol work, I fully transitioned into the DevOps lead role—gaining familiarity with the tech stack, handling security operations, and managing infrastructure. Mainly, we released version v2025.1.1, which improves bootnode stability and refines the consensus logic.
+
+---
+
 2025-06-13 Fri: Sick day off
 
 2025-06-12 Thu: Analyzed testnet and devnet down issue. Downtime only resulted for ~15 mintues. Found the core cause due to interruption in the European Hetzner server building.
