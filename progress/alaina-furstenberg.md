@@ -1,4 +1,14 @@
-2025-06-20 Fri: Filming, editing, and posting of the weekly progress recap to Youtube. Review of team's Q3 progress reports. Importing in Substack for next week's newsletter.
+2025-06-24 Tue: Sync with Theo on Q2 video and the upcoming report. Thread on 5.country + design of a graphic. Insight for the tweet: In training robot fingers, precision isn’t mastery...dexterity emerges through real-world contact, where errors aren’t bugs but building blocks for intuition.
+
+2025-06-23 Mon: Writing and tweeting the [progress thread](https://x.com/harmonyprotocol/status/1937362764621922365). Review of team's Q2 progress and beginning to write the introduction. 
+
+---
+
+2025-06-22 Sun: Animation of a progress graphic for the thread.
+
+2025-06-21 Sat: Finalized Q2 progress write up.
+
+2025-06-20 Fri: Filming, editing, and posting of the [weekly progress recap](https://youtube.com/shorts/gevQfx0NNQ8?si=PxJ_9A4AKaSUF2Nb) to Youtube. Review of team's Q3 progress reports. Importing in Substack for next week's newsletter.
 
 2025-06-19 Thu: Juneteenth Holiday
 
