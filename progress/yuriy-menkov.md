@@ -13,6 +13,10 @@ Bridge and LayerZero improvements. Fixed major issues in the Unify Bridge rela
 
 ---
 
+2025-06-23 Mon: Researched SnapshotX repositories and documentation. Checked these two repos: [sx-monorepo](https://github.com/snapshot-labs/sx-monorepo) and [sx-evm](https://github.com/snapshot-labs/sx-evm) to evaluate the possibility of deploying and configuring them on the Harmony side. It looks like some interface tweaking will be required, but overall, everything should work out of the box.
+
+---
+
 2025-06-20 Fri: Researched Aaron's project and souces. Tried to use and test on main cases: hyperliquid real-time position and price tracking, end-to-end strategy execution. Checked real-time price monitoring modules for Deribit, Aerodrome.
 
 2025-06-19 Thu: Researched portfolio manager app by Artem: testing cases for hedging impermanent loss using Hyperliquid perpetual futures and automating position management. Reviewing the code for potential integration into the delta hedge CLI.
