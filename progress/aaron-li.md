@@ -1,3 +1,5 @@
+---
+
 2025-6-22 Sun (2.0h): Main trading logic, verification, execution.
 
 2025-6-21 Sat (0.4h): Main trading logic, verification, execution.
@@ -11,10 +13,6 @@
 2025-6-17 Tue (0.1h): Deribit position persistence; Hyperliquid real-time position and price tracking.
 
 2025-6-16 Mon (3.2h): Discussion on LP strategy risks, performance, implemention. Deribit position and solvency tracking.
-
----
-
----
 
 ---
 
