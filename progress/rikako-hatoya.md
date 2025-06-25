@@ -12,6 +12,8 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-24 Tue: Catch up with aerodrome/hyperliquid backtest so far and review of Aaron's strategy for adding options position. Continued debugging verifying EIP signature is correct and doesn't seem to be region restriction.
+
 2025-06-23 Mon: Compiled list of options trading platforms. Further tried debugging the derive API issue, indeed the internal error still persists, nudged the derive team again for support.
 
 ---
