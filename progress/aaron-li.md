@@ -1,5 +1,3 @@
----
-
 2025-6-22 Sun (2.0h): Main trading logic, verification, execution.
 
 2025-6-21 Sat (0.4h): Main trading logic, verification, execution.
