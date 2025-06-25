@@ -9,13 +9,13 @@ Toward the end of the quarter, I doubled down on staged stream sync improvements
 ---
 
 2025-06-21 Sat [PTO (2025-06-17 - 2025-06-25: 7 days)]:
-Last week on Monday I have finalized the latest binary for devnet along with new muxers on devnet boot nodes. I have done a few tests and working on two unsynced nodes issues.  
+I have finalized the latest binary for devnet along with new muxers on devnet boot nodes. I have done a few tests and working on two unsynced nodes issues.  
 
 ---
 
 2025-06-14 Sat:
 
-Last week, I completed and fixed conflicts and test for two pull requests   [4912]( https://github.com/harmony-one/harmony/pull/4912) and [4914](https://github.com/harmony-one/harmony/pull/4914) both of which are now ready for review and merge. These updates included resolving merge conflicts and ensuring that all related tests passed successfully.
+I completed and fixed conflicts and test for two pull requests   [4912]( https://github.com/harmony-one/harmony/pull/4912) and [4914](https://github.com/harmony-one/harmony/pull/4914) both of which are now ready for review and merge. These updates included resolving merge conflicts and ensuring that all related tests passed successfully.
 
 In addition to that, we worked on the deployment plan for the new muxer configuration intended for mainnet. Our strategy involves first deploying this configuration to the testnet, where we will use a hybrid setup — running both old and new muxer configurations across different bootnodes. This testnet environment is designed to replicate the planned mainnet rollout closely, enabling us to validate the behavior under realistic conditions.
 
@@ -24,7 +24,7 @@ This staged deployment process helps us mitigate risks and gain valuable insight
 ---
 
 2025-06-07 Sat:
-Last week, we successfully merged and released version `2025.1.1` of Harmony to `main`. This release represents a significant milestone, bringing notable improvements to the consensus algorithm, bootnode stability, and the P2P communication layer. Additionally, it includes enhancements in observability and logging, optimizations for resource usage, ongoing progress in stream sync development, dependency upgrades, and a number of bug fixes. It was a substantial collaborative effort, and I want to express deep appreciation to the entire team for making this release happen.
+We successfully merged and released version `2025.1.1` of Harmony to `main`. This release represents a significant milestone, bringing notable improvements to the consensus algorithm, bootnode stability, and the P2P communication layer. Additionally, it includes enhancements in observability and logging, optimizations for resource usage, ongoing progress in stream sync development, dependency upgrades, and a number of bug fixes. It was a substantial collaborative effort, and I want to express deep appreciation to the entire team for making this release happen.
 
 Alongside the release, I worked on a couple of important pull requests aimed at strengthening the peer discovery and stream management subsystems.
 [PR #4912](https://github.com/harmony-one/harmony/pull/4912) introduces a configurable timeout for the DHT bootstrap process. This allows operators to fine-tune the duration of peer discovery through a new CLI flag (`--p2p.disc.bootstrap-timeout`), with a default value set to 30 seconds. The change improves observability by logging bootstrap duration and simplifies the stream manager's discovery logic by removing an unnecessary goroutine.
@@ -33,13 +33,13 @@ In parallel, [PR #4914](https://github.com/harmony-one/harmony/pull/4914) adds t
 
 ---
 
-2025-05-24 Sat: Last week, I investigated the Gater issue described in [issue #4903](https://github.com/harmony-one/harmony/issues/4903) and submitted [PR #4904](https://github.com/harmony-one/harmony/pull/4904) to resolve it. The issue stemmed from conflicting gater implementations during P2P host initialization. To fix this, I merged the default gater into a unified blocking gater and refactored the connection gating logic for better clarity and consistency. The host is now configured to use only the new blocking gater, eliminating overlapping logic and simplifying the initialization process. Tests were also updated and extended to support the new datastore structure, improving reliability and correctness.
+2025-05-24 Sat: I investigated the Gater issue described in [issue #4903](https://github.com/harmony-one/harmony/issues/4903) and submitted [PR #4904](https://github.com/harmony-one/harmony/pull/4904) to resolve it. The issue stemmed from conflicting gater implementations during P2P host initialization. To fix this, I merged the default gater into a unified blocking gater and refactored the connection gating logic for better clarity and consistency. The host is now configured to use only the new blocking gater, eliminating overlapping logic and simplifying the initialization process. Tests were also updated and extended to support the new datastore structure, improving reliability and correctness.
 
 Additionally, I continued working on stream management enhancements and created [PR #4905](https://github.com/harmony-one/harmony/pull/4905). This update introduces improvements to stream lifecycle tracking and thread safety. `RemovalInfo` updates are now synchronized to prevent concurrency issues, ensuring that streams are not prematurely re-added or left in inconsistent states. The discovery mechanism now respects cooldown windows for removed streams, preventing redundant or unstable reconnections. Stream counters (`numByProto`) were hardened to update only on valid state changes, avoiding skewed metrics. Finally, the cleanup process was improved to fully remove streams from internal structures, preventing memory leaks and ensuring lifecycle integrity across the system.
 
 ---
 
-2025-05-17 Sat: Last week, I worked on several improvements related to P2P networking and stream handling. I submitted [PR 4901](https://github.com/harmony-one/harmony/pull/4901) to ensure the libp2p resource manager is fully disabled by explicitly setting `libp2p.ResourceManager(nil)` in the host configuration. While the `ResourceMgrEnabled = false` flag was already in place, libp2p still applies a default manager unless explicitly disabled. This fix prevents unexpected connection blocking due to resource limits, ensuring smoother and unrestricted P2P communication, particularly in development or scenarios where fine-grained resource control is not needed.
+2025-05-17 Sat: I worked on several improvements related to P2P networking and stream handling. I submitted [PR 4901](https://github.com/harmony-one/harmony/pull/4901) to ensure the libp2p resource manager is fully disabled by explicitly setting `libp2p.ResourceManager(nil)` in the host configuration. While the `ResourceMgrEnabled = false` flag was already in place, libp2p still applies a default manager unless explicitly disabled. This fix prevents unexpected connection blocking due to resource limits, ensuring smoother and unrestricted P2P communication, particularly in development or scenarios where fine-grained resource control is not needed.
 
 I also continued investigating stream issues and submitted [PR 4900](https://github.com/harmony-one/harmony/pull/4900), which improves stream handling by adding read deadlines, introducing configurable internal tuning, and ensuring stream loops exit cleanly on shutdown signals. Locking was refactored for improved concurrency, and recoverable errors such as timeouts no longer cause full resets. 
 
