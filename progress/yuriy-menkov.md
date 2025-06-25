@@ -13,6 +13,8 @@ Bridge and LayerZero improvements. Fixed major issues in the Unify Bridge rela
 
 ---
 
+2025-06-24 Tue: Finished deploying Snapshot X contracts on the Harmony chain. Currently working on setting up and integrating the remaining services — frontend and backend.
+
 2025-06-23 Mon: Researched SnapshotX repositories and documentation. Checked these two repos: [sx-monorepo](https://github.com/snapshot-labs/sx-monorepo) and [sx-evm](https://github.com/snapshot-labs/sx-evm) to evaluate the possibility of deploying and configuring them on the Harmony side. It looks like some interface tweaking will be required, but overall, everything should work out of the box.
 
 ---
