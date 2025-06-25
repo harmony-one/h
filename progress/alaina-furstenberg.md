@@ -12,9 +12,9 @@ I highlighted protocol updates, and co-marketed with partners like FlappyH1, 1Ut
 
 ---
 
-2025-06-22 Sun: Animation of a progress graphic for the thread.
+2025-06-22 Sun (1.0 hr): Animation of a progress graphic for the thread.
 
-2025-06-21 Sat: Finalized Q2 progress write up.
+2025-06-21 Sat (1.0 hr): Finalized Q2 progress write up.
 
 2025-06-20 Fri: Filming, editing, and posting of the [weekly progress recap](https://youtube.com/shorts/gevQfx0NNQ8?si=PxJ_9A4AKaSUF2Nb) to Youtube. Review of team's Q3 progress reports. Importing in Substack for next week's newsletter.
 
@@ -28,9 +28,9 @@ I highlighted protocol updates, and co-marketed with partners like FlappyH1, 1Ut
 
 ---
 
-2025-06-15 Sun: Continuation in Figma Make.
+2025-06-15 Sun (1.0 hr): Continuation in Figma Make.
 
-2025-06-14 Sat: Progress [thread](https://x.com/harmonyprotocol/status/1933936988161495340) on X.
+2025-06-14 Sat (1.0 hr): Progress [thread](https://x.com/harmonyprotocol/status/1933936988161495340) on X.
 
 2025-06-13 Fri: Update of the community section, plus sharing to X. Writing the script, filming, and editing of the 60s progress video for Youtube Shorts. Animated an intro for the series in Canva. 
 
@@ -44,9 +44,9 @@ I highlighted protocol updates, and co-marketed with partners like FlappyH1, 1Ut
 
 ---
 
-2025-06-08 Sun: Continuation in Figma Make.
+2025-06-08 Sun (1.0 hr): Continuation in Figma Make.
 
-2025-06-07 Sat: Team progress thread.
+2025-06-07 Sat (1.0 hr): Team progress thread.
 
 2025-06-06 Fri: Update of the community section. Testing of the /opus /haiku and /sonnet. Designed a graphic and promoted on X. Continued work in Figma Make on a Harmony website
 
@@ -60,9 +60,9 @@ I highlighted protocol updates, and co-marketed with partners like FlappyH1, 1Ut
 
 ---
 
-2025-06-01 Sun: Posting of a progress thread to X.
+2025-06-01 Sun (1.0 hr): Posting of a progress thread to X.
 
-2025-05-31 Sat: Posting of the May 2025 newsletter, thread on X.
+2025-05-31 Sat (1.0 hr): Posting of the May 2025 newsletter, thread on X.
 
 2025-05-30 Fri: Update of the community section and posting to X. Finalizng the May newsletter and reviewing with Li and Theo.
 
