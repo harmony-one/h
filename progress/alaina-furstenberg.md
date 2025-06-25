@@ -1,4 +1,4 @@
-Q2 Progress:
+2025 Q2 Review
 
 This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the Colossus integration rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
 
