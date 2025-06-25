@@ -6,77 +6,60 @@ I launched a new release that completely removed redundant view-change logic, el
 
 ---
 
-2025-06-13 Fri:
-- This week, I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract.   
-- I created an issue proposing a new algorithm for calculating validator uptime. The current approach only accounts for signing power, while the new method will also consider blocks produced by validators.  
-- Reviewed, approved and merged several pull requests into dev branch.
+2025-06-13 Fri: I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract.   
+
+I created an issue proposing a new algorithm for calculating validator uptime. The current approach only accounts for signing power, while the new method will also consider blocks produced by validators. I reviewed, approved and merged several pull requests into dev branch.
 
 ---
 
-2025-06-06 Fri:
-- This week, I reviewed and merged the dev branch into master. We agreed to announce the changes on Monday morning to have a full week of support and oversight for validators.
-- I identified portions of the EVM code that were not updated in the 1.9 branch. These sections include conflicts that require manual resolution. I estimate the work is currently about 50% complete and will continue next week.
-- Reviewed, approved and merged several pull requests into dev branch.
+2025-06-06 Fri: I reviewed and merged the dev branch into master. We agreed to announce the changes on Monday morning to have a full week of support and oversight for validators. 
+
+I identified portions of the EVM code that were not updated in the 1.9 branch. These sections include conflicts that require manual resolution. I estimate the work is currently about 50% complete and will continue next week. I reviewed, approved and merged several pull requests into dev branch.
 
 ---
 
-2025-05-30 Fri:
-- This week, I focused on integrating the new VM opcodes introduced in the Ethereum 1.10 update. I estimate we’re approximately 80% through the full 1.10 integration.
-- We also continued testing the upcoming release to ensure stability and compatibility across our codebase. So far, results have been promising, with no major issues detected.
-- In parallel, I began working on the implementation of transient storage as specified in EIP-1153. While not part of the 1.10 update itself, it is a feature that will enhance our compatibility with the Ethereum ecosystem.
+2025-05-30 Fri: I focused on integrating the new VM opcodes introduced in the Ethereum 1.10 update. I estimate we’re approximately 80% through the full 1.10 integration. We also continued testing the upcoming release to ensure stability and compatibility across our codebase. So far, results have been promising, with no major issues detected.
+
+In parallel, I began working on the implementation of transient storage as specified in EIP-1153. While not part of the 1.10 update itself, it is a feature that will enhance our compatibility with the Ethereum ecosystem.
 
 ---
 
-2025-05-23 Fri:
-- This week, I identified and resolved an issue in the tests repository related to an invalid library version. The bug was blocking progress across all branches, and fixing it has unblocked further development and testing workflows.
-- I continued making progress on the Ethereum 1.10 integration into our blockchain codebase. I estimate around 50% through the overall update.
-- We also continued testing the upcoming release in coordination with mainnet validators. Assuming no critical issues arise during this phase, we are on track to prepare the final release within the next two weeks. 
+2025-05-23 Fri: I identified and resolved an issue in the tests repository related to an invalid library version. The bug was blocking progress across all branches, and fixing it has unblocked further development and testing workflows. I continued making progress on the Ethereum 1.10 integration into our blockchain codebase. I estimate around 50% through the overall update.
+
+We also continued testing the upcoming release in coordination with mainnet validators. Assuming no critical issues arise during this phase, we are on track to prepare the final release within the next two weeks. 
 
 ---
 
-2025-05-16 Fri:
-- This week, I continued progressing with the Ethereum 1.10 integration into our blockchain codebase. Based on the current status, I estimate we are approximately 30% through the update process.
-- During release testing, Ulad encountered an issue related to node startup. The problem appears to be minor and is not expected to impact the current release timeline. Gheis investigating the issue and expect to have a fix by monday.
+2025-05-16 Fri: I continued progressing with the Ethereum 1.10 integration into our blockchain codebase. Based on the current status, I estimate we are approximately 30% through the update process. During release testing, Ulad encountered an issue related to node startup. The problem appears to be minor and is not expected to impact the current release timeline. Gheis investigating the issue and expect to have a fix by monday.
 
 ---
 
-2025-05-09 Fri:
-- This week, our efforts were centered around validating the upcoming release. During testing, we identified an issue related to the bootnode. While the impact appears to be limited and not a blocker, I proactively submitted a PR with a potential fix involving targeted code changes.
-  After further in-depth testing, it became clear that the fix did not fully resolve the issue. Still, we kept things moving and continued with the testing process.
-  We are now updating mainnet validators with the new release to assess compatibility in a live environment and ensure readiness for deployment.
+2025-05-09 Fri: Our efforts were centered around validating the upcoming release. During testing, we identified an issue related to the bootnode. While the impact appears to be limited and not a blocker, I proactively submitted a PR with a potential fix involving targeted code changes. After further in-depth testing, it became clear that the fix did not fully resolve the issue. Still, we kept things moving and continued with the testing process.
+
+We are now updating mainnet validators with the new release to assess compatibility in a live environment and ensure readiness for deployment.
 
 ---
 
-2025-05-02 Fri:
-- This week, after a series of updates, Gheis, Ulad, and I successfully resolved an issue that caused unintended view change activation on the first block of a new epoch. This fix enhances consensus stability and ensures smoother epoch transitions.
-- In addition, I reviewed, approved, and merged several small pull requests, including changes to the release branch. These updates contribute to improved logging performance, more robust error handling, and increased test coverage.
+2025-05-02 Fri: After a series of updates, Gheis, Ulad, and I successfully resolved an issue that caused unintended view change activation on the first block of a new epoch. This fix enhances consensus stability and ensures smoother epoch transitions. In addition, I reviewed, approved, and merged several small pull requests, including changes to the release branch. These updates contribute to improved logging performance, more robust error handling, and increased test coverage.
 
 ---
 
-2025-04-25 Fri:
-- This week, I focused on integrating the consensus module with the Loki logging system. I enhanced the consensus logging infrastructure to produce structured logs, significantly improving the experience when analyzing data in Grafana.
-- In addition, I refactored the logger to populate consensus-related fields without requiring a lock. Previously, acquiring locks for logging was a delicate task that demanded careful handling to avoid deadlocks or performance degradation. The updated implementation eliminates the need for locks entirely, simplifying the system and reducing the risk of misuse within the consensus logging logic.
+2025-04-25 Fri:  I focused on integrating the consensus module with the Loki logging system. I enhanced the consensus logging infrastructure to produce structured logs, significantly improving the experience when analyzing data in Grafana. In addition, I refactored the logger to populate consensus-related fields without requiring a lock. Previously, acquiring locks for logging was a delicate task that demanded careful handling to avoid deadlocks or performance degradation. The updated implementation eliminates the need for locks entirely, simplifying the system and reducing the risk of misuse within the consensus logging logic.
 
 ---
 
-2025-04-18 Fri:
-- This week, I implemented a fix for the view change issue that occurred during the updateConsensusInformation function call.
-  Previously, this call could interrupt the leader’s signature collection process, leading to an unintended view change. The patch ensures smoother consensus updates without disrupting the leader’s operation.
-- Additionally, I refactored the interaction between the consensus and synchronization processes.
-  The synchronization logic now supports applying multiple blocks at once and invokes updateConsensusInformation automatically after block insertion. This streamlines the update flow and reduces the interface complexity needed to propagate consensus changes.  
+2025-04-18 Fri: This week, I implemented a fix for the view change issue that occurred during the updateConsensusInformation function call. Previously, this call could interrupt the leader’s signature collection process, leading to an unintended view change. The patch ensures smoother consensus updates without disrupting the leader’s operation. Additionally, I refactored the interaction between the consensus and synchronization processes.
+  
+The synchronization logic now supports applying multiple blocks at once and invokes updateConsensusInformation automatically after block insertion. This streamlines the update flow and reduces the interface complexity needed to propagate consensus changes.  
 
 ---
 
-2025-04-11 Fri:
-- This week, progress on the upgrade to version 1.10 reached approximately 50%. Key updates include the addition of the BASEFEE opcode, implementation of Access List support, and integration of several PRs adjusting opcode pricing. These changes are essential steps toward aligning with upcoming protocol specifications and improving overall performance.
-- Additionally, enhanced logging was introduced to improve visibility into the view change process during epoch transitions. Although I haven’t been able to reproduce the reported issue locally, the added logs should provide better diagnostics and help track down the root cause if it reappears.
+2025-04-11 Fri: This week, progress on the upgrade to version 1.10 reached approximately 50%. Key updates include the addition of the BASEFEE opcode, implementation of Access List support, and integration of several PRs adjusting opcode pricing. These changes are essential steps toward aligning with upcoming protocol specifications and improving overall performance. Additionally, enhanced logging was introduced to improve visibility into the view change process during epoch transitions. Although I haven’t been able to reproduce the reported issue locally, the added logs should provide better diagnostics and help track down the root cause if it reappears.
 
 --- 
 
-2025-04-04 Fri:
-- Launched devnet testing for the update to Ethereum source code version 1.9.
-- Devnet and testnet have been updated to the latest development version. The release branch has been tagged. Currently preparing the release build.
-- Upgraded the Ethereum codebase to version 1.10, affecting approximately 25% of the total codebase. This update includes the Berlin and London network upgrades.
+2025-04-04 Fri: Launched devnet testing for the update to Ethereum source code version 1.9. Devnet and testnet have been updated to the latest development version. The release branch has been tagged. Currently preparing the release build.
+Upgraded the Ethereum codebase to version 1.10, affecting approximately 25% of the total codebase. This update includes the Berlin and London network upgrades.
 
 ---
 
