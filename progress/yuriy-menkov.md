@@ -1,15 +1,10 @@
 2025 Q2 Review
 
-Advanced analytics and research on yield strategies. Collected and analyzed extensive statistics across USD and BTC pools (Aerodrome, Beefy, SwapX, Shadow, Spectra). Developed multiple scripts to calculate APR, impermanent loss, and time-in-range per wallet. Built datasets with over 50,000 positions. Exported and organized raw data from subgraphs and contract events. Grouped LP strategies by parameters (cutoff, buffer, rebalancing gap), including VFAT and Ichi Vaults.
+Advanced analytics and research on yield strategies. Collected and analyzed extensive statistics across USD and BTC pools (Aerodrome, Beefy, SwapX, Shadow, Spectra). Developed multiple scripts to calculate APR, impermanent loss, and time-in-range per wallet. Built datasets with over 50,000 positions. Exported and organized raw data from subgraphs and contract events. Grouped LP strategies by parameters (cutoff, buffer, rebalancing gap), including VFAT and Ichi Vaults. Shadow and VFAT strategy tracking services. Launched shadow-pool-analytics with real-time wallet stats and APIs. Built backend tools (NestJS + Swagger) for LP tracking and rebalancing analysis.
 
-Shadow and VFAT strategy tracking services. Completed a shadow-pool-analytics service to monitor wallet-level LP stats. Added APIs with real-time data on positions and wallets. Created backend tools (NestJS + Swagger) to assess impermanent loss and rebalancing behavior. Built tooling to map strategy parameters to positions via contract 
-events.
+Estimated APR sources for high-yield Aerodrome pools (cbBTC/USDC, cbBTC/WETH). Separated APR sources: trading fees, staking rewards based on contracts events. Created API to track pool shares and dynamic yield. Explored delta-neutral BTC strategies with Theo & Artem; initiated integration plans with Hyperliquid perps and CLI MVP spec.
 
-APR and performance estimation for Aerodrome pools. Analyzed cbBTC/USDC and cbBTC/WETH pools with over 100% advertised APR. Separated APR sources: trading fees, staking rewards based on contracts events. Built api servicer to track user's pool shares and expected yield dynamically. 
-
-Started work on delta-neutral and delta-hedge strategy. Collaborated with Theo and Artem on delta-hedged BTC strategies. Researched integration with Hyperliquid perps for impermanent loss hedging. Drafted CLI MVP spec and planned architecture for Aerodrome + Hyperliquid integration. Built early testing scenarios and reviewed codebases.
-
-Bridge and LayerZero improvements. Fixed major issues in the Unify Bridge related to stuck assets and contract mismatches (e.g. $AXS, USDC.e). Redeployed contracts and updated frontends. Researched BSC RPC alternatives. Started debugging of LayerZero V2 universal bridge contract with auto-deploy logic and dynamic token mapping.
+Improved bridging: resolved stuck assets and redeployed contracts (e.g. $AXS, USDC.e) for Unify Bridge. Researched BSC RPCs and began debugging LayerZero V2 universal bridge with dynamic token mapping.
 
 ---
 
