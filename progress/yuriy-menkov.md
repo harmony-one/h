@@ -13,7 +13,11 @@ Bridge and LayerZero improvements. Fixed major issues in the Unify Bridge rela
 
 ---
 
-2025-06-24 Tue: Finished deploying Snapshot X contracts on the Harmony chain. Currently working on setting up and integrating the remaining services — frontend and backend.
+2025-06-26 Thu: Worked on adding Harmony chain support to the indexer service and graphQL api. Set up the indexer deployment. Synced with Theo regarding [custom](https://docs.snapshot.box/snapshot-x/protocol/voting-strategies) voting strategies for validators - the working approach seems to be extending the on-chain whitelist strategy contract, with the validator list being stored via a contract method call.
+
+2025-06-25 Wed: Added support for the Harmony chain to the UI frontend repository. Deployed a [demo](https://sx-harmony.web.app/#/explore?p=snapshot-x&n=harmony) version of the frontend. Currently, the available functionality is limited to creating new spaces using four strategies. Displaying the created spaces requires an indexer and API, which are still being configured and deployed.
+
+2025-06-24 Tue: [Finished](https://github.com/harmony-one/sx-evm/blob/main/deployments/harmony.json) deploying Snapshot X contracts on the Harmony chain. Currently working on setting up and integrating the remaining services — frontend and backend.
 
 2025-06-23 Mon: Researched SnapshotX repositories and documentation. Checked these two repos: [sx-monorepo](https://github.com/snapshot-labs/sx-monorepo) and [sx-evm](https://github.com/snapshot-labs/sx-evm) to evaluate the possibility of deploying and configuring them on the Harmony side. It looks like some interface tweaking will be required, but overall, everything should work out of the box.
 
