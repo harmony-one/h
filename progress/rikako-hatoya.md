@@ -12,6 +12,8 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-25 Wed: [Created](https://github.com/rikaa15/portfolio-manager/tree/options) backtest for simulating options position following Aaron's strategy. Implemented Black-Scholes model for options pricing, integrated real LP pool data, time decay, and simulation for more controlled scenario.
+
 2025-06-24 Tue: Catch up with aerodrome/hyperliquid backtest so far and review of Aaron's strategy for adding options position. Continued debugging verifying EIP signature is correct and doesn't seem to be region restriction.
 
 2025-06-23 Mon: Compiled list of options trading platforms. Further tried debugging the derive API issue, indeed the internal error still persists, nudged the derive team again for support.
