@@ -6,7 +6,11 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 
 ---
 
-2025-06-24 Tue: Sync with Theo on Q2 video and the upcoming report. Thread on 5.country + design of a graphic. Insight for the tweet: In training robot fingers, precision isn’t mastery...dexterity emerges through real-world contact, where errors aren’t bugs but building blocks for intuition.
+2025-06-26 Thu: Prepartion of Q2 newsletter, reviewing team's progress updates and piecing together the article. 
+
+2025-06-25 Wed: [Promotion](https://x.com/harmonyprotocol/status/1938092244940321043) of FlappyH1. Creation of 5.country graphics in prepartion for the Q2 newsletter.
+
+2025-06-24 Tue: Sync with Theo on Q2 video and the upcoming report. [Thread](https://x.com/harmonyprotocol/status/1937623040134988124) on 5.country + design of a graphic. Insight for the tweet: In training robot fingers, precision isn’t mastery...dexterity emerges through real-world contact, where errors aren’t bugs but building blocks for intuition.
 
 2025-06-23 Mon: Writing and tweeting the [progress thread](https://x.com/harmonyprotocol/status/1937362764621922365). Review of team's Q2 progress and beginning to write the introduction. 
 
