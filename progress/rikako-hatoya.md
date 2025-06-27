@@ -12,6 +12,8 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-26 Thu: Opened position on Aerodrome USDC-cbBTC and started testing Theo's PR, [added](https://github.com/harmony-one/portfolio-manager/pull/19) some minor things, will come back to testing strategy. Also, sync with Theo.
+
 2025-06-25 Wed: [Created](https://github.com/rikaa15/portfolio-manager/tree/options) backtest for simulating options position following Aaron's strategy. Implemented Black-Scholes model for options pricing, integrated real LP pool data, time decay, and simulation for more controlled scenario.
 
 2025-06-24 Tue: Catch up with aerodrome/hyperliquid backtest so far and review of Aaron's strategy for adding options position. Continued debugging verifying EIP signature is correct and doesn't seem to be region restriction.
