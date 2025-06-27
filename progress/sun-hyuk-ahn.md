@@ -4,6 +4,28 @@ In Q2, I implemented EIP-2718, which introduces typed transactions to support th
 
 ---
 
+2025-06-26 Thu:
+
+2025-06-25 Wed: Made updates to the consensus layers regarding outdated packages. Analyzed areas that can be updated regarding the core logic. 
+
+2025-06-24 Tue: Ran security operations including password rotation, server audit, and instance access review. Updated internal runbook for updates nodes.
+
+2025-06-23 Mon: Analyzed bootnode outage issue. Updated ansible scripts to fix the issue, related to the latest release.
+
+---
+
+2025-06-20 Fri: Continued work on p2p protocol logic.
+
+2025-06-19 Thu: Reviewed internal libp2p codebase structure and evaluated required modules for integration.
+
+2025-06-18 Wed: Set up local environment for libp2p experimentation. Ran initial tests with noise and yamux protocols.
+
+2025-06-17 Tue: Reviewed PRs related to stream sync and the current development.
+
+2025-06-16 Mon: Researched into libp2p, used as the underlaying layer for our protocol.
+
+---
+
 2025-06-13 Fri: Sick day off
 
 2025-06-12 Thu: Analyzed testnet and devnet down issue. Downtime only resulted for ~15 mintues. Found the core cause due to interruption in the European Hetzner server building.
@@ -22,7 +44,7 @@ In Q2, I implemented EIP-2718, which introduces typed transactions to support th
 
 2025-06-04 Wed: Analyzed and fixed dot country mail system bug.
 
-2025-06-03 Tue: 
+2025-06-03 Tue: 2025-06-03 Tue: Finalized testing of v2025.1.1 on Testnet. Verified consensus stability and cross-shard transaction flow.
 
 2025-06-02 Mon: Launched v2025.1.1 on Testnet. Will test for stability.
 
