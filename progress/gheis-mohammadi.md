@@ -1,3 +1,13 @@
+2025-06-28 Sat: Last week, I focused on improving diagnostics and connection stability for **boot nodes** and **P2P stream multiplexers**.
+
+To make debugging easier, I created [PR #4918](https://github.com/harmony-one/harmony/pull/4918), which logs the **negotiated muxer** (either Yamux or Mplex) used for each connection. Harmony supports multiple stream protocols and fallback mechanisms, and this visibility helps us isolate stream issues and better trace the muxer issues.
+
+Building on that, I also submitted [PR #4919](https://github.com/harmony-one/harmony/pull/4919), which **prioritizes Yamux** during stream negotiation while retaining Mplex for legacy compatibility. Yamux offers more stable performance and is recommended in modern libp2p deployments. This update aligns us with current best practices without breaking existing peer connections.
+
+Overall, **streamnet** which fully utilize stream sync, have remained mostly stable. Nodes that fall behind are able to **recover after a restart**, which is a major improvement. We're continuing to monitor the network and investigate occasional syncing stalls. These changes to muxer handling are expected to further improve sync reliability across the network.
+
+---
+
 2025 Q2 Review
 
 In Q2 2025, we successfully finalized and deployed the `2025.1.1` Harmony release to mainnet, marking a major milestone. This release brought critical improvements to consensus, bootnode stability, and the P2P layer, alongside better logging, reduced resource usage, and various bug fixes. Ahead of the mainnet rollout, we carefully tested the new muxer configuration on testnet using a hybrid approach across bootnodes, ensuring smooth integration and reliable peer connectivity under realistic conditions.
