@@ -4,6 +4,8 @@ Q2 was entirely driven by identifying the problems of liquidity pools and the la
 
 My current solution is an automated hedged farming strategy with manual range selection. The script tracks Token balances in the LP and opens equivalent hedges once the position moves out of range. This way, strong price movements are caught while avoiding a potentially malicious rebalancing.   After the deposit, the entire process is automated and integrates with Sadow Exchange as well as Sonic and using price data from Coingecko. I coded the Python script with Cursor after learning the foundations of LLM-based development (vibe coding). The script has been tested successfully and currently runs on a virtual machine for performance testing.
 
+---
+
 2025-06-22: The S/BTC strategy script has been completed and tested successfully after several tweaks to the calculation logic. I sought opportunities to run the script on a server to minimize network interruptions for extended performance testing. The script tracks the LP deposit on Shadow exchange, identifies range breaks and triggers equivalent market orders to hedge the asset exposure and catch deviation of both (Pair trade). 
 
 ---
