@@ -2,7 +2,7 @@
 
 This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the Colossus integration rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
 
-I highlighted protocol updates, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
+I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
 
 ---
 
