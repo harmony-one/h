@@ -8,6 +8,10 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 
 ---
 
+2025-06-27 Fri: reviwed and merged Frank's [pull request](https://github.com/harmony-one/portfolio-manager/pull/18) with custom Uniswap price range backtesting. Continue testign and improvement of BTC hedging strategy, APR stays above 32% with increased LP position size ($192).
+
+2025-06-26 Thu: added improved statistics to calculate total returns and APR based on the LP fee returns and Hyperliquid realized and unrealized PnL
+
 2025-06-25 Wed: reviewed and merged Frank's [pull request](https://github.com/harmony-one/portfolio-manager/pull/15) with Aaron strategy backtesting script update; continue real-time monitoring and [improviong](https://github.com/harmony-one/portfolio-manager/commit/4d2484b73dc4958e0b67d9b8b48f7ad079f907f8) hedging strategy.
 
 2025-06-24 Tue: continue LP rebalancing, [fixed](https://github.com/harmony-one/portfolio-manager/commit/3d8415aa5ef715799de12c05c956b0d8a712c33b) position closing logic. Started testing strategy performance with larger amounts.
