@@ -1,3 +1,7 @@
+2025-6-26 Thu (0.1h): Main trading logic dispatcher and task control.
+
+---
+
 2025-6-22 Sun (2.0h): Main trading logic, verification, execution.
 
 2025-6-21 Sat (0.4h): Main trading logic, verification, execution.
@@ -11,6 +15,8 @@
 2025-6-17 Tue (0.1h): Deribit position persistence; Hyperliquid real-time position and price tracking.
 
 2025-6-16 Mon (3.2h): Discussion on LP strategy risks, performance, implemention. Deribit position and solvency tracking.
+
+---
 
 ---
 
@@ -28,6 +34,8 @@
 
 ---
 
+---
+
 2025-6-7 Sat (1.1h): Collecting historical data for BTC strategy backtesting.
 
 2025-6-6 Fri (5.4h): Collecting historical data for BTC strategy backtesting. Fix minor issues with Zodiac Roles setup. Extending Zodiac defi-kit for operations on Shadow and Sonic. Debug and test in production end-to-end.
@@ -42,6 +50,8 @@
 
 ---
 
+---
+
 2025-5-29 Thu (4.2h): Discussions on BTC LP strategy, simulation, backtesting. Review proposed BTC LP strategies and perpetual hedging strategies. Finalize BTC LP strategy spec (option positions moneyness, scenario analysis, tracking).
 
 2025-5-28 Wed (5.5h): BTC LP strategy spec revision (option per-day cost, strike price strides, unbalanced exposure parameters, points of potential losses). Discussion on BTC LP strategies.
@@ -50,6 +60,8 @@
 
 2025-5-26 Mon (5.9h): Trading bot based on LP and perp strategies. Trading bot based on live funding rates. Funding rate with historical price query.
 
+
+---
 
 ---
 
@@ -69,6 +81,8 @@
 
 ---
 
+---
+
 2025-5-18 Sun (1.4h): Research on Diamond structure, usage in Pendle routing, and facets. Implementing initial simple execution logics, document future plans for diamond-based, single contract implementation.
 
 2025-5-17 Sat (3.1h): Fix issues in config and integration with platforms (Euler, Beefy, Penpie, Pendle PT). Decouple asset holding and exiting execution, allow approve-only exit instead of holding investment positions.
@@ -82,6 +96,8 @@
 2025-5-13 Tue (3.4h): Revise emergency exit smart contracts (Beefy). Fix notes on Pendle regarding LP token removal. Improve notes on Pendle, Penpie, Euler on possibility and steps for contracts to act on behalf of holder.
 
 2025-5-12 Mon (7.4h): Revise emergency exit smart contracts (Pendle, Penpie). S delta-neutral hedging strategies. Review BTC yields and strategies.
+
+---
 
 ---
 
@@ -101,6 +117,8 @@
 
 ---
 
+---
+
 2025-5-4 Sun (1.3h): Generalizable LP rolling unrealized and realized profit analysis and reporting. Beefy vault LP adaptation. End-to-end analysis on selected vaults.
 
 2025-5-3 Sat (4.9h): Debugging Beefy LP profitability analysis. Analyze vault return discrepancies.
@@ -114,6 +132,8 @@
 2025-4-29 Tue (2.9h): Review Magic Internet Money (abracadabra.money) and yield.
 
 2025-4-28 Mon (4.8h): Evaluate proposed yield candidates and allocations. Implement tools to compute and visualize implied yield statistics for some Pendle yield derivatives
+
+---
 
 ---
 
@@ -131,6 +151,8 @@
 
 ---
 
+---
+
 2025-4-19 Sat (0.9h): Evaluate top candidates for stable yield. Planning for analytics and management tools.
 
 2025-4-18 Fri (1.4h): Evaluate top candidates for stable yield. Planning for analytics and management tools.
@@ -142,6 +164,8 @@
 2025-4-15 Tue (3.5h): Review proposed stablecoin strategies, analysis, and results. Discuss stablecoin strategies.
 
 2025-4-14 Mon (5.8h): Review proposed stablecoin strategies, analysis, and results. Review stable strategy yield comparison analysis. Research on Convex and related yield strategies. Review stable strategy yield comparison analysis.
+
+---
 
 ---
 
@@ -161,6 +185,8 @@
 
 ---
 
+---
+
 2025-4-6 Sun (4.0h): Detailed review on Veda vault adoption, security, and code. Evaluate funding rate based yield strategies.
 
 2025-4-4 Fri (6.3h): Review and analysis on Penpie, past exploit, current security and asset custody. Analysis on Hyperliquid liquidation pricing, dynamics, and different margin requirements.
@@ -172,6 +198,8 @@
 2025-4-1 Tue (5.6h): Review vfat configurations and auto rebalancing in depth. Review EIP-5115 standard for wrapping yield-generating otkens, Berachain, MegaETH, Fluid Protocol. Review specific pool and liquidity issues on Spectra. Research on Spectra liquidity pool curves and invariants. Review and discuss automated vault parameters and performance for stablecoin pairs.
 
 2025-3-31 Mon (5.2h): Review Vicuna exploit, aUSDC yield and alternatives, principal token pricing, Spectra. Research on Sommelier architecture and integration, compared with Stability.
+
+---
 
 ---
 
@@ -191,11 +219,15 @@
 
 ---
 
+---
+
 2025-3-21 Fri (3.3h): Research on stablecoin and Bitcoin yield on-chain products and cards
 
 2025-3-18 Tue (0.5h): Research on stablecoin and Bitcoin yield on-chain products and cards. Review socket integration guide, issues with patching bridge, Shadow staking performance and opportunities
 
 2025-3-17 Mon (0.3h): Research and discuss token batch approval
+
+---
 
 ---
 
@@ -215,6 +247,8 @@
 
 ---
 
+---
+
 2025-3-8 Sat (1.7h): Review Harmony Java SDK universal address support implementation. Experiment with loss-versus-rebalancing code, review product implementations and industry analysis
 
 2025-3-7 Fri (3.4h): Review loss-versus-rebalancing research and references in product documentations. Debug and fix UniswapX deployment issues, and discuss
@@ -226,6 +260,8 @@
 2025-3-4 Tue (2.2h): Experiment with LP and vault products. Discussions on defi automation mechanisms and needs.
 
 2025-3-3 Mon (4.2h): Experiment with LP and vault products. Review vault automation codes and research in loss versus rebalancing. Review and experiment with LP and vault products. Review vault automation codes, deployments, and research in loss versus rebalancing. Discussion on rebalancing tools, UniswapX deployment and issues. Research on automated rebalancers and liquidity provisioning practices
+
+---
 
 ---
 
@@ -245,6 +281,8 @@
 
 ---
 
+---
+
 2025-2-23 Sun (0.3h): Deep dive on loss-versus-rebalancing and automated market maker papers
 
 2025-2-22 Sat (0.3h): Deep dive on loss-versus-rebalancing and automated market maker papers
@@ -258,6 +296,8 @@
 2025-2-18 Tue (6.6h): Make staking dashboard changes reprodicble. Automated scripts for patching staking dashboard dependencies post-installation. Add new yarn commands for fast local installation and testing. Debug and implement staking dashboard ledger integration for all ledger devices compatible with new and old accounts using Harmony-specific derivation paths. Test end-to-end and finalize the integration. Resolve babel, typescript, webpack transpile and compatibility issues and patch out-of-maintanence dependency files. Discuss findings
 
 2025-2-17 Mon (12.7h): Debug and implement staking dashboard ledger integration for all ledger devices compatible with new and old accounts using Harmony-specific derivation paths. Test end-to-end and finalize the integration. Resolve babel, typescript, webpack transpile and compatibility issues and patch out-of-maintanence dependency files. Discuss findings
+
+---
 
 ---
 
@@ -275,6 +315,8 @@
 
 ---
 
+---
+
 2025-2-9 Sun (0.5h): Discussions on TODOs for Pump.ONE, vault, and USDC converter
 
 2025-2-5 Thu (2.4h): Code review and discussions on Ledger integeration, math proof, vault, Uniswap v4 requirement
@@ -287,7 +329,11 @@
 
 ---
 
+---
+
 2025-2-2 Sun (0.9h): Review EIP implementation plans and issues. Domain management, Eliza plugin updates, and upgradable pump.ONe contracts
+
+---
 
 ---
 
@@ -298,6 +344,8 @@
 2025-1-24 Fri (0.5h): Review on EIP 1153 (trasient storage), EVM changes, and tests
 
 2025-1-23 Thu (0.5h): Domain operations, batch renewal and refine automation process
+
+---
 
 ---
 
@@ -315,6 +363,8 @@
 
 ---
 
+---
+
 2025-1-11 Sat (0.66h): Review vault code updates
 
 2025-1-9 Thu (5h): Review Java SDK. Detailed review and discussions on yield APY calculation. Review yield enhancer client code, some server code
@@ -325,11 +375,17 @@
 
 ---
 
+---
+
 2025-1-3 Fri (3h): Domain auto-renewal check up and reset. Reconfigure special domains. Review recent implementations and updates. Review research on formalization and proof automation.
 
 ---
 
+---
+
 2024-12-23 Mon (1.6h): Discussion on yield generation vault and defi implementations. Review plans and updates
+
+---
 
 ---
 
@@ -342,6 +398,8 @@
 2024-12-18 Wed (5.1h): Review of contributors goals, videos, prepare, edit, finalize 2025 video. Review Q4 summaries, detailed work log, actual contributions
 
 2024-12-16 Mon (0.5h): Review of goals and roadmap
+
+---
 
 ---
 
@@ -367,6 +425,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-12-8 Sun (2h): Debug and fix foundry test issues for pumpone end-to-end flow
 
 2024-12-7 Sat (3.8h): Fix issues with liquidity provisioning and fee calculation on pumpone
@@ -381,6 +441,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-11-27 Thu (0.9h): Discuss and review integration methods, and internal code for Uniswap v3 pool and position manager
 
 2024-11-27 Wed (1.3h): Review recovery progress, update burner configs, stats, charts, resume operation
@@ -388,6 +450,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-11-26 Tue (0.3h): Review AI bot options for meme coin launchpad
 
 2024-11-25 Mon (0.5h): Discussion on meme coin launchpad pre-launch issues
+
+---
 
 ---
 
@@ -407,6 +471,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-11-15 Sun (4.1h): Pano: burn positions flow end-to-end, and low-level functions implementation
 
 2024-11-15 Fri (7.1h): New bonding curve contract. Deriving and verifying math inconsistency between bancor bonding curve code, formula, and power function. Discussion on treasury yield vault implementation, and Pano CLI mode review comments. Pano: finalized review and revision on CLI mode.
@@ -419,6 +485,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-11-7 Thu (0.6h): Review meme launchpad contract changes
 
 2024-11-6 Wed (2.2h): Research and discussion on crypto investment AI Agent. Discussion offline interview question. Pano CLI mode code review.
@@ -426,6 +494,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-11-5 Tue (0.9h): Test and discuss memecoin launchpad
 
 2024-11-4 Mon (0.6h): Pano task planning, discussions, debugging developer setup
+
+---
 
 ---
 
@@ -440,6 +510,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-10-29 Tue (2h): RPi RPC node setup, custom build, and database operation. Pano: buying and selling power estimate, burn a position
 
 2024-10-28 Mon (4.5h): Discussion on work progress of bonding curve, meme launchpad contracts, frontend and backend. Pano: new developer setup instructions. RPi RPC node setup, custom build, and database operation. Pano: specify tasks for Telegram app and direct CLI execution. Pano: Finalize portofolio value computation. Fix issues with infinite rendering. Debugging and implementing unpacking logics for packed signed-integer data. Restructure submenus.
+
+---
 
 ---
 
@@ -459,6 +531,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-10-20 Sun (0h): (ETHGlobal Hackathon)
 
 2024-10-19 Sat (0h): (ETHGlobal Hackathon)
@@ -472,6 +546,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-10-15 Tue (4.7h): Draft and discussion on Harmony state of DeFi projects under development and in production. Foundry buggy command debugging. Research and analysis on building Raspberry Pi 5 based validator and RPC nodes, and research and comparisons with barebone server options. Discussion on token launchpad code and project timelines. Discussion and research on RPC physical machine, and Ledger app local development issue.
 
 2024-10-14 Mon (2.5h): Farming strategy review, research and discussions. Cast and RPC contract deployment transaction debugging. Panoptic v1.0 pool code review and analysis
+
+---
 
 ---
 
@@ -491,6 +567,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-10-06 Sun (3.1h): Discussion on defi projects, progress, and stablecoin. Pano: debugging in-the-money margin calculation and position value. Stuck funds debugging and recovery.
 
 2024-10-05 Sat (1.0h): Pano: debugging in-the-money token id transansformation
@@ -504,6 +582,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-10-01 Tue (5.6h): Analyze portfolio value calculation, collateral checking helper, and liquidation helpers. Review, analyze, discuss progress, code commits, and quaterly updates
 
 2024-09-30 Mon (7.5h): Pano: profit and loss implementation and debugging. Debug signing keys for Ledger app. Quick doc review on Orca, Wormhole, Jupiter bridge, Graph cloud hosting, Uniswap subgraph
+
+---
 
 ---
 
@@ -523,6 +603,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-09-22 Sun (1.3h): Pano: implement tools to parse token id into position, parse position on-chain scan result, add scan interrupt functionality, make scan duration and block numbers customizable, improve ui
 
 2024-09-21 Sat (2.3h): Pano: implement tools to parse token id into position, parse position on-chain scan result, add scan interrupt functionality, make scan duration and block numbers customizable, improve ui
@@ -536,6 +618,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-09-17 Tue (4.4h): Pano: end-to-end testing of buying options, implement common trading flows. Debugging InputListFail error. Implement error code printing utility. Pano: debug and fix issues related to local database operations
 
 2024-09-16 Mon (4.0h): Discussion on promotional technical materals. Pano: implement common trading flows
+
+---
 
 ---
 
@@ -553,6 +637,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-09-08 Sun (1.9h): Pano: debugging tick spacing issues, strike price revert error and format
 
 2024-09-07 Sat (6.4h): Pano: end-to-end option minting testing and bug fixes. Design and implement quote-base asset selection, input, and display. Reimplement some components in sell flow using that, and fix bugs in end-to-end testing. Review corresponding smart contract logic again, write notes for amount and asset type parameters, and revise code.
@@ -564,6 +650,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-09-04 Wed (1.1h): Review progress and meeting notes. Test Pano and reproduce Panoptic setups on different machines and fix issues with scripts
 
 2024-09-03 Tue (5.5h): Discussion on Youtube video view API and TODOs for GMX v2 regarding adding new tokens and liquidations. Review protocol boot node RPC patch. Review separate Panoptic pool deployment script, debug and discuss issues. Synth oracle using Uniswap and time-weighted average price. Pano: pool id and pool address converter, encoding pool id in storage key to make pool-specific positions searchable through range scan, revisiting pool id and address related contracts.
+
+---
 
 ---
 
@@ -581,6 +669,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-08-25 Sun (5.8h): Pano: deposit - end to end flow except final step and balance query functions. Pano: balance queries, writable client debugging, approval and deposit transaction flow implementation, more error handling on deposit
 
 2024-08-24 Sat (6.1h): Pano: Wallet client, context, provider implementation with decoupled setters for use in hooks. Simplify error handling in commands. Design and implement notification system for sticky, colored, stackable, and transient success and error messages. Fix bugs in notification system and use everywhere. Add menu title boxes to clarify user flow
@@ -592,6 +682,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-08-21 Wed (1.6h): Review 1SY updates. Review progress and discussion notes. Review devops costs and reduction opportunities
 
 2024-08-19 Mon (5.6h): Fix duplicated client instantiation for each hook in Panoptic command-line-interface. Revised type interfaces for better error handling and prevention. Implement error handling and early-stop for invalid input or output. Implement price calculation and conversion from Uniswap internal format. Add user command prompt components and fix display output errors. Roadmap discussions. Research on smart contract vaults, oracles.
+
+---
 
 ---
 
@@ -607,6 +699,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-08-11 Sun (4h): Panoptic command-line-interface - continued. Setting up pool and contract instances, reading basic statistics, fix type system issues
 
 2024-08-10 Sat (1.1h): Panoptic command-line-interface - continued, fix bugs with hooks, make network selection dynamic, research on MetaMask SDK and integration methods through CLI
@@ -619,11 +713,15 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-08-02 Fri (1.7h): Review Panoptic simulation report
 
 2024-07-30 Tue (1.5h): Pantopic semi-fungible position manager math and state variablesanalysis. Domain management and DNS record setting implementation planning. Uniswap v3 SDK review.
 
 2024-07-29 Mon (3h): GX liveness and safety review. Discussion on Keeper, watcher, oracle update mechanisms, and potential monitoring dashboard. Quick evaluation on progress and code quality. Pantopic semi-fungible position manager review
+
+---
 
 ---
 
@@ -638,6 +736,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-07-23 Tue (7.5h): Debugging Synthetix ProxyERC20 and SNX token source. Debugging SNX oracle. Security audit on GX. Fix sites failed to auto-renew SSL. Fix URL redirect configuration endpoint bug which left residual CNAME record and prevents redirections taking effect. Fix domain manager API path which prevents CNAME and redirect configuration from functioning. Fix notion page URL configuration and parsing bug in page manager. Migrate new special domain. Write lending market operation and security guide
 
 2024-07-22 Mon (0.9h): Band oracle reader production debugging
+
+---
 
 ---
 
@@ -657,6 +757,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-07-14 Sun (0.3h): (Continued)
 
 2024-07-13 Sat (1.7h): Experiment with Cannon build and configuration for Synthetix. Review Cannon tools, upgradeable proxy storage collision avoidance, and related hardhat plugin
@@ -673,6 +775,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-07-07 Sun (1h): Experiment with modified Panoptic. Debugging remapping, foundry
 
 2024-07-05 Fri (1.1h): (Continued) and review derivative articles
@@ -680,6 +784,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-07-04 Thu (1.3h): Revisit Panoptic contracts and derivative variables. Review change of meaning in implied volatility, vega, volatility skew. Experiment with local deployments
 
 2024-07-03 Wed (0.5h): Domain Debugging. Security issue review and confirmation. Review derivative development status and plans
+
+---
 
 ---
 
@@ -699,6 +805,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-06-23 Sun (0.8h): Review Drift, product, and presentation
 
 2024-06-21 Fri (6.2h): Analysis and discussion on landscape and priority, oracles. Examine, compare, review Band and Pyth oracles. Detailed review of Band oracle innerworkings, code, library, contracts, compatibility issues. Review third-party research, comparisons and analysis. Review Pyth documentation, usage, community notes. Review Pods Yield, Olive Network, Hegic. Quick review on KeeperDAO / Rook, Vega, tranched yield products, early versions of Ribbon and Theta vaults, and various projects from 2022.
@@ -710,6 +818,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-06-18 Tue (3.8h):  Security issue script minor fix and manual address and transaction inspections. Domain management utility. Opyn code and history review. Substack preview issue in notion
 
 2024-06-17 Mon (4.6h): Follow up on security incident and impact. Review Perpetual Protocol v2 details. Examine premium domain renewal failures. Review Opyn strategies and recent security issue. Fix DNS record issues, batch renew domains, add options to handle domains in the grace period. Review security incidents that may have impacted ETH^2.
+
+---
 
 ---
 
@@ -727,6 +837,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-06-08 Sat (2.1h): Experiments and discussion on security issue and possible exploits. Review DeFi derivative analysis
 
 2024-06-06 Thu (5.4h): Review virtual automated market maker mechanisms and landscape. Quick review of Hubble, Ribbon Finance, Thetanuts, Rollbit, Floor (NFT) perpetual instrument design. Review and verify staking and security issue impact and resolution. Domain managements for gx.country, gpt.country, and similar ones. Escalate and follow up domain dispute. Review and examine audit and development work of prospective collaborator (SwiftGate, Teller Finance, Titles, Exactly Protocol, veRWA). Review Everything Perpetual and verify mathematical derivations and possible extensions. Quick review of GMX technical analysis, DeFi derivative analysis. Evaluate and verify security issue impact.
@@ -736,6 +848,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-06-04 Tue (5.7h): Review updates, on-chain options development plans. Review Panoptic analysis on LP tokens, delta neutral synthetics and parity analysis. Review onchain option plans, related presentations, EIP 4626 vaults. Reivew dydx evolution and UX review. Revisit perp historical evolutions and theories, price impact and calculations in old and new AMM. Discussion on expertise and familiarity of Panoptic UI and smart contract tasks planning with Alex. Discussion and resolving Chainlink oracle and CCIP deployment issues with Artem for use in Synthetix.
 
 2024-06-03 Mon (2.8h): Review expirationless option analysis and comparison against native perpetual. DNS management for gm.country. Review analysis and products referenced in Three Sigma research on perpetual landscape. Review high frequency trading systems.
+
+---
 
 ---
 
@@ -755,6 +869,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-05-26 Sun (5h): Research and review on Surf exchange and protocol. Revisit Uniswap v3 technical details and analyze relation to options based on Panoptic analogy. Revisit Uniswap v3 paper, mathematics, and implementation.
 
 2024-05-25 Sat (6.5h): Deep dive into Infinity Pool protocol and its mathematics, liquidity reserve mechanisms, option analogy, fixed term and revolving loans. Review Hubble exchange history and design. Quick review on Infinity Pool community discussions and developer topics. Reviewing dydx history and version changes.
@@ -771,6 +887,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-05-19 Sun (3.5h): Review Perp Defi resource list and references. Quick review on Jupiter audits, security, stack, code, portability, and technical specification. Quick review on Birdeye trader data, TradingView integrations, calendar, and unique data sources. Review Jupiter API, research proposals, algorithmic trading discussions. Create notes on Jupiter.
 
 2024-05-18 Sat (2h): Detailed review on design and history of Squeeth and related derivatives, and Jupiter pool design, dollar cost average design and mechanisms. Quick review on Phoenix exchange, orderbook contracts.
@@ -778,6 +896,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-05-17 Fri (3.5h): Detailed review and analysis of Jupiter design, mechanism, pools, and some code.
 
 2024-05-13 Mon (1.5h): Review Jupiter documentation and quick research on mechanisms and code. Analysis on key uncertainties for copy-trading, complete analysis on RPC, and polishing prior sections.
+
+---
 
 ---
 
@@ -795,6 +915,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-05-04 Sat (3.0h): Research and review Einstein Labs and similar platforms. Research, review, and discuss Dune analytics data freshness, curation, delay, and queries. Review uniswap v4 dollar cost average documentation.
 
 2024-05-03 Fri (3.0h): Discussion on copy-trade tasks, arbitrage and price difference issues, data acquisition from Dune and Graph. Review and discuss Dune, The Graph, and RPC methods for implementation options. Experiment and testing Dune analytics queries and delays.
@@ -807,11 +929,15 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-04-25 Thu (1.0h): Discuss and review DeFi plans and Telegram bot products.
 
 2024-04-23 Tue (1.0h): Resolve final issues with nginx SSL + gunicorn deployment. Automate certificate renewal and redeployment. Discussions on defi and infrastructure.
 
 2024-04-22 Mon (3.5h): Evaluate nginx production deployment with gunicorn. Deploy and test end-to-end using nginx with SSL + gunicorn worker production. Discussions on frontend, integration, next stage, and future tasks related to job recommendation. Production server access token credential management with replication commands and examples.
+
+---
 
 ---
 
@@ -827,6 +953,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-04-14 Sun (0.5h): Renew key domains and setup automations. Quick documentation on steps to fix in case of incidents
 
 2024-04-12 Fri (4.5h): (Continued) and basic discussion on retrieval-augmented generation. Recovery discussions on sustainability and proposed solutions. Feedback and detailed evaluation of code and progress of first group
@@ -834,6 +962,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-04-10 Wed (1.5h): Review and feedback on progress of first group. Recovery progress and statistics review. Discussion on plans, rate, sustainability, solutions
 
 2024-04-08 Mon (1.5h): Experiments and end-to-end testing of REST API on candidate recommendation server. Bug fixes. Remove Django sensitive information from repo
+
+---
 
 ---
 
@@ -851,6 +981,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-03-30 Sat (4.0h): Prompt design for job matching from a pool of candidates. Review Claude SDK, documentations, unique designs. Claude and Gemini implementation and initial experiments for response performance. Cost analysis
 
 2024-03-29 Fri (4.5h): Explore workarounds to access Gemini 1.5 via API. Gemini API experimentation with different model versions and test prompts for recommendation. Review Gemini documnetation and SDK. Huggingface data processing and sampling for resume and hiring data. Basic scaffolding for backend
@@ -865,11 +997,15 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-03-24 Sun (4.0h): Review survey on integration of language models in existing recommendation systems, and roles that language models played when different techniques are employed
 
 2024-03-20 Wed (0.5h): Debugging and resolving domain registration and certificate issue
 
 2024-03-18 Mon (1.0h): Review, comment, and discuss Bitcoin Swap Farcaster frame implementation. Review Celestia data availability modules
+
+---
 
 ---
 
@@ -884,6 +1020,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-03-13 Wed (2.0h): Review phishing email and potential malicious domain traces. Review Story Protocol and IP discussions. Review and discuss BTC swap Farcaster frame demo and its implementation.
 
 2024-03-11 Mon (0.5h): Batch legacy domain renewal and checkup operations. Certificate maintenance and automation
+
+---
 
 ---
 
@@ -903,6 +1041,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-03-03 Sun (4.5h): Review and research on AI Data tokens, Bitcoin interoperability SDK, Bitcoin Layer 2 systems, and Bitcoin inscription frameworks and projects
 
 2024-03-02 Sat (1.0h): Add option to render SVG to PNG for iOS Warpcast compatibility. Debug sharp compatibility issues with cloud Debian and arm64 architecture. Deploy and test in production. Burner rate update
@@ -914,6 +1054,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-02-28 Wed (3.5h): Review and test fixes for Substack error message. Burner rate and mechanisms update, redeployment. Review and comment on DCReward on-chain minting implementation. Research on Promise pool, implement queued asynchronous minting with fast frame resposne. Review and finalize fixes for Substack error message issues. Review and revise on-chain minting code, metadata, and configurations based on DCReward.
 
 2024-02-26 Mon (0.5h): Analysis and debug of AWS to embedded web service redirect issues and unicode / ASCII encoding issues. Review embedded web service preview generation and special routes
+
+---
 
 ---
 
@@ -931,7 +1073,11 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-02-12 Mon (0.5h): Evaluate and discuss Human Protocol demo apps, suggest features and engineering improvements
+
+---
 
 ---
 
@@ -945,6 +1091,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-02-02 Fri (1.0h): Research on plans and features in human protocol
 
 2024-02-01 Thu (2.0h): Domain renewal documentation and script usage. Refine domain renewal document. Review discussions and progress on new projects on lottery, Telegram bot, inscription, and dot-country changes
@@ -955,6 +1103,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-01-28 Sun (4.0h): Docs for batch certificate renewal, management, access control, and modification guide. Refactor scripts for multi-purpose. Setup certificate management instances and access. Docs for manual certificate renewal for external domain. Renew certificates for key domains
 
 2024-01-25 Thu (0.5h): Discussion and documentation on certificate generation, renewal, management, and processes
@@ -962,6 +1112,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2024-01-23 Tue (2.0h): Review minimal social wallet POC and history. Review paper trading bot. Review partial evaluation implementations in blockchain and smart contracts, and analyze options.
 
 2024-01-22 Mon (2.0h): Legal research and analysis on Clark v. CFTC appellate opinion, injunction, history and applicability of CFTC no-action letters and enforcement practice. Legal analysis on prediction market risks and issues on developing, deploying, operating a platform, and importance of decentralization
+
+---
 
 ---
 
@@ -981,6 +1133,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2024-01-14 Sun (5.5h): Analyze reusable components in SMS Wallet mini-wallet for minimal social wallet and modifications required for inscription use cases. Research and analysis on lottery, contest, sweepstake statute and case laws, and applications in on-chain transactions and inscriptions. Research on calldata limitations and block size historical changes. Quick review and discussions on Safe iOS code and configurations.
 
 2024-01-13 Sat (2.0h): Research on inscription technical development history, use cases, adoption, and minimal social wallet integration and design. Research and discussion on recovery supply issues and bugs in explorer backend for computing supplies
@@ -995,7 +1149,11 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2023-12-11 Mon (5.0h): Draft and publish design and architecture document for personalized response and Twitter integration
+
+---
 
 ---
 
@@ -1019,6 +1177,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2023-12-03 Sun (1.0h): Demonstration and discussions on Kibana client metrics and raw log. Analysis on pull requests and commits.
 
 2023-12-02 Sat (0.5h): Research and discussions on sheet popup sizing and layout control options, limitations prior to iOS 16, alternative libraries and potential impact to build. Review logs and events captured during end-to-end testing of apps
@@ -1031,11 +1191,15 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2023-11-25 Sat (6.5h): Review #260, #262. Devops role and user setup for Kibana and ElasticSearch. End-to-end testing and cluster management for voice app client performance and metric analysis. Perform Apple device check on relay using client submitted device token. Retrieve relay mode and OpenAI base URL from server. Fix attestation caching, key regeneration mechanisms and triggers. Add ways on server to expire an attested key. Allow multiple package ids for hard attestation verification. Bug fixes and end-to-end testing, deployment.
 
 2023-11-24 Fri (7.5h): Review #235, #236, #237, #238, #239, #240, #241, #242, #243, #244 (commented on concern over use of trademark terms and proposed alternative), #245 (press and hold delayed processing - commented on concern over missing input word), #246, #247, #248 (tests on OpenAI streaming - commented on possible improvements on using mock server instead of states that are only useful for tests), #249 (multi-button tap - commented on complexity concern), #251, #252 (performance metric measurements - commented with TODO), #253 (UI action tests - requested additional tests with more depth), #254, #256, #257, #258, #250 (open, transcript export - commented on concern over ineffective filtering), #255 (open). Relay API for performance times and metrics. Refactoring relay APIs and utilities. Client side implementation for TimeLogger. Refactoring device token generation. Creating generic time and performance metric logging and measurement utility.
 
 2023-11-20 Mon (2.0h): Analysis of first response time. Kibana quick setup for Voice AI app. Research on latency improvement plans and alternatives to OpenAI. Review #221, #222, #223, #224, #227, #229, #230, #232, #233, #234.
+
+---
 
 ---
 
@@ -1055,6 +1219,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2023-11-12 Sun (0.5h): Review app payment server and API design and discussions.
 
 2023-11-11 Sat (6.0h): Implement basic key protection in relay with AES encryption, multi-key rotation, device id and ip tracking, ban list, and key retrieval API with rate limit. Implement client side decryption and initialization. Client side bug fixes, end-to-end testing. Deployment on GCP and systemd service with instance metadata as parameter. Setup and build guide. Allow local key override.
@@ -1071,6 +1237,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 
 ---
 
+---
+
 2023-11-03 Fri (0.5h): Review #117. New domain and DNS configuration. Review Linux ML development portability to iOS.
 
 2023-11-02 Thu (1.0h): DNS configurations for lend and Cloudflare issue diagnosis. Lend legal term review. Discussions with security vendors on manual review of swap. Review on-device models and compatibility with iOS devices.
@@ -1080,6 +1248,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2023-10-31 Tue (2.5h): Reimplement for press-to-talk mode, end-to-end debugging and testing. Further research and actions on phishing warning resolutions. Review #93, #95, #97. Fix bugs and crashes related interrupting OpenAI queries. Discussions on present user experience issues and bugs. (Continued) and discussions on on-device work TODOs.
 
 2023-10-30 Mon (5.5h): Review code updates and errors related to OpenAI streaming (#82, #83, #88, #87, #86, #84, 81). Fix OpenAI streaming implementation and integrations, graceful error handling, crash issues in classic Speech Recognition crash issues, various button failures and unexpected responses. End-to-end debugging and testing, and publishing new deployment in Hey Sam. Discuss findings and tasks related to key protection and attestation. Live discussions related to OpenAI streaming issues.
+
+---
 
 ---
 
@@ -1094,6 +1264,8 @@ Stage 3: Once undeniably satisfying user metrics for stages 1 and 2 have been ac
 2023-10-24 Tue (9.0h): Fix issues with streaming ASR error handling, payload parsing, keep-alive, auto-resuming, and closing. Implementing OpenAI streaming response handling, piping ASR to OpenAI, streamed toke nresponse processing. Piping to Speech synthesizer for end-to-end demo. UI Button integration and implementation based on streamed components. Debugging, end-to-end testing of streaming ASR (Deepgram) + LM (OpenAI). Debugging capturing activation for AVCaptureSession and implementing workarounds. Implement basic measures to counter self-interference (pause listening while speaking), fine-tune parameters and sentence delimiting to compare model performance, deploy to TestFlight. Review PlayHT streaming implementation, documentations, models and styles. Resolve merge conflicts. Implement TTS streaming skeleton. Review latest code commits, package dependency sizes. PlayHT basic partial integration, with TODO instructions. Evalaute and experiment with PlayHT models and parameters.
 
 2023-10-23 Mon (6.0h): Complete Deepgram integraiton. Research on audio buffer splitting and joining. Implement and debug stream ASR end-to-end. Research, debug, and fix issues related to native websocket continuous receiving errors, reconnects, and sending errors for various payloads (keepalive, data). Simplify JSON payload parsing and encoding. Research and implementations on audio buffer merging, splitting, metadata retrieval and computation, and raw buffer parsing and manipulation. Debug x.country preview issues, app store app internal user access issues. Discussion on development process, concurrent implementation structure, forks, and merges.
+
+---
 
 ---
 
@@ -1136,6 +1308,8 @@ Review, test, and compare Swift websocket libraries and code. Code review #4 (au
 2023-10-04 Wed: (2.5h) Discussion and analysis on voice product, tech stacks, and use cases. Task planning and work allocation. Speech model performance review. Research on Twilio voice streaming.
 
 2023-10-03 Tue: (5.0h) Personalized task planning. Huggingface models and spaces experimentation (tortoise, coqui, others) . Ad-hoc performance and latency measurements. Domain renewal and functionality technical discussions. ElasticSearch payment statistics code review and discussions. Discussions on voice related hugginface AI models, benchmark, and possible tasks. GCP Vertex AI permission settings and service account. Experiment with commercial XTTS and TTS models.
+
+---
 
 ---
 
