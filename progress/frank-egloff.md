@@ -9,6 +9,9 @@ I completed Uniswap V3 LP backtesting showing 36.18% APR over 1-year historical 
 I maintained and enhanced 1Bot infrastructure by integrating Claude Opus 4 and Sonnet 4 models, updating OpenAI models with o3 and GPT-4.1 variants, and resolving deployment issues on fly.io servers. Database backup and cloning procedures were implemented to address server instability, adding retry cycles for DB and Telegram connections to prevent continuous restarts. Technical support was provided for user-reported issues including Luma command failures and Harmony Bot deployment troubleshooting.
 
 ---
+2025-06-26 Thu: Validated concentration multiplier approach with Artem for Uniswap backtesting position fee distribution. Added price range positioning and rebalancing logic to [Uniswap LP backtesting script](https://github.com/harmony-one/portfolio-manager/pull/18), including compounding APR calculations since rebalancing strategy closes positions, collects fees, and creates new ones. Backtesting now shows Net and weighted APR metrics. Started refactoring Aerodrome backtesting script using validated Uniswap logic.
+
+2025-06-25 Wed: Integrated 10% price range positions into Uniswap LP backtesting script. Encountered blockers with liquidity unit conversions for realistic backtesting accuracy. Determined best approach uses concentration multiplier based on position type percentages rather than complex liquidity unit calculations - scheduled validation with Artem for following day.
 
 2025-06-24 Tue: Implementing 10% price range position to Aerodrome back testing script targeting user interface's 62% APR. Successfully implemented position range calculations and time-in-range tracking. Currently debugging fee calculation discrepancy showing 0.14% APR vs expected 62% - identified issue with comparing USD investment amounts to protocol liquidity units.
 
