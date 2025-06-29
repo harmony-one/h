@@ -12,6 +12,8 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
+2025-06-28 Sat (1.5h): Started working on fixing rewards calculation for Aerodrome. Emissions rewards (in AERO) are straightforward but trading fees have to be estimated, currently working on getting a matching calculation as UI.
+
 2025-06-27 Fri: Continued testing/debugging Theo's Aerodrome PR: currently `app.service.ts` is written for uniswap and needs adapting for Aerodrome, also added more liquidity to my position on Aerodrome since the hedging size was smaller than hyperliquid minimum value. [Fixed](https://github.com/rikaa15/portfolio-manager/commit/52a8cd639bf87661311bb17cfc1d72528ff90f22): token order handling, decimal formatting issue, and skipped fee calculation for now (`getEarnedFees()` and `collectFees()` are both uniswap specific, will implement tomorrow).
 
 2025-06-26 Thu: Opened position on Aerodrome USDC-cbBTC and started testing Theo's PR, [added](https://github.com/harmony-one/portfolio-manager/pull/19) some minor things, will come back to testing strategy. Also, sync with Theo.
