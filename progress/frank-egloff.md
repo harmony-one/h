@@ -1,6 +1,6 @@
 ---
 
-2025 Q2 Review (32 hours)
+2025 Q2 Review (38 hours)
 
 In Q2 2025, I developed DeFi analytics infrastructure for multi-protocol yield tracking and APR calculations across the Sonic ecosystem. I built and deployed the Pendle/Sonic subgraph with RedeemRewards event tracking and entity handlers for PT/YT reward discrimination. Tracking scripts were created for Aave, Beefy, Equilibria, Silo, and Magpie protocols, establishing APR calculation methodologies that matched UI displays. I implemented Balancer v2/v3 yield calculations for Beets tracker, integrating ERC4626RateProvider contracts to handle BEETS rewards and yield-bearing token appreciation.
 
