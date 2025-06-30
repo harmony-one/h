@@ -12,7 +12,7 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
-2025-06-29 Sun (8.0h): Added rewards calculation for trading fees (USDC+cbBTC) and emissions (AERO) [here](https://github.com/rikaa15/portfolio-manager/commit/f9e2c5287aa2dd4e57e485926f7d8c91dd11a36b), displaying fees in USD from coingecko. Debugging of trading fees value: was showing the correct amount earlier but not anymore, we are also defaulting to hardcoded cache value for token prices with coingecko, not sure if we want to keep using hardcoded value.
+2025-06-29 Sun (8.0h): Added rewards calculation for trading fees (USDC+cbBTC) and emissions (AERO) [here](1709af1eae62d1ef51ca5eb46e674d6ae45fcad6), [cleaned some logs](https://github.com/rikaa15/portfolio-manager/commit/f9e2c5287aa2dd4e57e485926f7d8c91dd11a36b), display fees in USD using coingecko. Debugging of trading fees value: was showing the correct amount earlier but not anymore, we are also defaulting to hardcoded cache value for token prices with coingecko, not sure if we want to keep using hardcoded value.
 
 2025-06-28 Sat (1.5h): Started working on fixing rewards calculation for Aerodrome. Emissions rewards (in AERO) are straightforward but trading fees have to be estimated, currently working on getting a matching calculation as UI.
 
