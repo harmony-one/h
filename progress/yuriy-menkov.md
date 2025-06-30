@@ -8,6 +8,12 @@ Improved bridging: resolved stuck assets and redeployed contracts (e.g. $AXS, US
 
 ---
 
+2025-06-30 Mon: Finished improvements for the indexer and API services. Worked on deploying the postgreSQL database and the indexer to fly.io. Started developing a contract with a custom validator voting strategy based on a whitelist strategy contract.
+
+---
+
+2025-06-27 Fri: Paid time off
+
 2025-06-26 Thu: Worked on adding Harmony chain support to the indexer service and graphQL api. Set up the indexer deployment. Synced with Theo regarding [custom](https://docs.snapshot.box/snapshot-x/protocol/voting-strategies) voting strategies for validators - the working approach seems to be extending the on-chain whitelist strategy contract, with the validator list being stored via a contract method call.
 
 2025-06-25 Wed: Added support for the Harmony chain to the UI frontend repository. Deployed a [demo](https://sx-harmony.web.app/#/explore?p=snapshot-x&n=harmony) version of the frontend. Currently, the available functionality is limited to creating new spaces using four strategies. Displaying the created spaces requires an indexer and API, which are still being configured and deployed.
