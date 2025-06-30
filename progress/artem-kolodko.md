@@ -1,4 +1,4 @@
-2025 Q2 Review (33h)
+2025 Q2 Review (35h)
 
 In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing security, high yields, and verified performance. I developed and tested a suite of scripts in the "shadow-scraper" repository to assess the performance of Euler USDC pools, Pendle PT and LP markets, Shadow CL USDC, Silo Finance, and Beefy. I completed detailed analytics and compiled comprehensive statistics on the top five stablecoin pools for investment opportunities.
 
@@ -9,6 +9,8 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 ---
 
 2025-06-29 Sun (2.0h): reviewed latest team progress on adding Aerodrome LP fees calculation support and Uniswap LP 10% range backtesting. Looking at Aaron's LP hedger logic to use some ideas in unified solution, some notes: multicall transactions support for optimized fees, websockets with real-time data.
+
+2025-06-28 Sat (2.0h): validating BTC LP hedging strategy against competitors. Some findings: [GammaSwap protocol](https://gammaswap.com/blog/how-to-profit-from-volatility-with-gammaswap) - require manual actions (no unified solution), Bancor's [Impermanent Loss Protection](https://www.gemini.com/cryptopedia/bancor-network-liquidity-provider-bnt-token) was live until 2022 but was suspended due to market condifitions. More traditional approach: MEV Capital [Impermanent loss hedged LP](https://mevcapital.com/products/impermanent-loss-hedged-lp/) product promising 20% APR, using USDC, ETH, BTC as underlying assets. More information is available upon request.
 
 2025-06-27 Fri: reviwed and merged Frank's [pull request](https://github.com/harmony-one/portfolio-manager/pull/18) with custom Uniswap price range backtesting. Continue testign and improvement of BTC hedging strategy, APR stays above 32% with increased LP position size ($192).
 
