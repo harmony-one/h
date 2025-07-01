@@ -1,5 +1,7 @@
 2025 Q2 Review
 
+Development of [Shadow/Aerodrome](https://github.com/harmony-one/shadow-pool-analytics) positions stats tracker scripts
+
 Advanced analytics and research on yield strategies. Collected and analyzed extensive statistics across USD and BTC pools (Aerodrome, Beefy, SwapX, Shadow, Spectra). Developed multiple scripts to calculate APR, impermanent loss, and time-in-range per wallet. Built datasets with over 50,000 positions. Exported and organized raw data from subgraphs and contract events. Grouped LP strategies by parameters (cutoff, buffer, rebalancing gap), including VFAT and Ichi Vaults. Shadow and VFAT strategy tracking services. Launched shadow-pool-analytics with real-time wallet stats and APIs. Built backend tools (NestJS + Swagger) for LP tracking and rebalancing analysis.
 
 Estimated APR sources for high-yield Aerodrome pools (cbBTC/USDC, cbBTC/WETH). Separated APR sources: trading fees, staking rewards based on contracts events. Created API to track pool shares and dynamic yield. Explored delta-neutral BTC strategies with Theo & Artem; initiated integration plans with Hyperliquid perps and CLI MVP spec.
