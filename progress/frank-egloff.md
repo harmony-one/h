@@ -2,6 +2,8 @@
 
 2025 Q2 Review (38 hours)
 
+Development of [Beefy protocol](https://github.com/harmony-one/shadow-scraper/pull/6) portfolio tracker scripts
+
 In Q2 2025, I developed DeFi analytics infrastructure for multi-protocol yield tracking and APR calculations across the Sonic ecosystem. I built and deployed the Pendle/Sonic subgraph with RedeemRewards event tracking and entity handlers for PT/YT reward discrimination. Tracking scripts were created for Aave, Beefy, Equilibria, Silo, and Magpie protocols, establishing APR calculation methodologies that matched UI displays. I implemented Balancer v2/v3 yield calculations for Beets tracker, integrating ERC4626RateProvider contracts to handle BEETS rewards and yield-bearing token appreciation.
 
 I completed Uniswap V3 LP backtesting showing 36.18% APR over 1-year historical periods and refactored the Uniswap LP service to use contract calls, eliminating subgraph dependencies to enable mainnet to Sepolia support for backtesting scripts. Full price range backtesting was completed for Aerodrome protocol, achieving APR values close to the User Interface amounts. Cross-protocol backtesting capabilities were advanced by building integrated systems combining Aerodrome LP positions with Hyperliquid perpetual hedging strategies. I fixed funding calculation logic for SHORT positions, resolving negative APR issues where positive funding rates generate income for shorts in bullish markets, and implemented Aaron's BTC LP strategy with dynamic hedge sizing based on token ratio deviations.
