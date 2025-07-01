@@ -10,6 +10,8 @@ Overall, **streamnet** which fully utilize stream sync, have remained mostly sta
 
 2025 Q2 Review
 
+**Key Contribution: Release 2025.1.1 – Major Contributor in a Collaborative Effort ( Contributed over 70% of the commits to this successful team release )**
+
 In Q2 2025, we successfully finalized and deployed the `2025.1.1` Harmony release to mainnet, marking a major milestone. This release brought critical improvements to consensus, bootnode stability, and the P2P layer, alongside better logging, reduced resource usage, and various bug fixes. Ahead of the mainnet rollout, we carefully tested the new muxer configuration on testnet using a hybrid approach across bootnodes, ensuring smooth integration and reliable peer connectivity under realistic conditions.
 
 Beyond the release, I focused on hardening P2P networking by addressing gater conflicts, disabling unnecessary libp2p resource managers, and replacing legacy muxers with modern defaults. Stream management also received significant upgrades: trusted peer handling, concurrency fixes, lifecycle tracking, and improved observability made the system more robust and debuggable.
