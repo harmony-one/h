@@ -6,7 +6,11 @@ I also handled on-call responsibilities and reviewed multiple pull requests.
 
 2025 Q2 Review
 
-During Q2 2025, I upgraded the Harmony codebase to include Ethereum Berlin and London updates, released the 2025.1 Harmony version, and integrated cross-platform testing.
+[I upgraded the Harmony codebase to include Ethereum Berlin and London updates](https://github.com/harmony-one/harmony/pull/4915)
+
+During Q1 2025, I focused on improving Harmony’s P2P consensus, EVM execution, gas calculation, and precompiled contract infrastructure. 
+
+I launched a new release that completely removed redundant view-change logic, eliminated overhead from the heavily used getLogger method, redesigned the validator uptime calculation to account for mined blocks, and improved localnet testing to be more portable across platforms.
 
 ---
 
