@@ -1,5 +1,7 @@
 2025 Q2 Review (35h)
 
+Design and [development](https://github.com/harmony-one/portfolio-manager) of BTC Uniswap LP strategy with impermanent loss hedging
+
 In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing security, high yields, and verified performance. I developed and tested a suite of scripts in the "shadow-scraper" repository to assess the performance of Euler USDC pools, Pendle PT and LP markets, Shadow CL USDC, Silo Finance, and Beefy. I completed detailed analytics and compiled comprehensive statistics on the top five stablecoin pools for investment opportunities.
 
 I researched a BTC LP trading strategy, analyzing impermanent loss in BTC investments and utilizing Hyperliquid futures positions as a hedge. I created a backtesting script and a prototype for implementing this trading strategy.
