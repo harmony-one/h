@@ -12,7 +12,7 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 
 ---
 
-2025-06-30 Mon: Continued with debugging trading fees: started showing $0.00 -- found out this is actually correct due to misleading bug in Aerodrome UI, unstaked tokens and will work on verifying trading fees tomorrow. Looked through Aaron's strategy implementation in Python.
+2025-06-30 Mon: Continued with debugging trading fees: started showing $0.00 -- found out this is actually correct due to misleading bug in Aerodrome UI, unstaked tokens and fixed code, now it shows correct trading fees. Looked through Aaron's strategy implementation in Python.
 
 ---
 
