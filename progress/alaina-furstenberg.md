@@ -6,6 +6,18 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 
 ---
 
+2025-07-01 Tue: Continuation of editing Q2 Video in Descript + the design of the thumbnail. Followed up with the team to update their Q2 progress with top relevant link. 
+
+2025-06-30 Mon: Editing of Q2 Video in Descript. Revisions to Q2 newsletter. 
+
+---
+
+2025-06-29 Sun (1.0 hr): Assisting Theo with captions/editing of Q2 video. 
+
+2025-06-28 Sat: Progress thread. 
+
+2025-06-27 Fri: Filming/editing of weekly progress short. Continued editing on Q2 newsletter.
+
 2025-06-26 Thu: Prepartion of Q2 newsletter, reviewing team's progress updates and piecing together the article. 
 
 2025-06-25 Wed: [Promotion](https://x.com/harmonyprotocol/status/1938092244940321043) of FlappyH1. Creation of 5.country graphics in prepartion for the Q2 newsletter.
