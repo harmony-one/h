@@ -18,6 +18,8 @@ Earlier in the quarter, I handled a routing issue in Contabo-hosted devnet/testn
 
 Across the quarter, I supported community validator coordination, tested protocol fixes (including DisablePrivateIPScan), and improved developer tools and CI workflows. These combined efforts helped drive a more stable, observable, and upgrade-ready Harmony network.
 
+https://github.com/harmony-one/harmony/releases/tag/v2025.1.1
+
 ---
 
 2025-06-20 Fri: First of all community work, I was able reach out to the big validators and invite them to the community as a result, we have 70% of validators on the latest release(79% on the shard 0 and 65 on the shard 1). As consequence due to fixes in the consensus, we didn't have any view change in both shards. Hopefully, the rest of the validators will update in the nearest time.
