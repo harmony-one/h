@@ -1,5 +1,7 @@
 2025 Q2 Review (40h)
 
+[Aerodrome LP functionality](https://github.com/harmony-one/portfolio-manager/pull/16)
+
 Created 5 custom yield strategy repositories (initial [btc-hyperliquid-aerodrome](https://github.com/ONETheo/btc-hyperliquid-aerodrome) script, [pendle](https://github.com/ONETheo/pendle) PT yield monitoring, [shadow-lp-analyzer](https://github.com/ONETheo/shadow-lp-analyzer) for profitability analysis, [stablecoin-lp-optimizer](https://github.com/ONETheo/stablecoin-lp-optimizer) for vfat.io parameter optimizations, and [lp-optimizer-v2](https://github.com/ONETheo/lp-optimizer-v2) for liquidity backtesting). Conducted extensive aerodrome tracking with Yuriy, turning 1000+ positions into human-readable, actionable insights. Achieved consistent 50% returns across initial funding rate arbitrage. Optimal 10%+ stablecoin yields achieved through testing and on-chain verifications.
 
 Added [Aerodrome LP functionality](https://github.com/harmony-one/portfolio-manager/pull/16) to portfolio-manager, which supports Uniswap, Hyperliquid, and Aerodrome. Coordination with recovery multisig custodian (RMC) operations and resolved June burn delay, leading to RMC pushing recovery past 32%, 2 additional recovery partner proposals ([CryptoLandDAO](https://talk.harmony.one/t/crypto-land-dao-as-additional-recovery-partner-for-the-harmony-horizon-bridge-hack/26462) & [UtilityDAO](https://talk.harmony.one/t/proposal-utilitydao-recovery-partner-for-harmony-protocol/26467)), and initialized SnapshotX development for Harmony.
