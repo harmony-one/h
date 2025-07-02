@@ -1,22 +1,34 @@
+2025-07-02 Wed:
+
+2025-07-01 Tue: Analyzed Mainnet lagging issue. No consensus lost but a single node was trailing for ~30 mintues. Hotfix regarding the server to prevent the trailing.
+
+2025-06-30 Mon: Ran security operations including password rotation, server audit, and instance access review.
+
+---
+
 2025 Q2 Review
+
+https://github.com/harmony-one/harmony/releases/tag/v2025.1.1
 
 In Q2, I implemented EIP-2718, which introduces typed transactions to support the processing and transmission of multiple transaction formats. This included implementing both legacy transactions and optional access list transactions, enabling users to specify the addresses accessed during execution. I also conducted research into libp2p to explore improvements to the peer-to-peer networking protocol. Continuing from Q2, I plan to focus primarily on contributing to and refining the P2P logic in the upcoming quarter. In parallel with protocol work, I fully transitioned into the DevOps lead role—gaining familiarity with the tech stack, handling security operations, and managing infrastructure. Mainly, we released version v2025.1.1, which improves bootnode stability and refines the consensus logic.
 
 ---
 
-2025-06-26 Thu:
+2025-06-27 Fri: Analyzed areas that can be updated regarding the p2p core logic. 
 
-2025-06-25 Wed: Made updates to the consensus layers regarding outdated packages. Analyzed areas that can be updated regarding the core logic. 
+2025-06-26 Thu: Made updates to the consensus layers regarding outdated packages. 
 
-2025-06-24 Tue: Ran security operations including password rotation, server audit, and instance access review. Updated internal runbook for updates nodes.
+2025-06-25 Wed: Updated internal runbook to updates nodes.
 
-2025-06-23 Mon: Analyzed bootnode outage issue. Updated ansible scripts to fix the issue, related to the latest release.
+2025-06-24 Tue: Analyzed bootnode outage issue. Updated ansible scripts to fix the issue, related to the latest release.
+
+2025-06-23 Mon: Continued work on p2p protocol logic.
 
 ---
 
-2025-06-20 Fri: Continued work on p2p protocol logic.
+2025-06-20 Fri: Reviewed internal libp2p codebase structure and evaluated required modules for integration.
 
-2025-06-19 Thu: Reviewed internal libp2p codebase structure and evaluated required modules for integration.
+2025-06-19 Thu: Federal holiday.
 
 2025-06-18 Wed: Set up local environment for libp2p experimentation. Ran initial tests with noise and yamux protocols.
 
