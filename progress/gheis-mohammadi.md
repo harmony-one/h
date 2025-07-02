@@ -1,4 +1,4 @@
-2025-06-28 Sat: Last week, I focused on improving diagnostics and connection stability for **boot nodes** and **P2P stream multiplexers**.
+2025-06-28 Sat: I focused on improving diagnostics and connection stability for **boot nodes** and **P2P stream multiplexers**.
 
 To make debugging easier, I created [PR #4918](https://github.com/harmony-one/harmony/pull/4918), which logs the **negotiated muxer** (either Yamux or Mplex) used for each connection. Harmony supports multiple stream protocols and fallback mechanisms, and this visibility helps us isolate stream issues and better trace the muxer issues.
 
