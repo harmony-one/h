@@ -4,6 +4,8 @@ This quarter, I focused on consistent marketing—publishing weekly Twitter thre
 
 I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
 
+https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS
+
 ---
 
 2025-07-01 Tue: Continuation of editing Q2 Video in Descript + the design of the thumbnail. Followed up with the team to update their Q2 progress with top relevant link. 
