@@ -1,10 +1,8 @@
 2025 Q2 Review (36 hours)
 
-This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the Colossus integration rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
+This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the [Colossus integration](https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS) rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
 
 I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
-
-https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS
 
 ---
 
