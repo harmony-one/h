@@ -1,3 +1,9 @@
+2025-07-01 Tue: Updated options [PR](https://github.com/harmony-one/portfolio-manager/pull/17) with test moved to spec, finally finished adding trading fees for Aerodrome: cleaned code + made new [PR](https://github.com/harmony-one/portfolio-manager/pull/21), and opened new position on Aerodrome for staking to now verify for emissions (AERO) rewards. Started working on searching for strategy bot repos, similar to ours.
+
+2025-06-30 Mon: Continued with debugging trading fees: started showing $0.00 -- found out this is actually correct due to misleading bug in Aerodrome UI, unstaked tokens and fixed code, now it shows correct trading fees (will PR tomorrow after cleaning code). Looked through Aaron's strategy implementation in Python.
+
+---
+
 **2025 Q2 Review** (60.5 hours)
 
 In Q2, a major focus was the shadow-scraper repo, where I worked on verifying APR calculations across various vaults on the Sonic network. This included cross-validating on-chain data for USDC.e and wBTC/USDC vaults, implementing Pendle reward tracking, and addressing discrepancies in Merkl’s API by parsing RewardDistributed logs directly. I also contributed yield analysis scripts for Spectra, Euler, and Silo vaults, integrating logic for LP fee and fixed PT rewards, and ensuring consistency in .tsv export formats used by the portfolio tracker. A lot of effort went into aligning our APR logic with protocol-specific quirks—like boost mechanics, proxy patterns, and vault token wrappers—to ensure the data we show is accurate and reliable.
@@ -9,12 +15,6 @@ Overall, Q2 was about deepening the portfolio tracker’s coverage—both horizo
 **Relevant Links:**
  - [portfolio-manager](https://github.com/harmony-one/portfolio-manager)
  - [shadow-scraper](https://github.com/harmony-one/shadow-scraper)
-
----
-
-2025-07-01 Tue: Updated options [PR](https://github.com/harmony-one/portfolio-manager/pull/17) with test moved to spec, finally finished adding trading fees for Aerodrome: cleaned code + made new [PR](https://github.com/harmony-one/portfolio-manager/pull/21), and opened new position on Aerodrome for staking to now verify for emissions (AERO) rewards. Started working on searching for strategy bot repos, similar to ours.
-
-2025-06-30 Mon: Continued with debugging trading fees: started showing $0.00 -- found out this is actually correct due to misleading bug in Aerodrome UI, unstaked tokens and fixed code, now it shows correct trading fees (will PR tomorrow after cleaning code). Looked through Aaron's strategy implementation in Python.
 
 ---
 
