@@ -1,3 +1,5 @@
+2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started opening multiple positions in different pools/wallets to test LP Fees work correctly.
+
 2025-07-01 Tue: Updated options [PR](https://github.com/harmony-one/portfolio-manager/pull/17) with test moved to spec, finally finished adding trading fees for Aerodrome: cleaned code + made new [PR](https://github.com/harmony-one/portfolio-manager/pull/21), and opened new position on Aerodrome for staking to now verify for emissions (AERO) rewards. Started working on searching for strategy bot repos, similar to ours.
 
 2025-06-30 Mon: Continued with debugging trading fees: started showing $0.00 -- found out this is actually correct due to misleading bug in Aerodrome UI, unstaked tokens and fixed code, now it shows correct trading fees (will PR tomorrow after cleaning code). Looked through Aaron's strategy implementation in Python.
