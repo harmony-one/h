@@ -10,6 +10,10 @@ Improved bridging: resolved stuck assets and redeployed contracts (e.g. $AXS, US
 
 ---
 
+2025-07-02 Wed: Sync with BTC strategy team. Resolved issues with the snapshot x indexer - added compatibility with harmony chain in the core library (the number of requested logs was adjusted). Setting up deployment on fly.io, there is still a problem with resource limitations, it may be necessary to set up deployment on an aws machine.
+
+2025-07-01 Tue: Synced with Artem regarding the integration of analytics tools with other strategy management services. It was decided to make a number of improvements to provide API in a specific format: custom LP range, backtesting with rebalancing, support of different pools to test. Continue work on custom validator voting strategy contract.
+
 2025-06-30 Mon: Finished improvements for the indexer and API services. Worked on deploying the postgreSQL database and the indexer to fly.io. Started developing a contract with a custom validator voting strategy based on a whitelist strategy contract.
 
 ---
