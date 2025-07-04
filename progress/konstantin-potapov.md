@@ -12,6 +12,9 @@ During Q2 2025, I focused on improving Harmony’s P2P consensus, EVM execution,
 
 I launched a new release that completely removed redundant view-change logic, eliminated overhead from the heavily used getLogger method, redesigned the validator uptime calculation to account for mined blocks, and improved localnet testing to be more portable across platforms.
 
+Validator uptime calculation to account for mined blocks.
+Ulad and I found a major discrepancy between validator uptime on the staking platform and internal Grafana. The platform only counts signed blocks, ignoring produced ones, which leads to inaccurate metrics-especially when a validator produces blocks slower than the expected 1 block every 2 seconds (e.g. 1 block in 6 seconds). We’re exploring updates to the API or staking logic to include produced blocks and calculate uptime based on actual block rate over time.
+
 ---
 
 2025-06-13 Fri: I completed the EVM 1.9 update. I refactored the precompiled contract handling by removing hardcoded logic and extending Ethereum interfaces to support additional parameters, such as EVM and Contract.   
