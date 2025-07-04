@@ -12,6 +12,10 @@ https://github.com/harmony-one/harmony/releases/tag/v2025.1.1
 
 In Q2, I implemented EIP-2718, which introduces typed transactions to support the processing and transmission of multiple transaction formats. This included implementing both legacy transactions and optional access list transactions, enabling users to specify the addresses accessed during execution. I also conducted research into libp2p to explore improvements to the peer-to-peer networking protocol. Continuing from Q2, I plan to focus primarily on contributing to and refining the P2P logic in the upcoming quarter. In parallel with protocol work, I fully transitioned into the DevOps lead role—gaining familiarity with the tech stack, handling security operations, and managing infrastructure. Mainly, we released version v2025.1.1, which improves bootnode stability and refines the consensus logic.
 
+As part of ongoing security operations improvments, several initiatives were completed. This included rotating sensitive credentials across systems, updating operational playbooks to reflect the latest protocol and network changes, and managing access controls for servers and monitoring nodes. I also ensured continuity and observability by maintaining and refining our Grafana dashboards, which now provide clearer insight into validator performance, system uptime, and network health. 
+
+Enhanced GossipSub upgrades Harmony’s pub/sub layer to handle large-block messages more efficiently by leveraging protocol optimizations that reduce bandwidth usage and speed up block propagation—meaning validators see new blocks sooner and sync faster with less network overhead (https://github.com/libp2p/specs/blob/master/pubsub/gossipsub/gossipsub-v1.1.md). Peer-to-Peer Data Availability Sampling reimagines how nodes retrieve block data by sampling rather than downloading every byte, dramatically cutting per-node bandwidth and storage needs (https://eips.ethereum.org/EIPS/eip-7594). Note that the first option seems to be the more viable one, but further discussion with the protocol teammates will be held.
+
 ---
 
 2025-06-27 Fri: Analyzed areas that can be updated regarding the p2p core logic. 
