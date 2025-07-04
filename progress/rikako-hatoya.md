@@ -1,3 +1,5 @@
+2025-07-03 Thu: [Fixed](https://github.com/harmony-one/portfolio-manager/pull/23) issues that came from different pool testing: debugged emissions calculations. Started looking into LP rebalancing. 
+
 2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started testing with multiple cbBTC-USDC pools to check LP Fees work correctly, found some bugs: infinity APR for some volatility, also need to still add emissions.
 
 2025-07-01 Tue: Updated options [PR](https://github.com/harmony-one/portfolio-manager/pull/17) with test moved to spec, finally finished adding trading fees for Aerodrome: cleaned code + made new [PR](https://github.com/harmony-one/portfolio-manager/pull/21), and opened new position on Aerodrome for staking to now verify for emissions (AERO) rewards. Started working on searching for strategy bot repos, similar to ours.
@@ -6,6 +8,7 @@
 
 ---
 
+Note: Still updating this review, will add more in-depth explanation of LP today.
 **2025 Q2 Review** (60.5 hours)
 
 In Q2, a major focus was the shadow-scraper repo, where I worked on verifying APR calculations across various vaults on the Sonic network. This included cross-validating on-chain data for USDC.e and wBTC/USDC vaults, implementing Pendle reward tracking, and addressing discrepancies in Merkl’s API by parsing RewardDistributed logs directly. I also contributed yield analysis scripts for Spectra, Euler, and Silo vaults, integrating logic for LP fee and fixed PT rewards, and ensuring consistency in .tsv export formats used by the portfolio tracker. A lot of effort went into aligning our APR logic with protocol-specific quirks—like boost mechanics, proxy patterns, and vault token wrappers—to ensure the data we show is accurate and reliable.
