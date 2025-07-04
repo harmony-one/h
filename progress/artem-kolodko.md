@@ -6,7 +6,7 @@ In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing secu
 
 I explored a BTC/USDC liquidity pool investment approach, analyzing impermanent loss for BTC investments and using Hyperliquid futures to hedge risks. I created a backtesting script and a prototype to apply this trading strategy.
 
-The strategy bot constantly monitors the performance of the Uniswap BTC/USDC liquidity pool, tracking the BTC ratio in the position and adjusting the short position in the BTC/USD perpetual futures market to mitigate impermanent loss. Development of the bot is ongoing, with work focused on making the strategy stronger against sudden changes in the market, adding automated liquidity pool rebalancing logic, and doing more tests to find the optimal LP position range to maximize returns.
+The strategy bot constantly monitors the performance of the BTC/USDC liquidity pool, tracking the BTC ratio in the position and adjusting the short position in the BTC/USD perpetual futures market to mitigate impermanent loss. Development of the bot is ongoing, with work focused on making the strategy stronger against sudden changes in the market, adding automated liquidity pool rebalancing logic, and doing more tests to find the optimal LP position range to maximize returns.
 
 I led a team of two developers working on DeFi pool analytics and BTC LP strategy implementation, participated in daily meetings, reviewed pull requests, and assigned tasks to ensure the team met project goals on schedule.
 
