@@ -10,6 +10,8 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 
 ---
 
+2025-07-03 Thu: LP rebalancing in BTC strategy: [added](https://github.com/harmony-one/portfolio-manager/commit/3dec141e8cc02c5a74b5de02d1592585a25979b1) swap methods for the position with 100% BTC or USDC to maintain 50/50 ratio in a new position; [reviewed](https://github.com/harmony-one/portfolio-manager/pull/21) and merged update in Aerodrome LP fees pull request
+
 2025-07-02 Wed: reviwed Rika's [pull request](https://github.com/harmony-one/portfolio-manager/pull/21) with Aerodrome LP fees update, prepared answers in google doc for unified BTC strategy team sync; continue working on tokens swaps in LP rebalancing logic
 
 2025-07-01 Tue: [fixed](https://github.com/harmony-one/portfolio-tracker/commit/3d4cac5fc634092e38a4a5bababe2b304520470c) Merkl API request to get wS rewards in portfolio-tracker app, [reviewed](https://github.com/harmony-one/portfolio-manager/pull/20) updates in custom LP position range backtesting script, filled some answers in google docs regarding unified BTC hedging strategy
