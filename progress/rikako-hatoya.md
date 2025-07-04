@@ -1,4 +1,4 @@
-2025-07-03 Thu: [Fixed](https://github.com/harmony-one/portfolio-manager/pull/23) issues that came from different pool testing: debugged emissions calculations. Started looking into LP rebalancing. 
+2025-07-03 Thu: [Fixed](https://github.com/harmony-one/portfolio-manager/pull/23) issues that came from different pool testing: debugged emissions calculations. Started working on LP rebalancing. 
 
 2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started testing with multiple cbBTC-USDC pools to check LP Fees work correctly, found some bugs: infinity APR for some volatility, also need to still add emissions.
 
