@@ -1,4 +1,4 @@
-2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started opening multiple positions in different pools/wallets to test LP Fees work correctly.
+2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started testing with multiple cbBTC-USDC pools to check LP Fees work correctly, found some bugs: infinity APR for some volatility, also need to still add emissions.
 
 2025-07-01 Tue: Updated options [PR](https://github.com/harmony-one/portfolio-manager/pull/17) with test moved to spec, finally finished adding trading fees for Aerodrome: cleaned code + made new [PR](https://github.com/harmony-one/portfolio-manager/pull/21), and opened new position on Aerodrome for staking to now verify for emissions (AERO) rewards. Started working on searching for strategy bot repos, similar to ours.
 
