@@ -1,3 +1,5 @@
+2025-07-4 Fri (4th of July, 6.0h): Revised work for Q2, entirely rewrote Q2 summary adding extended explanation for LP. Revisited the strategy meeting notes and Aaron's doc to understand Q3 directions and come up with questions, will continue on LP balancing.
+
 2025-07-03 Thu: [Fixed](https://github.com/harmony-one/portfolio-manager/pull/23) issues that came from different pool testing: debugged emissions calculations. Started working on LP rebalancing. 
 
 2025-07-02 Wed: Cleaned code from previous [PR](https://github.com/harmony-one/portfolio-manager/pull/21) on trading fees (deprecated variables/functions). Added emissions fee calculation, started testing with multiple cbBTC-USDC pools to check LP Fees work correctly, found some bugs: infinity APR for some volatility, also need to still add emissions.
