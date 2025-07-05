@@ -1,3 +1,9 @@
+2025-07-05: Last week, I submitted [PR #4920](https://github.com/harmony-one/harmony/pull/4920), which improves the robustness of the epoch sync mechanism by handling cases where the requested block is either in the future or not available because the remote peer is not fully synced. Previously, these situations triggered repetitive errors and unnecessary retries, leading to excessive logging and pressure on stream connections. With this change, the system now detects such conditions and either skips or partially applies the relevant blocks, allowing epoch synchronization to proceed more gracefully without flooding the logs or overloading network resources.
+
+Alongside this, I began studying [EIP-2537](https://eips.ethereum.org/EIPS/eip-2537), which introduces BLS12-381 precompiles for Ethereum. This work is part of ongoing research into cryptographic primitives and potential improvements to Harmony's interoperability and performance, particularly in relation to validator operations and light client support.
+
+---
+
 2025-06-28 Sat: I focused on improving diagnostics and connection stability for **boot nodes** and **P2P stream multiplexers**.
 
 To make debugging easier, I created [PR #4918](https://github.com/harmony-one/harmony/pull/4918), which logs the **negotiated muxer** (either Yamux or Mplex) used for each connection. Harmony supports multiple stream protocols and fallback mechanisms, and this visibility helps us isolate stream issues and better trace the muxer issues.
