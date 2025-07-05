@@ -8,8 +8,9 @@
 
 ---
 
-Note: Still updating this review, will add more in-depth explanation of LP today.
 **2025 Q2 Review** (60.5 hours)
+
+Top Contribution: https://github.com/harmony-one/shadow-scraper/pull/17
 
 In Q2, a major focus was the shadow-scraper repo, where I worked on verifying APR calculations across various vaults on the Sonic network. This included cross-validating on-chain data for USDC.e and wBTC/USDC vaults, implementing Pendle reward tracking, and addressing discrepancies in Merkl’s API by parsing RewardDistributed logs directly. I also contributed yield analysis scripts for Spectra, Euler, and Silo vaults, integrating logic for LP fee and fixed PT rewards, and ensuring consistency in .tsv export formats used by the portfolio tracker. A lot of effort went into aligning our APR logic with protocol-specific quirks—like boost mechanics, proxy patterns, and vault token wrappers—to ensure the data we show is accurate and reliable.
 
