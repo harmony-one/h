@@ -6,6 +6,10 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 
 ---
 
+2025-07-07 Mon: Updating my Q2 Review to include social media stats and top tweets.
+
+---
+
 2025-07-06 Sun: Writing and posting of the team's progress thread. Reviewing harmony.one/q3, preparing insights/questions for the Thursday meetup.
 
 2025-07-05 Sat: Animating of a graphic for the progress thread. Update of the community section.
