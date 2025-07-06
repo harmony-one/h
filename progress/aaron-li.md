@@ -1,3 +1,5 @@
+2025-7-6 Sun (1.6h+): Review code of existing LP projects. Improve stability, refining logging and interpretability.
+
 2025-7-5 Sat (5.7h): Improve stability, refining logging and interpretability. Deploying LP hedger bot on replicatable environments. Fix bugs end-to-end.
 
 2025-7-4 Fri (0.6h): Deploying LP hedger bot on replicatable environments. Fix bugs end-to-end.
