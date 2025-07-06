@@ -6,6 +6,16 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 
 ---
 
+2025-07-06 Sun: Writing and posting of the team's progress thread. Reviewing harmony.one/q3, preparing insights/questions for the Thursday meetup.
+
+2025-07-05 Sat: Animating of a graphic for the progress thread. Update of the community section.
+
+2025-07-04 Fri: [Tweet](https://x.com/harmonyprotocol/status/1941141699285446748) for Fourth of July holiday.
+
+2025-07-03 Thu: Creation of Youtube Shorts from the Q2 video. Utilized Sora to create firework videos with the Harmony logo for the holiday.
+
+2025-07-02 Wed: Finalizing the Q2 newsletter. Designed thumbnail and uploaded the [Q2 video](https://youtu.be/2BvkNyd9azc?si=haggFE2zwW-HMSbN). Created the NotebookLM podcast. Posted to Substack and X.
+
 2025-07-01 Tue: Continuation of editing Q2 Video in Descript + the design of the thumbnail. Followed up with the team to update their Q2 progress with top relevant link. 
 
 2025-06-30 Mon: Editing of Q2 Video in Descript. Revisions to Q2 newsletter. 
