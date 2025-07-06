@@ -1,4 +1,20 @@
-2025-6-26 Thu (1.4h+): Main trading logic dispatcher and task control.
+2025-7-5 Sat (5.7h): Improve stability, refining logging and interpretability. Deploying LP hedger bot on replicatable environments. Fix bugs end-to-end.
+
+2025-7-4 Fri (0.6h): Deploying LP hedger bot on replicatable environments. Fix bugs end-to-end.
+
+2025-7-3 Thu (2.9h): Review LP projects and address open questions. Deploying LP hedger bot and test run locally.
+
+2025-7-2 Wed (1.9h): Discuss and review LP projects.
+
+2025-6-30 Mon (4.6h): Verifying end-to-end execution with dedicated accounts.
+
+---
+
+2025-6-28 Sat (4.7h): Verifying end-to-end execution with dedicated accounts.
+
+2025-6-27 Fri (6.1h): Verifying end-to-end execution with dedicated accounts. Main trading logic dispatcher and task control.
+
+2025-6-26 Thu (4.1h): Main trading logic dispatcher and task control.
 
 2025-6-23 Mon (1.5h): Emergency exit setup instructions and production deployment.
 
