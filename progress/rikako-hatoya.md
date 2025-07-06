@@ -1,4 +1,6 @@
-2025-07-4 Fri (4th of July, 6.0h): Revised work for Q2, entirely rewrote Q2 summary adding extended explanation for LP. Revisited the strategy meeting notes and Aaron's doc to understand Q3 directions and come up with questions, will continue on LP balancing.
+2025-07-05 Sat (1.5h): Read through /Q3 document. Added additional questions.
+
+2025-07-04 Fri (4th of July, 6.0h): Revised work for Q2, entirely rewrote Q2 summary adding extended explanation for LP. Revisited the strategy meeting notes and Aaron's doc to understand Q3 directions and come up with questions, will continue on LP balancing.
 
 2025-07-03 Thu: [Fixed](https://github.com/harmony-one/portfolio-manager/pull/23) issues that came from different pool testing: debugged emissions calculations. Started working on LP rebalancing. 
 
