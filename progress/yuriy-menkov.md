@@ -10,6 +10,10 @@ Improved bridging: resolved stuck assets and redeployed contracts (e.g. $AXS, US
 
 ---
 
+2025-07-04 Fri: Made improvements to the extended validator voting strategy (put it on pause for now until sync with Theo. Wwitched to working on backtesting tools for Artem's bot application.
+
+2025-07-03 Thu: Completed the basic version of Snapshot X for Harmony. Improved the indexer to run through a Docker container and connected it to the internal Fly.io database. The indexer and GraphQL API are available [here](https://hmy-snapshotx-api.fly.dev/). Deployed the frontend [demo app](https://sx-harmony.web.app/#/explore) — with all basic strategies and core functionality: creating spaces, proposals, voting, etc.
+
 2025-07-02 Wed: Sync with BTC strategy team. Resolved issues with the snapshot x indexer - added compatibility with harmony chain in the core library (the number of requested logs was adjusted). Setting up deployment on fly.io, there is still a problem with resource limitations, it may be necessary to set up deployment on an aws machine.
 
 2025-07-01 Tue: Synced with Artem regarding the integration of analytics tools with other strategy management services. It was decided to make a number of improvements to provide API in a specific format: custom LP range, backtesting with rebalancing, support of different pools to test. Continue work on custom validator voting strategy contract.
