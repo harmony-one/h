@@ -1,3 +1,9 @@
+2025-07-04 Fri: I focused on fixing and updating the test codebase to support the London and Berlin upgrades. The test suite was adapted to recent code changes, with overall progress at approximately 70%.
+
+Additionally, I revived several team pull requests and handled on-call issues related to bootnode stability. 
+
+---
+
 2025-06-27 Fri: I focused on improving cross-platform test reliability. While working with the 1.9 and 1.10 branches, I identified macOS-specific issues and addressed them by creating a Docker-based, platform-independent testing setup. It currently supports the go-test command and is designed to be extensible to other test commands.
 
 I also handled on-call responsibilities and reviewed multiple pull requests.
