@@ -13,6 +13,9 @@ Implemented Aaron's strategy on the [cross-protocol backtesting script](https://
 I maintained and enhanced 1Bot infrastructure by integrating Claude Opus 4 and Sonnet 4 models, updating OpenAI models with o3 and GPT-4.1 variants, and resolving deployment issues on fly.io servers. Database backup and cloning procedures were implemented to address server instability, adding retry cycles for DB and Telegram connections to prevent continuous restarts. Technical support was provided for user-reported issues including Luma command failures and Harmony Bot deployment troubleshooting.
 
 ---
+2025-07-04 Fri: 2025-07-04 Fri: Refactored and tested [rebalancing logic](https://github.com/harmony-one/portfolio-manager/pull/22) of Aerodrome's Defilabs Position class. Started the migration from Pool's daily data to hourly data.
+
+2025-07-03 Thu: Completed [Aerodrome LP backtesting fixes](https://github.com/harmony-one/portfolio-manager/pull/22), achieving proper concentration effects. Resolved liquidity calculation inconsistency showing 1000x difference between versions due to incorrect decimal assignments in liquidityForStrategy method. Fixed full-range liquidity calculation that was artificially inflated using TVL proportion method instead of mathematical approach. Achieved realistic concentration ratio of 36.4x higher liquidity for concentrated positions vs full-range, enabling accurate fee distribution modeling with mathematically consistent implementation.
 
 2025-07-02 Wed: Added TVL and position exposure to backtesting daily logs, fixed tick range comparison issue for in-range position determination, and refactored backtesting script to improve testing input handling. Discovered decimal discrepancies altering APR calculations and identified need for full code review of token balance handling inconsistencies. Stared script debug. 
 
