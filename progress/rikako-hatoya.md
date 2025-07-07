@@ -1,3 +1,5 @@
+2025-07-06 Sun: (Still working for today, will update more later) Continued with Q3 doc, reading through replies and some ideas to bounce back.
+
 2025-07-05 Sat (1.5h): Read through /Q3 document. Added additional questions.
 
 2025-07-04 Fri (4th of July, 6.0h): Revised work for Q2, entirely rewrote Q2 summary adding extended explanation for LP. Revisited the strategy meeting notes and Aaron's doc to understand Q3 directions and come up with questions, will continue on LP balancing.
