@@ -1,4 +1,14 @@
-2025-07-02 Wed:
+2025-07-08 Tue: (Continue implementing the todo items while identifying issues and opportunities for improvement to be implemented in Q3)
+
+2025-07-07 Mon: Analyzed protocol server costs across different vendors and cleaned up unused resources. Troubleshooted bootnode down issue and cleaned up the node to prevent it.
+
+---
+
+2025-07-04 Fri: Federal holiday 
+
+2025-07-03 Thu: Started implementing todo items within the syncing logic. Analyzed issues and PRs regarding syncing logic. Enhanced Gossipsub is my current plan for Q3 but will look further into codebase, while implementing, in order to discover more impactful possibilities.
+
+2025-07-02 Wed: Researched into Kademlia routing in Harmony codebase. 
 
 2025-07-01 Tue: Analyzed Mainnet lagging issue. No consensus lost but a single node was trailing for ~30 mintues. Hotfix regarding the server to prevent the trailing.
 
