@@ -1,4 +1,8 @@
-2025-07-06 Sun: (Still working for today, will update more later) Continued with Q3 doc, reading through replies and some ideas to bounce back.
+2025-07-07 Mon: Working on LP Aerodromerebalancing. Checking uniswap code to adapt for aero.
+
+---
+
+2025-07-06 Sun (1.7h): Continued with Q3 doc. Reading through replies and adding some additional documents to each topic.
 
 2025-07-05 Sat (1.5h): Read through /Q3 document. Added additional questions.
 
