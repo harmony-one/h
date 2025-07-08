@@ -6,7 +6,9 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 
 ---
 
-2025-07-07 Mon: Updating my Q2 Review to include social media stats and top tweets.
+2025-07-08 Tue: Writing thread on Figma Make vs Framer for AI website creation. Creating 2 landing pages in Framer and Figma to compare. 
+
+2025-07-07 Mon: Updating my Q2 Review to include social media stats and top tweets. Reading and writing of a [thread](https://x.com/harmonyprotocol/status/1942348949668425817) on AthleteFi's monthly recap. Review of the ppt and writing a [thread](https://x.com/harmonyprotocol/status/1942352606778507524) on AI jobs replacing Saas jobs.
 
 ---
 
