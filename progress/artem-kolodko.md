@@ -12,6 +12,12 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 
 ---
 
+2025-07-08 Tue: [added](https://github.com/harmony-one/portfolio-manager/pull/24) persistence layer (Postgres) to our strategy bot to store latest LP PositionId; later we will be able to store trades history and some bot metrics for further analysis. Updated Q3 strategy document with some ideas.
+
+2025-07-07 Mon: [suggested](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/BacktestingOutputExample.md) unified backtesting output format to track performance of different strategies. Started adding persistence in our strategy implementation.
+
+---
+
 2025-07-06 Sun (5.0h): finished the [initial](https://github.com/harmony-one/portfolio-manager/commit/c46de8a6b001121a6e38c72a8cac8e9b2a83e464) [version](https://github.com/harmony-one/portfolio-manager/commit/a0fd275ee0bc9f232d3c6f391bbb73466a9000e9) of Uniswap V3 token swaps for the LP rebalancing component of the BTC strategy, addressing out-of-range positions.
 
 2025-07-04 Fri: completed and tested Uniswap LP rebalancing logic with the position out of range, everything working fine; continue wokring on swap between WBTC/USDC tokens for the scenario if position goes out of range and hold 100% of WBTC tokens or USDC tokens.
