@@ -1,3 +1,6 @@
+2025-07-07 Mon: Refactored Aerodrome Position class and backtesting script to handle both daily and hourly pool data. Implemented granularity type as configurable parameter for position class and backtesting script. Encountered issues with APR calculations during refactoring - working to resolve calculation discrepancies.
+
+---
 2025-07-04 Fri: 2025-07-04 Fri: Refactored and tested [rebalancing logic](https://github.com/harmony-one/portfolio-manager/pull/22) of Aerodrome's Defilabs Position class. Started the migration from Pool's daily data to hourly data.
 
 2025-07-03 Thu: Completed [Aerodrome LP backtesting fixes](https://github.com/harmony-one/portfolio-manager/pull/22), achieving proper concentration effects. Resolved liquidity calculation inconsistency showing 1000x difference between versions due to incorrect decimal assignments in liquidityForStrategy method. Fixed full-range liquidity calculation that was artificially inflated using TVL proportion method instead of mathematical approach. Achieved realistic concentration ratio of 36.4x higher liquidity for concentrated positions vs full-range, enabling accurate fee distribution modeling with mathematically consistent implementation.
