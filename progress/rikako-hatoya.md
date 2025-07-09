@@ -1,4 +1,6 @@
-2025-07-07 Mon: Working on LP Aerodromerebalancing. Checking uniswap code to adapt for aero.
+2025-07-08 Tue: Implemented: checking position out of range, remove liquidity/collect fees. Was not correctly displaying position information, working on debugging and also added Q3 goals.
+
+2025-07-07 Mon: Working on LP Aerodromerebalancing. Checking uniswap code to adapt for aero, added more comments to Q3 docs.
 
 ---
 
