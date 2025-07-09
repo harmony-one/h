@@ -1,3 +1,11 @@
+Q3 Focus
+
+In Q3, I’m continuing to lead our weekly marketing cadence with daily threads, video shorts, graphics, and monthly reports that highlight team progress, partner updates, and protocol development. I’ll keep supporting our DeFi launches with clear visuals and public explainers, while translating technical strategy work into content that’s easy to follow. As vault deployments and backtests become more active, I’ll help communicate what the team is building—from yield benchmarks and one-sided hedging to vault security and platform comparisons.
+
+Alongside regular content, I’ll create explainers and onboarding materials to support the BTC/USDC vault rollout, showing how returns are generated, what risks are monitored, and how funding rates influence LP strategy. I’ll also collaborate on frontend concepts like vault walkthroughs, APR snapshots, and strategy previews using Figma, Cursor, and Framer. My focus this quarter is to make our DeFi products understandable and accessible, not just to DeFi-native users, but to anyone curious about earning BTC yield onchain.
+
+---
+
 2025 Q2 Review (36 hours)
 
 This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the [Colossus integration](https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS) rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
