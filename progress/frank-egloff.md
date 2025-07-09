@@ -1,5 +1,17 @@
 ---
 
+2025-07-04 Fri: 2025-07-04 Fri: Refactored and tested [rebalancing logic](https://github.com/harmony-one/portfolio-manager/pull/22) of Aerodrome's Defilabs Position class. Started the migration from Pool's daily data to hourly data.
+
+2025-07-03 Thu: Completed [Aerodrome LP backtesting fixes](https://github.com/harmony-one/portfolio-manager/pull/22), achieving proper concentration effects. Resolved liquidity calculation inconsistency showing 1000x difference between versions due to incorrect decimal assignments in liquidityForStrategy method. Fixed full-range liquidity calculation that was artificially inflated using TVL proportion method instead of mathematical approach. Achieved realistic concentration ratio of 36.4x higher liquidity for concentrated positions vs full-range, enabling accurate fee distribution modeling with mathematically consistent implementation.
+
+2025-07-02 Wed: Added TVL and position exposure to backtesting daily logs, fixed tick range comparison issue for in-range position determination, and refactored backtesting script to improve testing input handling. Discovered decimal discrepancies altering APR calculations and identified need for full code review of token balance handling inconsistencies. Stared script debug. 
+
+2025-07-01 Tue: Completed [full-range and custom price range implementation](https://github.com/harmony-one/portfolio-manager/pull/22) (tested with 5% and 10% positions) for Aerodrome backtesting. Fixed critical LP share calculation (was using USD percentage instead of liquidity units percentage - 12x correction factor), resolved tick calculation by correcting token decimal assignments, implemented Defilab's algorithms. Rebalancing logic pending for tomorrow. 
+
+2025-06-30 Mon: Found a [Defilabs backtesting implementation](https://github.com/DefiLab-xyz/uniswap-v3-backtest/blob/main/backtest.mjs) for Uniswap V3 pools that uses [uniswap-v3-backtest package](https://www.npmjs.com/package/@0xelod/uniswap-v3-backtest). The key values feeGrowthGlobal0X128 and feeGrowthGlobal1X128 enable precise fee calculations without hardcoded concentration multipliers. Started researching and implementing Aerodrome backtesting using this methodology. The Aerodrome subgraph poolDayDatas query returns feeGrowthGlobal0X128 and feeGrowthGlobal1X128 values, allowing us to apply the same fee growth delta calculations directly to Aerodrome pools. This eliminates the need for empirical concentration multipliers and enables mathematically accurate backtesting using real blockchain fee accumulation data.
+
+---
+
 2025 Q2 Review (38 hours)
 
 Development of [Beefy protocol](https://github.com/harmony-one/shadow-scraper/pull/6) portfolio tracker scripts
@@ -13,17 +25,7 @@ Implemented Aaron's strategy on the [cross-protocol backtesting script](https://
 I maintained and enhanced 1Bot infrastructure by integrating Claude Opus 4 and Sonnet 4 models, updating OpenAI models with o3 and GPT-4.1 variants, and resolving deployment issues on fly.io servers. Database backup and cloning procedures were implemented to address server instability, adding retry cycles for DB and Telegram connections to prevent continuous restarts. Technical support was provided for user-reported issues including Luma command failures and Harmony Bot deployment troubleshooting.
 
 ---
-2025-07-04 Fri: 2025-07-04 Fri: Refactored and tested [rebalancing logic](https://github.com/harmony-one/portfolio-manager/pull/22) of Aerodrome's Defilabs Position class. Started the migration from Pool's daily data to hourly data.
 
-2025-07-03 Thu: Completed [Aerodrome LP backtesting fixes](https://github.com/harmony-one/portfolio-manager/pull/22), achieving proper concentration effects. Resolved liquidity calculation inconsistency showing 1000x difference between versions due to incorrect decimal assignments in liquidityForStrategy method. Fixed full-range liquidity calculation that was artificially inflated using TVL proportion method instead of mathematical approach. Achieved realistic concentration ratio of 36.4x higher liquidity for concentrated positions vs full-range, enabling accurate fee distribution modeling with mathematically consistent implementation.
-
-2025-07-02 Wed: Added TVL and position exposure to backtesting daily logs, fixed tick range comparison issue for in-range position determination, and refactored backtesting script to improve testing input handling. Discovered decimal discrepancies altering APR calculations and identified need for full code review of token balance handling inconsistencies. Stared script debug. 
-
-2025-07-01 Tue: Completed [full-range and custom price range implementation](https://github.com/harmony-one/portfolio-manager/pull/22) (tested with 5% and 10% positions) for Aerodrome backtesting. Fixed critical LP share calculation (was using USD percentage instead of liquidity units percentage - 12x correction factor), resolved tick calculation by correcting token decimal assignments, implemented Defilab's algorithms. Rebalancing logic pending for tomorrow. 
-
-2025-06-30 Mon: Found a [Defilabs backtesting implementation](https://github.com/DefiLab-xyz/uniswap-v3-backtest/blob/main/backtest.mjs) for Uniswap V3 pools that uses [uniswap-v3-backtest package](https://www.npmjs.com/package/@0xelod/uniswap-v3-backtest). The key values feeGrowthGlobal0X128 and feeGrowthGlobal1X128 enable precise fee calculations without hardcoded concentration multipliers. Started researching and implementing Aerodrome backtesting using this methodology. The Aerodrome subgraph poolDayDatas query returns feeGrowthGlobal0X128 and feeGrowthGlobal1X128 values, allowing us to apply the same fee growth delta calculations directly to Aerodrome pools. This eliminates the need for empirical concentration multipliers and enables mathematically accurate backtesting using real blockchain fee accumulation data.
-
----
 2025-06-29 Sun: (6.0h) Researched and compared different concentration multiplier approaches for Uniswap V3 backtesting, concluding the best approach is to replaced theoretical concentration multiplier approach with [empirically-calibrated system](https://github.com/harmony-one/portfolio-manager/pull/20) for Uniswap V3 backtesting. Eliminated problematic square root formula and competition penalty factor in favor of direct calibrated multipliers. Fixed rebalancing logic, PnL calculcations, and LP Share percentage updates.
 
 2025-06-27 Fri: Fixed Uniswap V3 backtesting issues with price range calculations and time-in-range logic. Previously, tick math created unit mismatch with subgraph BTC/USD prices, invalidating time-in-range calculations. Updated to calculate price ranges as percentage bands around actual daily BTC/USD prices, ensuring consistent units. Added time-in-range factor based on daily high/low prices so positions only earn fees for the fraction of the day they are in range. Implemented hardcoded concentration multipliers to avoid unrealistic APRs from theoretical models.
