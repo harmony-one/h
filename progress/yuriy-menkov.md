@@ -1,3 +1,9 @@
+2025-07-08 Tue: Setting up and deploying the service with the database on Fly.io, testing and refining based on core use cases. Additional improvements for Snapshot X.
+
+2025-07-07 Mon: Started work on integrating a postgress db into the analytics service (for storing events and positions data) to speed up analysis and enable fast loading of historical data, as fetching directly from on-chain events and subgraphs can take up to an hour and is limited. 
+
+---
+
 2025 Q2 Review
 
 Development of [Shadow/Aerodrome](https://github.com/harmony-one/shadow-pool-analytics) positions stats tracker scripts
