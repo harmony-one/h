@@ -6,14 +6,6 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 
 ---
 
-2025 Q2 Review (36 hours)
-
-This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the [Colossus integration](https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS) rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
-
-I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
-
----
-
 2025-07-08 Tue: Writing thread on Figma Make vs Framer for AI website creation. Creating 2 landing pages in Framer and Figma to compare. 
 
 2025-07-07 Mon: Updating my Q2 Review to include social media stats and top tweets. Reading and writing of a [thread](https://x.com/harmonyprotocol/status/1942348949668425817) on AthleteFi's monthly recap. Review of the ppt and writing a [thread](https://x.com/harmonyprotocol/status/1942352606778507524) on AI jobs replacing Saas jobs.
@@ -33,6 +25,14 @@ I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed 
 2025-07-01 Tue: Continuation of editing Q2 Video in Descript + the design of the thumbnail. Followed up with the team to update their Q2 progress with top relevant link. 
 
 2025-06-30 Mon: Editing of Q2 Video in Descript. Revisions to Q2 newsletter. 
+
+---
+
+2025 Q2 Review (36 hours)
+
+This quarter, I focused on consistent marketing—publishing weekly Twitter threads, progress shorts, and monthly Substack reports. I led the [Colossus integration](https://youtu.be/5J4O0O27Djw?si=urEQl33e2juaxJMS) rollout end-to-end, creating announcement assets, AI podcast, and co-branded content. I also upskilled in Framer, Figma Make, Canva animation and Cursor—learning to prototype websites, structure markdown systems, and explore vibe-coding and animation workflows that bridge design and AI. I co-authored the Q2 report and produced recap videos to capture and package team progress.
+
+I highlighted protocol updates, demoed new features on ONE Bot, and co-marketed with partners like FlappyH1, 1UtilityDAO, RecoveryONE, Crypto_Land_DAO and more while promoting and researching our new initiative 5.country.
 
 ---
 
