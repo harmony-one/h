@@ -1,4 +1,18 @@
-2025-07-08 Tue: (Continue implementing the todo items while identifying issues and opportunities for improvement to be implemented in Q3)
+### Q3 Proposal
+
+My Q3 plans are to add QUIC transport support and implement a simple peer-scoring system for Harmony’s p2p layer.
+
+QUIC will speed up connections by cutting the handshake down to one round-trip, so nodes find each other and share blocks faster. Its built in stream multiplexing will disallow one bad packet from staggering everything else, keeping data flowing smoothly. Running congestion control will allow us to improve traffic handling without touching the OS. This will make our p2p layer more responsive and reliable.
+
+Peer scoring will help each node pick better neighbors by tracking who forwards messages quickly and stays online. Nodes with low scores get fewer connections, so we waste less time on slow or faulty peers. New or out of sync nodes will link up with the healthiest peers first, catching up faster. Over time, this keeps the mesh strong and makes it harder for bad actors to stick around.
+
+Enhanced Gossipsub, which was discussed in the Q2 review, is designed to improve message propagation in high traffic scenarios. However, with Harmony’s 1s block time and deliberately small block size, we aren’t encountering large block propagation delays that enhanced Gossipsub targets. As a result, I will be deprioritizing that upgrade in favor of the QUIC transport support and adaptive peer scoring features outlined above.
+
+---
+
+2025-07-09 Wed: (Continue QUIC transport implementation)
+
+2025-07-08 Tue: Began QUIC transport implementation (mentioned in Q3 goals). Diagnosed and resolved a user issue with the interaction between staking.harmony.one and MetaMask.
 
 2025-07-07 Mon: Analyzed protocol server costs across different vendors and cleaned up unused resources. Troubleshooted bootnode down issue and cleaned up the node to prevent it.
 
