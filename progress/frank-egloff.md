@@ -1,3 +1,5 @@
+2025-07-08 Tue: Completed [Aerodrome backtesting script](https://github.com/harmony-one/portfolio-manager/pull/25) by fixing APR calculation issues and adding unified getAPR() method with compounding control. Fixed rebalancing detection logic and closing logic issues that incorrectly counted final bookkeeping as rebalances. Added TSV export functionality with AerodromeExportService creating timestamped files in exports/aerodrome/ folder. Implemented selective console output showing every 100th hour to reduce log noise while preserving complete data export.
+
 2025-07-07 Mon: Refactored Aerodrome Position class and backtesting script to handle both daily and hourly pool data. Implemented granularity type as configurable parameter for position class and backtesting script. Encountered issues with APR calculations during refactoring - working to resolve calculation discrepancies.
 
 ---
