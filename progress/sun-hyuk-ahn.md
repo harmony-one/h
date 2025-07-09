@@ -1,4 +1,4 @@
-### Q3 Proposal
+2025 Q3 Proposal
 
 My Q3 plans are to add QUIC transport support and implement a simple peer-scoring system for Harmony’s p2p layer.
 
