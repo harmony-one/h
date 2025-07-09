@@ -2,6 +2,14 @@
 
 ---
 
+** 2025 Q3 Goals **
+
+I will begin Q3 by working on LP rebalancing for Aerodrome, implementing logic to detect when a position is out of range, remove liquidity, rebalance token ratios, and re-add liquidity in a new range. This is a critical component of the broader BTC/USDC strategy, enabling us to maintain tight ranges for higher fee generation while keeping the position actively aligned with market movements.
+
+In parallel, I’ll focus on unifying and improving our performance analytics to support daily iteration and cross-team alignment. This includes making TSV-based outputs more actionable and ensuring strategy results can be consistently interpreted and compared. I’ll also work on validating the impact of illiquid and volatile rewards such as Sonic airdrops, so that they’re accurately captured in our net return calculations.
+
+---
+
 2025-07-06 Sun (5.5h): Continued with Q3 doc. Reading through replies and adding some additional documents to each topic.
 
 2025-07-05 Sat (1.5h): Read through /Q3 document. Added additional questions.
