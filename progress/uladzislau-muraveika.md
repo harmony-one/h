@@ -1,3 +1,34 @@
+Tue 2025-07-08: View changes and shard health visualization
+
+During Q2 I've spent a great amount of time checking both shard states for the `Shard 0 consensus stuck` alarms.
+After some time I noticed `check the peer state` dashboard can be reused for the whole shard heath. This dashboard combined with Loki logs and `hmy_consensus_viewchange` Prometheus metric allowed me to find several issues in the current state:
+1. Epoch and view changes together - https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476 - we have a corner case on the epoch change when the last bls keys in a previous epoch is equal to a new bls key in a new epoch https://github.com/harmony-one/harmony/issues/4795#issuecomment-2813383476
+2. Poor hardware validators playing the leader role - no block for 27 seconds lead to the view change - legit one, we can only recommend them to use better hardware
+3. Issue connected with poor hardware validators is a consequence of the previous one - if such validator will be proposed as a new leader it will lead to one more view change 27 seconds.
+4. And I've discovered a new issue on the view change - consensus is proposing the [same bls key on and on](https://github.com/harmony-one/harmony/issues/4923) if it failed previous view change.
+
+
+How we are monitoring Harmony blockchain:
+```mermaid
+flowchart LR
+  Watchdog <-- "use a RPC call and sends alarm if no new block in 15 seconds, used a a signal to on-call engineer to check network health dashboards" --> Nodes
+  Nodes -- "status / metrics" --> PushGateway[Prometheus Push Gateway]
+  PushGateway -- "buffered scrape" --> Prometheus
+  Prometheus -- "queries" --> Grafana
+```
+
+And now about visualization itself:
+* check for bingos and leader in the shard - showing block verification health, should be around 30 blocks per minute
+![alt text](img/bingos.png)
+* check the leaders performance - helped to spot poor hardware leaders
+![alt text](img/hoorays.png)
+* view changes heatmap to understand when a view change happen
+![alt text](img/view_changes.png)
+* logs and check for the new bls key
+![alt text](img/view_change_logs.png)
+
+---
+
 Mon 2025-06-23 - Mon 2025-07-07: Paid Time Off
 
 ---
