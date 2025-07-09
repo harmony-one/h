@@ -1,3 +1,5 @@
+2025-7-9 Wed (0.3h): Revisiting Uniswap fees tracking and calculation for backtesting.
+
 2025-7-8 Tue (6.2h): Revisiting Uniswap fees tracking and calculation for backtesting. Review code, plans, proposals, and comments of existing LP projects.
 
 2025-7-7 Mon (2.1h): Review code, plans, proposals, and comments of existing LP projects.
