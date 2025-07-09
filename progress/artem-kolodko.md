@@ -1,17 +1,3 @@
-2025 Q2 Review (35h)
-
-Design and [development](https://github.com/harmony-one/portfolio-manager) of Uniswap BTC LP strategy with impermanent loss hedging
-
-In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing security, high yields, and verified performance. I developed and tested a suite of scripts in the "shadow-scraper" repository to assess the performance of Euler USDC pools, Pendle PT and LP markets, Shadow CL USDC, Silo Finance, and Beefy. I completed detailed analytics and compiled comprehensive statistics on the top five stablecoin pools for investment opportunities.
-
-I explored a BTC/USDC liquidity pool investment approach, analyzing impermanent loss for BTC investments and using Hyperliquid futures to hedge risks. I created a backtesting script and a prototype to apply this trading strategy.
-
-The strategy bot constantly monitors the performance of the BTC/USDC liquidity pool, tracking the BTC ratio in the position and adjusting the short position in the BTC/USD perpetual futures market to mitigate impermanent loss. Development of the bot is ongoing, with work focused on making the strategy stronger against sudden changes in the market, adding automated liquidity pool rebalancing logic, and doing more tests to find the optimal LP position range to maximize returns.
-
-I led a team of two developers working on DeFi pool analytics and BTC LP strategy implementation, participated in daily meetings, reviewed pull requests, and assigned tasks to ensure the team met project goals on schedule.
-
----
-
 2025-07-08 Tue: [added](https://github.com/harmony-one/portfolio-manager/pull/24) persistence layer (Postgres) to our strategy bot to store latest LP PositionId; later we will be able to store trades history and some bot metrics for further analysis. Updated Q3 strategy document with some ideas.
 
 2025-07-07 Mon: [suggested](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/BacktestingOutputExample.md) unified backtesting output format to track performance of different strategies. Started adding persistence in our strategy implementation.
@@ -29,6 +15,20 @@ I led a team of two developers working on DeFi pool analytics and BTC LP strateg
 2025-07-01 Tue: [fixed](https://github.com/harmony-one/portfolio-tracker/commit/3d4cac5fc634092e38a4a5bababe2b304520470c) Merkl API request to get wS rewards in portfolio-tracker app, [reviewed](https://github.com/harmony-one/portfolio-manager/pull/20) updates in custom LP position range backtesting script, filled some answers in google docs regarding unified BTC hedging strategy
 
 2025-06-31 Mon: reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/20) from Frank with Uniswap 10% range backtesting; started working on questions addressed by Stephen to create an unified model
+
+---
+
+2025 Q2 Review (35h)
+
+Design and [development](https://github.com/harmony-one/portfolio-manager) of Uniswap BTC LP strategy with impermanent loss hedging
+
+In Q2, I performed advanced analytics on DeFi stablecoin pools, emphasizing security, high yields, and verified performance. I developed and tested a suite of scripts in the "shadow-scraper" repository to assess the performance of Euler USDC pools, Pendle PT and LP markets, Shadow CL USDC, Silo Finance, and Beefy. I completed detailed analytics and compiled comprehensive statistics on the top five stablecoin pools for investment opportunities.
+
+I explored a BTC/USDC liquidity pool investment approach, analyzing impermanent loss for BTC investments and using Hyperliquid futures to hedge risks. I created a backtesting script and a prototype to apply this trading strategy.
+
+The strategy bot constantly monitors the performance of the BTC/USDC liquidity pool, tracking the BTC ratio in the position and adjusting the short position in the BTC/USD perpetual futures market to mitigate impermanent loss. Development of the bot is ongoing, with work focused on making the strategy stronger against sudden changes in the market, adding automated liquidity pool rebalancing logic, and doing more tests to find the optimal LP position range to maximize returns.
+
+I led a team of two developers working on DeFi pool analytics and BTC LP strategy implementation, participated in daily meetings, reviewed pull requests, and assigned tasks to ensure the team met project goals on schedule.
 
 ---
 
