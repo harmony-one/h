@@ -2,7 +2,7 @@
 
 ---
 
-** 2025 Q3 Goals **
+**2025 Q3 Goals**
 
 I will begin Q3 by working on LP rebalancing for Aerodrome, implementing logic to detect when a position is out of range, remove liquidity, rebalance token ratios, and re-add liquidity in a new range. This is a critical component of the broader BTC/USDC strategy, enabling us to maintain tight ranges for higher fee generation while keeping the position actively aligned with market movements.
 
