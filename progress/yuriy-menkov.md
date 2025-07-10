@@ -18,7 +18,7 @@ Improved bridging: resolved stuck assets and redeployed contracts (e.g. $AXS, US
 
 ---
 
-2025-07-04 Fri: Made improvements to the extended validator voting strategy (put it on pause for now until sync with Theo. Wwitched to working on backtesting tools for Artem's bot application.
+2025-07-04 Fri: Made improvements to the extended validator voting strategy (put it on pause for now until sync with Theo. Switched to working on backtesting tools for Artem's bot application.
 
 2025-07-03 Thu: Completed the basic version of Snapshot X for Harmony. Improved the indexer to run through a Docker container and connected it to the internal Fly.io database. The indexer and GraphQL API are available [here](https://hmy-snapshotx-api.fly.dev/). Deployed the frontend [demo app](https://sx-harmony.web.app/#/explore) — with all basic strategies and core functionality: creating spaces, proposals, voting, etc.
 
