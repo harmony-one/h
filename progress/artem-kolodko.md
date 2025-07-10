@@ -1,3 +1,5 @@
+2025-07-10 Thu: started working on optimized LP rebalancing model, which should be more efficient for collecting fees and can be used in various implementations. Draft should be ready on Friday.
+
 2025-07-09 Wed: updated [unified backtesting output](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/BacktestingOutputExample.md) format based on feedback from Aaron. Tested BTC strategy using both values from database and env variables (we need to store latest positionId in database after auto-rebalancing).
 
 2025-07-08 Tue: [added](https://github.com/harmony-one/portfolio-manager/pull/24) persistence layer (Postgres) to our strategy bot to store latest LP PositionId; later we will be able to store trades history and some bot metrics for further analysis. Updated Q3 strategy document with some ideas.
