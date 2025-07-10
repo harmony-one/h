@@ -1,4 +1,4 @@
-2025-7-10 Thu (1.0h): Deployment notes and documentation. Swap database for LP backtesting.
+2025-7-10 Thu (2.0h+): Deployment notes and documentation. Swap database for LP backtesting.
 
 2025-7-9 Wed (5.3h): Reviewing and analyzing backtesting code and potential issues. Revisiting Uniswap fees tracking and calculation for backtesting. Discussion on LP projects.
 
