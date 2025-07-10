@@ -1,3 +1,14 @@
+🦂 Q3 2025 Plan
+
+For Q3, I’ll be focusing on researching and implementing key protocol improvements. A major priority is EIP-2537, which introduces BLS12-381 precompiles. I’ll start by studying the spec in detail, evaluating its impact on our existing cryptographic operations, and then move into implementation, testing, and devnet integration.
+
+In parallel, I’ll begin exploring EIP-2935, which adds support for accessing historical block hashes. I’ll research how it can fit into Harmony’s architecture and will make as much progress on the implementation as time allows this quarter.
+
+Another major focus is the stream sync rollout. It’s currently running partially on devnet, so I’ll be working on completing the deployment, fixing bugs, and improving stability and observability. I’ll also continue addressing any syncing or P2P issues that arise, supporting ongoing maintenance and testing efforts across the protocol.
+
+
+---
+
 2025-07-05: I submitted [PR #4920](https://github.com/harmony-one/harmony/pull/4920), which improves the robustness of the epoch sync mechanism by handling cases where the requested block is either in the future or not available because the remote peer is not fully synced. Previously, these situations triggered repetitive errors and unnecessary retries, leading to excessive logging and pressure on stream connections. With this change, the system now detects such conditions and either skips or partially applies the relevant blocks, allowing epoch synchronization to proceed more gracefully without flooding the logs or overloading network resources.
 
 Alongside this, I began studying [EIP-2537](https://eips.ethereum.org/EIPS/eip-2537), which introduces BLS12-381 precompiles for Ethereum. This work is part of ongoing research into cryptographic primitives and potential improvements to Harmony's interoperability and performance, particularly in relation to validator operations and light client support.
