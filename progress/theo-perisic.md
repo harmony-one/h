@@ -10,6 +10,30 @@ Led AI-native development workflow sessions, targeting 10x efficiency gains inte
 
 ---
 
+2025-07-09 Wed: Completed emergency parameter initial list, extensive and production coverage, but will cut some away for minimal build, shared with Artem for initial review. Reviewing recovery updates and team project updates, looking into ETH positions based on meeting notes. Uniform tracking also necessary. 
+
+2025-07-08 Tue: Coordination with validators, updates on [SnapshotX integration](https://sx-harmony.web.app/#/explore). Started testing phase. Sync with Yuriy.
+
+2025-07-07 Mon: Adding to team Q3 doc. Clarifying each team member to test individually leveraging current working implementations, but applying their own strategies to compare later on.
+
+---
+
+2025-07-06 Sun: (1.0h) Continued strategy review, sourcing on o4-mini-high and perplexity, pull from Harmony publications for aerodrome strategies. 
+
+2025-07-05 Sat: (2.0h) Reviewed [lp-delta-hedge](https://github.com/adamkhakhar/lp-delta-hedge?tab=readme-ov-file) and [lp-option-hedging](https://github.com/Aureliano90/LP-Option-Hedging). Insights minimal implementations, more complex math implementations we can leverage, but no modern connections to higher volume platforms.
+
+2025-07-04 Fri: July 4th.
+
+2025-07-03 Thu: Adding points to q3 planning, more details on specific strategies, and answering team questions.
+
+2025-07-02 Wed: Full team sync. Providing initial questions, parameter optimizations, and product direction for BTC strategy. 
+
+2025-07-01 Tue: Continued review of lp-hedger, went back to Yuriy’s aerodrome [position data collection](https://github.com/harmony-one/shadow-pool-analytics/blob/main/aerodrome/export_USDC_cbBTC/positions_stats_USDC_cbBTC_all.tsv). Insights: wider range 25%+ performed best over 90 days, no rebalance, for backtesting, will be best to implement minimal rebalance aimed at weekly max.
+
+2025-06-30 Mon: Editing Q2 video to remove default captions for Alaina, reviewed Q2 report.
+
+---
+
 2025-06-29 Sun: (1.0h) Filming Q2 video.
 
 2025-06-28 Sat: (2.0h) Reviewing Aaron and Artem codebases for goal of merging work, transitioning from our previously siloed experimentation and development. Insight: missing websocket, and game theory protections implemented within Aaron’s repo can be brought on into Artem’s overall portfolio manager.
