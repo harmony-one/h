@@ -6,7 +6,11 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 
 ---
 
-2025-07-08 Tue: Writing thread on Figma Make vs Framer for AI website creation. Creating 2 landing pages in Framer and Figma to compare. 
+2025-07-10 Thu: Onsite with team
+
+2025-07-09 Wed: Sync with Amanda on Q3 initiatives and assistance with Reddit engagement and reply threads on X. [Thread](https://x.com/harmonyprotocol/status/1943154865339007149) on the top tweets from Q2. Review of Q3 initiatives for tomorrow's meeting.
+
+2025-07-08 Tue: Writing [thread](https://x.com/harmonyprotocol/status/1942697237013795049) on Figma Make vs Framer for AI website creation. Creating 2 landing pages in Framer and Figma to compare. 
 
 2025-07-07 Mon: Updating my Q2 Review to include social media stats and top tweets. Reading and writing of a [thread](https://x.com/harmonyprotocol/status/1942348949668425817) on AthleteFi's monthly recap. Review of the ppt and writing a [thread](https://x.com/harmonyprotocol/status/1942352606778507524) on AI jobs replacing Saas jobs.
 
