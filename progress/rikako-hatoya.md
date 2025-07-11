@@ -1,3 +1,5 @@
+2025-07-10 Thu: In-person team sync, revision of Q3. Debugged position error (due to RPC limit), [added](https://github.com/rikaa15/portfolio-manager/tree/test-pr-27) aerodrome rebalancing logic, refactored to separate between uniswap ass `LP_PROVIDER`, now working on merging/restoring new code from main branch. 
+
 2025-07-09 Wed: Still issue with fetching position from contract on Aerodrome (missing revert data), looking into structure of this [pool](https://basescan.org/address/0x3e66e55e97ce60096f74b7C475e8249f2D31a9fb) (implemented with Uniswap V3 style). [Position manager](https://basescan.org/token/0x827922686190790b37229fd06084350E74485b72) isn't returning position, looking into the [gauge](https://basescan.org/address/0x9B55cb6cAe1e303B5EDce6F9fcf90246D382809c#code) too, seems like position NFT fee tier and pool fee tier not matching.
 
 2025-07-08 Tue: Implemented: checking position out of range, remove liquidity/collect fees. Was not correctly displaying position information, working on debugging and also added Q3 goals.
