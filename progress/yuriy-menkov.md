@@ -1,3 +1,7 @@
+2025-07-10 Thu: Synced with Artem regarding the analytics API service and the required analysis. Worked on setting up filters to obtain more accurate median values (since there are many noise positions with 0% APR or very small deposits). Added APIs for retrieving tick-level statistics and grouping by ticks, including min/max price boundaries.
+
+2025-07-09 Wed: Splited the analytics system into three services (to support a larger number of pools and positions): data collection, data aggregation and computation, and an API serving statistics based on the processed data. Deployment setup and testing are in progress.
+
 2025-07-08 Tue: Setting up and deploying the service with the database on Fly.io, testing and refining based on core use cases. Additional improvements for Snapshot X.
 
 2025-07-07 Mon: Started work on integrating a postgress db into the analytics service (for storing events and positions data) to speed up analysis and enable fast loading of historical data, as fetching directly from on-chain events and subgraphs can take up to an hour and is limited. 
