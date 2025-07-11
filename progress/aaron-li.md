@@ -1,4 +1,4 @@
-2025-7-10 Thu (4.8h+): Revise LP hedger issues on trading option too frequently during large price movement. Deployment notes and documentation. Swap database for LP backtesting.
+2025-7-10 Thu (5.8h+): Revise LP hedger issues on trading option too frequently during large price movement. Deployment notes and documentation. Swap database for LP backtesting.
 
 2025-7-9 Wed (5.3h): Reviewing and analyzing backtesting code and potential issues. Revisiting Uniswap fees tracking and calculation for backtesting. Discussion on LP projects.
 
