@@ -1,3 +1,9 @@
+2025-07-12 Sat: Last week, I focused on studying [EIP-2537](https://eips.ethereum.org/EIPS/eip-2537), which introduces precompiles for the **BLS12-381** curve—critical for efficient cryptographic operations like signature aggregation and verification. After reviewing the spec and understanding the cryptographic requirements, I began implementing the necessary precompiles.
+
+The initial progress is promising. Key functions are taking shape, and the next step will be to extend the implementation with **comprehensive tests** to ensure correctness and performance. Development will continue into next week as I aim to bring full support for these precompiles into the Harmony EVM.
+
+---
+
 🦂 Q3 2025 Plan
 
 For Q3, I’ll be focusing on researching and implementing key protocol improvements. A major priority is EIP-2537, which introduces BLS12-381 precompiles. I’ll start by studying the spec in detail, evaluating its impact on our existing cryptographic operations, and then move into implementation, testing, and devnet integration.
