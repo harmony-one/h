@@ -1,4 +1,4 @@
-2025-7-11 Fri (0.4h+): Revise LP hedger issues on trading option too frequently during large price movement.
+2025-7-11 Fri (1.3h+): Batch domain renewal and restoration. Debugging private RPC servers. Revise LP hedger issues on trading option too frequently during large price movement.
 
 2025-7-10 Thu (4.2h): Revise LP hedger issues on trading option too frequently during large price movement. Deployment notes and documentation. Swap database for LP backtesting.
 
