@@ -1,3 +1,10 @@
+Q3 Plans:
+-	Successfully launch the London upgrade on testnet.
+-	Improve metrics coverage for the block proposing process.
+-	Analyze and optimize block proposal timing to achieve consistent 1-second intervals under the 1-second finality model.
+
+---
+
 2025-07-04 Fri: I focused on fixing and updating the test codebase to support the London and Berlin upgrades. The test suite was adapted to recent code changes, with overall progress at approximately 70%.
 
 Additionally, I revived several team pull requests and handled on-call issues related to bootnode stability. 
