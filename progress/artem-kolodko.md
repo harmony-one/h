@@ -1,3 +1,5 @@
+2025-07-11 Fri: completed draft of a new [LP rebalancing strategy](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/LPRebalancingStrategy.md), will work on optimizing it and make some estimates with different parameters; reviewed and merged pull request with unified TSV export in Aerodrome LP backtesting script
+
 2025-07-10 Thu: started working on optimized LP rebalancing model, which should be more efficient for collecting fees and can be used in various implementations. Draft should be ready on Friday.
 
 2025-07-09 Wed: updated [unified backtesting output](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/BacktestingOutputExample.md) format based on feedback from Aaron. Tested BTC strategy using both values from database and env variables (we need to store latest positionId in database after auto-rebalancing).
