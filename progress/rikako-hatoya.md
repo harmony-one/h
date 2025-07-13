@@ -1,3 +1,5 @@
+2025-07-12 Sat (1.0h): Continue Fri, debugging from test methods. Resolving conflicts in app.service file.
+
 2025-07-11 Fri: Had merge issues previously, started from scratch and implemented 1. detected position out of range, 2. remove liquidity, 3. collect fees and added to new [PR](https://github.com/harmony-one/portfolio-manager/pull/29). Also added methods 1. add liquidity to existing position, 2. create new position with percentage range, 3. helper function to get order of pool tokens, now working on adding tests for these methods to `aerodrome.service.spec` file and resolving merge issues.
 
 2025-07-10 Thu: In-person team sync, revision of Q3. Debugged position error (due to RPC limit), [added](https://github.com/rikaa15/portfolio-manager/tree/test-pr-27) aerodrome rebalancing logic, refactored to separate rebalancing functions between aerodrome and uniswap as `LP_PROVIDER`, now working on merging/restoring new code from main branch. 
