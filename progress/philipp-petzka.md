@@ -1,3 +1,8 @@
+2025-07-13: In collaboration with everyone involved in the definition and execution of the treasury return strategies, I provided my input and feedback on the next steps to align with the team. We had a team call to define the minimum viable product for the BTC strategy and discussed the next steps. 
+
+I changed my test script accordingly. It works with a BTC/USDC pool now on Shadow (Sonic network). In addition, I am in the process of adding the same strategy for Aerodrome to achieve more verifiable data.  
+
+
 2025 Q2 Review
 
 Q2 was entirely driven by identifying the problems of liquidity pools and the lack of profitability of liquidity providers, especially when it comes to concentrated liquidity pools. Benchmarks and test scenarios revealed that most losses are attributed to suboptimal rebalancing during high-volatility periods. The findings helped to look into potential solutions. The measurement of volatility-to-price correlation only delivered weak results. Still, it was clear that a phase of strong price moves needs to be avoided when farming concentrated pools or even having automated rebalancing in place. 
