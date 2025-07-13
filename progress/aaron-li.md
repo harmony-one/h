@@ -1,4 +1,4 @@
-2025-7-13 Sun (1.0h+): LP Hedger performance analysis tool.
+2025-7-13 Sun (2.0h+): LP Hedger performance analysis tool.
 
 2025-7-11 Fri (2.9h): LP Hedger performance analysis tool. Batch domain renewal and restoration. Debugging private RPC servers. Revise LP hedger issues on trading option too frequently during large price movement.
 
