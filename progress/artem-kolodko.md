@@ -1,4 +1,4 @@
-2025-07-13 Sun (2.0h): [added](https://github.com/harmony-one/portfolio-manager/commit/e896452043ea489216d7760405e0557e50c5373f) high-level overview of a new LP strategy to use both in implenentation and backtesting script
+2025-07-13 Sun (2.0h): [prototyping](https://github.com/harmony-one/portfolio-manager/commit/e896452043ea489216d7760405e0557e50c5373f) high-level overview of a new LP strategy to use both in implenentation and backtesting script
 
 2025-07-11 Fri: completed draft of a new [LP rebalancing strategy](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/LPRebalancingStrategy.md), will work on optimizing it and make some estimates with different parameters; reviewed and merged pull request with unified TSV export in Aerodrome LP backtesting script
 
