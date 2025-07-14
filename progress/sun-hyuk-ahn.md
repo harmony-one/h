@@ -1,3 +1,7 @@
+2025-07-14 Mon: (Gnosis safe analysis; complete quic implementation outline)
+
+---
+
 2025 Q3 Proposal
 
 My Q3 plans are to add QUIC transport support and implement a simple peer-scoring system for Harmony’s p2p layer.
@@ -10,7 +14,11 @@ Enhanced Gossipsub, which was discussed in the Q2 review, is designed to improve
 
 ---
 
-2025-07-09 Wed: (Continue QUIC transport implementation)
+2025-07-11 Fri: Examined go-libp2p's quic tranpsport [package](https://github.com/libp2p/go-libp2p/tree/master/p2p/transport/quic). Started outlining the implementation plan for the Harmony repository.
+
+2025-07-10 Thu: [Analyzed](https://www.notion.so/QUIC-Implementation-23004f79c14280b09a1ade469bdf85b4?source=copy_link) go-libp2p's quic transport implementation and the high level architecture.
+
+2025-07-09 Wed: [Researched](https://www.notion.so/QUIC-Implementation-23004f79c14280b09a1ade469bdf85b4?source=copy_link) into QUIC and TLS 1.3.
 
 2025-07-08 Tue: Began QUIC transport implementation (mentioned in Q3 goals). Diagnosed and resolved a user issue with the interaction between staking.harmony.one and MetaMask.
 
