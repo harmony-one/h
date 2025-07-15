@@ -6,7 +6,9 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 
 ---
 
-2025-07-14 Mon: Writing of thread on our BTC/USDC vaults, posted to [Reddit]() and [X](). Began filming of the new shorts series from the Q2 video.
+2025-07-15 Tue: Attending the caffeine hackathon with the team. Created shorts from Q2 video with Descript, scheduled 3 to post throughout the week. Writing answers to questions about our DeFi initiative, top questions being "Will it be possible to enter single-sided (BTC only or USDC only) or will users need both?" "What are the predicted yields?"
+
+2025-07-14 Mon: Writing of thread on our BTC/USDC vaults, posted to [Reddit](https://www.reddit.com/r/harmony_one/comments/1lzzzef/harmony_btcusdc_vaults_how_do_they_actually_earn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and [X](https://x.com/harmonyprotocol/status/1944972485574967440). Began filming of the new shorts series from the Q2 video.
 
 ---
 
