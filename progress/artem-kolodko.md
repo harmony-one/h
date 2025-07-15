@@ -1,4 +1,4 @@
-2025-07-14 Mon: reviwed pull requests with Aerodrome LP [position management](https://github.com/harmony-one/portfolio-manager/pull/29) methods and updated [TSV export](https://github.com/harmony-one/portfolio-manager/pull/30/files) in unified format, improved LP rebalancing strategy, asked Aaron and Philipp to review it
+2025-07-14 Mon: reviewed pull requests with Aerodrome LP [position management](https://github.com/harmony-one/portfolio-manager/pull/29) methods and updated [TSV export](https://github.com/harmony-one/portfolio-manager/pull/30/files) in unified format, improved LP rebalancing strategy, asked Aaron and Philipp to review it. Initial research on Hummingbot liquidity and hedge strategies, sent summary to Stephen & Aaron.
 
 ---
 
