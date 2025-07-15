@@ -1,4 +1,8 @@
-2025-07-14 Mon: (Gnosis safe analysis; complete quic implementation outline)
+2025-07-16 Wed: (Continue quic transport implementation)
+
+2025-07-15 Tue: Completed Harmony's QUIC implementation [document](https://www.notion.so/QUIC-Implementation-23004f79c14280b09a1ade469bdf85b4?source=copy_link). Began implementing quic transport within the p2p host creation.
+
+2025-07-14 Mon: Drafted Harmony multisig [analysis](https://www.notion.so/Harmony-Multisig-23004f79c1428075913ed1564c88fc61?source=copy_link).
 
 ---
 
@@ -20,7 +24,7 @@ Enhanced Gossipsub, which was discussed in the Q2 review, is designed to improve
 
 2025-07-09 Wed: [Researched](https://www.notion.so/QUIC-Implementation-23004f79c14280b09a1ade469bdf85b4?source=copy_link) into QUIC and TLS 1.3.
 
-2025-07-08 Tue: Began QUIC transport implementation (mentioned in Q3 goals). Diagnosed and resolved a user issue with the interaction between staking.harmony.one and MetaMask.
+2025-07-08 Tue: Diagnosed and resolved a user issue with the interaction between staking.harmony.one and MetaMask.
 
 2025-07-07 Mon: Analyzed protocol server costs across different vendors and cleaned up unused resources. Troubleshooted bootnode down issue and cleaned up the node to prevent it.
 
