@@ -1,4 +1,4 @@
-2025-7-14 Mon (2.9h): LP Hedger performance analysis tool.
+2025-7-14 Mon (3.0h+): LP Hedger performance analysis tool.
 
 ---
 
