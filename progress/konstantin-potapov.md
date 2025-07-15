@@ -1,3 +1,9 @@
+2025-07-11 Fri: I fixed several failing tests to support the London and Berlin upgrades, updating the test suite to reflect recent code changes. Overall progress is around 90%, with only a few remaining test failures that I couldn’t reproduce on macOS.
+
+Additionally, Ulad and I have been working on collecting block production statistics to analyze proposal timing and improve metrics coverage for the block proposing process.   
+
+---
+
 Q3 Plans:
 -	Successfully launch the London upgrade on testnet.
 -	Improve metrics coverage for the block proposing process.
