@@ -1,3 +1,7 @@
+2025-07-14 Mon: reviwed pull requests with Aerodrome LP [position management](https://github.com/harmony-one/portfolio-manager/pull/29) methods and updated [TSV export](https://github.com/harmony-one/portfolio-manager/pull/30/files) in unified format, improved LP rebalancing strategy, asked Aaron and Philipp to review it
+
+---
+
 2025-07-13 Sun (2.0h): [prototyping](https://github.com/harmony-one/portfolio-manager/commit/e896452043ea489216d7760405e0557e50c5373f) high-level overview of a new LP strategy to use both in implenentation and backtesting script; [updated](https://github.com/harmony-one/portfolio-manager/commit/c92b9032224906a3f1706a2a5da3b1a8ed6a8a71) LP rebalancing strategy with asymmetric ranges based on market momentum
 
 2025-07-11 Fri: completed draft of a new [LP rebalancing strategy](https://github.com/harmony-one/portfolio-manager/blob/main/src/docs/LPRebalancingStrategy.md), will work on optimizing it and make some estimates with different parameters; reviewed and merged pull request with unified TSV export in Aerodrome LP backtesting script
