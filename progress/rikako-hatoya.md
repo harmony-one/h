@@ -1,3 +1,7 @@
+2025-07-14 Mon: Fixed createPosition(), added gas estimation method, and updated check position function to approve tokens with buffer. Currently working on cleaning code and reading through strategy.
+
+---
+
 2025-07-13 Sun: Testing of newly added methods. Some RPC rate limit issues, added fallback methods and also opening new position function not working properly, debugging.
 
 2025-07-12 Sat (1.0h): Continue Fri, debugging from test methods. Resolving conflicts in app.service file.
