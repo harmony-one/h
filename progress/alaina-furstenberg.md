@@ -6,7 +6,17 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 
 ---
 
-2025-07-10 Thu: Onsite with team
+2025-07-14 Mon: Writing of thread on our BTC/USDC vaults, posted to [Reddit]() and [X](). Began filming of the new shorts series from the Q2 video.
+
+---
+
+2025-07-13 Sun: Continued review of Hummingbot Videos.
+
+2025-07-12 Sat: Continued review of Hummingbot Videos.
+
+2025-07-11 Fri: Update of the community section. Research into Hummingbot's newsletters to better understand how these DeFi trading algorithms operate. Insights: Hummingbot’s update shows that in DeFi trading, smarter algorithms don’t just chase price—they manage risk by adjusting based on what you already hold. Filmed the weekly [progress recap](https://youtube.com/shorts/xxWKph0O5q4?si=QwbGc7HXJ9glnKSj), rewrote it to tell a wholistic story instead of going person by person.
+
+2025-07-10 Thu: Onsite with team. Insights: Will work to create DeFi forums to engage the community in our BTC yield initiative.
 
 2025-07-09 Wed: Sync with Amanda on Q3 initiatives and assistance with Reddit engagement and reply threads on X. [Thread](https://x.com/harmonyprotocol/status/1943154865339007149) on the top tweets from Q2. Review of Q3 initiatives for tomorrow's meeting.
 
