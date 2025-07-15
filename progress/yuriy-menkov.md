@@ -1,3 +1,12 @@
+
+2025-07-15 Tue: Extracted the Aerodrome [analytics service](https://github.com/harmony-one/aerodrome-analytics) into a separate repository. Added features for local deployment, including commands for starting and configuring the database, displaying load statistics, and in-memory analytics of loaded data. Shared the setup with Artem for joint testing.
+
+2025-07-14 Mon: Researched the Snapshot X ecosystem for CLI-based voting — including ready-made [MVP solutions](https://github.com/snapshot-labs/sx-cli) and custom implementations using the SDK. Also explored the possibility of accessing validator stake weight within a smart contract for a custom voting strategy, based on the Harmony Read-Only [Staking Precompile](https://talk.harmony.one/t/harmony-read-only-staking-precompile/12720).
+
+---
+
+2025-07-11 Fri: Reviewed the optimal LP Rebalancing Strategy for Aerodrome cbBTC/USDC added by Artem, and discussed key integration points. Made improvements to the Aerodrome analytics service — fixed position close date detection and optimized the performance of the analytics generation function.
+
 2025-07-10 Thu: Synced with Artem regarding the analytics API service and the required analysis. Worked on setting up filters to obtain more accurate median values (since there are many noise positions with 0% APR or very small deposits). Added APIs for retrieving tick-level statistics and grouping by ticks, including min/max price boundaries.
 
 2025-07-09 Wed: Splited the analytics system into three services (to support a larger number of pools and positions): data collection, data aggregation and computation, and an API serving statistics based on the processed data. Deployment setup and testing are in progress.
