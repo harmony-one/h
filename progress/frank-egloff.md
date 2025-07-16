@@ -1,3 +1,5 @@
+2025-07-15 Tue: Reviewed and discussed Artem's LP rebalance strategy. Received feedback from Theo and Philipp on backtesting TSV export file - Philipp noted that the Net gain vs hold values appear incorrect, need to investigate discrepancies. Worked on refactoring position class to be protocol agnostic by standardizing on token0/token1 calculations regardless of protocol. The Defilabs liquidity unit implementation is based on token0 values (tick values, highs, lows), so eliminated protocol-specific logic in favor of consistent token0/token1 handling across all AMM protocols.
+
 2025-07-14 Mon: Resolved tick calculation inconsistencies between Uniswap and Aerodrome protocols. Discovered core issue: DEXs store BTC prices in different token order (Uniswap: token1Price, Aerodrome: token0Price) which affects the position tick calculations. After testing 4 approaches, determined Uniswap requires "price inversion + sign flip" while Aerodrome needs "price inversion only" to match subgraph tick values. Current solution works functionally but investigating underlying mathematical reasoning behind protocol-specific transformations.
 
 ---
