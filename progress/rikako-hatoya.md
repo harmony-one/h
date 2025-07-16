@@ -1,4 +1,4 @@
-2025-07-15 Tue: Edited aerodrome service file (added unified position type, sleep timer, changed structure of addLiquidity), pushed to open PR. In-person meet-up at the caffeine event.
+2025-07-15 Tue: Edited aerodrome service file (added unified position type, sleep timer, changed structure of addLiquidity, started resolving conflicts through webstorm), pushed to open PR. In-person meet-up at the caffeine event.
 
 2025-07-14 Mon: Fixed createPosition(), added gas estimation method, and updated check position function to approve tokens with buffer. Currently working on cleaning code and reading through strategy.
 
