@@ -1,4 +1,4 @@
-2025-7-16 Wed (1.4h+): LP Hedger performance analysis tool.
+2025-7-16 Wed (2.4h+): LP Hedger performance analysis tool.
 
 2025-7-15 Tue (4.7h): LP Hedger performance analysis tool. Review proposed strategies.
 
