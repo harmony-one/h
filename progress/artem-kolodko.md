@@ -1,3 +1,5 @@
+2025-07-16 Wed: [updated](https://github.com/harmony-one/portfolio-manager/commit/3d1a49d6b1ae7ae34b0544dcf524f828bedc6031) new LP strategy with funding rate signals;  started working on new LP strategy implementation. Reviewed updates and [merged](https://github.com/harmony-one/portfolio-manager/pull/29) Aerodrome LP utility methods
+
 2025-07-15 Tue: [drafted](https://github.com/harmony-one/portfolio-manager/pull/31) project structure for improved LP strategy implementation; reviewed Aerodrome LP [pull request](https://github.com/harmony-one/portfolio-manager/pull/29) update.
 
 2025-07-14 Mon: reviewed pull requests with Aerodrome LP [position management](https://github.com/harmony-one/portfolio-manager/pull/29) methods and updated [TSV export](https://github.com/harmony-one/portfolio-manager/pull/30/files) in unified format, improved LP rebalancing strategy, asked Aaron and Philipp to review it. Initial research on Hummingbot liquidity and hedge strategies, sent summary to Stephen & Aaron.
