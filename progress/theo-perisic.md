@@ -1,3 +1,4 @@
+2025-07-18 Fri: Out of Office
 
 2025-07-16 Wed: Team sync. Helping Philipp with GitHub files. Continued comparison between Hummingbot LP strategy support and our internal portfolio-manager and lp-hedger repos.
 
