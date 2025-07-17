@@ -1,3 +1,22 @@
+
+2025-07-16 Wed: Team sync. Helping Philipp with GitHub files. Continued comparison between Hummingbot LP strategy support and our internal portfolio-manager and lp-hedger repos.
+
+2025-07-15 Tue: 8h Hackathon in SF, meeting AI engineers. Meetup with Li, Rika, and Alaina. Insights: claude code clear winner for developers, majority using Max plan for more than $1k monthly free usage.
+
+2025-07-14 Mon: Prep for hackathon, sync with Alaina for event and travel coordination. Reviewed Franks’s aerodrome rewards.
+
+---
+
+2025-07-13 Sun: (1.0h) Initial look into hummingbot btc strategies. More depth code review needed to compare functionality with our internal tooling.
+
+2025-07-12 Sat: (3.0h) Testing new Kimi open source model, claude sonnet comparison at minimal costs, high quality tool following but API based pricing cannot compete with Claude Code monthly Max plan. Every engineer should be on the $200/m Claude plan while they still offer it, thousands in free API usage will not last forever.
+
+2025-07-11 Fri: Sync with Yuriy for SnapshotX. CLI secure validator voting and Harmony unique validator stake weight integrations remain, awaiting prioritization, currently balancing BTC strategies with snapshotX development. 
+
+2025-07-10 Thu: Reviewing July recovery burn delays, continued working on updated recovery plan that would be best for ecosystem, solution is non-trivial, but there may be an optimal solution. Community sentiment is more in favor of burning instead of recovery.  Shared updates with Li.
+
+---
+
 2025 Q2 Review (40h)
 
 [Aerodrome LP functionality](https://github.com/harmony-one/portfolio-manager/pull/16)
