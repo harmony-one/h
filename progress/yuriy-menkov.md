@@ -1,4 +1,8 @@
 
+2025-07-17 Thu: Deploying the aerodrome monitoring service on AWS machines with a configured PostgreSQL database (since fly io's capacity is insufficient to load and calculate current statistics). Performed local testing of sx-cli and attempted to implement wallet usage from a file, similar to hmy-cli.
+
+2025-07-16 Wed: Worked on a corrected AERO rewards calculation — previously, rewards claimed before a withdrawal were not accounted for. Added logic to track intermediate claimRewards events and allocate their amounts across active positions.
+
 2025-07-15 Tue: Extracted the Aerodrome [analytics service](https://github.com/harmony-one/aerodrome-analytics) into a separate repository. Added features for local deployment, including commands for starting and configuring the database, displaying load statistics, and in-memory analytics of loaded data. Shared the setup with Artem for joint testing.
 
 2025-07-14 Mon: Researched the Snapshot X ecosystem for CLI-based voting — including ready-made [MVP solutions](https://github.com/snapshot-labs/sx-cli) and custom implementations using the SDK. Also explored the possibility of accessing validator stake weight within a smart contract for a custom voting strategy, based on the Harmony Read-Only [Staking Precompile](https://talk.harmony.one/t/harmony-read-only-staking-precompile/12720).
