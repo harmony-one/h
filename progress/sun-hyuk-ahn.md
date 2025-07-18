@@ -1,4 +1,8 @@
-2025-07-16 Wed: (Continue quic transport implementation)
+2025-07-18 Fri: (Complete PR 4925; continue on QUIC implementation)
+
+2025-07-17 Thu: [Created](https://github.com/harmony-one/harmony/pull/4925) the initial fix for the data corruption issue. Will test tomorrow on devnet bootnodes.
+
+2025-07-16 Wed: Began analyzing data corruption [issue](https://github.com/harmony-one/harmony/issues) upon restart and dissecting data storage logic within `host.go`.
 
 2025-07-15 Tue: Completed Harmony's QUIC implementation [document](https://www.notion.so/QUIC-Implementation-23004f79c14280b09a1ade469bdf85b4?source=copy_link). Began implementing quic transport within the p2p host creation.
 
