@@ -1,3 +1,5 @@
+2025-7-18 Fri (0.1h): Fix issues on position and trade tracking.
+
 2025-7-17 Thu (7.6h): Fix issues on position and trade tracking. Discussion on strategies performance in production, issues, performance tools, and backtesting. CLARITY Act, USA v Storm. LP Hedger performance analysis tool.
 
 2025-7-16 Wed (11.4h): LP Hedger performance analysis tool.
