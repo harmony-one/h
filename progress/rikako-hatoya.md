@@ -1,3 +1,5 @@
+2025-07-17 Thu: Started researching on optimal hedging. Looking into parameters and associating risks.
+
 2025-07-16 Wed: Looking into new strategy. Research into questions discussed with Li earlier.
 
 2025-07-15 Tue: Edited aerodrome service file (added unified position type, sleep timer, changed structure of addLiquidity, resolved conflicts through webstorm), pushed to open PR. In-person meet-up at the caffeine event.
