@@ -1,3 +1,5 @@
+2025-07-17 Thu: [started](https://github.com/harmony-one/portfolio-manager/pull/31) to implement the core logic and metrics for the new LP strategy
+
 2025-07-16 Wed: [updated](https://github.com/harmony-one/portfolio-manager/commit/3d1a49d6b1ae7ae34b0544dcf524f828bedc6031) new LP strategy with funding rate signals;  started working on new LP strategy implementation. Reviewed updates and [merged](https://github.com/harmony-one/portfolio-manager/pull/29) Aerodrome LP utility methods
 
 2025-07-15 Tue: [drafted](https://github.com/harmony-one/portfolio-manager/pull/31) project structure for improved LP strategy implementation; reviewed Aerodrome LP [pull request](https://github.com/harmony-one/portfolio-manager/pull/29) update.
