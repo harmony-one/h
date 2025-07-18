@@ -6,6 +6,12 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 
 ---
 
+2025-07-18 Fri: Update of the community section. Creation of the weekly progress short.
+
+2025-07-17 Thu: Uploading of a short on 5.country from the Q2 video. Promotion of SimpleSwap summer challenge on [X](https://x.com/harmonyprotocol/status/1945868656321401028)
+
+2025-07-16 Wed: Tested Claude Code for the first time. I was successfully able to code/design simple applications like timers/forms. My next goal is to design something more complicated, so down the line I can contribute to the design of our USDC/BTC vaults. [Thread](https://x.com/harmonyprotocol/status/1945686905724743691) on the Long BTC Yield Hedge, explaining the strategy. Accompanied with a graphic designed in Canva.
+
 2025-07-15 Tue: Attending the caffeine hackathon with the team. Created shorts from Q2 video with Descript, scheduled 3 to post throughout the week. Writing answers to questions about our DeFi initiative, top questions being "Will it be possible to enter single-sided (BTC only or USDC only) or will users need both?" "What are the predicted yields?"
 
 2025-07-14 Mon: Writing of thread on our BTC/USDC vaults, posted to [Reddit](https://www.reddit.com/r/harmony_one/comments/1lzzzef/harmony_btcusdc_vaults_how_do_they_actually_earn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and [X](https://x.com/harmonyprotocol/status/1944972485574967440). Began filming of the new shorts series from the Q2 video.
