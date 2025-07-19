@@ -1,10 +1,8 @@
 2025-07-18 Fri:
 
-I was almost completely focused on the monitoring side, I've finished the stream sync dashboard and gotten the positive feedback from Gheis about it.
-Additionally, I've created a dashboard for the 1 second finality block producing to have visualization of the real block time creation and validation.
-And finally I've started to update the current monitoring stack to the LTS versions and enlarged it with pprof data collection via [Pyroscope](https://pyroscope.io/).
+I've finished the stream sync dashboard and gotten the positive feedback from Gheis about it. Additionally, I've created a dashboard for the 1 second finality block producing to have visualization of the real block time creation and validation. Finally, I've started to update the current monitoring stack to the LTS versions and enlarged it with pprof data collection via [Pyroscope](https://pyroscope.io/).
 
-On the ops side, shared details about [bootnode db corruption](https://github.com/harmony-one/harmony/issues/4883) with Sun, installed the [fix](https://github.com/harmony-one/harmony/pull/4925) on the devnet. Also, I've pinged Explorer team about wrong ONE price on the explorer.
+On the ops side, I shared details about [bootnode db corruption](https://github.com/harmony-one/harmony/issues/4883) with Sun, installed the [fix](https://github.com/harmony-one/harmony/pull/4925) on the devnet. Also, I've pinged Explorer team about wrong ONE price on the explorer.
 
 ---
 
