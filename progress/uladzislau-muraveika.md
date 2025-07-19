@@ -1,4 +1,27 @@
-Tue 2025-07-08: View changes and shard health visualization
+2025-07-18 Fri:
+
+I was almost completely focused on the monitoring side, I've finished the stream sync dashboard and gotten the positive feedback from Gheis about it.
+Additionally, I've created a dashboard for the 1 second finality block producing to have visualization of the real block time creation and validation.
+And finally I've started to update the current monitoring stack to the LTS versions and enlarged it with pprof data collection via [Pyroscope](https://pyroscope.io/).
+
+On the ops side, shared details about [bootnode db corruption](https://github.com/harmony-one/harmony/issues/4883) with Sun, installed the [fix](https://github.com/harmony-one/harmony/pull/4925) on the devnet. Also, I've pinged Explorer team about wrong ONE price on the explorer.
+
+---
+
+2025-07-11 Fri:
+
+On the ops side, current week main focus was to understand the current state of the mainnet view changes, see the Tuesday update below.
+Additionally, I've created a fresh SnapDB snapshot - 420GB -> 120 GB, this decreases time to start a node and disk space needs.
+And finally, I've added 2GB RAM for the mainnet bootnodes for have 2 CPU/4 RAM and seems it helped to stabilize their state.
+
+For the consensus work, I've started to collect Harmony stream sync metrics by Prometheus and create a simple visualization for them in Grafana. Next step will be to enable stream sync on the whole devnet scale, current state - all nodes are stream sync servers - can share the history, but only the set of test nodes can be clients. Visualization needed as a good exercise for the monitoring stream sync on the whole network scale.
+
+Example of stream sync visualization:
+
+![alt text](img/devnet_streamsync.png)
+---
+
+2025-07-08 Tue: View changes and shard health visualization
 
 During Q2 I've spent a great amount of time checking both shard states for the `Shard 0 consensus stuck` alarms.
 After some time I noticed `check the peer state` dashboard can be reused for the whole shard heath. This dashboard combined with Loki logs and `hmy_consensus_viewchange` Prometheus metric allowed me to find several issues in the current state:
