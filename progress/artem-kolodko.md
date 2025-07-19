@@ -1,3 +1,5 @@
+2025-07-18 Fri: new LP strategy: fetched data and [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/5f0a79be0cd7ef2ca24571e65f460409bcc26c2b) support of current market state; continue on core rebalancing mechanism. Merged [PR](https://github.com/harmony-one/portfolio-manager/pull/30) with uniswap backtesting script update.
+
 2025-07-17 Thu: [started](https://github.com/harmony-one/portfolio-manager/pull/31) to implement the core logic and metrics for the new LP strategy
 
 2025-07-16 Wed: [updated](https://github.com/harmony-one/portfolio-manager/commit/3d1a49d6b1ae7ae34b0544dcf524f828bedc6031) new LP strategy with funding rate signals;  started working on new LP strategy implementation. Reviewed updates and [merged](https://github.com/harmony-one/portfolio-manager/pull/29) Aerodrome LP utility methods
