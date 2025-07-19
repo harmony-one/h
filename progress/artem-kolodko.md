@@ -1,3 +1,5 @@
+2025-07-19 Sat (4.0h): [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/a5146e094e6fc07a3b630f7174e1b40c7c53c0d5) LP position price range based on upper and lower ticks; [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/716885e50dcaafa8fc4cbfb0df5ed90ae4ba9418) BTC funding rates from Binance
+
 2025-07-18 Fri: new LP strategy: fetched data and [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/5f0a79be0cd7ef2ca24571e65f460409bcc26c2b) support of current market state; continue on core rebalancing mechanism. Merged [PR](https://github.com/harmony-one/portfolio-manager/pull/30) with uniswap backtesting script update.
 
 2025-07-17 Thu: [started](https://github.com/harmony-one/portfolio-manager/pull/31) to implement the core logic and metrics for the new LP strategy
