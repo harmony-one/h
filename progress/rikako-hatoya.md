@@ -1,3 +1,5 @@
+2025-07-18 Fri: Continuation of working on optimal hedging parameters.
+
 2025-07-17 Thu: Started researching on optimal hedging. Looking into parameters and associating risks.
 
 2025-07-16 Wed: Looking into new strategy. Research into questions discussed with Li earlier.
