@@ -2,6 +2,7 @@
 
 I changed my test script accordingly. It works with a BTC/USDC pool now on Shadow (Sonic network). In addition, I am in the process of adding the same strategy for Aerodrome to achieve more verifiable data.  
 
+---
 
 2025 Q2 Review
 
