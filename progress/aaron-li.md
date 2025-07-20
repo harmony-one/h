@@ -1,4 +1,4 @@
-2025-7-20 Sun (5.5h+): Fix issues on position and trade tracking.
+2025-7-20 Sun (6.2h): Fix issues on position and trade tracking.
 
 2025-7-18 Fri (1.6h): Fix issues on position and trade tracking.
 
