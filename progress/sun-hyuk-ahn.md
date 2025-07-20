@@ -1,4 +1,8 @@
-2025-07-18 Fri: (Complete PR 4925; continue on QUIC implementation)
+2025-07-21 Mon:
+
+---
+
+2025-07-18 Fri: Completed testing for PR 4925, devnet is able to differentiate the peer storage and DHT storage.
 
 2025-07-17 Thu: [Created](https://github.com/harmony-one/harmony/pull/4925) the initial fix for the data corruption issue. Will test tomorrow on devnet bootnodes.
 
