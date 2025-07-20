@@ -1,3 +1,8 @@
+2025-07-20: I re-deployed the hedged farming strategy for BTC/USDC and started tracking its performance. Reviewed Artems and Franks LP strategy and Back-testing. Gammaswap, as well as YieldBasis introduced hedged farming strategies for concentrated liquidity pools so I started looking into them. 
+
+I got a request from Li to provide my opinion regarding the potential performance for certain assets held by our treasury, so I started writing a paper with a short thesis for each of the named assets. 
+
+
 2025-07-13: In collaboration with everyone involved in the definition and execution of the treasury return strategies, I provided my input and feedback on the next steps to align with the team. We had a team call to define the minimum viable product for the BTC strategy and discussed the next steps. 
 
 I changed my test script accordingly. It works with a BTC/USDC pool now on Shadow (Sonic network). In addition, I am in the process of adding the same strategy for Aerodrome to achieve more verifiable data.  
