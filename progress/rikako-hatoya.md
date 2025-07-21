@@ -1,3 +1,5 @@
+2025-07-20 Sun (1.0h): Continue reading yield basis.
+
 2025-07-19 Sat (8.0h): Went back and re-read strategy documents (new LP rebalancing + BTC/USDC doc) to better understand. Reading of YieldBasis strategy.
 
 2025-07-18 Fri: Continuation of working on optimal hedging parameters.
