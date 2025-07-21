@@ -1,3 +1,7 @@
+2025-7-21 Mon (0.6h+): Scripts for verifying trading and position data integrity, and periodically sync.
+
+---
+
 2025-7-20 Sun (8.1h): Fix issues on position and trade tracking.
 
 2025-7-18 Fri (1.6h): Fix issues on position and trade tracking.
