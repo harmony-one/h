@@ -1,3 +1,7 @@
+2025-07-21 Mon: first implementation of all LP [rebalancing](https://github.com/harmony-one/portfolio-manager/pull/31/files#diff-811f2494d2b82fb17cbb52f8047ba1da4e04db4f0a803db200c683095f5510fe) logic. Run the bot locally tomorrow.
+
+---
+
 2025-07-20 Sun (2.0h): continue on core LP strategy logic: [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/e890ac8a46cfd895692a021a5436fd8a371806e4) priveRangeToTicks, utility methods [refactoring](https://github.com/harmony-one/portfolio-manager/pull/31/commits/070d1a26122686b399b58c0acccbe26b91dfb5a2)
 
 2025-07-19 Sat (4.0h): [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/a5146e094e6fc07a3b630f7174e1b40c7c53c0d5) LP position price range based on upper and lower ticks; [added](https://github.com/harmony-one/portfolio-manager/pull/31/commits/716885e50dcaafa8fc4cbfb0df5ed90ae4ba9418) BTC funding rates from Binance
