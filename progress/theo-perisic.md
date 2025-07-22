@@ -1,3 +1,11 @@
+2025-07-21 Mon: Review of Recovery1 updates, Quoc [retrospective](https://recoveryonefoundation.medium.com/recovery-the-story-of-harmony-resilience-55197aa19d42), and drafted temporary recovery solution that is non-voting and abides by HIP-30v, currently in review. Sync with Yuriy for sx-cli (SnapshotX) progress.
+
+---
+
+2025-07-20 Sun: (2.0h) Reviewing community discussions regarding recovery. 
+
+2025-07-19 Sat: (2.0h) Dive into additional assets for strategies. (shared final results with Li, 07-21 Mon) 
+
 2025-07-18 Fri: Out of Office
 
 2025-07-17 Thu: Completed extensive recovery calculations, drafted initial proposal that completes recovery in a capped 1 year, shared proposal with Recovery Multisig Custodians to review. Coordination to renew [swap.country](https://swap.country/) and subgraph migration with protofire , renewal complete, still waiting on subgraph, recent contact confirms migration will be complete before July 31st deadline. 
