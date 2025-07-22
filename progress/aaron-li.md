@@ -4,17 +4,17 @@
 
 ---
 
-2025-7-20 Sun (8.1h): Fix issues on position and trade tracking.
+2025-7-20 Sun (8.1h): Fix issues on recording trades and fees transaction. Fix potential issues on Hyperliquid position capturing in monitor. Implement systems for syncing Aerodrome fees and trades with database accurately.
 
 2025-7-18 Fri (1.6h): Fix issues on position and trade tracking.
 
-2025-7-17 Thu (7.6h): Fix issues on position and trade tracking. Discussion on strategies performance in production, issues, performance tools, and backtesting. CLARITY Act, regulatory and enforcement actions. LP Hedger performance analysis tool.
+2025-7-17 Thu (7.6h): Fix issues on position and trade tracking. Discussion on strategies performance in production, issues, performance tools, and backtesting. CLARITY Act, regulatory and enforcement actions. Separation of performance tables. Fix issues in some daily and cumulative metrics.
 
-2025-7-16 Wed (11.4h): LP Hedger performance analysis tool.
+2025-7-16 Wed (11.4h): Waste measurement and analysis, hedge performance evaluator, daily performance summary, cumulative performance summary, internal rate of return and return of capital calculation.
 
-2025-7-15 Tue (4.7h): LP Hedger performance analysis tool. Review proposed strategies.
+2025-7-15 Tue (4.7h): Profit and loss calculation, fee aggregation and calculation, LP earning and trading profits and loss calculations. Review proposed strategies.
 
-2025-7-14 Mon (8.9h): LP Hedger performance analysis tool.
+2025-7-14 Mon (8.9h): Ad-hoc scripts for fixing inaccurate data and positions recorded in database. Fix some issues on trade recording and fill data aggregation.
 
 ---
 
