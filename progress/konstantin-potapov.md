@@ -1,3 +1,9 @@
+2025-07-18 Fri (3 days off):
+I fixed a failing test caused by the execution of validator-assigned code, which should be avoided in the Harmony codebase.
+Additionally, I reviewed the pull request introducing the new BLS12-381 precompiles.
+
+---
+
 2025-07-11 Fri: I fixed several failing tests to support the London and Berlin upgrades, updating the test suite to reflect recent code changes. Overall progress is around 90%, with only a few remaining test failures that I couldn’t reproduce on macOS.
 
 Additionally, Ulad and I have been working on collecting block production statistics to analyze proposal timing and improve metrics coverage for the block proposing process.   
