@@ -1,6 +1,6 @@
-2025-7-22 Tue (2.0h): Scripts for verifying trading and position data integrity, and periodically sync.
+2025-7-22 Tue (2.1h): Safety and waste control module. Prevent unnecessary closing and opening hedge positions during rebalancing. CSV export, APR and APY calculation, fix bugs in IRR calculation. Updated README and env vars documentations and env examples.
 
-2025-7-21 Mon (4.1h): Scripts for verifying trading and position data integrity, and periodically sync.
+2025-7-21 Mon (4.1h): Unified sync scripts, structured environment variables for controlling position and trade sync. Aerodrome position sync. Scripts for verifying trading and position data integrity, and periodically sync.
 
 ---
 
