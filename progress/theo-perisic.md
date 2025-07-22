@@ -1,5 +1,7 @@
 2025-07-18 Fri: Out of Office
 
+2025-07-17 Thu: Completed extensive recovery calculations, drafted initial proposal that completes recovery in a capped 1 year, shared proposal with Recovery Multisig Custodians to review. Coordination to renew [swap.country](https://swap.country/) and subgraph migration with protofire , renewal complete, still waiting on subgraph, recent contact confirms migration will be complete before July 31st deadline. 
+
 2025-07-16 Wed: Team sync. Helping Philipp with GitHub files. Continued comparison between Hummingbot LP strategy support and our internal portfolio-manager and lp-hedger repos.
 
 2025-07-15 Tue: 8h Hackathon in SF, meeting AI engineers. Meetup with Li, Rika, and Alaina. Insights: claude code clear winner for developers, majority using Max plan for more than $1k monthly free usage.
