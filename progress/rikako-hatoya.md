@@ -1,3 +1,5 @@
+2025-07-21 Mon: Worked on hedging strategy: tested different scenarios with simulator on revert finance and investigated PnL at different BTC exposures/hedge. Started working on implementing code to simulate PnL with leverage/hedge amount as variables with LP position as input parameter.
+
 2025-07-20 Sun (1.0h): Continue reading yield basis.
 
 2025-07-19 Sat (8.0h): Went back and re-read strategy documents (new LP rebalancing + BTC/USDC doc) to better understand. Reading of YieldBasis strategy.
