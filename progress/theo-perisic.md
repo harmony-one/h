@@ -1,3 +1,5 @@
+2025-07-22 Tue: Continued recovery negotiations and collaborations, sync with Matt, Quoc, and RMC, updated recovery solution with updated funds from previous validator initiative. Insight: un-used funds an be used to bring an immediate end to recovery, with a 1-year expiration for users to claim funds, must pass governance first.
+
 2025-07-21 Mon: Review of Recovery1 updates, Quoc [retrospective](https://recoveryonefoundation.medium.com/recovery-the-story-of-harmony-resilience-55197aa19d42), and drafted temporary recovery solution that is non-voting and abides by HIP-30v, currently in review. Sync with Yuriy for sx-cli (SnapshotX) progress.
 
 ---
