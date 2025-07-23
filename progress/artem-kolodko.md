@@ -1,4 +1,4 @@
-2025-07-22 Mon: tested [new LP strategy](https://github.com/harmony-one/portfolio-manager/pull/31) bot implementation with real positions, fixing a bug in the openPosition method
+2025-07-22 Tue: tested [new LP strategy](https://github.com/harmony-one/portfolio-manager/pull/31) bot implementation with real positions, fixing a bug in the openPosition method
 
 2025-07-21 Mon: first implementation of all LP [rebalancing](https://github.com/harmony-one/portfolio-manager/pull/31/files#diff-811f2494d2b82fb17cbb52f8047ba1da4e04db4f0a803db200c683095f5510fe) logic. Run the bot locally tomorrow.
 
