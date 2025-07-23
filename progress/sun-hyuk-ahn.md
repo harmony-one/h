@@ -1,4 +1,6 @@
-2025-07-22 Tue: (Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
+2025-07-23 Wed: (Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
+
+2025-07-22 Tue: Began dissecting stream sync peer disconnection issue. Analyzed trusted node [issue](https://github.com/harmony-one/harmony/pull/4777) and began working on the fix.
 
 2025-07-21 Mon: [Added](https://github.com/harmony-one/harmony/pull/4927) CLI flags required to set up QUIC protocol. [Implemented](https://github.com/harmony-one/harmony/pull/4927/commits/abd42d3ce01ff45905d356b37c5841f62c443758) the p2p configurations required to enable QUIC during host creation.
 
