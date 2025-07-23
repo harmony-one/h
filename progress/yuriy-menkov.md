@@ -1,4 +1,10 @@
 
+2025-07-21 Mon: Deployed aerodrome finance pool monitoring service on a dedicated [server](http://193.233.19.102:8080/api#/events-loader/LoaderController_getInfo). Worked on autostart and status check scripts. Worked on the client side for convenient integration of methods into other applications and bots.
+
+---
+
+2025-07-18 Fri: Tested the read-only functions of the Harmony staking precompiles to get validators data via a contract. Based on this [reward](https://talk.harmony.one/t/harmony-read-only-staking-precompile/12720) and this [pull request](https://github.com/MaxMustermann2/harmony-staking-precompiles/pull/3). Tested contract deployment and method calls from solidity as well as via web3. The goal is to use read methods in snapshot x voting contracts.
+
 2025-07-17 Thu: Deploying the aerodrome monitoring service on AWS machines with a configured PostgreSQL database (since fly io's capacity is insufficient to load and calculate current statistics). Performed local testing of sx-cli and attempted to implement wallet usage from a file, similar to hmy-cli.
 
 2025-07-16 Wed: Worked on a corrected AERO rewards calculation — previously, rewards claimed before a withdrawal were not accounted for. Added logic to track intermediate claimRewards events and allocate their amounts across active positions.
