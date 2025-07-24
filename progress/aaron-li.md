@@ -1,4 +1,4 @@
-2025-7-23 Wed (4.5h+): Verify PnL and return. Safety and waste control module. Use spot price for USD PnL and reports. Research existing swap simulators and indexers. Research on Ethena.
+2025-7-23 Wed (5.5h+): Verify PnL and return. Safety and waste control module. Use spot price for USD PnL and reports. Research existing swap simulators and indexers. Research on Ethena.
 
 2025-7-22 Tue (6.5h): Discuss performance metrics. Option to include unrealized performance in summaries. Reconcil inconsistencies observed in summaries and fix bugs. Prevent unnecessary closing and opening hedge positions during rebalancing. CSV export, APR and APY calculation, fix bugs in IRR calculation. Updated README and env vars documentations and env examples.
 
