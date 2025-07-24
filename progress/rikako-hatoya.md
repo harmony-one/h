@@ -1,3 +1,5 @@
+2025-07-23 Wed: Started working on adding multicall. Changed hedging from simulating with funding rate as parameter to using averaged values of historical funding rate at each BTC price using Binance API.
+
 2025-07-22 Tue: Opened 6 different LP positions on Aerodrome with symmetric range (differing range width and fee tiers), and collected simulated data on divergence loss + asset ratio using [Revert](https://revert.finance/). [Implemented](https://github.com/rikaa15/portfolio-manager/tree/hedging/src/simulation) hedging simulation script to calculate total PnL and liquidation price at different hedging exposure, leverage, and funding rates on Hyperliquid and output the stratgies with the most PnL at each funding rate value.
 
 2025-07-21 Mon: Worked on hedging strategy: tested different scenarios with simulator on revert finance and investigated PnL at different BTC exposures/hedge. Started working on implementing code to simulate PnL with leverage/hedge amount as variables with LP position as input parameter.
