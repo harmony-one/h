@@ -1,4 +1,4 @@
-2025-7-24 Thu (0.3h): Research on Hyperliquid historical data source.
+2025-7-24 Thu (0.5h): Verify PnL and return. Research on Hyperliquid historical data source.
 
 2025-7-23 Wed (5.6h): Verify PnL and return. Safety and waste control module. Use spot price for USD PnL and reports. Research existing swap simulators and indexers. Research on Ethena.
 
