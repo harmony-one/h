@@ -1,4 +1,8 @@
-2025-07-23 Wed: (Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
+2025-07-25 Fri: (Complete trusted node issue. Fix duplicate stream issue with trusted peers. Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
+
+2025-07-24 Thu: 
+
+2025-07-23 Wed: Verified trusted nodes work on localnet with the protocol streams being set up as expected. Noticed a duplicate stream being set up with trusted peers. Will test with devnet tomorrow.
 
 2025-07-22 Tue: Began dissecting stream sync peer disconnection issue. Analyzed trusted node [issue](https://github.com/harmony-one/harmony/pull/4777) and began working on the fix.
 
