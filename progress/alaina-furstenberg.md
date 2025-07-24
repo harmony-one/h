@@ -1,14 +1,20 @@
-Q3 Focus
+2025-07-24 Thu: Continuation on the July newsletter, syncing with Theo on initial edits and recovery updates.
 
-In Q3, I’m continuing to lead our weekly marketing cadence with daily threads, video shorts, graphics, and monthly reports that highlight team progress, partner updates, and protocol development. I’ll keep supporting our DeFi launches with clear visuals and public explainers, while translating technical strategy work into content that’s easy to follow. As vault deployments and backtests become more active, I’ll help communicate what the team is building—from yield benchmarks and one-sided hedging to vault security and platform comparisons.
+2025-07-23 Wed: Beginning to write the July newsletter. Compiling all assets and weekly reviews. 
 
-Alongside regular content, I’ll create explainers and onboarding materials to support the BTC/USDC vault rollout, showing how returns are generated, what risks are monitored, and how funding rates influence LP strategy. I’ll also collaborate on frontend concepts like vault walkthroughs, APR snapshots, and strategy previews using Figma, Cursor, and Framer. My focus this quarter is to make our DeFi products understandable and accessible, not just to DeFi-native users, but to anyone curious about earning BTC yield onchain.
+2025-07-22 Tue: Reviewing team progress and Snapshot progress to communicate with the community. Answering community questions on Reddit.
+
+2025-07-21 Mon: Research + [Thread](https://x.com/harmonyprotocol/status/1947491886543081953) on the GENIUS act. Insight: Stablecoins have become considered 'legitimate' financial instruments, attracting institutional interest and widespread use in both trading and payments. But as their market cap grows and systemic importance increases, the question of who regulates them—whether it's the SEC, CFTC, or another body—has become more urgent, especially regarding reserve transparency, redemption rights, and compliance with anti-money laundering standards.
 
 ---
 
+2025-07-20 Sun (1.0 hr): Watched Hummingbot's June 2025 Community review.
+
+2025-07-19 Sat (1.0hr): Design of animation + writing the progress [thread](https://x.com/harmonyprotocol/status/1946645927885967578) for the week.
+
 2025-07-18 Fri: Update of the community section. Creation of the weekly progress short.
 
-2025-07-17 Thu: Uploading of a short on 5.country from the Q2 video. Promotion of SimpleSwap summer challenge on [X](https://x.com/harmonyprotocol/status/1945868656321401028)
+2025-07-17 Thu: Uploading of a short on 5.country from the Q2 video. Promotion of SimpleSwap summer challenge on [X](https://x.com/harmonyprotocol/status/1945868656321401028).
 
 2025-07-16 Wed: Tested Claude Code for the first time. I was successfully able to code/design simple applications like timers/forms. My next goal is to design something more complicated, so down the line I can contribute to the design of our USDC/BTC vaults. [Thread](https://x.com/harmonyprotocol/status/1945686905724743691) on the Long BTC Yield Hedge, explaining the strategy. Accompanied with a graphic designed in Canva.
 
@@ -47,6 +53,14 @@ Alongside regular content, I’ll create explainers and onboarding materials to 
 2025-07-01 Tue: Continuation of editing Q2 Video in Descript + the design of the thumbnail. Followed up with the team to update their Q2 progress with top relevant link. 
 
 2025-06-30 Mon: Editing of Q2 Video in Descript. Revisions to Q2 newsletter. 
+
+---
+
+Q3 Focus
+
+In Q3, I’m continuing to lead our weekly marketing cadence with daily threads, video shorts, graphics, and monthly reports that highlight team progress, partner updates, and protocol development. I’ll keep supporting our DeFi launches with clear visuals and public explainers, while translating technical strategy work into content that’s easy to follow. As vault deployments and backtests become more active, I’ll help communicate what the team is building—from yield benchmarks and one-sided hedging to vault security and platform comparisons.
+
+Alongside regular content, I’ll create explainers and onboarding materials to support the BTC/USDC vault rollout, showing how returns are generated, what risks are monitored, and how funding rates influence LP strategy. I’ll also collaborate on frontend concepts like vault walkthroughs, APR snapshots, and strategy previews using Figma, Cursor, and Framer. My focus this quarter is to make our DeFi products understandable and accessible, not just to DeFi-native users, but to anyone curious about earning BTC yield onchain.
 
 ---
 
