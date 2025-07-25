@@ -1,4 +1,8 @@
 
+2025-07-23 Wed: Updated smart contract for the validator voting strategy — new methods were added for data storage (called via the relayer), role-based access control was implemented, and array value retrieval was added. The new voting strategy was tested via the ui interface.
+
+2025-07-22 Tue: Development of a relayer service for the Snapshot x Whitelist strategy — required for fetching validator list and their amounts. The service queries data via the Staking Explorer API and uploads it to the strategy smart contract.
+
 2025-07-21 Mon: Deployed aerodrome finance pool monitoring service on a dedicated [server](http://193.233.19.102:8080/api#/events-loader/LoaderController_getInfo). Worked on autostart and status check scripts. Worked on the client side for convenient integration of methods into other applications and bots.
 
 ---
