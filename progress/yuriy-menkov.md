@@ -1,4 +1,6 @@
 
+2025-07-24 Thu: Tested a new validators voting strategy integrated with the interface and relayer. Fixed errors in synchronization and contract logic. Started working on a custom snapshot-x harmony CLI.
+
 2025-07-23 Wed: Updated smart contract for the validator voting strategy — new methods were added for data storage (called via the relayer), role-based access control was implemented, and array value retrieval was added. The new voting strategy was tested via the ui interface.
 
 2025-07-22 Tue: Development of a relayer service for the Snapshot x Whitelist strategy — required for fetching validator list and their amounts. The service queries data via the Staking Explorer API and uploads it to the strategy smart contract.
