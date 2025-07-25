@@ -1,4 +1,4 @@
-2025-7-25 Fri (1.5h+): Fix disk space and storage issues for option price indexer. Discussion on LP strategy implementation progress. Backtesting system.
+2025-7-25 Fri (2.3h): Backtesting system. Fix disk space and storage issues for option price indexer. Discussion on LP strategy implementation progress.
 
 2025-7-24 Thu (0.7h): Verify PnL and return. Research on Hyperliquid historical data source.
 
