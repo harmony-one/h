@@ -1,3 +1,5 @@
+2025-07-24 Thu: testing a new LP straregy bot; created a Docker image for v0.0.1 for test by non-developers
+
 2025-07-23 Wed: fixed bugs when creating new LP positions, and completed first implementation of a new LP strategy
 
 2025-07-22 Tue: tested [new LP strategy](https://github.com/harmony-one/portfolio-manager/pull/31) bot implementation with real positions, fixing a bug in the openPosition method
