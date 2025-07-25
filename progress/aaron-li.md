@@ -1,4 +1,4 @@
-2025-7-25 Fri (0.5h): Backtesting system.
+2025-7-25 Fri (1.2h+): Discussion on LP strategy implementation progress. Backtesting system.
 
 2025-7-24 Thu (0.7h): Verify PnL and return. Research on Hyperliquid historical data source.
 
