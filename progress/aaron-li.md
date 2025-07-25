@@ -1,3 +1,5 @@
+2025-7-25 Fri (0.5h): Backtesting system.
+
 2025-7-24 Thu (0.7h): Verify PnL and return. Research on Hyperliquid historical data source.
 
 2025-7-23 Wed (5.6h): Verify PnL and return. Safety and waste control module. Use spot price for USD PnL and reports. Research existing swap simulators and indexers. Research on Ethena.
