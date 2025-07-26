@@ -1,3 +1,9 @@
+2025-07-25 Fri: Shared governance details with Yuriy for sx-cli. Insights: sx-cli has broken functionality and not as robust as need for our governance system, discussed potential to implement SnapshotX via our own cli tool instead. 
+
+2025-07-24 Thu: [Posted](https://talk.harmony.one/t/horizon-bridge-recovery/24675/31?u=theo1) finalized temporary recovery burn solution to talk forum, verified with partners and RMC. Note: this is not the finalized recovery completion proposal, this non-voting proposal adds clear guidelines on current processes.
+
+2025-07-23 Wed: Team sync, contributions and suggestions for Artem’s multi-tool call addition and Rika to look through OHLCV data for more accurate Hyperliquid backtesting for funding rates, current implementation was based on estimates and averages. 
+
 2025-07-22 Tue: Continued recovery negotiations and collaborations, sync with Matt, Quoc, and RMC, updated recovery solution with updated funds from previous validator initiative. Insight: un-used funds an be used to bring an immediate end to recovery, with a 1-year expiration for users to claim funds, must pass governance first.
 
 2025-07-21 Mon: Review of Recovery1 updates, Quoc [retrospective](https://recoveryonefoundation.medium.com/recovery-the-story-of-harmony-resilience-55197aa19d42), and drafted temporary recovery solution that is non-voting and abides by HIP-30v, currently in review. Sync with Yuriy for sx-cli (SnapshotX) progress.
