@@ -1,4 +1,6 @@
-2025-07-25 Fri: Continue with debugging multicall methods. Research into more hedging strategies.
+2025-07-26 Sat (1.0h): Test new docker bot. Continue with reading into more strategies.
+
+2025-07-25 Fri: Continued with debugging multicall methods. Researched into more hedging strategies.
 
 2025-07-24 Thu: [Implemented](https://github.com/harmony-one/portfolio-manager/pull/34) a new logic for hedging simulation: now sweeps through different hedge percentages with leverage as a dependent variable (`leverage = 1 / hedgePercentage` to make BTC exposure in Hyperliquid 100% of BTC asset in LP position) and fixed code: 1. Binance fundingrates were returning `markPrice=$0` for earlier data, changed to go back only 1.5 years, 2. fixed incorrect `liquidationPrice` by handling different edge cases, 3. fixed incorrect calculation for BTC notional, 4. output best strategies based on capital efficiency. Implemented multicall to `addLiquidity()` method in `aerodrome.service.ts`, currently working on debugging permit detection.
 
