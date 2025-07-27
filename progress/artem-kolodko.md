@@ -1,3 +1,7 @@
+2025-07-26 Sat (2.0h): refactoring bot configururation to work with specific positionId in the pool instead of checking all opened positions for the user wallet
+
+2025-07-25 Fri: fixed bug with liquidity amount if current market state, created docker image v0.0.2; continue testing
+
 2025-07-24 Thu: testing a new LP straregy bot; created a Docker image for v0.0.1 for test by non-developers
 
 2025-07-23 Wed: fixed bugs when creating new LP positions, and completed first implementation of a new LP strategy
