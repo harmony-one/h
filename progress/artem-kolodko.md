@@ -1,3 +1,5 @@
+2025-07-27 Sun (2.0h): [completed](https://github.com/harmony-one/portfolio-manager/pull/31/commits/6b2a7e5cfe272f6dbcdd19127a6f1cbab506fdc3) adding a specific positionId parameter support in LP bot logic, continue testing
+
 2025-07-26 Sat (2.0h): refactoring bot configururation to work with specific positionId in the pool instead of checking all opened positions for the user wallet
 
 2025-07-25 Fri: fixed bug with liquidity amount if current market state, created docker image v0.0.2; continue testing
