@@ -1,3 +1,8 @@
+2025-07-25 Fri:
+This week, I rebased the 1.9 branch with the latest dev code and resolved all issues related to the 1.9 update. Ulad and I also launched nodes on the devnet to test the new changes.
+
+---
+
 2025-07-18 Fri (3 days off):
 I fixed a failing test caused by the execution of validator-assigned code, which should be avoided in the Harmony codebase.
 Additionally, I reviewed the pull request introducing the new BLS12-381 precompiles.
