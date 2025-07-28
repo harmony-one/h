@@ -1,3 +1,5 @@
+2025-07-27 Sun (1.0h): Debug multicall. Start implementing for decreaseLiquidity.
+
 2025-07-26 Sat (1.0h): Test new docker bot. Continue with reading into more strategies.
 
 2025-07-25 Fri: Continued with debugging multicall methods. Researched into more hedging strategies.
