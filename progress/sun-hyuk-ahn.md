@@ -1,6 +1,10 @@
-2025-07-25 Fri: (Complete trusted node issue. Fix duplicate stream issue with trusted peers. Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
+2025-07-28 Mon: (Complete trusted node issue. Fix duplicate stream issue with trusted peers. Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
 
-2025-07-24 Thu: 
+---
+
+2025-07-25 Fri: Began working on duplicate stream issues with trusted peers. Currently, duplicate streams are being set up with trusted nodes. Will continue this tomorrow.
+
+2025-07-24 Thu: Found out that trusted nodes, if sync configuration is disabled, prevents trusted nodes from setting up streams.
 
 2025-07-23 Wed: Verified trusted nodes work on localnet with the protocol streams being set up as expected. Noticed a duplicate stream being set up with trusted peers. Will test with devnet tomorrow.
 
