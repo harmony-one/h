@@ -1,3 +1,5 @@
+2025-07-27: I wrote a document with a short thesis for each asset held by the treasury to support the decision-making regarding future asset allocations. Together with the dev team we discussed hedging alternatives and reviewed updates of the LP farming strategy. 
+
 2025-07-20: I re-deployed the hedged farming strategy for BTC/USDC and started tracking its performance. Reviewed Artems and Franks LP strategy and Back-testing. Gammaswap, as well as YieldBasis introduced hedged farming strategies for concentrated liquidity pools so I started looking into them. 
 
 I got a request from Li to provide my opinion regarding the potential performance for certain assets held by our treasury, so I started writing a paper with a short thesis for each of the named assets. 
