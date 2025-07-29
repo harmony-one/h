@@ -1,3 +1,13 @@
+2025-07-25 Fri:
+
+On the monitoring side, I've created simple counters dashboard to monitor setModes in the mainnet validator logs. Current idea - collect data.
+
+On the consensus development side, I've create a command to add nodes to already running localnet, [PR-4928](https://github.com/harmony-one/harmony/pull/4928). It should help to test stream sync locally with less manual tweaks.
+
+On the ops side, Pocket network partner asked for help with archival RPC node sync, because rclone wasn't able to properly finish the sync, despite the fact that it synced 23 TB. I've ended up checking all possible solutions around like https://github.com/hjmangalam/parsyncfp2 - parallel rsync. I found that that checksums,size, modtime of previously copied data via rclone and webdav are preserved so ended up with simple rsync in syncing deltas mode. Result - Pocket network RPC now online and we have 2 additional options to sync our archival nodes with others- rclone+rsync deltas and parsyncfp2 if do it from scratch.
+
+---
+
 2025-07-18 Fri:
 
 I've finished the stream sync dashboard and gotten the positive feedback from Gheis about it. Additionally, I've created a dashboard for the 1 second finality block producing to have visualization of the real block time creation and validation. Finally, I've started to update the current monitoring stack to the LTS versions and enlarged it with pprof data collection via [Pyroscope](https://pyroscope.io/).
