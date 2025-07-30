@@ -1,4 +1,4 @@
-2025-7-29 Tue (0.6h): Make program launchable with Docker and without Deribit.
+2025-7-29 Tue (0.8h+): Make program launchable with Docker and without Deribit.
 
 2025-7-28 Mon (2.4h): Make program launchable with Docker and without Deribit.
 
