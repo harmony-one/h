@@ -1,3 +1,5 @@
+2025-7-30 Wed (0.8h): Discussion on implementation of strategies.
+
 2025-7-29 Tue (2.1h): Make program launchable with Docker and without Deribit.
 
 2025-7-28 Mon (2.4h): Make program launchable with Docker and without Deribit.
