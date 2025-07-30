@@ -1,3 +1,7 @@
+2025-07-30 to 2025-08-05: Paid time off
+
+2025-07-29 Tue: Fixed events and position overlapping for total staked liquidity calculation. [Refactored Aerodrome position class](https://github.com/harmony-one/portfolio-manager/pull/36) to handle staked and unstaked positions. Working on orchestrating AERO rewards handling in the backtesting script.
+
 2025-07-28 Mon: Implemented analytics client [integrating aerodrome-analytics API](https://github.com/harmony-one/portfolio-manager/pull/36) for gauge events (Deposit/Withdraw) and position tracking to calculate totalStakedLiquidity required for Gauge contract's AERO rewards calculation. Discovered critical issue: Events API and Positions API return different tokenId ranges with zero overlap, preventing proper backtesting calculations. Analytics client logic functions correctly but requires synchronized data from both endpoints. Tomorrow I will coordinate with Yuriy on API synchronization.
 
 ---
