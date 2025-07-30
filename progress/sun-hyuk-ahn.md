@@ -7,7 +7,7 @@
 
 2025-07-30 Wed: (Identify which configurations are causing the security protocol from being established.) (Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
 
-2025-07-29 Tue: Patched devnet with the fix for trusted nodes. [Updated](https://github.com/harmony-one/harmony/pull/4934) the logic to prevent duplicate stream creation.
+2025-07-29 Tue: Patched devnet with the fix for trusted nodes. [Updated](https://github.com/harmony-one/harmony/pull/4934) the stream manager logic to prevent duplicate stream creation.
 
 2025-07-28 Mon: Identified a problem during linux static executable builds for `arm` architectures. [Fixed](https://github.com/harmony-one/harmony/pull/4933) the script to handle the build creation.
 
