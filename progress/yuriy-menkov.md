@@ -1,4 +1,10 @@
 
+2025-07-28 Mon:Worked on expanding the aerodrome monitoring service by adding indexing for another cbbtc pool. Currently working on filters for the monitoring service API. Also conducted research on developing custom execution strategies for Harmony Snapshot X — the goal is to enforce quorum checks (50% of total stake weight at the time of the snapshot).
+
+---
+
+2025-07-25 Fri: Updated the Harmony Snapshot X [interface](https://sx-harmony.web.app/#/explore): added restrictions on selecting networks and voting strategies when creating a space, and introduced a custom "Validators Only" strategy. Now, a one-time snapshot of validators and their voting power is taken when the proposal is created.
+
 2025-07-24 Thu: Tested a new validators voting strategy integrated with the interface and relayer. Fixed errors in synchronization and contract logic. Started working on a custom snapshot-x harmony CLI.
 
 2025-07-23 Wed: Updated smart contract for the validator voting strategy — new methods were added for data storage (called via the relayer), role-based access control was implemented, and array value retrieval was added. The new voting strategy was tested via the ui interface.
