@@ -1,3 +1,5 @@
+2025-07-30 Wed: added database entity to store performance metrics
+
 2025-07-29 Tue: added hedging strategy, added support of cbBTC/USDC pool with tickSpacing 100 to test the performance with narrow range and rebalancing. Started implementing performance module.
 
 2025-07-28 Mon: started hedging implementaton, improved positionId configuration and added "burn" method call to fully close the position after the rebalancing
