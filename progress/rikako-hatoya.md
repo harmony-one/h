@@ -2,6 +2,8 @@
 
 2025-07-28 Mon: Resolved multicall problem for `addLiquidity` (requires `permit` approval directly from user address, cannot call multicall or multicall3). [Created](https://github.com/harmony-one/portfolio-manager/pull/35) and [deployed](https://basescan.org/address/0x730dd2a1cd5f79f3bba64b6189aac5ea64717c6e) custom router contract to resolve issue but will check-in with Aaron to see if this is the correct approach.
 
+---
+
 2025-07-27 Sun (1.0h): Debug multicall.
 
 2025-07-26 Sat (1.0h): Test new docker bot. Continue with reading into more strategies.
