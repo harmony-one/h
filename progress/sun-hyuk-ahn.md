@@ -1,7 +1,7 @@
 
 ---
 
-2025-07-31 Thu - 2025-08-06 Wed: PTO (5 days)
+2025-07-31 Thu - 2025-08-06 Wed: Out of office (5 days)
 
 2025-07-29 Tue:
 
@@ -105,9 +105,9 @@ Enhanced GossipSub upgrades Harmony’s pub/sub layer to handle large-block mess
 
 ---
 
-2025-06-13 Fri: Sick day off
+2025-06-13 Fri: Found the core cause due to interruption in the European Hetzner server building.
 
-2025-06-12 Thu: Analyzed testnet and devnet down issue. Downtime only resulted for ~15 mintues. Found the core cause due to interruption in the European Hetzner server building.
+2025-06-12 Thu: Analyzed testnet and devnet down issue. Downtime only resulted for ~15 mintues.
 
 2025-06-11 Wed: Meeting with Li and Theo regarding Cursor AI. Researched into Cursor AI MCP and how it can be used for protocol development. 
 
@@ -177,7 +177,7 @@ Enhanced GossipSub upgrades Harmony’s pub/sub layer to handle large-block mess
 
 ---
 
-2025-04-28 - 2025-05-02: Out of office.
+2025-04-28 - 2025-05-02: Out of office (5 days).
 
 ---
 
