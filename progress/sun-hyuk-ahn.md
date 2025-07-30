@@ -1,7 +1,12 @@
+2025-08-07 Thu:
+
+2025-08-04 Mon - 2025-08-06 Wed: Out of office (3 days)
 
 ---
 
-2025-07-31 Thu - 2025-08-06 Wed: Out of office (5 days)
+2025-07-31 Thu - 2025-08-01 Fri: Out of office (2 days)
+
+2025-07-30 Wed:
 
 2025-07-29 Tue:
 
