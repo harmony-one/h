@@ -1,3 +1,17 @@
+2025-08-01 Fri: Filming of the July recap video. Update of the community section + posted updates to X.
+
+2025-07-31 Thu: 
+
+2025-07-30 Wed: Finished first draft of July newsletter, sent first title for review. Began writing script for the July recap video. Tweet about Aristotler and it's future impacts in blockchain as well as a tweet 
+
+2025-07-29 Tue: Watching Superintelligence, of the Mathematical Kind from Harmonic Math. Insight: Harmonic’s new math AI, Aristotle, solves problems by generating formal proofs, ensuring its answers are verifiably correct. Its success at IMO-level math and formal benchmarks points toward a future where protocols can rely on formally verified code for greater security, transparency, and trustless automation.
+
+2025-07-28 Mon: Reading of the Substack article + writing a [thread](https://x.com/harmonyprotocol/status/1949896968119210287) on how OpenAI and Google won the International Math Olympiad. 
+
+---
+
+2025-07-25 Fri: Update of the community section.
+
 2025-07-24 Thu: Continuation on the July newsletter, syncing with Theo on initial edits and recovery updates.
 
 2025-07-23 Wed: Beginning to write the July newsletter. Compiling all assets and weekly reviews. 
