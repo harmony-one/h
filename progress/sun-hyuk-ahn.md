@@ -1,3 +1,10 @@
+
+---
+
+2025-07-31 Thu - 2025-08-06 Wed: PTO (5 days)
+
+2025-07-29 Tue:
+
 2025-07-28 Mon: (Complete trusted node issue. Fix duplicate stream issue with trusted peers. Update `Peer` struct to handle Quic. Update logics to add peers based on the chosen transport protocol (tcp vs quic))
 
 ---
