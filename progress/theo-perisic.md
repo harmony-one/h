@@ -1,3 +1,14 @@
+Completed team reviews and continued AI roll out across engineering team, establishing AI-native workflows that improved engineering efficiency. Personally led onboarding and tool standardization, unlocking over $1,000/month in API access per engineer via the Claude Max Plan (prior to [Aug 28](https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/).
+
+Authored and posted bridge [recovery alignment](https://talk.harmony.one/t/horizon-bridge-recovery/24675/31?u=theo1), aligning with RMC and partners as a temporary non-voting solution. Designed a phased approach using unused validator funds with a set claim period to end recovery within 1 year.
+
+Led governance production from research to implementation with Yuriy, now in final testing. [Current solution](https://sx-harmony.web.app/#/explore) offers hybrid on and off chain voting similar to previous Snapshot system. Small interations for funding rate arbitrage following Vertex sunset, replaced with GMX, DEX-only strategies still delivering 50%+ APR.
+
+---
+
+For in-person Q3 sync.
+
+
 2025-07-25 Fri: Shared governance details with Yuriy for sx-cli. Insights: sx-cli has broken functionality and not as robust as need for our governance system, discussed potential to implement SnapshotX via our own cli tool instead. 
 
 2025-07-24 Thu: [Posted](https://talk.harmony.one/t/horizon-bridge-recovery/24675/31?u=theo1) finalized temporary recovery burn solution to talk forum, verified with partners and RMC. Note: this is not the finalized recovery completion proposal, this non-voting proposal adds clear guidelines on current processes.
