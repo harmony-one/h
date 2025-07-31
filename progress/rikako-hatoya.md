@@ -1,3 +1,5 @@
+2025-07-30 Wed: Continued with cleaning `/aerodrome` folder. Currently there are many files, catching up on understanding what these files do and unifying them to simple structure of just service file, spec file, helper file.
+
 2025-07-29 Tue: Started cleaning aerodrome service file. Looked into solution for multicall problem.
 
 2025-07-28 Mon: Resolved multicall problem for `addLiquidity` (requires `permit` approval directly from user address, cannot call multicall or multicall3). [Created](https://github.com/harmony-one/portfolio-manager/pull/35) and [deployed](https://basescan.org/address/0x730dd2a1cd5f79f3bba64b6189aac5ea64717c6e) custom router contract to resolve issue but will check-in with Aaron to see if this is the correct approach.
