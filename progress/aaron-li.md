@@ -1,4 +1,4 @@
-2025-7-31 Thu (0.1h+): Backtesting system.
+2025-7-31 Thu (0.3h): Backtesting system.
 
 2025-7-30 Wed (2.8h): Backtesting system. Recovery matters. Discussion on implementation of strategies.
 
