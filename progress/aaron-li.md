@@ -1,3 +1,5 @@
+2025-7-31 Thu (0.1h+): Backtesting system.
+
 2025-7-30 Wed (2.8h): Backtesting system. Recovery matters. Discussion on implementation of strategies.
 
 2025-7-29 Tue (2.1h): Make program launchable with Docker and without Deribit.
