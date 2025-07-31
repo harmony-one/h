@@ -1,4 +1,4 @@
-2025-7-30 Wed (1.2h+): Recovery matters. Discussion on implementation of strategies.
+2025-7-30 Wed (2.2h+): Recovery matters. Discussion on implementation of strategies.
 
 2025-7-29 Tue (2.1h): Make program launchable with Docker and without Deribit.
 
