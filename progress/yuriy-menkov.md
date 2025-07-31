@@ -1,4 +1,8 @@
 
+2025-07-30 Wed: Adding new filters to the Aerodrome Monitoring Service API: classic pagination and date/epoch filters for positions and events api's. New parameters have also been added to the pool hours data.
+
+2025-07-29 Tue: Fixed a data indexing bug for proposals in the Harmony Snapshot X indexer. Continuing work on a custom execution strategy to finalize voting upon reaching quorum.
+
 2025-07-28 Mon:Worked on expanding the aerodrome monitoring service by adding indexing for another cbbtc pool. Currently working on filters for the monitoring service API. Also conducted research on developing custom execution strategies for Harmony Snapshot X — the goal is to enforce quorum checks (50% of total stake weight at the time of the snapshot).
 
 ---
