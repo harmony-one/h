@@ -1,3 +1,5 @@
+2025-07-31 Thu: added extended performance metrics data with new columns, continue testing bot locally; started working on docker compose to simplify testing for non-developers
+
 2025-07-30 Wed: added database entity to store performance metrics, testing full proccess (LP + hedge) locally
 
 2025-07-29 Tue: added hedging strategy, added support of cbBTC/USDC pool with tickSpacing 100 to test the performance with narrow range and rebalancing. Started implementing performance module.
