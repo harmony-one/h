@@ -1,4 +1,6 @@
 
+2025-07-31 Thu: Explored the possibility of modifying the voting strategy at the contract level to replicate the original Harmony voting behavior — specifically, allowing for a stake check on validators at the end of the voting period. (This enabled users to re-delegate their stake during the two-week voting window to validators whose views aligned with their own). Continuing to work on custom execution strategy.
+
 2025-07-30 Wed: Adding new filters to the Aerodrome Monitoring Service API: classic pagination and date/epoch filters for positions and events api's. New parameters have also been added to the pool hours data.
 
 2025-07-29 Tue: Fixed a data indexing bug for proposals in the Harmony Snapshot X indexer. Continuing work on a custom execution strategy to finalize voting upon reaching quorum.
