@@ -1,3 +1,18 @@
+2025-08-02 Sat
+
+Last week was one of the most productive weeks so far, with several important milestones achieved across consensus, networking, and stream sync development.
+
+The highlight of the week was the completion of the [EIP-2537 implementation (PR #4929)](https://github.com/harmony-one/harmony/pull/4929). This PR introduces the final version of the BLS12-381 precompiles based on the latest Ethereum specifications, enabling native BLS cryptography support directly in the Harmony EVM. With this addition, developers can now use BLS-based signature verification and pairing checks inside smart contracts without requiring external libraries. All tests passed and the implementation is spec-compliant, making Harmony one of the very few EVM chains to support BLS cryptography at the protocol level.
+
+Another major contribution was [PR #4930](https://github.com/harmony-one/harmony/pull/4930), which introduces a significant set of improvements to the staged stream sync. It enhances stream stability, clarifies the logic for handling bad blocks and retries, improves logs, and streamlines sync control flows across short-range and epoch syncing. These improvements address critical edge cases identified during devnet and localnet testing and move us closer to a stable testnet deployment of stream sync.
+
+I also tackled a noisy and misleading logging issue in [PR #4931](https://github.com/harmony-one/harmony/pull/4931). The previous heartbeat logic would flood logs with errors when shards received valid heartbeats for other shards or before their epoch chain had caught up. This PR introduces proper shard ID checks, debug-level logging, and ensures heartbeats are only processed after the relevant epoch sync, fixing long-standing crosslink heartbeat bugs in multi-shard environments.
+
+Finally, I cleaned up localnet port conflicts in [PR #4932](https://github.com/harmony-one/harmony/pull/4932). The extra node configurations used port ranges that conflicted with those auto-generated from existing nodes. This PR updates the configuration to higher non-conflicting ports, making it possible to spin up extra unsynced nodes for testing without running into “address already in use” errors.
+
+
+---
+
 2025-07-26 Sat:
 
 Just wrapped up a major round of improvements on our EIP-2537 implementation and submitted [PR #4926](https://github.com/harmony-one/harmony/pull/4926). it improves both the performance and correctness of our BLS12-381 precompiles. I updated the benchmark functions for G1 and G2 scalar multiplications. Instead of generic inputs, they now use worst-case scalars to better simulate maximum load. This gives us more realistic and meaningful performance metrics. I also updated the precompile addresses and they’re now exactly where they should be for proper deployment in the EVM. On top of that, I went through and cleaned up a bunch of things across the codebase: fixed typos, clarified misleading comments, polished documentation, and tightened up the field arithmetic modules like `fp2` and `fp6`. Also, the test suite been repaired and expanded to catch regressions and validate all the recent changes.
@@ -808,3 +823,4 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
