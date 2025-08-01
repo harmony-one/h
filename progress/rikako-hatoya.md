@@ -1,3 +1,5 @@
+2025-07-31 Thu: Confirmed multicall works for 2 different LP methods (addLiquidity + removeLiquidiity). Research on sustainable models and minimizing IL.
+
 2025-07-30 Wed: Continued with cleaning `/aerodrome` folder. Currently there are many files, catching up on understanding what these files do and unifying them to simple structure of just service file, spec file, helper file.
 
 2025-07-29 Tue: Started cleaning aerodrome service file. Looked into solution for multicall problem.
