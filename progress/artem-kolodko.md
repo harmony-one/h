@@ -1,3 +1,5 @@
+2025-08-01 Fri: added advanced performance stats, completed docker compose for LP bot, started looking at lp-hedger config to run in Docker
+
 2025-07-31 Thu: added extended performance metrics data with new columns, continue testing bot locally; started working on docker compose to simplify testing for non-developers
 
 2025-07-30 Wed: added database entity to store performance metrics, testing full proccess (LP + hedge) locally
