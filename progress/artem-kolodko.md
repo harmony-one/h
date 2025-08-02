@@ -1,3 +1,5 @@
+2025-08-02 Sat (2.0h): added logging with cumulative table, continue testing LP bot
+
 2025-08-01 Fri: added advanced performance stats, completed docker compose for LP bot, started looking at lp-hedger config to run in Docker
 
 2025-07-31 Thu: added extended performance metrics data with new columns, continue testing bot locally; started working on docker compose to simplify testing for non-developers
