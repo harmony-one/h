@@ -1,3 +1,5 @@
+2025-8-3 Sun (0.1h+): Backtesting system.
+
 2025-8-2 Sat (0.7h): Backtesting system.
 
 2025-7-31 Thu (0.7h): Backtesting system.
