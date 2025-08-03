@@ -1,3 +1,5 @@
+2025-08-02 Sat (1.0h): Started working on Panoptic's uniswap hedging. Reading through article to understand their strategy.
+
 2025-08-01 Fri: Added multicall for closing LP position method. Cleaned up aerodrome files (PR [here](https://github.com/harmony-one/portfolio-manager/pull/37/)).
 
 2025-07-31 Thu: Confirmed multicall works for 2 different LP methods (addLiquidity + removeLiquidiity). Research on sustainable models and minimizing IL.
