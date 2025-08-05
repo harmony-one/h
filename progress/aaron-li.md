@@ -1,16 +1,16 @@
 2025-8-5 Tue (4.3h): Backtesting system.
 
-2025-8-4 Mon (4.5h): Backtesting system.
+2025-8-4 Mon (4.5h): Backtesting system: experiment with Etherscan APIs, swap data, and decoding and filtering mechanisms, implement Aerodrome swap data retriever and command line utilities.
 
 ---
 
-2025-8-3 Sun (3.4h): Backtesting system.
+2025-8-3 Sun (3.4h): Backtesting system: research on feasibility of Coindesk and Etherscan APIs, experiment with requests and responses, implement Aerodrome LP price retriever.
 
-2025-8-2 Sat (0.7h): Backtesting system.
+2025-8-2 Sat (0.7h): Backtesting system: continued.
 
-2025-7-31 Thu (0.7h): Backtesting system.
+2025-7-31 Thu (0.7h): Backtesting system: break down price database models based on kinds (perpetual, option, lp), create data classes, command line utilities, fix some websocket endpoints.
 
-2025-7-30 Wed (2.8h): Backtesting system. Recovery matters. Discussion on implementation of strategies.
+2025-7-30 Wed (2.8h): Backtesting system: refine specs and database models. Recovery matters. Discussion on implementation of strategies.
 
 2025-7-29 Tue (2.1h): Make program launchable with Docker and without Deribit.
 
@@ -20,7 +20,7 @@
 
 2025-7-27 Sun (0.2h): Verify PnL and return.
 
-2025-7-25 Fri (2.3h): Backtesting system. Fix disk space and storage issues for option price indexer. Discussion on LP strategy implementation progress.
+2025-7-25 Fri (2.3h): Backtesting system: initial scafolding and specs. Fix disk space and storage issues for option price indexer. Discussion on LP strategy implementation progress.
 
 2025-7-24 Thu (0.7h): Verify PnL and return. Research on Hyperliquid historical data source.
 
