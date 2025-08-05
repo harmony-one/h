@@ -1,3 +1,5 @@
+2025-08-04 Mon: started working on Aerodrome swapQuote and swap methods in LP bot. Deribit KYC for lp-hedger testing.
+
 2025-08-03 Sun (1.5h): [improved](https://github.com/harmony-one/portfolio-manager/commit/1d66c628305a74c7ad01cfb69405c0488520ba2c) LP rebalancing cost calculation, added total profit/loss to the statistics output
 
 2025-08-02 Sat (2.0h): added logging with cumulative table, continue testing LP bot
