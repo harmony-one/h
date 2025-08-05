@@ -1,4 +1,4 @@
-2025-8-5 Tue (1.9h+): Backtesting system.
+2025-8-5 Tue (2.9h+): Backtesting system.
 
 2025-8-4 Mon (4.5h): Backtesting system.
 
