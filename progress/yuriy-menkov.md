@@ -1,3 +1,8 @@
+2025-08-04 Mon: Synced with Artem regarding backtesting service. Added new settings to the monitoring service (including filters and sorting by APR, deposit size filter, etc) to export top Aerodrome pool positions to generate realtime stats.
+
+---
+
+2025-08-01 Fri: Synced with Artem on the latest version of the bot and backtesting, tested the latest version of the portfolio manager using docker-compose, and verified position profit via the monitoring service. Also worked on testing and fixing UI bugs for snapshot x.
 
 2025-07-31 Thu: Explored the possibility of modifying the voting strategy at the contract level to replicate the original Harmony voting behavior — specifically, allowing for a stake check on validators at the end of the voting period. (This enabled users to re-delegate their stake during the two-week voting window to validators whose views aligned with their own). Continuing to work on custom execution strategy.
 
