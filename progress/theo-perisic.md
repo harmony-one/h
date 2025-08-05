@@ -1,3 +1,30 @@
+2025-08-11 Mon-Fri: Out of Office
+
+
+2025-08-04 Mon: Attended Stanford Blockchain Week event and discussions. Insights: no DeFi specific projects and protocols, discussed security with Aleo team and treasury management with CommonPrefix, collaborating on BTC strategies, most common, even from crypto insiders, is simply using Lombard and Babylon abstract platfroms with lower yields, no direct advanced BTC strategy for higher yields.
+
+---
+
+2025-08-03 Sun: (2.0h) Troubleshooting wrapped ONE logging issues, and reviewing % yield from funding rate arbitrage vs current perfect LP hedging strategy. Insight: funding rate arbitrage yield is higher (10%+ compared to consistent LP strategy), but higher risk of lower liquidity, higher slippage, and liquidation risks.  
+
+2025-08-02 Sat: (1.0h) Follow up with protofire for rate limiting issues.
+
+2025-08-01 Fri: Sharing sync recap with team and specific focus for continuation of Q3. Updating governance needs with Yuriy.
+
+2025-07-31 Thu: In-person sync with Stephen and Li. Breakdown from community, governance, internal team, yield strategy progress, and deep dive into profitable LP strategies.
+
+2025-07-30 Wed: Completed first month of Q3 review for tomorrow’s in person meeting. Released initial draft for recovery 1-year solution, community more active recently and more momentum to push accelerated recovery proposals.
+
+2025-07-29 Tue: Iterations on 1-year recovery solution with chefsoysauce, RMC, and validators. 
+
+2025-07-28 Mon: Reviewed current [portfolio-manger](https://github.com/harmony-one/portfolio-manager) progress and team commits.
+
+2025-07-27 Sun: (1.0h) Completed Hummingbot review. Insight: LP strategies are very basic, only support downside protection for LP, no dynamic hedge, no upside capture.
+
+2025-07-26 Sat: (1.0h) Review of Hummingbot LP strategies and funding rate arbitrage.
+
+---
+
 Completed team reviews and continued AI roll out across engineering team, establishing AI-native workflows that improved engineering efficiency. Personally led onboarding and tool standardization, unlocking over $1,000/month in API access per engineer via the Claude Max Plan (prior to [Aug 28](https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/).
 
 Authored and posted bridge [recovery alignment](https://talk.harmony.one/t/horizon-bridge-recovery/24675/31?u=theo1), aligning with RMC and partners as a temporary non-voting solution. Designed a phased approach using unused validator funds with a set claim period to end recovery within 1 year.
@@ -7,7 +34,6 @@ Led governance production from research to implementation with Yuriy, now in fin
 ---
 
 For in-person Q3 sync.
-
 
 2025-07-25 Fri: Shared governance details with Yuriy for sx-cli. Insights: sx-cli has broken functionality and not as robust as need for our governance system, discussed potential to implement SnapshotX via our own cli tool instead. 
 
