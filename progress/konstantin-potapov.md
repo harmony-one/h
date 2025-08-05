@@ -1,3 +1,8 @@
+2025-08-01 Fri:
+Finalized 1.9 version update, it's on review and ready to be merged. Started rebase 1.10 version update, current progress is 70%. Reviewed several PRs.    
+
+---
+
 2025-07-25 Fri:
 This week, I rebased the 1.9 branch with the latest dev code and resolved all issues related to the 1.9 update. Ulad and I also launched nodes on the devnet to test the new changes.
 
