@@ -1,4 +1,4 @@
-2025-8-6 Wed (1.6h+): Backtesting: database revision migration with alembic; scripts for LP positions and trades, end-to-end testing and stablizing data collection.
+2025-8-6 Wed (2.5h+): Backtesting: database revision migration with alembic; scripts for LP positions and trades, end-to-end testing and stablizing data collection.
 
 2025-8-5 Tue (6.1h): Backtesting system: finalize option price retrieval system. Build additional scripts to extract all LP positions and trades given date range. Backtesting system: fix various issues with Aerodrome retrievers; implement async http, rate limiting, auto-recoverable etherscan log query and pagination. Deep dive into options historical trade price data and open interest data, experiment with expired and active instruments, implement deribit historical option price and open interest retriever, with sparsity optimization.
 
