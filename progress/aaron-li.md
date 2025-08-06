@@ -1,3 +1,5 @@
+2025-8-6 Wed (0.6h+): Backtesting: scripts for LP positions and trades, end-to-end testing and stablizing data collection.
+
 2025-8-5 Tue (6.1h): Backtesting system: finalize option price retrieval system. Build additional scripts to extract all LP positions and trades given date range. Backtesting system: fix various issues with Aerodrome retrievers; implement async http, rate limiting, auto-recoverable etherscan log query and pagination. Deep dive into options historical trade price data and open interest data, experiment with expired and active instruments, implement deribit historical option price and open interest retriever, with sparsity optimization.
 
 2025-8-4 Mon (4.5h): Backtesting system: experiment with Etherscan APIs, swap data, and decoding and filtering mechanisms, implement Aerodrome swap data retriever and command line utilities.
