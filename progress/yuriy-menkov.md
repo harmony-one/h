@@ -1,3 +1,9 @@
+2025-08-07 Thu: Worked on exporting and preparing data for USDC/cbBTC positions over the past 90 days, followed by daily breakdowns and compilation of statistics such as average APR, number of positions, average holding time, etc. Most positions open within a minute with fast withdrawal of staking rewards.
+
+2025-08-06 Wed: Reviewed and researched repositories and tasks related to Harmony multisig from Gnosis Safe. Enhanced Snapshot X functionality to enable adding a custom quorum expressed as a percentage proportional to the total stake.
+
+2025-08-05 Tue: Researched and designed the architecture for a two-stage voting system based on Snapshot X: the first stage is on-chain, and the second stage is off-chain, with real-time vote result updates proportional to the distribution of validator delegations.
+
 2025-08-04 Mon: Synced with Artem regarding backtesting service. Added new settings to the monitoring service (including filters and sorting by APR, deposit size filter, etc) to export top Aerodrome pool positions to generate realtime stats.
 
 ---
