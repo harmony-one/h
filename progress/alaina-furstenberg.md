@@ -1,6 +1,17 @@
+2025-08-07 Thu: Re-editing of July video. Creating plan to better familiarize myself with hedging mechanics / range management per Stephen/Aarons update. Thread on BTC hedging.
+
+2025-08-06 Wed: Stanford Blockchain Event. Attended BitVM2: Bridging Bitcoin to Second Layers. Insight: BitVM2 sharpens Bitcoin's programmable edge by letting anyone challenge off‑chain computations with just three on‑chain transactions—no changes to Bitcoin needed—making trust‑minimized bridging to layer‑2s far more secure and efficient.
+
+2025-08-05 Tue: Attended RoboCon SF.
+
+2025-08-04 Mon: Stanford Blockchain Event. Attended "The SEC Crypto Task Force and the Science of Informed Crypto Regulation
+Hester Peirce (Commissioner at the SEC)". Insights: Hester Peirce argued that tools like public blockchains and zero-knowledge proofs are reshaping how we think about privacy and financial regulation. She pointed out that current laws—like the Bank Secrecy Act and third-party doctrine—are outdated and risk trading away personal privacy in the name of security.
+
+---
+
 2025-08-01 Fri: Filming of the July recap video. Update of the community section + posted updates to X.
 
-2025-07-31 Thu: 
+2025-07-31 Thu: Revised July newsletter, designed thumbnail. 
 
 2025-07-30 Wed: Finished first draft of July newsletter, sent first title for review. Began writing script for the July recap video. Tweet about Aristotler and it's future impacts in blockchain as well as a tweet 
 
