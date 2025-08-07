@@ -1,3 +1,7 @@
+2025-08-07 Thu: added multicall for LP rebalancing transaction (remove liquidity, collect fees, burn position)
+
+2025-08-06 Wed: improved calculation of transaction gas fees paid by the bot; started the bot with $1000
+
 2025-08-05 Tue: implemented cbBTC/USDC tokens swap logic, started working on gas fees optimizations + multicall integration
 
 2025-08-04 Mon: started working on Aerodrome swapQuote and swap methods in LP bot. Deribit KYC for lp-hedger testing.
