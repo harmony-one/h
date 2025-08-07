@@ -1,3 +1,5 @@
+2025-08-06 Wed: Attended final day of The Science of Blockchain event, and gained some insights from Chainlink after party. Looked into how to avoid georistriction for APIs.
+
 2025-08-05 Tue: Attended Robo-con and its mixer in SF. Switched to hyperliquid funding rates but observed bug in monitoring position, addressing issue.
 
 2025-08-04 Mon: Attended the Science of Blockchain Conference. Testing of bot.
