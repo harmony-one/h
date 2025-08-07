@@ -4,6 +4,8 @@
 
 2025-08-04 Mon: Attended the Science of Blockchain Conference. Testing of bot.
 
+---
+
 2025-08-03 Sun (1.0h): Continued with panoptic. Testing with uniswap LPing.
 
 2025-08-02 Sat (1.0h): Started working on Panoptic's uniswap hedging. Reading through article to understand their strategy.
