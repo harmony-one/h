@@ -1,3 +1,6 @@
+2025-08-06 Wed: Analyzed Panoptic approach compared with our strategy. Panoptic uses frequent delta-neutral micro-adjustments triggered by delta drift thresholds, incurring higher rebalancing costs. Our strategy employs event-driven rebalancing (price outside range) with less frequent but comprehensive position resets. Key difference: Panoptic's constant costly adjustments versus our controlled threshold-based rebalancing, allowing better cost management and IL optimization. Had issues configuring the LP Boot to run it locally, will address this in tomorrow's daily meeting. Finally, continued working on backtesting aerodrome rewards.
+
+---
 2025-07-30 to 2025-08-05: Paid time off
 
 2025-07-29 Tue: Fixed events and position overlapping for total staked liquidity calculation. [Refactored Aerodrome position class](https://github.com/harmony-one/portfolio-manager/pull/36) to handle staked and unstaked positions. Working on orchestrating AERO rewards handling in the backtesting script.
