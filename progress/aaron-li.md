@@ -1,4 +1,4 @@
-2025-8-7 Thu (3.5h+): Backtesting: data extraction. Backtesting: implement proxy rotation and auto-resume data collection; exporting data to csv.
+2025-8-7 Thu (4.5h+): Backtesting: data extraction. Backtesting: implement proxy rotation and auto-resume data collection; exporting data to csv.
 
 2025-8-6 Wed (7.4h): Backtesting: database revision migration with alembic; scripts for LP positions and trades, end-to-end testing and stablizing data collection.
 
