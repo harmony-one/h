@@ -1,3 +1,5 @@
+2025-08-08 Fri: fixed bug with re-opening hedge position in specific case, improved strategy statistics output, published bot image v0.0.2, researched cbBTC/USDC swap slippage calculation, using current BTC price and on-chain sources
+
 2025-08-07 Thu: added multicall for LP rebalancing transaction (remove liquidity, collect fees, burn position)
 
 2025-08-06 Wed: improved calculation of transaction gas fees paid by the bot; started the bot with $1000
