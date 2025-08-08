@@ -1,3 +1,14 @@
+**2025-08-09 Sat**
+Last week marked a huge milestone for the deployment of stream sync. For the first time, the entire devnet was running stream sync — and it was almost fully stable. We even tested a node syncing from the genesis block, and it completed 20M blocks without a single issue, performing even better than the legacy DNS sync. Only one node experienced a short stall of around 13 minutes, but the impressive part was that it recovered on its own without any restart or intervention. This is by far the best stability we’ve achieved with stream sync, giving the team full confidence to begin phased deployment to testnet.
+
+Building on that momentum, I created [PR #4936](https://github.com/harmony-one/harmony/pull/4936) to remove deprecated sync code and clean up technical debt. The sync architecture has been reorganized under `api/service/synchronize` with a clear separation between staged stream sync and the old legacy sync. All unused legacy code has been removed, naming has been clarified (`Sync.Downloader` → `Sync.Client`), and unnecessary configuration flags have been dropped for a cleaner interface. This refactor improves maintainability, simplifies the system, and aligns all services, configurations, and scripts with the new sync structure.
+
+To further improve performance, I opened [PR #4937](https://github.com/harmony-one/harmony/pull/4937) to optimize peer discovery during node startup. Previously, it could take ~15 minutes for a fresh node to find enough peers, while a restarted node connected much faster. This PR introduces a startup discovery mode, network-aware limits, and better timing algorithms, allowing nodes to find peers much faster and start syncing without delays. This PR is under test in devnet with two nodes in shard 0 and shard 1.
+
+Lastly, I addressed a long-standing configuration inconsistency in [PR #4935](https://github.com/harmony-one/harmony/pull/4935) by reducing the shard count references from 4 to 2 across the entire codebase. Although Harmony has been operating on 2 shards for nearly two years, many configs, constants, and test setups still referenced the old 4-shard topology. This cleanup updates all configurations, consensus constants, wallet settings, and testing infrastructure to reflect the actual 2-shard architecture, preventing confusion and ensuring complete alignment across the network.
+
+---
+
 2025-08-02 Sat
 
 Last week was one of the most productive weeks so far, with several important milestones achieved across consensus, networking, and stream sync development.
@@ -823,4 +834,5 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
