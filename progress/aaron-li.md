@@ -1,3 +1,5 @@
+2025-8-8 Fri (0.3h): Backtesting: implement pool-based LP position scanner and extraction module.
+
 2025-8-7 Thu (7.0h): Backtesting: implement pool-based LP position scanner and extraction module. Backtesting: data extraction. Discussion on modelling, backtesting, hedging, profits and errors. Backtesting: implement proxy rotation and auto-resume data collection; exporting data to csv.
 
 2025-8-6 Wed (7.4h): Backtesting: database revision migration with alembic; scripts for LP positions and trades, end-to-end testing and stablizing data collection.
