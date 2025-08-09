@@ -1,3 +1,5 @@
+2025-08-08 Fri: Started working on caching for API. Also working on error throwing.
+
 2025-08-07 Thu: [Added](https://github.com/harmony-one/portfolio-manager/pull/38) getStats() API endpoint. Resolved Docker build context/compiling issue (some file caching persisted, had to manually update source). 
 
 2025-08-06 Wed: Attended final day of The Science of Blockchain event, and gained some insights from Chainlink after party. Looked into how to avoid georistriction for APIs.
