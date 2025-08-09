@@ -1,4 +1,4 @@
-2025-8-8 Fri (5.1h+): Backtesting: revise LP position scanner. Backtesting: implement pool-based LP position scanner and extraction module.
+2025-8-8 Fri (6.0h): Backtesting: revise LP position scanner. Backtesting: implement pool-based LP position scanner and extraction module.
 
 2025-8-7 Thu (7.0h): Backtesting: implement pool-based LP position scanner and extraction module. Backtesting: data extraction. Discussion on modelling, backtesting, hedging, profits and errors. Backtesting: implement proxy rotation and auto-resume data collection; exporting data to csv.
 
