@@ -1,4 +1,4 @@
-2025-8-10 Sun (1.1h+): Backtesting: revise LP position scanner.
+2025-8-10 Sun (1.2h): Backtesting: revise LP position scanner.
 
 2025-8-9 Sat (4.7h): Backtesting: revise LP position scanner.
 
