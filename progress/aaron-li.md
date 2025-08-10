@@ -1,4 +1,4 @@
-2025-8-9 Sat (2.3h+): Backtesting: revise LP position scanner.
+2025-8-9 Sat (3.3h+): Backtesting: revise LP position scanner.
 
 2025-8-8 Fri (6.0h): Backtesting: revise LP position scanner. Backtesting: implement pool-based LP position scanner and extraction module.
 
