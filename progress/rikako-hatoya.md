@@ -1,3 +1,5 @@
+2025-08-09 Sat (1.0h): PRd for [in-memory caching](https://github.com/harmony-one/portfolio-manager/pull/40) and [validation handling](https://github.com/harmony-one/portfolio-manager/pull/39). Research on iron condor.
+
 2025-08-08 Fri: Started working on caching for API. Also working on error throwing.
 
 2025-08-07 Thu: [Added](https://github.com/harmony-one/portfolio-manager/pull/38) getStats() API endpoint. Resolved Docker build context/compiling issue (some file caching persisted, had to manually update source). 
