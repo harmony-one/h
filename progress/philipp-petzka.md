@@ -1,3 +1,7 @@
+2025-08-10: I participated in team calls to support Artem and the dev team to understand the mechanics of hedging and how the execution flow of the automated strategy should work. After hedges didn't close appropriately during last week's performance test, I had to fix the code and redeploy the strategy in a new range. Started to look into the data shared by Stephen to study the actual price impacts for rebalancing after calculating an impact based on current liquidity. 
+
+Downloaded Docker and prepared the set-up to test the current version of Artems bot this week. 
+
 2025-07-27: I wrote a document with a short thesis for each asset held by the treasury to support the decision-making regarding future asset allocations. Together with the dev team we discussed hedging alternatives and reviewed updates of the LP farming strategy. 
 
 ---
