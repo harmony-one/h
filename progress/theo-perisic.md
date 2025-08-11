@@ -1,4 +1,4 @@
-2025-08-11 Mon-Fri: Out of Office
+2025-08-11 Mon - 2025-08-15 Fri: Out of Office
 
 
 2025-08-04 Mon: Attended Stanford Blockchain Week event and discussions. Insights: no DeFi specific projects and protocols, discussed security with Aleo team and treasury management with CommonPrefix, collaborating on BTC strategies, most common, even from crypto insiders, is simply using Lombard and Babylon abstract platfroms with lower yields, no direct advanced BTC strategy for higher yields.
