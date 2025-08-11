@@ -1,4 +1,4 @@
-2025-8-11 Mon (0.1h): Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Deploy to GCP and automate collection.
+2025-8-11 Mon (1.0h+): Examine alternative option sources. Revise lp-hedger strategy. Discussion on vendor data sources. Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Deploy to GCP and automate collection.
 
 ---
 
