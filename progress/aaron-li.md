@@ -1,4 +1,8 @@
-2025-8-10 Sun (5.7h+): Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Backtesting: debugging critical corner cases in LP position indexing. Backtesting: revise database models, make LP position indexing auto-resumable and replayable, remove unused code and improve consistency.
+2025-8-11 Mon (0.1h): Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Deploy to GCP and automate collection.
+
+---
+
+2025-8-10 Sun (6.3h): Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Deploy to GCP and automate collection. Backtesting: debugging critical corner cases in LP position indexing. Backtesting: revise database models, make LP position indexing auto-resumable and replayable, remove unused code and improve consistency.
 
 2025-8-9 Sat (4.7h): Backtesting: revise LP position scanner.
 
