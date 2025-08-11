@@ -1,3 +1,7 @@
+2025-08-11 Mon: implemented slippage calculation for cbBTC/USDC swap before LP rebalancing, working on adding it to the bot statistics. Reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/40) from Rika with caching of prices history data.
+
+---
+
 2025-08-10 Sun (1.0h): reviewed and [merged](https://github.com/harmony-one/portfolio-manager/pull/38) pull request from Rika with /stats endoint, [reviewed](https://github.com/harmony-one/portfolio-manager/pull/39#pullrequestreview-3103655911) pull request with tokens balances validation
 
 2025-08-09 Sat (2.5h): [created](https://github.com/harmony-one/portfolio-manager/commit/23ed6391006a5cbf6186a318ec2548356fa36f17) new strartegy configuration for narrow ranges (100 ticks in Aerodrome LP pool, minimum available value). [Fixed](https://github.com/harmony-one/portfolio-manager/commit/5930b5549345baa4c2450fcfd98d53a70fb3120e) LP APR in output table.
