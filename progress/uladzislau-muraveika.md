@@ -1,3 +1,13 @@
+2025-08-08 Fri:
+
+This week I was mostly focused on helping consensus team with the stream sync stabilization - installed several updates, reviewed PRs,updated the monitoring dashboard, debug issue with wrong peer_ids on the /dnsaddr/bootstrap.ps.hmny.io. We have ended up with [the first stable version](https://github.com/harmony-one/harmony/releases/tag/stream_sync_v1_stable_devnet) for the devnet fully running on stream sync since Monday.
+
+Additionally, I've finished testing multiplexor update - from mplex 0.7.0 and yamux to yamux and mplex 6.7.0, tests have shown that transition period for the network should be fine, because we will use one common multiplexor - yamux.
+
+And finally, I've started preparation for the stream sync in the testnet - enabled app metrics monitoring for it for having the bird eye view on how will it behave.
+
+---
+
 2025-07-25 Fri:
 
 On the monitoring side, I've created simple counters dashboard to monitor setModes in the mainnet validator logs. Current idea - collect data.
@@ -812,3 +822,4 @@ Main focus for the Thursday - blacklist automation and I've created a part for t
 My main focus on the following week will [RPC nginx config automation](https://github.com/harmony-one/harmony-ops-priv/issues/162) and [rate limits for the RPC](https://github.com/harmony-one/harmony-ops-priv/issues/161)
 
 ---
+
