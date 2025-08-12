@@ -1,3 +1,7 @@
+2025-08-11 Mon: Refactoring of bot. Replacing hardcoded values with functions to retrieve onchain data.
+
+---
+
 2025-08-10 Sun: Reading on impermanent loss explained article. Look through pricing options course on coursera.
 
 2025-08-09 Sat (1.0h): PRd for [in-memory caching](https://github.com/harmony-one/portfolio-manager/pull/40) and [validation handling](https://github.com/harmony-one/portfolio-manager/pull/39). Research on iron condor.
