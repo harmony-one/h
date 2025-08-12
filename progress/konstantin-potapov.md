@@ -1,3 +1,8 @@
+2025-08-08 Fri:
+Rebased 1.10 branch onto 1.9, reaching ~90% completion. Reviewed multiple PRs.
+
+---
+
 2025-08-01 Fri:
 Finalized 1.9 version update, it's on review and ready to be merged. Started rebase 1.10 version update, current progress is 70%. Reviewed several PRs.    
 
