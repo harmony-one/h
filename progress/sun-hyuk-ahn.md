@@ -1,3 +1,12 @@
+2025-08-12 Tue:
+
+2025-08-11 Mon: (Continue subscription and unwanted connection fix).
+
+---
+
+2025-08-08 Fri: Found that there are thousands of nodes subscribing to the Harmony network. This is a possible cause of `EOF` error when new connections are being connected. Began analyzing for the fix.
+
+2025-08-07 Thu: Patched devnet with the updated stream sync. The network is working as expected. Will work with Ulad to patch Testnet once stabilized.
 
 2025-08-04 Mon - 2025-08-06 Wed: Out of office (3 days)
 
