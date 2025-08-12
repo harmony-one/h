@@ -1,4 +1,4 @@
-2025-8-12 Tue (3.5h): LP Hedger: improve hedging amount and reduce unnecessary hedging. LP Hedger: improve instrument selection.
+2025-8-12 Tue (3.8h+): LP Hedger: improve hedging amount and reduce unnecessary hedging. LP Hedger: improve instrument selection.
 
 2025-8-11 Mon (6.3h): Discussion on options, and strategy implementation progress. Debug LP position reconstruction. Restore database, fix a bug that incorrectly marks a transaction as processed before positions are updated and the entire block range is processed. Examine alternative option sources. Revise lp-hedger strategy. Backtest: Fix transfer handling bug in LP position extractor. Simplify token positions handling and deprecate db-based token id tracking code. Discussion on vendor data sources. Backtesting: fix double processing error for same (transaction, log index), add database models and in-memory mechanism to prevent double counting or missing block. Deploy to GCP and automate collection.
 
