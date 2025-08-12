@@ -8,6 +8,23 @@ And finally, I've started preparation for the stream sync in the testnet - enabl
 
 ---
 
+2025-08-01 Fri - PTO
+
+---
+
+2025-07-31 Thu:
+
+This week focus was completely on the house-keeping tasks.
+
+On the consensus development side, I've fixed the pyhmy negative tests [PR-44](https://github.com/harmony-one/pyhmy/pull/44), they started to fail by timeout or run for 40 minutes instead of 12-15. Root cause - example.com domain started to throttle bad requests, fix was to point negative tests to domain under our control.
+
+On the support side, fix [faucet](https://faucet.pops.one/) links to the Harmony discord instead of pops tg chat.
+Additionally, helped Blockscout team to investigate 429 rate limit issue on the explorer - ended up L2PASS project was sending the same 20 API requests per seconds, eating all default Blockscout rate limit. I've tried to connect with L2PASS - no luck, their discord is read only. Blockscout team at the same time just rate-limited L2PASS project on the blockscout.
+
+And finally I've documented all the findings about 2 additional options to sync our archival nodes with others- rclone+rsync deltas and parsyncfp2 if do it from scratch.
+
+---
+
 2025-07-25 Fri:
 
 On the monitoring side, I've created simple counters dashboard to monitor setModes in the mainnet validator logs. Current idea - collect data.
