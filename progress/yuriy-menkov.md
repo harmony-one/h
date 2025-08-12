@@ -1,3 +1,9 @@
+2025-08-11 Mon: Worked on exporting and aggregating by wallet data, including calculating average APR, average position duration, etc. Deployed a multi-indexer for events across multiple gauges. Working on an API extension for the aerodrome monitoring service.
+
+---
+
+2025-08-08 Fri: Started working on extending the Snapshot X voting engine to add a second off-chain voting step, based on an online calculation of votes proportional to the share of tokens delegated in staking.
+
 2025-08-07 Thu: Worked on exporting and preparing data for USDC/cbBTC positions over the past 90 days, followed by daily breakdowns and compilation of statistics such as average APR, number of positions, average holding time, etc. Most positions open within a minute with fast withdrawal of staking rewards.
 
 2025-08-06 Wed: Reviewed and researched repositories and tasks related to Harmony multisig from Gnosis Safe. Enhanced Snapshot X functionality to enable adding a custom quorum expressed as a percentage proportional to the total stake.
