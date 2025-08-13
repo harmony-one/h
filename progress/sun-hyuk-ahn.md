@@ -1,4 +1,4 @@
-2025-08-13 Wed: (Complete migration and continue with unwanted subscription issue).
+2025-08-13 Wed: Cleaned up unused resources and downsized instances for AWS. Began custom kad-dht protocol and connection gater [implementation](https://github.com/harmony-one/harmony/pull/4939) to only enable harmony specific nodes to be discovered and connected.
 
 2025-08-12 Tue: Updated Hashicorp Vault to the latest version due to day one [vulnerability](https://discuss.hashicorp.com/t/hcsec-2025-22-multiple-vulnerabilities-impacting-hashicorp-vault-and-vault-enterprise/76096) and updated related scripts. Cleaned up EC2 instances and began migrating instances to other providers. Completed patching stream sync on Testnet.
 
