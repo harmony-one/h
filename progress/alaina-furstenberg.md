@@ -1,3 +1,17 @@
+2025-08-12 Tue: Utilizing Descript to post shorts + tweet from the Q3 video. Writing + posting a thread on BTC hedging, per my research.
+
+2025-08-11 Mon: Sync with Theo on Q3 expectations + coordinating a sync with Amanda. Continued research on hedging, read [The Cost of Bitcoin Futures-Based ETFs](https://arxiv.org/abs/2303.00504) and learned: When hedging BTC, a hedge that looks profitable on paper can quietly bleed if perpetual swap funding moves against you—especially in prolonged one-sided markets.
+
+---
+
+2025-08-10 Sun: Writing and posting of [progress thread](https://x.com/harmonyprotocol/status/1954728115760226665).
+
+2025-08-09 Sat: Continued research into hedging, read [Hedging with Bitcoin Futures:
+The Eﬀect of Liquidation Loss Aversion and Aggressive Trading](https://arxiv.org/pdf/2101.01261). Insight: Managing a BTC hedge is not just about your hedge instrument, it’s about how you insulate yourself from extreme market swings and liquidation risks. Especially with leveraged futures, the optimal strategy balances variance reduction with avoiding forced liquidation.
+
+2025-08-08 Fri: Update of community section. Read [ADAPTIVE LIQUIDITY PROVISION IN UNISWAP V3 WITH DEEP
+REINFORCEMENT LEARNING](https://arxiv.org/pdf/2309.10129). Insight: Effective hedging in DeFi is about letting range evolve based on market behavior. For example, emerging research suggests that dynamically tuning your liquidity band using reinforcement learning can help balance fee income and capital exposure, without requiring off‑chain hedges. 
+
 2025-08-07 Thu: Re-editing of July video. Creating plan to better familiarize myself with hedging mechanics / range management per Stephen/Aarons update. Thread on BTC hedging.
 
 2025-08-06 Wed: Stanford Blockchain Event. Attended BitVM2: Bridging Bitcoin to Second Layers. Insight: BitVM2 sharpens Bitcoin's programmable edge by letting anyone challenge off‑chain computations with just three on‑chain transactions—no changes to Bitcoin needed—making trust‑minimized bridging to layer‑2s far more secure and efficient.
