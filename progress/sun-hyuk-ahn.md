@@ -1,6 +1,8 @@
-2025-08-12 Tue:
+2025-08-13 Wed: (Complete migration and continue with unwanted subscription issue).
 
-2025-08-11 Mon: (Continue subscription and unwanted connection fix).
+2025-08-12 Tue: Updated Hashicorp Vault to the latest version due to day one [vulnerability](https://discuss.hashicorp.com/t/hcsec-2025-22-multiple-vulnerabilities-impacting-hashicorp-vault-and-vault-enterprise/76096) and updated related scripts. Cleaned up EC2 instances and began migrating instances to other providers. Completed patching stream sync on Testnet.
+
+2025-08-11 Mon: Began updating Testnet with staged stream sync as the default syncing mechanism. Analyzed libp2p's [pubsub](https://docs.libp2p.io/concepts/pubsub/overview/) in order to filter out unwanted subscription. 
 
 ---
 
