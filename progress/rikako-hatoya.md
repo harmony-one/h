@@ -1,3 +1,5 @@
+2025-08-12 Tue: Look into trading fees optimization. More look into iron condor.
+
 2025-08-11 Mon: Refactoring of bot. Replacing hardcoded values with functions to retrieve onchain data.
 
 ---
