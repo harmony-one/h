@@ -1,4 +1,4 @@
-2025-8-13 Wed (0.8h): LP data processing. Deploying upgraded LP hedger on BTC and ETH positions. Fix bugs.
+2025-8-13 Wed (1.1h): LP data processing. Deploying upgraded LP hedger on BTC and ETH positions. Fix bugs.
 
 2025-8-12 Tue (7.5h): Deploying upgraded LP hedger on BTC and ETH positions. Fix bugs. LP Hedger: improve hedging amount and reduce unnecessary hedging. LP data processing. LP Hedger: improve instrument selection.
 
