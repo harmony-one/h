@@ -1,3 +1,5 @@
+2025-08-12 Tue: Added staked logic to the [backtest script](https://github.com/harmony-one/portfolio-manager/pull/36). Added reverse baseline calculation for staked liquidity using current on-chain stakedLiquidity() minus net deposit/withdrawal events from backtest start to present. Removed logging from backtest script for code cleanup.
+
 2025-08-11 Mon: Researched Aerodrome's staked position logic for production implementation, implementing position earned reward logic. Discovered gauge's withdraw method automatically claims all AERO rewards, collects trading fees, and returns NFT to wallet - existing closing multicall method just needs withdraw call added for staked positions. Continued working on AERO rewards backtesting logic, adding retrieval of staked liquidity prior to backtesting start date and calculating staked liquidity throughout execution while computing earned AERO rewards per period. Discussed Analytics API with Yuriy - he will update starting block number to include events since gauge contract creation. Daily Bot update (v0.0.2): 15h runtime, APR 25.5%, cumulative profit -$0.173, no rebalancing needed (tick 1600).
 
 ---
