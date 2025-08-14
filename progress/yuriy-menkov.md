@@ -1,3 +1,7 @@
+2025-08-13 Wed: Researched backtesting scripts and repositories from Aaron. Comparing the results of the exported aerodrome pools date by Aaron and the results of the monitoring service.
+
+2025-08-12 Tue: Finished configuring a new instance of the aerodrome service monitoring service for the usdc/cbbtc 100 pair for full unloading of historical data of position events for the year. Was engaged in optimization for real-time calculation of data on positions - since the number of positions for the year is more than 3 million and it is impossible to make calculations through a one-time loading into memory - used the approach with unloading by batches and saving intermediate results in the database.
+
 2025-08-11 Mon: Worked on exporting and aggregating by wallet data, including calculating average APR, average position duration, etc. Deployed a multi-indexer for events across multiple gauges. Working on an API extension for the aerodrome monitoring service.
 
 ---
