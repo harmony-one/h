@@ -1,4 +1,4 @@
-2025-8-14 Thu (1.7h): Implement swap fee recovery.
+2025-8-14 Thu (1.8h): Implement swap fee recovery.
 
 2025-8-13 Wed (2.9h): Research on dynamic fee module parameters, events, fee computation, feasibility on swap fee recovery. Deploying upgraded LP hedger on BTC and ETH positions. Fix bugs.
 
