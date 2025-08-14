@@ -1,3 +1,19 @@
+2025-08-14 Thu:
+
+This week focus was the help for the team with the stream sync:
+
+For the testnet - it is enabled as server only with further clients enabled on the following week. Monitoring is setup and running for the whole network, all nodes added more or equal than 3 streams each, which means we are in good pace now.
+
+For the devnet- we had 2 instabilities due to issues on the cloud provider side where devnet shard was split in 2 networks one on the N block, the other one on the block N+1. Reason - 45% of sign power was isolated in one cloud provider, when the other 55% were able to communicate to each other. I've checked that stream sync wasn't the root cause of the issue, after restart all the nodes on N block were able to sync the N+1 block.
+
+Additionally, I've highlighted to Ghies one problematic RPC which stops to sync with the network and Ghies is analyzing the root cause of this issue.
+
+For the ops tasks, I've helped Sun to review the current resource usage in AWS and suggested what server can be downgraded by resources and what can be deleted.
+
+For the monitoring area, I've improved our dashboard for the RPC metrics with 2 new filters - `instance` and `method`. We need this to clearly understand what kind of request our RPC serves. Additionally, I've covered all 5 RPC endpoints with an uptime robot check for the node sync, previously we didn't have it on each node level. It will help us to understand how Harmony RPC nodes are serving traffic to users.
+
+---
+
 2025-08-08 Fri:
 
 This week I was mostly focused on helping consensus team with the stream sync stabilization - installed several updates, reviewed PRs,updated the monitoring dashboard, debug issue with wrong peer_ids on the /dnsaddr/bootstrap.ps.hmny.io. We have ended up with [the first stable version](https://github.com/harmony-one/harmony/releases/tag/stream_sync_v1_stable_devnet) for the devnet fully running on stream sync since Monday.
