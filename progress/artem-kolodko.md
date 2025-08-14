@@ -1,3 +1,5 @@
+2025-08-13 Wed: synchronized with Philipp and added additional fields (cbBTC amount, USDC amount) to the bot statistics; added Swagger scheme for non-devs, prepared the bot for deployment
+
 2025-08-12 Tue: added slippage costs to bot statistics, started testing it locally. Will prepare the bot to deploy on fly.io with stats available via API.
 
 2025-08-11 Mon: implemented slippage calculation for cbBTC/USDC swap before LP rebalancing, working on adding it to the bot statistics. Reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/40) from Rika with caching of prices history data.
