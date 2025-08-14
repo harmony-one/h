@@ -1,4 +1,6 @@
-2025-08-12 Tue: Look into trading fees optimization. More look into iron condor.
+2025-08-13 Wed: Opened [PR](https://github.com/harmony-one/portfolio-manager/pull/41) for initializing token allowance at bot start. Also fixed replacement of placeholder values in marketState (lpPoolAPR and TVL) using on-chain values.
+
+2025-08-12 Tue: Started implementing trading fees optimization (token allowance). More look into iron condor.
 
 2025-08-11 Mon: Refactoring of bot. Replacing hardcoded values with functions to retrieve onchain data.
 
