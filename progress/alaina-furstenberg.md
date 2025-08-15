@@ -1,4 +1,10 @@
-2025-08-12 Tue: Utilizing Descript to post shorts + tweet from the Q3 video. Writing + posting a thread on BTC hedging, per my research.
+2025-08-15 Fri: Reviewing team progress, filming weekly progress short. Updating the community section.
+
+2025-08-14 Thu: Notetaking + deep dive into the voice memo. Wrote [thread](https://x.com/harmonyprotocol/status/1956202637130654060) from the memo on how impermanent loss can eat into hedging gains. Designed a graphic to pair with the thread.
+
+2025-08-13 Wed: 
+
+2025-08-12 Tue: Utilizing Descript to post [shorts](https://youtube.com/shorts/mpnyOy4pOwQ?si=xwgPVn-81egz1NjK) + tweet from the Q3 video. Writing + posting a [thread](https://x.com/harmonyprotocol/status/1955469876606415192) on BTC hedging and how it can help chains sustain forever.
 
 2025-08-11 Mon: Sync with Theo on Q3 expectations + coordinating a sync with Amanda. Continued research on hedging, read [The Cost of Bitcoin Futures-Based ETFs](https://arxiv.org/abs/2303.00504) and learned: When hedging BTC, a hedge that looks profitable on paper can quietly bleed if perpetual swap funding moves against you—especially in prolonged one-sided markets.
 
