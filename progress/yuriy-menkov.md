@@ -1,3 +1,5 @@
+2025-08-14 Thu: Worked on calculating APR and other per-wallet statistics for the pool with tick 100, using a year of data (over 3 million events). Also attempted integration with Aaron’s lp data—computing fees from transfer/mint/burn events—for more accurate, ground-truth results without relying on the subgraph.
+
 2025-08-13 Wed: Researched backtesting scripts and repositories from Aaron. Comparing the results of the exported aerodrome pools date by Aaron and the results of the monitoring service.
 
 2025-08-12 Tue: Finished configuring a new instance of the aerodrome service monitoring service for the usdc/cbbtc 100 pair for full unloading of historical data of position events for the year. Was engaged in optimization for real-time calculation of data on positions - since the number of positions for the year is more than 3 million and it is impossible to make calculations through a one-time loading into memory - used the approach with unloading by batches and saving intermediate results in the database.
