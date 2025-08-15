@@ -2,6 +2,8 @@
 
 Downloaded Docker and prepared the set-up to test the current version of Artems bot this week. 
 
+---
+
 2025-07-27: I wrote a document with a short thesis for each asset held by the treasury to support the decision-making regarding future asset allocations. Together with the dev team we discussed hedging alternatives and reviewed updates of the LP farming strategy. 
 
 ---
