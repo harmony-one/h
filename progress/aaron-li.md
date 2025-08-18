@@ -1,3 +1,7 @@
+2025-8-18 Mon (0.4h+): Verifying fee amounts against other data sources. Implement calculation on fee earned.
+
+---
+
 2025-8-17 Sun (9.5h): Debugging database sync inconsistency issue. Hyperliquid data extraction. Database verification and syncing. Debugging, extracting, verifying fee data.
 
 2025-8-15 Fri (2.0h): Implement swap fee recovery. Implement site-specific proxy stack and configurations.
