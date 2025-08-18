@@ -1,4 +1,4 @@
-2025-8-17 Sun (4.2h): Debugging, extracting, verifying fee data.
+2025-8-17 Sun (5.1h+): Debugging, extracting, verifying fee data.
 
 2025-8-15 Fri (2.0h): Implement swap fee recovery. Implement site-specific proxy stack and configurations.
 
