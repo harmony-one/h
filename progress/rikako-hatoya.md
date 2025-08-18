@@ -1,3 +1,7 @@
+2025-08-16 Sun: Continuation with looking through Aaron's backtest and data repo.
+
+2025-08-15 Sat: Continuation with action logging. 
+
 2025-08-15 Fri: Started looking into database to implement storing results. Looking into Aaron's backtest repo.
 
 2025-08-14 Thu: Fixed parts from feedback in PR. Look into Aaron's LP data.
