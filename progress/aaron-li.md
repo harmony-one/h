@@ -1,4 +1,4 @@
-2025-8-18 Mon (1.7h): Verifying fee amounts against other data sources. Implement calculation on fee earned.
+2025-8-18 Mon (2.6h+): Verifying fee amounts against other data sources. Implement calculation on fee earned.
 
 ---
 
