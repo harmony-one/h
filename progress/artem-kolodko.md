@@ -1,3 +1,5 @@
+2025-08-17 Sun (3.0h): prototyping detailed stats for LP positions
+
 2025-08-15 Fri: deployed LP yield bot on fly.io; fixing minor bugs, logging improvements
 
 2025-08-14 Thu: found and fixed bug with missing minAmount for cbBTC and USDC tokens in "mint" transaction call when LP rebalance ("slippage" for LP deposit); testing the updated bot locally
