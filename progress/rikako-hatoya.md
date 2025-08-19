@@ -1,3 +1,7 @@
+2025-08-17 Mon: Implemented first prototype for acitvity log database and PR'd, will take a look at snapshot. Looking into statsitics for shark bot and also looked into panoptic report on hedging, compiled some notes.
+
+---
+
 2025-08-16 Sun: Continuation with looking through Aaron's backtest and data repo.
 
 2025-08-15 Sat: Continuation with action logging. 
