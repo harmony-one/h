@@ -1,3 +1,7 @@
+2025-08-18 Mon: added net APR, net PnL and other statistics across all positions, deployed new version of bot on fly.io
+
+---
+
 2025-08-17 Sun (3.0h): prototyping detailed stats for LP positions
 
 2025-08-15 Fri: deployed LP yield bot on fly.io; fixing minor bugs, logging improvements
