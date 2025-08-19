@@ -1,3 +1,9 @@
+2025-08-18 Mon: Exported positions data and converting it to a new format with preserved significant digits to enable verification of APR calculations in Excel spreadsheets. Also working on a script to compare data from the aerodrome monitoring service with data obtained from Aaron’s scripts and stats from Dune service.
+
+---
+
+2025-08-15 Fri: Made several improvements to the aerodrome monitoring service: expanding the API with filters by event name to exclude unnecessary events when integrating with the backtesting service. Worked on creating indexes to speed up database queries. Synced with Artem about developing a time-series simulation model of positions APR and impermanent loss (IL) based on input parameter set. 
+
 2025-08-14 Thu: Worked on calculating APR and other per-wallet statistics for the pool with tick 100, using a year of data (over 3 million events). Also attempted integration with Aaron’s lp data—computing fees from transfer/mint/burn events—for more accurate, ground-truth results without relying on the subgraph.
 
 2025-08-13 Wed: Researched backtesting scripts and repositories from Aaron. Comparing the results of the exported aerodrome pools date by Aaron and the results of the monitoring service.
