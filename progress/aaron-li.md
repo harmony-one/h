@@ -1,4 +1,4 @@
-2025-8-20 Wed (3.8h+): EWS. Discussion on LP data, options, and bot performance. Debugging edge cases of fee earning analytics.
+2025-8-20 Wed (4.1h+): Debug and revise earning script. Fix embedded web service fetch errors due to notion API update. Upgrade embedded web service server package versions. Discussion on LP data, options, and bot performance. Debugging edge cases of fee earning analytics.
 
 2025-8-19 Tue (9.1h): Verifying fee amounts against other data sources. Implement calculation on fee earned.
 
