@@ -1,3 +1,5 @@
+2025-8-20 Wed (0.3h+): Debugging edge cases of fee earning analytics.
+
 2025-8-19 Tue (9.1h): Verifying fee amounts against other data sources. Implement calculation on fee earned.
 
 2025-8-18 Mon (5.1h): Verifying fee amounts against other data sources. Implement calculation on fee earned.
