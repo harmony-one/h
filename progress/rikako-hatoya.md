@@ -1,3 +1,5 @@
+2025-08-19 Wed: Look into strategies for top holders. Looking into Dune for analytics.
+
 2025-08-18 Tue: Continue with looking into backtesting.
 
 2025-08-17 Mon: Implemented first prototype for acitvity log database and PR'd, will take a look at snapshot. Looking into statsitics for shark bot and also looked into panoptic report on hedging, compiled some notes.
