@@ -1,3 +1,7 @@
+2025-08-20 Wed: Collecting statistics on aerodrome positions via Aaron’s scripts — tried locally, but the process is too long due to the large number of requests to the RPC node. Working on deploying the service on a separate server with a connection to a custom Base RPC node. Sync with Artem regarding development of a simulation model for Uniswap v3 LP positions’ APR: calculating APR depending on range, trading volume, price volatility, etc.
+
+2025-08-19 Tue: Comparison daily statistics (lp liquidity volume and total profit in USD) between the aerodrome monitoring service and the dune service. Researched the possibility of extending the Snapshot X engine to add statistics on validators who didn't voted, with subsequent exclusion of them from voting to enable reaching quorum without inactive participants.
+
 2025-08-18 Mon: Exported positions data and converting it to a new format with preserved significant digits to enable verification of APR calculations in Excel spreadsheets. Also working on a script to compare data from the aerodrome monitoring service with data obtained from Aaron’s scripts and stats from Dune service.
 
 ---
