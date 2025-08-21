@@ -1,3 +1,7 @@
+2025-08-20 Wed: improved calculation of target position size with cbBTC ratio quote for given ticks range in a new LP position, continue testing
+
+2025-08-19 Tue: created a fix for incostistent LP position size in created LP positions, started testing it locally
+
 2025-08-18 Mon: added net APR, net PnL and other statistics across all positions, deployed new version of bot on fly.io
 
 ---
