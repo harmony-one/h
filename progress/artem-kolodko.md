@@ -341,7 +341,7 @@ In Q1 2025, I focused on advancing DeFi analytics. I started portfolio performan
 
 2025-03-23 Sun (3.0h): portfolio tracker: researched [Subgraph API](https://sonic.kingdomsubgraph.com/subgraphs/name/shadow-migration) and [implemented](https://github.com/harmony-one/shadow-scraper/commit/c832ff2b6d81ace84bba8a23221bfbd9b7f895fe) logic to get the full history of rewards claimed by a user. Continie working on the APY calculation for Shadow pools.
 
-2025-03-21 Fri: [added](https://github.com/harmony-one/shadow-scraper/commit/5227a40f4f51cf12b37077dad6c3bef91f863e34) values and balances in USD in portfolio tracker for all coins available in Coingecko API. Started working on the APR calclation for pools.
+2025-03-21 Fri: [added](https://github.com/harmony-one/shadow-scraper/commit/5227a40f4f51cf12b37077dad6c3bef91f863e34) values and balances in USD in portfolio tracker for all coins available in Coingecko API. Started working on the APR calculation for pools.
 
 2025-03-20 Thu: portfolio tracker: [added](https://github.com/harmony-one/shadow-scraper/commit/3f080efddafa31e49738a30165a146e91ea88610) Shadow pool pending rewards with all 3 reward tokens: Shadow, XShadow and X33. [Added](https://github.com/harmony-one/shadow-scraper/commit/c34e3f42b1cb8bfe6a21408cb19bd8a54923602d) ERC20 tokens balance. [Improved](https://github.com/harmony-one/shadow-scraper/commit/dbfeae5902f5c2883b4e19ecadef113168863735) export to tsv format.
 

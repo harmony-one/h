@@ -1095,7 +1095,7 @@ Note that these are brief layout of the specification after the initial research
 
 ---
 
-2023-12-24 Sun: Testnet testing the bridge transacitons. Working as expected.
+2023-12-24 Sun: Testnet testing the bridge transactions. Working as expected.
 
 2023-12-23 Sat: Generalized bridge logic to be deployed on any chains. Generalized Bridge.sol now can deposit and withdraw tokens. In need of Harmony Testnet tokens in order to deploy and test out transactions.
 
