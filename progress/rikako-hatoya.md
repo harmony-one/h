@@ -1,3 +1,5 @@
+2025-08-20 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies or lp-hedger repo.
+
 2025-08-19 Wed: Look into strategies for top holders. Looking into Dune for analytics.
 
 2025-08-18 Tue: Continue with looking into backtesting.
