@@ -1,3 +1,19 @@
+---
+
+2025-08-22 Fri:
+
+This week focus was on the ops side completely. I have enabled stream sync clients on the testnet and most of the nodes were able to sync with the network. All instabilities were reported to Gheis.
+
+Additionally, I've moved [Harmony faucet](https://github.com/mur-me/h/tree/main) to the harmony org, created [new domain faucet.hmny.io](https://faucet.hmny.io/), added redirect from the old [one - faucet.pops.one](https://faucet.pops.one/), changed uptime robot monitors, rewrite documentation both internal and external for it.
+
+And finally, I've gotten a request from the development team to spin up an archival Base RPC node. I've analyzed server and application requirements and disks size, chosen the server provider, fully setup the whole server - firewalls, our monitoring stack. Right now, I'm downloading and extract snapshots for the Base reth, eth lighthouse and eth erigon.
+
+---
+
+2025-08-15 Fri - PTO
+
+---
+
 2025-08-14 Thu:
 
 This week focus was the help for the team with the stream sync:
