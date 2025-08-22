@@ -1,4 +1,6 @@
-2025-8-21 Thu (1.5h): Debugging fee earning aggregation and output script.
+2025-8-22 Fri (0.8h+): database access setup, fee earning script  revision.
+
+2025-8-21 Thu (4.0h): Discussion on data, database, and copy strategies. Debugging fee earning aggregation and output script.
 
 2025-8-20 Wed (7.5h): Debug and revise earning script. Fix embedded web service fetch errors due to notion API update. Upgrade embedded web service server package versions. Discussion on LP data, options, and bot performance. Debugging edge cases of fee earning analytics.
 
