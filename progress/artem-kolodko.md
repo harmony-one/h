@@ -1,3 +1,5 @@
+2025-08-21 Thu: LP bot optimizations: [swap quote](https://github.com/harmony-one/portfolio-manager/pull/43/commits/0cebd2949a6cde2f92988df9513aaad650d7991d), [LP position slippage](https://github.com/harmony-one/portfolio-manager/pull/43/commits/64f0240267b69277b0dad181c7bfc9da570fde14), continue testing before deploying new version on fly.io
+
 2025-08-20 Wed: improved calculation of target position size with cbBTC ratio quote for given ticks range in a new LP position, continue testing
 
 2025-08-19 Tue: created a fix for incostistent LP position size in created LP positions, started testing it locally
