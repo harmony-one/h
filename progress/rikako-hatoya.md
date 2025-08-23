@@ -1,3 +1,5 @@
+2025-08-21 Fri: Analysis of top 10 holders (debugging incorrect metrics calculation, inspecting top 10 trends, and reiteration from there to investigate minting strategies + trading fee/collected reqards amount solution). Look into Dune queries, options strategy.
+
 2025-08-20 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies or lp-hedger repo.
 
 2025-08-19 Wed: Look into strategies for top holders. Looking into Dune for analytics.
