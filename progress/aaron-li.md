@@ -1,4 +1,4 @@
-2025-8-22 Fri (7.8h+): database access setup, fee earning script  revision.
+2025-8-22 Fri (8.8h+): database access setup, fee earning script  revision.
 
 2025-8-21 Thu (4.0h): Discussion on data, database, and copy strategies. Debugging fee earning aggregation and output script.
 
