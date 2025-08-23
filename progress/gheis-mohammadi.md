@@ -1,3 +1,13 @@
+2025-08-23 Sat: After the successful deployment of stream sync on devnet, we moved forward with deploying it to testnet. The rollout was planned in phases: first, we enabled the **stream server**, which proved to be fully stable with no issues. Next, we enabled the **stream client** on two RPC nodes in testnet, which also ran smoothly. Finally, we enabled the stream client on all testnet nodes. While the overall network remained stable, two nodes consistently fell out of sync, prompting deeper investigation.  
+
+After studying logs and running detailed investigations, we determined that the likely culprit was **very slow network connections**. These conditions revealed a flaw in the existing stream sync timeout system, which relied on short, fixed timeouts. When syncing large blocks over slow connections, the timeout would often trigger mid-transfer, leaving incomplete block data and causing errors such as `rlp: too few elements for types.extblock`. This incomplete data would halt syncing entirely, even though the connections were active.  
+
+To address this, I created [PR #4940](https://github.com/harmony-one/harmony/pull/4940). This PR replaces the old fixed-timeout system with a **progress-based adaptive timeout mechanism**. Data is now read in 2KB chunks with individual 30-second timeouts. The system intelligently monitors data transfer progress, extending timeouts when data is flowing and only terminating truly stalled connections. This ensures that slow but active connections are handled gracefully, preventing partial data corruption and eliminating RLP parsing errors. In addition, the PR improves sync detection and includes several other refinements to enhance reliability.  
+
+Next week, the team will review this PR, and we plan to test it again on the problematic testnet nodes to confirm whether the fix fully resolves the issue under real-world conditions.
+
+---
+
 2025-08-16 Sat: Last week, I began work on EIP-2935 and delivered an initial implementation in [PR #4938](https://github.com/harmony-one/harmony/pull/4938). This EIP introduces a **block hash history window**, solving a long-standing limitation where only the most recent block hashes were accessible to smart contracts. My implementation adds a ring buffer storage mechanism with modulo-based indexing, enabling efficient storage and retrieval of historical block hashes. Upon activation at the hard fork, the system automatically fills the history buffer with available data, instantly expanding accessible block history by **32×**. The storage is handled via a dedicated contract address, ensuring full backward compatibility while significantly enhancing the ability to access older block states. This opens the door for more sophisticated applications and analytics that rely on historical blockchain data, all while staying fully aligned with the official EIP-2935 specification.
 
 We also continued monitoring **stream sync** performance on devnet. While stability remained high, one node exhibited unusual behavior — it became stuck mid-sync despite having sufficient peer streams. After a deep investigation, I identified the likely root cause: **short, fixed timeouts** that fail to account for slower network conditions. These aggressive timeouts can trigger in the middle of a block transfer, leaving incomplete data and causing **RLP parsing failures**. 
@@ -835,6 +845,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
