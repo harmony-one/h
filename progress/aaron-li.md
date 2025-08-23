@@ -1,4 +1,4 @@
-2025-8-23 Sat (2.5h+): Fix incorrect owner resolution with.
+2025-8-23 Sat (3.4h+): Fix incorrect owner resolution with.
 
 2025-8-22 Fri (9.1h): database access setup, fee earning script  revision.
 
