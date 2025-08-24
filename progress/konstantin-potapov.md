@@ -1,3 +1,7 @@
+2025-08-22 Fri:
+Branch 1.10 now compiles successfully and passes about 99% of the tests. An issue in branch 1.9 was identified and fixed. Revived several Pull Requests
+
+
 2025-08-08 Fri:
 Rebased 1.10 branch onto 1.9, reaching ~90% completion. Reviewed multiple PRs.
 
