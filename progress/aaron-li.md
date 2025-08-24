@@ -1,6 +1,6 @@
-2025-8-23 Sat (5.3h): Database remote cloning. Fix incorrect owner resolution with.
+2025-8-23 Sat (5.3h): Database remote cloning. Fix incorrect owner resolution with transfer lookup. Produce reliable owner aggregate data on PnL and fees.
 
-2025-8-22 Fri (9.1h): database access setup, fee earning script  revision.
+2025-8-22 Fri (9.1h): database access setup, fee earning script revision.
 
 2025-8-21 Thu (4.0h): Discussion on data, database, and copy strategies. Debugging fee earning aggregation and output script.
 
