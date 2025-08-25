@@ -1,4 +1,4 @@
-2025-8-25 Mon (0.5h): Database access. VPN setup.
+2025-8-25 Mon (0.6h+): Log abnormallies. Produce deposit and withdraw stats. Database access. VPN setup.
 
 ---
 
