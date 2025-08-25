@@ -1,3 +1,7 @@
+2025-8-25 Mon (0.1h+): Database access.
+
+---
+
 2025-8-24 Sun (1.0h): Database security config and cleanup.
 
 2025-8-23 Sat (5.3h): Database remote cloning. Fix incorrect owner resolution with transfer lookup. Produce reliable owner aggregate data on PnL and fees.
