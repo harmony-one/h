@@ -1,4 +1,4 @@
-2025-8-25 Mon (0.1h+): Database access.
+2025-8-25 Mon (0.4h): VPN setup. Database access.
 
 ---
 
