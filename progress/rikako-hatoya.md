@@ -1,8 +1,14 @@
+2025-08-24 Mon: Worked on fixing bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) from Artem's feedback for generalized version.  Look into market maker, and aggregated owner data.
+
+---
+
+2025-08-23 Sun: Continued with top holder activity, 
+
 2025-08-22 Sat: Went back and changed bot's database logging logic. Previously only implemented for checking status but generalized/added for other actions (eg. open hedge, close LP, etc).
 
 2025-08-21 Fri: Analysis of top 10 holders (debugging incorrect metrics calculation, inspecting top 10 trends, and reiteration from there to investigate minting strategies + trading fee/collected rewards amount solution). Look into Dune queries, options strategy.
 
-2025-08-20 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies or lp-hedger repo.
+2025-08-20 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies (covered call) or lp-hedger repo.
 
 2025-08-19 Wed: Look into strategies for top holders. Looking into Dune for analytics.
 
