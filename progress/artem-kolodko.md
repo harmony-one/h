@@ -1,3 +1,7 @@
+2025-08-26 Tue: tested hedging position adjustment, merged into main branch. Started working on adding impermanent loss calculation in the bot statisctics.
+
+2025-08-25 Mon: added adjusting of hedging position in the bot instead of closing and opening a new one - it will potentially reduce trading fees on Hyperliquid. Testing it locally.
+
 2025-08-23 Sat (2.0h): [improved](https://github.com/harmony-one/portfolio-manager/commit/d426033d38076eef1beac533fb6077532b831641) lp-shark bot statistics output: added LP apr and net apr based on performance of each position, added separate lpNetPnL and netPnL values, updated the bot on fly.io. 
 
 2025-08-22 Fri: deployed updated bot with fixes on fly.io (API link it the same); started working on hedging position adjustment on rebalancing
