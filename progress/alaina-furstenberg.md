@@ -1,3 +1,18 @@
+2025-08-26 Tue: Beginning draft of August newsletter. Uploading of DeFi short, per Aaron / Stephen's last meeting.
+
+2025-08-25 Mon: Listening to the CryptoLandDAO X space plus resharing to [X](https://x.com/harmonyprotocol/status/1960122338630124015). Read [Gate.io’s beginner guide on hedging with futures](https://www.gate.com/learn/articles/how-to-hedge-crypto-with-futures-a-beginner-guide/6732).
+Insight: Hedging with futures isn’t about predicting price, it’s about reducing uncertainty so you can hold your BTC position with more confidence. The goal is risk management, not profit maximization.
+
+---
+
+2025-08-24 Sun: Read [Investopedia’s beginner guide to hedging](https://www.investopedia.com/trading/hedging-beginners-guide/). Insight: Buying BTC put options is like purchasing insurance, you're not removing the risk, just transferring it at a cost. The guide explains, hedging doesn’t guarantee profit; instead, it smooths out volatility so you can stay long without panicking over every price dip.
+
+2025-08-23 Sat: Read [Shrimpy Academy’s crypto hedging guide](https://academy.shrimpy.io/post/how-to-hedge-your-crypto-portfolio-a-beginners-guide). Insight: With BTC futures you can lock in a price that helps balance out losses if the market turns against your long. The guide points out that this stability comes with trade-offs, since costs like leverage and funding fees can gradually chip away at the protection if you don’t manage them carefully.
+
+2025-08-22 Fri: Update of the community section. Review of team's weekly progress, wrote and filmed a recap short.
+
+2025-08-21 Thu: Listening to + researching information from Stephen/Aaron's DeFi voice memo. Writing a script for a DeFi short to be posted next Tuesday. 
+
 2025-08-20 Wed: Research + thread on hedging per the article: Delta-Neutral LP: How to Hedge a Uniswap Position
 
 2025-08-19 Tue: Trip to storage unit for inventory check. 
