@@ -1,3 +1,5 @@
+2025-08-27 Wed: added calculation of LP impermanent loss for each position and the total value in /stats endpoint, updated the bot on fly.io
+
 2025-08-26 Tue: tested hedging position adjustment, merged into main branch. Started working on adding impermanent loss calculation in the bot statisctics.
 
 2025-08-25 Mon: added adjusting of hedging position in the bot instead of closing and opening a new one - it will potentially reduce trading fees on Hyperliquid. Testing it locally.
