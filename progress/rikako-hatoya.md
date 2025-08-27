@@ -1,3 +1,5 @@
+2025-08-25 Tue: Made further update to bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) by adding uuid for loop and adding API endpoint, dto. Further continuation lookign into transactions for top profiters.
+
 2025-08-24 Mon: Worked on fixing bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) from Artem's feedback for generalized version.  Look into market maker, and aggregated owner data.
 
 ---
