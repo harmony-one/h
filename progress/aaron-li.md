@@ -1,3 +1,5 @@
+2025-8-27 Wed (1.2h): Discussion on data, database, and copy strategies.
+
 2025-8-26 Tue (4.2h): Aerodrome voting rewards and fees. Revising deposit and withdraw stats code.
 
 2025-8-25 Mon (2.1h): Log abnormalities. Produce deposit and withdraw stats. Database access. VPN setup.
