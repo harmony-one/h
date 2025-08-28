@@ -1,4 +1,4 @@
-2025-8-27 Wed (3.3h+): Aerodrome voting rewards and fees. Discussion on data, database, and copy strategies.
+2025-8-27 Wed (4.3h+): Aerodrome voting rewards and fees. Discussion on data, database, and copy strategies.
 
 2025-8-26 Tue (4.2h): Aerodrome voting rewards and fees. Revising deposit and withdraw stats code.
 
