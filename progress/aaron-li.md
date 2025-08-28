@@ -1,4 +1,4 @@
-2025-8-28 Thu (4.7h+): Resolve data inconsistency. Discussion on data. Revising deposit and withdraw stats code.
+2025-8-28 Thu (5.7h+): Resolve data inconsistency. Discussion on data. Revising deposit and withdraw stats code.
 
 2025-8-27 Wed (6.5h): Aerodrome voting rewards and fees. Discussion on data, database, and copy strategies.
 
