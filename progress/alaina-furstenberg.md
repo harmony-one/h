@@ -1,4 +1,6 @@
-2025-08-26 Tue: Beginning draft of August newsletter. Uploading of DeFi short, per Aaron / Stephen's last meeting.
+2025-08-27 Wed: Wrote first draft of August newsletter, finalized the title. Wrote a document outlining our Twitter procedures, deliverables, key contributors, and tone as a guide to onboard Amanda onto X. [Promoted](https://x.com/harmonyprotocol/status/1960766610731368480) CLD's X space, happening this Sunday.
+
+2025-08-26 Tue: Beginning draft of August newsletter. Uploading of [DeFi short](https://youtube.com/shorts/2z4bhYtQvSo?si=YwiKBBHU1DMKrYAd), per Aaron / Stephen's last meeting.
 
 2025-08-25 Mon: Listening to the CryptoLandDAO X space plus resharing to [X](https://x.com/harmonyprotocol/status/1960122338630124015). Read [Gate.io’s beginner guide on hedging with futures](https://www.gate.com/learn/articles/how-to-hedge-crypto-with-futures-a-beginner-guide/6732).
 Insight: Hedging with futures isn’t about predicting price, it’s about reducing uncertainty so you can hold your BTC position with more confidence. The goal is risk management, not profit maximization.
