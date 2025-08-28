@@ -1,3 +1,13 @@
+2025-08-27 Wed: Comparison of statistics for cbbtc pools by swap/day and all-time between Dune and Aerodrome’s official subgraphs. At a high level the numbers don’t match — analyzing simple swaps and fees, as well as the counting methodologies, to determine the causes of the discrepancies.
+
+2025-08-26 Tue: Testing a custom Base RPC node; researching and selecting subgraphs and indexers to collect position data for Aerodrome Finance pools on a dedicated server: researching and testing the official [indexer](https://github.com/velodrome-finance/indexer) for Aerodrome and Velodrome; the official “aerodrome-base-full” [subgraph](https://github.com/metastable-labs/subgraph).
+
+2025-08-25 Mon: Snapshot-x feature tweaks: display the quorum block as a progress bar for both voting steps; add icons and links to the validator list; fix the recalculation of voting results for the 2nd off-chain step.
+
+---
+
+2025-08-22 Fri: Added a new space for snapshot-x with the ability to vote using the “vanilla” strategy and to create proposals using the “validators only” strategy. Synced with Artem on the core of the APR simulation model.
+
 2025-08-21 Thu: Worked on launching verified subgraph for complete ingestion of aerodrome pools swaps and positions, enabling reliable verification and fully transparent computation of fees and trading volume. Synced with Ulad to connect to our own Base archival node and to accelerate the subgraph sync and ingestion of data from Aaron’s scripts.
 
 2025-08-20 Wed: Collecting statistics on aerodrome positions via Aaron’s scripts — tried locally, but the process is too long due to the large number of requests to the RPC node. Working on deploying the service on a separate server with a connection to a custom Base RPC node. Sync with Artem regarding development of a simulation model for Uniswap v3 LP positions’ APR: calculating APR depending on range, trading volume, price volatility, etc.
