@@ -1,3 +1,5 @@
+2025-8-28 Thu (0.7h+): Revising deposit and withdraw stats code.
+
 2025-8-27 Wed (6.5h): Aerodrome voting rewards and fees. Discussion on data, database, and copy strategies.
 
 2025-8-26 Tue (4.2h): Aerodrome voting rewards and fees. Revising deposit and withdraw stats code.
