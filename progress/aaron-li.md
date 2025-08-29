@@ -1,4 +1,6 @@
-2025-8-28 Thu (7.0h+): Debug and test deposit and withdraw stats code end-to-end. Revising deposit and withdraw stats code. Resolve data inconsistency. Discussion on data.
+2025-8-29 Fri (0.2h+): Revising deposit and withdraw stats code.
+
+2025-8-28 Thu (7.4h): Debug and test deposit and withdraw stats code end-to-end. Revising deposit and withdraw stats code. Resolve data inconsistency. Discussion on data.
 
 2025-8-27 Wed (6.5h): Aerodrome voting rewards and fees. Discussion on data, database, and copy strategies.
 
