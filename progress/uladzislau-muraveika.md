@@ -2,6 +2,14 @@
 
 2025-08-22 Fri:
 
+This week focus was on the ops side completely. I've finished to sync up the Base Archival RPC node, started to collect metrics and added monitoring dashboards for all 3 blockchain clients - lighthouse, erigon and reth, shared endpoint with the Harmony team.
+
+The second task was to start index the [Aerodrome Subgraph](https://github.com/metastable-labs/subgraph) via the Graph indexer. I've setup the whole infrastructure needed - Postgres SQL, IPFS and graph nodes. Aerodrome Subgraph is indexing for now.
+
+---
+
+2025-08-22 Fri:
+
 This week focus was on the ops side completely. I have enabled stream sync clients on the testnet and most of the nodes were able to sync with the network. All instabilities were reported to Gheis.
 
 Additionally, I've moved [Harmony faucet](https://github.com/mur-me/h/tree/main) to the harmony org, created [new domain faucet.hmny.io](https://faucet.hmny.io/), added redirect from the old [one - faucet.pops.one](https://faucet.pops.one/), changed uptime robot monitors, rewrite documentation both internal and external for it.
