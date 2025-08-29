@@ -1,3 +1,5 @@
+2025-08-29 Fri: continue on analysis of events from Aaron's database, for the last 1000 burn events most of LPs (98%) were closed with LP position in range. Working on script optimizations to process more data.
+
 2025-08-28 Thu: reviewed pull request with log of bot actions, [fixed](https://github.com/harmony-one/portfolio-manager/commit/804e60a66f19c50afb67845aabca01ef71e16376) bug with storing BigInt value in database; started script to analyze LP state (tick upper, tick lower) before the rebalancing based on events from Aaron's database
 
 2025-08-27 Wed: added calculation of LP impermanent loss for each position and the total value in /stats endpoint, updated the bot on fly.io
