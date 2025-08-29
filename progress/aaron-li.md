@@ -1,4 +1,4 @@
-2025-8-29 Fri (6.2h+): Revising deposit and withdraw stats code.
+2025-8-29 Fri (7.2h+): Revising deposit and withdraw stats code.
 
 2025-8-28 Thu (7.4h): Debug and test deposit and withdraw stats code end-to-end. Revising deposit and withdraw stats code. Resolve data inconsistency. Discussion on data.
 
