@@ -1,3 +1,5 @@
+2025-08-28 Thu: Tested a subgraph deployed with a custom base node and compared historical data with Dune. Swaps match, but daily profit still doesn’t. Also worked on adding new features for Snapshot X — convert voting power to ONE and display the real validators’ total stake as VP.
+
 2025-08-27 Wed: Comparison of statistics for cbbtc pools by swap/day and all-time between Dune and Aerodrome’s official subgraphs. At a high level the numbers don’t match — analyzing simple swaps and fees, as well as the counting methodologies, to determine the causes of the discrepancies.
 
 2025-08-26 Tue: Testing a custom Base RPC node; researching and selecting subgraphs and indexers to collect position data for Aerodrome Finance pools on a dedicated server: researching and testing the official [indexer](https://github.com/velodrome-finance/indexer) for Aerodrome and Velodrome; the official “aerodrome-base-full” [subgraph](https://github.com/metastable-labs/subgraph).
