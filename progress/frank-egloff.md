@@ -6,9 +6,9 @@
 
 2025-08-25 Mon: Refined the calculateTokensAndLiquidity() method to ensure a balanced 50/50 token allocation, mirroring the production bot's swapTokensInWallet() logic. Despite this, the backtesting script's rebalancing frequency remains unexpectedly high at 48 events. Currently cross-referencing the backtesting script's rebalancing trigger logic with the production bot's to identify the root cause. Also spoke with Yuriy about optimizing the calculation of Aero Rewards for staked positions by filtering out ClaimRewards events to reduce the immense data handling overhead.
 
+---
 2025-08-24 Sun: (2.0h) Investigated excessive rebalancing in Aerodrome LP backtesting script potentially triggered by using Defilab's mathematically optimized token allocation (48.8% BTC / 51.2% USDC) instead of production bot's enforced 50/50 USD value split.
 
----
 2025-08-22 Fri: Built [queries](https://github.com/harmony-one/h/blob/main/docs/defi/aerodrome-queries.md) to track ownership lifecycle for position management patterns. Aligned Aerodrome LP backtesting with production bot for realistic projections by synchronizing constants (LP APR: 20%, gas: $0.5), added [slippage cost calculation](https://github.com/harmony-one/portfolio-manager/pull/36) using CPMM formula.
 
 2025-08-21 Thu: Researched SQL queries to analyze Aerodrome liquidity provider strategies from Aaron's database export, and discovered positions owned by Gauge contracts indicate staked positions. Debugged APR calculations in backtesting system - issue was JavaScript precision handling of massive BigInt values from feeGrowthGlobal0X128, not mathematical implementation. Fixed by improving BigInt arithmetic and maintaining precision throughout calculation pipeline.
