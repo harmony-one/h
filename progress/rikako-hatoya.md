@@ -1,3 +1,5 @@
+2025-08-27 Thu: Reading of papers  on hedging strategies (delta neutral, Black Scholes Merton framework, Deep RL management). Look into impermanent loss calculation, more top liquidity providers.
+
 2025-08-26 Wed: Cleaned and resolved merge conflicts from bot-log [PR](https://github.com/harmony-one/portfolio-manager/pull/42). Analysis of cbBTC/USDC PnL, mint data, strategies of more wallets and their transactions.
 
 2025-08-25 Tue: Made further update to bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) by adding uuid for loop and adding API endpoint, dto. Further continuation looking into transactions for top profiters.
