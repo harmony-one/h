@@ -1,3 +1,5 @@
+2025-08-30 Sat (2.5h): development of the script to verify bot total cbBTC and USDC balance over the time (for LP + tokens balance), using only data from archival node
+
 2025-08-29 Fri: continue on analysis of events from Aaron's database, for the last 1000 burn events most of LPs (98%) were closed with LP position in range. Working on script optimizations to process more data.
 
 2025-08-28 Thu: reviewed pull request with log of bot actions, [fixed](https://github.com/harmony-one/portfolio-manager/commit/804e60a66f19c50afb67845aabca01ef71e16376) bug with storing BigInt value in database; started script to analyze LP state (tick upper, tick lower) before the rebalancing based on events from Aaron's database
