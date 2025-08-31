@@ -1,3 +1,5 @@
+2025-8-31 Sun (0.7h+): Staked liquidity stats.
+
 2025-8-30 Sat (0.6h): Staked liquidity stats.
 
 2025-8-29 Fri (3.6h): Debug and test deposit and withdraw stats code end-to-end. Resolve data inconsistency.
