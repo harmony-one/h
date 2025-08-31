@@ -1,3 +1,5 @@
+2025-08-31: I started working with Dune Analytics and verified the total 90-day swap fees for the cbBTC/USDC on Aerodrome. Looked into the Bot performance and several wallets that provide liquidity to the pool to figure out their strategy. Worked with Artem and Yuri to calculate net profits of wallets and the bot. 
+
 2025-08-17: I continued to support Artem and the Dev team regarding the bot functionality. Started to look into Aedrodrome liquidity position data to understand the context of the different LP strategies of user wallets. Reached out to Aaron and Yuri for extended data. Started learning Dune Analytics to visualize Data. 
 
 2025-08-10: I participated in team calls to support Artem and the dev team to understand the mechanics of hedging and how the execution flow of the automated strategy should work. After hedges didn't close appropriately during last week's performance test, I had to fix the code and redeploy the strategy in a new range. Started to look into the data shared by Stephen to study the actual price impacts for rebalancing after calculating an impact based on current liquidity. 
