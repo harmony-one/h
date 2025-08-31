@@ -1,4 +1,4 @@
-2025-8-31 Sun (0.7h+): Staked liquidity stats.
+2025-8-31 Sun (1.2h): Staked liquidity stats.
 
 2025-8-30 Sat (0.6h): Staked liquidity stats.
 
