@@ -1,34 +1,38 @@
-2025-08-28 Fri: Continue with strategies
+2025-08-31 Sun:
 
-2025-08-27 Thu: Reading of papers  on hedging strategies (delta neutral, Black Scholes Merton framework, Deep RL management). Look into impermanent loss calculation, more top liquidity providers.
+2025-08-30 Sat:
 
-2025-08-26 Wed: Cleaned and resolved merge conflicts from bot-log [PR](https://github.com/harmony-one/portfolio-manager/pull/42). Analysis of cbBTC/USDC PnL, mint data, strategies of more wallets and their transactions.
+2025-08-29 Fri: Continue with strategies
 
-2025-08-25 Tue: Made further update to bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) by adding uuid for loop and adding API endpoint, dto. Further continuation looking into transactions for top profiters.
+2025-08-28 Thu: Reading of papers  on hedging strategies (delta neutral, Black Scholes Merton framework, Deep RL management). Look into impermanent loss calculation, more top liquidity providers.
 
-2025-08-24 Mon: Worked on fixing bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) from Artem's feedback for generalized version.  Look into market maker, and aggregated owner data.
+2025-08-27 Wed: Cleaned and resolved merge conflicts from bot-log [PR](https://github.com/harmony-one/portfolio-manager/pull/42). Analysis of cbBTC/USDC PnL, mint data, strategies of more wallets and their transactions.
 
----
+2025-08-26 Tue: Made further update to bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) by adding uuid for loop and adding API endpoint, dto. Further continuation looking into transactions for top profiters.
 
-2025-08-23 Sun: Continued with top holder activity, 
-
-2025-08-22 Sat: Went back and changed bot's database logging logic. Previously only implemented for checking status but generalized/added for other actions (eg. open hedge, close LP, etc).
-
-2025-08-21 Fri: Analysis of top 10 holders (debugging incorrect metrics calculation, inspecting top 10 trends, and reiteration from there to investigate minting strategies + trading fee/collected rewards amount solution). Look into Dune queries, options strategy.
-
-2025-08-20 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies (covered call) or lp-hedger repo.
-
-2025-08-19 Wed: Look into strategies for top holders. Looking into Dune for analytics.
-
-2025-08-18 Tue: Continue with looking into backtesting.
-
-2025-08-17 Mon: Implemented first prototype for acitvity log database and PR'd, will take a look at snapshot. Looking into statsitics for shark bot and also looked into panoptic report on hedging, compiled some notes.
+2025-08-25 Mon: Worked on fixing bot logging [PR](https://github.com/harmony-one/portfolio-manager/pull/42) from Artem's feedback for generalized version.  Look into market maker, and aggregated owner data.
 
 ---
 
-2025-08-16 Sun: Continuation with looking through Aaron's backtest and data repo.
+2025-08-24 Sun: Continued with top holder activity, 
 
-2025-08-15 Sat: Continuation with action logging. 
+2025-08-23 Sat: Went back and changed bot's database logging logic. Previously only implemented for checking status but generalized/added for other actions (eg. open hedge, close LP, etc).
+
+2025-08-22 Fri: Analysis of top 10 holders (debugging incorrect metrics calculation, inspecting top 10 trends, and reiteration from there to investigate minting strategies + trading fee/collected rewards amount solution). Look into Dune queries, options strategy.
+
+2025-08-21 Thu: Started querying data with backward analysis of top holder activity. Other minor things such as understanding other strategies (covered call) or lp-hedger repo.
+
+2025-08-20 Wed: Look into strategies for top holders. Looking into Dune for analytics.
+
+2025-08-19 Tue: Continue with looking into backtesting.
+
+2025-08-18 Mon: Implemented first prototype for acitvity log database and PR'd, will take a look at snapshot. Looking into statsitics for shark bot and also looked into panoptic report on hedging, compiled some notes.
+
+---
+
+2025-08-17 Sun: Continuation with looking through Aaron's backtest and data repo.
+
+2025-08-16 Sat: Continuation with action logging. 
 
 2025-08-15 Fri: Started looking into database to implement storing results. Looking into Aaron's backtest repo.
 
