@@ -1,4 +1,4 @@
-2025-9-1 Mon (0.9h+): Staked liquidity stats.
+2025-9-1 Mon (1.3h): Staked liquidity stats.
 
 ---
 
