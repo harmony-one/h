@@ -1,8 +1,12 @@
-2025-08-31 Sun:
+2025-09-01 Mon (1.0h): Labor day.
 
-2025-08-30 Sat:
+---
 
-2025-08-29 Fri: Continue with strategies
+2025-08-31 Sun: Continued with Dune. Looked through collect, mint, and burn events.
+
+2025-08-30 Sat: Looked into Dune. Swap fees and position PnL.
+
+2025-08-29 Fri: Continued reading research papers on strategies and open source bot repos. Looked into ticks.
 
 2025-08-28 Thu: Reading of papers  on hedging strategies (delta neutral, Black Scholes Merton framework, Deep RL management). Look into impermanent loss calculation, more top liquidity providers.
 
