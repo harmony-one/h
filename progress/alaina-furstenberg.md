@@ -1,3 +1,17 @@
+2025-09-02 Tue: Publishing of the August newsletter, filming editing and uploading the monthly recap short.
+
+2025-09-01 Mon: Labor Day
+
+---
+
+2025-08-31 Sun: Review of the team's /p read this article on hedging. Insight: 
+
+2025-08-30 Sat: Progress thread. 
+
+2025-08-29 Fri: Filming, editing, and uploading of the DeFi recap, per the voice memo on Thursday. Update of the community section. Continued edits to the August newsletter.
+
+2025-08-28 Thu: Continued writing of the August newsletter. Listening, researching, and writing a script based off the DeFi voice memo, sent by Stephen.
+
 2025-08-27 Wed: Wrote first draft of August newsletter, finalized the title. Wrote a document outlining our Twitter procedures, deliverables, key contributors, and tone as a guide to onboard Amanda onto X. [Promoted](https://x.com/harmonyprotocol/status/1960766610731368480) CLD's X space, happening this Sunday.
 
 2025-08-26 Tue: Beginning draft of August newsletter. Uploading of [DeFi short](https://youtube.com/shorts/2z4bhYtQvSo?si=YwiKBBHU1DMKrYAd), per Aaron / Stephen's last meeting.
