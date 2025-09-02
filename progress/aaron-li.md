@@ -1,4 +1,4 @@
-2025-9-2 Tue (0.4h): Fix swap fee timestamp inconsistency and intra-block change of fee. Build timeline tool for debugging single address. Add tick range statistics and initial stats to stats output.
+2025-9-2 Tue (0.5h): Fix swap fee timestamp inconsistency and intra-block change of fee. Build timeline tool for debugging single address. Add tick range statistics and initial stats to stats output.
 
 2025-9-1 Mon (1.3h): Staked liquidity stats.
 
