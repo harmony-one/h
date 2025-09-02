@@ -1,5 +1,3 @@
----
-
 2025-08-22 Fri:
 
 This week focus was on the ops side completely. I've finished to sync up the Base Archival RPC node, started to collect metrics and added monitoring dashboards for all 3 blockchain clients - lighthouse, erigon and reth, shared endpoint with the Harmony team.
@@ -879,4 +877,5 @@ Main focus for the Thursday - blacklist automation and I've created a part for t
 My main focus on the following week will [RPC nginx config automation](https://github.com/harmony-one/harmony-ops-priv/issues/162) and [rate limits for the RPC](https://github.com/harmony-one/harmony-ops-priv/issues/161)
 
 ---
+
 
