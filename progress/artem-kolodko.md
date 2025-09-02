@@ -1,3 +1,7 @@
+2025-09-01 Mon: burned LP ticks statistics [script](https://github.com/harmony-one/portfolio-manager/blob/main/scripts/lp-stats/index.ts)
+
+---
+
 2025-08-30 Sat (2.5h): development of the script to verify bot total cbBTC and USDC balance over the time (for LP + tokens balance), using only data from archival node
 
 2025-08-29 Fri: continue on analysis of events from Aaron's database, for the last 1000 burn events most of LPs (98%) were closed with LP position in range. Working on script optimizations to process more data.
