@@ -1,3 +1,5 @@
+2025-09-02 Tue: Checking of the collect - burn issue. Comparison with bot logs vs. aerodrome transaction data on Dune, verification of lp fee calculation in our bot repo.
+
 2025-09-01 Mon (1.0h): Labor day.
 
 ---
