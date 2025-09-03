@@ -1,3 +1,27 @@
+2025-09-02 Tue: Continued Aeordome search and created queries to test target wallet performance.. Insights: for Dune, found CLgauge2 is the target source for tracking wallet performance, [initial wallet overview query](https://dune.com/queries/5721307?category=decoded_project&namespace=aerodrome&contract=CLGauge2&blockchains=base) will continue with in depth review, following source isolation.  
+
+2025-09-01 Mon: Labor Day
+
+---
+
+2025-08-31 Sun: (2.0h) Weekend deep dive into Aerodrome v3 concentrated liquidity mechanics. 
+
+2025-08-30 Sat: (2.0h) Review of governance voting mechanisms and cli integration.
+
+2025-08-29 Fri: Dune query analysis comparison between "DEX trade" and "Aerodrome trade" volumes. Sharing inconsistencies requiring further investigation.
+
+2025-08-28 Thu: Review and edit of Alaina's Harmony Marketing 1-pager. Sync with Alaina and Amanda on current deliverables and project milestones.
+
+2025-08-27 Wed: Total network stake calculations for opt-in style voting. Insight: minimum threshold of 33% total network stake (opt-out + opt-in) would need to be in place ot ensure robust protocol governance.
+
+2025-08-26 Tue: Sync with Amanda for current work priorities. Governance system architecture planning and review of voting power.
+
+2025-08-25 Mon: Review and sync with Alaina on daily and weekly deliverables.
+
+---
+
+2025-08-24 Sun: (2.0h) Community space with Crypto Land DAO, and Tenacious, going over governance, recovery, and development updates.
+
 2025-08-23 Sat: (2.0h) Focused on new target wallet analysis using Aaron's data with Claude Code. Insight: identified potential Just-in-Time (JIT) liquidity providing strategy with 60% of positions closed within 10 blocks, 100% swaps hiting LP range (liquidity maximizing reward capture), 478 same-block operations. New fee reward information not matching directly with lp-data, needs further verification.
 
 2025-08-22 Fri: Sync with Li and Artem on portfolio manager progress, shared new discoveries from Aaron's data analysis that need verification. Coordination on integrating verified strategies into portfolio management framework.
