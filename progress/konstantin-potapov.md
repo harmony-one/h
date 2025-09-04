@@ -1,3 +1,10 @@
+2025-09-05 Fri:
+Branch 1.10 has one failing test and is ready for devnet integration. Branches 1.9 and 1.10 were rebased with the latest dev.
+The 1-second finality mode produces fewer than 60 blocks per minute, so I am investigating the issue. Current progress is about 20%.
+Reviewed several PRs.
+
+---
+
 2025-08-22 Fri:
 Branch 1.10 now compiles successfully and passes about 99% of the tests. An issue in branch 1.9 was identified and fixed. Revived several Pull Requests
 
