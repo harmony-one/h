@@ -1,4 +1,8 @@
-2025-09-02 Tue: Publishing of the August newsletter, filming editing and uploading the monthly recap short.
+2025-09-02 Thu: Uploading the August recap + designed a thumbnail for the video. Read: [“Who wants to buy a crypto basis-trade backed synthetic stablecoin?”](https://www.ft.com/content/f79657a6-9e78-43ba-abaf-6cd27dc66330?utm_source=chatgpt.com) Insight: Funding-rate arbitrage has functioned like a crypto carry-trade, but as more players engage and compete away the premium, yield has sharply declined from over 60 % to under 5 % annualized, underscoring the fragility of such strategies in saturated markets.
+
+2025-09-02 Wed: [Recap thread](https://x.com/harmonyprotocol/status/1963348021422559697) for August progress. Filming of the August recap short. 
+
+2025-09-02 Tue: Publishing of the [August newsletter](), writing script for the monthly recap short. Creation & uploading of a [DeFi short](https://www.youtube.com/shorts/0aLMRJoDhe8), from the Q2 video of Stephen/Li/Theo.
 
 2025-09-01 Mon: Labor Day
 
