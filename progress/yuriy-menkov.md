@@ -1,3 +1,11 @@
+2025-09-02 Tue: Added support for displaying staking validators in the snapshot-x interface: auto-detecting the validator’s image and name from the participant’s address, link to the staking dashboard, etc. Working on migrating the Aerodrome stats service indexer to a server with a Base node to improve performance and enable the use of verified data.
+
+2025-09-01 Mon: Added a role-based system for snapshot x: a manager who can create spaces; validators who can create proposals and vote; and regular users who can only vote in the main space. Also added role support in the interface and set up separate deployments/domains for different participants.
+
+---
+
+2025-08-29 Fri: Attempted to integrate the Aerodrome statistics service with a subgraph on a custom node: updated the request format and data interfaces. Downsides: access only via VPN and slow load speeds; to resolve this, the service needs to be moved to the same server.
+
 2025-08-28 Thu: Tested a subgraph deployed with a custom base node and compared historical data with Dune. Swaps match, but daily profit still doesn’t. Also worked on adding new features for Snapshot X — convert voting power to ONE and display the real validators’ total stake as VP.
 
 2025-08-27 Wed: Comparison of statistics for cbbtc pools by swap/day and all-time between Dune and Aerodrome’s official subgraphs. At a high level the numbers don’t match — analyzing simple swaps and fees, as well as the counting methodologies, to determine the causes of the discrepancies.
