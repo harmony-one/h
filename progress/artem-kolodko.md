@@ -1,3 +1,5 @@
+2025-09-03 Wed: added LP impermanent loss value in calculation of lpNetPnL, lpAPR and netApr in the bot statistics
+
 2025-09-02 Tue: [created](https://github.com/harmony-one/portfolio-manager/blob/main/scripts/bot-balance/index.ts) a script to calculate real bot wallet returns over the time, using archival node RPC as a single source of data.
 
 2025-09-01 Mon: burned LP ticks statistics [script](https://github.com/harmony-one/portfolio-manager/blob/main/scripts/lp-stats/index.ts)
