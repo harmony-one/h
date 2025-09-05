@@ -1,3 +1,16 @@
+
+---
+
+2025-09-05 Fri:
+
+This week main focus was the help for Gheis with the new version of the Stream Sync, I've installed it on the devnet and testnet, found issue with crosslink processing collected initial findings and share with Gheis. Additionally, I've created a dashboard based on the hmy_p2p_crosslink_msg metric to have the real time understanding what it is happening on the network level, additionally added link to it from the watchdog tool:
+![alt text](./img/crosslink_health.png)
+
+On the ops side, I've created a quick solution for the top-level `.country` domains and reported issues to the Aaron, all of them were fixed.
+On the Aerodrome Subgraph, it is still syncing on the 50% of all block, finished final steps in the setup and moved lighthouse db to the other disk to give subgraph some space on the disk.
+
+---
+
 2025-08-29 Fri:
 
 This week focus was on the ops side completely. I've finished to sync up the Base Archival RPC node, started to collect metrics and added monitoring dashboards for all 3 blockchain clients - lighthouse, erigon and reth, shared endpoint with the Harmony team.
