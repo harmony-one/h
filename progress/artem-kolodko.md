@@ -1,3 +1,5 @@
+2025-09-04 Thu: redeployed LP bot with fresh wallet address; debugging issue with with some of the LP statistics data not matched with blockchain Collect and Burn events data
+
 2025-09-03 Wed: added LP impermanent loss value in calculation of lpNetPnL, lpAPR and netApr in the bot statistics
 
 2025-09-02 Tue: [created](https://github.com/harmony-one/portfolio-manager/blob/main/scripts/bot-balance/index.ts) a script to calculate real bot wallet returns over the time, using archival node RPC as a single source of data.
