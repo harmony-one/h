@@ -1,3 +1,7 @@
+2025-09-04 Thu: Expanded the aggregated data of the aerodrome statistic service with a new formula for calculating impermanent loss. Testing the service data against Artem’s bot statistics. Bug fixing for snapshot x.
+
+2025-09-03 Wed: Worked on launching snapshot-x to production — set up the project and deployment via netlify, updated the contracts, updated and redeploy api serivice on fly.io. 
+
 2025-09-02 Tue: Added support for displaying staking validators in the snapshot-x interface: auto-detecting the validator’s image and name from the participant’s address, link to the staking dashboard, etc. Working on migrating the Aerodrome stats service indexer to a server with a Base node to improve performance and enable the use of verified data.
 
 2025-09-01 Mon: Added a role-based system for snapshot x: a manager who can create spaces; validators who can create proposals and vote; and regular users who can only vote in the main space. Also added role support in the interface and set up separate deployments/domains for different participants.
