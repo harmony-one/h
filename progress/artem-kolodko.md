@@ -1,3 +1,5 @@
+2025-09-05 Fri: implemented method in bot API to calculate real wallet earnings, using only archival RPC node data for balances. Looking at solitions to reduce the impermanent loss.
+
 2025-09-04 Thu: redeployed LP bot with fresh wallet address; debugging issue with with some of the LP statistics data not matched with blockchain Collect and Burn events data
 
 2025-09-03 Wed: added LP impermanent loss value in calculation of lpNetPnL, lpAPR and netApr in the bot statistics
