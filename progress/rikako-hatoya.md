@@ -1,3 +1,9 @@
+2025-09-07 Sun:
+
+2025-09-06 Sat:
+
+2025-09-05 Fri: Verify Aero rewards. Look into market makers and hedging.
+
 2025-09-04 Thu: Looked into Aerodrome slipstream manager. Looked into NFT positions and LP ranges of top holders.
 
 2025-09-03 Wed: Looked into different hedging logic for narrow range (100-tick) positions (found couple interesting papers such as game theoretic LP in CLMMs, risk neutral, market neutral, unified approach for hedging IL, etc). Also looked into hedging delta.
