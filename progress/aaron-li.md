@@ -1,4 +1,4 @@
-2025-9-6 Sat (3.4h+): Final revision of timeline tool on debugging single address activities.
+2025-9-6 Sat (4.4h+): Final revision of timeline tool on debugging single address activities.
 
 2025-9-5 Fri (7.7h): Timeline tool for visualizing and debugging single address activities. Discussion on fee estimation error, timeline tool, balance tracking, multi-position strategies.
 
