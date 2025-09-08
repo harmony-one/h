@@ -1,3 +1,9 @@
+2025-09-05 Sun: Review of the team's /p read this article on hedging. Insight:
+
+2025-09-04 Sat: Progress thread.
+
+2025-09-03 Fri: [Thread](https://x.com/harmonyprotocol/status/1964083929037819905) on the history of blue. Update of the community section + a tweet. Filming, editing, and uploading of the [weekly progress recap](https://youtube.com/shorts/cjeQ8uA7m5w?si=R6xTMJ8Q267eKrha).
+
 2025-09-02 Thu: Uploading the August recap + designed a thumbnail for the video. Read: [“Who wants to buy a crypto basis-trade backed synthetic stablecoin?”](https://www.ft.com/content/f79657a6-9e78-43ba-abaf-6cd27dc66330?utm_source=chatgpt.com) Insight: Funding-rate arbitrage has functioned like a crypto carry-trade, but as more players engage and compete away the premium, yield has sharply declined from over 60 % to under 5 % annualized, underscoring the fragility of such strategies in saturated markets.
 
 2025-09-02 Wed: [Recap thread](https://x.com/harmonyprotocol/status/1963348021422559697) for August progress. Filming of the August recap short. 
@@ -8,7 +14,7 @@
 
 ---
 
-2025-08-31 Sun: Review of the team's /p read this article on hedging. Insight: 
+2025-08-31 Sun: Review of the team's /p read this article on hedging 
 
 2025-08-30 Sat: Progress thread. 
 
