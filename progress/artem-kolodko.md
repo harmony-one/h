@@ -1,3 +1,5 @@
+2025-09-07 Sun (4.0h): [improvements](https://github.com/harmony-one/portfolio-manager/commit/fb3ca6ca2f43b7ad8ac14fcddc298d649d186783) and testing of the LP performance measuring endpoint
+
 2025-09-05 Fri: implemented method in bot API to calculate real wallet earnings, using only archival RPC node data for balances. Looking at solitions to reduce the impermanent loss.
 
 2025-09-04 Thu: redeployed LP bot with fresh wallet address; debugging issue with with some of the LP statistics data not matched with blockchain Collect and Burn events data
