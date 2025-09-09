@@ -1,4 +1,12 @@
-2025-09-05 Sun: Review of the team's /p read this article on hedging. Insight:
+2025-09-07 Tue: Editing and uploading of a DeFi short to Youtube. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin](https://arxiv.org/abs/2407.19932?utm_source=chatgpt.com).
+Insight: Bitcoin exhibits asymmetric optimal hedge ratios—long positions require significantly higher hedge ratios compared to short positions—indicating that hedging strategies must account for directional exposure to effectively mitigate risk.
+
+2025-09-06 Mon: [Thread](https://x.com/harmonyprotocol/status/1965237552040083886F) on long BTC hedging. Read [Dynamic Hedging in Crypto: Real-Time Strategies for Risk Adjustment](https://blog.amberdata.io/dynamic-hedging-in-crypto-real-time-strategies-for-risk?utm_source=chatgpt.com).
+Insight: Dynamic hedging enables real-time adjustment of hedge ratios using live volatility and liquidity metrics like DVOL Snapshot, helping traders maintain risk exposure aligned with swiftly changing market conditions. This approach enhances short-term P&L stability and capital efficiency amid crypto's intraday volatility.
+
+---
+
+2025-09-05 Sun: Review of the team's /p. 
 
 2025-09-04 Sat: Progress thread.
 
