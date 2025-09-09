@@ -1,4 +1,4 @@
-2025-09-07 Tue: Editing and uploading of a DeFi short to Youtube. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin](https://arxiv.org/abs/2407.19932?utm_source=chatgpt.com).
+2025-09-07 Tue: Editing and uploading of a DeFi short to Youtube. Wrote a thread to partner with the short and uploaded to X. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin](https://arxiv.org/abs/2407.19932?utm_source=chatgpt.com).
 Insight: Bitcoin exhibits asymmetric optimal hedge ratios—long positions require significantly higher hedge ratios compared to short positions—indicating that hedging strategies must account for directional exposure to effectively mitigate risk.
 
 2025-09-06 Mon: [Thread](https://x.com/harmonyprotocol/status/1965237552040083886F) on long BTC hedging. Read [Dynamic Hedging in Crypto: Real-Time Strategies for Risk Adjustment](https://blog.amberdata.io/dynamic-hedging-in-crypto-real-time-strategies-for-risk?utm_source=chatgpt.com).
