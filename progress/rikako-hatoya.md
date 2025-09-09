@@ -1,6 +1,10 @@
-2025-09-07 Sun:
+2025-09-08 Mon: Looked into DLMMs. Researched into hedging options with delta and gamma.
 
-2025-09-06 Sat:
+---
+
+2025-09-07 Sun (1.5h): Researched grid position strategies. Looked into one of the top wallets employing grid strategies.
+
+2025-09-06 Sat (1.5h): Looked into delta management in AMMs.
 
 2025-09-05 Fri: Verify Aero rewards. Look into market makers and hedging.
 
@@ -10,7 +14,7 @@
 
 2025-09-02 Tue: Checking of the collect - burn issue. Comparison with bot logs vs. aerodrome transaction data on Dune, verification of lp fee calculation in our bot repo.
 
-2025-09-01 Mon (1.0h): Labor day.
+2025-09-01 Mon (1.0h): Labor day. Continued strategy research.
 
 ---
 
