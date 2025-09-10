@@ -1,3 +1,13 @@
+2025-09-09 Tue: Sync with Rika on tasks and guidance for defi concepts, covered AMMs (automated money markets) and basics to understand strategies for maximizing gains. [Nansen AI research](https://www.nansen.ai/) into target wallets. Insight: live actions show target wallet removes and increases 99.9% of their liquidty every few minutes. 
+
+2025-09-08 Mon: Deep research into defi [LP strategy resources](https://medium.com/@rilwanwild/dlmms-pioneering-the-future-of-decentralized-finance-abc4970d199a). Insights: found DLMM (Dynamic liquidity market makers) as strategy that models our target wallet behavior.
+
+---
+
+2025-09-07 Sun: (1.0h) Continued community recovery vault calculations, initial governance should also show as beta, until all features are implemented.
+
+2025-09-06 Sat: (2.0h) Reviewed snapshotX and initial spaces for governance. Insight: two default spaces available from beginning, Harmony Improvement Proposals, and Harmony General. (HIP space will include quorum)
+
 2025-09-05 Fri: Continued verification for reward distribution from [Slipstream]((https://github.com/aerodrome-finance/slipstream)) source code. Insight: 100-tick range earns 9.5x more AERO rewards than 10% width liquidity while in range. Final feedback for initial governance product, initial release will not have opt in/out functionality, but off-chain solutions can be applied, two spaces by default will be Harmony Improvement Proposals, for protocol HIPs, and Harmony General, for non-protocol voting that does not require network stake quorum.
 
 2025-09-04 Thu: Sync with Artem, Frank, Rika, and Li. Shared insights for internal wallet tracking and external wallet data found in Dune queries, focusing on grid strategy for AERO extraction. Shared initial findings and wallets that use the 100-tick grid strategy with team.
