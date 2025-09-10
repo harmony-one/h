@@ -1,3 +1,9 @@
+2025-09-09 Tue: implemented rebalancing while still in range with threshold around currentTick, started testing
+
+2025-09-08 Mon: [improved](https://github.com/harmony-one/portfolio-manager/commit/218aab63a83fa07bd430b55114b6a7a1e354d757) wallet stats calculation; research of grid liquidity provision and rebalancing while still in range ideas
+
+---
+
 2025-09-07 Sun (4.0h): [improvements](https://github.com/harmony-one/portfolio-manager/commit/fb3ca6ca2f43b7ad8ac14fcddc298d649d186783) and testing of the LP performance measuring endpoint
 
 2025-09-05 Fri: implemented method in bot API to calculate real wallet earnings, using only archival RPC node data for balances. Looking at solitions to reduce the impermanent loss.
