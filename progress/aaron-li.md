@@ -1,3 +1,5 @@
+2025-9-10 Wed (0.2h+): Allow timeline to accept arbitary time in the day as start and end point. Backtesting: support LP position creation in session, and fee earning calculation.
+
 2025-9-9 Tue (0.2h): Backtesting: support LP position creation in session, and fee earning calculation. Cross-verify trading bots' earning with balance sheets. Review strategy research.
 
 ---
