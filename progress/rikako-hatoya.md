@@ -1,3 +1,5 @@
+2025-09-09 Tue: Read through the Aerodrome LP Fee Optimization & Delta Hedging Playbook thoroughly. Compiled documentation and added its notes along with notes on market maker from citadel and janestreet, and Aaron's initial readme omn LP strategy.
+
 2025-09-08 Mon: Looked into DLMMs. Researched into hedging options with delta and gamma.
 
 ---
