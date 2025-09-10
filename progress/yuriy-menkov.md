@@ -1,3 +1,11 @@
+2025-09-09 Tue: Synced with Artem regarding bot improvements. Researched the issue of updating LP state. When closing a position (closeLpPosition), it is necessary to take data from the emitted events (Collect, Burn), as they provide the most accurate information (instead of monitorPosition).
+
+2025-09-08 Mon: Improvements to the subgraph on a custom RPC node — worked on fixing the issue of excessively long indexing by optimizing the code with a filter for specified liquidity pools (cbbtc only). Configured outline client on aerodrome monitoring service to have direct rpc node connection.
+
+---
+
+2025-09-05 Fri: Harmony napshot x has been deployed on gov.harmony.one, and we’ve started beta testing with validators and community. Also updated and released a new version of hmy-snapshot-cli with the ability to create proposals.
+
 2025-09-04 Thu: Expanded the aggregated data of the aerodrome statistic service with a new formula for calculating impermanent loss. Testing the service data against Artem’s bot statistics. Bug fixing for snapshot x.
 
 2025-09-03 Wed: Worked on launching snapshot-x to production — set up the project and deployment via netlify, updated the contracts, updated and redeploy api serivice on fly.io. 
