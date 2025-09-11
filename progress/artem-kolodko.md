@@ -1,3 +1,5 @@
+2025-09-10 Wed: [added](https://github.com/harmony-one/portfolio-manager/pull/46) threshold to exit LP position before out of range, researching approaches to reduce impermanent loss
+
 2025-09-09 Tue: implemented rebalancing while still in range with threshold around currentTick, started testing
 
 2025-09-08 Mon: [improved](https://github.com/harmony-one/portfolio-manager/commit/218aab63a83fa07bd430b55114b6a7a1e354d757) wallet stats calculation; research of grid liquidity provision and rebalancing while still in range ideas
