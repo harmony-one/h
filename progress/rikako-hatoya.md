@@ -1,6 +1,8 @@
+2025-09-11 Thu: Looked into [backtesting fee calculation](https://chatgpt.com/share/68c21633-30c0-8012-be3d-7c267ed431d5) and Aaron's backtesting script. Re-looked into Aaron's original strategy again, research on impermanent loss, and more on DLMMs.
+
 2025-09-10 Wed: Looked into aggregate exposures. Researched the more hand-wavey parts of the strategy mentioned in playbook (risk reduction benefit).
 
-2025-09-09 Tue: Read through the Aerodrome LP Fee Optimization & Delta Hedging Playbook thoroughly. Compiled documentation and added its notes along with notes on market maker from citadel and janestreet, and Aaron's initial readme omn LP strategy.
+2025-09-09 Tue: Read through the Aerodrome LP Fee Optimization & Delta Hedging Playbook thoroughly. Compiled documentation and added its notes along with notes on market maker from citadel and janestreet, and Aaron's initial readme on LP strategy.
 
 2025-09-08 Mon: Looked into DLMMs. Researched into hedging options with delta and gamma.
 
