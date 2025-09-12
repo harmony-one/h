@@ -1,3 +1,9 @@
+2025-09-12 Fri: Started base network pyhton script to track target wallet behavior. Operations for Lend contracts, and reviewed Infrastrucrure DAO. Made changes to upcoming governance release, correcting 50%+1 and 66.67% to be quorum and approval rate, respectively, matching most recent documentation.
+
+2025-09-11 Thu: Sharing insights with team, sync with Li, Artem, Frank, Rika. Added target wallet contracts found on [Nansen](https://www.nansen.ai/) for increasing and removing liquidity to track behavior.
+
+2025-09-10 Wed: Added details to master product requirement document, answering clarifying questions from Artem. Continued dive into [Nansen AI](https://www.nansen.ai/). Insight: trace shows "multicall" and "increaseLiquidity" are only actions target wallet takes, proving positions are already open, and only liquidity is flowing, multi-position strategy of 100-tick positions. Distribution is not shown, the missing piece is seeing how the 99.9% liquidity of the wallet is being used every few minutes.
+
 2025-09-09 Tue: Sync with Rika on tasks and guidance for defi concepts, covered AMMs (automated money markets) and basics to understand strategies for maximizing gains. [Nansen AI research](https://www.nansen.ai/) into target wallets. Insight: live actions show target wallet removes and increases 99.9% of their liquidty every few minutes. 
 
 2025-09-08 Mon: Deep research into defi [LP strategy resources](https://medium.com/@rilwanwild/dlmms-pioneering-the-future-of-decentralized-finance-abc4970d199a). Insights: found DLMM (Dynamic liquidity market makers) as strategy that models our target wallet behavior.
