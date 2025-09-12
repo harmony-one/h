@@ -1,12 +1,26 @@
+2025-09-12 Fri:
+
+This week main focus was the help for Gheis with new versions of the Stream Sync. What I found and reported to Gheis on new versions - database errors,
+highlighted that crosslinks now are working differ from previous version. Result: we successfully merged all the work on the [PR-4943](https://github.com/harmony-one/harmony/pull/4943). You can see how crosslinks are processed ongoing like in mainnet vs start of each epoch(on the left):
+![alt text](./img/crosslink_health_fix.png)
+
+I've also installed the Konstantin's version with the London and Berlin upgrades on the devnet - [PR-4915](https://github.com/harmony-one/harmony/pull/4915).
+
+Additionally, I've checked our codebase for the recent npm hack and alarmed our application dev team, more [details](https://discord.com/channels/532383335348043777/836542225809801246/1415202933775274045). Thanks for Aaron for initial findings.
+
+On the Aerodrome Subgraph, I've found that we are indexing the PoolFactory contract or all 2.2K of smart-contracts created from it instead of a few really needed. I've paused the Subgraph indexing and notified application dev team.
 
 ---
 
 2025-09-05 Fri:
 
-This week main focus was the help for Gheis with the new version of the Stream Sync, I've installed it on the devnet and testnet, found issue with crosslink processing collected initial findings and share with Gheis. Additionally, I've created a dashboard based on the hmy_p2p_crosslink_msg metric to have the real time understanding what it is happening on the network level, additionally added link to it from the watchdog tool:
+This week main focus was the help for Gheis with the new version of the Stream Sync, I've installed it on the devnet and testnet, found issue with crosslink processing collected initial findings and share with Gheis.
+
+Additionally, I've created a dashboard based on the hmy_p2p_crosslink_msg metric to have the real time understanding what it is happening on the network level, additionally added link to it from the watchdog tool:
 ![alt text](./img/crosslink_health.png)
 
 On the ops side, I've created a quick solution for the top-level `.country` domains and reported issues to the Aaron, all of them were fixed.
+
 On the Aerodrome Subgraph, it is still syncing on the 50% of all block, finished final steps in the setup and moved lighthouse db to the other disk to give subgraph some space on the disk.
 
 ---
