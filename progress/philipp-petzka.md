@@ -1,5 +1,7 @@
 2025-09-07: Researched wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 that deploys short-term liquidity on Aerodrome and identified its strategy, which consists of deploying liquidity and staking it during low-volume periods lasting seconds to minutes. Verified the profitability of wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 as well. Calculated the profitability of Artem's Farming bot for the last two weeks. Compared to 0x751140b83d289353b3b6da2c7e8659b3a0642f11, Harmonies bot outperformed by 250%. 
 
+---
+
 2025-08-31: I started working with Dune Analytics and verified the total 90-day swap fees for the cbBTC/USDC on Aerodrome. Looked into the Bot performance and several wallets that provide liquidity to the pool to figure out their strategy. Worked with Artem and Yuri to calculate net profits of wallets and the bot. 
 
 ---
