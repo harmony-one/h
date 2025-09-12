@@ -1,4 +1,4 @@
-2025-09-12 Fri: [added](https://github.com/harmony-one/portfolio-manager/pull/46/commits/7458bf5a935594d86a8df660cde56cfee710f92d) configuration parameter for updated LP strategy, testing before updating the bot in "production"
+2025-09-12 Fri: [added](https://github.com/harmony-one/portfolio-manager/pull/46/commits/7458bf5a935594d86a8df660cde56cfee710f92d) configuration parameter for updated LP strategy, testing before updating the bot
 
 2025-09-11 Thu: synced on idea of using multiple LP positions ("grid" LP strategy with normal distribution); testing locally LP strategy with threshold-based rebalancing
 
