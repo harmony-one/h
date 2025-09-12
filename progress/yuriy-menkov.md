@@ -1,3 +1,9 @@
+2025-09-12 Fri: Updated the gov.harmony.one service vote counting algorithm: changed to 50%+1 of total stake wight to reach quorum, and 66.67% of those to vote. Checked the conclusions and statistics for wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 (especially for staking indicators) - to confirm the conclusions on the strategy.
+
+2025-09-11 Thu: Studied the strategy text on fee optimization and delta hedging. Looked on the challenges of managing delta drift and ways to smooth it to avoid excessive hedge adjustments. Reviewing new inputs from Steven and Philip; The improvements for the gov.harmony.one release: the disclaimer, favicon, texts etc have been updated.
+
+2025-09-10 Wed: Improvements to customize the graph for indexing selected pools. Studied the mechanics of fee calculation for virtual positions and how state tick values are emitted in swap events, based on Aaron’s new inputs. Tried a new calculation approach using indexer data.
+
 2025-09-09 Tue: Synced with Artem regarding bot improvements. Researched the issue of updating LP state. When closing a position (closeLpPosition), it is necessary to take data from the emitted events (Collect, Burn), as they provide the most accurate information (instead of monitorPosition).
 
 2025-09-08 Mon: Improvements to the subgraph on a custom RPC node — worked on fixing the issue of excessively long indexing by optimizing the code with a filter for specified liquidity pools (cbbtc only). Configured outline client on aerodrome monitoring service to have direct rpc node connection.
