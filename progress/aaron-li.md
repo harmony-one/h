@@ -1,4 +1,4 @@
-2025-9-11 Thu (1.1h): Review strategies and open questions.
+2025-9-11 Thu (3.1h): Discussion on evaluation of return, data inconsistency, data correction steps. Review strategies and open questions.
 
 2025-9-10 Wed (4.7h): Addressing issues on hedging fee, LP rebalancing, alert in lp-hedger. Allow timeline to accept arbitary time in the day as start and end point. Verifying backtesting swap fee calculation details. Backtesting: support LP position creation in session, and fee earning calculation.
 
