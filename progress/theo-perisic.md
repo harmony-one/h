@@ -1,6 +1,6 @@
 2025-09-12 Fri: Started base network script to track target wallet behavior. Operations for Lend contracts, and reviewed Infrastrucrure DAO. Made changes to upcoming governance release, correcting 50%+1 and 66.67% to be quorum and approval rate, respectively, matching most recent documentation.
 
-2025-09-11 Thu: Sharing insights with team, sync with Li, Artem, Frank, Rika. Added target wallet contracts found on [Nansen](https://www.nansen.ai/) for increasing and removing liquidity to track behavior.
+2025-09-11 Thu: Sharing insights with team in detail, sync with Li, Artem, Frank, Rika. Added target wallet contracts found on [Nansen](https://www.nansen.ai/) for increasing and removing liquidity to track behavior.
 
 2025-09-10 Wed: Added details to master product requirement document, answering clarifying questions from Artem. Continued dive into [Nansen AI](https://www.nansen.ai/). Insight: trace shows "multicall" and "increaseLiquidity" are only actions target wallet takes, proving positions are already open, and only liquidity is flowing, multi-position strategy of 100-tick positions. Distribution is not shown, the missing piece is seeing how the 99.9% liquidity of the wallet is being used every few minutes.
 
