@@ -1,20 +1,27 @@
-2025-09-07 Tue: Editing and uploading of a DeFi short to Youtube. Wrote a thread to partner with the short and uploaded to X. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin](https://arxiv.org/abs/2407.19932?utm_source=chatgpt.com).
+2025-09-12 Fri: Update of the community section. Finalizing script plus filming, editing, and posting the Friday short. 
+
+2025-09-11 Thu: Wrote a [thread](https://x.com/harmonyprotocol/status/1966193267428794717) on deritatives per the s.country blog. Researched the discussion from Stephen/Aaron. Using the transcription to write a script for Friday's progress short.
+
+2025-09-10 Wed: Read Gate.io’s beginner guide on hedging with futures.
+Insight: A futures hedge works like an insurance policy, you lock in protection against downside, even if it means giving up some potential upside. This tradeoff ensures stability for long-term holders who value portfolio preservation over chasing every rally.
+
+2025-09-09 Tue: Editing and uploading of a DeFi short to Youtube. Wrote a thread to partner with the short and uploaded to X. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin](https://arxiv.org/abs/2407.19932?utm_source=chatgpt.com).
 Insight: Bitcoin exhibits asymmetric optimal hedge ratios—long positions require significantly higher hedge ratios compared to short positions—indicating that hedging strategies must account for directional exposure to effectively mitigate risk.
 
-2025-09-06 Mon: [Thread](https://x.com/harmonyprotocol/status/1965237552040083886F) on long BTC hedging. Read [Dynamic Hedging in Crypto: Real-Time Strategies for Risk Adjustment](https://blog.amberdata.io/dynamic-hedging-in-crypto-real-time-strategies-for-risk?utm_source=chatgpt.com).
+2025-09-08 Mon: [Thread](https://x.com/harmonyprotocol/status/1965237552040083886F) on long BTC hedging. Read [Dynamic Hedging in Crypto: Real-Time Strategies for Risk Adjustment](https://blog.amberdata.io/dynamic-hedging-in-crypto-real-time-strategies-for-risk?utm_source=chatgpt.com).
 Insight: Dynamic hedging enables real-time adjustment of hedge ratios using live volatility and liquidity metrics like DVOL Snapshot, helping traders maintain risk exposure aligned with swiftly changing market conditions. This approach enhances short-term P&L stability and capital efficiency amid crypto's intraday volatility.
 
 ---
 
-2025-09-05 Sun: Review of the team's /p. 
+2025-09-07 Sun: Review of the team's /p. 
 
-2025-09-04 Sat: Progress thread.
+2025-09-06 Sat: Progress thread.
 
-2025-09-03 Fri: [Thread](https://x.com/harmonyprotocol/status/1964083929037819905) on the history of blue. Update of the community section + a tweet. Filming, editing, and uploading of the [weekly progress recap](https://youtube.com/shorts/cjeQ8uA7m5w?si=R6xTMJ8Q267eKrha).
+2025-09-05 Fri: [Thread](https://x.com/harmonyprotocol/status/1964083929037819905) on the history of blue. Update of the community section + a tweet. Filming, editing, and uploading of the [weekly progress recap](https://youtube.com/shorts/cjeQ8uA7m5w?si=R6xTMJ8Q267eKrha).
 
-2025-09-02 Thu: Uploading the August recap + designed a thumbnail for the video. Read: [“Who wants to buy a crypto basis-trade backed synthetic stablecoin?”](https://www.ft.com/content/f79657a6-9e78-43ba-abaf-6cd27dc66330?utm_source=chatgpt.com) Insight: Funding-rate arbitrage has functioned like a crypto carry-trade, but as more players engage and compete away the premium, yield has sharply declined from over 60 % to under 5 % annualized, underscoring the fragility of such strategies in saturated markets.
+2025-09-04 Thu: Uploading the August recap + designed a thumbnail for the video. Read: [“Who wants to buy a crypto basis-trade backed synthetic stablecoin?”](https://www.ft.com/content/f79657a6-9e78-43ba-abaf-6cd27dc66330?utm_source=chatgpt.com) Insight: Funding-rate arbitrage has functioned like a crypto carry-trade, but as more players engage and compete away the premium, yield has sharply declined from over 60 % to under 5 % annualized, underscoring the fragility of such strategies in saturated markets.
 
-2025-09-02 Wed: [Recap thread](https://x.com/harmonyprotocol/status/1963348021422559697) for August progress. Filming of the August recap short. 
+2025-09-03 Wed: [Recap thread](https://x.com/harmonyprotocol/status/1963348021422559697) for August progress. Filming of the August recap short. 
 
 2025-09-02 Tue: Publishing of the [August newsletter](), writing script for the monthly recap short. Creation & uploading of a [DeFi short](https://www.youtube.com/shorts/0aLMRJoDhe8), from the Q2 video of Stephen/Li/Theo.
 
