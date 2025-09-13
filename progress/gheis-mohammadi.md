@@ -1,3 +1,13 @@
+2025-09-13 Sat: Last week I continued improving staged stream sync stability across both devnet and testnet. A couple of new metrics were added, checked, and monitored to validate progress. I also pushed several new commits to [PR #4943](https://github.com/harmony-one/harmony/pull/4943). One of the most critical issues was related to pending crosslinks that remained unprocessed. These commits fixed the issue completely by readjusting the conditions used to check crosslinks, and the team has confirmed the fixes. Additionally, a bug in sync initialization was addressed and resolved.  
+
+With these improvements, staged stream sync is now running with a high level of stability on both devnet and testnet. All crosslinks are being processed correctly, resource usage remains within normal ranges, and both networks are fully synced with shards consistently at 100% voting power.  
+
+I also created [PR #4944](https://github.com/harmony-one/harmony/pull/4944), which removes repeated warning logs with the message `"timeout reason was empty"` coming from `internal/utils/timer.go:51`. These warnings were cluttering the logs without adding value, and the fix ensures that warnings only appear when an active timeout without a reason is actually stopped.  
+
+Finally, to further strengthen monitoring and diagnostics, I opened [PR #4945](https://github.com/harmony-one/harmony/pull/4945). This PR introduces better error handling and classification for stream errors, logging them with more detailed context. These enhancements provide clearer insights into errors and make it much easier to track and debug issues in stream sync across the network.  
+
+---
+
 2025-09-06 Sat: [PR #4940](https://github.com/harmony-one/harmony/pull/4940) was completed, rebased, and merged. We then deployed it across all devnet and testnet nodes. This PR makes stream sync faster and more stable than previous versions. Even slow nodes have shown improvements, with sync processes performing well under poor network conditions. Overall stability has reached a high level. However, we are still observing some unusual crosslink behaviors that require further investigation.  
 
 During this investigation, I identified an issue related to lag between epoch sync and shard sync. To address this, I created [PR #4943](https://github.com/harmony-one/harmony/pull/4943). This PR introduces a specialized synchronization pipeline for epoch chains, reducing resource overhead and improving efficiency. The key change is the new `CreateStagedEpochSync` function, which automatically detects when a node is running an epoch chain and applies a lightweight sync pipeline. Unlike shard chains, epoch chains now only run the essential `SyncEpoch` and `Finish` stages, skipping unnecessary bodies, states, and receipts synchronization. This optimization reduces memory usage, lowers processing overhead, and ensures epoch chains stay synchronized with minimal latency. It also maintains backward compatibility while providing better performance for crosslink processing by preventing resource conflicts and separating beacon chain operations from regular shard sync.  
@@ -863,6 +873,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
