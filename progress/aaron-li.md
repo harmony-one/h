@@ -1,4 +1,4 @@
-2025-9-12 Fri (1.9h): Database migration and verification. Discussion on LP stats and earning data, and swap fee calculations.
+2025-9-12 Fri (2.0h): Database migration and verification. Discussion on LP stats and earning data, and swap fee calculations.
 
 2025-9-11 Thu (3.1h): Discussion on evaluation of return, data inconsistency, data correction steps. Review strategies and open questions.
 
