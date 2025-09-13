@@ -1,3 +1,5 @@
+2025-09-12 Fri: Started looking into data from aerodrome_lp_stats. Re-read on backtesting files.
+
 2025-09-11 Thu: Looked into [backtesting fee calculation](https://chatgpt.com/share/68c21633-30c0-8012-be3d-7c267ed431d5) and Aaron's backtesting script. Re-looked into Aaron's original strategy again, research on impermanent loss, and more on DLMMs.
 
 2025-09-10 Wed: Looked into aggregate exposures. Researched the more hand-wavey parts of the strategy mentioned in playbook (risk reduction benefit).
