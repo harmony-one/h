@@ -1,4 +1,4 @@
-2025-9-13 Sat (4.9h+): Fix issues with liquidity to USD calculations, and earning calculations.
+2025-9-13 Sat (5.9h+): Fix issues with liquidity to USD calculations, and earning calculations.
 
 2025-9-12 Fri (3.5h): Fix issues with liquidity to USD calculations, and earning calculations. Database migration and verification. Discussion on LP stats and earning data, and swap fee calculations.
 
