@@ -1,3 +1,7 @@
+2025-09-14 Sun (2.5h): Looked into APR calculation problem. Looked through lp-data to check for inconsistencies.
+
+2025-09-13 Sat (1.5h): Looked into flash LPs. Looked into IRR.
+
 2025-09-12 Fri: Started looking into data from aerodrome_lp_stats. Re-read on backtesting files.
 
 2025-09-11 Thu: Looked into [backtesting fee calculation](https://chatgpt.com/share/68c21633-30c0-8012-be3d-7c267ed431d5) and Aaron's backtesting script. Re-looked into Aaron's original strategy again, research on impermanent loss, and more on DLMMs.
