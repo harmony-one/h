@@ -1,3 +1,7 @@
+2025-9-15 Mon (0.8h): Fix issues with liquidity to USD calculations, and earning calculations.
+
+---
+
 2025-9-14 Sun (5.9h): Fix issues with liquidity to USD calculations, and earning calculations.
 
 2025-9-13 Sat (6.6h): Fix issues with liquidity to USD calculations, and earning calculations.
