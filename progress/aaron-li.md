@@ -1,4 +1,4 @@
-2025-9-16 Tue (0.4h+): Fix and end-to-end test staked statistics.
+2025-9-16 Tue (1.4h+): Fix and end-to-end test staked statistics.
 
 2025-9-15 Mon (8.3h): Fix issues with liquidity to USD calculations, and earning calculations.
 
