@@ -1,3 +1,7 @@
+2025-09-15 Mon: Look into flash strategy and metrics for measuring performance of wallets. Look into Aaron's data for unstaked and staked positions/wallets. 
+
+---
+
 2025-09-14 Sun (2.5h): Looked into APR calculation problem. Looked through lp-data to check for inconsistencies.
 
 2025-09-13 Sat (1.5h): Looked into flash LPs. Looked into IRR.
