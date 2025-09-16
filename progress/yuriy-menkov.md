@@ -1,3 +1,5 @@
+2025-09-15 to 2025-09-19: paid time-off
+
 2025-09-12 Fri: Updated the gov.harmony.one service vote counting algorithm: changed to 50%+1 of total stake wight to reach quorum, and 66.67% of those to vote. Checked the conclusions and statistics for wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 (especially for staking indicators) - to confirm the conclusions on the strategy.
 
 2025-09-11 Thu: Studied the strategy text on fee optimization and delta hedging. Looked on the challenges of managing delta drift and ways to smooth it to avoid excessive hedge adjustments. Reviewing new inputs from Steven and Philip; The improvements for the gov.harmony.one release: the disclaimer, favicon, texts etc have been updated.
