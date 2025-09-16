@@ -1,4 +1,12 @@
-2025-09-12 Fri: Update of the community section. Finalizing script plus filming, editing, and posting the Friday short. 
+2025-09-15 Mon: [Thread](https://x.com/harmonyprotocol/status/1967681944004747469) on 5.country. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin]. Insight: For a trader that's long BTC, the optimal hedge ratio against futures is asymmetric... the amount of futures required for hedging is significantly higher when holding a long spot position than it would be if short. This suggests that risk management frameworks should adjust hedge exposures depending on whether the portfolio is net long or short, rather than assuming a symmetric ratio.
+
+---
+
+2025-09-14 Sun: Review of the team's /p.
+
+2025-09-13 Sat: [Tweeting](https://x.com/harmonyprotocol/status/1967023604102803490) the community updates and team progress.
+
+2025-09-12 Fri: Update of the community section. Finalizing script plus filming, editing, and posting the [Friday short](https://youtube.com/shorts/u-EQ2kqFxHw?si=Oax2j2mFbjhDhCuM). 
 
 2025-09-11 Thu: Wrote a [thread](https://x.com/harmonyprotocol/status/1966193267428794717) on deritatives per the s.country blog. Researched the discussion from Stephen/Aaron. Using the transcription to write a script for Friday's progress short.
 
