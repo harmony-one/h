@@ -1,3 +1,8 @@
+2025-09-12 Fri:
+Branch 1.10 with the London fork was launched on devnet. I started investigating the issue with the low block production rate under 1-second finality mode. During the analysis, I found several cases of duplicate block proposals and implemented a workaround to prevent duplicate emissions. However, after testing, the solution caused significant block production degradation, so I decided not to proceed with this workaround. 
+
+---
+
 2025-09-05 Fri:
 Branch 1.10 has one failing test and is ready for devnet integration. Branches 1.9 and 1.10 were rebased with the latest dev.
 The 1-second finality mode produces fewer than 60 blocks per minute, so I am investigating the issue. Current progress is about 20%.
