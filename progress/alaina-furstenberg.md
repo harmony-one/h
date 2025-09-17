@@ -1,3 +1,5 @@
+2025-09-16 Tue: Editing and uploading of the [DeFi short](https://youtube.com/shorts/Ha5htJLh-X8?si=dbx_syT5vqALQnbF) to X and Youtube. Coordinating with Travala team on Q4 marketing.
+
 2025-09-15 Mon: [Thread](https://x.com/harmonyprotocol/status/1967681944004747469) on 5.country. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin]. Insight: For a trader that's long BTC, the optimal hedge ratio against futures is asymmetric... the amount of futures required for hedging is significantly higher when holding a long spot position than it would be if short. This suggests that risk management frameworks should adjust hedge exposures depending on whether the portfolio is net long or short, rather than assuming a symmetric ratio.
 
 ---
