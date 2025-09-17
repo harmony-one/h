@@ -1,4 +1,4 @@
-2025-9-17 Wed (2.0h+): Calculate returns, verify numbers on random addresses, fix mints and burns attributed to gauge.
+2025-9-17 Wed (3.0h+): Calculate returns, verify numbers on random addresses, fix mints and burns attributed to gauge.
 
 2025-9-16 Tue (12.3h): Revise earning script to include initial and closing state, fee from virtual-burns, and configurable fee-mode at closing state. Fix and end-to-end test staked statistics.
 
