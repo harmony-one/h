@@ -1,4 +1,4 @@
-2025-9-18 Thu (3.9h+): Timeline evaluation. Discussion on data. IRR calculation.
+2025-9-18 Thu (4.7h+): IRR calculation. Timeline evaluation. Discussion on data.
 
 2025-9-17 Wed (5.5h): Calculate returns, verify numbers on random addresses, fix mints and burns attributed to gauge.
 
