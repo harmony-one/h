@@ -1,3 +1,7 @@
+2025-09-19: Created a tool with cursor to help me checking wallet profitability a bit faster than doing it entirely in the manual way. Also researched Dune Analytics in combination with cursor to see how to utilize it for wallet analysis in the Unstaked_Owner list created by Aaron. I am still struggling to get reliable results for the task but i am optimistic to solve it. In addition, I analyzed a couple of wallets that got shared by the team to get an idea of their strategy and profitability. 
+
+I started looking into Artems bot again, installed Docker and prepared a wallet to launch the bot myself to get better insights. recent results showed that it is more profitable than many other wallets, even such with sophisticated strategies like 0x751140b83d289353b3b6da2c7e8659b3a0642f11.
+
 2025-09-07: Researched wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 that deploys short-term liquidity on Aerodrome and identified its strategy, which consists of deploying liquidity and staking it during low-volume periods lasting seconds to minutes. Verified the profitability of wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 as well. Calculated the profitability of Artem's Farming bot for the last two weeks. Compared to 0x751140b83d289353b3b6da2c7e8659b3a0642f11, Harmonies bot outperformed by 250%. 
 
 ---
