@@ -1,3 +1,13 @@
+2025-09-21 Sun:
+
+2025-09-20 Sat:
+
+2025-09-19 Fri: Follow up with Travala comarketing campaign. Update of the community section. Filming, editing, and posting of the progress short.
+
+2025-09-18 Thu: Researched contents of the DeFi voice memo from Stephen. Wrote a [thread](https://x.com/harmonyprotocol/status/1968862075645526038) to X. Began first draft of Q3 review.
+
+2025-09-17 Wed: DeFi [thread](https://x.com/harmonyprotocol/status/1968446046977032643) on b.country and Bitcoin ∩ DeFi. Insights: BTC as the reserve asset, DeFi as the transparent instruments, and AI as the open agents together create a radically fair economy built on public code—not hedge fund secrets.
+
 2025-09-16 Tue: Editing and uploading of the [DeFi short](https://youtube.com/shorts/Ha5htJLh-X8?si=dbx_syT5vqALQnbF) to X and Youtube. Coordinating with Travala team on Q4 marketing.
 
 2025-09-15 Mon: [Thread](https://x.com/harmonyprotocol/status/1967681944004747469) on 5.country. Read [Testing for the Asymmetric Optimal Hedge Ratios: With an Application to Bitcoin]. Insight: For a trader that's long BTC, the optimal hedge ratio against futures is asymmetric... the amount of futures required for hedging is significantly higher when holding a long spot position than it would be if short. This suggests that risk management frameworks should adjust hedge exposures depending on whether the portfolio is net long or short, rather than assuming a symmetric ratio.
