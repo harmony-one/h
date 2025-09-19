@@ -1,3 +1,5 @@
+2025-09-17 Wed: Analysis of top wallets (from Theo's suggestions) with grid strategy. Setting up configuration to run Aaron's timeline tool.
+
 2025-09-16 Tue: [Added](https://docs.google.com/spreadsheets/d/1CxHEczeQjck3OhJzYRjRSOixY5mobtD69t69_aqWGy4/edit?usp=sharing) APR calculation (PnL, IRR) for wallet and positions data files, looked through [unstaked](https://github.com/polymorpher/lp-backtest/blob/main/docs/aerodrome_unstaked_liquidity_stats.md) & [staked](https://github.com/polymorpher/lp-backtest/blob/main/docs/aerodrome_staked_liquidity_stats.md) stats logic, and checking the inconsistency between earnings stats. Worked on LP pool analysis using [Dune](https://dune.com/queries/5790665/9387341/) for top wallets.
 
 2025-09-15 Mon: Look into flash strategy and metrics for measuring performance of wallets. Look into Aaron's data for unstaked and staked positions/wallets. 
