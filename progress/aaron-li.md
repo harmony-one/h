@@ -1,4 +1,4 @@
-2025-9-18 Thu (7.9h+): Fix owner attribution issues in data. IRR calculation. Timeline evaluation. Discussion on data.
+2025-9-18 Thu (7.8h): Fix owner attribution issues in data. IRR calculation. Timeline evaluation. Discussion on data.
 
 2025-9-17 Wed (5.5h): Calculate returns, verify numbers on random addresses, fix mints and burns attributed to gauge.
 
