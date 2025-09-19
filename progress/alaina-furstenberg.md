@@ -1,6 +1,6 @@
-2025-09-21 Sun:
+2025-09-21 Sun: Review of team's /p. Finalized Q3 summary.
 
-2025-09-20 Sat:
+2025-09-20 Sat: Progress Thread
 
 2025-09-19 Fri: Follow up with Travala comarketing campaign. Update of the community section. Filming, editing, and posting of the progress short.
 
