@@ -1,3 +1,11 @@
+2025-09-20 Sat: Last week I identified a critical issue in the syncing module related to block parsing. I created [PR #4947](https://github.com/harmony-one/harmony/pull/4947), which fixes a major bug where Harmony nodes could get stuck during staged stream sync due to **RLP decoding errors**.  
+
+The root cause was that different peers send blocks in different RLP formats — some in the older `extblock` format, others in the newer `BlockWithSig` format. The staged stream sync was only decoding blocks as `extblock`, which caused failures when syncing from peers using `BlockWithSig`, leading to errors like:  `rlp: too few elements for types.extblock`. This issue stalled sync and prevented nodes from progressing. The used pattern has already proven effective in DNS sync and epoch block processing, and now it’s applied to staged stream sync. The solution is **fully backward compatible** and removes the `getBlockHashes` errors that blocked synchronization.  
+
+I’m also working on integrating **trusted nodes from DNS** into the sync process. With this enhancement, every node will always have a trusted DNS peer in its list, ensuring it can continue syncing even if all neighbors fail. This will make the network more **resilient and stable against stream or peer failures**.  
+
+---
+
 2025-09-13 Sat: Last week I continued improving staged stream sync stability across both devnet and testnet. A couple of new metrics were added, checked, and monitored to validate progress. I also pushed several new commits to [PR #4943](https://github.com/harmony-one/harmony/pull/4943). One of the most critical issues was related to pending crosslinks that remained unprocessed. These commits fixed the issue completely by readjusting the conditions used to check crosslinks, and the team has confirmed the fixes. Additionally, a bug in sync initialization was addressed and resolved.  
 
 With these improvements, staged stream sync is now running with a high level of stability on both devnet and testnet. All crosslinks are being processed correctly, resource usage remains within normal ranges, and both networks are fully synced with shards consistently at 100% voting power.  
@@ -873,6 +881,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
