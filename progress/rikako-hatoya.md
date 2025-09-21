@@ -1,3 +1,5 @@
+2025-09-19 Fri: Checking through the inconsistencies of wallet data. Looking through Aaron's timeline vs returns scripts.
+
 2025-09-18 Thu: Ran Aaron's timeline tool for multiple wallets and gathered csv outputs [here](https://drive.google.com/drive/folders/1UkH5iOL94V3XpkhNyxudFhJjgoV2tEB3?usp=sharing). Analysis of these csv files and check for inconsistencies.
 
 2025-09-17 Wed: Analysis of top wallets (from Theo's suggestions) with grid strategy. Setting up configuration to run Aaron's timeline tool.
