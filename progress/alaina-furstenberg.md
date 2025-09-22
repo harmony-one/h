@@ -1,3 +1,11 @@
+2025 Q3 Review (38 hours)
+
+This quarter, I focused on consistent marketing, publishing weekly Twitter threads, progress shorts, and monthly Substack newsletters. I designed announcement assets, recap videos, and community updates, while coordinating co-marketing campaigns with Travala, CryptoLand_DAO, AthleteFi, FlappyH1, and validators. I expanded our research-driven content by distilling DeFi insights from academic papers and industry blogs into accessible threads, covering topics like asymmetric hedge ratios, delta-neutral LPs, dynamic hedging, futures-based ETFs, and reinforcement learning for liquidity management. I also scripted and produced shorts from Stephen and Aaron’s DeFi voice memos, finalized the July, August, and September newsletters, and packaged team milestones into recap materials.
+
+On X and YouTube, our cadence stayed steady with weekly content. I attended Stanford Blockchain events, RoboCon SF, and the SEC crypto task force talk, reporting key industry insights back into our channels. On X, our content drove 730.5K impressions, 38.4K engagements (up 12%), 674 replies (up 7.8%), and an engagement rate of 5.2% (up 12%).
+
+---
+
 2025-09-21 Sun: Review of team's /p. Finalized Q3 summary.
 
 2025-09-20 Sat: Progress Thread
