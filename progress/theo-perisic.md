@@ -1,3 +1,19 @@
+2025-09-19 Fri: Access by Aaron for backtest and timeline script. Insight: issues with IRR (internal rate of return) calculations, could be due to high defi yields being out of IRR range.
+
+2025-09-18 Thu: Sync with Amanda and sourcing 2024 research and development per team member, accomplishments and difficulties, for Amanda.
+
+2025-09-17 Wed: Team sync, narrowing focus on specific wallets to simplify finding IRR (internal rate of return) for leading wallets, supplied non-gauge wallets and higher earning wallets based on research and shared 6 target wallets with team. 
+
+2025-09-16 Tue: Recalculation of Accelerated Recovery Proposal. Insight: removal of short term bonus leads to lower complexity and higher understanding.
+
+2025-09-15 Mon: Governance Beta released to various community member, sourcing feedback. Insight: majority asking for custom governance space options for community DAOs, adds complexity that may be added post-launch.
+
+---
+
+2025-09-14 Sun: (2.0h) Iteration on scripts for wallet tracking, going back to Aaron’s original lp-data. Insight: Grid strategy covering multiple 100-tick LPs showing most consistent profitability.
+
+2025-09-13 Sat: (2.0h) Continued tracking wallets. Insight: strategy is known, trading capital is known, missing information remains profitability, focus should be on simplifying wallets to track, not most profitable may be easier.
+
 2025-09-12 Fri: Started base network script to track target wallet behavior. Operations for Lend contracts, and reviewed Infrastrucrure DAO. Made changes to upcoming governance release, correcting 50%+1 and 66.67% to be quorum and approval rate, respectively, matching most recent documentation.
 
 2025-09-11 Thu: Sharing insights with team in detail, sync with Li, Artem, Frank, Rika. Added target wallet contracts found on [Nansen](https://www.nansen.ai/) for increasing and removing liquidity to track behavior.
