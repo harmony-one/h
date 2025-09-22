@@ -1,3 +1,7 @@
+2025-09-21 Sun: Started writing Q3 progress summary.
+
+2025-09-20 Sat: Continued with checking the disrecpancy between timeline and returns data. Checked through the rest of the scripts in `scripts/` folder, [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/aerodrome_earning.py] and [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/compute_returns.py] which seem to be where the `final_fee_usd` is calculated, hence the return ratio for `ret_unstaked_median_fee`.
+
 2025-09-19 Fri: Checking through the inconsistencies of wallet data. Looking through Aaron's timeline vs returns scripts.
 
 2025-09-18 Thu: Ran Aaron's timeline tool for multiple wallets and gathered csv outputs [here](https://drive.google.com/drive/folders/1UkH5iOL94V3XpkhNyxudFhJjgoV2tEB3?usp=sharing). Analysis of these csv files and check for inconsistencies.
