@@ -1,3 +1,7 @@
+2025-09-21 Sun: (2.0h) Continued timeline script review. Insight: found possible sign change issue, currently counting positive vs negative rather than detecting sign change.
+
+2025-09-20 Sat: (2.0h) Continued going through Aaron’s timeline script. Insight: made slight change for yearly calculations, assuming strategy will be multi-year, IRR, internal rate of return, we can use 365.25, reduces error from ~0.27% in leap years to ~0.07% maximum error.
+
 2025-09-19 Fri: Access by Aaron for backtest and timeline script. Insight: issues with IRR (internal rate of return) calculations, could be due to high defi yields being out of IRR range.
 
 2025-09-18 Thu: Sync with Amanda and sourcing 2024 research and development per team member, accomplishments and difficulties, for Amanda.
