@@ -1,5 +1,6 @@
 **2025 Q4 Goals (Draft)**
-In Q4, I will further contribute to our LP strategy project by helping establish 2-3 baseline wallets that the team can fully agree on and deliver transaction-level return reconstructions. I will focus on cross-verifying results across multiple tools (spreadsheets, Dune, etc), and produce output files that make our validated strategy easy to replicate for both engineers and non-engineers
+
+In Q4, I will further contribute to our LP strategy project by helping establish 2-3 baseline wallets that the team can fully agree on and deliver transaction-level return reconstructions. I will focus on cross-verifying results across multiple tools (spreadsheets, Dune, etc), and produce output files that make our validated strategy easy to replicate for both engineers and non-engineers.
 
 ---
 
