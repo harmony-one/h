@@ -1,3 +1,9 @@
+2025-09-23 Tue: [Added](https://github.com/harmony-one/aerodrome-analytics/tree/main/research_scripts) statistic by wallet and script to get all positions with fees by address using etherscan api and subgraph. To link addresses to subgraph positions, we first obtain a list of transactions via the etherscan API and then download the positions based on them.
+
+2025-09-22 Mon: synced on team progress over last week, working on wallet statistic by subgraph data with subgraph query.
+
+---
+
 2025-09-15 to 2025-09-19: paid time-off
 
 2025-09-12 Fri: Updated the gov.harmony.one service vote counting algorithm: changed to 50%+1 of total stake wight to reach quorum, and 66.67% of those to vote. Checked the conclusions and statistics for wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 (especially for staking indicators) - to confirm the conclusions on the strategy.
