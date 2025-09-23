@@ -4,6 +4,9 @@ This quarter, I focused on consistent marketing, publishing weekly Twitter threa
 
 On X and YouTube, our cadence stayed steady with weekly content. I attended Stanford Blockchain events, RoboCon SF, and the SEC crypto task force talk, reporting key industry insights back into our channels. On X, our content drove 730.5K impressions, 38.4K engagements (up 12%), 674 replies (up 7.8%), and an engagement rate of 5.2% (up 12%).
 
+Q4 Plans
+In Q4, I will continue maintaining a consistent publishing cadence across X, YouTube, and Substack while deepening my understanding of DeFi strategies through ongoing research. I will test new products as they launch and create demos that showcase their impact to the community in clear and engaging ways.
+
 ---
 
 2025-09-21 Sun: Review of team's /p. Finalized Q3 summary.
