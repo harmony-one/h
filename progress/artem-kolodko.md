@@ -1,3 +1,7 @@
+2025-09-22 Mon: synced on team progress over last week, started working on per-transaction statistics for the wallet
+
+---
+
 2025-09-15 to 2025-09-19: paid time-off
 
 2025-09-12 Fri: [added](https://github.com/harmony-one/portfolio-manager/pull/46/commits/7458bf5a935594d86a8df660cde56cfee710f92d) configuration parameter for updated LP strategy, testing before updating the bot
