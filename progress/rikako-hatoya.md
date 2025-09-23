@@ -1,3 +1,11 @@
+2025 Q3 Summary Draft
+
+---
+
+2025-09-22 Mon: Working on return per transaction for Dune.
+
+---
+
 2025-09-21 Sun: Started writing Q3 progress summary.
 
 2025-09-20 Sat: Continued with checking the disrecpancy between timeline and returns data. Checked through the rest of the scripts in `scripts/` folder, [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/aerodrome_earning.py] and [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/compute_returns.py] which seem to be where the `final_fee_usd` is calculated, hence the return ratio for `ret_unstaked_median_fee`.
