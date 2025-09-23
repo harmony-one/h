@@ -1,3 +1,5 @@
+2025-09-23 Tue: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/07286fd3cac6dfa309e89c2fb094bd53d195b746) data fetching and transaction logs decoding for per-transaction script; started final part: interpretation of the results and calculation of earned fees per every burn transaction (position close)
+
 2025-09-22 Mon: synced on team progress over last week, started working on per-transaction statistics for the wallet
 
 ---
