@@ -3,8 +3,11 @@
 In Q4, I will further contribute to our LP strategy project by helping establish 2-3 baseline wallets that the team can fully agree on and deliver transaction-level return reconstructions. I will focus on cross-verifying results across multiple tools (spreadsheets, Dune, etc), and produce output files that make our validated strategy easy to replicate for both engineers and non-engineers.
 
 ---
+**2025 Q3 Review (Draft)**
 
-2025 Q3 Summary Draft
+Earlier this quarter, I contributed to implementing Artem’s Aerodrome bot, focusing on debugging position logic, improving multicall handling, and adding key functions such as liquidity removal, fee collection, and position rebalancing. I also worked on cleaning and restructuring the Aerodrome service files, resolving merge conflicts, and ensuring that the bot could run reliably with accurate logging of on-chain actions. These efforts helped stabilize the bot and laid the foundation for its ongoing use in our strategy testing.
+
+In the latter half of the quarter, I shifted my focus toward analyzing LP strategies and wallet performance. I explored grid and flash LP approaches, added APR/IRR calculations to our data pipeline, and ran Aaron’s timeline tool across multiple wallets to check for consistency between transaction-level outputs and aggregated returns. This work has positioned me to contribute to the team’s broader goal of validating and replicating strategies, starting with a small set of wallets that can serve as our baseline.
 
 ---
 
