@@ -9,6 +9,14 @@ In Q4, I will continue maintaining a consistent publishing cadence across X, You
 
 ---
 
+2025-09-24 Wed: Revisions to the gov.harmony.one animation, prepared the tweet and supporting assets for Thursday's launch. Uploaded a DeFi short to youtube.
+
+2025-09-23 Tue: Review and testing of gov.harmony.one. Creation of animation for the launch tweet. Sent first pass to Theo for review. 
+
+2025-09-22 Mon: Writing Q4 goals. Beginning the first draft of the Q3 newsletter.
+
+---
+
 2025-09-21 Sun: Review of team's /p. Finalized Q3 summary.
 
 2025-09-20 Sat: Progress Thread
