@@ -1,4 +1,6 @@
-2025-9-23 Tue (6.8h+): Fix IRR calculation and add more columns. Significantly reduce amounts of events fetched by fetching receipts and looking at fixed log locations.
+2025-9-24 Wed (0.3h): Fix IRR calculation and add more columns. Significantly reduce amounts of events fetched by fetching receipts and looking at fixed log locations.
+
+2025-9-23 Tue (6.9h): Fix IRR calculation and add more columns. Significantly reduce amounts of events fetched by fetching receipts and looking at fixed log locations.
 
 2025-9-22 Mon (5.9h): Research on ways to significantly reduce amounts of events fetched. Significantly reduce amounts of events fetched by fetching receipts and looking at fixed log locations. Add RPC and caching to event processing scripts. Review position analysis scripts. Deploy new mass retrieval script. Commit corrections, re-execute statistics, revise mass retrieval script.
 
