@@ -1,3 +1,14 @@
+---
+
+2025 Q3 Review (19.5 hours)
+
+In Q3 2025, I focused on Aerodrome [backtesting system refinement](https://github.com/harmony-one/portfolio-manager/pull/36) and validation against production data. I discovered and implemented the Defilab backtesting methodology using feeGrowthGlobal0X128 accumulators for precise fee calculations, eliminating hardcoded concentration multipliers. I refactored the position class to be pool-agnostic using token0/token1 calculations across different Uniswap and Aerodrome pools, handling cases where the base token could be in either token position. I implemented liquidity unit calculations to replicate pool contract feeGrowthInside calculations for positions and resolved critical bugs including tick calculation inconsistencies between protocols.
+
+I developed strategy-driven backtesting capabilities by integrating bot's LP strategy classes with rebalancing triggers based on volatility analysis. I implemented unified TSV export functionality with standardized output formats and researched AERO rewards backtesting logic for staked positions, though this work was blocked due to Analytics API limitations requiring massive event data processing. I analyzed discrepancies between Aaron's database and subgraph feeUSD values (hourly fees generated/distributed), finding Aaron's database captured 7-11% of transactions but represented 43-83% of the subgraph's reported fee amounts. The subgraph's private source code prevented verification of its fee calculation methodology, leaving the discrepancies unresolved. I identified monitoring frequency differences as the core issue between production bot performance and backtesting results - production bots check positions every 10 minutes while backtesting processes hourly data, requiring parameter adjustments for hourly granularity.
+
+I built historical [position tracking systems](https://github.com/harmony-one/portfolio-manager/pull/47) to analyze bot/wallet strategy patterns including position creation timing, position's price ranges, and mint amounts. I created tracking scripts that capture mint/burn events and token amounts by detecting Transfer events and querying corresponding IncreaseLiquidity events from NFPM contracts. I successfully tested [position analysis scripts against DUNE query results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271) for bot wallet analysis and integrated Aaron's fee calculation methodology for individual position tracking.
+
+---
 2025-09-22 Mon: Integrated token0/token1 [amount tracking](https://github.com/harmony-one/portfolio-manager/pull/47) with USD conversion functionality. Added CoinGecko integration to retrieve BTC pricing data at position mint/burn blocks for accurate valuation. Successfully tested position analysis script against DUNE query results using bot wallet data, validating script accuracy and data completeness.
 
 ---
