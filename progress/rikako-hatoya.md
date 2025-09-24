@@ -11,7 +11,9 @@ In the latter half of the quarter, I shifted my focus toward analyzing LP strate
 
 ---
 
-2025-09-22 Mon: Working on return per transaction for Dune.
+2025-09-23 Tue: Moved all outputs to one shared [Google drive folder](https://drive.google.com/drive/folders/1xurkiK7i5MUFLLytvZG1fDld27pIKgK0?usp=drive_link), look through all transactions and comparing Dune to Aaron's timeline-tool. Sync with Li for Q3 review, editing of Q3 progress and Q4 goals, and looked into backtesting tools. 
+
+2025-09-22 Mon: Ran scripts and added outputs from [Aaron's timeline tool](https://drive.google.com/drive/folders/1Dv1lJUp3rgXJHAZdiij-WVbbJucTU0JD?usp=drive_link), [Dune](https://drive.google.com/drive/folders/13P5S05w4anAB14OQstkx7s8WqUUvEoQJ?usp=drive_link), and also [Aaron's earnings script (2025/05/01-2025/08/01)](https://drive.google.com/drive/folders/1GcnP0vFt_z9Km5a8fiefj4UUkztLiUNM?usp=drive_link). Fixed some issues (debugged timeline tool to fetch 100% data if RPC fails, added all token_ids that were missing to Dune output, fixed data spreadsheet to all show in mint-burn-collect order). 
 
 ---
 
