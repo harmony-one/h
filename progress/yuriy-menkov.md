@@ -1,3 +1,11 @@
+2025 Q3 Review
+
+Aerodrome Base data verification, including fee checks, dataset validation, and testing of different approaches to identify the most effective strategy. Developed and launched the Aerodrome Monitoring Service, which aggregates contract event and subgraph data into wallet- and position-level statistics. Integrated the service with a custom RPC node and subgraph, and validated its results against external sources such as Dune and custom transaction-level calculations.
+
+Migration and launch of Snapshot X on Harmony: deployed contracts, refined and launched the API service, updated and adapted the UI along with related libraries. The project also gained new features — including a validators-only whitelist strategy, a two-stage voting system with an off-chain second phase, integration with the staking dashboard, customizable quorum rules, and more.
+
+---
+
 2025-09-23 Tue: [Added](https://github.com/harmony-one/aerodrome-analytics/tree/main/research_scripts) statistic by wallet and script to get all positions with fees by address using etherscan api and subgraph. To link addresses to subgraph positions, we first obtain a list of transactions via the etherscan API and then download the positions based on them.
 
 2025-09-22 Mon: synced on team progress over last week, working on wallet statistic by subgraph data with subgraph query.
