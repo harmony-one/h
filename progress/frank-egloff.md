@@ -1,5 +1,13 @@
 ---
 
+2025 Q4 planning
+
+I will upgrade the backtesting script to minute-level data granularity to match the production bot's monitoring frequency. The main challenge will be finding reliable data sources that provide minute-basis pricing and liquidity data, as current sources limit our granularity. This alignment is essential since the bot's 10-minute monitoring (potentially moving to 1-minute) captures price movements that hourly backtesting misses, affecting strategy validation accuracy.
+
+I will develop a position analysis tool to research market participant behavior through tokenId tracking and transaction analysis. The tool will examine rebalancing patterns, range preferences, gas costs, and timing mechanisms used by various wallets in the ecosystem. This will provide insights for optimizing our own strategies and understanding market dynamics based on comprehensive position lifecycle data and performance metrics.
+
+---
+
 2025 Q3 Review (19.5 hours)
 
 In Q3 2025, I focused on Aerodrome [backtesting system refinement](https://github.com/harmony-one/portfolio-manager/pull/36) and validation against production data. I discovered and implemented the Defilab backtesting methodology using feeGrowthGlobal0X128 accumulators for precise fee calculations, eliminating hardcoded concentration multipliers. I refactored the position class to be pool-agnostic using token0/token1 calculations across different Uniswap and Aerodrome pools, handling cases where the base token could be in either token position. I implemented liquidity unit calculations to replicate pool contract feeGrowthInside calculations for positions and resolved critical bugs including tick calculation inconsistencies between protocols.
