@@ -1,4 +1,4 @@
-2025-9-25 Thu (4.6h+): Benchmarking RPC log retrieval throughput vs Etherscan API. Analyze IRR results.
+2025-9-25 Thu (5.6h+): Benchmarking RPC log retrieval throughput vs Etherscan API. Analyze IRR results.
 
 2025-9-24 Wed (9.8h): Fix IRR calculation and add more columns. Significantly reduce amounts of events fetched by fetching receipts and looking at fixed log locations.
 
