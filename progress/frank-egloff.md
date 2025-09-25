@@ -23,6 +23,10 @@ I am developing a position analysis tool to research market participant behavior
 [Position Tracking System results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271)
 
 ---
+2025-09-24 Wed: Optimized position tracking script performance by preprocessing all mint events to identify related tokenIds, then tracking only active positions within each block range chunk. Previous approach retrieved all events per block chunk before filtering position data in-script, creating excessive data processing overhead. New method significantly reduces data volume by filtering at the query level rather than post-processing.
+
+2025-09-23 Tue: Enhanced CSV export by adding BTC price data for mint/burn/collect events, providing transparency on exchange rates used for USD conversions. Updated notes field to include position summary containing mint, burn, collect operations and fee USD calculations. Created script to calculate wallet's initial mint and final activity (mint/burn) for specified pools, enabling precise block range determination for comprehensive wallet analysis.
+
 2025-09-22 Mon: Integrated token0/token1 [amount tracking](https://github.com/harmony-one/portfolio-manager/pull/47) with USD conversion functionality. Added CoinGecko integration to retrieve BTC pricing data at position mint/burn blocks for accurate valuation. Successfully tested position analysis script against DUNE query results using bot wallet data, validating script accuracy and data completeness.
 
 ---
