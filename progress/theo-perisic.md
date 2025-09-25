@@ -1,3 +1,13 @@
+2025-09-25 Thu: New Harmony [Goverance](https://gov.harmony.one/#/explore) release. Team sync, coordination on cbbtc pricing source and finalized initial XIRR (extended internal rate of return) and APR. Insight: rest of team will conduct XIRR and APR calculations and converge tomorrow.
+
+2025-09-24 Wed: Updated [sheet](https://docs.google.com/spreadsheets/d/1edq_3Oi8AA3LUNtatSIOsANaig5zjl4BjEREuB8hkBY/edit?gid=289946584#gid=289946584) with nearest swap pricing directly from onchain pool sourcing with etherscan.
+
+2025-09-23 Tue: Completed basescan python [script](https://github.com/ONETheo/aerodrome-lp-analyzer) to source LP performance.
+
+2025-09-22 Mon: Updated [sheet](https://docs.google.com/spreadsheets/d/1edq_3Oi8AA3LUNtatSIOsANaig5zjl4BjEREuB8hkBY/edit?gid=289946584#gid=289946584) with nearest swap pricing directly from onchain pool sourcing with etherscan.
+
+---
+
 2025-09-21 Sun: (2.0h) Continued timeline script review. Insight: found possible sign change issue, currently counting positive vs negative rather than detecting sign change.
 
 2025-09-20 Sat: (2.0h) Continued going through Aaron’s timeline script. Insight: made slight change for yearly calculations, assuming strategy will be multi-year, IRR, internal rate of return, we can use 365.25, reduces error from ~0.27% in leap years to ~0.07% maximum error.
