@@ -4,7 +4,7 @@
 
 Continue developing position analysis tool with the addition of gas fees, IRR, IL calculation for each position. This will provide insights of other strategies for optimizing our own strategies and understanding market dynamics based on comprehensive position lifecycle data and performance metrics.
 
-I will upgrade the backtesting script to block-level data granularity to match the production bot's monitoring frequency goal. The main goal will be finding reliable data sources that provide block-basis pricing and pool liquidity data.
+I will upgrade the backtesting script data granularity first to minute-level, then progressing to block-level data to match the production bot's monitoring frequency goals. The main goal will be finding reliable data sources that provide minute and block-basis pricing and pool liquidity data. 
 
 ---
 
