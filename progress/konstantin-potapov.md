@@ -1,3 +1,8 @@
+2025-09-19 Fri:
+Implemented transient storage as specified in EIP-1153, adding new VM opcodes. Launched the London fork on testnet. Completed a 2-week devnet test run successfully.
+
+---
+
 2025-09-12 Fri:
 Branch 1.10 with the London fork was launched on devnet. I started investigating the issue with the low block production rate under 1-second finality mode. During the analysis, I found several cases of duplicate block proposals and implemented a workaround to prevent duplicate emissions. However, after testing, the solution caused significant block production degradation, so I decided not to proceed with this workaround. 
 
