@@ -6,6 +6,17 @@ In September continued improvements in bot statistics, with additions like imper
 
 ---
 
+Bot wallet 0x982116545d53F954Ac348694CB1a8cF45269bBf0
+Raw collected fees (without impermanent loss) for blocks range [35102089 - 35867540]:
+USDC: 68.531645
+cbBTC: 0.00059325
+positions count: 25
+
+
+2025-09-26 Fri: fixed bug with missing position, [added](https://github.com/harmony-one/portfolio-manager/pull/48/commits/6b65af9940eb3d4a6b4c1417bf049ac524c43085) block numbers range filter in per-transaction tool, changed source of wallet transactions list to Etherscan API v2 (much faster)
+
+2025-09-25 Thu: completed first version of per-transaction verification tool; looking at the bug with missing liquidity provision position
+
 2025-09-24 Wed: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits) logic to calculate per-transaction token0 and token1 returns for the bot wallet; started verifying data with Base blockchain explorer and other sources
 
 2025-09-23 Tue: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/07286fd3cac6dfa309e89c2fb094bd53d195b746) data fetching and transaction logs decoding for per-transaction script; started final part: interpretation of the results and calculation of earned fees per every burn transaction (position close)
