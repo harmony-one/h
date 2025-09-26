@@ -1,6 +1,12 @@
+Q4 plans:
+1) Launch release with transient storage (EIP-1153) on mainnet.
+2) Improve metrics coverage for the block proposing process, including more precise block proposal timings under 1-second finality.
+
+---
+
 2025 Q3 Review:
 During the quarter, I built and tested a release that included the London and Berlin hard fork updates. 
-I implemented transient storage (EIP-1153), introducing new VM opcodes to extend the protocol’s functionality.
+I also implemented transient storage (EIP-1153), introducing new VM opcodes to extend the protocol’s functionality.
 
 ---
 
