@@ -1,3 +1,13 @@
+2025 Q4 planning
+
+Continue development of analytics scripts for precise calculation of IL, profit, IRR, and optimal strategy search. Testing through running multiple bots, collecting statistics, as well as using historical data and simulations.
+
+Development of the Aerodrome monitoring service for dynamic monitoring and analysis of bot performance, as well as real-time comparison of multiple bots/wallets. Adding a user interface and report visualization for strategy comparison.
+
+Further development and improvements of the Snapshot x Harmony project. Adding new features such as automatic exclusion of low-activity validators from quorum, integration of governance voting into the staking interface, and more.
+
+---
+
 2025 Q3 Review
 
 Aerodrome Base data verification, including fee checks, dataset validation, and testing of different approaches to identify the most effective strategy. Developed and [launched](http://193.233.19.102:8081/api) the Aerodrome [Monitoring Service](https://github.com/harmony-one/aerodrome-analytics), which aggregates contract event and subgraph data into wallet- and position-level statistics. Integrated the service with a custom RPC node and subgraph, and validated its results against external sources such as Dune and custom transaction-level calculations.
