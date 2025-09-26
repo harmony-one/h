@@ -1,3 +1,9 @@
+2025 Q3 Review:
+During the quarter, I built and tested a release that included the London and Berlin hard fork updates. 
+I implemented transient storage (EIP-1153), introducing new VM opcodes to extend the protocol’s functionality.
+
+---
+
 2025-09-19 Fri:
 Implemented transient storage as specified in EIP-1153, adding new VM opcodes. Launched the London fork on testnet. Completed a 2-week devnet test run successfully.
 
