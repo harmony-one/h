@@ -7,11 +7,13 @@ In September continued improvements in bot statistics, with additions like imper
 ---
 
 Bot wallet 0x982116545d53F954Ac348694CB1a8cF45269bBf0
+
 Raw collected fees (without impermanent loss) for blocks range [35102089 - 35867540]:
+```
 USDC: 68.531645
 cbBTC: 0.00059325
 positions count: 25
-
+```
 
 2025-09-26 Fri: fixed bug with missing position, [added](https://github.com/harmony-one/portfolio-manager/pull/48/commits/6b65af9940eb3d4a6b4c1417bf049ac524c43085) block numbers range filter in per-transaction tool, changed source of wallet transactions list to Etherscan API v2 (much faster)
 
