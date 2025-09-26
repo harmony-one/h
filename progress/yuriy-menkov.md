@@ -6,6 +6,12 @@ Aerodrome Base data verification, including fee checks, dataset validation, and 
 
 ---
 
+2025-09-26 Fri: Researched Aaron’s data with fees by positions — overall, results matched completely except for minor discrepancies caused by rounding differences. Explored different approaches to loading the BTC price for IL and profit calculation in USD. Created a script that takes the price from the pool based on the swap event closest to a given date or block. Encountered an issue with pool indexing in the custom version of the subgraph — it seems that the official sources are partially outdated and no longer relevant. Worked on fixing the problem.
+
+2025-09-25 Thu: Investigated the reasons for the discrepancy between the collected fees in Aaron’s and Rika’s data and the subgraph data (used events fron different contracts with different rounding). Wrote a script to calculate wallet balance changes based on deposit and withdraw position events.
+
+2025-09-24 Wed: Completed a script to calculates the total fee profit per wallet per date range. Tested with Artem’s wallet and conmparing with Dune data. Result: 0.00059325 cbbtc + 68.531645 usdc. 
+
 2025-09-23 Tue: [Added](https://github.com/harmony-one/aerodrome-analytics/tree/main/research_scripts) statistic by wallet and script to get all positions with fees by address using etherscan api and subgraph. To link addresses to subgraph positions, we first obtain a list of transactions via the etherscan API and then download the positions based on them.
 
 2025-09-22 Mon: synced on team progress over last week, working on wallet statistic by subgraph data with subgraph query.
