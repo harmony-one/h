@@ -1,13 +1,36 @@
 **2025 Q4 Goals (Draft)**
 
-In Q4, I will further contribute to our LP strategy project by helping establish 2-3 baseline wallets that the team can fully agree on and deliver transaction-level return reconstructions. I will focus on cross-verifying results across multiple tools (spreadsheets, Dune, etc), and produce output files that make our validated strategy easy to replicate for both engineers and non-engineers.
+In Q4, I will continue contributing to our liquidity provisioning strategy project by helping establish baseline wallets that enable the team to fully verify transaction-level return reconstructions. My focus will be on cross-verifying results across multiple sources (archival nodes, subgraphs, Dune) and producing output files that serve as a reliable ground truth, ensuring strategies and data are both transparent and replicable.
+
+Building on this verified foundation, I will also support the development of tooling for strategy testing and execution. This includes implementing accurate calculation methods for APR and impermanent loss, as well as enabling backtesting capabilities to validate and refine our approaches.
+
 
 ---
 **2025 Q3 Review (Draft)**
 
-Earlier this quarter, I contributed to implementing Artem’s Aerodrome bot, focusing on debugging position logic, improving multicall handling, and adding key functions such as liquidity removal, fee collection, and position rebalancing. I also worked on cleaning and restructuring the Aerodrome service files, resolving merge conflicts, and ensuring that the bot could run reliably with accurate logging of on-chain actions. These efforts helped stabilize the bot and laid the foundation for its ongoing use in our strategy testing.
+I contributed to Portfolio Manager (Aerodrome bot) by extending its functionality and improving its compatibility. I created a backtesting script for options, using Black-Scholes modeling combined with real LP pool data to simulate call and put BTC options. I also modified the bot to handle Aerodrome in addition to Uniswap, adding support for trading fees from cbBTC and USDC rewards. Furthermore, I enhanced Aerodrome LP position detection so it now works for both unstaked and staked positions, and outputs the value of AERO emissions (rewards).
 
-In the latter half of the quarter, I shifted my focus toward analyzing LP strategies and wallet performance. I explored grid and flash LP approaches, added APR/IRR calculations to our data pipeline, and ran Aaron’s timeline tool across multiple wallets to check for consistency between transaction-level outputs and aggregated returns. This work has positioned me to contribute to the team’s broader goal of validating and replicating strategies, starting with a small set of wallets that can serve as our baseline.
+I also implemented a series of features to make the bot more robust. These included functions to detect if LP positions are out of range, remove liquidity, collect fees, add liquidity to existing positions, and create new positions with given percentage ranges. To improve reliability, I added fallback methods for RPC rate-limit issues, unit tests, gas estimation methods, and updated token approval checks with buffer logic. Additionally, I integrated Multicall for streamlined liquidity operations, introduced a getStats() function in our API to retrieve stats for all hedged positions, and added in-memory caching to reduce repeated API calls for funding rates and token price histories. To improve validation and user flow, I implemented checks for sufficient balances and margin availability (on Hyperliquid), along with allowance initialization prompts for cbBTC and USDC. Finally, I set up database logging to record all bot actions and snapshots of hedged positions.
+
+Alongside these improvements, I worked on hedging strategies. Using Revert.finance, Binance API, and Hyperliquid, I ran simulations to test numerous scenarios at different BTC exposures, hedge weights, leverage levels, and funding rates. The hedging script I developed calculates total PnL, liquidation prices, and highlights strategies with the best capital efficiency under varying funding conditions.
+
+In addition, I focused on per-wallet transaction data aggregation. I ran backtesting scripts (timeline and earnings) to gather data for multiple wallets of interest, including top-performing addresses and our test bot. I checked for inconsistencies in the results and created a Dune query to calculate earned trading fees, cross-verifying the outputs with the timeline script to ensure data accuracy. I also researched Internal Rate of Return (IRR) and APR calculation methods, comparing approaches for measuring wallet-level performance. Finally, I began analyzing profitable wallet strategies such as grid trading to better understand how they achieve higher returns.
+
+**Links**
+
+- [Backtesting script for options](https://github.com/harmony-one/portfolio-manager/pull/17)  
+- [Trading fees for Aerodrome](https://github.com/harmony-one/portfolio-manager/pull/21)  
+- [Aerodrome LP staked position detection + AERO rewards](https://github.com/harmony-one/portfolio-manager/pull/23)  
+- [Position detection, user methods](https://github.com/harmony-one/portfolio-manager/pull/29)  
+- [Multicall](https://github.com/harmony-one/portfolio-manager/pull/37/)  
+- [getStats() API endpoint](https://github.com/harmony-one/portfolio-manager/pull/38)  
+- [Caching for funding rates and token price](https://github.com/harmony-one/portfolio-manager/pull/40)  
+- [Validation handling](https://github.com/harmony-one/portfolio-manager/pull/39)  
+- [Initialize token allowance](https://github.com/harmony-one/portfolio-manager/pull/41)  
+- [Database logging](https://github.com/harmony-one/portfolio-manager/pull/42)  
+- [Hedging strategy simulations](https://github.com/rikaa15/portfolio-manager/tree/hedging/src/simulation)  
+- [Dune transaction data aggregation query](https://dune.com/queries/5831757)  
+- [Per-wallet data folder (Google Drive)](https://drive.google.com/drive/u/1/folders/1xurkiK7i5MUFLLytvZG1fDld27pIKgK0)  
 
 ---
 
