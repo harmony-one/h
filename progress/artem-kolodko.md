@@ -8,7 +8,7 @@ In September continued improvements in bot statistics, with additions like imper
 
 Bot wallet 0x982116545d53F954Ac348694CB1a8cF45269bBf0
 
-Raw collected fees (without impermanent loss) for blocks range [35102089 - 35867540]:
+Raw collected fees (without impermanent loss) for blocks range 35102089 (Sep-04) - 35867540 (Sep-22):
 ```
 USDC: 68.531645
 cbBTC: 0.00059325
