@@ -1,8 +1,8 @@
 2025 Q3 Review
 
-Aerodrome Base data verification, including fee checks, dataset validation, and testing of different approaches to identify the most effective strategy. Developed and launched the Aerodrome Monitoring Service, which aggregates contract event and subgraph data into wallet- and position-level statistics. Integrated the service with a custom RPC node and subgraph, and validated its results against external sources such as Dune and custom transaction-level calculations.
+Aerodrome Base data verification, including fee checks, dataset validation, and testing of different approaches to identify the most effective strategy. Developed and [launched](http://193.233.19.102:8081/api) the Aerodrome [Monitoring Service](https://github.com/harmony-one/aerodrome-analytics), which aggregates contract event and subgraph data into wallet- and position-level statistics. Integrated the service with a custom RPC node and subgraph, and validated its results against external sources such as Dune and custom transaction-level calculations.
 
-Migration and launch of Snapshot X on Harmony: deployed contracts, refined and launched the API service, updated and adapted the UI along with related libraries. The project also gained new features — including a validators-only whitelist strategy, a two-stage voting system with an off-chain second phase, integration with the staking dashboard, customizable quorum rules, and more.
+[Migration](https://github.com/harmony-one/sx-monorepo) and launch of Snapshot X on [Harmony](https://gov.harmony.one/): deployed contracts, refined and launched the API service, updated and adapted the UI along with related libraries. The project also gained new features — including a validators-only whitelist strategy, a two-stage voting system with an off-chain second phase, integration with the staking dashboard, customizable quorum rules, and more.
 
 ---
 
