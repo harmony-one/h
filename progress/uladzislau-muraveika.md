@@ -1,8 +1,23 @@
+2025-09-26 Fri:
+
+This week's main focus was on creating new servers for the devnet, because old ones were running out of space. Additional disks will be the same in money terms thus I've chosen this way. Regular tasks started to be challenging, because of Ansible/python versions conflicts between current devops server and new Ubuntu 24. I was able to deal with all issues and record what to fix next.
+
+Stream sync and `update to Berlin and London eth forks` changes were deployed both on devnet and testnet. Stream sync had brought to us new issues with database errors and crosslink processing - data collected and reported to Gheis.
+
+On the Aerodrome Subgraph, I've removed the previous pool factory subgraph, pinged Yuri to give me a changed version with only needed pools.
+We are still struggling on the disk space on this node, thus I'll order more NVMEs on the following week and migrate erigon/lighthouse to the new RAID0.
+
+---
+
+2025-09-13 till 2025-09-22: Paid Time Off
+
+---
+
 2025-09-12 Fri:
 
 This week main focus was the help for Gheis with new versions of the Stream Sync. What I found and reported to Gheis on new versions - database errors,
 highlighted that crosslinks now are working differ from previous version. Result: we successfully merged all the work on the [PR-4943](https://github.com/harmony-one/harmony/pull/4943). You can see how crosslinks are processed ongoing like in mainnet vs start of each epoch(on the left):
-![alt text](./img/crosslink_health_fix.png)
+![alt text](/devops/img/crosslink_health_fix.png)
 
 I've also installed the Konstantin's version with the London and Berlin upgrades on the devnet - [PR-4915](https://github.com/harmony-one/harmony/pull/4915).
 
@@ -17,7 +32,7 @@ On the Aerodrome Subgraph, I've found that we are indexing the PoolFactory contr
 This week main focus was the help for Gheis with the new version of the Stream Sync, I've installed it on the devnet and testnet, found issue with crosslink processing collected initial findings and share with Gheis.
 
 Additionally, I've created a dashboard based on the hmy_p2p_crosslink_msg metric to have the real time understanding what it is happening on the network level, additionally added link to it from the watchdog tool:
-![alt text](./img/crosslink_health.png)
+![alt text](/devops/img/crosslink_health.png)
 
 On the ops side, I've created a quick solution for the top-level `.country` domains and reported issues to the Aaron, all of them were fixed.
 
@@ -43,7 +58,7 @@ And finally, I've gotten a request from the development team to spin up an archi
 
 ---
 
-2025-08-15 Fri - PTO
+2025-08-15 Fri - Paid Time Off
 
 ---
 
@@ -73,7 +88,7 @@ And finally, I've started preparation for the stream sync in the testnet - enabl
 
 ---
 
-2025-08-01 Fri - PTO
+2025-08-01 Fri - Paid Time Off
 
 ---
 
@@ -118,7 +133,7 @@ For the consensus work, I've started to collect Harmony stream sync metrics by P
 
 Example of stream sync visualization:
 
-![alt text](img/devnet_streamsync.png)
+![alt text](/devops/img/devnet_streamsync.png)
 ---
 
 2025-07-08 Tue: View changes and shard health visualization
@@ -142,13 +157,13 @@ flowchart LR
 
 And now about visualization itself:
 * check for bingos and leader in the shard - showing block verification health, should be around 30 blocks per minute
-![alt text](img/bingos.png)
+![alt text](/devops/img/bingos.png)
 * check the leaders performance - helped to spot poor hardware leaders
-![alt text](img/hoorays.png)
+![alt text](/devops/img/hoorays.png)
 * view changes heatmap to understand when a view change happen
-![alt text](img/view_changes.png)
+![alt text](/devops/img/view_changes.png)
 * logs and check for the new bls key
-![alt text](img/view_change_logs.png)
+![alt text](/devops/img/view_change_logs.png)
 
 ---
 
@@ -399,7 +414,7 @@ Additionally, I've found out how to preserve localnet logs between different run
 
 ---
 
-2024-12-30 till 2025-01-07: PTO
+2024-12-30 till 2025-01-07: Paid Time Off
 
 ---
 
@@ -413,7 +428,7 @@ And finally as part of ops activities, I've discussed with Gheis and checked the
 
 ---
 
-2024-12-25 Wed: PTO
+2024-12-25 Wed: Paid Time Off
 
 ---
 
@@ -454,7 +469,7 @@ Finally, after complaints from the Harmony community, I identified a bottleneck 
 
 ---
 
-2024-12-13 Fri: PTO
+2024-12-13 Fri: Paid Time Off
 
 ---
 
@@ -858,7 +873,7 @@ I helped validator users with testnet validator sync issues, which is crucial fo
 
 2024-02-02 Friday: The main focuses on this week:
 * blacklist automation - build, tested and rolled out to testnet/mainnet fix from https://github.com/harmony-one/harmony/pull/4623, additionally removed three new redeemed addresses from the blacklist.
-* [the second phase of RPC replacement](https://github.com/harmony-one/harmony-ops-priv/issues/166) - first try of the sync up was broken by extra run of rclone, after it files were corrupted and harmony had a [file descriptor leakage issue](https://github.com/harmony-one/harmony/issues/4622),after several tests, that it was indeed rclone, node is synced and running. Rn node is used by Gheis to test the prunning DB config.
+* [the second phase of RPC replacement](https://github.com/harmony-one/harmony-ops-priv/issues/166) - first try of the sync up was broken by extra run of rclone, after it files were corrupted and harmony had a [file descriPaid Time Offr leakage issue](https://github.com/harmony-one/harmony/issues/4622),after several tests, that it was indeed rclone, node is synced and running. Rn node is used by Gheis to test the prunning DB config.
 * continue refactoring to move the rclone installation/sync as separate playbook - https://github.com/harmony-one/harmony-ops-priv/issues/167 - postponed for now
 * checked the [small issue with snapshot service](https://github.com/harmony-one/harmony-ops-priv/issues/170) - it was false-positive, 'cause we don't wait for harmony node to start, but issue can be fixed
 
