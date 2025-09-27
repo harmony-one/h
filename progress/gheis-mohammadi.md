@@ -1,4 +1,4 @@
-Q4 Plan
+🦂 Q4 2025 Plan
 
 * **Stream Sync Mainnet Rollout:** Launch stream sync on mainnet with server enabled by default and client configurable. The rollout will be fully backward compatible and require no hardfork.
 * **Next harmony Release:** Drive and support the delivery of next harmony release in Q4.
@@ -7,7 +7,7 @@ Q4 Plan
 
 ---
 
-Q3 Overview: 
+2025 Q3 Overview: 
 
 In Q3, I completed my entire plan and also delivered beyond my original commitments.
 
@@ -912,6 +912,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
