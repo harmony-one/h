@@ -1,7 +1,7 @@
-**Q4 Plan**
+Q4 Plan
 
 * **Stream Sync Mainnet Rollout:** Launch stream sync on mainnet with server enabled by default and client configurable. The rollout will be fully backward compatible and require no hardfork.
-* **Release 2025.1.2:** Drive and support the delivery of next harmony release in Q4.
+* **Next harmony Release:** Drive and support the delivery of next harmony release in Q4.
 * **EIP-2935 new updates:** Implement the new specifications for EIP-2935 to match the latest Ethereum updates.
 * **EVM Opcode Updates:** Implement any newly introduced EVM opcodes (if needed), maintaining full Ethereum Virtual Machine compatibility and minimizing gaps with Ethereum’s execution layer.
 
@@ -13,7 +13,7 @@ In Q3, I completed my entire plan and also delivered beyond my original commitme
 
 - EIP-2537: Fully implemented and merged.
 - EIP-2935: Implementation finished, pending final team updates and code rebase before merge.
-- Stream Sync: Successfully deployed on devnet, proven stable, and now running on testnet — positioning us for mainnet readiness in the near future.
+- Stream Sync: Successfully deployed on devnet, proven stable, and now running on testnet — positioning us for mainnet launch in Q4.
 
 In addition, I contributed several other PRs for bug fixings, improving error handling, p2p discovery, crosslink processing and syncing performance further accelerating overall progress.
 
@@ -912,6 +912,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
