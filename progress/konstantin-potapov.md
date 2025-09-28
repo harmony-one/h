@@ -5,8 +5,8 @@ Q4 plans:
 ---
 
 2025 Q3 Review:
-During the quarter, I built and tested a release that included the London and Berlin hard fork updates. 
-I also implemented transient storage (EIP-1153), introducing new VM opcodes to extend the protocol’s functionality.
+During Q3, I debugged and tested a release with the London and Berlin hard fork updates. It passed validation on devnet and testnet, and was partially deployed on mainnet to verify stability under real conditions.
+I also implemented transient storage (EIP-1153) and confirmed its execution on devnet, adding new VM opcodes to extend the protocol’s functionality.
 
 ---
 
