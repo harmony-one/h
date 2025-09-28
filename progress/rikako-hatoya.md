@@ -34,6 +34,10 @@ In addition, I focused on per-wallet transaction data aggregation. I ran backtes
 
 ---
 
+2025-09-27 Sat: Re-editing of Q3 summary/Q4 goals (condense to 3 paragraphs, will tally hours and also request review tomorrow). Looked into Colossus article on market maker.
+
+2025-09-26 Fri: Started working on returns calculation for Artem bot transactions, looked into IRR calculation from Aaron's script. Updated Q3/Q4 summary with more description and links.
+
 2025-09-25 Thu: Worked on XIRR calculation and looked for APIs for token price. Revision of Q3/Q4 write-up.
 
 2025-09-24 Wed: Updated [Dune query](https://dune.com/queries/5831757) to calculate correct fees and matching format as Aaron's timeline tool, output file [here](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?usp=sharing). Cross-checked with Aaron's timeline data.
