@@ -1,14 +1,24 @@
-2025 Q3 Review: Q3 was focused on understanding and providing concentrated liquidity for cbBTC/USDC on Aerodrome, as well as the entire environment surrounding it. I improved my data analysis skills, wrote the first Dune queries to gather pool data, fees, position APRs etc. and worked with cursor to gather data via python scripts. It helped me to analyze wallets and thoroughly understand their strategies. Additionally, I assisted the team in understanding mechanics around concentrated AMMs and developing the LP bot on a theoretical level. It lead to an outperformance of the bot strategy during times of low volatility (appr. 70% APR), which is a great first success towards reaching the goal of a market-neutral average 30% APR return. However, it turned out that during high directional volatility, the strategy suffers losses due to frequent rebalancing. 
+2025 Q3 Review
+
+Q3 was focused on understanding and providing concentrated liquidity for cbBTC/USDC on Aerodrome, as well as the entire environment surrounding it. I improved my data analysis skills, wrote the first Dune queries to gather pool data, fees, position APRs etc. and worked with cursor to gather data via python scripts. It helped me to analyze wallets and thoroughly understand their strategies. Additionally, I assisted the team in understanding mechanics around concentrated AMMs and developing the LP bot on a theoretical level. It lead to an outperformance of the bot strategy during times of low volatility (appr. 70% APR), which is a great first success towards reaching the goal of a market-neutral average 30% APR return. However, it turned out that during high directional volatility, the strategy suffers losses due to frequent rebalancing. 
+
+---
 
 In Q4 it will be important to improve the LP bot to be profitable in any market phase, even during high directional volatility. We will work on tracking and identifying volatility shifts and how the bot should adjust ranges or its time in the market accordingly. In addition, I will continue to improve my data-driven analytics skills to provide better insights on on-chain data and solutions for given problems.  
+
+---
 
 2025-09-28: I verified the data tracked by the LP tracking tool. Most of the queried data is not correct. I used a script and the Binance API, Basescan, and revert finance to query the correct data for the new bot wallet (0x982116545d53f954ac348694cb1a8cf45269bbf0) to calculate fee returns, divergence loss, net PnL per position and the annualized return of the wallet since starting the farming strategy. 
 
 So far, the strategy is not profitable (-10.24% APR) due to the high volatility of BTC, the directional volatility to be precise. The bot needs to rebalance frequently, often before enough fees in the current range are accrued to cover the divergence loss at the time of the rebalance. When BTC ranges in a small interval, the bot strategy is very profitable (70% APR based on the data of the previous wallet). The overall algorithm needs to be improved by detecting periods of directional price movements of BTC and either widen the or stop providing liquidity entirely. 
 
+---
+
 2025-09-19: Created a tool with cursor to help me checking wallet profitability a bit faster than doing it entirely in the manual way. Also researched Dune Analytics in combination with cursor to see how to utilize it for wallet analysis in the Unstaked_Owner list created by Aaron. I am still struggling to get reliable results for the task but i am optimistic to solve it. In addition, I analyzed a couple of wallets that got shared by the team to get an idea of their strategy and profitability. 
 
 I started looking into Artems bot again, installed Docker and prepared a wallet to launch the bot myself to get better insights. recent results showed that it is more profitable than many other wallets, even such with sophisticated strategies like 0x751140b83d289353b3b6da2c7e8659b3a0642f11.
+
+---
 
 2025-09-07: Researched wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 that deploys short-term liquidity on Aerodrome and identified its strategy, which consists of deploying liquidity and staking it during low-volume periods lasting seconds to minutes. Verified the profitability of wallet 0x751140b83d289353b3b6da2c7e8659b3a0642f11 as well. Calculated the profitability of Artem's Farming bot for the last two weeks. Compared to 0x751140b83d289353b3b6da2c7e8659b3a0642f11, Harmonies bot outperformed by 250%. 
 
