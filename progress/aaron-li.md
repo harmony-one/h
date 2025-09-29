@@ -1,4 +1,4 @@
-2025-9-29 Mon (0.1h+): Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
+2025-9-29 Mon (0.7h+): Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
 
 ---
 
