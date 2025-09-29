@@ -8,7 +8,7 @@ I will upgrade the backtesting script data granularity first to minute-level, th
 
 ---
 
-2025 Q3 Review (19.5 hours)
+2025 Q3 Review (21.5 hours)
 
 I focused on Aerodrome backtesting system refinement and validation against production data. I discovered and implemented the Defilab backtesting methodology using feeGrowthGlobal0X128 accumulators for precise fee calculations, eliminating hardcoded concentration multipliers. I refactored the position class to be pool-agnostic using token0/token1 calculations across different Uniswap and Aerodrome pools, handling cases where the base token could be in either token position. I implemented liquidity unit calculations to replicate pool contract feeGrowthInside calculations for positions and resolved critical bugs including tick calculation inconsistencies between protocols.
 
@@ -23,6 +23,10 @@ I am developing a position analysis tool to research market participant behavior
 [Position Tracking System results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271)
 
 ---
+2025-09-28 Sun (2.0h): Worked on refactoring the position analysis script to use collect amount from the pool's Collect event, replacing the NonFungiblePositionManager contract's event as the data source. 
+
+2025-09-26 Fri: Validated with the team that fee collection amounts from the pool's Collect events align with ERC-20 transfer events, confirming the pool event as the correct on-chain data source. Resolved two issues in the position analysis script: corrected the detection logic for a wallet's initial mint and final activity, and ensured consistent CSV file generation for block ranges with no position events.
+
 2025-09-25 Thu: Investigated fee calculation discrepancies that emerged during team meeting. Analysis revealed that I was using the NonFungible Position Manager contract's collect method, while Aaron and Artem utilized the pool's collect method. Discrepancies occur because NFPM contracts update position's feeGrowthInside values (during mint/burn/collect events), which tracks fee accumulation per unit liquidity value. Testing showed identical collected values between the NFPM and pool methods for my position. However, comparing these event amounts to actual ERC-20 transfers revealed differences, requiring team validation. Continued optimizing the position tracking history script performance.
 
 2025-09-24 Wed: Optimized position tracking script performance by preprocessing all mint events to identify related tokenIds, then tracking only active positions within each block range chunk. Previous approach retrieved all events per block chunk before filtering position data in-script, creating excessive data processing overhead. New method significantly reduces data volume by filtering at the query level rather than post-processing.
