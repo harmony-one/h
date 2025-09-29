@@ -1,3 +1,5 @@
+2025-9-28 Sun (0.7h): Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
+
 2025-9-26 Fri (1.2h): Discussion on progress.
 
 2025-9-25 Thu (0.8h): Analyzing fetch log and RPC performance. Benchmarking RPC log retrieval throughput vs Etherscan API. Analyze IRR results.
