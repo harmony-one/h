@@ -1,4 +1,4 @@
-2025-9-28 Sun (1.3h+): Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
+2025-9-28 Sun (2.3h+): Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
 
 2025-9-26 Fri (1.2h): Discussion on progress.
 
