@@ -1,3 +1,18 @@
+2025 Q4 plans:
+1. Review the current infrastructure and costs, because now I'm the only one in charge for this.
+2. Improve our observability stack - review and fix our current setup and add new metrics and tools.
+3. Together with team prepare to stream sync alpha release in the mainnet.
+
+---
+
+2025 Q3 Review:
+
+My main focus was stream sync. I deployed new versions on devnet/testnet, debugged database and crosslink issues, and worked with Gheis on fixes that eventually landed in merged PRs. To make issues visible, I built detailed visualizations: real-time dashboards for stream sync health and crosslink messages. These gave the team clear visibility into synchronization behavior and helped validate improvements after each release.
+
+In parallel, I broadened my operational experience: setting up and maintaining devnet/testnet infrastructure, learning how to support a Base archival RPC node with reth, and improving disk and server management for Erigon/Lighthouse.
+
+---
+
 2025-09-26 Fri:
 
 This week's main focus was on creating new servers for the devnet, because old ones were running out of space. Additional disks will be the same in money terms thus I've chosen this way. Regular tasks started to be challenging, because of Ansible/python versions conflicts between current devops server and new Ubuntu 24. I was able to deal with all issues and record what to fix next.
