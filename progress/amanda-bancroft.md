@@ -1,5 +1,6 @@
 2025 Q3 Review
 https://x.com/harmonyprotocol/status/1964089288464679206
+
 During Q3, I joined the social media team and dove in with a 4x increase on daily X content contributing to a quarter close with increases over Q2 in engagements (25%), impressions (19%), profile visits (10%), replies (25%), likes (13%), and bookmarks (6%). The consistency strengthened Harmony’s visibility and community interaction.
 
 On the operations side, I focused on budget review and revisions spearheading a Q3 with a 38% decrease in expenses over Q1, creating meaningful runway efficiency. I also managed state and federal regulatory filings, prepared documentation for R&D tax credit evaluation, and advanced groundwork for year-end compliance by initiating business reporting; positioning the company for a smooth year-end close.
