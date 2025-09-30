@@ -32,6 +32,12 @@ In addition, I focused on per-wallet transaction data aggregation. I ran backtes
 
 ---
 
+2025-09-29 Mon: [Worked](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=173868313#gid=173868313) on impermanent loss, fees, net profit, and returns calculation. Re-checking calculation for BTC price and returns.
+
+---
+
+2025-09-28 Sun: Looked into fetching historical cbBTC price. [Dune's price.usd table](https://dune.com/data/prices.usd) seems more reliable as they are calculating weighted average across many chains (docs [here](https://docs.dune.com/data-catalog/curated/prices/overview)).
+
 2025-09-27 Sat: Re-editing of Q3 summary/Q4 goals (condense to 3 paragraphs, will tally hours and also request review tomorrow). Looked into Colossus article on market maker.
 
 2025-09-26 Fri: Started working on returns calculation for Artem bot transactions, looked into IRR calculation from Aaron's script. Updated Q3/Q4 summary with more description and links.
