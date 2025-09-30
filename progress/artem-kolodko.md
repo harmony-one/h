@@ -1,8 +1,11 @@
-2025 Q3 Review (Draft)
+2025 Q3 Review (34.0h)
 
 In Q3, I focused on developing and refining a new liquidity provision (LP) strategy, starting with initial implementations in July that included rebalancing logic, hedging integration, and support for narrow tick ranges in cbBTC/USDC Aerodrome liquidity pool. Key milestones included implementation of the startegy in LP rebalancing bot application, handling out-of-range positions and adding persistence layer for tracking position IDs and overall performance. By mid-quarter, bug fixes and optimizations, such as multicall transactions for gas efficiency and slippage calculations, enhanced the bot reliability during local testing and deployments on fly.io.
 
 In September continued improvements in bot statistics, with additions like impermanent loss tracking, net APR and PnL metrics. Tested bot in real-world environment with the bot instance running on fly.io, researched approaches to reduce impermanent loss, such as grid positions system and rebalancing with threshold. Overall, the quarted emphasized iteractive impovements, from position adjustments to analyzing blockchain events to collect more accurate statistics, resulting in a more robust LP bot ready for further optimizations.
+
+[Liquidity Provision bot](https://github.com/harmony-one/portfolio-manager)
+[Per-transaction statistics script](https://github.com/harmony-one/portfolio-manager/pull/48/files)
 
 ---
 
