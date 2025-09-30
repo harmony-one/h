@@ -5,6 +5,7 @@ In Q3, I focused on developing and refining a new liquidity provision (LP) strat
 In September continued improvements in bot statistics, with additions like impermanent loss tracking, net APR and PnL metrics. Tested bot in real-world environment with the bot instance running on fly.io, researched approaches to reduce impermanent loss, such as grid positions system and rebalancing with threshold. Overall, the quarted emphasized iteractive impovements, from position adjustments to analyzing blockchain events to collect more accurate statistics, resulting in a more robust LP bot ready for further optimizations.
 
 [Liquidity Provision bot](https://github.com/harmony-one/portfolio-manager)
+
 [Per-transaction statistics script](https://github.com/harmony-one/portfolio-manager/pull/48/files)
 
 ---
