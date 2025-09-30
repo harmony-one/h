@@ -5,8 +5,10 @@ Q4 plans:
 ---
 
 2025 Q3 Review:
-During Q3, I debugged and tested a release with the London and Berlin hard fork updates. It passed validation on devnet and testnet, and was partially deployed on mainnet to verify stability under real conditions.
-I also implemented transient storage (EIP-1153) and confirmed its execution on devnet, adding new VM opcodes to extend the protocol’s functionality.
+During Q3, I tested the London and Berlin fork release compatibility. The release passed validation on devnet and testnet and was partially deployed on mainnet.
+    It introduced more than 15k lines of code changes and revised EVM internals by replacing `big.Int` with `uint256.Int`, updating Harmony smart contracts to align with EVM rules, adding the BASEFEE opcode, and adjusting gas computation for several built-in functions.
+I also implemented transient storage (EIP-1153) and confirmed its execution on devnet.
+    This feature requires additional modifications introduced in the 1.11 fork (Shanghai), including a writable data location with transaction-scoped lifetime, load and save functions integrated into state transition, and new opcodes supporting transient semantics. 
 
 ---
 
