@@ -23,6 +23,9 @@ I am developing a position analysis tool to research market participant behavior
 [Position Tracking System results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271)
 
 ---
+2025-09-29 Mon: Completed [collect event integration from the pool contract](https://github.com/harmony-one/portfolio-manager/pull/47), mapping to individual positions, while retaining NonFungible Position Manager collect amounts for analysis and CSV export. Implemented IL calculations per position to track performance metrics against HODL strategy.
+
+---
 2025-09-28 Sun (2.0h): Worked on refactoring the position analysis script to use collect amount from the pool's Collect event, replacing the NonFungiblePositionManager contract's event as the data source. 
 
 2025-09-26 Fri: Validated with the team that fee collection amounts from the pool's Collect events align with ERC-20 transfer events, confirming the pool event as the correct on-chain data source. Resolved two issues in the position analysis script: corrected the detection logic for a wallet's initial mint and final activity, and ensured consistent CSV file generation for block ranges with no position events.
