@@ -1,4 +1,6 @@
-2025-9-29 Mon (7.2h+): Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events. Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
+2025-9-30 Tue (0.3h): Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events.
+
+2025-9-29 Mon (7.7h): Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events. Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
 
 ---
 
