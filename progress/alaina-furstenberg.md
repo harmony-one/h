@@ -8,7 +8,8 @@ On Substack, we maintained **24,300** subscribers (0% change) while article view
 
 On YouTube, performance surged as a result of more consistent posting: the channel reached **14,500** views (+237% vs. prior 90 days) and **118.7** hours of watch time (+48%). Long-form videos continued to deliver steady engagement with **32K** impressions, while short-form content broke out with **12.5K** views (+566%), including **5.7K** engaged views, meaning audiences watching beyond the first few seconds.
 
-Q4 Plans
+Q4 Goals
+
 In Q4, I will continue maintaining a consistent publishing cadence across X, YouTube, and Substack while deepening my understanding of DeFi strategies through ongoing research. I will test new products as they launch and create demos that showcase their impact to the community in clear and engaging ways.
 
 ---
