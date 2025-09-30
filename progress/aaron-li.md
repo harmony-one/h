@@ -1,4 +1,4 @@
-2025-9-30 Tue (1.0h): Timeline evaluation on key wallets. Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events.
+2025-9-30 Tue (2.3h+): Timeline evaluation on key wallets. Implement timeline block-override mode. Allow IRR to aggregate flow per-day. Fix IRR bugs and debug IRR results.. Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events.
 
 2025-9-29 Mon (7.7h): Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events. Fix missing transaction issues in timeline tool. Use events to guide receipt fetching.
 
