@@ -6,9 +6,13 @@ In September continued improvements in bot statistics, with additions like imper
 
 ---
 
+In Q4, I'll finalize tools to verify LP bot returns via blockchain events, calculating metrics like raw token returns, total returns in USD, impermanent loss (IL), and APR. Will identify the most profitable wallets, based on the list of most active wallets in Aerodrome liquidity provision (LP). Using on our bot's wallet data, I'll optimize its logic to achieve a consistent 30% APR across various market conditions. Additionally, I'll implement a copy-trading bot to replicate the actions of top wallets in real-time.
+
+---
+
 Bot wallet 0x982116545d53F954Ac348694CB1a8cF45269bBf0
 
-Raw collected fees (without impermanent loss) for blocks range 35102089 (Sep-04) - 35867540 (Sep-22):
+Raw collected fees (without impermanent loss) for blocks range 35102089 (Sep 04) - 35867540 (Sep 22):
 ```
 USDC: 68.531645
 cbBTC: 0.00059325
