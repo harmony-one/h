@@ -10,6 +10,10 @@ In Q4, I'll finalize tools to verify LP bot returns via blockchain events, calcu
 
 ---
 
+2025-09-29 Mon: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/37fb232f569dce6055432cd435411845d9fae003) calculation of impermanent loss using historical cbBTC prices for our LP bot wallet; synced with team on results using constant BTC price
+
+---
+
 Bot wallet 0x982116545d53F954Ac348694CB1a8cF45269bBf0
 
 Raw collected fees (without impermanent loss) for blocks range 35102089 (Sep 04) - 35867540 (Sep 22):
