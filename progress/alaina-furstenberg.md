@@ -9,6 +9,14 @@ In Q4, I will continue maintaining a consistent publishing cadence across X, You
 
 ---
 
+2025-09-30 Tue: Continuation of newsletter + editing of the Q3 video, incoporating Stephen's portion. Uploading a DeFi short to Youtube. Reviewed Substack and Youtube metrics over Q3. Insights: 
+
+2025-09-29 Mon: Finalized September portion of the newsletter. Received Theo's Q3 video, began the editing and captioning process. 
+
+---
+
+2025-09-28 Sun: Review of team's /p
+
 2025-09-27 Sat: Progress thread
 
 2025-09-26 Fri: Update of the community section. Filming and editing of the weekly progress short.
