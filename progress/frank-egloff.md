@@ -24,6 +24,8 @@ Q3 deepened my understanding of DeFi mechanics significantly - moving from basic
 
 
 ---
+2025-09-30 Tue: Added gas cost tracking to the position analysis script to capture transaction expenses per position. Had a medical emergency. 
+
 2025-09-29 Mon: Completed [collect event integration from the pool contract](https://github.com/harmony-one/portfolio-manager/pull/47), mapping to individual positions, while retaining NonFungible Position Manager collect amounts for analysis and CSV export. Implemented IL calculations per position to track performance metrics against HODL strategy.
 
 ---
