@@ -44,9 +44,9 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-09-28 Sun: Looked into fetching historical cbBTC price. [Dune's price.usd table](https://dune.com/data/prices.usd) seems more reliable as they are calculating weighted average across many chains (docs [here](https://docs.dune.com/data-catalog/curated/prices/overview)).
+2025-09-28 Sun (1.0h): Looked into fetching historical cbBTC price. [Dune's price.usd table](https://dune.com/data/prices.usd) seems more reliable as they are calculating weighted average across many chains (docs [here](https://docs.dune.com/data-catalog/curated/prices/overview)).
 
-2025-09-27 Sat: Re-editing of Q3 summary/Q4 goals (condense to 3 paragraphs, will tally hours and also request review tomorrow). Looked into Colossus article on market maker.
+2025-09-27 Sat (1.5h): Re-editing of Q3 summary/Q4 goals (condense to 3 paragraphs, will tally hours and also request review tomorrow). Looked into Colossus article on market maker.
 
 2025-09-26 Fri: Started working on returns calculation for Artem bot transactions, looked into IRR calculation from Aaron's script. Updated Q3/Q4 summary with more description and links.
 
@@ -60,9 +60,9 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-09-21 Sun: Started writing Q3 progress summary.
+2025-09-21 Sun (1.0h): Started writing Q3 progress summary.
 
-2025-09-20 Sat: Continued with checking the disrecpancy between timeline and returns data. Checked through the rest of the scripts in `scripts/` folder, [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/aerodrome_earning.py] and [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/compute_returns.py] which seem to be where the `final_fee_usd` is calculated, hence the return ratio for `ret_unstaked_median_fee`.
+2025-09-20 Sat (3.0h): Continued with checking the disrecpancy between timeline and returns data. Checked through the rest of the scripts in `scripts/` folder, [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/aerodrome_earning.py] and [https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/compute_returns.py] which seem to be where the `final_fee_usd` is calculated, hence the return ratio for `ret_unstaked_median_fee`.
 
 2025-09-19 Fri: Checking through the inconsistencies of wallet data. Looking through Aaron's timeline vs returns scripts.
 
@@ -108,9 +108,9 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-08-31 Sun: Continued with Dune. Looked through collect, mint, and burn events.
+2025-08-31 Sun (1.5h): Continued with Dune. Looked through collect, mint, and burn events.
 
-2025-08-30 Sat: Looked into Dune. Swap fees and position PnL.
+2025-08-30 Sat (1.0h): Looked into Dune. Swap fees and position PnL.
 
 2025-08-29 Fri: Continued reading research papers on strategies and open source bot repos. Looked into ticks.
 
@@ -124,9 +124,9 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-08-24 Sun: Continued with top holder activity, 
+2025-08-24 Sun (1.0h): Continued with top holder activity analysis.
 
-2025-08-23 Sat: Went back and changed bot's database logging logic. Previously only implemented for checking status but generalized/added for other actions (eg. open hedge, close LP, etc).
+2025-08-23 Sat (2.5h): Went back and changed bot's database logging logic. Previously only implemented for checking status but generalized/added for other actions (eg. open hedge, close LP, etc).
 
 2025-08-22 Fri: Analysis of top 10 holders (debugging incorrect metrics calculation, inspecting top 10 trends, and reiteration from there to investigate minting strategies + trading fee/collected rewards amount solution). Look into Dune queries, options strategy.
 
@@ -140,9 +140,9 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-08-17 Sun: Continuation with looking through Aaron's backtest and data repo.
+2025-08-17 Sun (1.5h): Continuation with looking through Aaron's backtest and data repo.
 
-2025-08-16 Sat: Continuation with action logging. 
+2025-08-16 Sat (1.0h): Continuation with action logging. 
 
 2025-08-15 Fri: Started looking into database to implement storing results. Looking into Aaron's backtest repo.
 
@@ -156,7 +156,7 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-08-10 Sun: Reading on impermanent loss explained article. Look through pricing options course on coursera.
+2025-08-10 Sun (1.5h): Reading on impermanent loss explained article. Look through pricing options course on coursera.
 
 2025-08-09 Sat (1.0h): PRd for [in-memory caching](https://github.com/harmony-one/portfolio-manager/pull/40) and [validation handling](https://github.com/harmony-one/portfolio-manager/pull/39). Research on iron condor.
 
@@ -220,7 +220,7 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-07-13 Sun: Testing of newly added methods. Some RPC rate limit issues, added fallback methods and also opening new position function not working properly, debugging.
+2025-07-13 Sun (3.0h): Testing of newly added methods. Some RPC rate limit issues, added fallback methods and also opening new position function not working properly, debugging.
 
 2025-07-12 Sat (1.0h): Continue Fri, debugging from test methods. Resolving conflicts in app.service file.
 
