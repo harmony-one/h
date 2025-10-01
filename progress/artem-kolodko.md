@@ -14,7 +14,7 @@ Grid positions system, described in [this document](https://docs.google.com/docu
 
 In Q4, I'll finalize tools to verify LP bot returns via blockchain events, calculating metrics like raw token returns, total returns in USD, impermanent loss (IL), and APR. Will identify the most profitable wallets, based on the list of most active wallets in Aerodrome liquidity provision (LP). Using on our bot's wallet data, I'll optimize its logic to achieve a consistent 30% APR across various market conditions. Additionally, I'll implement a copy-trading bot to replicate the actions of top wallets in real-time.
 
-To further enhance strategy, I'll analyse hedging costs in our original implementation, considering market state (stable or volatile market). Delta gaps can be addressed by implementing monitoring thresholds to detect and correct deviations in hedge ratios caused by volatility spikes (dynamic hedge instead of constant hedge position appoach in our original implementation). After both LP and hedge parts will be fully tested, I'll implement and deployment across multiple cloud providers (fly.io and AWS backup for example), and alering via Telegram.
+To further enhance strategy, I'll analyse hedging costs in our original implementation, considering market state (stable or volatile market). Delta gaps can be addressed by implementing monitoring thresholds to detect and correct deviations in hedge ratios caused by volatility spikes (dynamic hedge instead of constant hedge position appoach in our original implementation). After both LP and hedge parts will be fully tested, I'll implement and deployment across multiple cloud providers (fly.io and AWS backup), and alering via Telegram.
 
 ---
 
