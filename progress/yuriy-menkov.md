@@ -10,6 +10,10 @@ Further development and improvements of the Snapshot x Harmony project. Adding n
 
 2025 Q3 Review
 
+[Aerodrome Monitoring Service](https://github.com/harmony-one/aerodrome-analytics)
+
+[Snapshot X on Harmony](https://gov.harmony.one/)
+
 Aerodrome Base data verification, including fee checks, dataset validation. Developed and [launched](http://193.233.19.102:8081/api) the Aerodrome [Monitoring Service](https://github.com/harmony-one/aerodrome-analytics), which aggregates contract event and subgraph data into wallet- and position-level statistics. Integrated the service with a custom RPC node and subgraph, and validated its results against external sources such as Dune and custom transaction-level calculations.
 
 Testing of different approaches to identify the most effective strategy: Testing different approaches to identify the most effective strategy: Based on a 3-month analysis of aggregated data (staking events and subgraph positions) from the Aerodrome service, I found that the highest APR is achieved by wallets that open very short positions (typically under an hour) within a narrow range of 100, with most activity concentrated in just a few wallets, while the majority of overall profit is generated through staking. The problems I encountered were that some of the data did not fully match the data from Dune, different method for calculating IL, and it was not entirely clear how to detect a strategy based on list of positions and whether other wallets were using hedging.
