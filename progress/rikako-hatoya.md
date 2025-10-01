@@ -1,4 +1,4 @@
-## **2025 Q4 Goals (Draft)**
+### **2025 Q4 Goals (Draft)**
 
 In Q4, I will continue contributing to our liquidity provisioning strategy project by helping establish baseline wallets that enable the team to fully verify transaction-level return reconstructions. My focus will be on cross-verifying results across multiple sources (archival nodes, subgraphs, Dune) and producing output files that serve as a reliable ground truth, ensuring strategies and data are both transparent and replicable.
 
@@ -6,7 +6,7 @@ Building on this verified foundation, I will also support the development of too
 
 
 ---
-## **2025 Q3 Review (Draft)**
+### **2025 Q3 Review (48.5h) (Draft)**
 
 #### Top Contribution: [Implemented core Aerodrome LP management logic](https://github.com/harmony-one/portfolio-manager/pull/29) 
 > This enabled the bot to detect in-range positions, remove liquidity, and collect fees.
