@@ -10,17 +10,18 @@ I will upgrade the backtesting script data granularity first to minute-level, th
 
 2025 Q3 Review (21.5 hours)
 
+[Wallet-Position Tracking System](https://github.com/harmony-one/portfolio-manager/pull/47) [Results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271)
+
 I focused on Aerodrome backtesting system refinement and validation against production data. I discovered and implemented the Defilab backtesting methodology using feeGrowthGlobal0X128 accumulators for precise fee calculations, eliminating hardcoded concentration multipliers. I refactored the position class to be pool-agnostic using token0/token1 calculations across different Uniswap and Aerodrome pools, handling cases where the base token could be in either token position. I implemented liquidity unit calculations to replicate pool contract feeGrowthInside calculations for positions and resolved critical bugs including tick calculation inconsistencies between protocols.
 
 I developed strategy-driven backtesting capabilities by integrating bot's LP strategy classes with rebalancing triggers based on volatility analysis. I implemented unified TSV export functionality with standardized output formats and researched AERO rewards backtesting logic for staked positions, though this work was blocked due to Analytics API limitations requiring massive event data processing. I analyzed discrepancies between Aaron's database and subgraph feeUSD values (hourly fees generated/distributed), finding Aaron's database captured 7-11% of transactions but represented 43-83% of the subgraph's reported fee amounts. The subgraph's private source code prevented verification of its fee calculation methodology, leaving the discrepancies unresolved. I identified monitoring frequency differences as the core issue between production bot performance and backtesting results - production bots check positions every 10 minutes while backtesting processes hourly data, requiring parameter adjustments for hourly granularity.
 
-I am developing a position analysis tool to research market participant behavior through tokenId tracking and transaction analysis. The tool will examine rebalancing patterns, range preferences, gas costs, and timing mechanisms used by various wallets in the ecosystem. This will provide insights for optimizing our own strategies and understanding market dynamics based on comprehensive position lifecycle data and performance metrics.
+I developed the first version of a position analysis tool to research wallet behavior through position (tokenId) tracking and transaction analysis. The tool retrieves all positions minted/burned for a given wallet, tracking liquidity changes, collect events, and staking/unstaking status. The script calculates fees and impermanent loss for each position and enables creation of visual position timelines in Google Sheets. This provides insights for optimizing our own strategies and understanding market dynamics based on comprehensive position lifecycle data and performance metrics.
+
+Q3 deepened my understanding of DeFi mechanics significantly - moving from basic concepts in Q2 to understanding impermanent loss mitigation and cross-protocol position management for hedging. I learned that simulating on-chain behavior for backtesting is harder than using real blockchain events, with the key challenge being data granularity - something I didn't fully grasp when initially implementing the backtesting system. Technically, I recognized that effective backtesting architecture should prioritize the data source infrastructure first, then layer strategies on top. For team process, daily meetings including outside members became valuable for both individual work validation and building solid shared analysis tools through bottom-to-top validation.
 
 [Aerodrome LP Backtesting script](https://github.com/harmony-one/portfolio-manager/pull/36)
 
-[Position Tracking Systems](https://github.com/harmony-one/portfolio-manager/pull/47)
-
-[Position Tracking System results](https://docs.google.com/spreadsheets/d/1i_Ho_jKB80SI5_H3zR7R3slsg3syhUnl6ZTuRY25noY/edit?gid=1348410271#gid=1348410271)
 
 ---
 2025-09-29 Mon: Completed [collect event integration from the pool contract](https://github.com/harmony-one/portfolio-manager/pull/47), mapping to individual positions, while retaining NonFungible Position Manager collect amounts for analysis and CSV export. Implemented IL calculations per position to track performance metrics against HODL strategy.
