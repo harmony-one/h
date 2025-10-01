@@ -14,6 +14,8 @@ In Q4, I'll finalize tools to verify LP bot returns via blockchain events, calcu
 
 ---
 
+2025-09-30 Tue: started adding support of comparison of multiple wallets in analytics tool. Checking swap events to get information about cbBTC price to calculate accurate impermanent loss value.
+
 2025-09-29 Mon: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/37fb232f569dce6055432cd435411845d9fae003) calculation of per-transaction impermanent loss using historical cbBTC prices for our LP bot wallet; synced with team on results using constant BTC price
 
 ---
