@@ -18,6 +18,12 @@ Testing of different approaches to identify the most effective strategy: Testing
 
 ---
 
+2025-09-30 Tue: Updated the script to include retrieval and calculation of the sbBTC price from the nearest swap event at the time of position closure. For IL calculation, I now apply the individual cbBTC price specific to each position at its closing moment. [Exported](https://docs.google.com/spreadsheets/d/1cpnS6IZDzsmK1Zh1bFJSPYsr8R-2tAHYVhucprJEjec/edit?usp=sharing) the results into a summary table for further analysis with team.
+
+2025-09-29 Mon: [Upgraded](https://github.com/harmony-one/aerodrome-analytics/blob/main/research_scripts/getFullStats.js) the script for calculating IL both by individual positions and for the entire wallet, using a fixed BTC price across all positions, followed by a comparison of the results with the team’s data. Current result is 
+
+---
+
 2025-09-26 Fri: Researched Aaron’s data with fees by positions — overall, results matched completely except for minor discrepancies caused by rounding differences. Explored different approaches to loading the BTC price for IL and profit calculation in USD. Created a script that takes the price from the pool based on the swap event closest to a given date or block. Encountered an issue with pool indexing in the custom version of the subgraph — it seems that the official sources are partially outdated and no longer relevant. Worked on fixing the problem.
 
 2025-09-25 Thu: Investigated the reasons for the discrepancy between the collected fees in Aaron’s and Rika’s data and the subgraph data (used events fron different contracts with different rounding). Wrote a script to calculate wallet balance changes based on deposit and withdraw position events.
