@@ -9,10 +9,13 @@
 
 2025 Q3 Overview: 
 
+[EIP-2537: Add BLS12-381 Precompiles Support to EVM](https://github.com/harmony-one/harmony/pull/4922)
+[StagedStreamSync: Robustness Improvements, Refactoring, and Enhanced Error Handling](https://github.com/harmony-one/harmony/pull/4930)
+
 In Q3, I completed my entire plan and also delivered beyond my original commitments.
 
-- EIP-2537: Fully implemented and merged.
-- EIP-2935: Implementation finished, pending final team updates and code rebase before merge.
+- [EIP-2537](https://github.com/harmony-one/harmony/pull/4922): Fully implemented and merged.
+- [EIP-2935](https://github.com/harmony-one/harmony/pull/4938): Implementation finished, pending final team updates and code rebase before merge.
 - Stream Sync: Successfully deployed on devnet, proven stable, and now running on testnet — positioning us for mainnet launch in Q4.
 
 In addition, I contributed several other PRs for bug fixings, improving error handling, p2p discovery, crosslink processing and syncing performance further accelerating overall progress.
@@ -912,6 +915,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
