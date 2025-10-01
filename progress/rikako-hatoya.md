@@ -1,4 +1,4 @@
-**2025 Q4 Goals (Draft)**
+## **2025 Q4 Goals (Draft)**
 
 In Q4, I will continue contributing to our liquidity provisioning strategy project by helping establish baseline wallets that enable the team to fully verify transaction-level return reconstructions. My focus will be on cross-verifying results across multiple sources (archival nodes, subgraphs, Dune) and producing output files that serve as a reliable ground truth, ensuring strategies and data are both transparent and replicable.
 
@@ -6,15 +6,23 @@ Building on this verified foundation, I will also support the development of too
 
 
 ---
-**2025 Q3 Review (Draft)**
+## **2025 Q3 Review (Draft)**
 
-I contributed to Portfolio Manager (Aerodrome bot) by extending its functionality and improving its compatibility. I created a backtesting script for options to simulate call and put BTC options. I also modified the bot to handle Aerodrome in addition to Uniswap, adding support for trading fees from cbBTC and USDC rewards. Furthermore, I enhanced Aerodrome LP position detection so it now works for both unstaked and staked positions, and outputs the value of AERO emissions (rewards). I also implemented functions to detect if LP positions are out of range, remove liquidity, collect fees, add liquidity to existing positions, and create new positions with given percentage ranges. To improve reliability, I added fallback methods for RPC rate-limit issues, unit tests, gas estimation methods, and updated token approval checks with buffer logic. Additionally, I integrated Multicall for streamlined liquidity operations, introduced a getStats() function in our API to retrieve stats for all hedged positions, and added in-memory caching to reduce repeated API calls for funding rates and token price histories. To improve validation and user flow, I implemented checks for sufficient balances and margin availability (on Hyperliquid), along with allowance initialization prompts for cbBTC and USDC. Finally, I set up logging system to record all bot actions and snapshots of hedged positions to our database.
+#### Top Contribution: [Implemented core Aerodrome LP management logic](https://github.com/harmony-one/portfolio-manager/pull/29) 
+> This enabled the bot to detect in-range positions, remove liquidity, and collect fees.
 
-Alongside these improvements, I worked on hedging strategies. Using Revert.finance, Binance API, and Hyperliquid, I ran simulations to test numerous scenarios at different BTC exposures, hedge weights, leverage levels, and funding rates. The hedging script I developed calculates total PnL, liquidation prices, and highlights strategies with the best capital efficiency under varying funding conditions.
+<br><br>
+I contributed to Portfolio Manager (Aerodrome bot) by extending its functionality and improving its compatibility. I created a backtesting script for options to simulate call and put BTC options. I also modified the bot to handle Aerodrome in addition to Uniswap, adding support for trading fees from cbBTC and USDC rewards. In addition, I enhanced Aerodrome LP position detection so it now works for both unstaked and staked positions, including AERO rewards tracking.
 
-In addition, I focused on per-wallet transaction data aggregation. I ran backtesting scripts (timeline and earnings) to gather data for multiple wallets of interest, including top-performing addresses and our test bot. I checked for inconsistencies in the results and created a Dune query to calculate earned trading fees, cross-verifying the outputs with the timeline script to ensure data accuracy. I also researched Internal Rate of Return (IRR) and APR calculation methods, comparing approaches for measuring wallet-level performance. Finally, I began analyzing profitable wallet strategies to better understand how they achieve higher returns.
+I implemented functions to detect out-of-range LP positions, remove liquidity, collect fees, add liquidity to existing positions, and create new positions. To improve reliability, I added fallback methods for RPC rate-limit issues, unit tests, gas estimation, and updated token approval checks with buffer logic. I also introduced a getStats() function in our API to retrieve stats for all hedged positions, added in-memory caching to reduce repeated API calls, and set up a logging system to record bot actions and snapshots of hedged positions. To improve validation and user flow, I implemented checks for sufficient balances and margin availability (on Hyperliquid), along with token allowance initialization prompts.
 
-**Links**
+I also implemented a multicall-based close workflow for Aerodrome LP positions, allowing the bot to remove liquidity, collect fees, and burn LP tokens in a single atomic transaction instead of three separate calls. This reduced gas costs and execution time while eliminating partial-failure risks that could leave positions half-closed. The main challenge was safely encoding and sequencing multi-step operations without breaking existing workflows. To address this, I standardized how contract calls are built and required explicit position IDs to reduce edge cases. To improve team process, I added an end-to-end test for the bundled workflow, and clear status logs.
+
+Alongside these improvements, I worked on hedging strategies. Using Revert.finance, Binance API, and Hyperliquid, I ran simulations across different BTC exposures, hedge weights, leverage levels, and funding rates. The hedging script I developed calculates total PnL, liquidation prices, and highlights strategies with the best capital efficiency under varying funding conditions.
+
+Finally, I focused on per-wallet transaction data aggregation. I ran backtesting scripts to gather data for multiple wallets of interest, including top-performing addresses and our test bot. I identified inconsistencies and created a Dune query to cross-verify transaction-level fee data for accuracy. I also researched Internal Rate of Return (IRR) and APR calculation methods, comparing approaches for measuring wallet-level performance, and began analyzing profitable wallet strategies to better understand how they achieve higher returns.
+
+#### **Links:**
 
 - [Backtesting script for options](https://github.com/harmony-one/portfolio-manager/pull/17)  
 - [Trading fees for Aerodrome](https://github.com/harmony-one/portfolio-manager/pull/21)  
