@@ -18,6 +18,8 @@ To further enhance strategy, I'll analyse hedging costs in our original implemen
 
 ---
 
+2025-10-01 Wed: implemented fetching [cbBTC prices](https://docs.google.com/spreadsheets/d/1UaHXt8WXNrsqpT_kFF9SOKaWKaJRWWEeEcEg8jWMh84/edit?usp=sharing) from closest Aerodrome swap events for accurate and unified calculation of impermanent loss for each position
+
 2025-09-30 Tue: started adding support of comparison of multiple wallets in analytics tool. Checking swap events to get information about cbBTC price to calculate accurate impermanent loss value.
 
 2025-09-29 Mon: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/37fb232f569dce6055432cd435411845d9fae003) calculation of per-transaction impermanent loss using historical cbBTC prices for our LP bot wallet; synced with team on results using constant BTC price
