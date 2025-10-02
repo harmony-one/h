@@ -18,7 +18,7 @@ To further enhance strategy, I'll analyse hedging costs in our original implemen
 
 ---
 
-2025-10-01 Wed: implemented fetching [cbBTC prices](https://docs.google.com/spreadsheets/d/1UaHXt8WXNrsqpT_kFF9SOKaWKaJRWWEeEcEg8jWMh84/edit?usp=sharing) from closest Aerodrome swap events for accurate and unified calculation of impermanent loss for each position
+2025-10-01 Wed: implemented method to get [cbBTC prices](https://docs.google.com/spreadsheets/d/1UaHXt8WXNrsqpT_kFF9SOKaWKaJRWWEeEcEg8jWMh84/edit?usp=sharing) from the nearest Aerodrome swap events for accurate and unified calculation of impermanent loss for each position
 
 2025-09-30 Tue: started adding support of comparison of multiple wallets in analytics tool. Checking swap events to get information about cbBTC price to calculate accurate impermanent loss value.
 
