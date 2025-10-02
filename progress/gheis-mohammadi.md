@@ -15,11 +15,13 @@
 
 In Q3, I completed my entire plan and also delivered beyond my original commitments.
 
-- [EIP-2537](https://github.com/harmony-one/harmony/pull/4922): Fully implemented and merged.
-- [EIP-2935](https://github.com/harmony-one/harmony/pull/4938): Implementation finished, pending final team updates and code rebase before merge.
-- Stream Sync: Successfully deployed on devnet, proven stable, and now running on testnet — positioning us for mainnet launch in Q4.
+- [EIP-2537](https://eips.ethereum.org/EIPS/eip-2537): Fully implemented over 17k lines of code introducing BLS12-381 curve operations as native precompiles, enabling efficient on-chain BLS signature verification for consensus, threshold crypto, and zero-knowledge apps. The main challenge was handling highly complex math operations at the EVM level without performance regression. Updating to the latest spec mid-way forced careful refactoring, teaching the importance of modular design to adapt quickly to evolving cryptographic standards.
 
-In addition, I contributed several other PRs for bug fixings, improving error handling, p2p discovery, crosslink processing and syncing performance further accelerating overall progress.
+- [EIP-2935](https://eips.ethereum.org/EIPS/eip-2935): Added a new ring buffer system to extend block hash history by 32x, allowing applications to access much older block data than before. The main challenge was balancing efficient storage design with backward compatibility and ensuring the buffer is correctly populated at fork activation. This significantly improves functionalities by providing access to historical block states that were previously inaccessible. Its implementation finished, pending final team updates and code rebase before merge.
+
+- Stream Sync: Delivered major upgrades to the staged stream sync subsystem, improving block validation, peer management, and consensus comunications, last mile blocks and crosslinks across devnet and testnet. The main challenge was handling bad or missing data from peers without impacting reliable nodes, which required targeted error handling and better validation for precise fault isolation. It is successfully deployed on devnet, proven stable, and now running on testnet — positioning us for mainnet launch in Q4.
+
+In addition, I contributed multiple other PRs for bug fixes, error handling improvements, p2p discovery enhancements, and better crosslink processing and syncing performance. These changes, though smaller in scope, played an important role in improving overall stability and accelerating progress.
 
 ---
 
@@ -916,6 +918,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
