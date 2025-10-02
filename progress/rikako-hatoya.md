@@ -40,6 +40,10 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
+2025-10-01 Wed:
+
+2025-09-30 Tue: [Re-calculated](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=543416754#gid=543416754) returns using data from Philipp (cbBTC price from Binance API, total active hours). Wrote script to get price of cbBTC at the closest swap block after burn transaction.
+
 2025-09-29 Mon: [Worked](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=173868313#gid=173868313) on impermanent loss, fees, net profit, and returns calculation. Re-checking calculation for BTC price and returns.
 
 ---
