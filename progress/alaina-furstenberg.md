@@ -14,6 +14,12 @@ In Q4, I will continue maintaining a consistent publishing cadence across X, You
 
 ---
 
+2025-10-02 Fri: Filming & editing the protocol progress video, per Gheis's information. Update of the community section. Final review of the Q3 newsletter in prepartion for Saturday sendout.
+
+2025-10-01 Thu: Designing the thumbnail for the Q3 video. [Promoted TallyUp](https://x.com/harmonyprotocol/status/1973859562659983399), a new app launched from Fortune Validator. Reviewing Gheis's protocol highlights, writing a script for the weekly youtube short.
+
+2025-10-01 Wed: Editing of the Q3 youtube video, correcting all captions in Descript. Uploaded a private version to Youtube, and am reviewing captions with Theo. Wrote the introductory paragraph for the newsletter.
+
 2025-09-30 Tue: Continuation of newsletter + editing of the Q3 video, incoporating Stephen's portion. Uploading a DeFi short to Youtube. Reviewed Substack and Youtube metrics over Q3. Insights: 
 
 2025-09-29 Mon: Finalized September portion of the newsletter. Received Theo's Q3 video, began the editing and captioning process. 
