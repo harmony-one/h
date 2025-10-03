@@ -1,3 +1,11 @@
+2025-10-03 Fri: Reviewed updated final pricing for internal wallet, PnL still needs to be finalized. 
+
+2025-10-02 Thu: Completed [updated pricing](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?gid=239732596#gid=239732596). Insight: Mint action pricing taken at or nearest before block transaction, and Burn and Collect taken at or nearest after block transaction for most accurate pricing.
+
+2025-10-01 Wed: Initial XIRR calculations based on MINT, BURN cashflow. Shared [XIRR calculations](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) in team document.
+
+---
+
 Q3 Review (39.5h): Led and shipped the new [Harmony Governance](https://gov.harmony.one/#/explore) platfrom, which includes validator CLI voting, two default spaces (HIP with quorum; General) and a return to delegator alignment baed on validator vote. Owned Q3 planning and cadence for three team members. Iterated Accelerated Recovery Proposal with validators and community, collaborating to find single source of truth for recovery metrics. Created and simplified the Accelerated Recovery Proposal by leveraging the Validator Staking Initiative and removing the short‑term bonus to reduce complexity.
 
 Identified grid strategy, sourcing from Aaron's LP data from 05-01-2025 to 08-01-2025. Two paths stood out in cbBTC/USDC CL‑100: a single 100‑tick band or a simple multi‑band grid, each with clear trade‑offs—bands must snap to 100‑tick steps, out‑of‑range liquidity stops earning, and frequent moves add gas and impermanent‑loss risk, so precise execution is the main technical challenge. The data showed top results when providers either parked in the most active, incentivized 100‑tick around the mid or ran a compact grid of adjacent 100‑tick bands totaling about 10–15% coverage, timing claims with Slipstream cycles to steadily compound fees. The winning strategy is adaptive: use a five‑band ~1%‑each grid during choppy, high‑volume phases to keep capital in‑range and rotate the furthest band one step to the new side as price drifts; consolidate to a single 100‑tick when incentives and flow concentrate in one lane; widen coverage modestly when volatility rises; and always judge performance net of fees versus HODL at the same price snapshot.
@@ -8,6 +16,17 @@ Q4 Plan: Improve Harmony Governance post-release, explore features including opt
 
 ---
 
+2025-09-30 Tue: Team impermanent loss calculations, initial results show internal wallet losing to impermanent loss, but positive in XIRR (extended internal rate of return) showing the strategy may be winning over the course of the year.
+
+2025-09-29 Mon: Completed Q3 team reviews and [video update](https://www.youtube.com/watch?v=CIaO4L2ns18).
+
+---
+
+2025-09-28 Sun: (3.0h) Initial review of team progress and q4 outlook.
+
+2025-09-27 Sat: (2.0h) Reviewed current recovery options, accelerating recovery will inevitably require a source of liquidity, using the Validator Staking Initiative and allocating wallets a percentage ranging from 6% to 14.50% would be possible to complete recovery with a 1-year deadline. Unclaimed funds would then be distributed to the participating wallets, potentially increasing their initial recovered amounts.
+
+2025-09-26 Fri: Progress in accelerated recovery discussions. Insights: 42k wallets, pre-hack, held less than $1. Potential rates should be updated per tier.
 
 2025-09-25 Thu: New Harmony [Goverance](https://gov.harmony.one/#/explore) release. Team sync, coordination on cbbtc pricing source and finalized initial XIRR (extended internal rate of return) and APR. Insight: rest of team will conduct XIRR and APR calculations and converge tomorrow.
 
