@@ -1,3 +1,20 @@
+2025-10-03 Fri:
+
+For 3 days this week I focused on the new type task - cost check, found the room to save on unused items and shared my findings with management.
+
+Additionally, as an on-call engineer, I found the issue with trace RPC methods after `update to Berlin and London eth fork` in the testnet, rolled back version to stable, gathered information and shared it with Konstantin.
+
+And finally, I've ordered 15 TB NVMe disk for the Base Reth RPC to solve issue with running out of space.
+
+
+---
+
+2025-10-01 Wed - sick day
+
+2025-09-30 Tue - sick day
+
+---
+
 2025 Q4 plans:
 1. Review the current infrastructure and costs, because now I'm the only one in charge for this.
 2. Improve our observability stack - review and fix our current setup and add new metrics and tools.
