@@ -1,4 +1,4 @@
-2025-10-3 Fri (0.9h): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers.
+2025-10-3 Fri (1.6h+): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers.
 
 2025-10-2 Thu (0.3h): Verify re-collected data, fill in gaps. Research on latest vault development.
 
