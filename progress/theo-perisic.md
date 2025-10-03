@@ -1,4 +1,4 @@
-2025-10-03 Fri: Reviewed updated final pricing for internal wallet, PnL still needs to be finalized. 
+2025-10-03 Fri: Reviewed updated final pricing for internal wallet, PnL still needs to be finalized. Reviewed quarterly newsletter, sync with Alaina and feedback.
 
 2025-10-02 Thu: Completed [updated pricing](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?gid=239732596#gid=239732596). Insight: Mint action pricing taken at or nearest before block transaction, and Burn and Collect taken at or nearest after block transaction for most accurate pricing.
 
