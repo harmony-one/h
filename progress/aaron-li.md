@@ -1,3 +1,5 @@
+2025-10-2 Thu (0.2h+): Verify re-collected data, fill in gaps. Research on latest vault development.
+
 2025-10-1 Wed (2.4h): Fix token id traceability issues with ClaimRewards events in timeline tool. Investigate issues with ClaimRewards events with untraceable tokenIds.
 
 2025-9-30 Tue (5.0h): Investigate issues with ClaimRewards events with untraceable tokenIds. Verify timeline results on selected wallets. Swap fee calculation for backtesting session. Fix timeline revert issue on querying positions. Verify timeline results on selected wallets. Swap fee calculation for backtesting session. Timeline evaluation on key wallets. Implement timeline block-override mode. Allow IRR to aggregate flow per-day. Fix IRR bugs and debug IRR results.. Allow IRR to attribute position to minter, and calculate cashflow using constructed intervals instead of events.
