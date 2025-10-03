@@ -22,9 +22,9 @@ Testing of different approaches to identify the most effective strategy: Testing
 
 ---
 
-2025-09-25 Thu: Worked on adjusting the analytics script for cases when position opening/closing and swap operations occur within the same block — it’s necessary to take transaction index into account, and ensure that the swap event log index comes after the mint/burn/collect events.
+2025-10-02 Thu: Worked on adjusting the analytics script for cases when position opening/closing and swap operations occur within the same block — it’s necessary to take transaction index into account, and ensure that the swap event log index comes after the mint/burn/collect events.
 
-2025-09-24 Wed: Updated the analytics script with functionality to find and load the initial cbBTC price from the closest swap event to the mint event of position creation. Currently testing and comparing results with the team’s outputs.
+2025-10-01 Wed: Updated the analytics script with functionality to find and load the initial cbBTC price from the closest swap event to the mint event of position creation. Currently testing and comparing results with the team’s outputs.
 
 2025-09-30 Tue: Updated the script to include retrieval and calculation of the sbBTC price from the nearest swap event at the time of position closure. For IL calculation, I now apply the individual cbBTC price specific to each position at its closing moment. [Exported](https://docs.google.com/spreadsheets/d/1cpnS6IZDzsmK1Zh1bFJSPYsr8R-2tAHYVhucprJEjec/edit?usp=sharing) the results into a summary table for further analysis with team.
 
