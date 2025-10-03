@@ -40,7 +40,7 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
-2025-10-02 Thu: Examining the edge case of different swap transactions at same block number but different block index: Modified script to additionally output the block index for the actual action event (mint, burn, or collect) and the closest swap events. Currently script is not accurately getting the closest swap transactions down to the block index level just for 1 transaction, looking into debugging (data added to [Theo's spreadsheet](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?usp=sharing).
+2025-10-02 Thu: Examining the edge case of different swap transactions at same block number but different block index: Modified script to additionally output the block index for the actual action event (mint, burn, or collect) and the closest swap events. Fixed bug in script to accurately the closest swap transactions down to the block index level (data added to [Theo's spreadsheet](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?usp=sharing).
 
 2025-10-01 Wed: Combined everyone's cbBTC prices obtained using our newest method (mint: closest swap before, burn: closest swap after) and checked for deviations (spreadhsheet [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?usp=sharing)). My results were mostly the same with Artem and Theo except for 4 transactions, which came from different block index.
 
