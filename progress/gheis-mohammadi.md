@@ -1,3 +1,13 @@
+# 2025-10-4 Sat:
+
+Last week we finalized the **Q4 plan** and completed preparations for the upcoming release. I have already started working on preparing **stream sync for mainnet**, focusing on ensuring stability and performance. On the testnet side, we are investigating the last remaining issues before a full rollout. To get a cleaner foundation, we deployed a fresh dev branch across all devnet nodes after removing PR 4915, which had left the branch broken and messy. From here, we are monitoring stream sync closely and continuing to fine-tune performance.  
+
+We are also studying how to **integrate trusted nodes** into the list of connected peers. The goal is to make the selection mechanism **fair and somewhat randomized**, preventing overload on specific DNS nodes while still providing resilient and reliable sync paths.  
+
+Additionally, I investigated an issue with the **block insertion and block download manager**. It seems that in rare cases, a block stage might complete partially without raising an error. This results in errors where a stage attempts to fetch block details while the block is either incomplete, not downloaded properly, or possibly deleted before being accessed. The behavior points to either a race condition or an exceptional corner case that still needs deeper debugging and validation.  
+
+---
+
 🦂 Q4 2025 Plan
 
 * **Stream Sync Mainnet Rollout:** Launch stream sync on mainnet with server enabled by default and client configurable. The rollout will be fully backward compatible and require no hardfork.
