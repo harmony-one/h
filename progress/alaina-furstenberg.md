@@ -14,6 +14,10 @@ In Q4, I will continue maintaining a consistent publishing cadence across X, You
 
 ---
 
+2025-10-04 Sun: Reading yieldbasis docs. Insight:
+
+2025-10-03 Sat: Tweeting the protocol short.
+
 2025-10-02 Fri: Filming & editing the [protocol progress video](https://youtube.com/shorts/t9nwS1GlHEA?si=3GcvIv755A1SM0a6), per Gheis's information. Update of the community section plus sharing on X. Sent out [Q3 newsletter](https://open.substack.com/pub/harmonyone/p/q3-2025-london-and-berlin-forks-stream), published 4 [youtube videos](https://youtu.be/-N4fGamSQVY) of quarterly progress.
 
 2025-10-01 Thu: Designing the thumbnail for the Q3 video. [Promoted TallyUp](https://x.com/harmonyprotocol/status/1973859562659983399), a new app launched from Fortune Validator. Reviewing Gheis's protocol highlights, writing a script for the weekly youtube short.
