@@ -40,6 +40,10 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
+2025-10-04 Sat (1.0h): Looked into Li's calculation with XIRR and impermanent loss.
+
+2025-10-03 Fri: Recalculation of PnL in cycles using HODL, LP, and with the new capital. Looking into discrepancy with Theo's calculation.
+
 2025-10-02 Thu: Examining the edge case of different swap transactions at same block number but different block index: Modified script to additionally output the block index for the actual action event (mint, burn, or collect) and the closest swap events. Fixed bug in script to accurately the closest swap transactions down to the block index level (data added to [Theo's spreadsheet](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?usp=sharing).
 
 2025-10-01 Wed: Combined everyone's cbBTC prices obtained using our newest method (mint: closest swap before, burn: closest swap after) and checked for deviations (spreadhsheet [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?usp=sharing)). My results were mostly the same with Artem and Theo except for 4 transactions, which came from different block index.
