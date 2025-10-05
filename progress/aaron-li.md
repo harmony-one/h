@@ -1,4 +1,4 @@
-2025-10-4 Sat (0.1h+): Optimize cloud cost.
+2025-10-4 Sat (0.7h): Optimize cloud cost.
 
 2025-10-3 Fri (2.7h): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers.
 
