@@ -1,3 +1,10 @@
+2025-10-03 Fri:
+This week, we identified an issue in the RPC module that blocked further testing of the 1.10 release on mainnet. The node was crashing with the error fatal error: exitsyscall: syscall frame is no longer valid.
+After investigation, I found the problem was likely related to incorrect usage of Mutex. Running the race detector confirmed several data races.
+Initially, I attempted a quick fix by adding mutex protection, but it introduced a reentrant lock issue, so I had to significantly rewrite the affected logic. The updated implementation was then tested on both devnet and a mainnet node, and after testing we confirmed that the issue no longer occurs. 
+
+---
+
 Q4 plans:
 1) Launch release with transient storage (EIP-1153) on mainnet.
 2) Improve metrics coverage for the block proposing process, including more precise block proposal timings under 1-second finality.
@@ -6,9 +13,9 @@ Q4 plans:
 
 2025 Q3 Review:
 During Q3, I tested the London and Berlin fork release compatibility. The release passed validation on devnet and testnet and was partially deployed on mainnet.
-    It introduced more than 15k lines of code changes and revised EVM internals by replacing big.Int with the more efficient uint256.Int to align with Ethereum’s implementation, updating Harmony smart contracts to match EVM rules, adding the BASEFEE opcode, and adjusting gas computation for several built-in functions.
+It introduced more than 15k lines of code changes and revised EVM internals by replacing big.Int with the more efficient uint256.Int to align with Ethereum’s implementation, updating Harmony smart contracts to match EVM rules, adding the BASEFEE opcode, and adjusting gas computation for several built-in functions.
 I also implemented transient storage (EIP-1153) and confirmed its execution on devnet.
-    This feature requires additional modifications introduced in the 1.11 fork (Shanghai), including a writable data location with transaction-scoped lifetime, load and save functions integrated into the state transition, and dedicated opcodes supporting transient semantics. 
+This feature requires additional modifications introduced in the 1.11 fork (Shanghai), including a writable data location with transaction-scoped lifetime, load and save functions integrated into the state transition, and dedicated opcodes supporting transient semantics. 
 
 ---
 
