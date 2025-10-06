@@ -1,3 +1,21 @@
+2025-10-06 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/513275b73049d6572c2dcb4fd5a0217566de5c70) calculation of XIRR metric in per-transaction stats endpoint; started detailed research on Yield basis and crvUSD token architecture
+
+---
+
+2025-10-05 Sun (3.0h): [improved](https://github.com/harmony-one/portfolio-manager/commit/61b42bcee11942e554d3a8f290d730907b4c4c99) script to calculate using archival node RPC; resulted performance for LP bot wallet address from block 35102089 to 35867540: -2.99 USD with constant BTC price = 112000 (for simplicity).
+
+2025-10-03 Fri: research of [Yield Basis](https://yieldbasis.com/markets) protocol, shared report with the team; finilized method for per-transaction returns verification
+
+2025-10-02 Thu: [debugging and verifying](https://github.com/harmony-one/portfolio-manager/pull/48/commits/0eb203d538d514484db66625d11e267045860809) logIndex values in swap transactions to get closest possible cbBTC price for accurate calculation of impermanent loss; compared results with team numbers, all matched
+
+2025-10-01 Wed: implemented method to get [cbBTC prices](https://docs.google.com/spreadsheets/d/1UaHXt8WXNrsqpT_kFF9SOKaWKaJRWWEeEcEg8jWMh84/edit?usp=sharing) from the nearest Aerodrome swap events for accurate and unified calculation of impermanent loss for each position
+
+2025-09-30 Tue: started adding support of comparison of multiple wallets in analytics tool. Checking swap events to get information about cbBTC price to calculate accurate impermanent loss value.
+
+2025-09-29 Mon: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/37fb232f569dce6055432cd435411845d9fae003) calculation of per-transaction impermanent loss using historical cbBTC prices for our LP bot wallet; synced with team on results using constant BTC price
+
+---
+
 2025 Q3 Review (34.0h)
 
 [Liquidity Provision bot](https://github.com/harmony-one/portfolio-manager)
@@ -15,18 +33,6 @@ Grid positions system, described in [this document](https://docs.google.com/docu
 In Q4, I'll finalize tools to verify LP bot returns via blockchain events, calculating metrics like raw token returns, total returns in USD, impermanent loss (IL), and APR. Will identify the most profitable wallets, based on the list of most active wallets in Aerodrome liquidity provision (LP). Using on our bot's wallet data, I'll optimize its logic to achieve a consistent 30% APR across various market conditions. Additionally, I'll implement a copy-trading bot to replicate the actions of top wallets in real-time.
 
 To further enhance strategy, I'll analyse hedging costs in our original implementation, considering market state (stable or volatile market). Delta gaps can be addressed by implementing monitoring thresholds to detect and correct deviations in hedge ratios caused by volatility spikes (dynamic hedge instead of constant hedge position appoach in our original implementation). After both LP and hedge parts will be fully tested, I'll implement and deployment across multiple cloud providers (fly.io and AWS backup), and alering via Telegram.
-
----
-
-2025-10-03 Fri: research of [Yield Basis](https://yieldbasis.com/markets) protocol, shared report with the team; finilized method for per-transaction returns verification
-
-2025-10-02 Thu: [debugging and verifying](https://github.com/harmony-one/portfolio-manager/pull/48/commits/0eb203d538d514484db66625d11e267045860809) logIndex values in swap transactions to get closest possible cbBTC price for accurate calculation of impermanent loss; compared results with team numbers, all matched
-
-2025-10-01 Wed: implemented method to get [cbBTC prices](https://docs.google.com/spreadsheets/d/1UaHXt8WXNrsqpT_kFF9SOKaWKaJRWWEeEcEg8jWMh84/edit?usp=sharing) from the nearest Aerodrome swap events for accurate and unified calculation of impermanent loss for each position
-
-2025-09-30 Tue: started adding support of comparison of multiple wallets in analytics tool. Checking swap events to get information about cbBTC price to calculate accurate impermanent loss value.
-
-2025-09-29 Mon: [implemented](https://github.com/harmony-one/portfolio-manager/pull/48/commits/37fb232f569dce6055432cd435411845d9fae003) calculation of per-transaction impermanent loss using historical cbBTC prices for our LP bot wallet; synced with team on results using constant BTC price
 
 ---
 
