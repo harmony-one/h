@@ -1,4 +1,4 @@
-2025-10-6 Mon (2.7h+): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers. Fix bugs on handling missing blockTimestamps.
+2025-10-6 Mon (2.7h): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers. Fix bugs on handling missing blockTimestamps.
 
 ---
 
