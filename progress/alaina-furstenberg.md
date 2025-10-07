@@ -1,3 +1,19 @@
+2025-10-05 Mon: [Thread](https://x.com/harmonyprotocol/status/1975393699598352716) on Q3 article. Continued reading of yieldbasis documents. Insight: YieldBasis turns BTC deposits into self-balancing, 2× leveraged positions that earn yield while moving in sync with BTC’s price. Its circular design recycles interest and fees to keep leverage stable and reward both active stakers and passive holders.
+
+---
+
+2025-10-04 Sun: Reading yieldbasis docs. Insight: YieldBasis automatically maintains a 2× leveraged BTC position by pairing user BTC with borrowed crvUSD, so deposits earn trading fees while tracking BTC’s price without impermanent loss. All interest and fees are recycled within the system, funding rebalancing and rewarding both liquidity providers and stakers for sustainability.
+
+2025-10-03 Sat: [Tweeting](https://x.com/harmonyprotocol/status/1974576760663822445) the protocol short.
+
+2025-10-02 Fri: Filming & editing the [protocol progress video](https://youtube.com/shorts/t9nwS1GlHEA?si=3GcvIv755A1SM0a6), per Gheis's information. Update of the community section plus sharing on X. Sent out [Q3 newsletter](https://open.substack.com/pub/harmonyone/p/q3-2025-london-and-berlin-forks-stream), published 4 [youtube videos](https://youtu.be/-N4fGamSQVY) of quarterly progress. Designed thumbnails in Nippon animation style.
+
+2025-10-01 Thu: Designing the thumbnail for the Q3 video. [Promoted TallyUp](https://x.com/harmonyprotocol/status/1973859562659983399), a new app launched from Fortune Validator. Reviewing Gheis's protocol highlights, writing a script for the weekly youtube short.
+
+2025-10-01 Wed: Editing of the Q3 youtube video, correcting all captions in Descript. Uploaded a private version to Youtube, and am reviewing captions with Theo. Wrote the introductory paragraph for the newsletter.
+
+---
+
 2025 Q3 Review (38 hours)
 
 This quarter, I focused on consistent marketing, publishing weekly Twitter threads, progress shorts, and monthly Substack newsletters. I designed announcement assets, recap videos, and community updates, while coordinating co-marketing campaigns with Travala, CryptoLand_DAO, AthleteFi, FlappyH1, and validators. I expanded our research-driven content by distilling DeFi insights from academic papers and industry blogs into accessible threads, covering topics like asymmetric hedge ratios, delta-neutral LPs, dynamic hedging, futures-based ETFs, and reinforcement learning for liquidity management. I also scripted and produced shorts from Stephen and Aaron’s DeFi voice memos, finalized the July, August, and September newsletters, and packaged team milestones into recap materials.
@@ -13,16 +29,6 @@ Q4 Goals
 In Q4, I will continue maintaining a consistent publishing cadence across X, YouTube, and Substack while deepening my understanding of DeFi strategies through ongoing research. I will test new products as they launch and create demos that showcase their impact to the community in clear and engaging ways.
 
 ---
-
-2025-10-04 Sun: Reading yieldbasis docs. Insight:
-
-2025-10-03 Sat: Tweeting the protocol short.
-
-2025-10-02 Fri: Filming & editing the [protocol progress video](https://youtube.com/shorts/t9nwS1GlHEA?si=3GcvIv755A1SM0a6), per Gheis's information. Update of the community section plus sharing on X. Sent out [Q3 newsletter](https://open.substack.com/pub/harmonyone/p/q3-2025-london-and-berlin-forks-stream), published 4 [youtube videos](https://youtu.be/-N4fGamSQVY) of quarterly progress.
-
-2025-10-01 Thu: Designing the thumbnail for the Q3 video. [Promoted TallyUp](https://x.com/harmonyprotocol/status/1973859562659983399), a new app launched from Fortune Validator. Reviewing Gheis's protocol highlights, writing a script for the weekly youtube short.
-
-2025-10-01 Wed: Editing of the Q3 youtube video, correcting all captions in Descript. Uploaded a private version to Youtube, and am reviewing captions with Theo. Wrote the introductory paragraph for the newsletter.
 
 2025-09-30 Tue: Continuation of newsletter + editing of the Q3 video, incoporating Stephen's portion. Uploading a DeFi short to Youtube. Reviewed Substack and Youtube metrics over Q3. Insights: 
 
