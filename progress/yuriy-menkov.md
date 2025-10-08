@@ -22,9 +22,9 @@ Testing of different approaches to identify the most effective strategy: Testing
 
 ---
 
-2025-09-07 Tue: Studied four XIRR calculation methods from Rika and performed calculations using methods 1 and 3 based on data from Artem’s bot wallet — the results matched up to the tenth decimal place.
+2025-10-07 Tue: Studied four XIRR calculation methods from Rika and performed calculations using methods 1 and 3 based on data from Artem’s bot wallet — the results matched up to the tenth decimal place.
 
-2025-09-06 Mon: Reviewed Li’s XIRR and HODL calculation and explored different approaches to measuring returns, including methods that account for impermanent loss. Recalculated XIRR using Artem’s approach. Integration of new calculation methods into aerodrome service scripts.
+2025-10-06 Mon: Reviewed Li’s XIRR and HODL calculation and explored different approaches to measuring returns, including methods that account for impermanent loss. Recalculated XIRR using Artem’s approach. Integration of new calculation methods into aerodrome service scripts.
 
 ---
 
