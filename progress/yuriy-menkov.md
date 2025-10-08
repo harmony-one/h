@@ -22,6 +22,14 @@ Testing of different approaches to identify the most effective strategy: Testing
 
 ---
 
+2025-09-07 Tue: Studied four XIRR calculation methods from Rika and performed calculations using methods 1 and 3 based on data from Artem’s bot wallet — the results matched up to the tenth decimal place.
+
+2025-09-06 Mon: Reviewed Li’s XIRR and HODL calculation and explored different approaches to measuring returns, including methods that account for impermanent loss. Recalculated XIRR using Artem’s approach. Integration of new calculation methods into aerodrome service scripts.
+
+---
+
+2025-10-03 Fri: Began reviewing materials on yield basis. Revisited XIRR calculations using the HODL approach. Recomputed PnL across cycles for HODL, LP, and new capital scenarios. Сompared to Theo’s results.
+
 2025-10-02 Thu: Worked on adjusting the analytics script for cases when position opening/closing and swap operations occur within the same block — it’s necessary to take transaction index into account, and ensure that the swap event log index comes after the mint/burn/collect events.
 
 2025-10-01 Wed: Updated the analytics script with functionality to find and load the initial cbBTC price from the closest swap event to the mint event of position creation. Currently testing and comparing results with the team’s outputs.
