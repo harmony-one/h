@@ -40,6 +40,8 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 
 ---
 
+2025-10-07 Tue: Write-up and comparison of 4 different XIRR calculations come across the team and verifying numbers with Artem's bot. More look into yield basis.
+
 2025-10-06 Mon: Checked Li's XIRR_hodl calculation and reseraching of how to check XIRR or the best method to calculate returns metrics including impermanent loss, recalculated XIRR using Artem's method of including IL as inflow. More reserach into yield basis.
 
 ---
