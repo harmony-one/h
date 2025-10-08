@@ -1,3 +1,5 @@
+2025-10-07 Tue: finalized XIRR metrics calculation with the team; prepared new report with YieldBasis details: how it works, source of profit, BTC exposure, debt rebalancing, risks
+
 2025-10-06 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/513275b73049d6572c2dcb4fd5a0217566de5c70) calculation of XIRR metric in per-transaction stats endpoint; started detailed research on Yield basis and crvUSD token architecture
 
 ---
