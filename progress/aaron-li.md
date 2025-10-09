@@ -1,3 +1,5 @@
+2025-10-9 Thu (0.5h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
+
 2025-10-8 Wed (3.9h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
 
 2025-10-7 Tue (1.7h): Review automated vaults that prevents impermanent loss, and dynamic liquidity market makers. Systematically analyze timeline outputs and review AI analysis.
