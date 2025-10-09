@@ -1,3 +1,27 @@
+2025-10-08 Wed: Went over Theo's "true hodl" XIRR calculation with the team, [modified calculation](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=621234748#gid=621234748) and rewrote the documentation [here (check 10/08 entry)](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) (result: XIRR=7.45%). Downloading of Aaron's updated database to get returns data and checking through Artem's yield basis overall performance calculation.
+
+2025-10-07 Tue: Write-up and comparison of 4 different XIRR calculations come across the team and verifying numbers with Artem's bot. More look into yield basis.
+
+2025-10-06 Mon: Checked Li's XIRR_hodl calculation and reseraching of how to check XIRR or the best method to calculate returns metrics including impermanent loss, recalculated XIRR using Artem's method of including IL as inflow. More reserach into yield basis.
+
+---
+
+2025-10-05 Sun (1.5h): Started looking into documents on yield basis. Also checked calculations for XIRR with hodl again.
+
+2025-10-04 Sat (1.0h): Looked into Li's calculation with XIRR and impermanent loss.
+
+2025-10-03 Fri: Recalculation of PnL in cycles using HODL, LP, and with the new capital. Looking into discrepancy with Theo's calculation.
+
+2025-10-02 Thu: Examining the edge case of different swap transactions at same block number but different block index: Modified script to additionally output the block index for the actual action event (mint, burn, or collect) and the closest swap events. Fixed bug in script to accurately the closest swap transactions down to the block index level (data added to [Theo's spreadsheet](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?usp=sharing).
+
+2025-10-01 Wed: Combined everyone's cbBTC prices obtained using our newest method (mint: closest swap before, burn: closest swap after) and checked for deviations (spreadhsheet [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?usp=sharing)). My results were mostly the same with Artem and Theo except for 4 transactions, which came from different block index.
+
+2025-09-30 Tue: [Re-calculated](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=543416754#gid=543416754) returns using data from Philipp (cbBTC price from Binance API, total active hours). Wrote script to get price of cbBTC at the closest swap block after burn transaction and added output [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?gid=1569187273#gid=1569187273).
+
+2025-09-29 Mon: [Worked](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=173868313#gid=173868313) on impermanent loss, fees, net profit, and returns calculation. Re-checking calculation for BTC price and returns.
+
+---
+
 ### **2025 Q4 Goals (Draft)**
 
 In Q4, I will continue contributing to our liquidity provisioning strategy project by helping establish baseline wallets that enable the team to fully verify transaction-level return reconstructions. My focus will be on cross-verifying results across multiple sources (archival nodes, subgraphs, Dune) and producing output files that serve as a reliable ground truth, ensuring strategies and data are both transparent and replicable.
@@ -37,30 +61,6 @@ Finally, I focused on per-wallet transaction data aggregation. I ran backtesting
 - [Hedging strategy simulations](https://github.com/rikaa15/portfolio-manager/tree/hedging/src/simulation)  
 - [Dune transaction data aggregation query](https://dune.com/queries/5831757)  
 - [Per-wallet data folder (Google Drive)](https://drive.google.com/drive/u/1/folders/1xurkiK7i5MUFLLytvZG1fDld27pIKgK0)  
-
----
-
-2025-10-08 Wed: Went over Theo's "true hodl" XIRR calculation with the team, [modified calculation](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=621234748#gid=621234748) and rewrote the documentation [here (check 10/08 entry)](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) (result: XIRR=7.45%). Downloading of Aaron's updated database to get returns data and checking through Artem's yield basis overall performance calculation.
-
-2025-10-07 Tue: Write-up and comparison of 4 different XIRR calculations come across the team and verifying numbers with Artem's bot. More look into yield basis.
-
-2025-10-06 Mon: Checked Li's XIRR_hodl calculation and reseraching of how to check XIRR or the best method to calculate returns metrics including impermanent loss, recalculated XIRR using Artem's method of including IL as inflow. More reserach into yield basis.
-
----
-
-2025-10-05 Sun (1.5h): Started looking into documents on yield basis. Also checked calculations for XIRR with hodl again.
-
-2025-10-04 Sat (1.0h): Looked into Li's calculation with XIRR and impermanent loss.
-
-2025-10-03 Fri: Recalculation of PnL in cycles using HODL, LP, and with the new capital. Looking into discrepancy with Theo's calculation.
-
-2025-10-02 Thu: Examining the edge case of different swap transactions at same block number but different block index: Modified script to additionally output the block index for the actual action event (mint, burn, or collect) and the closest swap events. Fixed bug in script to accurately the closest swap transactions down to the block index level (data added to [Theo's spreadsheet](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?usp=sharing).
-
-2025-10-01 Wed: Combined everyone's cbBTC prices obtained using our newest method (mint: closest swap before, burn: closest swap after) and checked for deviations (spreadhsheet [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?usp=sharing)). My results were mostly the same with Artem and Theo except for 4 transactions, which came from different block index.
-
-2025-09-30 Tue: [Re-calculated](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=543416754#gid=543416754) returns using data from Philipp (cbBTC price from Binance API, total active hours). Wrote script to get price of cbBTC at the closest swap block after burn transaction and added output [here](https://docs.google.com/spreadsheets/d/12TKTVpuZymmYUc7BVuAmUNIAEzVVKWIzo-713hASzxU/edit?gid=1569187273#gid=1569187273).
-
-2025-09-29 Mon: [Worked](https://docs.google.com/spreadsheets/d/1cAvk6cwymqR0ihy_WwQhtMflAUaf3g7FktwP4jilRZ0/edit?gid=173868313#gid=173868313) on impermanent loss, fees, net profit, and returns calculation. Re-checking calculation for BTC price and returns.
 
 ---
 
