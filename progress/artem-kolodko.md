@@ -1,4 +1,6 @@
-2025-10-07 Tue: finalized XIRR metrics calculation with the team; prepared new report with YieldBasis details: how it works, source of profit, BTC exposure, debt rebalancing, risks
+2025-10-08 Wed: researched YieldBasis [market smart contract](https://docs.yieldbasis.com/dev/overview), calculated APR = 8.51% using [on-chain data](https://github.com/harmony-one/portfolio-manager/commit/b7299c0a903a2e07391db4873507d576ee0fcc10). Checked Rika's calculations for XIRR using different methods.
+
+finalized XIRR metrics calculation with the team; prepared new report with YieldBasis details: how it works, source of profit, BTC exposure, debt rebalancing, risks
 
 2025-10-06 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/513275b73049d6572c2dcb4fd5a0217566de5c70) calculation of XIRR metric in per-transaction stats endpoint; started detailed research on Yield basis and crvUSD token architecture
 
