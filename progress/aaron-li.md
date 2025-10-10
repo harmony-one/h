@@ -1,4 +1,4 @@
-2025-10-10 Fri (0.8h+): Review pricing and XIRR methodologies.
+2025-10-10 Fri (1.8h+): Review pricing and XIRR methodologies.
 
 2025-10-9 Thu (0.5h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
 
