@@ -1,4 +1,4 @@
-2025-10-03 Fri:
+2025-10-10 Fri:
 
 As an on-call engineer, I was digging an issue with trace RPC methods for `update to Berlin and London eth fork` in the testnet together with Konstantin, tried to use build with race detection, checked how this was fixed in the geth repo. Geth switched to another solution for the javascript engine - [goja](https://github.com/dop251/goja).
 
