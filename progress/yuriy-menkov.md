@@ -1,3 +1,21 @@
+2025-10-09 Thu: Implemented the new calculation formulas (impermanent loss, xirr, hodl) into the aerodrome monitoring service. Generated an updated position export reflecting the revised algorithms. Started researching stats by top 2 wallets.
+
+2025-10-08 Wed: A deeper review with the team on the correct methods for calculating XIRR and HODL using new algorithms. Updated logic for searching open and close btc price in aerodrome monitoring service based on btc price by swaps history (still working on small interval).
+
+2025-10-07 Tue: Studied four XIRR calculation methods from Rika and performed calculations using methods 1 and 3 based on data from Artem’s bot wallet — the results matched up to the tenth decimal place.
+
+2025-10-06 Mon: Reviewed Li’s XIRR and HODL calculation and explored different approaches to measuring returns, including methods that account for impermanent loss. Recalculated XIRR using Artem’s approach. Integration of new calculation methods into aerodrome service scripts.
+
+---
+
+2025-10-03 Fri: Began reviewing materials on yield basis. Revisited XIRR calculations using the HODL approach. Recomputed PnL across cycles for HODL, LP, and new capital scenarios. Сompared to Theo’s results.
+
+2025-10-02 Thu: Worked on adjusting the analytics script for cases when position opening/closing and swap operations occur within the same block — it’s necessary to take transaction index into account, and ensure that the swap event log index comes after the mint/burn/collect events.
+
+2025-10-01 Wed: Updated the analytics script with functionality to find and load the initial cbBTC price from the closest swap event to the mint event of position creation. Currently testing and comparing results with the team’s outputs.
+
+---
+
 2025 Q4 planning
 
 Continue development of analytics scripts for precise calculation of IL, profit, IRR, and optimal strategy search. Testing through running multiple bots, collecting statistics, as well as using historical data and simulations.
@@ -21,18 +39,6 @@ Testing of different approaches to identify the most effective strategy: Testing
 [Migration](https://github.com/harmony-one/sx-monorepo) and launch of Snapshot X on [Harmony](https://gov.harmony.one/): deployed contracts, refined and launched the API service, updated and adapted the UI along with related libraries. The project also gained new features — including a validators-only whitelist strategy, a two-stage voting system with an off-chain second phase, integration with the staking dashboard, customizable quorum rules, and more.
 
 ---
-
-2025-10-07 Tue: Studied four XIRR calculation methods from Rika and performed calculations using methods 1 and 3 based on data from Artem’s bot wallet — the results matched up to the tenth decimal place.
-
-2025-10-06 Mon: Reviewed Li’s XIRR and HODL calculation and explored different approaches to measuring returns, including methods that account for impermanent loss. Recalculated XIRR using Artem’s approach. Integration of new calculation methods into aerodrome service scripts.
-
----
-
-2025-10-03 Fri: Began reviewing materials on yield basis. Revisited XIRR calculations using the HODL approach. Recomputed PnL across cycles for HODL, LP, and new capital scenarios. Сompared to Theo’s results.
-
-2025-10-02 Thu: Worked on adjusting the analytics script for cases when position opening/closing and swap operations occur within the same block — it’s necessary to take transaction index into account, and ensure that the swap event log index comes after the mint/burn/collect events.
-
-2025-10-01 Wed: Updated the analytics script with functionality to find and load the initial cbBTC price from the closest swap event to the mint event of position creation. Currently testing and comparing results with the team’s outputs.
 
 2025-09-30 Tue: Updated the script to include retrieval and calculation of the sbBTC price from the nearest swap event at the time of position closure. For IL calculation, I now apply the individual cbBTC price specific to each position at its closing moment. [Exported](https://docs.google.com/spreadsheets/d/1cpnS6IZDzsmK1Zh1bFJSPYsr8R-2tAHYVhucprJEjec/edit?usp=sharing) the results into a summary table for further analysis with team.
 
