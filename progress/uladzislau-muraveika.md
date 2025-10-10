@@ -1,11 +1,51 @@
 2025-10-03 Fri:
 
+As an on-call engineer, I was digging an issue with trace RPC methods for `update to Berlin and London eth fork` in the testnet together with Konstantin, tried to use build with race detection, checked how this was fixed in the geth repo. Geth switched to another solution for the javascript engine - [goja](https://github.com/dop251/goja).
+
+Additionally, I've shared my feedback about testnet RPC nodes with enabled stream sync to the Gheis - time to time is going far away behind the network.
+
+Speaking about the systems engineering part, issues with trace RPC methods have given a good insight about our log aggregation infra - we aren't collecting the crash logs, because they are going to the stderr and syslog by default. So I've created a user story to fix this and started to work on it. You can see my solution on the mermaid diagram below:
+
+```mermaid
+graph  TD
+    A["Harmony Golang App"] --> B["Log File(crashes.log)"]
+    B --> C["Promtail(multiline + regex parser)"]
+    C --> D["Loki(central log storage)"]
+    D --> E["Grafana(dashboards and log visualization)"]
+    D --> F["Alertmanager(alerts and notifications)"]
+    G["Logrotate config"] --> B
+
+    subgraph "Systemd service"
+        A
+        B
+        G
+    end
+
+    subgraph "Observability Stack"
+        C
+        D
+        E
+        F
+    end
+
+    style A fill:#8ac8ff
+    style B fill:#d9edff
+    style C fill:#ffd580
+    style D fill:#ffeaa7
+    style E fill:#c3f0ca
+    style F fill:#f4cccc
+
+```
+
+---
+
+2025-10-03 Fri:
+
 For 3 days this week I focused on the new type task - cost check, found the room to save on unused items and shared my findings with management.
 
-Additionally, as an on-call engineer, I found the issue with trace RPC methods after `update to Berlin and London eth fork` in the testnet, rolled back version to stable, gathered information and shared it with Konstantin.
+Additionally, as an on-call engineer, I found the issue with trace RPC methods for `update to Berlin and London eth fork` in the testnet, rolled back version to stable, gathered information and shared it with Konstantin.
 
 And finally, I've ordered 15 TB NVMe disk for the Base Reth RPC to solve issue with running out of space.
-
 
 ---
 
