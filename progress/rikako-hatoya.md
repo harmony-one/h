@@ -1,3 +1,7 @@
+2025-10-10 Fri: Working on running new date range from Aaron's database (lp-backtest). Debugging some issues with RPC.
+
+2025-10-09 Thu: Reviewed Theo's true hodl calculation write-up, I believe mostly same as my replica except the "withdrawn" method. Reviewing my method to slightly modify the new capital token ratio.
+
 2025-10-08 Wed: Went over Theo's "true hodl" XIRR calculation with the team, [modified calculation](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=621234748#gid=621234748) and rewrote the documentation [here (check 10/08 entry)](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) (result: XIRR=7.45%). Downloading of Aaron's updated database to get returns data and checking through Artem's yield basis overall performance calculation.
 
 2025-10-07 Tue: Write-up and comparison of 4 different XIRR calculations come across the team and verifying numbers with Artem's bot. More look into yield basis.
