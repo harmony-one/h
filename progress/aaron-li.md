@@ -1,6 +1,8 @@
+2025-10-11 Sat (0.9h+): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
+
 2025-10-10 Fri (2.5h): Review pricing and XIRR methodologies. Discussion on data and next steps.
 
-2025-10-9 Thu (0.5h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
+2025-10-9 Thu (3.0h): Discuss hedge cost, copy strategies, and next steps of data analysis and trading strategies. Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
 
 2025-10-8 Wed (3.9h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
 
