@@ -1,3 +1,10 @@
+2025-10-10 Fri:
+This week I continued testing the 1.10 release, but encountered a critical crash in the Duktape library during a syscall.
+I found that Duktape is an outdated JS engine that has been archived since 2021 and no longer maintained.
+Harmony’s tracing subsystem heavily depends on it, so instead of patching Duktape, I started refactoring the affected components to use the goja JavaScript engine instead, which is used by go-ethereum.
+
+---
+
 2025-10-03 Fri:
 This week, we identified an issue in the RPC module that blocked further testing of the 1.10 release on mainnet. The node was crashing with the error fatal error: exitsyscall: syscall frame is no longer valid.
 After investigation, I found the problem was likely related to incorrect usage of Mutex. Running the race detector confirmed several data races.
