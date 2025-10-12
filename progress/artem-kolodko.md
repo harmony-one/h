@@ -1,3 +1,7 @@
+2025-10-10 Fri: identified main reasons for some underperformance of certain positions, mainly related to market volatility (position become out of range faster that earned any fees); started research on adding staking support to wallet performance script
+
+2025-10-09 Thu: [updated](https://github.com/harmony-one/portfolio-manager/commit/b49b42a701dcb38297a1f3943fd3819d6ba14626) script to calculate pure cbBTC and USDC balance at specific block from LP and wallet; updated YieldBasis data fetching script
+
 2025-10-08 Wed: researched YieldBasis [market smart contract](https://docs.yieldbasis.com/dev/overview), calculated APR = 8.51% using [on-chain data](https://github.com/harmony-one/portfolio-manager/commit/b7299c0a903a2e07391db4873507d576ee0fcc10). Checked Rika's calculations for XIRR using different methods.
 
 finalized XIRR metrics calculation with the team; prepared new report with YieldBasis details: how it works, source of profit, BTC exposure, debt rebalancing, risks
