@@ -1,4 +1,4 @@
-2025-10-13 Mon (1.5h): Balance and position tracking in backtesting, API integration, testing.
+2025-10-13 Mon (2.2h+): Balance and position tracking in backtesting, API integration, testing.
 
 ---
 
