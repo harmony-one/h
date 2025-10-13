@@ -1,4 +1,22 @@
-2025-10-05 Mon: [Thread](https://x.com/harmonyprotocol/status/1975393699598352716) on Q3 article. Continued reading of yieldbasis documents. Insight: YieldBasis turns BTC deposits into self-balancing, 2× leveraged positions that earn yield while moving in sync with BTC’s price. Its circular design recycles interest and fees to keep leverage stable and reward both active stakers and passive holders.
+2025-10-14 Tue: Sync with the Travala team on Q4 co-marketing. Insights and action items: . Posting of the DeFi short from Theo on gov.harmony.one + tweet on gov.harmony.one.
+
+2025-10-13 Mon: Colombus Day Federal Holiday
+
+---
+
+2025-10-12 Sun: Review of Travala's Q4 plans in preparation for our call.
+
+2025-10-11 Sat: Review of team's /p.
+
+2025-10-10 Fri: Filming and editing of the [weekly progress video](https://youtube.com/shorts/ZJUFECCAqHQ?si=OykSrkF90Hl0gmmw), per Stephen and Aaron's. Read AthleteFi's monthly recap and wrote a [thread](https://x.com/harmonyprotocol/status/1976768872687845515) recapping their progress. Update of the [community section](harmony.one).
+
+2025-10-09 Thu: Continued reading of yieldbasis docs. Insight: The protocol’s borrow interest and trading fees never leave the ecosystem but are redirected into rewards and maintenance. This circular flow ensures consistent liquidity incentives and long-term protocol health.
+
+2025-10-08 Wed: Continued reading of yieldbasis docs. Insight: YieldBasis uses a built-in rebalancing system that constantly adjusts debt and collateral to stay at 50 percent each, giving users smooth BTC price exposure. This structure keeps performance aligned with BTC’s movements while avoiding liquidation or impermanent loss.
+
+2025-10-07 Tue: Creation of shorts from the Q3 video in Descript, posted a [short](https://youtube.com/shorts/DdYIfXqaz30?si=gDQzAo1PWU5KrqKj) from Stephen's segment about our LP Bots in production.
+
+2025-10-06 Mon: [Thread](https://x.com/harmonyprotocol/status/1975393699598352716) on Q3 article. Continued reading of yieldbasis documents. Insight: YieldBasis turns BTC deposits into self-balancing, 2× leveraged positions that earn yield while moving in sync with BTC’s price. Its circular design recycles interest and fees to keep leverage stable and reward both active stakers and passive holders.
 
 ---
 
