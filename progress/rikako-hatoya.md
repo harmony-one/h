@@ -1,3 +1,5 @@
+2025-10-11 Sat: Look into more IRR calculation and how to reduce spike sensitivity. 
+
 2025-10-10 Fri: Working on running new date range from Aaron's database (lp-backtest). Debugging some issues with RPC.
 
 2025-10-09 Thu: Reviewed Theo's true hodl calculation write-up, I believe mostly same as my replica except the "withdrawn" method. Reviewing my method to slightly modify the new capital token ratio.
