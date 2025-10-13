@@ -1,4 +1,6 @@
-2025-10-11 Sat: Look into more IRR calculation and how to reduce spike sensitivity. Look into time-weighted averaged return.
+2025-10-12 Sun (1.5h): Continued running more scripts from lp-backtest (needs query chunking because hitting Postgres limits). Added transcription for Thursday meeting.
+
+2025-10-11 Sat (1.0h): Look into more IRR calculation and how to reduce spike sensitivity. Look into time-weighted averaged return.
 
 2025-10-10 Fri: Working on running new date range from Aaron's database (lp-backtest). Debugging some issues with RPC.
 
