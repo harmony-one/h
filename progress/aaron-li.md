@@ -1,3 +1,7 @@
+2025-10-13 Mon (0.1h+): Balance and position tracking in backtesting, API integration, testing.
+
+---
+
 2025-10-12 Sun (0.4h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
 
 2025-10-11 Sat (4.2h): Compute swap fee earned in backtesting. Improve hedge fee cost for lp-hedger.
