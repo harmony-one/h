@@ -1,3 +1,9 @@
+# 2025-10-12 Sat:
+Last week I continued working on stream sync preparation for mainnet, focusing on improving stability and resolving remaining testnet issues. Since the latest deployment, devnet has been fully stable, running smoothly without a single incident — a strong indicator of readiness for broader rollout.  
+
+On the other hand, testnet RPC nodes still show some instability under heavy load. When overloaded with requests, certain nodes stop responding, and restarts do not fully resolve the issue. We’ve observed a few errors like “block hash download failures,” but these appear unrelated to the core problem. Investigations, redeployments, and tests are ongoing as we work to pinpoint the exact cause and strengthen stream sync stability ahead of the mainnet release.  
+
+
 # 2025-10-4 Sat:
 
 Last week we finalized the **Q4 plan** and completed preparations for the upcoming release. I have already started working on preparing **stream sync for mainnet**, focusing on ensuring stability and performance. On the testnet side, we are investigating the last remaining issues before a full rollout. To get a cleaner foundation, we deployed a fresh dev branch across all devnet nodes after removing PR 4915, which had left the branch broken and messy. From here, we are monitoring stream sync closely and continuing to fine-tune performance.  
@@ -928,6 +934,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
