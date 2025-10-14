@@ -1,3 +1,9 @@
+2025-10-12 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/b8eb5bc6c1fa7f26293f4821855bc5351763beac) fetching of events from database:  claim staked rewards (AERO), mints, burns
+
+---
+
+2025-10-11 Sun (2.0h): started migration of per-transaction statistics script from RPC to events from Aaron's database to support wallets with thousands of transactions
+
 2025-10-10 Fri: identified main reasons for some underperformance of certain positions, mainly related to market volatility (position become out of range faster that earned any fees); started research on adding staking support to wallet performance script
 
 2025-10-09 Thu: [updated](https://github.com/harmony-one/portfolio-manager/commit/b49b42a701dcb38297a1f3943fd3819d6ba14626) script to calculate pure cbBTC and USDC balance at specific block from LP and wallet; updated YieldBasis data fetching script
