@@ -1,3 +1,7 @@
+2025-10-13 Mon (1.5h): Columbus day. Team sync, uploaded some data from earnings script.
+
+---
+
 2025-10-12 Sun (1.5h): Continued running more scripts from lp-backtest (needs query chunking because hitting Postgres limits). Added transcription for Thursday meeting.
 
 2025-10-11 Sat (1.0h): Look into more IRR calculation and how to reduce spike sensitivity. Look into time-weighted averaged return.
