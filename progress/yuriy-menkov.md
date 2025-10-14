@@ -1,3 +1,11 @@
+2025-10-14 Tue: Worked on consolidating september data for positions using both RPC event logs and subgraph data. Compared key profit metrics from fees and staking rewards with Aaron’s position data with fixed price.
+
+2025-10-13 Mon: Exported all events from the gauge (staking) contract via RPC for the month of september, aggregated events by wallet address, and calculated the number of reward claims per wallet. Compared the results with the data provided by Artem and Aaron. Identified the top-performing (most profitable) wallets.
+
+---
+
+2025-10-10 Fri: Synced with Aaron and the team regarding XIRR calculation methods, price determination, and approaches to using Aaron’s database for data verification. We agreed to apply multiple XIRR calculation methods in parallel for subsequent comparison of the results. Continue working on updating the aerodrome monitoring service to calculate metrics using new methods.
+
 2025-10-09 Thu: Implemented the new calculation formulas (impermanent loss, xirr, hodl) into the aerodrome monitoring service. Generated an updated position export reflecting the revised algorithms. Started researching stats by top 2 wallets.
 
 2025-10-08 Wed: A deeper review with the team on the correct methods for calculating XIRR and HODL using new algorithms. Updated logic for searching open and close btc price in aerodrome monitoring service based on btc price by swaps history (still working on small interval).
