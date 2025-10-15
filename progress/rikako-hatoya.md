@@ -1,18 +1,18 @@
 2025-10-14 Tue: For our bot with new block range: [re-ran](https://drive.google.com/drive/u/1/folders/14Uqp0wUZxxdBI0oHcbr0RyVk6hy2jQsv) timeline script, [gathered](https://docs.google.com/spreadsheets/d/15wNtL143_67WcdDqsfzMv_4CQrdFiMg6s07NL_rfRrk/edit?gid=386323118#gid=386323118
 ) before-mint & after-burn cbbtc prices from basescan, and calculated metrics (XIRR, IR, fees, etc, in [here](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=1498157474#gid=1498157474
-)). Also ran script for liquidity stats to get [top active wallets](https://docs.google.com/spreadsheets/d/1VcB7Acd4qtLGXh0bAmgdaLxhTRdfVVXuZ7AhmHUOlyk/edit?gid=91751649#gid=91751649) in last week of september, re-organized our google drive and made sure all links for important files from master doc were added.
+)). Also ran script for liquidity stats to get [top active wallets](https://docs.google.com/spreadsheets/d/1VcB7Acd4qtLGXh0bAmgdaLxhTRdfVVXuZ7AhmHUOlyk/edit?gid=91751649#gid=91751649) in last week of september, re-organized our [google drive](https://drive.google.com/drive/u/1/folders/1xurkiK7i5MUFLLytvZG1fDld27pIKgK0) and made sure all links for important files from master doc were added.
 
-2025-10-13 Mon (3.5h): Columbus day. Team sync, uploaded some data from earnings script.
+2025-10-13 Mon (3.5h): Columbus day. Team sync, uploaded [new data](https://drive.google.com/drive/folders/1socPb79kfXMeaQpPe7kTW0Gm-ztjPFh8?usp=drive_link) from [earnings script](https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/aerodrome_earning.py) (05/01/2025-09/30/2025).
 
 ---
 
-2025-10-12 Sun (1.5h): Continued running more scripts from lp-backtest (needs query chunking because hitting Postgres limits). Added transcription for Thursday meeting.
+2025-10-12 Sun (1.5h): Continued running more scripts from lp-backtest (needs query chunking because hitting Postgres limits). Added [transcription](https://drive.google.com/drive/folders/1kQ2XX9pxhVoVn-0bVgTqEoEPQezEN5TB?usp=drive_link) from Thursday meeting.
 
-2025-10-11 Sat (1.0h): Look into more IRR calculation and how to reduce spike sensitivity. Look into time-weighted averaged return.
+2025-10-11 Sat (1.0h): Look into more IRR calculation and how to reduce spike sensitivity. Looked into implementation of time-weighted averaged return in Aaron's [lp-backtest](https://github.com/polymorpher/lp-backtest).
 
 2025-10-10 Fri: Working on running new date range from Aaron's database (lp-backtest). Debugging some issues with RPC.
 
-2025-10-09 Thu: Reviewed Theo's true hodl calculation write-up, I believe mostly same as my replica except the "withdrawn" method. Reviewing my method to slightly modify the new capital token ratio.
+2025-10-09 Thu: Reviewed Theo's true hodl calculation [write-up](https://docs.google.com/document/d/1HLNhV_YXcNAoz3ynwu4u8YhwTyXEZ7FkK0jm1WXRht0/edit?usp=drive_link), I believe mostly same as my replica except the "withdrawn" method. Reviewing my method to slightly modify the new capital token ratio.
 
 2025-10-08 Wed: Went over Theo's "true hodl" XIRR calculation with the team, [modified calculation](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=621234748#gid=621234748) and rewrote the documentation [here (check 10/08 entry)](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) (result: XIRR=7.45%). Downloading of Aaron's updated database to get returns data and checking through Artem's yield basis overall performance calculation.
 
