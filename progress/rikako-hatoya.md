@@ -1,4 +1,7 @@
-2025-10-14 Tue: For our bot with new block range: re-ran timeline script, gathered before-mint & after-burn cbbtc prices from basescan, and calculated metrics (XIRR, IR, fees). Re-organized our google drive and made sure all links for important files from master doc were added.
+2025-10-14 Tue: For our bot with new block range: [re-ran](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=1498157474#gid=1498157474
+) timeline script, [gathered](https://docs.google.com/spreadsheets/d/15wNtL143_67WcdDqsfzMv_4CQrdFiMg6s07NL_rfRrk/edit?gid=386323118#gid=386323118
+) before-mint & after-burn cbbtc prices from basescan, and calculated metrics (XIRR, IR, fees, etc, in [here](https://docs.google.com/spreadsheets/d/1IrqoZYrYAiVjZnjPyuSmoMoKoZvOicTaBStWJfHtf6Q/edit?gid=1498157474#gid=1498157474
+)). Also ran script for liquidity stats to get [top active wallets](https://docs.google.com/spreadsheets/d/1VcB7Acd4qtLGXh0bAmgdaLxhTRdfVVXuZ7AhmHUOlyk/edit?gid=91751649#gid=91751649) in last week of september, re-organized our google drive and made sure all links for important files from master doc were added.
 
 2025-10-13 Mon (3.5h): Columbus day. Team sync, uploaded some data from earnings script.
 
