@@ -1,3 +1,31 @@
+2025-10-15 Wed: Sorting top wallets based on weighted deposits, rather than simple  Aero returns. Merged Lend update to production. Insight: update includes updated stats reference. [Wallet analysis](https://revert.finance/#/account/0x751140B83d289353B3B6dA2c7e8659b3a0642F11) on revert finance.
+
+2025-10-14 Tue: Sync for updated collection based on Aaron’s data. Insight: best to standardize our wallet against the data, focusing on starting block: 35102089 Sep-04-2025 and ending block: 36243688 Sep-30-2025
+
+2025-10-13 Mon: Holiday
+
+---
+
+2025-10-12 Sun: (3.0h) Continued review, original target wallets are appearing again under updated metrics. Verifies two things: continued activity and methods derived from previous weeks hold up.
+
+2025-10-11 Sat: (2.0h) Reviewed Aaron’s updated information that includes September actions. Insight: returns and wallet profitability still requires accurate swap cbbtc pricing, skipped for now, to only apply detailed analysis on specific target wallets. Updated pass must find eligible wallets first.
+
+2025-10-10 Fri: Alignment on BTC pricing methodology showing impermanent loss exceeded fees but usd XIRR (extended internal rate of return) positive. Proposed overall performance comparison using simple annual rate and true hodl (Sep 4 to Oct 4 vs bot).
+
+2025-10-09 Thu: Selected external wallet to apply calculating usd XIRR (extended internal rate of return), fees minus impermanent loss, and hodl XIRR. Covered differences between [yield basis](https://docs.yieldbasis.com/user/how-it-works) on curve vs recreating with uniswap.
+
+2025-10-08 Wed: Documented comprehensive [LP HODL methodology](https://docs.google.com/document/d/1HLNhV_YXcNAoz3ynwu4u8YhwTyXEZ7FkK0jm1WXRht0/edit?usp=sharing) including token difference tracking, surplus management, and true new capital identification. Updated TRUE HODL XIRR calculation to 7.51%. Insight: true hodl is a novel method to accurately calculate any LP strategy against simply holding assets.
+ 
+2025-10-07 Tue: Completed 4 XIRR (extended internal rate of return) calculation methods showing usd XIRR 27.382%, fees minus IL -7.35%, and true hodl 7.45%. Insight: a positive usd XIRR shows internal wallet ended negative in terms of fees to impermanent loss, over time the return would turn positive.
+ 
+2025-10-06 Mon: Calculated XIRR (extended internal rate of return) using Artem's method, showing total outflow $48,713.10, inflow $48,592.40, net -$120.70, XIRR -72.26%. Insight: confirms over 3 weeks fees did not cover impermanent loss.
+
+---
+
+2025-10-05 Sun: (2.0h) Continued review. Insight: mint before, burn after pricing can improve based on higher log index for mint before and lower log index for burn. Small change but gets the closest possible swap based on Etherscan swap data.
+
+2025-10-04 Sat: (1.0h) Reviewing [master doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0).
+
 2025-10-03 Fri: Reviewed updated final pricing for internal wallet, PnL still needs to be finalized. Reviewed quarterly newsletter, sync with Alaina and feedback.
 
 2025-10-02 Thu: Completed [updated pricing](https://docs.google.com/spreadsheets/d/1n9RcOjAdbucDt7wTD9sxfWSKMVMdGR7ltFoNmBGtLxA/edit?gid=239732596#gid=239732596). Insight: Mint action pricing taken at or nearest before block transaction, and Burn and Collect taken at or nearest after block transaction for most accurate pricing.
