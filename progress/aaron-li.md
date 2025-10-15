@@ -1,8 +1,8 @@
-2025-10-15 Wed (0.3h): Unit tests and end-to-end testing for backtesting systems, refine APIs.
+2025-10-15 Wed (0.4h): Review top wallets identified using database, verify with lp-backtest scripts. Backtesting unit tests and end-to-end testing, refine backtesting server APIs, state handling such as time, balance, positions, pnl.
 
-2025-10-14 Tue (6.7h): Unit tests and end-to-end testing for backtesting systems, refine APIs. Balance and position tracking in backtesting, API integration, testing.
+2025-10-14 Tue (6.7h): Backtesting unit tests and end-to-end testing, refine backtesting server APIs, state handling such as time, balance, positions, pnl. Balance and position tracking in backtesting, Backtesting API integration with test suite and clients, create test fixture and utilities.
 
-2025-10-13 Mon (4.0h): Balance and position tracking in backtesting, API integration, testing.
+2025-10-13 Mon (4.0h): Balance and position tracking in backtesting, Backtesting API integration with test suite and clients, create test fixture and utilities.
 
 ---
 
