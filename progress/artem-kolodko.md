@@ -1,3 +1,5 @@
+2025-10-13 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/ecf67c612c9f39eb559ec0b2ae86b3e58eb538a5) calculation of cumulative AERO rewards, deposits and withdrawals amounts for token0 and token1 for wallets from the list. [Exported](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) CSV for wallets from Aaron's owners list for May 2025 - Aug 2025. Started working on fresh active wallets list (Sep 01 - Sep 30).
+
 2025-10-12 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/b8eb5bc6c1fa7f26293f4821855bc5351763beac) fetching of events from database:  claim staked rewards (AERO), mints, burns
 
 ---
