@@ -1,3 +1,5 @@
+2025-10-14 Tue: For our bot with new block range: re-ran timeline script, gathered before-mint & after-burn cbbtc prices from basescan, and calculated metrics (XIRR, IR, fees). Re-organized our google drive and made sure all links for important files from master doc were added.
+
 2025-10-13 Mon (3.5h): Columbus day. Team sync, uploaded some data from earnings script.
 
 ---
