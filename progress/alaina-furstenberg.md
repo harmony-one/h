@@ -1,12 +1,13 @@
 2025-10-17 Fri: Filming + editing of youtube short on EIP 2935. Accompanied with a thread on X explaining the protocol progress. Update of the community section plus sharing progress with the community.
 
-2025-10-16 Thu:
+2025-10-16 Thu: Travala co-marketing campaign proposal, to be reviewed with Li and Theo.
 
-2025-10-15 Wed: 
+2025-10-15 Wed: Thread per the yieldbasis docs: [How protocols keep BTC yield without impermanent loss](https://x.com/harmonyprotocol/status/1978576871194591479). Review of team's /progress.
 
 2025-10-14 Tue: Sync with the Travala team on Q4 co-marketing. No action items at the time because the campaign requires 10K USDT contribution to participate. Looking to create a lower cost campaign in replacement. Posting of the [DeFi short](https://youtube.com/shorts/U9Asw9OIqGA?si=oPd4zdowpZ1hxquj) from Theo on gov.harmony.one + [tweet](https://x.com/harmonyprotocol/status/1978148043099607413) on gov.harmony.one.
 
 2025-10-13 Mon: Colombus Day Federal Holiday
+
 
 ---
 
