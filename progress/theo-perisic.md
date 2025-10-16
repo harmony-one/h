@@ -1,3 +1,5 @@
+2025-10-16 Thu: Identified most efficient wallets from Artem’s September data.  Coordination with Protofire regarding Lend, and potential Aave deployment. Insight: awaiting protofire initial feasibility results.
+
 2025-10-15 Wed: Sorting top wallets based on weighted deposits, rather than simple  Aero returns. Merged Lend update to production. Insight: update includes updated stats reference. [Wallet analysis](https://revert.finance/#/account/0x751140B83d289353B3B6dA2c7e8659b3a0642F11) on revert finance.
 
 2025-10-14 Tue: Sync for updated collection based on Aaron’s data. Insight: best to standardize our wallet against the data, focusing on starting block: 35102089 Sep-04-2025 and ending block: 36243688 Sep-30-2025
