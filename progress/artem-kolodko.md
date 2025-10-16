@@ -1,10 +1,14 @@
-2025-10-13 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/ecf67c612c9f39eb559ec0b2ae86b3e58eb538a5) calculation of cumulative AERO rewards, deposits and withdrawals amounts for token0 and token1 for wallets from the list. [Exported](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) CSV for wallets from Aaron's owners list for May 2025 - Aug 2025. Started working on fresh active wallets list (Sep 01 - Sep 30).
+2025-10-16 Thu: limited the script data from Sep 04 to Sep 30 (to compare with our bot stats), [added](https://github.com/harmony-one/portfolio-manager/commit/5038eb5773a8c6656f3797b0dfaa182002c25d61) total income column (raw estimation based on constant BTC price) and average time in position in seconds
 
-2025-10-12 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/b8eb5bc6c1fa7f26293f4821855bc5351763beac) fetching of events from database:  claim staked rewards (AERO), mints, burns
+2025-10-15 Wed: [added](https://github.com/harmony-one/portfolio-manager/commit/b5548737261c217b290dfb1b410ee1f220d16e54) SQL query to get list of most active wallets and implementation of the f[irst version](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) of list of earning wallets
+
+2025-10-14 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/ecf67c612c9f39eb559ec0b2ae86b3e58eb538a5) calculation of cumulative AERO rewards, deposits and withdrawals amounts for token0 and token1 for wallets from the list. [Exported](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) CSV for wallets from Aaron's owners list for May 2025 - Aug 2025. Started working on fresh active wallets list (Sep 01 - Sep 30).
+
+2025-10-13 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/b8eb5bc6c1fa7f26293f4821855bc5351763beac) fetching of events from database:  claim staked rewards (AERO), mints, burns
 
 ---
 
-2025-10-11 Sun (2.0h): started migration of per-transaction statistics script from RPC to events from Aaron's database to support wallets with thousands of transactions
+2025-10-12 Sun (2.0h): started migration of per-transaction statistics script from RPC to events from Aaron's database to support wallets with thousands of transactions
 
 2025-10-10 Fri: identified main reasons for some underperformance of certain positions, mainly related to market volatility (position become out of range faster that earned any fees); started research on adding staking support to wallet performance script
 
