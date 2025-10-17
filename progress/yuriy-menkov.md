@@ -1,3 +1,7 @@
+2025-10-16 Thu: Worked on detailed position statistics — encountered an issue linking staking claim rewards events to specific token IDs, since the event itself doesn’t contain the position ID and can be triggered when multiple positions are held in the staking contract simultaneously. Researching Aaron’s scripts to find similar solutions.
+
+2025-10-15 Wed: Expanded the wallet statistics for the period from September 4 to 30 — added data on deposits, withdrawals, number of events, etc. Compared the results with Artem’s data — they match with a small discrepancy, since my statistics include only positions with staking.
+
 2025-10-14 Tue: Worked on consolidating september data for positions using both RPC event logs and subgraph data. Compared key profit metrics from fees and staking rewards with Aaron’s position data with fixed price.
 
 2025-10-13 Mon: Exported all events from the gauge (staking) contract via RPC for the month of september, aggregated events by wallet address, and calculated the number of reward claims per wallet. Compared the results with the data provided by Artem and Aaron. Identified the top-performing (most profitable) wallets.
