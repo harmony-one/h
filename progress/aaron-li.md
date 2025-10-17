@@ -1,3 +1,5 @@
+2025-10-17 Fri (1.1h+): Discussion on top wallets, copy trading implementations, testing.
+
 2025-10-16 Thu (6.9h): Fix bugs revealed in unit tests of backtesting. Verify results using client simulation script on production data.
 
 2025-10-15 Wed (3.1h): Backtesting unit tests and end-to-end testing, refine backtesting server APIs, state handling such as time, balance, positions, pnl. Review top wallets identified using database, verify with lp-backtest scripts.
