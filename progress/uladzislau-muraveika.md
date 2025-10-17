@@ -1,3 +1,17 @@
+2025-10-17 Fri:
+
+My main focus was on implementing all changes needed to collect crashes from systemd service to the promtail parsing and Loki collection. Solution tested and rolled out to the devnet and testnet nodes. You can see what it looks like as a dashboard on the screenshot below
+
+![alt crashed](/devops/img/crash-logs.png)
+
+Additionally, helped Gheis with testing new improvements for the stream sync, found an issue with sync on new code, reported finding to Gheis. I've rechecked the fix and rolled it out to the devnet and testnet.
+
+And finally as an on-call engineer was checking the strange issue on the testnet RPC for shard 0 - out of blue moon server's 8 CPU's were doing only iowait time to time, first idea was issue with harmony node, but all other nodes with same version were good. So I've asked provider support to check on their side and it was a noisy neighbor issue - some other virtual machine was eating all the IOPS, the fix was to move our vm to another qemu host which is not so crowded.
+
+In addition, this issue gives 2 problems with noisy alarms in the watchdog when we send too many `node stuck` alarms in Pagerduty and hit the rate limit. I've fixed one of them to double the rate limit, the other one about the alarm condition is in low priority due to mitigation of rate limit + fixing the issue source.
+
+---
+
 2025-10-10 Fri:
 
 As an on-call engineer, I was digging an issue with trace RPC methods for `update to Berlin and London eth fork` in the testnet together with Konstantin, tried to use build with race detection, checked how this was fixed in the geth repo. Geth switched to another solution for the javascript engine - [goja](https://github.com/dop251/goja).
