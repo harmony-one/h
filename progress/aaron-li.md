@@ -1,4 +1,4 @@
-2025-10-17 Fri (2.0h): Discussion on top wallets, copy trading implementations, testing.
+2025-10-17 Fri (2.1h+): Backtesting example script, running on production data. Implement lp-hedger integration with backtesting APIs. Discussion on top wallets, copy trading implementations, testing.
 
 2025-10-16 Thu (6.9h): Fix bugs revealed in unit tests of backtesting. Verify results using client simulation script on production data.
 
