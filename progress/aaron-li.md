@@ -1,3 +1,5 @@
+2025-10-18 Sat (1.0h): Backtesting example script, running on production data. Implement lp-hedger integration with backtesting APIs.
+
 2025-10-17 Fri (4.5h): Backtesting example script, running on production data. Implement lp-hedger integration with backtesting APIs. Discussion on top wallets, copy trading implementations, testing.
 
 2025-10-16 Thu (6.9h): Fix bugs revealed in unit tests of backtesting. Verify results using client simulation script on production data.
