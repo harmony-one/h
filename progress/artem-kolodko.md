@@ -1,3 +1,5 @@
+2025-10-17 Fri: implemented per-position income statistics for active aerodrome wallets and updated [top wallets spreadsheet](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing). Synced with Aaron and the team on details of copy-trading bot implementation.
+
 2025-10-16 Thu: limited the script data from Sep 04 to Sep 30 (to compare with our bot stats), [added](https://github.com/harmony-one/portfolio-manager/commit/5038eb5773a8c6656f3797b0dfaa182002c25d61) total income column (raw estimation based on constant BTC price) and average time in position in seconds, [publised](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) second version of wallets list
 
 2025-10-15 Wed: [added](https://github.com/harmony-one/portfolio-manager/commit/b5548737261c217b290dfb1b410ee1f220d16e54) SQL query to get list of most active wallets and implementation of the f[irst version](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) of list of earning wallets
