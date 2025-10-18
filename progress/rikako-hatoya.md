@@ -1,3 +1,5 @@
+2025-10-17 Fri: Started looking into work on backtesting for measuring impact of latency in copying LP strategy, and research on mempools. More look into top wallets.
+
 2025-10-16 Thu: Running of timeline-tool on top wallets mutual from Artem and Aaron, meanwhile looking into Artem's [list](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?gid=100658236#gid=100658236) and looking on revert. Working on unifying with [timeline script](https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/timeline.py), added meeting transcription.
 
 2025-10-15 Wed: Analysis of top wallet candidates from [master-doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0). Cleaned and published [repo](https://github.com/rikaa15/basescan-price) to get cbBTC price from basescan based on mint and burn transactions. 
