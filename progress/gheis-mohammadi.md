@@ -1,4 +1,4 @@
-#2025-10-18 Sat:
+# 2025-10-18 Sat:
 Last week we identified a potential root cause behind the **missing download details** issue and the observed **gaps between block requests**. I created [PR 4956](https://github.com/harmony-one/harmony/pull/4956), which introduces comprehensive improvements to block cache management and validation within the staged stream synchronization process.  
 
 This PR enhances reliability by:
@@ -949,6 +949,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
