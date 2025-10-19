@@ -10,7 +10,7 @@ In addition, I implemented [PR 4957](https://github.com/harmony-one/harmony/pull
 
 The PR 4956 were deployed on **devnet and testnet**, showing a **significant improvement in stability**. Since deployment, the “missing download details” issue has not reappeared, and overall stream sync reliability has improved across the network.
 
-* As a side task, I also added two new diagnostic options to DrHarmony. These options help us analyze logs more effectively by allowing targeted investigation of log entries that occurred before and after the last successful block production and last staged sync events, improving debugging efficiency during network investigations.
+As a side task, I also added two new diagnostic options to DrHarmony. These options help us analyze logs more effectively by allowing targeted investigation of log entries that occurred before and after the last successful block production and last staged sync events, improving debugging efficiency during network investigations.
 
 ---
 
@@ -951,6 +951,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
