@@ -1,3 +1,5 @@
+2025-10-18 Sat (4.0h): started implementation of LP copy-trading bot, using codebase of our LP bot. [Added](https://github.com/harmony-one/portfolio-manager/pull/49) events listener for NFT positions manager and CL gauge contracts using Base Websocket RPC.
+
 2025-10-17 Fri: implemented per-position income statistics for active aerodrome wallets and updated [top wallets spreadsheet](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing). Synced with Aaron and the team on details of copy-trading bot implementation.
 
 2025-10-16 Thu: limited the script data from Sep 04 to Sep 30 (to compare with our bot stats), [added](https://github.com/harmony-one/portfolio-manager/commit/5038eb5773a8c6656f3797b0dfaa182002c25d61) total income column (raw estimation based on constant BTC price) and average time in position in seconds, [publised](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) second version of wallets list
