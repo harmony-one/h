@@ -2,7 +2,7 @@
 
 ---
 
-2025-10-19 Sun (1.0h): Review of [master product doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0). Reading into pod-shops.
+2025-10-19 Sun (1.0h): Review of everything in [master product doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0) so far, re-read meeting transcription. Reading into pod-shops.
 
 2025-10-18 Sat (1.0h): Continue from Friday's work with looking into more wallets. Continued research with mempools and real time trading.
 
