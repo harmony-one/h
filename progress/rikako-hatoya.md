@@ -1,3 +1,5 @@
+2025-10-18 Sat: Continue from Friday's work.
+
 2025-10-17 Fri: Started looking into work on backtesting for measuring impact of latency in copying LP strategy, and research on mempools. More look into top wallets.
 
 2025-10-16 Thu: Running of timeline-tool on top wallets mutual from Artem and Aaron, meanwhile looking into Artem's [list](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?gid=100658236#gid=100658236) and looking on revert. Working on unifying with [timeline script](https://github.com/polymorpher/lp-backtest/blob/main/src/lp_backtest/scripts/timeline.py), added meeting transcription.
