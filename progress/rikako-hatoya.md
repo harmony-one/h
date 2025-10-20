@@ -1,4 +1,10 @@
-2025-10-18 Sat: Continue from Friday's work.
+2025-10-20 Mon:
+
+---
+
+2025-10-19 Sun (1.0h): Review of [master product doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0). Reading into pod-shops.
+
+2025-10-18 Sat (1.0h): Continue from Friday's work with looking into more wallets. Continued research with mempools and real time trading.
 
 2025-10-17 Fri: Started looking into work on backtesting for measuring impact of latency in copying LP strategy, and research on mempools. More look into top wallets.
 
