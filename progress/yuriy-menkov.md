@@ -1,3 +1,9 @@
+2025-10-20 Mon: Started working on a copy trading service based on Artem's bot repo. Developing an service engine that monitors a position manager and staking contracts events through websocket in real time and reconstructs the lp position lifecycle and wallet's trading activity based on aggregated data.
+
+---
+
+2025-10-17 Fri: Selecting top wallets for strategy copying based on multiple metrics and stats by september. Synced with Aaron regarding the correct method of linking claim rewards to positions in cases with multiple staked positions, etc. Updated the scripts and data — exported claim rewards data for September from Aaron’s database for comparison.
+
 2025-10-16 Thu: Worked on detailed position statistics — encountered an issue linking staking claim rewards events to specific token IDs, since the event itself doesn’t contain the position ID and can be triggered when multiple positions are held in the staking contract simultaneously. Researching Aaron’s scripts to find similar solutions.
 
 2025-10-15 Wed: Expanded the wallet statistics for the period from September 4 to 30 — added data on deposits, withdrawals, number of events, etc. Compared the results with Artem’s data — they match with a small discrepancy, since my statistics include only positions with staking.
