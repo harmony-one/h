@@ -1,4 +1,4 @@
-2025-10-20 Mon:
+2025-10-20 Mon: Worked on adding new metrics (# of events, APR) to [performance script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/stats/index.ts) (not sure about APR calculation, will check with Artem tomorrow). Look into wallets for hedging activity.
 
 ---
 
