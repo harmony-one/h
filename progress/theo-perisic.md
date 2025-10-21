@@ -1,3 +1,13 @@
+2025-10-20 Mon: Completed [scenario breakdown of short vs. short and long](https://docs.google.com/document/d/1MlTWCjQqM8gCGjqAooHC8bn-bMm6nyGHkw9wB8Qpeo8/edit?usp=sharing) hedging strategies. Insight: upfront adding a long to capture upside movements seems ideal, but it breaks down the original hedge, and removes the short protection.
+
+---
+
+2025-10-19 Sun: (2.0h) Continued hedging review.
+
+2025-10-18 Sat: (1.0h) Returned to initial hedging theory of opening short and long positions to hedge BTC on up and downside. 
+
+2025-10-17 Fri: Updated efficiency from Artem’s data, using (Income per Position/Capital per Position) × 100 as method. Insight: change due to total capital deployment including rebalances, which includes the same capital recycled, which should not work against strategies.
+
 2025-10-16 Thu: Identified most efficient wallets from Artem’s September data.  Coordination with Protofire regarding Lend, and potential Aave deployment. Insight: awaiting protofire initial feasibility results.
 
 2025-10-15 Wed: Sorting top wallets based on weighted deposits, rather than simple  Aero returns. Merged Lend update to production. Insight: update includes updated stats reference. [Wallet analysis](https://revert.finance/#/account/0x751140B83d289353B3B6dA2c7e8659b3a0642F11) on revert finance.
