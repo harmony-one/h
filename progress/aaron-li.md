@@ -1,3 +1,7 @@
+2025-10-21 Tue (0.1h): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
+
+---
+
 2025-10-18 Sat (1.0h): Backtesting example script, running on production data. Implement lp-hedger integration with backtesting APIs.
 
 2025-10-17 Fri (4.5h): Backtesting example script, running on production data. Implement lp-hedger integration with backtesting APIs. Discussion on top wallets, copy trading implementations, testing.
