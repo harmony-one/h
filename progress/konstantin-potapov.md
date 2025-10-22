@@ -1,3 +1,8 @@
+2025-10-17 Fri:
+This week i replaced Duktape with goja in the tracing subsystem. I and Ulad tested on the devnet and currently running tests on testnet. 
+
+---
+
 2025-10-10 Fri:
 This week I continued testing the 1.10 release, but encountered a critical crash in the Duktape library during a syscall.
 I found that Duktape is an outdated JS engine that has been archived since 2021 and no longer maintained.
