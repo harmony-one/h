@@ -1,4 +1,4 @@
-2025-10-22 Wed (0.9h+): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
+2025-10-22 Wed (1.5h): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
 
 2025-10-21 Tue (1.7h): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
 
