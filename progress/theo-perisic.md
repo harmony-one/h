@@ -1,3 +1,7 @@
+2025-10-22 Wed: Created [hedge strategy scripts](https://github.com/ONETheo/cl-lp-hedging). Insight: found 44/57 tick range with 12 tick stop loss as optimal opening based on September BTC tick pricing data. Cutting impermanent loss by 25%.
+
+2025-10-21 Tue: Team sync, broke down [short vs. short and long](https://docs.google.com/document/d/1MlTWCjQqM8gCGjqAooHC8bn-bMm6nyGHkw9wB8Qpeo8/edit?usp=sharing) high level with accurate values with team.
+
 2025-10-20 Mon: Completed [scenario breakdown of short vs. short and long](https://docs.google.com/document/d/1MlTWCjQqM8gCGjqAooHC8bn-bMm6nyGHkw9wB8Qpeo8/edit?usp=sharing) hedging strategies. Insight: upfront adding a long to capture upside movements seems ideal, but it breaks down the original hedge, and removes the short protection.
 
 ---
