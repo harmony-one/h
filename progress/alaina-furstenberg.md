@@ -1,12 +1,16 @@
 2025-10-24 Fri: Filming and editing of Stream Sync short. Update of community section/
 
-2025-10-23 Thu: 
+2025-10-23 Thu:
+Created social copy explaining how BTC long-hedging helps reduce downside risk for liquidity providers. Designed a simple graphic to show how a hedge maintains stable returns during price dips.
 
-025-10-22 Wed: 
+2025-10-22 Wed:
+Researched how BTC hedge positions work in sideways markets. Drafted short educational captions breaking down long-hedge benefits for everyday users.
 
 2025-10-21 Tue:
+Wrote simple definitions for terms like “delta-neutral” and “hedged LP” to use in upcoming posts. Reviewed examples from other DeFi projects to refine how we explain BTC strategies to beginners.
 
-2025-10-20 Mon: 
+2025-10-20 Mon:
+Outlined a content plan introducing the concept of BTC long-hedging step by step. Focused on making the topic feel approachable for new DeFi participants.
 
 ---
 
