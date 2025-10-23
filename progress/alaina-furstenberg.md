@@ -1,3 +1,19 @@
+2025-10-24 Fri: Filming and editing of Stream Sync short. Update of community section/
+
+2025-10-23 Thu: 
+
+025-10-22 Wed: 
+
+2025-10-21 Tue:
+
+2025-10-20 Mon: 
+
+---
+
+2025-10-19 Sun: Review of team progress
+
+2025-10-18 Sat: Progress Thread
+
 2025-10-17 Fri: Filming + editing of youtube short on EIP 2935. Accompanied with a thread on X explaining the protocol progress. Update of the community section plus sharing progress with the community.
 
 2025-10-16 Thu: Travala co-marketing campaign proposal, to be reviewed with Li and Theo.
