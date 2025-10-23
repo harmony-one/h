@@ -1,3 +1,5 @@
+2025-10-23 Thu: Added impermanent loss only tracking [script](https://github.com/ONETheo/cl-lp-hedging/blob/main/lp_hedging_IL_CORRECTED.py). Insight: for September with even more narrow stop loss of 8 ticks, IL was reduced to 27%, showing optimal short opening at 44 ticks, and long at 58 ticks to go along with the 8 tick stop loss.
+
 2025-10-22 Wed: Created [hedge strategy scripts](https://github.com/ONETheo/cl-lp-hedging). Insight: found 44/57 tick range with 12 tick stop loss as optimal opening based on September BTC tick pricing data. Cutting impermanent loss by 25%.
 
 2025-10-21 Tue: Team sync, broke down [short vs. short and long](https://docs.google.com/document/d/1MlTWCjQqM8gCGjqAooHC8bn-bMm6nyGHkw9wB8Qpeo8/edit?usp=sharing) high level with accurate values with team.
