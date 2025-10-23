@@ -1,3 +1,7 @@
+2025-10-22 Wed: copy-trading bot: reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/51) with events listener update with formation of Mint and Burn transactions based on received messages; drafted the idea to hedge flash wallet BTC exposure with dynamic adjustmented of BTC short on hyperliquid; implementing script to verify it
+
+2025-10-21 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/0a793b6f5b1e5c86014a75b2f6b70a505bbb6754) average time in seconds and events count to overall wallet statistics table
+
 2025-10-20 Mon: Copy-trading bot events listener: added support of events from CL gauge contract to track Withdraw, ClaimRewards, Withdraw, Deposit events for staked positions of a specific address. 
 
 ---
