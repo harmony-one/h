@@ -1,4 +1,4 @@
-2025-10-22 Wed (3.6h+): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
+2025-10-22 Wed (4.0h): Debug sanity check failing issue. Add more sanity checks and debug samples. Improve exact fee computation flow. Fix tests.
 
 2025-10-21 Tue (1.7h): Include sanity check stats and swap counts in backtesting API response.  Scripts demoing backtesting on other platforms. Implement lp-hedger integration with backtesting APIs.
 
