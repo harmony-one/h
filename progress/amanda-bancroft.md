@@ -1,3 +1,35 @@
+2025-10-23 Thu: Worked on administrative research, follow-ups, and planning. [Posted updates and engagement on X.](https://x.com/harmonyprotocol/status/1981513498745327782)
+2025-10-22 Wed: Reviewed budget allocations and aligned resources for upcoming initiatives. Planned X content for the day.
+2025-10-21 Tue: Conducted research and finalized new formatting for content materials. [Drafted and launched refreshed X post styling.](https://x.com/harmonyprotocol/status/1981176036160393486)
+2025-10-20 Mon: Completed HR research, handled outreach and administrative tasks. [Created and scheduled X content.](https://x.com/harmonyprotocol/status/1980418366100926782)
+
+---
+
+2025-10-19 Sun: Managed recurring administrative duties.
+2025-10-17 Fri: Handled administrative coordination and ongoing internal operations. [Created X content.](https://x.com/harmonyprotocol/status/1980416533634711961)
+2025-10-16 Thu: Researched content opportunities. Finalized administrative tasks.
+2025-10-15 Wed: Reviewed budgets, processed A/P items, and supported financial planning.
+2025-10-14 Tue: Had a call with Rika and dove into relevant research and planning tasks. [X content drafting.](https://x.com/harmonyprotocol/status/1980832680607641688)
+2025-10-13 Mon: Federal holiday
+
+---
+
+2025-10-12 Sun: Completed recurring administrative tasks.
+2025-10-10 Fri: Managed internal operations and administrative work.
+2025-10-09 Thu: Provided HR support and reviewed costs. [Updated and shared X content.](https://x.com/harmonyprotocol/status/1976409734006853641)
+2025-10-08 Wed: Supported admin needs and coordinated internal operations. [Reviewed and posted X content.](https://x.com/harmonyprotocol/status/1976112647226700039)
+2025-10-07 Tue: Conducted HR research and calculations, assisted with strategic planning, and supported team needs. [Created and reviewed X content.](https://x.com/harmonyprotocol/status/1975818388112089226)
+2025-10-06 Mon: Provided administrative support and coordinated internal requests. Posted X content.
+
+---
+
+2025-10-05 Sun: Focused on recurring administrative tasks.
+2025-10-03 Fri: Processed A/P items and supported HR coordination. [Posted X updates.](https://x.com/harmonyprotocol/status/1974277409584349685)
+2025-10-02 Thu: Assisted with HR outreach and support. [Prepared and published X content.](https://x.com/harmonyprotocol/status/1973866415880016061)
+2025-10-01 Wed: Reviewed resources and refined budget planning. Drafted X content.
+
+---
+
 2025 Q3 Review
 
 https://x.com/harmonyprotocol/status/1964089288464679206
@@ -8,7 +40,6 @@ On the operations side, I focused on budget review and revisions spearheading a 
 
 Q4 Goals
 In Q4, I look forward to finalizing R&D tax credit documentation, state and federal tax completion, and closing out business censuses and filings. I will continue driving engagement with the Harmony community via X initiatives and increased output, experimenting with new content formats, as well as, collaborating with teammates to amplify reach and impact.
-
 
 ---
 
