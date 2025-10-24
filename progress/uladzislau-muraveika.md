@@ -1,3 +1,15 @@
+2025-10-24 Fri:
+
+During the collect crashes review  from systemd service in the testnet, I've noticed that not all systemd services can append to the file, checked other possibilities here and found that promtail can parse the journal directly thus rewritten my solution accordingly and rollout it to the devnet.
+
+For the support activities, I was helping Gheis with a fresh bundle of stream sync features and installed Kostnantin's `replace ducktape with goja` PR version to the testnet RPC.
+
+Additionally, I've noticed that tests for [goja PR](https://github.com/harmony-one/harmony/pull/4958) weren't running due to travis CI condition waiting for dev/main branches as a base - fixed [this](https://github.com/harmony-one/harmony/blob/d7c1d03739a7207a93fda5693e8860c6d9009bac/.travis.yml#L21-L23).
+
+And finally, I was checking that our Base RPC started to have strange errors in logs with `environment map size limit reached`. I've read the reth documentation, found that this size should automatically adjust, restarted the whole server. After restart Base Reth wasn't able to communicate with the op-reth, so I've decided to check which versions we are running here for Erigon/Lighthouse and base/node Reth and they were a bit outdated. The full versions update helped to sync the base Reth node again. As a a good practice, I've added newreleases.io bot to send us notification about new releases for this stack.
+
+---
+
 2025-10-17 Fri:
 
 My main focus was on implementing all changes needed to collect crashes from systemd service to the promtail parsing and Loki collection. Solution tested and rolled out to the devnet and testnet nodes. You can see what it looks like as a dashboard on the screenshot below
