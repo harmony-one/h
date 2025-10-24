@@ -1,3 +1,5 @@
+2025-10-23 Thu: [calculated](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) hedging PnL for simple strategy (short BTC exposure in LP); exported swaps for the last 6 months (3 mil. rows) for hedging estimations over a long period
+
 2025-10-22 Wed: copy-trading bot: reviewed [pull request](https://github.com/harmony-one/portfolio-manager/pull/51) with events listener update with formation of Mint and Burn transactions based on received messages; drafted the idea to hedge flash wallet BTC exposure with dynamic adjustmented of BTC short on hyperliquid; implementing script to verify it
 
 2025-10-21 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/0a793b6f5b1e5c86014a75b2f6b70a505bbb6754) average time in seconds and events count to overall wallet statistics table
