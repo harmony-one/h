@@ -1,3 +1,11 @@
+2025-10-24 Fri: Analyzed bot logs over a 24-hour period — following a sync with Artem, [implemented](https://github.com/harmony-one/portfolio-manager/pull/54) several optimizations, including improved WebSocket stability, event aggregation algorithm updates, and faster position-closing operations by reducing redundant requests.
+
+2025-10-23 Thu: [Deployed](https://copy-trading-wallet-1.fly.dev/copy-trading-stats) the MVP version of the copy-trading bot on the fly.io service. [Added](https://github.com/harmony-one/portfolio-manager/commit/136edab77b3860c2ba5c70770afdb3a7250cba1d) logging and a comparison table showing actions of the tracked address vs the bot’s address.
+
+2025-10-22 Wed: Tested the copy-trading bot by replaying operations over a historical period. [Added](https://github.com/harmony-one/portfolio-manager/commit/10f198ab45c0d2876aeca255c367c3fdfd3d94f8) scaling logic — the bot now opens positions proportional to the tracked wallet’s positions but within the limits of its own deposit.
+
+2025-10-21 Tue: [Added](https://github.com/harmony-one/portfolio-manager/pull/51/files) 2 modes for copy-trading bot: live and historical mode, which allows reconstructing the trading history of a tracked wallet within a specified time range. Implemented position creation and closing methods — the core event handler and event generation for the bot are now in place.
+
 2025-10-20 Mon: Started working on a copy trading service based on Artem's bot repo. Developing an service engine that monitors a position manager and staking contracts events through websocket in real time and reconstructs the lp position lifecycle and wallet's trading activity based on aggregated data.
 
 ---
