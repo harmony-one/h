@@ -1,3 +1,5 @@
+2025-10-24 Fri: Added hyperliquid historical funding rates and fees to determine true cost of hedging. Insight: Maker fee vs. Taker fee is critical for rebalance, maker 0% to negative, taker 0.0428% significantly cuts into hedge profits. Even with 100% maker execution, hedge underperformed IL. IL needs further verification.
+
 2025-10-23 Thu: Added impermanent loss only tracking [script](https://github.com/ONETheo/cl-lp-hedging/blob/main/lp_hedging_IL_CORRECTED.py). Insight: for September with even more narrow stop loss of 8 ticks, IL was reduced to 27%, showing optimal short opening at 44 ticks, and long at 58 ticks to go along with the 8 tick stop loss.
 
 2025-10-22 Wed: Created [hedge strategy scripts](https://github.com/ONETheo/cl-lp-hedging). Insight: found 44/57 tick range with 12 tick stop loss as optimal opening based on September BTC tick pricing data. Cutting impermanent loss by 25%.
