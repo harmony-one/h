@@ -1,4 +1,4 @@
-2025-10-23 Thu (2.7h+): Review product doc updates, and discrepancies in data and analysis results. Discussion on hedging extreme volatility risk, hedge cost, profitability, copy strategies and backtesting. Implement lp-hedger integration with backtesting APIs.
+2025-10-23 Thu (3.2h): Review product doc updates, and discrepancies in data and analysis results. Discussion on hedging extreme volatility risk, hedge cost, profitability, copy strategies and backtesting. Implement lp-hedger integration with backtesting APIs.
 
 2025-10-22 Wed (4.0h): Debug sanity check failing issue. Add more sanity checks and debug samples. Improve exact fee computation flow. Fix tests.
 
