@@ -1,3 +1,16 @@
+# 2025-10-25 Sat:
+Last week, both **Devnet** and **Testnet** remained fully stable following the latest deployment, showing excellent performance in synchronization. I am now focusing on final enhancements and optimizations as we prepare for the **mainnet release** in the upcoming version.  
+
+I implemented [PR 4959](https://github.com/harmony-one/harmony/pull/4959), which delivers major performance improvements to the **sync status checking** mechanism by introducing **role-based strategies** and optimizing the **double-check process** for nodes that are significantly behind the network.  
+The first improvement applies role-based sync strategies: **consensus leaders** now use *fast sync checks* to reduce latency and maintain **1-second finality**, while **non-leaders** continue using *double-check verification* for accuracy. This ensures optimal efficiency for leaders while maintaining data integrity for other nodes.  
+The second optimization adds an **early exit mechanism** for nodes lagging more than 10 blocks behind (configurable via `tooFarBehindThreshold`). These nodes now skip the 1-second double-check delay, improving responsiveness and avoiding unnecessary processing. Additional refinements include improved height difference calculations, better progress detection during wait periods, and more robust error handling.  
+
+I also completed [PR 4961](https://github.com/harmony-one/harmony/pull/4961), which promotes the **Stream Sync client** to be the **default synchronization method** for both Devnet and Testnet. After extensive testing and validation, Stream Sync has proven to be highly stable and efficient across both environments.  
+
+As we approach the **Q4 release**, the team is working hard to finalize the remaining optimizations and fixes to ensure a smooth and robust rollout to mainnet.
+
+---
+
 # 2025-10-18 Sat:
 Last week we identified a potential root cause behind the **missing download details** issue and the observed **gaps between block requests**. I created [PR 4956](https://github.com/harmony-one/harmony/pull/4956), which introduces comprehensive improvements to block cache management and validation within the staged stream synchronization process.  
 
