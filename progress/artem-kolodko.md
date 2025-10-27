@@ -1,3 +1,5 @@
+2025-10-26 Sun (3.0h): started implementation of custon nonce in copy-trading bot algorithm to ensure that bot propertly send multiple transactions (close-open position) during the lifecircle
+
 2025-10-24 Fri: copy-trading bot: [reduced](https://github.com/harmony-one/portfolio-manager/pull/53) latency for position creation method by moving all token approvals to bootstrap method; optimized other network requests; continue working on script for hedge estimation using perpetual futures on largest dataset (from May 01 2025)
 
 2025-10-23 Thu: [calculated](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?usp=sharing) hedging PnL for simple strategy (short BTC exposure in LP); exported swaps for the last 6 months (3 mil. rows) for hedging estimations over a long period
