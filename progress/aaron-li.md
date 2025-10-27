@@ -1,3 +1,7 @@
+2025-10-27 Mon (0.3h+): Review alternative backtesting tool. Implement backtesting for lp-hedger.
+
+---
+
 2025-10-24 Fri (1.9h): Discuss data differences, trading strategies, hedging cost, copy trading. Review product doc updates, and discrepancies in data and analysis results.
 
 2025-10-23 Thu (4.5h): Review product doc updates, and discrepancies in data and analysis results. Discussion on hedging extreme volatility risk, hedge cost, profitability, copy strategies and backtesting. Implement lp-hedger integration with backtesting APIs.
