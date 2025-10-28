@@ -1,3 +1,11 @@
+2025-10-27 Mon: Sharing insights from backtesting research. Adding details of simple September data backtest with different tick width. Insight: from 100-500 tick distribution runs, 500-tick range performed the best due to 30% lowered impermanent loss.
+
+---
+
+2025-10-26 Sun: (3.0h) Reading over [concentrated liquidity market maker] (https://arxiv.org/abs/2410.09983) paper. Insights: use normal distribution for liquidity modeling, content plateau for fees on average 3.6x overestimate of fees, and add a τ-reset strategy to model CLMM liquidity reallocations, liquidity when the price moves beyond τ buckets from a reference bucket.
+
+2025-10-25 Sat: (3.0h) Research into open source backtesting frameworks to apply our own hedging parameters to. Insight: [defilers](https://github.com/DefiLab-xyz/uniswap-v3-backtest), [LP-option-hedging](https://github.com/Aureliano90/LP-Option-Hedging), [demeter](https://github.com/zelos-alpha/demeter).
+
 2025-10-24 Fri: Added hyperliquid historical funding rates and fees to determine true cost of hedging. Insight: Maker fee vs. Taker fee is critical for rebalance, maker 0% to negative, taker 0.0428% significantly cuts into hedge profits. Even with 100% maker execution, hedge underperformed IL. IL needs further verification.
 
 2025-10-23 Thu: Added impermanent loss only tracking [script](https://github.com/ONETheo/cl-lp-hedging/blob/main/lp_hedging_IL_CORRECTED.py). Insight: for September with even more narrow stop loss of 8 ticks, IL was reduced to 27%, showing optimal short opening at 44 ticks, and long at 58 ticks to go along with the 8 tick stop loss.
