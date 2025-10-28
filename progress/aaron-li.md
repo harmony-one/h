@@ -1,4 +1,4 @@
-2025-10-27 Mon (2.7h+): Review alternative backtesting tool. Implement backtesting for lp-hedger.
+2025-10-27 Mon (2.9h): Review alternative backtesting tool. Implement backtesting for lp-hedger.
 
 ---
 
