@@ -1,3 +1,8 @@
+2025-10-24 Fri (2 days off):
+This week, I worked on Goja’s passing unit and functional tests. I fixed the failing ones, and now only one test remains. Once that’s resolved, the changes will be merged into the release branch. 
+
+---
+
 2025-10-17 Fri:
 This week i replaced Duktape with goja in the tracing subsystem. I and Ulad tested on the devnet and currently running tests on testnet. 
 
