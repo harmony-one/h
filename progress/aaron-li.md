@@ -1,4 +1,4 @@
-2025-10-28 Tue (0.6h+): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Q&A on backtesting and data.
+2025-10-28 Tue (1.2h): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Q&A on backtesting and data.
 
 2025-10-27 Mon (3.3h): Review alternative backtesting tool. Implement backtesting for lp-hedger. Review proposed event-based price calculation on return of known wallets.
 
