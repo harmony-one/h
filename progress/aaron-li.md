@@ -1,4 +1,4 @@
-2025-10-28 Tue (2.2h+): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods. Q&A on backtesting and data.
+2025-10-28 Tue (3.2h+): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods. Q&A on backtesting and data.
 
 2025-10-27 Mon (3.3h): Review alternative backtesting tool. Implement backtesting for lp-hedger. Review proposed event-based price calculation on return of known wallets.
 
