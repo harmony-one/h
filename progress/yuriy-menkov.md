@@ -1,3 +1,9 @@
+2025-10-28 Tue: Conducted a deeper analysis of the target (copied) contract’s events — to fully replicate the strategy, the position creation and staking actions must be executed within the same transaction. To achieve this, we decided to develop a Rebalancer contract that manages deposits and positions, combining multiple actions into a single transaction.
+
+2025-10-27 Mon: Testing and debugging the copy trading bot. Started working on implementing a multisig contract to combine position closing and opening operations within a single transaction to copy strategy with the same speed.
+
+---
+
 2025-10-24 Fri: Analyzed bot logs over a 24-hour period — following a sync with Artem, [implemented](https://github.com/harmony-one/portfolio-manager/pull/54) several optimizations, including improved WebSocket stability, event aggregation algorithm updates, and faster position-closing operations by reducing redundant requests.
 
 2025-10-23 Thu: [Deployed](https://copy-trading-wallet-1.fly.dev/copy-trading-stats) the MVP version of the copy-trading bot on the fly.io service. [Added](https://github.com/harmony-one/portfolio-manager/commit/136edab77b3860c2ba5c70770afdb3a7250cba1d) logging and a comparison table showing actions of the tracked address vs the bot’s address.
