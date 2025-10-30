@@ -1,4 +1,4 @@
-2025-10-29 Wed: cbBTC price collection takes too much time for large data files, optimizing script by parallelizing. Reading through Li's write-up on hedging while script running.
+2025-10-29 Wed: cbBTC price collection takes too much time for large data files, optimized script by parallelizing, adding block and swap caches, and increased retries. Reading through Li's write-up on hedging while script running.
 
 2025-10-28 Tue: Collecting price data to add to raw data for [[0x5919...](https://docs.google.com/spreadsheets/d/1K3APSyon3K6zCIB1_73SwJMlS0TvZfxIIw5zqMTvwGo/edit?gid=417379614#gid=417379614)]. Working on putting price data fetching and returns calculation into one script.
 
