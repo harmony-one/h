@@ -1,16 +1,30 @@
-2025-10-24 Fri: Filming and editing of Stream Sync short. Update of community section/
+2025-11-01 Sat: Progress thread
 
-2025-10-23 Thu:
-Created social copy explaining how BTC long-hedging helps reduce downside risk for liquidity providers. Designed a simple graphic to show how a hedge maintains stable returns during price dips.
+2025-10-31 Fri: Publishing of the October Newsletter. Filming and editing of a short to recap October progress.
 
-2025-10-22 Wed:
-Researched how BTC hedge positions work in sideways markets. Drafted short educational captions breaking down long-hedge benefits for everyday users.
+2025-10-30 Thu: Finalizing October newsletter and sending out first draft for review. Designing the newsletter thumbnail.
 
-2025-10-21 Tue:
-Wrote simple definitions for terms like “delta-neutral” and “hedged LP” to use in upcoming posts. Reviewed examples from other DeFi projects to refine how we explain BTC strategies to beginners.
+2025-10-29 Wed: Created marketing notes highlighting the launch of EIP-2537, which boosts Harmony’s cryptographic performance and enables faster zk-proofs and cross-chain bridges. Positioned the upgrade as a key step in Harmony’s alignment with Ethereum standards—emphasizing improved security, developer compatibility, and lower gas costs for advanced applications.
 
-2025-10-20 Mon:
-Outlined a content plan introducing the concept of BTC long-hedging step by step. Focused on making the topic feel approachable for new DeFi participants.
+2025-10-28 Tue: Drafted messaging around EIP-2935 and the new stream sync system, focusing on how these upgrades enhance network reliability and decentralization. Highlighted the benefits for validators and developers—faster syncing, stronger historical data access, and greater scalability—tying them to Harmony’s broader narrative of performance and resilience.
+
+2025-10-27 Mon: Updating content plan to communicate Harmony’s Q3 engineering milestones in simple, developer-friendly language. Focused on connecting technical progress—like BLS upgrades and sync improvements—to user-facing value such as faster performance, smoother validator onboarding, and long-term ecosystem trust.
+
+---
+
+2025-10-26 Sun: Review of team progress
+
+2025-10-25 Sat: Progress Thread
+
+2025-10-24 Fri: Filming and editing of [Stream Sync short](https://youtube.com/shorts/enJOZtI4eS0?si=1vU2LP2D73105ndV). Update of community section.
+
+2025-10-23 Thu: Created social copy explaining how BTC long-hedging helps reduce downside risk for liquidity providers. Designed a simple graphic to show how a hedge maintains stable returns during price dips.
+
+2025-10-22 Wed: Researched how BTC hedge positions work in sideways markets. Drafted short educational captions breaking down long-hedge benefits for everyday users.
+
+2025-10-21 Tue: Wrote simple definitions for terms like “delta-neutral” and “hedged LP” to use in upcoming posts. Reviewed examples from other DeFi projects to refine how we explain BTC strategies to beginners.
+
+2025-10-20 Mon: Outlined a content plan introducing the concept of BTC long-hedging step by step. Focused on making the topic feel approachable for new DeFi participants.
 
 ---
 
