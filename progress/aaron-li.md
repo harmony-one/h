@@ -1,4 +1,4 @@
-2025-10-29 Wed (2.4h): Separate DB connections of backtesting sessions and data reading. Q&A on backtesting and data. Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods.
+2025-10-29 Wed (2.4h+): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods. Separate DB connections of backtesting sessions and data reading. Q&A on backtesting and data.
 
 2025-10-28 Tue (3.4h): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods. Q&A on backtesting and data.
 
