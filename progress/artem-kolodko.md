@@ -1,3 +1,5 @@
+2025-10-29 Wed: configured and launched Aaron's [lp-backtest](https://github.com/polymorpher/lp-backtest) server locally. Development of backtesting script for our wallet address, [implemented](https://github.com/harmony-one/portfolio-manager/commit/8e0aceb0970d1232dbe348891ba7fb4467d605f3) basic methods for backtesting (mint, burn, observe).
+
 2025-10-28 Tue: resolved issues founds during local tests, [completed](https://github.com/harmony-one/portfolio-manager/pull/56) nonce support, merged into copy-trading branch
 
 2025-10-27 Mon: continue on custom nonce support for LP copy-trading bot: core logic, local tests
