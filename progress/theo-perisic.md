@@ -1,3 +1,7 @@
+2025-10-29 Wed: Reviewed [hummingbot](https://www.youtube.com/watch?v=5n_n0_Pjk5I) recent hedge parameters. Insight: CEX-DEX hedge is using OKX for perpetual short and raydium concentrated liquidity pool, with 14.57% width and 5% price deviation rebalance between CEX and DEX pricing. 
+
+2025-10-28 Tue: Reviewing Aaron’s [backtest engine](https://github.com/polymorpher/lp-backtest/blob/9d96bf50b010bf95070b0db114a86d67be1ddd23/src/lp_backtest/backtest/engine.py#L261). Insights: slippage and liquidity missing, fee collection is robust from historical swap, mint, and burn during backtest period.
+
 2025-10-27 Mon: Sharing insights from backtesting research. Adding details of simple September data backtest with different tick width. Insight: from 100-500 tick distribution runs, 500-tick range performed the best due to 30% lowered impermanent loss.
 
 ---
