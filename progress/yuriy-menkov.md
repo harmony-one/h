@@ -1,3 +1,9 @@
+2025-10-31 Fri: Tested copy-trading bot version connected to the rebalancer contract and staking system. Fixed several bugs and started collecting performance statistics. Added missing methods for reward withdrawal and contract ownership transfer. The latest version of the bot is deployed [here](https://copy-trading-wallet-1.fly.dev/copy-trading-stats).
+
+2025-10-30 Thu: Integrated rebalance contract with the copy-trading bot — the rebalance is now triggered automatically upon receiving events from the monitored strategy contract. Added logic for auto-funding the contract deposit during bot initialization. Currently testing the contract in combination with the bot.
+
+2025-10-29 Wed: [Published](https://github.com/harmony-one/copy-trading-contract) the first draft version of the Rebalancer contract, which includes four main methods — deposit, withdraw, rebalance, and close positions. The rebalance function closes all current positions and opens new ones with staking, fully replicating the target strategy in a single transaction.
+
 2025-10-28 Tue: Conducted a deeper analysis of the target (copied) contract’s events — to fully replicate the strategy, the position creation and staking actions must be executed within the same transaction. To achieve this, we decided to develop a Rebalancer contract that manages deposits and positions, combining multiple actions into a single transaction.
 
 2025-10-27 Mon: Testing and debugging the copy trading bot. Started working on implementing a multisig contract to combine position closing and opening operations within a single transaction to copy strategy with the same speed.
