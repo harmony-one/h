@@ -1,3 +1,5 @@
+2025-10-30 Thu (My birthday, also 2 year anniversary at Harmony!): Wrote a script to calculate returns metrics instead of calculating directly on spreadsheets, this should now make the hodl calculation more accurate and also align with Artem's [calculation method](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/stats/index.ts). Fixed some bugs for [cbBTC price fetcher](https://github.com/rikaa15/basescan-price) (it was storing prices in a set so if there were identical transactions, it would remove them to only contain unique transactions), also resolving issue with missing data when refetching.
+
 2025-10-29 Wed: cbBTC price collection takes too much time for large data files, optimized script by parallelizing, adding block and swap caches, and increased retries. Reading through Li's write-up on hedging while script running.
 
 2025-10-28 Tue: Collecting price data to add to raw data for [[0x5919...](https://docs.google.com/spreadsheets/d/1K3APSyon3K6zCIB1_73SwJMlS0TvZfxIIw5zqMTvwGo/edit?gid=417379614#gid=417379614)]. Working on putting price data fetching and returns calculation into one script.
