@@ -1,6 +1,17 @@
+2025-10-31 Fri:
+
+First of all, I've finished the collect crashes feature for our logging system, it is live now in devnet, testnet, mainnet networks.
+
+For the support activities, created a snapDB creation guide for the community and will publish it after fixing a few comments from the validators.
+For the stream sync and trusted node feature I've recommended Ghies to use the [dnsaddr](https://github.com/libp2p/specs/blob/master/addressing/README.md#dnsaddr-links) libp2p feature like we are using in the bootnodes and created two TXT dns records for this - `_dnsaddr.trusted.s0.ps.hmny.io`,`_dnsaddr.trusted.s1.ps.hmny.io`.
+
+And finally for the Base node, I've created a runbook covering all usage scenarios, updates and gotchas for this infra part. Additionally, I've enabled the Flashblocks RPC on it by request from the team. Previous week versions monitoring setup already helped me to catch 3 Base RPC updates and do it right on time.
+
+---
+
 2025-10-24 Fri:
 
-During the collect crashes review  from systemd service in the testnet, I've noticed that not all systemd services can append to the file, checked other possibilities here and found that promtail can parse the journal directly thus rewritten my solution accordingly and rollout it to the devnet.
+During the collect crashes review in the testnet, I've noticed that not all systemd services can append to the file, checked other possibilities here and found that promtail can parse the journal directly thus rewritten my solution accordingly and rollout it to the devnet.
 
 For the support activities, I was helping Gheis with a fresh bundle of stream sync features and installed Kostnantin's `replace ducktape with goja` PR version to the testnet RPC.
 
