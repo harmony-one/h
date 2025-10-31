@@ -1,3 +1,5 @@
+2025-10-31 Fri (1.0h): Discuss backtesting, data, strategy implementation.
+
 2025-10-30 Thu (0.4h): Fix missing LP snapshots.
 
 2025-10-29 Wed (2.5h): Refine backtesting for lp-hedger. Deploy BTC lp-hedger. Replace SugarPosition and contract implementations with more reliable query methods. Separate DB connections of backtesting sessions and data reading. Q&A on backtesting and data.
