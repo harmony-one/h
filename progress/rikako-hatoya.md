@@ -1,3 +1,5 @@
+2025-10-31 Fri: Re-wrote script to fetch cbbtc price and calculate returns in one [repo](https://github.com/rikaa15/lp-returns). [Tested](https://docs.google.com/spreadsheets/d/1MIMzr_CBvdHvBX7GmFZoJqFyYM9bwWtTDvFB7UP228E/edit?gid=1391147672#gid=1391147672) for 0x5919... and 0x98...(Artem bot) and manually checked data is matching.
+
 2025-10-30 Thu (My birthday, also 2 year anniversary at Harmony!): Wrote a script to calculate returns metrics instead of calculating directly on spreadsheets, this should now make the hodl calculation more accurate and also align with Artem's [calculation method](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/stats/index.ts). Fixed some bugs for cbBTC price fetcher (it was storing prices in a set so if there were identical transactions, it would remove them to only contain unique transactions), also resolving issue with missing data when refetching.
 
 2025-10-29 Wed: cbBTC price collection takes too much time for large data files, optimized script by parallelizing, adding block and swap caches, and increased retries. Reading through Li's write-up on hedging while script running.
