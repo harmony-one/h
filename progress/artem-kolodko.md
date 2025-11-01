@@ -1,3 +1,5 @@
+2025-10-31 Fri: copy-trading bot: [completed](https://github.com/harmony-one/portfolio-manager/pull/49) integration with Rebalancer smart-contract, new version of bot [launched](https://copy-trading-wallet-1.fly.dev/copy-trading-stats) on fly.io and start trading.
+
 2025-10-30 Thu: copy-trading bot: [added](https://github.com/harmony-one/portfolio-manager/pull/57/commits/0f24a61f5f621ef2ffd986d61576de70946da8a5) rebalancer service with all method from new rebalancer contract; started integration with rebalancing logic. [Drafed script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/backtesting/index.ts) to test Aaron's backtesting framework based on events from our LP bot wallet.
 
 2025-10-29 Wed: configured and launched Aaron's [lp-backtest](https://github.com/polymorpher/lp-backtest) server locally. Development of backtesting script for LP bot wallet address for September, [implemented](https://github.com/harmony-one/portfolio-manager/commit/8e0aceb0970d1232dbe348891ba7fb4467d605f3) basic methods for backtesting (mint, burn, observe).
