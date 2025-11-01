@@ -1,4 +1,4 @@
-2025-10-31 Fri (1.0h): Discuss backtesting, data, strategy implementation.
+2025-10-31 Fri (1.5h+): Debugging and deploy LP Hedger BTC. Discuss backtesting, data, strategy implementation.
 
 2025-10-30 Thu (0.4h): Fix missing LP snapshots.
 
