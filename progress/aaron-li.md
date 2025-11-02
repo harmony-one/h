@@ -1,4 +1,4 @@
-2025-11-1 Sat (3.1h+): Debugging and deploy LP Hedger BTC.
+2025-11-1 Sat (4.1h+): Debugging and deploy LP Hedger BTC.
 
 2025-10-31 Fri (1.8h): Debugging and deploy LP Hedger BTC. Discuss backtesting, data, strategy implementation.
 
