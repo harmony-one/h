@@ -1,3 +1,5 @@
+2025-11-02 Sun (2.0h): [Ran](https://drive.google.com/drive/folders/1sQ0vxvBSOHdfHbFJgpA54x2qa754XqU1) timeline tool, [chose](https://docs.google.com/spreadsheets/d/1GX3-RJWdKp4tjDI8PyUo7ydM9YUPCK9ugCLEhXunii4/edit?gid=0#gid=0) 5 positions each from our bot and copy bot for comparison. Ran [returns script](https://github.com/rikaa15/lp-returns) on both to see the [difference](https://docs.google.com/spreadsheets/d/1nt4wa7IxEoSqlrT-J6ovseaKBA6aqCg-AFg_gTnG_e4/edit?gid=0#gid=0) between the two.
+
 2025-11-01 Sat (1.0h): Started working on variance between bot and copy bot.
 
 2025-10-31 Fri: Re-wrote script to fetch cbbtc price and calculate returns in one [repo](https://github.com/rikaa15/lp-returns). [Tested](https://docs.google.com/spreadsheets/d/1MIMzr_CBvdHvBX7GmFZoJqFyYM9bwWtTDvFB7UP228E/edit?gid=1391147672#gid=1391147672) for 0x5919... and 0x98...(Artem bot) and manually checked data is matching.
