@@ -1,4 +1,4 @@
-2025-11-3 Mon (0.5h+): Review backtesting progress.
+2025-11-3 Mon (1.4h): Review backtesting progress.
 
 ---
 
