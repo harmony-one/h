@@ -1,3 +1,16 @@
+
+2025-11-3 Mon: Sync with Li and Artem, building [backtest](https://github.com/polymorpher/lp-backtest) and [scripts](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/backtest/index.ts) locally. Outreach with Protofire regarding Lend and Aave.
+
+---
+
+2025-11-2 Sun: (2h) Continued review. Insights: simplify and verify first, each base parameter and decision, before adding complexity. Changing bottom up focus of specific backtesting parameters, to top down “achieving 30%+ returns on BTC”. 2 paths: copy trading and LP hedging, best to keep separate until complete (then combine if hedging would be confirmed beneficial to add to copy trading). 
+
+2025-11-1 Sat: (1h) Review of previous week. Insights: master product document helps isolate misunderstandings and work efficiently, but missing is document or distillation of requirements.
+
+2025-10-31 Fri: Troubleshooting between Aaron’s backtest and Artem’s script. Suggestion would be to combine to one source of truth. Insight: as is, backtest server runs then Artem’s scrip is applied, sources work together, but we have yet to align on a single script to use, and parameters to use.
+
+2025-10-30 Thu: Team sync, focus on concentrating efforts. Insights: reduced initial tracking to single day events of top wallets, rather than verifying backtests over complete 160k+ events per wallet (5h+ runtimes). Full test will follow after initial alignment.
+
 2025-10-29 Wed: Reviewed [hummingbot](https://www.youtube.com/watch?v=5n_n0_Pjk5I) recent hedge parameters. Insight: CEX-DEX hedge is using OKX for perpetual short and raydium concentrated liquidity pool, with 14.57% width and 5% price deviation rebalance between CEX and DEX pricing. 
 
 2025-10-28 Tue: Reviewing Aaron’s [backtest engine](https://github.com/polymorpher/lp-backtest/blob/9d96bf50b010bf95070b0db114a86d67be1ddd23/src/lp_backtest/backtest/engine.py#L261). Insights: slippage and liquidity missing, fee collection is robust from historical swap, mint, and burn during backtest period.
