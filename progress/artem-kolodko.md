@@ -1,4 +1,4 @@
-2025-11-03 Mon: Aaron's backtesting: collected stats for a single position #24623109 from the blockchain to compare with result predicted in the backtesting system, shared with the team and Aaron (in the master doc). Continue on hedge modeling (for now, only to reduce IL for our LP bot positions in September; later will switch to wider time data). Prepared instruction how to run Aaron's backtesting system and the example script locally, shared with the team.
+2025-11-03 Mon: Aaron's backtesting: collected stats for a single position #24623109 from the blockchain to compare with result predicted in the backtesting system, shared with the team and Aaron (in the master doc). Continue on hedge modeling (for now, only to reduce IL for our LP bot positions in September; later will switch to wider time data).
 
 ---
 
