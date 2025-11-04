@@ -1,3 +1,9 @@
+2025-11-03 Mon: Aaron's backtesting: collected stats for a single position #24623109 from the blockchain to compare with result predicted in the backtesting system, shared with the team and Aaron (in the master doc). Continue on hedge modeling (for now, only to reduce IL for our LP bot positions in September; later will switch to wider time data). Prepared instruction how to run Aaron's backtesting system and the example script locally, shared with the team.
+
+---
+
+2025-11-02 Sun (2.0h): checked Curve LP architecture: impermanent loss is significantly lower due to different bonding curve and active rebalancing integrated into Curve protocol, but also fees are lower. Yield Basis plan to increase LP pools limit from 150M to 500M.
+
 2025-10-31 Fri: copy-trading bot: [completed](https://github.com/harmony-one/portfolio-manager/pull/49) integration with Rebalancer smart-contract, new version of bot [launched](https://copy-trading-wallet-1.fly.dev/copy-trading-stats) on fly.io and start trading.
 
 2025-10-30 Thu: copy-trading bot: [added](https://github.com/harmony-one/portfolio-manager/pull/57/commits/0f24a61f5f621ef2ffd986d61576de70946da8a5) rebalancer service with all method from new rebalancer contract; started integration with rebalancing logic. [Drafed script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/backtesting/index.ts) to test Aaron's backtesting framework based on events from our LP bot wallet.
