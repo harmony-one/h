@@ -1,3 +1,5 @@
+2025-11-03 Mon: Team sync on verifying [transactions](https://docs.google.com/spreadsheets/d/1nt4wa7IxEoSqlrT-J6ovseaKBA6aqCg-AFg_gTnG_e4/edit?gid=0#gid=0) for Yuriy's new copy bot. Looked into latency-aware toxic flow detector and when to pull out liquidity, and inventory risk.
+
 2025-11-02 Sun (2.0h): [Ran](https://drive.google.com/drive/folders/1sQ0vxvBSOHdfHbFJgpA54x2qa754XqU1) timeline tool, [chose](https://docs.google.com/spreadsheets/d/1GX3-RJWdKp4tjDI8PyUo7ydM9YUPCK9ugCLEhXunii4/edit?gid=0#gid=0) 5 positions each from our bot and copy bot for comparison. Ran [returns script](https://github.com/rikaa15/lp-returns) on both to see the [difference](https://docs.google.com/spreadsheets/d/1nt4wa7IxEoSqlrT-J6ovseaKBA6aqCg-AFg_gTnG_e4/edit?gid=0#gid=0) between the two.
 
 2025-11-01 Sat (1.0h): Started working on variance between bot and copy bot.
