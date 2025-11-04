@@ -1,4 +1,4 @@
-2025-11-4 Tue (1.7h+): Debugging and deploy LP Hedger BTC. Review backtesting inconsistency. Improve Hyperliquid hedging thresholds. Research on continuous parameters.
+2025-11-4 Tue (2.3h): Debugging and deploy LP Hedger BTC. Review backtesting inconsistency. Improve Hyperliquid hedging thresholds. Research on continuous parameters.
 
 2025-11-3 Mon (5.8h): Fix issues related to quote-asset being token0 during debugging and deploy LP Hedger BTC. Review backtesting progress.
 
