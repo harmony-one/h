@@ -1,3 +1,9 @@
+2025-10-31 Fri:
+This week I worked on reproducing differences found during integration testing with Ulad. We discovered inconsistent gas usage between the old and new code versions. I set up a dedicated test server and ran both versions to compare their execution results. The main challenge was that new unit tests passed successfully, yet they unexpectedly affected integration test behavior, leading to further debugging and analysis. 
+
+---
+
+
 2025-10-24 Fri (2 days off):
 This week, I worked on Goja’s passing unit and functional tests. I fixed the failing ones, and now only one test remains. Once that’s resolved, the changes will be merged into the release branch. 
 
