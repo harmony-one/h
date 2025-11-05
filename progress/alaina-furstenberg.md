@@ -1,3 +1,14 @@
+
+2025-11-05 Wed: Uploading of the DeFi short to youtube. Reading Delphi Digital article "Crypto Options: An aging dinosaur or overlooked behemoth?" and posting a [thread]() of insights. Insights: Many treat crypto options as outdated, but in tradfi they’re still booming and now regulations, infra, and models have finally caught up for them to work on-chain. The real opportunity probably isn’t in another perp DEX, but in a few options DEXes that make it easy, fast, and reliable enough for big players to actually use.
+
+2025-11-04 Tue: Creation of shorts in Descript. Read [Apps and Chains, Not Issuers: The Next Wave of Stablecoin Economics Belongs to DeFion Delphi Digital](https://members.delphidigital.io/reports/apps-and-chains-not-issuers-the-next-wave-of-stablecoin-economics-belongs-to-defi#key-takeaways). Insight: Stablecoins are moving from big issuers like Circle and Tether to the hands of DeFi apps and chains that want to keep the yield for themselves. The real winners now are the platforms with loyal users and smart coordination...those turning stablecoins from boring payment rails into steady income for their own ecosystems.
+
+2025-11-03 Mon: [Thread](https://x.com/harmonyprotocol/status/1985476014848557165) summarizing the October 2025 newsletter.
+
+---
+
+2025-11-02 Sun: Review of team progress
+
 2025-11-01 Sat: Progress thread
 
 2025-10-31 Fri: Publishing of the October Newsletter. Filming and editing of a short to recap October progress.
