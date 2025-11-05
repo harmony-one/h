@@ -1,4 +1,4 @@
-2025-11-5 Wed (1.1h): Review hedge strategy and continuous parameters.
+2025-11-5 Wed (1.2h): Review hedge strategy and continuous parameters.
 
 2025-11-4 Tue (3.5h): Debugging and deploy LP Hedger BTC. Review backtesting inconsistency. Improve Hyperliquid hedging thresholds. Research on continuous parameters.
 
