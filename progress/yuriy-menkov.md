@@ -1,3 +1,9 @@
+2025-11-4 Tue: Stability improvements to the copy trading bot: redundant collect calls from the contract were removed, the event aggregation algorithm was optimized, and a case for closing positions without rebalancing was added.
+
+2025-11-3 Mon: Verification of varience in the copy trading bot’s performance compared target wallet based on transactions collected by Rika. Research revealed several discrepancies: a 3-block delay when opening positions, missed closures of some positions, and extra collect events.
+
+---
+
 2025-10-31 Fri: Tested copy-trading bot version connected to the rebalancer contract and staking system. Fixed several bugs and started collecting performance statistics. Added missing methods for reward withdrawal and contract ownership transfer. The latest version of the bot is deployed [here](https://copy-trading-wallet-1.fly.dev/copy-trading-stats).
 
 2025-10-30 Thu: Integrated rebalance contract with the copy-trading bot — the rebalance is now triggered automatically upon receiving events from the monitored strategy contract. Added logic for auto-funding the contract deposit during bot initialization. Currently testing the contract in combination with the bot.
