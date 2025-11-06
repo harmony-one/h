@@ -1,3 +1,7 @@
+2025-11-05 Wed: [added](https://github.com/harmony-one/portfolio-manager/commit/9706500ab182929d67d3456ec8b8f60fe0337579) dynamic hedge model (short BTC/USD perps position follows LP cbBTC exposure over equal time intervals); validation of results. Looking at Li's hedging idea.
+
+2025-11-04 Tue: continue on hedging model script, [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) first version with static short BTC perps position following LP BTC exposure
+
 2025-11-03 Mon: Aaron's backtesting: collected stats for a single position #24623109 from the blockchain to compare with result predicted in the backtesting system, shared with the team and Aaron (in the master doc). Continue on hedge modeling (for now, only to reduce IL for our LP bot positions in September; later will switch to wider time data).
 
 ---
