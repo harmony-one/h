@@ -1,3 +1,5 @@
+2025-11-05 Wed: [Updated] returns script, now fetches real AERO token prices from coingecko, exports csv for wallet analysis by day, and caching logic for swap added from 11/04. Added XIRR calculation but profit analysis by position and by day has discrepancy, working on fix.
+
 2025-11-04 Tue: Fixed returns calculation script to use multiple burn price, and pre-fetch swaps to decreasing rpc calls, reducing run time by >50x. Ran script for 0x5919 and manually checked positions.
 
 2025-11-03 Mon: Team sync on verifying [transactions](https://docs.google.com/spreadsheets/d/1nt4wa7IxEoSqlrT-J6ovseaKBA6aqCg-AFg_gTnG_e4/edit?gid=0#gid=0) for Yuriy's new copy bot. Looked into latency-aware toxic flow detector and when to pull out liquidity, and inventory risk.
