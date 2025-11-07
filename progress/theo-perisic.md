@@ -1,3 +1,10 @@
+2025-11-7 Fri: Team sync, and discussed [uniswap v3 paper](https://atise.medium.com/liquidity-provider-strategies-for-uniswap-v3-dynamic-hedging-9e6858bea8fa). Insight: Aave lend, hyperliquid perpetual, and Deribit options are all examples of the same side of a coin, each trying to remove the sqrt price deviation of a liquidity pool. The question to answer is which accomplishes this task the best, measured in reduction of impermanent loss, and which does it the best, measured in cost of operation. 
+
+2025-11-6 Thu: Looking further into ML resources for LP hedging. Insight: looking into hummingbot, found [Quant Lab](https://hummingbot.org/quants-lab/) for data collection, backtesting, and strategy development, which can be built on top of for our requirements.
+
+2025-11-5 Wed: Reviewed market making hedging strategy from [master doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0). Insight: market making hedging cuts into profits, while LP hedging accumulates fees.  Both have different reward systems.
+
+2025-11-4 Tue: Successfully ran and verified Aaron’s [backtesting](https://github.com/polymorpher/lp-backtest) with Artem’s bot and script. Insights: during first position, bot returns negative while backtesting returns significantly positive, a 1% return in a single position. Slippage, fees, and BTC pricing are the reasons for difference in backtest vs actual bot performance.
 
 2025-11-3 Mon: Sync with Li and Artem, building [backtest](https://github.com/polymorpher/lp-backtest) and [scripts](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/backtest/index.ts) locally. Outreach with Protofire regarding Lend and Aave.
 
