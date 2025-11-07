@@ -1,3 +1,5 @@
+2025-11-6 Thu (1.5h): Discuss hedge strategy progress, unique advantage, and implementation options.
+
 2025-11-5 Wed (4.1h): Revise LP Hedger BTC deployment parameters, investigate logs. Discuss LP position and hedging timing and strategies. Review hedge strategy and continuous parameters.
 
 2025-11-4 Tue (3.5h): Debugging and deploy LP Hedger BTC. Review backtesting inconsistency. Improve Hyperliquid hedging thresholds. Research on continuous parameters.
