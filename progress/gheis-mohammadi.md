@@ -1,4 +1,4 @@
-2025-11-01 Sat: Last week, I mainly focused on enhancing the trusted nodes mechanism to make it more automatic and resilient. I implemented [PR 4962](https://github.com/harmony-one/harmony/pull/4962), which refines how trusted peers are sourced, selected, and maintained by the P2P host.
+2025-11-01 Sat: I focused on enhancing the trusted nodes mechanism to make it more automatic and resilient. I implemented [PR 4962](https://github.com/harmony-one/harmony/pull/4962), which refines how trusted peers are sourced, selected, and maintained by the P2P host.
 
 This update ensures that if the configuration doesn’t provide enough explicit trusted nodes, the host dynamically expands DNS-based sources (dnsaddr) and randomly selects only the required number of peers to meet the staged stream sync minimum. This design prevents over-connecting while ensuring the stream manager always has a sufficient set of stable and reliable peers for smooth synchronization. The system parses and connects to concrete multiaddrs directly, while dnsaddr sources are resolved into peer candidates and sampled as needed. These trusted peers are then seeded into the peerstore and proactively connected to, enabling the stream manager to establish and maintain strong, persistent streams.
 
@@ -6,7 +6,7 @@ The PR is currently under testing. Once verified and reviewed by the team next w
 
 ---
 
-2025-10-25 Sat: Both **Devnet** and **Testnet** remained fully stable following the latest deployment, showing excellent performance in synchronization. I am now focusing on final enhancements and optimizations as we prepare for the **mainnet release** in the upcoming version.  
+2025-10-25 Sat: Both Devnet and Testnet remained fully stable following the latest deployment, showing excellent performance in synchronization. I am now focusing on final enhancements and optimizations as we prepare for the **mainnet release** in the upcoming version.  
 
 I implemented [PR 4959](https://github.com/harmony-one/harmony/pull/4959), which delivers major performance improvements to the **sync status checking** mechanism by introducing **role-based strategies** and optimizing the **double-check process** for nodes that are significantly behind the network.  
 The first improvement applies role-based sync strategies: **consensus leaders** now use *fast sync checks* to reduce latency and maintain **1-second finality**, while **non-leaders** continue using *double-check verification* for accuracy. This ensures optimal efficiency for leaders while maintaining data integrity for other nodes.  
@@ -967,6 +967,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
