@@ -1,3 +1,13 @@
+2025-11-07 Fri:
+
+First of all, I was helping Gheis with the [trusted nodes concept](https://github.com/harmony-one/harmony/pull/4962) testing on the devnet. I've created a few new panels from my side to visualize how trusted nodes are used both on the libp2p and stream levels through both shards.
+
+For the support activities, I've created a fresh snapDB and shared [snapDB creation guide](https://docs.harmony.one/home/network/validators/node-setup/5.-advanced-how-to-create-snapdb-on-your-server) with community.
+
+And finally for the Base node, I've upgraded nodes the whole chain L1 Erigon and Lighthouse for the Fusaka hardfork on Ethereum, and for the Base Reth for the Jovian optimism hardfork.
+
+---
+
 2025-10-31 Fri:
 
 First of all, I've finished the collect crashes feature for our logging system, it is live now in devnet, testnet, mainnet networks.
