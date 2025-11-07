@@ -1,4 +1,4 @@
-2025-11-06 Thu: [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) script with limit orders estimation (market-maket approach) for hedging LP btc exposure; esimation showed positive results for September 2025 for our bot wallet address; continue research
+2025-11-06 Thu: [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) script with limit orders estimation (market-maker approach) for hedging LP btc exposure; esimation showed positive results for September 2025 for our bot wallet address; continue research
 
 2025-11-05 Wed: [added](https://github.com/harmony-one/portfolio-manager/commit/9706500ab182929d67d3456ec8b8f60fe0337579) dynamic hedge model (short BTC/USD perps position follows LP cbBTC exposure over equal time intervals); validation of results. Looking at Li's hedging idea.
 
