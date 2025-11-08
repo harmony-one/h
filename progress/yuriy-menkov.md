@@ -1,6 +1,12 @@
-2025-11-4 Tue: Stability improvements to the copy trading bot: redundant collect calls from the contract were removed, the event aggregation algorithm was optimized, and a case for closing positions without rebalancing was added.
+2025-11-07 Fri: Tested the updated contract with tokens rebalance logic (balances ratio scaling) before opening each new position, in conjunction with the copy-trading service. Transactions history analysis and bug fixes.
 
-2025-11-3 Mon: Verification of varience in the copy trading bot’s performance compared target wallet based on transactions collected by Rika. Research revealed several discrepancies: a 3-block delay when opening positions, missed closures of some positions, and extra collect events.
+2025-11-06 Thu: Implementation of the ratio determination logic in the copy-trading bot service — added ratio calculation and integration with the updated contract methods. Testing different RPCs to maximize transaction submission speed — achieving a reaction time of 1 block.
+
+2025-11-05 Wed: Added ratio scaling logic at the contract level to fully replicate the strategy of the original contract. The rebalance method was extended, and a new ratio parameter was introduced — it is sent by the copy-trading bot service, after which a swap is executed to adjust the token proportions before each new position is opened.
+
+2025-11-04 Tue: Stability improvements to the copy trading bot: redundant collect calls from the contract were removed, the event aggregation algorithm was optimized, and a case for closing positions without rebalancing was added.
+
+2025-11-03 Mon: Verification of varience in the copy trading bot’s performance compared target wallet based on transactions collected by Rika. Research revealed several discrepancies: a 3-block delay when opening positions, missed closures of some positions, and extra collect events.
 
 ---
 
