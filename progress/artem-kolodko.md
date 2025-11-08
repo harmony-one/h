@@ -1,4 +1,6 @@
-2025-11-06 Thu: [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) script with limit orders estimation (market-maker approach) for hedging LP btc exposure; esimation showed positive results for September 2025 for our bot wallet address; continue research
+2025-11-07 Fri: completed [script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/balance/index.ts) to check wallet balances at specific block; researched Rebalance transaction logic of one of most profitable wallets [0x591](https://www.tdly.co/tx/0xad413c8225dfce8717831a1adbee496b3e0829882ebe3a118b575c1e44498b67): funds are borrowed from Aave, invested and withdrawn within one block (wallet is not using his own funds for LP investing).
+
+2025-11-06 Thu: [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) script for hedging LP btc exposure; esimation showed positive results for September 2025 for our bot wallet address; continue research
 
 2025-11-05 Wed: [added](https://github.com/harmony-one/portfolio-manager/commit/9706500ab182929d67d3456ec8b8f60fe0337579) dynamic hedge model (short BTC/USD perps position follows LP cbBTC exposure over equal time intervals); validation of results. Looking at Li's hedging idea.
 
