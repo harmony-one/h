@@ -1,3 +1,5 @@
+2025-11-07 Fri: Looked into [articles](https://atise.medium.com/) regarding hedging. Looked into [transactions](https://dashboard.tenderly.co/tx/0xad413c8225dfce8717831a1adbee496b3e0829882ebe3a118b575c1e44498b67) by our copy bot (0x5919...) and activity with Aave.
+
 2025-11-06 Thu: [Updated](https://github.com/rikaa15/lp-returns/commit/86575a68881b1cf710c610c119ff4e54f8b4b422) returns script, fixed some discrepancies in total calculation between by-positions and by-day output csv's, reviewed and added XIRR and APR calculation (got APR for 0x5919: 68.79%). Looked into Aaron's write-up from meeting yesterday and looked into [hedging](https://atise.medium.com/liquidity-provider-strategies-for-uniswap-v3-dynamic-hedging-9e6858bea8fa).
 
 2025-11-05 Wed: [Updated](https://github.com/rikaa15/lp-returns/commit/f1404bbb8220ee9beff5ed39dd17bc3c5ecbf6bb) returns script, now fetches real AERO token prices from coingecko, exports csv for wallet analysis by day, and caching logic for swap added from 11/04. Added XIRR calculation but profit analysis by position and by day has discrepancy, working on fix.
