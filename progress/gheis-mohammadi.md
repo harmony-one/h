@@ -1,3 +1,17 @@
+2025-11-08 Sat: Last week, I continued working on [PR 4962](https://github.com/harmony-one/harmony/pull/4962) and added several improvements and new metrics. I also fixed build issues and enhanced the **trusted nodes logic** to support both **DNS address format** and **MultiAddress format**.  
+If the trusted nodes array is empty, the system now automatically adds **random DNS static nodes**, ensuring a more resilient peer selection mechanism.  
+The updated feature has been deployed to **Devnet test nodes** and is working as expected. The team is currently investigating one metric-related issue, and once that’s resolved, we’ll proceed with a full deployment across all **Devnet** and **Testnet** nodes.
+
+Additionally, I implemented [EIP-3855](https://eips.ethereum.org/EIPS/eip-3855), which introduces the new **PUSH0** opcode to the Ethereum Virtual Machine (EVM).  
+This opcode pushes the value `0` onto the stack using just **1 byte of bytecode** and costs **2 gas**, compared to the older `PUSH1 0` instruction that required **2 bytes** and **3 gas**.  
+Since zero values are used frequently in smart contracts—for example, in offsets or return data handling—this improvement reduces **bytecode size**, **deployment costs**, and **execution gas usage**.  
+
+The implementation, included in [PR 4963](https://github.com/harmony-one/harmony/pull/4963), allows activation through the `EIP3855Epoch` configuration parameter. When enabled, the EVM interpreter adds the **PUSH0 opcode** to its jump table, enabling contracts to use this more efficient instruction.  
+This update is part of Harmony’s ongoing effort to stay aligned with **Ethereum improvements** while maintaining its **epoch-based upgrade mechanism**.  
+The feature is now **completed and ready for team review**.
+
+---
+
 2025-11-01 Sat: I focused on enhancing the trusted nodes mechanism to make it more automatic and resilient. I implemented [PR 4962](https://github.com/harmony-one/harmony/pull/4962), which refines how trusted peers are sourced, selected, and maintained by the P2P host.
 
 This update ensures that if the configuration doesn’t provide enough explicit trusted nodes, the host dynamically expands DNS-based sources (dnsaddr) and randomly selects only the required number of peers to meet the staged stream sync minimum. This design prevents over-connecting while ensuring the stream manager always has a sufficient set of stable and reliable peers for smooth synchronization. The system parses and connects to concrete multiaddrs directly, while dnsaddr sources are resolved into peer candidates and sampled as needed. These trusted peers are then seeded into the peerstore and proactively connected to, enabling the stream manager to establish and maintain strong, persistent streams.
@@ -967,6 +981,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
