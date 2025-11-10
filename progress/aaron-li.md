@@ -1,4 +1,4 @@
-2025-11-10 Mon (0.3h): Fix hedge closing bug.
+2025-11-10 Mon (0.4h): Fix hedge closing bug.
 
 ---
 
