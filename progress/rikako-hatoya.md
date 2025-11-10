@@ -1,3 +1,7 @@
+2025-11-09 Sun: Continuation with implementing true hodl XIRR. Testing to check the calculations are correct.
+
+2025-11-08 Sat: Switch from high-level XIRR and APR. Integration of true hodl XIRR calculation to returns script.
+
 2025-11-07 Fri: Looked into [articles](https://atise.medium.com/) regarding hedging. Looked into [transactions](https://dashboard.tenderly.co/tx/0xad413c8225dfce8717831a1adbee496b3e0829882ebe3a118b575c1e44498b67) by our copy bot (0x5919...) and activity with Aave.
 
 2025-11-06 Thu: [Updated](https://github.com/rikaa15/lp-returns/commit/86575a68881b1cf710c610c119ff4e54f8b4b422) returns script, fixed some discrepancies in total calculation between by-positions and by-day output csv's, reviewed and added XIRR and APR calculation (got APR for 0x5919: 68.79%). Looked into Aaron's write-up from meeting yesterday and looked into [hedging](https://atise.medium.com/liquidity-provider-strategies-for-uniswap-v3-dynamic-hedging-9e6858bea8fa).
