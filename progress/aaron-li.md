@@ -1,3 +1,7 @@
+2025-11-10 Mon (0.3h): Fix hedge closing bug.
+
+---
+
 2025-11-6 Thu (1.5h): Discuss hedge strategy progress, unique advantage, and implementation options.
 
 2025-11-5 Wed (4.1h): Revise LP Hedger BTC deployment parameters, investigate logs. Discuss LP position and hedging timing and strategies. Review hedge strategy and continuous parameters.
