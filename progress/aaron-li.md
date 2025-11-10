@@ -1,4 +1,4 @@
-2025-11-10 Mon (0.4h): Fix hedge closing bug.
+2025-11-10 Mon (0.8h+): Investigate and fix Deribit hedge closing bug. Collect October data.
 
 ---
 
