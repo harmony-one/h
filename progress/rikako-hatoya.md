@@ -1,3 +1,7 @@
+2025-11-10 Mon: Improved lp-returns script: excluded pre-existing and unclosed positions from analysis calculation, fixed active time miscalculation, added script for comparison table output. Ran script to compare metrics between Yuriy's and target bot.
+
+---
+
 2025-11-09 Sun: Continuation with implementing true hodl XIRR. Testing to check the calculations are correct.
 
 2025-11-08 Sat: Switch from high-level XIRR and APR. Integration of true hodl XIRR calculation to returns script.
