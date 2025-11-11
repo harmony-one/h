@@ -1,3 +1,7 @@
+2025-11-10 Mon: hedging model: updaing the script with more frequently check underlying asset price for more precise results; [adding](https://github.com/harmony-one/portfolio-manager/commit/f2caeccd14533dbf5e6a983f386a0bdc7ea544af) funding rates periodic payments (long paying shorts) into calculations of hedging PnL
+
+---
+
 2025-11-07 Fri: completed [script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/balance/index.ts) to check wallet balances at specific block; researched Rebalance transaction logic of one of most profitable wallets [0x591](https://www.tdly.co/tx/0xad413c8225dfce8717831a1adbee496b3e0829882ebe3a118b575c1e44498b67): funds are borrowed from Aave, invested and withdrawn within one block (wallet is not using his own funds for LP investing).
 
 2025-11-06 Thu: [completed](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/index.ts) script for hedging LP btc exposure; esimation showed positive results for September 2025 for our bot wallet address; continue research
