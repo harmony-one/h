@@ -1,4 +1,4 @@
-2025-11-10 Mon: hedging model: updaing the script with more frequently check underlying asset price for more precise results; [adding](https://github.com/harmony-one/portfolio-manager/commit/f2caeccd14533dbf5e6a983f386a0bdc7ea544af) funding rates periodic payments (long paying shorts) into calculations of hedging PnL
+2025-11-10 Mon: hedging model: updaing the script with more frequent checks of the underlying asset price for more precise results; [adding](https://github.com/harmony-one/portfolio-manager/commit/f2caeccd14533dbf5e6a983f386a0bdc7ea544af) funding rates periodic payments (longs paying shorts) into calculations of hedging PnL
 
 ---
 
