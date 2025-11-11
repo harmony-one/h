@@ -1,4 +1,4 @@
-2025-11-10 Mon: Improved lp-returns script: excluded pre-existing and unclosed positions from analysis calculation, fixed active time miscalculation, added script for comparison table output. Ran script to compare metrics between Yuriy's and target bot.
+2025-11-10 Mon: Improved [lp-returns script](https://github.com/rikaa15/lp-returns): added comparison script to analyze two bots side-by-side with vs expected metrics showing how well copy bot replicates target, fixed APR calculation to use actual operating time instead of calendar days, and filtered analysis to only include complete positions (both opened and closed within observation period). Ran script and [analyzed](https://docs.google.com/spreadsheets/d/1_hH6EJYtdHDsJQCMLWKneiBvHHo7WMCV81-ogmu_r4k/edit?gid=659341843#gid=659341843) deviation between Yuriy's bot and target bot.
 
 ---
 
