@@ -1,3 +1,18 @@
+2025-11-12 Wed: Design of graphic to shout out Sparkle Validator. Uploading of short from Q3 recap to Youtube. 
+
+2025-11-11 Tue: Veteran's Day Holiday
+
+2025-11-10 Mon: Reading [Tokenizing the Startup Economy: Decent's Vision for the Future of Crypto Companies](https://members.delphidigital.io/reports/tokenizing-the-startup-economy-decents-vision-for-the-future-of-crypto-companies). Insight: Decent’s model of providing legally compliant, low-cost infrastructure for tokenized startups offers a blueprint for how Harmony could strengthen its own application layer. By adopting similar frameworks that simplify token launches and improve investor protection, Harmony could lower entry barriers for builders and accelerate ecosystem growth.
+
+---
+
+2025-11-09 Sun: Review of team's /p.
+
+2025-11-08 Sat: Team progress thread. 
+
+2025-11-07 Fri: Filming, editing and uploading of [weekly progress short](https://youtube.com/shorts/DebbzOoItks?si=bRlBFt1EhDxoHzGX). Update of the [community section](harmony.one). 
+
+2025-11-06 Thu: Writing of the script for the weekly DeFi short. This week, the team advanced BTC LP hedging with new dynamic models, improved backtesting accuracy, and stronger performance analytics showing up to 68% APR. Infrastructure upgrades and bot optimizations rounded out the week.
 
 2025-11-05 Wed: Uploading of the DeFi short to youtube. Reading Delphi Digital article "Crypto Options: An aging dinosaur or overlooked behemoth?" and posting a [thread](https://x.com/harmonyprotocol/status/1986207939594756282) of insights. Insights: Many treat crypto options as outdated, but in tradfi they’re still booming and now regulations, infra, and models have finally caught up for them to work on-chain. The real opportunity probably isn’t in another perp DEX, but in a few options DEXes that make it easy, fast, and reliable enough for big players to actually use.
 
