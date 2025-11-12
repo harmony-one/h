@@ -1,3 +1,5 @@
+2025-11-12 Wed (0.1h): Review Stream impact on Euler vaults.
+
 2025-11-11 Tue (0.1h): Collect more October data. Review Deribit hedge fix. Convert Deribit trading to asynchronous.
 
 2025-11-10 Mon (2.9h): Investigate and fix Deribit hedge closing bug. Collect October data.
