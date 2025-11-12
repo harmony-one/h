@@ -1,3 +1,8 @@
+2025-11-07 Fri:
+This week I completed the пo-ja integration to fully replace Duktape. The updated engine successfully passed all integration tests and was deployed to production services for continuous testing. The changes were merged into the 1.10 branch, and we initiated a new release cycle that includes these updates.
+
+---
+
 2025-10-31 Fri:
 This week I worked on reproducing differences found during integration testing with Ulad. We discovered inconsistent gas usage between the old and new code versions. I set up a dedicated test server and ran both versions to compare their execution results. The main challenge was that new unit tests passed successfully, yet they unexpectedly affected integration test behavior, leading to further debugging and analysis. 
 
