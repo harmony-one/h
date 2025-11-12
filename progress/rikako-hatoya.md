@@ -1,10 +1,12 @@
+2025-11-11 Tue (Veteran's Day, 6.0h): Team sync, went over transactions of the target bot together. Modified returns script to process batch analysis for multiple wallets, ran for other top wallet candidates.
+
 2025-11-10 Mon: Improved [lp-returns script](https://github.com/rikaa15/lp-returns): added comparison script to analyze two bots side-by-side with vs expected metrics showing how well copy bot replicates target, fixed APR calculation to use actual operating time instead of calendar days, and filtered analysis to only include complete positions (both opened and closed within observation period). Ran script and [analyzed](https://docs.google.com/spreadsheets/d/1_hH6EJYtdHDsJQCMLWKneiBvHHo7WMCV81-ogmu_r4k/edit?gid=659341843#gid=659341843) deviation between Yuriy's bot and target bot.
 
 ---
 
-2025-11-09 Sun: Continuation with implementing true hodl XIRR. Testing to check the calculations are correct.
+2025-11-09 Sun (1.0h): Continuation with implementing true hodl XIRR. Testing to check the calculations are correct.
 
-2025-11-08 Sat: Switch from high-level XIRR and APR. Integration of true hodl XIRR calculation to returns script.
+2025-11-08 Sat (1.0h): Switch from high-level XIRR and APR. Integration of true hodl XIRR calculation to returns script.
 
 2025-11-07 Fri: Looked into [articles](https://atise.medium.com/) regarding hedging. Looked into [transactions](https://dashboard.tenderly.co/tx/0xad413c8225dfce8717831a1adbee496b3e0829882ebe3a118b575c1e44498b67) by our copy bot (0x5919...) and activity with Aave.
 
