@@ -1,6 +1,6 @@
 2025-11-12 Wed: Updated the rebalance smart contract and launched a copy-trading bot with new settings: rare swaps to preserve liquidity. The bot checks the difference between the current ratio and the target wallet ratio, executing swaps only when the deviation exceeds 50%. Also switched to a new target wallet with lower transaction activity to reduce fee expenses.
 
-2025-11-11 Tue: Daily performance analysis for copy-trading bot: due to overly frequent swap operations, liquidity losses reached around 5% (~$50), with about $30 spent on fees and roughly 0.03% APR earned in AERO (~$3). Working on optimizing the strategy to offset these losses.
+2025-11-11 Tue: Daily performance analysis for copy-trading bot: due to overly frequent swap operations, liquidity losses reached around 5% ($50), with about $30 spent on fees and roughly 0.03% APR earned in AERO ($3). Working on optimizing the strategy to offset these losses.
 
 2025-11-10 Mon: Launched copy-trading bot instance with built-in swaps for every action to precisely match the target wallet’s ratio. The bot was started with a $1,000 deposit and configured to mirror a high-traffic target wallet (up to 10 transactions per minute).
 
