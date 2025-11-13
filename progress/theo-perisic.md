@@ -1,3 +1,15 @@
+2025-11-12 Wed: Continued IL hedge mapping with uniswap v2 and [v3 formula’s](https://uniswapv3book.com/milestone_1/calculating-liquidity.html). Insight: created piecewise function based on Li’s diagrams and uniswap v3 formula’s, checks for “in-range” behaviors for impermanent loss, against full range IL. “Out of range” in uniswap v3 converts to a single asset and no longer accumulates IL.
+
+2025-11-11 Tue: Veteran’s Day
+
+2025-11-10 Mon: Completed [True Hodl](https://docs.google.com/document/d/1HLNhV_YXcNAoz3ynwu4u8YhwTyXEZ7FkK0jm1WXRht0/edit?tab=t.0) calculations for 0x591 wallet. Insight: found significant loss vs HODL, 96%. Needs verification, but might show decentralized exchange behavior to increase liquidity and volume using leverage rather than significant profits.
+
+---
+
+2025-11-9 Sun: (2.0) Continued research for [mathematical approach](https://gammaswap.com/blog/expected-impermanent-loss-in-uniswap-v2-v3), to pair with previous quarter on-chain approach. Allows for more robust backtest parameters. 
+
+2025-11-8 Sat: (1.0h) Research for uniswap [v3 formula’s](https://uniswapv3book.com/milestone_1/calculating-liquidity.html).
+
 2025-11-7 Fri: Team sync, and discussed [uniswap v3 paper](https://atise.medium.com/liquidity-provider-strategies-for-uniswap-v3-dynamic-hedging-9e6858bea8fa). Insight: Aave lend, hyperliquid perpetual, and Deribit options are all examples of the same side of a coin, each trying to remove the sqrt price deviation of a liquidity pool. The question to answer is which accomplishes this task the best, measured in reduction of impermanent loss, and which does it the best, measured in cost of operation. 
 
 2025-11-6 Thu: Looking further into ML resources for LP hedging. Insight: looking into hummingbot, found [Quant Lab](https://hummingbot.org/quants-lab/) for data collection, backtesting, and strategy development, which can be built on top of for our requirements.
