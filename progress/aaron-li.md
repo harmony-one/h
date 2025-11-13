@@ -1,4 +1,4 @@
-2025-11-12 Wed (3.9h+): Collect more October data. Review Deribit hedge fix. Convert Deribit trading to asynchronous. Review Stream impact on Euler vaults.
+2025-11-12 Wed (4.3h): Collect more October data. Review Deribit hedge fix. Convert Deribit trading to asynchronous. Review Stream impact on Euler vaults.
 
 2025-11-11 Tue (0.1h): Collect more October data. Review Deribit hedge fix. Convert Deribit trading to asynchronous.
 
