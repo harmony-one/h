@@ -1,3 +1,7 @@
+2025-11-14 Fri: A detailed analysis of bot events and transactions, along with a study of the contract source code to understand the reward distribution logic and ratio formation. Conclude that the main design issue is the one-block delay — during that block the ratio and TVL change, and high traffic amplifies this effect. Together, these factors cause the APR and IL deviations. Potential solutions include submitting transactions in the same block and using a pool with lower traffic.
+
+2025-11-13 Thu: Collecting statistics and analyzing the trading bot’s performance with the new settings — less frequent swaps result in lower loss of the initial deposit. There is a one-block delay relative to the target wallet, and sometimes the ratio doesn’t match. Transacrions and events count is the same. The total APR and IL differ from the target wallet — currently investigating the reasons.
+
 2025-11-12 Wed: Updated the rebalance smart contract and launched a copy-trading bot with new settings: rare swaps to preserve liquidity. The bot checks the difference between the current ratio and the target wallet ratio, executing swaps only when the deviation exceeds 50%. Also switched to a new target wallet with lower transaction activity to reduce fee expenses.
 
 2025-11-11 Tue: Daily performance analysis for copy-trading bot: due to overly frequent swap operations, liquidity losses reached around 5% ($50), with about $30 spent on fees and roughly 0.03% APR earned in AERO ($3). Working on optimizing the strategy to offset these losses.
