@@ -1,4 +1,8 @@
-2025-11-11 Tue (Veteran's Day, 6.0h): Team sync, went over transactions of the target bot together. Modified returns script to process batch analysis for multiple wallets, ran for other top wallet candidates.
+2025-11-13 Thu:
+
+2025-11-12 Wed:
+
+2025-11-11 Tue (Veteran's Day, 6.0h): Team sync, went over the target vs. copy bot [comparison analysis sheet](https://docs.google.com/spreadsheets/d/1_hH6EJYtdHDsJQCMLWKneiBvHHo7WMCV81-ogmu_r4k/edit?gid=659341843#gid=659341843) together (data: 11/10, 2hrs), and looked through the transactions (noticed strange bot behavior, ~10 positions with 0 active seconds, basically minting and withdrawing at the same time). [Modified](https://github.com/rikaa15/lp-returns/commit/f6d6d116b8c054dd9b7182da83621a35a50b2a00) returns script to batch process analysis for multiple wallets, and ran it for other top wallet candidates (3 wallets were found to have activity), data [here](https://drive.google.com/drive/folders/13i5tkXV7ZdqA0i5tGNKFkR03KA3FKjqo).
 
 2025-11-10 Mon: Improved [lp-returns script](https://github.com/rikaa15/lp-returns): added comparison script to analyze two bots side-by-side with vs expected metrics showing how well copy bot replicates target, fixed APR calculation to use actual operating time instead of calendar days, and filtered analysis to only include complete positions (both opened and closed within observation period). Ran script and [analyzed](https://docs.google.com/spreadsheets/d/1_hH6EJYtdHDsJQCMLWKneiBvHHo7WMCV81-ogmu_r4k/edit?gid=659341843#gid=659341843) deviation between Yuriy's bot and target bot.
 
