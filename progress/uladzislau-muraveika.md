@@ -1,3 +1,13 @@
+2025-11-14 Fri:
+
+Main focus on the week was the Teleport proxy upgrade to the LTS version, fixes for the Ansible code around it, hardening its setup. Everything was successfully finished, new versions monitor was setup and already catch one fresh release. Only internal documentation update left here.
+
+For the support activities, I've created a shared snapDB with community.
+
+Additionally, I've updated Base node setup to return more eth_getLogs results, found one issue in the original repo and upgraded the Reth node.
+
+---
+
 2025-11-07 Fri:
 
 First of all, I was helping Gheis with the [trusted nodes concept](https://github.com/harmony-one/harmony/pull/4962) testing on the devnet. I've created a few new panels from my side to visualize how trusted nodes are used both on the libp2p and stream levels through both shards.
