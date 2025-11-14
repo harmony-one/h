@@ -1,4 +1,4 @@
-2025-11-14 Fri (0.9h+): Fix missing data on Hyperliquid for October.
+2025-11-14 Fri (1.0h): Fix missing data on Hyperliquid for October.
 
 2025-11-13 Thu (2.8h): Sync data to production database. Revise Deribit and Hyperliquid engines to async. Revise Deribit hedging strategy. Add bid-ask loss prevention and microhedge prevention.
 
