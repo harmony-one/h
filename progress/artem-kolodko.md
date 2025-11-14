@@ -1,3 +1,5 @@
+2025-11-14 Fri: hedging model: added funding rate payments costs ($4 for September positions hedging). Explored the possibility of re-applying YieldBasis approach using another protocols (for example, Aave + Uniswap). The difficulty will be with creating a USDC loan based on LP position as a collateral which is part of YieldBasis strategy.
+
 2025-11-13 Thu: hedging model: [update](https://github.com/harmony-one/portfolio-manager/commit/16bb84a8ebcad28076fe1e25ad6d7c6f55d2f86b) with "follow the trend" algorithm; got positive PnL following September LP positions, verifying the results
 
 2025-11-12 Wed: hedging model: [dynamic hedge update](https://github.com/harmony-one/portfolio-manager/commit/69eb621e81f7fed23c61ba9ea7e6ae7b0f13416c) (short only direction)
