@@ -1,3 +1,12 @@
+2025-11-15 Sat:  Last week, I focused on investigating issues related to trusted peer metrics and reserved peers. I added an additional metric to track how trusted peers are being added to the **reserved peers list**, since both the main list and reserved list were showing `0` trusted peers. After several deployments and team discussions, it became clear that the underlying logic needed a deeper refactor.
+
+I then refactored most of the trusted peers detection and metrics code. The updated implementation now **dynamically tracks trusted streams**, updating their maps on every addition or removal event.  
+This eliminates the previous inconsistent behaviors and significantly improves performance—iterations are now **O(1)** where possible, and several outdated logic paths were redesigned for accuracy and consistency.
+
+These improvements provide clearer visibility into trusted peer behavior and lay the foundation for more reliable stream sync operations.
+
+---
+
 2025-11-08 Sat: Last week, I continued working on [PR 4962](https://github.com/harmony-one/harmony/pull/4962) and added several improvements and new metrics. I also fixed build issues and enhanced the **trusted nodes logic** to support both **DNS address format** and **MultiAddress format**. If the trusted nodes array is empty, the system now automatically adds **random DNS static nodes**, ensuring a more resilient peer selection mechanism. The updated feature has been deployed to **Devnet test nodes** and is working as expected. The team is currently investigating one metric-related issue, and once that’s resolved, we’ll proceed with a full deployment across all **Devnet** and **Testnet** nodes.
 
 Additionally, I implemented [EIP-3855](https://eips.ethereum.org/EIPS/eip-3855), which introduces the new **PUSH0** opcode to the Ethereum Virtual Machine (EVM). This opcode pushes the value `0` onto the stack using just **1 byte of bytecode** and costs **2 gas**, compared to the older `PUSH1 0` instruction that required **2 bytes** and **3 gas**. Since zero values are used frequently in smart contracts—for example, in offsets or return data handling—this improvement reduces **bytecode size**, **deployment costs**, and **execution gas usage**. The implementation, included in [PR 4963](https://github.com/harmony-one/harmony/pull/4963), allows activation through the `EIP3855Epoch` configuration parameter. When enabled, the EVM interpreter adds the **PUSH0 opcode** to its jump table, enabling contracts to use this more efficient instruction.  
