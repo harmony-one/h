@@ -1,3 +1,9 @@
+2025-11-17 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/e9924fdd3e52eb43b1f56d25faff81f8674649c0) Hyperliquid taker fees into the hedging model. [Refactored](https://github.com/harmony-one/portfolio-manager/commit/e9924fdd3e52eb43b1f56d25faff81f8674649c0) model parameters. Optimizing hedge PnL to do less trades and save some funds on trading fees.
+
+---
+
+2025-11-16 Sun (1.0h): hedging model: added support of october data, model is currently using the data from 2 months: Sep - Oct 2025.
+
 2025-11-14 Fri: hedging model: added funding rate payments costs ($4 for September positions hedging). Explored the possibility of re-applying YieldBasis approach using another protocols (for example, Aave + Uniswap).
 
 2025-11-13 Thu: hedging model: [update](https://github.com/harmony-one/portfolio-manager/commit/16bb84a8ebcad28076fe1e25ad6d7c6f55d2f86b) with "follow the trend" algorithm; got positive PnL following September LP positions, verifying the results
