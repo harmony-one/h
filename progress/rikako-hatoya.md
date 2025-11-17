@@ -1,3 +1,7 @@
+2025-11-16 Sun (1.0h): Continued looking into more top candidate wallets. 
+
+2025-11-15 Sat (1.0h): Look into more wallets from Aaron and Artem's initial top wallet list. A lot of them haven't inetracted with the pool recently.
+
 2025-11-14 Fri: From team sync, we discussed that 1-block delay maybe causing large variance when copying wallets with large capital relative to the pool. Started looking at wallets trading at a smaller basis, and also looking into backtesting.
 
 2025-11-13 Thu: [Updated](https://github.com/rikaa15/lp-returns/commit/fe97b53113cde6167801a14e303f76dcda037868) returns script by correcting APR calculation (was using total deposit capital before, now uses average deposit capital per position). Checked the profit calculation manually and looks correct, but currently investigating correct APR calculation and reason for difference in AERO reward ratio (our copy-bot is gaining 1.7x AERO rewards per capital compared to the target-bot, see [here](https://docs.google.com/spreadsheets/d/1iGnLQOUP1oku3PkSFr_lzqazsh6UPvjGvm2s0PS2nsQ/edit?gid=2116665248#gid=2116665248)).
