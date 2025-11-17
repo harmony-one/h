@@ -1,3 +1,11 @@
+2025-11-16 Sun: (4.0h) Continued review of Yield Basis [backtest scripts](https://github.com/yield-basis/yb-simulations). Insights, here’s what we can use: rolling window backtest methodology (6-month train, 1-month test, data from 2023-2025), real vs. theoretical profit tracking (includes slippage and fees to calculate difference), parameter optimization grid search (gamma, fees, width). 
+
+2025-11-15 Sat: (2.0h) YieldBasis simulation [scripts](https://github.com/yield-basis/yb-simulations).
+
+2025-11-14 Fri: Review Artem’s [script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/hedge.ts). Insights: cbBTCamountMint value, can better be used with BaseScan prices for accurate testing. hedgeAdjustThreshold, should also be a fraction rather than a static USD amount.
+
+2025-11-13 Thu: Hedge discussions with Li and Artem. Further reducing parameters to hedge amount, hedge steps within a range, the range itself, point of rebalance, and overall volatility.  
+
 2025-11-12 Wed: Continued IL hedge mapping with uniswap v2 and [v3 formula’s](https://uniswapv3book.com/milestone_1/calculating-liquidity.html). Insight: created piecewise function based on Li’s diagrams and uniswap v3 formula’s, checks for “in-range” behaviors for impermanent loss, against full range IL. “Out of range” in uniswap v3 converts to a single asset and no longer accumulates IL.
 
 2025-11-11 Tue: Veteran’s Day
