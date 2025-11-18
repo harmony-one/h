@@ -1,3 +1,7 @@
+2025-11-17 Mon: Ran timeline script for all wallets (41 wallets) with average position active seconds >3600s from [Artem's September top wallets list](https://docs.google.com/spreadsheets/d/1IR_WhVkVNzGt5dYOwo6cHhJyvjFG3UFmGveYaNTjue0/edit?gid=100658236#gid=100658236) (see raw data output from timeline script [here](https://drive.google.com/drive/folders/1SJVuBH_0mukZqNnMe0vTZRnngZhUYbzF)). Ran my returns script for these wallets for 11/02-11/15 and uploaded analysis [here](https://docs.google.com/spreadsheets/d/1o8VOGz1XZbQTpjwblwaVBpdq7u4aw7D-uLMblHLF6Ck/edit?gid=421879518#gid=421879518), most of the wallets that were active in September were no longer active in November but identified a couple wallets making >$50 in staking.
+
+---
+
 2025-11-16 Sun (1.0h): Continued looking into more top candidate wallets. 
 
 2025-11-15 Sat (1.0h): Look into more wallets from Aaron and Artem's initial top wallet list. A lot of them haven't inetracted with the pool recently.
