@@ -1,3 +1,5 @@
+2025-11-18 Tue: optimized some hedging models parameters (+$10 for our LP bot positions). Started implementing method to generate virtual LP positions to check hedging model performance over longer period (6-12 months).
+
 2025-11-17 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/e9924fdd3e52eb43b1f56d25faff81f8674649c0) Hyperliquid taker fees into the hedging model. [Refactored](https://github.com/harmony-one/portfolio-manager/commit/e9924fdd3e52eb43b1f56d25faff81f8674649c0) model parameters. Optimizing hedge PnL to do less trades and save some funds on trading fees.
 
 ---
