@@ -1,5 +1,10 @@
+2025-11-14 Fri:
+This week I worked on enabling the transient storage feature. Initially, I attempted to port the changes from the Ethereum 1.11 codebase, but I encountered several conflicts with the existing Harmony implementation. As a result, it was more efficient to update the current test suite to support the required functionality. I also added additional tests to validate the correct behavior of both activated and non-activated VM opcodes. 
+
+---
+
 2025-11-07 Fri:
-This week I completed the пo-ja integration to fully replace Duktape. The updated engine successfully passed all integration tests and was deployed to production services for continuous testing. The changes were merged into the 1.10 branch, and we initiated a new release cycle that includes these updates.
+This week I completed the go-ja integration to fully replace Duktape. The updated engine successfully passed all integration tests and was deployed to production services for continuous testing. The changes were merged into the 1.10 branch, and we initiated a new release cycle that includes these updates.
 
 ---
 
