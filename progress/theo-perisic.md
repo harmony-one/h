@@ -1,3 +1,11 @@
+2025-11-19 Wed: Completed [dynamic hedging](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?tab=t.0) document. Added parameters for hedge strategy in [master doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0).
+
+2025-11-18 Tue: Team sync, and separate sync with Alaina, delegation of tasks.
+
+2025-11-17 Mon: Applied Yield Basis backtest to our Uniswap v3 parameters. 100+ parameter combinations, rank by real profit, validate winners on rolling windows, deploy best. 
+
+---
+
 2025-11-16 Sun: (4.0h) Continued review of Yield Basis [backtest scripts](https://github.com/yield-basis/yb-simulations). Insights, here’s what we can use: rolling window backtest methodology (6-month train, 1-month test, data from 2023-2025), real vs. theoretical profit tracking (includes slippage and fees to calculate difference), parameter optimization grid search (gamma, fees, width). 
 
 2025-11-15 Sat: (2.0h) YieldBasis simulation [scripts](https://github.com/yield-basis/yb-simulations).
