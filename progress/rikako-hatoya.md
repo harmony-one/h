@@ -1,3 +1,5 @@
+2025-11-20 Thu: Created script to get all wallets and their positions within a timeframe, calculate median duration times for positions in blocks, and filter addresses with ideal median duration time. Ran script and got 18/420 wallets active from 11/01-11/20 (37583000~38410000) with 8-200 median duration block range, ran timeline-tool for these wallets, and ran returns-script to obtain performance metrics (details [here](https://docs.google.com/spreadsheets/d/13P1ZoUKCILlqgjz-6ePctAoQvMxu82G9Z_Nmjw-9b5U/edit?gid=1923320026#gid=1923320026)).
+
 2025-11-19 Wed: Team sync, worked on merging hyperliquid and swap transactions with wallet transactions. Worked on script to fetch wallets with durations of 8-200 blocks but taking a lot of time for RPC calls, improving it.
 
 2025-11-18 Tue: Created script to add hyperliquid price to bot transactions from Artem's file. Wallets with average active time near 3600 seconds were not active or not making much profit, working on analyzing other wallets with more activity.
