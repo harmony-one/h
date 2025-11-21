@@ -1,3 +1,15 @@
+2025-11-21 Fri: Completed a new version of the copy-trading bot using flashblocks and maximum priority fees. Testing on high traffic wallet (0-3 blocks duration) shows that in 80% of cases the transaction lands in the same block. Continuing testing with the target wallet with middle position duration (10-100 blocks).
+
+2025-11-20 Thu: Completed a prototype script that uses flashblocks to receive block events every 200 ms via Alchemy RPC. Currently working on integrating it into the copy-trading bot.
+
+2025-11-19 Wed: Added a script to monitor position duration in real time and confirmed that none of the observed wallets keep positions open for more than 30 blocks while staying under 100 blocks. Also continue researching flashblocks, which update every 200 ms via websocket (confirmed that the main source of latency was that any log or event queries return data only from already-mined blocks, whereas flashblocks provide access to block data while the block is still being assembled). 
+
+2025-11-18 Tue: Switched to a wallet with longer position duration to minimize liquidity ratio divergence and mitigate the one-block delay. Synced with Aaron regarding methods for achieving same-block transaction inclusion and started researching flashblocks on Base.
+
+2025-11-17 Mon: Explored different approaches to reducing transaction execution time on Base and achieving inclusion in the same block as the target transaction. Included testing various RPC (alchemy and custom node) endpoints and adjusting transaction fee parameters.
+
+---
+
 2025-11-14 Fri: A detailed analysis of bot events and transactions, along with a study of the contract source code to understand the reward distribution logic and ratio formation. Conclude that the main design issue is the one-block delay — during that block the ratio and TVL change, and high traffic amplifies this effect. Together, these factors cause the APR and IL deviations. Potential solutions include submitting transactions in the same block and using a pool with lower traffic.
 
 2025-11-13 Thu: Collecting statistics and analyzing the trading bot’s performance with the new settings — less frequent swaps result in lower loss of the initial deposit. There is a one-block delay relative to the target wallet, and sometimes the ratio doesn’t match. Transacrions and events count is the same. The total APR and IL differ from the target wallet — currently investigating the reasons.
