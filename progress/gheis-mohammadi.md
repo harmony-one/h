@@ -1,3 +1,11 @@
+2025-11-22 Sat: Last week I completed **[PR 4962](https://github.com/harmony-one/harmony/pull/4962)**. This included fixing trusted-peer–related metrics, improving them, and resolving stream-level issues in the trusted peers logic. I also refactored the trusted peer detection workflow and improved the logging to give clearer visibility into how trusted nodes are selected and maintained. The PR was reviewed, merged, and deployed on all Devnet nodes and previous issues on-chain are now fully resolved.
+
+I also pushed and merged **[PR 4966](https://github.com/harmony-one/harmony/pull/4966)**. The `TestRequestManager_RemoveStream` unit test was intermittently failing due to a race condition: the test verified the stream count before the asynchronous removal event had been processed by the event loop. The fix introduces a retry loop that waits for the stream removal to complete before asserting the expected size. This removes flakiness and ensures deterministic test behavior.
+
+We also merged **[PR 4961](https://github.com/harmony-one/harmony/pull/4961)**. With the Stream Sync client now proven stable on both Devnet and Testnet, this PR officially promotes Stream Sync from an optional feature to the **default synchronization method** for these networks.
+
+---
+
 2025-11-15 Sat:  Last week, I focused on investigating issues related to trusted peer metrics and reserved peers. I added an additional metric to track how trusted peers are being added to the **reserved peers list**, since both the main list and reserved list were showing `0` trusted peers. After several deployments and team discussions, it became clear that the underlying logic needed a deeper refactor.
 
 I then refactored most of the trusted peers detection and metrics code. The updated implementation now **dynamically tracks trusted streams**, updating their maps on every addition or removal event.  
@@ -984,6 +992,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
