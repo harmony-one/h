@@ -1,10 +1,22 @@
+2025-11-21 Fri:
+
+Main focus this week was to help with the stream sync and eth 1.10 version update on the devnet.
+
+I've also finished everything connected with the Teleport proxy upgrade, now we have everything documented as a runbook.
+
+As part of systems engineering tasks, I've integrated our Grafana to the Github OAuth and disabled the old basic auth method, the main advantage being less places for managing access manually.
+
+Additionally, I've upgraded Base reth, eth lighthouse, grafana OSS and gravitational teleport proxy versions to the latest releases.
+
+---
+
 2025-11-14 Fri:
 
-Main focus on the week was the Teleport proxy upgrade to the LTS version, fixes for the Ansible code around it, hardening its setup. Everything was successfully finished, new versions monitor was setup and already catch one fresh release. Only internal documentation update left here.
+Main focus on the week was the Teleport proxy upgrade to the LTS version, fixes for the Ansible code around it, hardening its setup. Everything was successfully finished, a new version monitor was set up and already caught one fresh release. Only internal documentation updates are left here.
 
-For the support activities, I've created a shared snapDB with community.
+For the support activities, I've created a shared snapDB with the community.
 
-Additionally, I've updated Base node setup to return more eth_getLogs results, found one issue in the original repo and upgraded the Reth node.
+Additionally, I've updated the Base node setup to return more eth_getLogs results, found one issue in the original repo and upgraded the Reth node.
 
 ---
 
