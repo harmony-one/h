@@ -1,3 +1,5 @@
+2025-11-21 Fri: exported [hedging script](https://github.com/harmony-one/portfolio-manager/commit/d5739f92ea140ce61ad55a94af03d6b8cf5b214e) logs into csv file for step-by-step validation of hedging strategy; started working on PnL columns output for each row
+
 2025-11-20 Thu: [updated](https://github.com/harmony-one/portfolio-manager/commit/4ac05997810bf978a636625cb6ca0e672e795f5f) hedging script following new specification. [Added](https://github.com/harmony-one/portfolio-manager/commit/d3ef60cdc4f7b4a6972414ba294a405e31451406) new parameters bufferPercent and tickAdjustThresholdPercent.
 
 2025-11-19 Wed: [implemented](https://github.com/harmony-one/portfolio-manager/commit/144152c977b063a87eef5c010351df875139f1ce) method to create virtual LP for any given period of time based on BTC price history, to backtest hedging strategy over longer period of time
