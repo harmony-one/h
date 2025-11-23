@@ -1,3 +1,7 @@
+2025-11-23 Sun (0.1h): Review data integrity, hedge logs, profit and losses. Finalize lp hedger migration to async.
+
+---
+
 2025-11-14 Fri (3.2h): Revise Deribit hedging strategy, review code for bid-ask loss and microhedge prevention. Fix missing data on Hyperliquid for October.
 
 2025-11-13 Thu (2.8h): Sync data to production database. Revise Deribit and Hyperliquid engines to async. Revise Deribit hedging strategy. Add bid-ask loss prevention and microhedge prevention.
