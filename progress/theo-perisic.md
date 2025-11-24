@@ -1,3 +1,15 @@
+2025-11-24 Mon: Team sync. Insights: revisit script, hedge size increasing while price returns to buffer, needs to be decreasing. Updated accelerated recovery document, extended to recovery multisig custodians for review.
+
+---
+
+2025-11-23 Sun: (2.0h) Review of [dynamic hedging](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?tab=t.0)
+
+2025-11-22 Sat: (1.0h) Reviewing accelerated recovery updates with recovery multisig custodians.
+
+2025-11-21 Fri: Follow up with Protofire. Insights: cross-shard transaction tracking only shows once user has made an additional transaction on the target shard for explorer, continued feasibility search for Aave.
+
+2025-11-20 Thu: Update and discussion about [dynamic hedging](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?tab=t.0), now used as source of truth for spec driven development (SDD).
+
 2025-11-19 Wed: Completed [dynamic hedging](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?tab=t.0) document. Added parameters for hedge strategy in [master doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?tab=t.0).
 
 2025-11-18 Tue: Team sync, and separate sync with Alaina, delegation of tasks.
