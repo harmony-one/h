@@ -1,3 +1,9 @@
+2025-11-25 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/52f179e603fc32611c558cf4ef572521bc0c444d) liquidity parameter calculation in virtual LPs; continue on integration virtual LPs in hedging script to check script results on larger time frame
+
+2025-11-24 Mon: [added PnL](https://github.com/harmony-one/portfolio-manager/commit/4ec29069d9530e78c08f94cba37e21e689f99964) on each hedge script, exported rows and shared with the team; review and analysis of the results, some hedge adjustment steps should be fixed
+
+---
+
 2025-11-21 Fri: exported [hedging script](https://github.com/harmony-one/portfolio-manager/commit/d5739f92ea140ce61ad55a94af03d6b8cf5b214e) logs into csv file for step-by-step validation of hedging strategy; started working on PnL columns output for each row
 
 2025-11-20 Thu: [updated](https://github.com/harmony-one/portfolio-manager/commit/4ac05997810bf978a636625cb6ca0e672e795f5f) hedging script following new specification. [Added](https://github.com/harmony-one/portfolio-manager/commit/d3ef60cdc4f7b4a6972414ba294a405e31451406) new parameters bufferPercent and tickAdjustThresholdPercent.
