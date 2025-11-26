@@ -1,3 +1,7 @@
+2025-11-26 Wed (0.7h+): Certificate renewal for some domains. Domain management.
+
+---
+
 2025-11-23 Sun (4.4h): Review data integrity, hedge logs, profit and losses. Finalize lp hedger migration to async.
 
 ---
