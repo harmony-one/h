@@ -1,3 +1,7 @@
+2025-11-24 Mon: Updated performance analytics for newly deployed bot copying 0x71... (summary sheet [here](https://docs.google.com/spreadsheets/d/1zBwXsYXQaabP4i6_gXwu1jnNKJz0SUpaPcL7BfrrZws/edit?gid=290234389#gid=290234389)). Ran timeline script and new performance analysis for 76 wallets, 11/01-11/20 (summary sheet [here](https://docs.google.com/spreadsheets/d/1ZLK-2sGdEU5Bq-VID8ephg1BMF535o6iiw1ZuGdI1es/edit?gid=950312042#gid=950312042)).
+
+---
+
 2025-11-23 Sun (1.0h): Running of returns script on new top wallets.
 
 2025-11-22 Sat (1.0h): Continuation of working with high sctivity wallets.
