@@ -1,3 +1,7 @@
+2025-11-26 Wed:
+
+2025-11-25 Tue: Reviewed my returns script again due to misalignment in hodl APR calculation (APR was positive even though IL>Rewards), figured out that the hodl calculation was indeed correct, but the script was just showing incorrect rewards amount in the output CSVs. Re-run of returns analysis with updated code for 1-1000 blocks active median duration 11/01-11/20, output [here](https://docs.google.com/spreadsheets/d/1ZLK-2sGdEU5Bq-VID8ephg1BMF535o6iiw1ZuGdI1es/edit?gid=960294921#gid=960294921) (only 15% of the analyzed profits were making positive APR).
+
 2025-11-24 Mon: Updated performance analytics for newly deployed bot copying 0x71... (summary sheet [here](https://docs.google.com/spreadsheets/d/1zBwXsYXQaabP4i6_gXwu1jnNKJz0SUpaPcL7BfrrZws/edit?gid=290234389#gid=290234389)). Ran timeline script and new performance analysis for 76 wallets, 11/01-11/20 (summary sheet [here](https://docs.google.com/spreadsheets/d/1ZLK-2sGdEU5Bq-VID8ephg1BMF535o6iiw1ZuGdI1es/edit?gid=950312042#gid=950312042)).
 
 ---
