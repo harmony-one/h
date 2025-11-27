@@ -1,3 +1,5 @@
+2025-11-26 Wed: added [lp_btc_delta](https://github.com/harmony-one/portfolio-manager/commit/5e0397a064bfd5c57ceff5c86be4614b905a4ec4) to hedging log export, fixed minor bugs, completed the first version of fully working hedging script and verified results with the team. Added [scripts documentation](https://github.com/harmony-one/portfolio-manager/blob/main/README_SCRIPTS.md).
+
 2025-11-25 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/52f179e603fc32611c558cf4ef572521bc0c444d) liquidity parameter calculation in virtual LPs; continue on integration virtual LPs in hedging script to check script results on larger time frame
 
 2025-11-24 Mon: [added PnL](https://github.com/harmony-one/portfolio-manager/commit/4ec29069d9530e78c08f94cba37e21e689f99964) on each hedge script, exported rows and shared with the team; review and analysis of the results, some hedge adjustment steps should be fixed
