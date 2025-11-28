@@ -1,3 +1,15 @@
+2025-11-28 Fri: Received an updated instruction set from Artem and attempted to run the hedging scripts. Fixed several technical issues to started scripts localy related to the migration process and database connectivity. Currently diving into advanced hedging cases involving multiple rebalances as BTC price direction shifts.
+
+2025-11-27 Thu: Studied the portfolio manager repository and the hedging scripts. Received updated wallets statistics from Rika. Selected a wallet with medium traffic intensity and a long duration time for copy trading - testing now.
+
+2025-11-26 Wed: Switched to studying the hedging project. Looked at theoretical documents provided by Artem and reviewed simple hedging cases using real positions.
+
+2025-11-25 Tue: Investigated why some copy-trading bot transactions are not included in the same block as the target transaction. One major reason is that the target transaction often appears near the end of the block. In some cases, even when both transactions land in the same block, there is still a gap between them, during which swap events may occur and change the ratio. There is also a suspicion that Alchemy’s flash-block pool does not include transactions from all wallets in the chain (since some wallets appear with a larger delay). Currently researching this issue.
+
+2025-11-24 Mon: Continue testing copy-trading bot with high-traffic wallet. Test results showed only noticeable difference is the IL-to-total-capital ratio, which, comes from the minimal fees incurred when sending funds to the staking contract. Also conducted research on APR wallets statistics from Rika, including wallet comparison and manual APR calculation verification.
+
+---
+
 2025-11-21 Fri: Completed a new version of the copy-trading bot using flashblocks and maximum priority fees. Testing on high traffic wallet (0-3 blocks duration) shows that in 80% of cases the transaction lands in the same block. Continuing testing with the target wallet with middle position duration (10-100 blocks).
 
 2025-11-20 Thu: Completed a prototype script that uses flashblocks to receive block events every 200 ms via Alchemy RPC. Currently working on integrating it into the copy-trading bot.
