@@ -1,3 +1,15 @@
+2025-11-28 Fri:
+
+The main focus this week was to finish everything connected with the Github OAuth implementation and refactoring of our monitoring setup.
+
+I've also helped dev teams with the few updates for upcoming releases, stream sync improvements and eth 1.10 updates were deployed to the testnet.
+
+Additionally, I've made the POC for the new Grafana Git sync UI feature - it allows GitOps workflow effortless from the UI instead of storing the dashboards near the code or on the grafana.com. I still need time to finish this setup and properly share it with the team.
+
+And finally, I've upgraded Base reth, eth erigon versions to the latest releases.
+
+---
+
 2025-11-21 Fri:
 
 Main focus this week was to help with the stream sync and eth 1.10 version update on the devnet.
