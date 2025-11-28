@@ -1,3 +1,12 @@
+2025-11-28 Fri (5 days off):
+
+---
+
+2025-11-21 Fri:
+This week I enabled transient storage on testnet, activated the EIP-3855 opcode on devnet, and addressed all review suggestions in PR [#4965](https://github.com/harmony-one/harmony/pull/4965).
+
+---
+
 2025-11-14 Fri:
 This week I worked on enabling the transient storage feature. Initially, I attempted to port the changes from the Ethereum 1.11 codebase, but I encountered several conflicts with the existing Harmony implementation. As a result, it was more efficient to update the current test suite to support the required functionality. I also added additional tests to validate the correct behavior of both activated and non-activated VM opcodes. 
 
