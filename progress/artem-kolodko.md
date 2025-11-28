@@ -1,3 +1,7 @@
+2025-11-28 Fri: completed backtesting results with different parameters, [added](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?usp=sharing) resulted table in dynamic hedging delta document. Synced with Yuriy on latest hedging script updates.
+
+2025-11-27 Thu: started hedging backtesting with different parameters (buffer, adjust threshold) to compare
+
 2025-11-26 Wed: added [lp_btc_delta](https://github.com/harmony-one/portfolio-manager/commit/5e0397a064bfd5c57ceff5c86be4614b905a4ec4) to hedging log export, fixed minor bugs, completed the first version of fully working hedging script and verified results with the team. Added [scripts documentation](https://github.com/harmony-one/portfolio-manager/blob/main/README_SCRIPTS.md).
 
 2025-11-25 Tue: [added](https://github.com/harmony-one/portfolio-manager/commit/52f179e603fc32611c558cf4ef572521bc0c444d) liquidity parameter calculation in virtual LPs; continue on integration virtual LPs in hedging script to check script results on larger time frame
