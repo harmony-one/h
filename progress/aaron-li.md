@@ -1,3 +1,5 @@
+2025-11-29 Sat (0.4h+): Revise logics on loss-prevention on closing Deribit hedge.
+
 2025-11-28 Fri (0.7h): Certificate renewal for some domains. Domain management.
 
 2025-11-26 Wed (0.7h): Certificate renewal for some domains. Domain management.
