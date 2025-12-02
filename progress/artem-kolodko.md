@@ -1,4 +1,4 @@
-2025-12-01 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/0a7d55a46fe60948ec25628d071dfac701244afc) method to get historical BTC prices from Binance (to test hedging script on wider time rage later); updated hedging script documentation
+2025-12-01 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/0a7d55a46fe60948ec25628d071dfac701244afc) method to get historical BTC prices from Binance (to test hedging script on wider time rage later); updated hedging script documentation. Exported new hedge log with 1 BTC initial exposure.
 
 ---
 
