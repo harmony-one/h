@@ -1,3 +1,7 @@
+2025-12-2 Tue (0.2h+): Auto-sample diversified test cases for backtesting.
+
+---
+
 2025-11-30 Sun (0.4h): Auto-sample diversified test cases for backtesting.
 
 2025-11-29 Sat (1.1h): Revise logics on loss-prevention on closing Deribit hedge.
