@@ -1,4 +1,4 @@
-2025-12-2 Tue (0.2h+): Auto-sample diversified test cases for backtesting.
+2025-12-2 Tue (0.5h+): Review performance data of lp-hedger in November. Auto-sample diversified test cases for backtesting. Auto-sample diversified test cases for backtesting.
 
 ---
 
