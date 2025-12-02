@@ -1,3 +1,11 @@
+2025-11-30 Sun (1.0h): Ran analysis for new copy-bot (0x31fd) for 38759729-38802972, copy vs. target seemed off so ran for 38821599-38908852 but seems like ratio is correct. Statistics for [38759729~38802972](https://docs.google.com/spreadsheets/d/1wwQewsZdaIejBjyWgrNbzrC-H0gzfOJ5umttcxeLUck/edit?gid=1785005302#gid=1785005302) and [38821599~38908852](https://docs.google.com/spreadsheets/d/1IB5SA5VP1KNoyEt7o6_25dJR7pA1-21NbVnmVcWJrRA/edit?gid=2136801418#gid=2136801418).
+
+2025-11-29 Sat (1.5h): Catching up with porfolio-manager hedging scripts and impermanent loss docs.
+
+2025-11-28 Fri: Thanksgiving Weekend
+
+2025-11-27 Thu: Thanksgiving Weekend
+
 2025-11-26 Wed: Started looking into hedging repo. Noticed issue with hodl APR calculation regarding active time, fixed issue, ran timeline script for [0-5500 blocks median active time wallets](https://docs.google.com/spreadsheets/d/1av4wdCqZHGCIZlOiCua_PUkGIB20E0XBjxmIul9NCvI/edit?gid=262415682#gid=262415682) for 11/18/2025~11/25/2025, output analysis [here](https://docs.google.com/spreadsheets/d/1DKxxpFN3B3WLvdqtOVZPOcu2alWlez3kt84UtdzQV8c/edit?gid=1348002226#gid=1348002226).
 
 2025-11-25 Tue: Reviewed my returns script again due to misalignment in hodl APR calculation (APR was positive even though IL>Rewards), figured out that the hodl calculation was indeed correct, but the script was just showing incorrect rewards amount in the output CSVs. Re-run of returns analysis with updated code for 1-1000 blocks active median duration 11/01-11/20, output [here](https://docs.google.com/spreadsheets/d/1ZLK-2sGdEU5Bq-VID8ephg1BMF535o6iiw1ZuGdI1es/edit?gid=960294921#gid=960294921) (only 15% of the analyzed profits were making positive APR).
