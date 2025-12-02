@@ -1,3 +1,7 @@
+2025-12-01 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/0a7d55a46fe60948ec25628d071dfac701244afc) method to get historical BTC prices from Binance (to test hedging script on wider time rage later); updated hedging script documentation
+
+---
+
 2025-11-28 Fri: completed backtesting results with different parameters, [added](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?usp=sharing) resulted table in dynamic hedging delta document. Synced with Yuriy on latest hedging script updates.
 
 2025-11-27 Thu: started hedging backtesting with different parameters (buffer, adjust threshold) to compare
