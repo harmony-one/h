@@ -1,3 +1,5 @@
+2025-12-02 Tue: [Implemented](https://github.com/harmony-one/portfolio-manager/tree/addColumns) additional hedge log columns for distance in ticks from buffer, distance in ticks from closest step size, and impermanent loss. Back to working on finding wallet candidates, checking through existing wallets lists and returns scripts.
+
 2025-12-01 Mon: Looked through to understand how Artem's portfolio-manager backtesting scripts and hedging model/virtual LPs works, ran sample output for October. Exported new outputs for Yuriy's copy bot ([1800 blocks](https://docs.google.com/spreadsheets/d/1f3gYkQ6sP9-mFPanU8plV0Zm8_g8_8HHske6UJ2TcJc/edit?gid=258771015#gid=258771015), [full range](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728)).
 
 ---
