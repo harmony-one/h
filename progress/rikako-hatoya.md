@@ -1,3 +1,7 @@
+2025-12-01 Mon: Looked through to understand how Artem's portfolio-manager backtesting scripts and hedging model/virtual LPs works, ran sample output for October. Exported new outputs for Yuriy's copy bot ([1800 blocks](https://docs.google.com/spreadsheets/d/1f3gYkQ6sP9-mFPanU8plV0Zm8_g8_8HHske6UJ2TcJc/edit?gid=258771015#gid=258771015), [full range](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728).
+
+---
+
 2025-11-30 Sun (1.0h): Ran analysis for new copy-bot (0x31fd) for 38759729-38802972, copy vs. target seemed off so ran for 38821599-38908852 but seems like ratio is correct. Statistics for [38759729~38802972](https://docs.google.com/spreadsheets/d/1wwQewsZdaIejBjyWgrNbzrC-H0gzfOJ5umttcxeLUck/edit?gid=1785005302#gid=1785005302) and [38821599~38908852](https://docs.google.com/spreadsheets/d/1IB5SA5VP1KNoyEt7o6_25dJR7pA1-21NbVnmVcWJrRA/edit?gid=2136801418#gid=2136801418).
 
 2025-11-29 Sat (1.5h): Catching up with porfolio-manager hedging scripts and impermanent loss docs.
