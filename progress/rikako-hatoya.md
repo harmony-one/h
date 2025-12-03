@@ -1,4 +1,4 @@
-2025-12-01 Mon: Looked through to understand how Artem's portfolio-manager backtesting scripts and hedging model/virtual LPs works, ran sample output for October. Exported new outputs for Yuriy's copy bot ([1800 blocks](https://docs.google.com/spreadsheets/d/1f3gYkQ6sP9-mFPanU8plV0Zm8_g8_8HHske6UJ2TcJc/edit?gid=258771015#gid=258771015), [full range](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728).
+2025-12-01 Mon: Looked through to understand how Artem's portfolio-manager backtesting scripts and hedging model/virtual LPs works, ran sample output for October. Exported new outputs for Yuriy's copy bot ([1800 blocks](https://docs.google.com/spreadsheets/d/1f3gYkQ6sP9-mFPanU8plV0Zm8_g8_8HHske6UJ2TcJc/edit?gid=258771015#gid=258771015), [full range](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728)).
 
 ---
 
