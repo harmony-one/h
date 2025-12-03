@@ -1,3 +1,16 @@
+Q1 2026 Plan
+
+1. **Stream Sync Enhancements**
+   Improve resource usage, optimize performance, refine startup bootstrapping, and monitor mainnet to address any possible bugs to further stabilize and harden mainnet Stream Sync.
+
+2. **Next Major Harmony Release (Hardfork)**
+   Prepare and implement one of the largest hardforks in Harmony’s history, introducing significant protocol upgrades and architectural improvements.
+
+3. **EVM Improvements & Optimizations**
+   Continue enhancing Harmony’s EVM by implementing new Ethereum updates, optimizing performance paths, and improving compatibility wherever possible.
+
+---
+
 2025 Q4 Review
 
 **Key Contribution: [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) - Major Contributor in a Collaborative Effort ( Contributed over 90% of the commits to this successful team release )**
@@ -1017,6 +1030,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
