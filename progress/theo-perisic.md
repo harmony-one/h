@@ -1,3 +1,19 @@
+2025-12-01 Mon: Team sync, time series data check to verify script matches intended behavior. Reviewing [scripts](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/hedge.ts#L56) and outputs. Edits and suggestions to November newsletter.
+
+---
+
+2025-11-30 Sun: (2.0h) [Jim Simons Numberphile](https://youtu.be/QNznD9hMEh0?si=q0rK9RADgqh1rFlz). Insight: no decision on stocks, options, commodities, at Renaissance is ever made by a human, the model drives all trade decisions. 
+
+2025-11-29 Sat: (3.0h) [The thinking game](https://youtu.be/d95J8yzvjbQ?si=mE28HL3xyHfYoan4). Insight: Starting small and iterating within a game environment lead to intelligence acceleration. Interesting shift from learned behaviors watching other examples to growing from no prior knowledge.
+
+2025-11-28 Fri: Review [hedging script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/hedge.ts). Insights: tick range may be confusing later on, “10-tick buffer” may be assumed as 10 ticks lower and 10 ticks higher, important to check for common use.
+
+2025-11-27 Thu: Thanksgiving
+
+2025-11-26 Wed: Troubleshooting [L constant](https://uniswapv3book.com/milestone_1/calculating-liquidity.html), liquidity constant for Uniswap V3 pools. Insight: previous calculations were correct for asset amounts, but liquidity constant was incorrect, adjustment is now correct with Q64.96 (2 to the 96th power) for on-chain notation.
+
+2025-11-25 Tue: Review scenario where LP position is not 50-50. Insight: alignment needs to be achieved on first position, either waiting for close to 50-50 weight after opening, or creating virtual position.
+
 2025-11-24 Mon: Team sync. Insights: revisit script, hedge size increasing while price returns to buffer, needs to be decreasing. Updated accelerated recovery document, extended to recovery multisig custodians for review.
 
 ---
