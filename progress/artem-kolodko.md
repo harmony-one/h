@@ -1,3 +1,7 @@
+2025-12-03 Wed: exported hedge history log and compared with team results. Hedge log follows hedge strategy [specification](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?usp=sharing).
+
+2025-12-02 Tue: updated hedge script documentation; review of hedge log with the team. Answered questions from the team regarding hedge script implementation details.
+
 2025-12-01 Mon: [added](https://github.com/harmony-one/portfolio-manager/commit/0a7d55a46fe60948ec25628d071dfac701244afc) method to get historical BTC prices from Binance (to test hedging script on wider time rage later); updated hedging script documentation. Exported new hedge log with 1 BTC initial exposure.
 
 ---
