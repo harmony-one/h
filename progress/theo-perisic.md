@@ -1,3 +1,9 @@
+2025-12-04 Thu: Created hedge step formula for any buffer size and any hedge step based on team sync. Insights: distance_from_step currently based on buffer and active within buffer, rather than relating to hedge position, formula fixes this, found with Rika and Artem.
+
+2025-12-03 Wed: Output for September strategy data. Insights: 49% impermanent loss capture from first 4 mints is promising, needs testing on larger time frame.
+
+2025-12-02 Tue: Implemented hedging script locally. Insight: initial position is based on 50/50 split rather than Uniswap V3 liquidity formulas, leads to slight accuracy changes for initial position.
+
 2025-12-01 Mon: Team sync, time series data check to verify script matches intended behavior. Reviewing [scripts](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/hedging_models/hedge.ts#L56) and outputs. Edits and suggestions to November newsletter.
 
 ---
