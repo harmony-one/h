@@ -11,6 +11,18 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-05 Fri: Completed the test suite for the hedging sprint: generated a set of swap events with predictable outcomes for creating long and short positions, as well as pre-calculated PnL results. Performed a final validation of the scenario where market direction switches from upward to downward movement. Identified several problematic areas in the script.
+
+2025-12-04 Thu: Continued working on tests for the hedging script and expanded logging to better understand the conditions and timing of position openings and closings.
+
+2025-12-03 Wed: Reviewed Rika’s PR introducing new columns. Verified the generated data with the team. Analyzed the new logs, including values for current price tick, center price tick, buffer size in ticks, hedge step size in ticks, and distance from buffer.
+
+2025-12-02 Tue: Conducted a deeper investigation of the hedging script’s source logic. Identified a condition where a change in price movement dynamics causes PnL to be recorded as positive instead of correctly registering a loss. Began writing tests to validate this hypothesis.
+
+2025-12-01 Mon: Launched the script using Aaron’s database to collect data for October. Compared the resulting outputs with the team and performed a detailed log review.
+
+---
+
 2025-11-28 Fri: Received an updated instruction set from Artem and attempted to run the hedging scripts. Fixed several technical issues to started scripts localy related to the migration process and database connectivity. Currently diving into advanced hedging cases involving multiple rebalances as BTC price direction shifts.
 
 2025-11-27 Thu: Studied the portfolio manager repository and the hedging scripts. Received updated wallets statistics from Rika. Selected a wallet with medium traffic intensity and a long duration time for copy trading - testing now.
