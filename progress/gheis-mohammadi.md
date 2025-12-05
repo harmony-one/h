@@ -13,13 +13,23 @@ Q1 2026 Plan
 
 2025 Q4 Review
 
-**Key Contribution: [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) - Major Contributor in a Collaborative Effort ( Contributed over 90% of the commits to this successful team release )**
+**Key Contribution: [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) - Major Contributor in a Collaborative Effort ( Contributed over 95% of the commits to this successful team release )**
 
 Q4 was one of my impactful quarters this year. I delivered major improvements across Harmony’s sync and core layers, while playing a central role in preparing the 2025.1.2 release which is finalized and ready for publication. This release is one of the largest in terms of code additions, and it marks a historic milestone: **Stream Sync will be enabled on mainnet for the first time**, a major step toward a more decentralized and resilient synchronization model for Harmony.
 
 Throughout the quarter, I strengthened every layer of the sync pipeline. I refactored trusted peer logic, enhanced metrics, fixed race conditions, and made the peer-selection process smarter and more adaptive. Stream Sync proved its reliability and was officially promoted to the default mechanism across Devnet and Testnet.
 
 A key highlight was implementing a full error-classification system for stream read/write operations. By distinguishing recoverable from critical errors, the network now avoids unnecessary stream drops due to transient conditions—an upgrade that translated directly into more stable deployments. I also delivered protocol-level improvements like EIP-3855 (PUSH0) and refactored EIP-2935 to stay aligned with upstream Ethereum changes.
+
+---
+
+2025-12-06 Sat: Last week I started studying deeper EVM internals to support upcoming protocol upgrades and future HIPs. This will help us better align Harmony’s execution layer with modern Ethereum improvements and ensure compatibility as we move toward larger upgrades.
+
+On the network side, we continued monitoring the latest version of stream sync on both Testnet and Devnet. Overall stability remains strong, but we observed one node getting stuck in short-range sync for a period before eventually recovering. After a restart, the node switched to long-range sync and fully caught up. I’m investigating this behavior and working on fixes to prevent short-range stalls and ensure smoother automatic recovery.
+
+I also created a dedicated **[Stream Sync documentation](https://github.com/harmony-one/stream-sync-document)** under the `harmony-one` GitHub organization to help the team and community better understand the architecture, pipeline, and recent improvements.
+
+We are getting ready to publish **release 2025.1.2** next week. All major features are locked in, and we’re now in the final validation and stability-checking phase.
 
 ---
 
@@ -1030,6 +1040,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
