@@ -1,3 +1,7 @@
+2025-12-05 Fri: final review of the hedge log ouput csv with the team. Created handover document with all links. 
+
+2025-12-04 Thu: [pull request](https://github.com/harmony-one/portfolio-manager/pull/61) with mint tokens amount fixes for virtual LP positions; hedging log output review.
+
 2025-12-03 Wed: exported hedge history log and compared with team results. Hedge log follows hedge strategy [specification](https://docs.google.com/document/d/1s7Uyr4LIIy_9wC_K9A9Qxed8MTjLpC3yzOl8nDeIz7c/edit?usp=sharing).
 
 2025-12-02 Tue: updated hedge script documentation; review of hedge log with the team. Answered questions from the team regarding hedge script implementation details.
