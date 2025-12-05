@@ -1,3 +1,29 @@
+2026 Q1 plans:
+* Help the consensus development team with stream sync mainnet rollout.
+*  I plan to complete the GitOps-based Grafana sync rollout, expand the crash-collection and observability stack with new metrics and stability checks, e.g. domain expiration checks.
+* Improve situation with the monitoring stack - start to use LTS versions everywhere and upgrade them as newest versions arrived.
+
+---
+
+2025 Q4 Review:
+
+**Key Contribution: The most impactful contribution this period is delivering the end-to-end crash-collection pipeline across all networks, enhancing release monitoring, and improving our dashboards, which together provide safer and faster detection of upgrade-related issues across the infrastructure** - [link](#crash-mermaid-diagram)
+
+Q4 Review:
+During Q4 I focused heavily on reviewing and improving our infrastructure and associated costs, as I am now the primary owner of this area. This included auditing existing setups, identifying unused or outdated components, and ensuring our environments remain efficient and maintainable. In parallel, I continued supporting multiple release efforts - deploying eth 1.10 updates, trusted-node improvements, and stream-sync bundles across environments - while unblocking key work such as the ducktape→goja migration and BEP44 support in the Harmony CLI.
+
+A major part of my goals this quarter was enhancing our observability stack, where I delivered the new crash-logging pipeline, migrated log ingestion to journald, broadened dashboard coverage, and added visibility into trusted-node behavior. I also introduced version-monitoring automation. In parallel, I worked with the team to prepare for the stream-sync alpha release on mainnet by testing new logic, validating improvements, and documenting operational runbooks.
+
+---
+
+2025-12-05 Fri:
+
+Main focus this week were the new release - deployed a few updates to the testnet, deployed release candidate version [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) to the mainnet - faced issue with the gas difference on old version and the new one and rolled back affected nodes.
+
+Additionally, I've fixed the hmy cli release creation and created the [v1.4.3 release](https://github.com/harmony-one/go-sdk/releases/tag/v1.4.3) with BEP44 feature asked by users.
+
+---
+
 2025-11-28 Fri:
 
 The main focus this week was to finish everything connected with the Github OAuth implementation and refactoring of our monitoring setup.
@@ -87,6 +113,7 @@ Additionally, I've shared my feedback about testnet RPC nodes with enabled strea
 
 Speaking about the systems engineering part, issues with trace RPC methods have given a good insight about our log aggregation infra - we aren't collecting the crash logs, because they are going to the stderr and syslog by default. So I've created a user story to fix this and started to work on it. You can see my solution on the mermaid diagram below:
 
+## crash mermaid diagram
 ```mermaid
 graph  TD
     A["Harmony Golang App"] --> B["Log File(crashes.log)"]
