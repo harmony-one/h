@@ -1,3 +1,16 @@
+2025 Q4 Review
+
+[Copy Trading Bot](https://github.com/harmony-one/portfolio-manager/tree/copy_trading_v1.0.2)
+
+The primary development focus this quarter was the [copy-trading bot](https://github.com/harmony-one/portfolio-manager/tree/copy_trading_v1.0.2). First built a basic version that replicated position openings and closings, and then an advanced version capable of copying staking actions and operating through a smart contract. The [smart contract](https://github.com/harmony-one/copy-trading-contract) enables efficient batching of multiple actions—such as opening a position, approving a token, and staking—into a single transaction. Also conducted research and optimization to ensure the bot operates reliably with flash blocks and accelerated event processing, resulting in the ability to react to target-strategy events within the same block.
+
+A large amount of statistical data was also collected from various wallets as well as during the testing of the copy-trading bot. Together with the team, we performed an in-depth analysis and refined our understanding of the optimal wallet for copy — specifically, the parameters related to position duration and the amount of capital managed by a wallet. At this stage, we have identified a target wallet to copy, currently [demonstrating](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728) a positive APR of 120%.
+
+Q1/2026 plans:
+Adding hedging functionality to the copy-trading bot and integrating it with a hedging-analytics service to enable real-time long and short position generation. Expanding the collection of hedging-related statistical data to develop a more robust and profitable strategy.
+
+---
+
 2025-11-28 Fri: Received an updated instruction set from Artem and attempted to run the hedging scripts. Fixed several technical issues to started scripts localy related to the migration process and database connectivity. Currently diving into advanced hedging cases involving multiple rebalances as BTC price direction shifts.
 
 2025-11-27 Thu: Studied the portfolio manager repository and the hedging scripts. Received updated wallets statistics from Rika. Selected a wallet with medium traffic intensity and a long duration time for copy trading - testing now.
