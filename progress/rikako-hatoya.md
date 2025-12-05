@@ -1,4 +1,7 @@
-*2025 Q4 Summary Draft*
+*2025 Q4 Summary !!!Draft!!!*
+During Q4 2025, I focused on improving the accuracy and consistency of our LP performance analysis across Aerodrome wallets, copy-bots, and hedged strategies. A major contribution this quarter was writing the returns script that calculates key metrics such as wallet APR using the hodl-based method, along with XIRR, IL, fee income, and other position-level metrics. I refined this script throughout the quarter by correcting APR/XIRR logic, integrating real token prices, adding IL calculations, and aligning methodology with the team. I also optimized performance by adding caching, parallelization, and improved handling of large datasets, which made it feasible to process large sets of wallets and validate results against portfolio-manager outputs.
+
+I also expanded wallet-level research by running both the timeline tool and the returns script across many candidate wallets, filtering them by active duration, and comparing copy-bot vs. target performance in detail. This included investigating inconsistencies between timeline and returns outputs, checking fee calculations, analyzing staked vs. unstaked scenarios. I also reorganized data outputs, consolidated files into shared folders, and ensured that all materials were consistent and reproducible.
 
 ---
 
