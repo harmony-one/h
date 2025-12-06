@@ -8,6 +8,10 @@ A major deliverable this quarter was creating the lp-returns repository, which h
 
 I also contributed to the hedging model and virtual LP analysis. I wrote a script that combines wallet actions with both swap-derived spot prices and Hyperliquid perp prices to create a unified, annotated transaction feed for hedging evaluation. I implemented new hedging metrics such as distance from buffer, distance from nearest step size, and IL for virtual LP positions. In Artem’s hedging repo, I fixed several core issues, including correcting mint/burn amount calculations using the Uniswap V3 formula, resolving token ordering inconsistencies for USDC/cbBTC, and updating hedging metrics for accurate position reconstruction. These updates ensured consistent behavior in the hedging backtests and allowed for more precise comparison between hedged strategies.
 
+**2026 Q1 Goals**
+
+In Q1 2026, I plan to finalize and validate the hedging model’s analysis metrics by fixing IL tracking, correcting mint/burn amount calculations for virtual LP positions, and adding new metrics such as deltas and reduction percentages to improve evaluation accuracy. I will continue contributing to the hedging model by generating annotated datasets, debugging discrepancies, and refining model parameters. In parallel, I will keep identifying and analyzing top wallet candidates using the lp-returns tools, focusing on active-duration patterns, XIRR, IL behavior, and consistency to maintain a strong shortlist of target wallets. Finally, I aim to work toward a fully functional and profitable copy bot by running detailed comparisons between the target wallets and our bot, diagnosing performance variances, and iterating until the bot tracks target behavior reliably and generates positive returns.
+
 ---
 
 2025-12-04 Thu: [Updated](https://github.com/harmony-one/portfolio-manager/pull/63) calculation for distance_from_previous_step in same branch as calculateMintAmounts, as discussed during team sync. IL calculation for real LP positions from database seems correct but seems extremely high for virtual LP positions, checking to see the issue.
