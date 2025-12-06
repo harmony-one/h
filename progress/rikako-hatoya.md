@@ -1,4 +1,4 @@
-### **2025 Q4 Review (41.5h)**
+### **2025 Q4 Review (50.5h)**
 
 Top Deliverable: [lp-returns script for copy-bot and top wallet candidates analysis](https://github.com/rikaa15/lp-returns)
 
@@ -104,9 +104,9 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
-2025-10-26 Sun: Returns metrics for the 2 other wallets.
+2025-10-26 Sun (1.0h): Returns metrics for the 2 other wallets.
 
-2025-10-25 Sat: Administrative work. Went over the document boundless team prepared and adding notes of skills verification.
+2025-10-25 Sat (6.0h): Administrative work. Went over the document boundless team prepared and adding notes of skills verification.
 
 2025-10-24 Fri: Watched some tutorials on hummingbot and worked on script to automate wallet data analysis (merge timeline-tool "actions" + "rewards" input, cbBTC price, XIRR, and other metrics, to avoid direct calculation on spreadsheets + process for large number of positions). We already verified for one wallet, will run for other 2 wallets (0x590d..., 0x5919...) tomorrow + add IL calculation.
 
