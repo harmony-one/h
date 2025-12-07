@@ -14,6 +14,8 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-05 Fri: Wrote draft for 2025 Q4 summary. Working on updating hedging scripts to show correct outputs and new columns per team sync.
+
 2025-12-04 Thu: [Updated](https://github.com/harmony-one/portfolio-manager/pull/63) calculation for distance_from_previous_step in same branch as calculateMintAmounts, as discussed during team sync. IL calculation for real LP positions from database seems correct but seems extremely high for virtual LP positions, checking to see the issue.
 
 2025-12-03 Wed: Added new [PR](https://github.com/harmony-one/portfolio-manager/pull/63) on updated implementation for calculateMintAmounts. Looking into Aaron's list in lp-data for wallets with 16-32 seconds duration to check if any are profitable.
