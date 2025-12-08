@@ -1,3 +1,7 @@
+2025-12-8 Mon (0.3h): Special domain management.
+
+---
+
 2025-12-5 Fri (0.2h): Implement fees validation and analysis on diversified backtesting test cases; Research on impact on IV crush, sudden downward price spike, and mechanisms for prevention.
 
 2025-12-4 Thu (2.3h): Discussion on trading strategy directions and priorities, and performance.
