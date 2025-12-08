@@ -14,6 +14,10 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-07 Sun (3.0h): Worked on updating hedging script, identified issue on positive IL. Uploaded new [analysis output](https://docs.google.com/spreadsheets/d/1cUAYpps7qSy67BXxeOVF1G2joFiVJe41Oe4OGOHFClo/edit?gid=1102885434#gid=1102885434).
+
+2025-12-06 Sat (1.5h): Updated draft for Q4 summary. Added 2026 Q1 goals.
+
 2025-12-05 Fri: Wrote draft for 2025 Q4 summary. Working on updating hedging scripts to show correct outputs and new columns per team sync.
 
 2025-12-04 Thu: [Updated](https://github.com/harmony-one/portfolio-manager/pull/63) calculation for distance_from_previous_step in same branch as calculateMintAmounts, as discussed during team sync. IL calculation for real LP positions from database seems correct but seems extremely high for virtual LP positions, checking to see the issue.
