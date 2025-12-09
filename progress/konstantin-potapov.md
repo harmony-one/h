@@ -1,3 +1,9 @@
+2025-12-02 Fri:
+During release testing, we observed differences in gas usage when executing various EVM opcodes. To investigate this, I created dedicated branches with an enabled tracer to capture execution behavior, and I’m working with Ulad on running identical workloads across different environments to identify the cause.
+Additionally, I added new metrics to the block-production pipeline to measure proposal timing. The goal is to collect detailed data to analyze the volatility of 1-second block proposals.
+
+---
+
 2025-11-28 Fri (5 days off):
 
 ---
