@@ -1,4 +1,4 @@
-2025-12-9 Tue (0.4h+): Special domain management.
+2025-12-9 Tue (0.4h): Special domain management.
 
 2025-12-8 Mon (0.3h): Special domain management.
 
