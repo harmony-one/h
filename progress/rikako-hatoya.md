@@ -14,6 +14,10 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-08 Mon: Updated hedge log script with correct IL formula, fixed boundary edge issue to include swaps on edge ticks, added additional performance metrics (eg. scaling factor, number of positions, average IL, median hedge, total hedge, IL reduction %) to console output as well as output new csv file `hedge_log_summary.csv` for easy import to our Google sheets. Uploaded september analysis [here](https://docs.google.com/spreadsheets/d/1FMeYQpdKB7PO_DsFnCUI9JMjTcigdc04nfAjAlSKC7I/edit?gid=250325150#gid=250325150), identifying issues with database for June-July data. 
+
+---
+
 2025-12-07 Sun (3.0h): Worked on updating hedging script, identified issue on positive IL. Uploaded new [analysis output](https://docs.google.com/spreadsheets/d/1cUAYpps7qSy67BXxeOVF1G2joFiVJe41Oe4OGOHFClo/edit?gid=1102885434#gid=1102885434).
 
 2025-12-06 Sat (1.5h): Updated draft for Q4 summary. Added 2026 Q1 goals.
