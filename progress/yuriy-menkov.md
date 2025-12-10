@@ -11,6 +11,12 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-09 Tue: Investigation of the incorrect IL calculation issue. Testing of the new hedge-log script. Work on an alternative version of position generation based on a given set of swaps.
+
+2025-12-08 Mon: Review of the new hedge-log script version. Data export for August–July and generation of IL and hedge PnL estimates. Debugging and analysis of the causes behind the inflated results.
+
+---
+
 2025-12-05 Fri: Completed the test suite for the hedging sprint: generated a set of swap events with predictable outcomes for creating long and short positions, as well as pre-calculated PnL results. Performed a final validation of the scenario where market direction switches from upward to downward movement. Identified several problematic areas in the script.
 
 2025-12-04 Thu: Continued working on tests for the hedging script and expanded logging to better understand the conditions and timing of position openings and closings.
