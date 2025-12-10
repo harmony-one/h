@@ -1,4 +1,4 @@
-2025-12-9 Tue (2.5h+): Implement fees validation and analysis on diversified backtesting test cases; Research on impact on IV crush, sudden downward price spike, and mechanisms for prevention. Special domain management.
+2025-12-9 Tue (3.2h): Implement fees validation and analysis on diversified backtesting test cases; Research on impact on IV crush, sudden downward price spike, and mechanisms for prevention. Special domain management.
 
 2025-12-8 Mon (0.3h): Special domain management.
 
