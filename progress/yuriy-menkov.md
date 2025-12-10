@@ -6,6 +6,8 @@ The primary development focus this quarter was the [copy-trading bot](https://gi
 
 A large amount of statistical data was also collected from various wallets as well as during the testing of the copy-trading bot. Together with the team, we performed an in-depth analysis and refined our understanding of the optimal wallet for copy — specifically, the parameters related to position duration and the amount of capital managed by a wallet. At this stage, we have identified a target wallet to copy, currently [demonstrating](https://docs.google.com/spreadsheets/d/1pjsCwev2f1LRCTxYeH_52hnpa-qwKvestzQSXaUBCGs/edit?gid=1638702728#gid=1638702728) a positive APR of 120%.
 
+A statistical analysis identified a set of parameters for filtering wallets suitable for copy-trading: median position duration of 10–100 blocks, deposit size no greater than 5% of the pool’s liquidity, and an APR above 50%. Several wallets matching these criteria have now been found — we are currently using one with an annual APR of 150%. Additional [tools](https://copy-trading-wallet-1.fly.dev/copy-trading-stats) were also added to compare wallet operations in real time. 
+
 Q1/2026 plans:
 Adding hedging functionality to the copy-trading bot and integrating it with a hedging-analytics service to enable real-time long and short position generation. Expanding the collection of hedging-related statistical data to develop a more robust and profitable strategy.
 
