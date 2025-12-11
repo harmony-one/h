@@ -1,4 +1,4 @@
-2025-12-10 Wed (1.4h+): Verify historical data. IV crush data analysis and simulations. Validating backtesting fee samples.
+2025-12-10 Wed (2.3h): Verify historical data. IV crush data analysis and simulations. Validating backtesting fee samples.
 
 2025-12-9 Tue (3.2h): Implement fees validation and analysis on diversified backtesting test cases; Research on impact on IV crush, sudden downward price spike, and mechanisms for prevention. Special domain management.
 
