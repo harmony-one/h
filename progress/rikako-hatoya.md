@@ -14,6 +14,10 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-10 Thu: [Updated](https://github.com/harmony-one/portfolio-manager/tree/addColumns) script to organize output folder structure, remove incomplete (unclosed) positions from analysis, extended strategy parameters (20 swaps, 50 swaps), ran analysis for May-November and added output to [this main folder](https://drive.google.com/drive/folders/1d9jEFHY4PR0sJWsjkDRJjrZEQASCKehY). Wrote explanation of script changes and currently implemented strategy to [master-doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?hl=en&tab=t.0).
+
+2025-12-10 Wed: [Implemented](https://drive.google.com/drive/folders/1d9jEFHY4PR0sJWsjkDRJjrZEQASCKehY) new strategies per team sync (2 strategies: median and spike), fixed pool filtering issue (incorrect pool swaps), added new output files (hedge_log summary file for all strategies, hedge_log per position file). Ran analysis for September and added output [here](https://drive.google.com/drive/folders/1u-Vsn1IZAg2VBqEZSO-1Wqg_QhIgjNNV), and summary file [here](https://docs.google.com/spreadsheets/d/12CVhc30vaGrlKRdk7XShx-5IBR7JRWwDBz9geh3Xm3U/edit?gid=1588525433#gid=1588525433).
+
 2025-12-09 Tue: Still had issue at tick boundaries causing incorrect IL calculation, fixed issue and also created a script to display IL and hedge pnl per position. Ran analysis for August-October, output [here](https://drive.google.com/drive/folders/1eFJfyllcExzKarEF5tw0q0a-mxTt_QUC).
 
 2025-12-08 Mon: Updated hedge log script with correct IL formula, fixed boundary edge issue to include swaps on edge ticks, added additional performance metrics (eg. scaling factor, number of positions, average IL, median hedge, total hedge, IL reduction %) to console output as well as output new csv file `hedge_log_summary.csv` for easy import to our Google sheets. Uploaded september analysis [here](https://docs.google.com/spreadsheets/d/1FMeYQpdKB7PO_DsFnCUI9JMjTcigdc04nfAjAlSKC7I/edit?gid=250325150#gid=250325150), identifying issues with database for June-July data. 
