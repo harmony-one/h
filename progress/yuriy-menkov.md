@@ -13,6 +13,12 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-12 Fri: Synced with Li regarding new steps. Started working on adapting the hedging script for real-time operation — consuming all swap data via WebSocket, constructing virtual positions, and making hedging decisions using the median strategies that demonstrated the best performance.
+
+2025-12-11 Thu: Reviewed Rika's latest hedge script version. Tested median strategies with different window parameters (10 / 20 / 50) and compared monthly statistical results. The most effective configuration was the median strategy with a 50-swap window, which almost completely filters out random price spikes.
+
+2025-12-10 Wed: Researched new median and spike strategies for swaps filtering; hedge script review and data output validation. Analysis of September hedging data.
+
 2025-12-09 Tue: Investigation of the incorrect IL calculation issue. Testing of the new hedge-log script. Work on an alternative version of position generation based on a given set of swaps.
 
 2025-12-08 Mon: Review of the new hedge-log script version. Data export for August–July and generation of IL and hedge PnL estimates. Debugging and analysis of the causes behind the inflated results.
