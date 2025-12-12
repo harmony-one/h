@@ -1,3 +1,15 @@
+2025-12-12 Fri:
+
+Main focus was the help to the Konstantin with the new [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate. New version is using different opcodes inside smart contracts, helping to find the root cause here.
+
+As part of system engineering activities, I've updated a few items from monitoring stack - Loki, Prometheus and Alert Manager to the latest release and setup release versions monitoring.
+
+Finally as part of on-call activities, I've noticed expired card in some services/clouds, asked to update it.
+Additionally, I was checking issue with undelegation from the inactive validator - collected initial data, shared with the consensus dev team.
+
+---
+
+
 2026 Q1 plans:
 * Help the consensus development team with stream sync mainnet rollout.
 *  I plan to complete the GitOps-based Grafana sync rollout, expand the crash-collection and observability stack with new metrics and stability checks, e.g. domain expiration checks.
@@ -18,7 +30,7 @@ A major part of my goals this quarter was enhancing our observability stack, whe
 
 2025-12-05 Fri:
 
-Main focus this week were the new release - deployed a few updates to the testnet, deployed release candidate version [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) to the mainnet - faced issue with the gas difference on old version and the new one and rolled back affected nodes.
+Main focus this week was the new release - deployed a few updates to the testnet, deployed release candidate version [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) to the mainnet - faced issue with the gas difference on old version and the new one and rolled back affected nodes.
 
 Additionally, I've fixed the hmy cli release creation and created the [v1.4.3 release](https://github.com/harmony-one/go-sdk/releases/tag/v1.4.3) with BEP44 feature asked by users.
 
