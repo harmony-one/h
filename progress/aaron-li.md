@@ -1,3 +1,5 @@
+2025-12-12 Fri (0.2h+): Refien call spread strategy; Revise backtesting validation.
+
 2025-12-11 Thu (0.6h): Revise backtesting fee validation and simulation.
 
 2025-12-10 Wed (2.3h): Verify historical data. IV crush data analysis and simulations. Validating backtesting fee samples.
