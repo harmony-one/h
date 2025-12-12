@@ -1,4 +1,4 @@
-2025-12-12 Fri (0.2h+): Refien call spread strategy; Revise backtesting validation.
+2025-12-12 Fri (1.2h+): Refien call spread strategy; Revise backtesting validation.
 
 2025-12-11 Thu (0.6h): Revise backtesting fee validation and simulation.
 
