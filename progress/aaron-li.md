@@ -1,4 +1,4 @@
-2025-12-11 Thu (0.2h): Revise backtesting fee validation and simulation.
+2025-12-11 Thu (0.5h+): Revise backtesting fee validation and simulation.
 
 2025-12-10 Wed (2.3h): Verify historical data. IV crush data analysis and simulations. Validating backtesting fee samples.
 
