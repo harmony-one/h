@@ -1,3 +1,17 @@
+2025-12-13 Sat: Last week was very productive, with several important pull requests that significantly improved core evm and sync components and their stability, and mainnet readiness.
+
+**[PR 4967](https://github.com/harmony-one/harmony/pull/4967)** fixes multiple issues in **precompiled contract initialization and address assignment**. It ensures the correct precompile is selected based on activation epochs, fixes potential runtime panics caused by incorrect address list initialization, and properly separates read-only precompiles from write-capable ones. This keeps us fully compatible with Ethereum’s **EIP-2537** and fixes the initialization logic and critical issues.
+
+I also created **[PR 4978](https://github.com/harmony-one/harmony/pull/4978)**, which fixes a **critical issue that could have caused a chain fork if deployed to mainnet**. After merging the Ethereum upgrade and transient storage changes from the dev branch, we discovered that gas prices for some transactions differed from expected values on mainnet — even though transient storage is not yet activated there. This PR corrects that behavior and ensures mainnet gas accounting remains fully consistent and safe.
+
+In **[PR 4974](https://github.com/harmony-one/harmony/pull/4974)**, I added **default trusted DNS nodes** to the sync configuration for **Mainnet, Testnet, and Devnet**. With this change, nodes now have a reliable set of trusted DNS peers out of the box, improving bootstrap reliability when no custom configuration is provided.
+
+I rebased and resolved conflicts for **[PR 4975](https://github.com/harmony-one/harmony/pull/4975)**, which introduces the **PUSH0 (0x5f) EVM opcode**. This allows pushing zero onto the stack using a single byte and lower gas cost compared to `PUSH1 0`, making smart contracts smaller, cheaper, and more efficient, and aligning Harmony with modern Ethereum EVM improvements.
+
+Finally, I created **[PR 4977](https://github.com/harmony-one/harmony/pull/4977)**, which significantly improves the **sync mode switching logic** in staged stream sync. It detects stale `estimatedHeight` values in short-range mode and automatically switches back to long-range sync to refresh state, handles edge cases where the current block height exceeds the estimated height, and switches back to long-range sync when distance thresholds are exceeded. Logging was also enhanced to clearly explain when and why sync mode transitions occur.
+
+---
+
 Q1 2026 Plan
 
 1. **Stream Sync Enhancements**
@@ -1040,6 +1054,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
