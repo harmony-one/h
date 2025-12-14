@@ -1,4 +1,4 @@
-2025-12-13 Sat (0.7h+): Refine call spread strategy; Revise backtesting validation.
+2025-12-13 Sat (1.1h): Refine call spread strategy; Revise backtesting validation.
 
 2025-12-12 Fri (3.1h): Refine call spread strategy; Revise backtesting validation.
 
