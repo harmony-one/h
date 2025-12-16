@@ -1,4 +1,4 @@
-2025-12-15 Mon (1.1h): Code review on trading bot and hedge simulation.
+2025-12-15 Mon (1.7h+): Refine call spread strategy; Revise backtesting validation. Code review on trading bot and hedge simulation.
 
 ---
 
