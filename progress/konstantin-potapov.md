@@ -1,3 +1,8 @@
+2025-12-12 Fri:
+This week, I made several pull requests improving the EVM execution process. I made progress in stabilizing gas accounting, but there are still cases where equivalent transactions result in different gas usage. The issue is currently traced to the STATICCALL execution path, and I am analyzing the method, its parameters, and return values.
+
+---
+
 2025-12-05 Fri:
 During release testing, we observed differences in gas usage when executing various EVM opcodes. To investigate this, I created dedicated branches with an enabled tracer to capture execution behavior, and I’m working with Ulad on running identical workloads across different environments to identify the cause.
 Additionally, I added new metrics to the block-production pipeline to measure proposal timing. The goal is to collect detailed data to analyze the volatility of 1-second block proposals.
