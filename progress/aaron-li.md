@@ -1,4 +1,4 @@
-2025-12-17 Wed (4.0h+): Investigate estimated fee difference vs actual fee earned.
+2025-12-17 Wed (5.0h+): Investigate estimated fee difference vs actual fee earned.
 
 2025-12-16 Tue (5.9h): Refine call spread strategy; Revise backtesting validation.
 
