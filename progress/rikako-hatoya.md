@@ -14,6 +14,8 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-16 Tue: Checking of new additions from Yuriy's [new branch](https://github.com/harmony-one/portfolio-manager/commits/hedge_real_time/) for hedging strategy. Testing of hedging_models_exec script and testing with more parameter variations for the strategy.
+
 2025-12-12 (Fri) ~ 2025-12-15 (Mon): PTO
 
 2025-12-11 Thu: [Updated](https://github.com/harmony-one/portfolio-manager/tree/addColumns) script to organize output folder structure, remove incomplete (unclosed) positions from analysis, extended strategy parameters (20 swaps, 50 swaps), ran analysis for May-November and added output to [this main folder](https://drive.google.com/drive/folders/1d9jEFHY4PR0sJWsjkDRJjrZEQASCKehY). Wrote explanation of script changes and currently implemented strategy to [master-doc](https://docs.google.com/document/d/1ofKwx2V15DGb5cAe2v6Q_fMZkMHYTz0JZKXjAr4cynw/edit?hl=en&tab=t.0).
