@@ -13,6 +13,16 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-18 Thu: Tested the new hedge manager service and [fixed](https://github.com/harmony-one/portfolio-manager/commit/9acc947913a98a2a647446bf6995332903eeb01c) issues related to hedge delta calculation and the timing of Hyperliquid API calls. Shared the source code with Rika. Added file-based logging with a 30-second interval.
+
+2025-12-17 Wed: [Completed](https://github.com/harmony-one/portfolio-manager/commit/755b33856e3a956ef9264ece75b1e9e48951492c) the first version of the Hedge Manager service — a full real-time hedge position management loop based on the core hedge strategy. Swap events are received in real time via Alchemy WebSockets; the strategy then calculates hedge delta and other metrics and decides whether to open or adjust positions, after which the Hyperliquid API is called.
+
+2025-12-16 Tue: [Implemented](https://github.com/harmony-one/portfolio-manager/commit/edc1d789ec2dfed3462e8627373d2b90aef8c528) a real-time version of the hedging strategy (analytics engine only, without position execution). The strategy is now an isolated service that processes swap events sequentially and makes hedging decisions on every step. Testing is still performed on historical data. Continued general code refactoring. Conducted research on the Hyperliquid API for real-time position execution.
+
+2025-12-15 Mon: Continue working on migrating the current hedge strategy from historical backtesting to real-time execution. Several critical issues were identified in the hedge position handling logic: open positions were ignored when price moved out of range, positions were not closed when price direction changed, and other related edge cases. Began refactoring the hedging script into a class-based architecture to enable integration with external services.
+
+---
+
 2025-12-12 Fri: Synced with Li regarding new steps. Started working on adapting the hedging script for real-time operation — consuming all swap data via WebSocket, constructing virtual positions, and making hedging decisions using the median strategies that demonstrated the best performance.
 
 2025-12-11 Thu: Reviewed Rika's latest hedge script version. Tested median strategies with different window parameters (10 / 20 / 50) and compared monthly statistical results. The most effective configuration was the median strategy with a 50-swap window, which almost completely filters out random price spikes.
