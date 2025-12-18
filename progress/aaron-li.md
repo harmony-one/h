@@ -1,4 +1,4 @@
-2025-12-17 Wed (4.7h+): Analyze discrepancy in fee for virtual position vs actual position. Investigate staking network. Multisig operations. Discussing stepwise hedging, copy-trade, call spread. Investigate estimated fee difference vs actual fee earned.
+2025-12-17 Wed (5.2h): Analyze discrepancy in fee for virtual position vs actual position. Investigate staking network. Multisig operations. Discussing stepwise hedging, copy-trade, call spread. Investigate estimated fee difference vs actual fee earned.
 
 2025-12-16 Tue (5.9h): Refine call spread strategy; Revise backtesting validation.
 
