@@ -1,4 +1,4 @@
-2025-12-18 Thu (3.6h+): Investigate staking network.
+2025-12-18 Thu (4.6h+): Investigate staking network.
 
 2025-12-17 Wed (7.2h): Analyze discrepancy in fee for virtual position vs actual position. Research on implied volatility calculation based on historical data. Analyze discrepancy in fee for virtual position vs actual position. Investigate staking network. Multisig operations. Discussing stepwise hedging, copy-trade, call spread. Investigate estimated fee difference vs actual fee earned.
 
