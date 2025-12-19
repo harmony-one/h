@@ -1,11 +1,25 @@
+2025-12-19 Fri:
+
+Main focus was to again help with the new [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate. This week I was helping with CI failures.
+
+One more item was the suspicious undelegation burst noticed by the community. I've done the initial investigation and helped with communication between Harmony org and community.
+
+As part of system engineering activities, I've finished updating the monitoring setup to latest release versions, including node exporter exporter, here I've also updated its dashboard accordingly. And finally, I've added all items to the newreleases.io monitoring.
+
+Additionally, I've tried to use native Grafana git-ops solution, but ended up with a concussion that it is too fresh, because sync wasn't working properly, and isn't ready for production use. We can return to it after the stable version. Instead, I've polish the current setup, removed unused and group current dashboards by topics, see attachment below:
+
+![alt dashboards_grouping](/devops/img//dashboards_grouping.png)
+
+---
+
 2025-12-12 Fri:
 
-Main focus was the help to the Konstantin with the new [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate. New version is using different opcodes inside smart contracts, helping to find the root cause here.
+Main focus was the help to Konstantin with the new [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate. The new version is using different opcodes inside smart contracts, helping to find the root cause here.
 
 As part of system engineering activities, I've updated a few items from monitoring stack - Loki, Prometheus and Alert Manager to the latest release and setup release versions monitoring.
 
-Finally as part of on-call activities, I've noticed expired card in some services/clouds, asked to update it.
-Additionally, I was checking issue with undelegation from the inactive validator - collected initial data, shared with the consensus dev team.
+Finally as part of on-call activities, I noticed an expired card in some services/clouds, and asked to update it.
+Additionally, I was checking issues with undelegation from the inactive validator - collected initial data, shared with the consensus dev team.
 
 ---
 
