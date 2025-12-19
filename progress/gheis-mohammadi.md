@@ -1,3 +1,13 @@
+2025-12-20 Sat: Last week we focused on testing, bug fixes, and final preparations for the **2025.1.2 release**.
+
+I fixed a critical EVM tracer issue in **[PR 4981](https://github.com/harmony-one/harmony/pull/4981)** where enabling Debug mode without a configured tracer could cause a nil pointer panic. The fix follows go-ethereum’s pattern by ensuring tracer calls are executed only when both Debug is enabled and a tracer is present.
+
+We also resolved CI/CD test failures in **[PR 4983](https://github.com/harmony-one/harmony/pull/4983)** related to tracer tests using dummy state databases. A missing nil check on the trie caused panics during testing, which is now safely handled without affecting production behavior.
+
+In addition, I reviewed delegation and staking logic and fixed a minor bug in test-only code in **[PR 4982](https://github.com/harmony-one/harmony/pull/4982)**. The issue was caused by incorrect slice manipulation when deleting undelegation entries. This fix improves correctness and maintainability and does not require a hard fork.
+
+---
+
 2025-12-13 Sat: Last week was very productive, with several important pull requests that significantly improved core evm and sync components and their stability, and mainnet readiness.
 
 **[PR 4967](https://github.com/harmony-one/harmony/pull/4967)** fixes multiple issues in **precompiled contract initialization and address assignment**. It ensures the correct precompile is selected based on activation epochs, fixes potential runtime panics caused by incorrect address list initialization, and properly separates read-only precompiles from write-capable ones. This keeps us fully compatible with Ethereum’s **EIP-2537** and fixes the initialization logic and critical issues.
@@ -1054,6 +1064,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
