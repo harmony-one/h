@@ -14,6 +14,8 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-19 Fri: Debugging some configuration issues and testing on Hyperliquid.
+
 2025-12-18 Thu: Fixed strategy bug (hedging trigger based on ticks), and added Hyperliquid trading fee logs to [new hedge-manager branch](https://github.com/harmony-one/portfolio-manager/commits/hedge_manager/). Re-ran backtesting and [uploaded output](https://drive.google.com/drive/folders/1Aj3N2YbBoVzGlGskzu7WcdCR3yDlqdpI), analyzing output and look into more strategies.
 
 2025-12-17 Wed: In-person team sync with Li and Aaron.
