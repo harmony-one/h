@@ -1,3 +1,16 @@
+---
+
+Most Important Contribution
+The primary contribution this quarter was the completion of PR #4958 (https://github.com/harmony-one/harmony/pull/4958), which replaced the legacy Duktape JavaScript engine with the more stable and maintainable gojo engine.
+
+Q4 Summary
+During Q4, release testing revealed that the embedded JavaScript engine (Duktape) caused node crashes under specific tracing workloads. To address this, it was replaced with the more stable gojo engine. The upgrade required updating Harmony’s internal tracers, resulting in approximately 7,000 lines of code changes along with corresponding test adjustments. I also activated transient storage (EIP-1153) and completed the rollout of the 1.10 release to Mainnet.
+
+2026 Q1 Plan
+In Q1, I plan to activate the remaining features from the 1.10 and 1.11 updates and launch the 1-second block-time configuration on testnet.
+
+---
+
 2025-12-12 Fri:
 This week, I made several pull requests improving the EVM execution process. I made progress in stabilizing gas accounting, but there are still cases where equivalent transactions result in different gas usage. The issue is currently traced to the STATICCALL execution path, and I am analyzing the method, its parameters, and return values.
 
