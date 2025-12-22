@@ -14,9 +14,9 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
-2025-12-21 Sun:
+2025-12-21 Sun (1.0h): Continue testing with hyperliquid with real money.
 
-2025-12-20 Sat: Testing of our bot live. Re-checking our new hedge-manager branch code.
+2025-12-20 Sat (1.0h): Testing of our bot live. Re-checking our new hedge-manager branch code.
 
 2025-12-19 Fri: Debugging some configuration issues and testing on Hyperliquid.
 
