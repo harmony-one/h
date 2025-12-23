@@ -1,4 +1,4 @@
-2025-12-22 Mon (0.7h): Rescue devops.
+2025-12-22 Mon (1.0h+): Backfilling implied volatility. Rescue devops.
 
 ---
 
