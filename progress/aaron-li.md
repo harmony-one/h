@@ -1,4 +1,4 @@
-2025-12-23 Tue (1.3h): .country devops and access control. Roadmap video.
+2025-12-23 Tue (2.0h+): .country devops and access control. Roadmap video.
 
 2025-12-22 Mon (1.1h): Backfilling implied volatility. Rescue devops.
 
