@@ -1,3 +1,11 @@
+2025-12-24 Wed:
+
+Main focus on this week was the help with the Pagerduty issues.
+
+As part of system engineering activities, I've created setup for collecting our VPN solution metrics by Prometheus, automated it via ansible playbook, verified the whole setup, only alarms and dashboard left for this topic.
+
+---
+
 2025-12-19 Fri:
 
 Main focus was to again help with the new [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate. This week I was helping with CI failures.
