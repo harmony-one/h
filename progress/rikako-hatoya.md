@@ -14,7 +14,9 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
-2025-12-22 Mon: Team sync on our logging system, checked outputs from our hedge_log_manager and trade history exported from Hyperliquid, created comparison chart. Our hedge_position_change seems very off from actual hedge, looking into logs.
+2025-12-23 Tue: Test run with Yuriy's new update for hedge execution logs and read doc on [position discrepancy](https://docs.google.com/document/d/1NVDcQUq0ROnnQgh5iTcE_t2iO6Aa5LPNg6LZZ8lqrLM/edit?tab=t.0). Looked into leverage: current code has no leverage setting so added one, and also added fallback error for insufficient margin, noticed potential bug with position size and implemented fix all to [new branch](https://github.com/harmony-one/portfolio-manager/tree/fix/hedge-execution-bugs).
+
+2025-12-22 Mon: Team sync on our logging system, checked outputs from our hedge_log_manager and trade history exported from Hyperliquid, [created comparison chart](https://docs.google.com/spreadsheets/d/1_n2yxlYccBV4ZcD5hBnJLFhksnMtLiwb79N1eeJzByQ/edit?gid=2085595222#gid=2085595222). Our hedge_position_change seems very off from actual hedge, looking into logs.
 
 ---
 
