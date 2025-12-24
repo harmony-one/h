@@ -13,6 +13,14 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-23 Tue: Reviewed Rika’s merge request and applied fixes related to leverage handling. Fixed the BTC position size calculation, corrected the position-closing logic when the trade direction changes. Calculated optimal liquidity usd amount compatible with hypeliquid deposit.
+
+2025-12-22 Mon: Added separated logging in the hedge manager service for: hedge positions opened via Hyperliquid, and positions calculated theoretically based on swaps using the original hedging strategy. Project files and logs were exported and uploaded to AI for further analysis and discussion with the team.
+
+---
+
+2025-12-19 Fri: Fixed the position opening logic. Applied updates to the hedging strategy and extended the hedge manager service to support containerized execution on fly.io. Configured deployment and persistence of statistics in the database.
+
 2025-12-18 Thu: Tested the new hedge manager service and [fixed](https://github.com/harmony-one/portfolio-manager/commit/9acc947913a98a2a647446bf6995332903eeb01c) issues related to hedge delta calculation and the timing of Hyperliquid API calls. Shared the source code with Rika. Added file-based logging with a 30-second interval.
 
 2025-12-17 Wed: [Completed](https://github.com/harmony-one/portfolio-manager/commit/755b33856e3a956ef9264ece75b1e9e48951492c) the first version of the Hedge Manager service — a full real-time hedge position management loop based on the core hedge strategy. Swap events are received in real time via Alchemy WebSockets; the strategy then calculates hedge delta and other metrics and decides whether to open or adjust positions, after which the Hyperliquid API is called.
