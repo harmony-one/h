@@ -13,6 +13,10 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-25 Thu: Launched hedge manager in a 24-hour test and identified an issue: when the price trends strongly in one direction for an extended period, the hedge position keeps increasing, eventually exhausting the Hyperliquid margin balance. This leads to desynchronization between theoretical and actual hedge data. To address this, I adjusted the strategy to operate within a narrower range so that LP and hedge positions are reopened more frequently, allowing profits to be realized more often. Testing is ongoing.
+
+2025-12-24 Wed: Hedge manager improvements: enhanced the hedge manager by implementing extended logging logic, including a comparison between delta exposure and the calculated hedge position size (both theoretical and actual). Performed testing with 10x leverage to improve responsiveness to strategy-generated events.
+
 2025-12-23 Tue: Reviewed Rika’s merge request and applied fixes related to leverage handling. Fixed the BTC position size calculation, corrected the position-closing logic when the trade direction changes. Calculated optimal liquidity usd amount compatible with hypeliquid deposit.
 
 2025-12-22 Mon: Added separated logging in the hedge manager service for: hedge positions opened via Hyperliquid, and positions calculated theoretically based on swaps using the original hedging strategy. Project files and logs were exported and uploaded to AI for further analysis and discussion with the team.
