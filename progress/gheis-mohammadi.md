@@ -1,3 +1,15 @@
+2025-12-27 Sat: Last week I worked on fixing race conditions, configuration issues, and continued code reviews and maintenance.
+
+I created [PR 4985](https://github.com/harmony-one/harmony/pull/4985) to fix a race condition that caused timing-dependent and flaky test behavior in CI/CD. The issue was resolved by marking the layer being flattened as stale using an atomic operation before returning the merged layer, ensuring any external references correctly detect staleness and return ErrSnapshotStale instead of behaving unpredictably.
+
+I also made [PR 4984](https://github.com/harmony-one/harmony/pull/4984) to fix Devnet configuration handling. In Harmony, Devnet is effectively the Partner Network and should follow Partner Network configurations. However, parts of the code treated Devnet and Partner as separate network types, causing Devnet to fall through default cases in several switch statements. This PR ensures Devnet consistently uses Partner Network settings as intended.
+
+In parallel, I started studying the current staking and delegation mechanisms and began planning a new version of staking. More details on this work will be shared in Q1 2026.
+
+Additionally, I reviewed and merged several team PRs and rebased my own open PRs, resolving conflicts to keep them ready for timely merging.
+
+---
+
 2025-12-20 Sat: Last week we focused on testing, bug fixes, and final preparations for the **2025.1.2 release**.
 
 I fixed a critical EVM tracer issue in **[PR 4981](https://github.com/harmony-one/harmony/pull/4981)** where enabling Debug mode without a configured tracer could cause a nil pointer panic. The fix follows go-ethereum’s pattern by ensuring tracer calls are executed only when both Debug is enabled and a tracer is present.
