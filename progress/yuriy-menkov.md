@@ -13,6 +13,12 @@ Adding hedging functionality to the copy-trading bot and integrating it with a h
 
 ---
 
+2025-12-30 Tue: Synced with the team on the latest version of the hedge manager service. Log analysis: reviewed basic scenarios with price increases/decreases and corresponding delta position adjustments. Also analyzed the discrepancy between theoretical and realized PnL caused by theoretical delta values going out of the acceptable range for opening hedge positions via the Hyperliquid service.
+
+---
+
+2025-12-26 - 2025-12-29: Christmas, no team sync.
+
 2025-12-25 Thu: Launched hedge manager in a 24-hour test and identified an issue: when the price trends strongly in one direction for an extended period, the hedge position keeps increasing, eventually exhausting the Hyperliquid margin balance. This leads to desynchronization between theoretical and actual hedge data. To address this, I adjusted the strategy to operate within a narrower range so that LP and hedge positions are reopened more frequently, allowing profits to be realized more often. Testing is ongoing.
 
 2025-12-24 Wed: Hedge manager improvements: enhanced the hedge manager by implementing extended logging logic, including a comparison between delta exposure and the calculated hedge position size (both theoretical and actual). Performed testing with 10x leverage to improve responsiveness to strategy-generated events.
