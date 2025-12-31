@@ -1,3 +1,6 @@
+2025-12-26 Fri:
+This week, I worked on improving the EVM execution flow. I made progress on stabilizing gas accounting, but there are still scenarios where equivalent transactions consume different amounts of gas. During this work, I found that the required functionality was missing on mainnet, so I had to implement and add it. I am currently reviewing the relevant execution logic, parameters, and return values to identify the root cause.
+
 ---
 
 Most Important Contribution
