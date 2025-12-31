@@ -14,6 +14,10 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2025-12-31 Wed: New Year's Eve
+
+2025-12-30 Tue: Team sync. Checking of configuration variables concerning delta and hyperliquid margin.
+
 2025-12-29 Mon: Sync with Li, discussion on next steps. Checking of latest hedge manager branch [update](https://github.com/harmony-one/portfolio-manager/tree/hedge_manager_v1).
 
 ---
