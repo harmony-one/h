@@ -1,3 +1,7 @@
+2026-1-2 Fri (0.7h+): Review server security. Revise volatility calculation scripts.
+
+---
+
 2025-12-23 Tue (5.8h): .country devops and access control. Roadmap video.
 
 2025-12-22 Mon (1.1h): Backfilling implied volatility. Rescue devops.
