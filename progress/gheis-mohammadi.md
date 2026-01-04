@@ -1,3 +1,14 @@
+2026-01-03 Sat: 
+Last week we focused on debugging the release and fixing tracer-related issues, which are among the final blockers before finalizing the new release.
+
+I created [PR 4988](https://github.com/harmony-one/harmony/pull/4988) to fix a critical tracer issue where the Tracer was being invoked during normal block processing. This could introduce non-deterministic behavior and potentially lead to chain forks, since tracer methods and debug print statements were executed in consensus-critical paths. The PR ensures vmConfig.Tracer is explicitly set to nil during normal block processing, disables the Debug flag in consensus execution, and removes tracer debug prints with side effects. Tracing functionality remains unchanged when explicitly requested via RPC (e.g. TraceTransaction), but is now fully isolated from consensus logic.
+
+I also fixed an issue in leader rotation v2 with [PR 4987](https://github.com/harmony-one/harmony/pull/4987). Although leader rotation v2 is not enabled yet, I found that its logic would never actually run even if activated. Due to an incorrect delegation in the thread-safe decider wrapper, calls intended for NthNextValidatorV2 were silently falling back_attach to the v1 implementation. This PR ensures the v2 logic is properly executed, allowing its improvements—such as correct index wrapping and prevention of infinite loops—to take effect when enabled. It also improves code clarity by fixing variable shadowing in the leader rotation code.
+
+In parallel, I continued working on Staking V2, which is still in the study and design phase. We had several discussions with the team, and this work is ongoing.
+
+---
+
 2025-12-27 Sat: Last week I worked on fixing race conditions, configuration issues, and continued code reviews and maintenance.
 
 I created [PR 4985](https://github.com/harmony-one/harmony/pull/4985) to fix a race condition that caused timing-dependent and flaky test behavior in CI/CD. The issue was resolved by marking the layer being flattened as stale using an atomic operation before returning the merged layer, ensuring any external references correctly detect staleness and return ErrSnapshotStale instead of behaving unpredictably.
