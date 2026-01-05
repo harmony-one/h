@@ -1,3 +1,7 @@
+2026-1-5 Mon (0.2h): Q4 summary and review. Revise volatility back filing code.
+
+---
+
 2026-1-2 Fri (1.1h): Review server security. Revise volatility calculation scripts.
 
 ---
