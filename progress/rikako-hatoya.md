@@ -14,7 +14,9 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
-2025-12-31 Wed: New Year's Eve
+2026-01-05 Mon:
+
+2025-12-31~2026-01-04: New Year's, no team sync
 
 2025-12-30 Tue: Team sync. Checking of configuration variables concerning delta and hyperliquid margin.
 
