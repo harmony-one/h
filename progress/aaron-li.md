@@ -1,4 +1,4 @@
-2026-1-6 Tue (2.8h): Volatility computation. Review hedge logs, agentic trading products. Operation matters on dot-country.
+2026-1-6 Tue (5.7h): Volatility computation. Review hedge logs, agentic trading products. Operation matters on dot-country.
 
 2026-1-5 Mon (0.3h): GCP permission revision. dot-country operation manual. Q4 summary and review. Revise volatility back filing code.
 
