@@ -14,6 +14,8 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2026-01-06 Tue: Running of backtest. Checking discrepancy in pnl calculation.
+
 2026-01-05 Mon: Team sync. Checking of btc delta calculation.
 
 2025-12-31~2026-01-04: New Year's, no team sync
