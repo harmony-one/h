@@ -1,4 +1,4 @@
-2026-1-7 Wed (0.4h): Volatility computation.
+2026-1-7 Wed (2.1h): Discussion on call spread, shorting options, AI toolchain and platforms, bots scaling. Volatility computation.
 
 2026-1-6 Tue (5.7h): Volatility computation. Review hedge logs, agentic trading products. Operation matters on dot-country.
 
