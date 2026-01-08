@@ -1,3 +1,5 @@
+2026-1-8 Thu (0.9h+): Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
+
 2026-1-7 Wed (2.1h): Discussion on call spread, shorting options, AI toolchain and platforms, bots scaling. Volatility computation.
 
 2026-1-6 Tue (5.7h): Volatility computation. Review hedge logs, agentic trading products. Operation matters on dot-country.
