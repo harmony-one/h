@@ -1,3 +1,14 @@
+
+2026-01-08 Thu: Hedge manager service was relaunched for 20 hours with x1 leverage and increased deposit $1000. Comparison showed that the strategy is fully replicated in terms of: number of opened positions, position direction, entry timing. The only differences observed were the hedge entry prices and the resulting total PnL.
+
+2026-01-07 Wed: Partial fixes applied and hedge manager relaunched for two 9-hour sessions to collect statistics: $90 PnL from Hyperliquid (x10 leverage), $37 theoretical PnL (x1 leverage), 6 LP positions, 78 hedge positions. Further debugging and analysis were performed to identify the root causes of the PnL discrepancies.
+
+2026-01-06 Tue: Continue work on hedge manager improvements: fixed a bug related to position closure when exiting the range, exntended logs, corrected model settings to stay within the deposit limits. Continue real time testing. 
+
+2026-01-05 Mon: Team sync and investigation of long-term issues in the service’s hedge manager. Identified problems include: the strategy calculating an excessively large delta, exceeding deposit limits, and discrepancies in BTC pricing originating from Hyperliquid swap executions.
+
+---
+
 2025 Q4 Review
 
 [Copy Trading Bot](https://github.com/harmony-one/portfolio-manager/tree/copy_trading_v1.0.2)
@@ -12,6 +23,8 @@ Q1/2026 plans:
 Adding hedging functionality to the copy-trading bot and integrating it with a hedging-analytics service to enable real-time long and short position generation. Expanding the collection of hedging-related statistical data to develop a more robust and profitable strategy.
 
 ---
+
+2025-12-31~2026-01-04: New Year's, no team sync
 
 2025-12-30 Tue: Synced with the team on the latest version of the hedge manager service. Log analysis: reviewed basic scenarios with price increases/decreases and corresponding delta position adjustments. Also analyzed the discrepancy between theoretical and realized PnL caused by theoretical delta values going out of the acceptable range for opening hedge positions via the Hyperliquid service.
 
