@@ -14,6 +14,8 @@ In Q1 2026, I plan to finalize and validate the hedging model’s analysis metri
 
 ---
 
+2026-01-07 Wed: Implemented and debugged fetching data from RPC instead of database for backtest script (to run backtest on dates outside of database range). Uploaded hedge logs [here](https://drive.google.com/drive/folders/1FedQo2Y0qWFTW8UVZ0y2Fkfk4hsPIW1w).
+
 2026-01-06 Tue: Running of backtest. Checking discrepancy in pnl calculation.
 
 2026-01-05 Mon: Team sync. Checking of btc delta calculation.
