@@ -1,3 +1,11 @@
+2026-01-07 Wed: Implemented and debugged fetching data from RPC instead of database for backtest script (to run backtest on dates outside of database range). Uploaded hedge logs [here](https://drive.google.com/drive/folders/1FedQo2Y0qWFTW8UVZ0y2Fkfk4hsPIW1w).
+
+2026-01-06 Tue: Running of backtest. Checking discrepancy in pnl calculation.
+
+2026-01-05 Mon: Team sync. Checking of btc delta calculation.
+
+---
+
 ### **2025 Q4 Review (50.5h)**
 
 Top Deliverable: [lp-returns script for copy-bot and top wallet candidates analysis](https://github.com/rikaa15/lp-returns)
@@ -13,12 +21,6 @@ I also contributed to the hedging model and virtual LP analysis. I wrote a scrip
 In Q1 2026, I plan to finalize and validate the hedging model’s analysis metrics by fixing IL tracking, correcting mint/burn amount calculations for virtual LP positions, and adding new metrics such as deltas and reduction percentages to improve evaluation accuracy. I will continue contributing to the hedging model by generating annotated datasets, debugging discrepancies, and refining model parameters. In parallel, I will keep identifying and analyzing top wallet candidates using the lp-returns tools, focusing on active-duration patterns, XIRR, IL behavior, and consistency to maintain a strong shortlist of target wallets. Finally, I aim to work toward a fully functional and profitable copy bot by running detailed comparisons between the target wallets and our bot, diagnosing performance variances, and iterating until the bot tracks target behavior reliably and generates positive returns.
 
 ---
-
-2026-01-07 Wed: Implemented and debugged fetching data from RPC instead of database for backtest script (to run backtest on dates outside of database range). Uploaded hedge logs [here](https://drive.google.com/drive/folders/1FedQo2Y0qWFTW8UVZ0y2Fkfk4hsPIW1w).
-
-2026-01-06 Tue: Running of backtest. Checking discrepancy in pnl calculation.
-
-2026-01-05 Mon: Team sync. Checking of btc delta calculation.
 
 2025-12-31~2026-01-04: New Year's, no team sync
 
