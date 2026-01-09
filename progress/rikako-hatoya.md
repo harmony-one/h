@@ -1,3 +1,5 @@
+2026-01-08 Thu: Fixed bug concerning passing liquidityAmount parameter correctly and also modified code to fetch transactions from RPC faster with batch fetching in `run_all_strategies.ts` script. Ran backtest with different values for parameters: `smoothingWindowSize` and `bufferPercent` ([here](https://docs.google.com/spreadsheets/d/1IC1tJD_t5diTAx6tr-WeGVdX5Ttjq_bzpxlCtjEbkec/edit?gid=252075667#gid=252075667)), as well as the [regular strategy](https://drive.google.com/drive/folders/1SYIJEXkZPqssa5Vdwp9o4hNueuDSxDVS) and comparing with our live bot data.
+
 2026-01-07 Wed: Implemented and debugged fetching data from RPC instead of database for backtest script (to run backtest on dates outside of database range). Uploaded hedge logs [here](https://drive.google.com/drive/folders/1FedQo2Y0qWFTW8UVZ0y2Fkfk4hsPIW1w).
 
 2026-01-06 Tue: Running of backtest. Checking discrepancy in pnl calculation.
