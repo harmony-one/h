@@ -1,3 +1,17 @@
+2026-01-09 Fri:
+
+Main focuses on this week were one more iteration on the [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate.
+
+As part of system engineering activities, I've created a dashboard for our VPN solution metrics and added it to the provision setup.
+
+As part of support activities, I've finally restored our PagerDuty account, added the dRPC provider to the providers list in the documentation and calculated our cloud costs.
+
+---
+
+2025-12-25 till 2026-01-04: Paid Time Of
+
+---
+
 2025-12-24 Wed:
 
 Main focus on this week was the help with the Pagerduty issues.
