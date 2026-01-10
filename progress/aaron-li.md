@@ -1,3 +1,5 @@
+2026-1-10 Sat (0.7h+): Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement.
+
 2026-1-9 Fri (2.6h): Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement. Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
 
 2026-1-8 Thu (3.6h): Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
