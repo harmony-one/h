@@ -1,4 +1,4 @@
-2026-1-9 Fri (1.4h): Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
+2026-1-9 Fri (2.3h+): Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
 
 2026-1-8 Thu (3.6h): Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
 
