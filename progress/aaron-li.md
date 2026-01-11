@@ -1,3 +1,5 @@
+2026-1-11 Sun (0.3h+): Relaunch option historical data collection agent.
+
 2026-1-10 Sat (5.2h): Plotting implied volatility heatmap and 3D surfaces for interpretation. Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement. Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement.
 
 2026-1-9 Fri (2.6h): Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement. Implied volatility crush auto identification. Call spread trading simulations, tests, and implementation.
