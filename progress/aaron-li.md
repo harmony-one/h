@@ -1,3 +1,7 @@
+2026-1-12 Mon (0.6h+): Make option pricing data collection faster and more informative.
+
+---
+
 2026-1-11 Sun (4.2h): End-to-end testing with LP Hedger. Call spread implementation on LP Hedger. Fix dot-country issues. Relaunch option historical data collection agent. Fix database issues.
 
 2026-1-10 Sat (5.2h): Plotting implied volatility heatmap and 3D surfaces for interpretation. Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement. Gap filing on sparse option price data - comapre price-hold vs implied-volatility-hold approaches and implement.
