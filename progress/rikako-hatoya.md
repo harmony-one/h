@@ -1,3 +1,7 @@
+2026-01-11 Sun: [Uploaded](https://docs.google.com/spreadsheets/d/1ZEzfUmj4rNfZK7NpMqk8oJP3fbd8ZB7mSKR6hkkEjhU/edit?gid=168596477#gid=168596477) backtest with corrected regular strategy, [pushed](https://github.com/harmony-one/portfolio-manager/tree/hedge_manager_v1.1) new commit to separate branch. Resume working on top wallets data. 
+
+2026-01-10 Sat: Started working on analysing latest data for top wallets. Currently only has database fetching which is out of date, implemented RPC fecthing and debugging.
+
 2026-01-09 Fri: Fixed bug and re-ran regular (no strategy) in hedging backtest, working on pushing update with fix, checking with Yuriy's version of backtest results. Look back into LP section to relfect on Stephen's questions on profitability of on-chain market maker.
 
 2026-01-08 Thu: Fixed bug concerning passing liquidityAmount parameter correctly and also modified code to fetch transactions from RPC faster with batch fetching in `run_all_strategies.ts` script. Ran backtest with different values for parameters: `smoothingWindowSize` and `bufferPercent` ([here](https://docs.google.com/spreadsheets/d/1IC1tJD_t5diTAx6tr-WeGVdX5Ttjq_bzpxlCtjEbkec/edit?gid=252075667#gid=252075667)), as well as the [regular strategy](https://drive.google.com/drive/folders/1SYIJEXkZPqssa5Vdwp9o4hNueuDSxDVS) and comparing with our live bot data.
