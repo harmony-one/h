@@ -1,4 +1,4 @@
-2026-1-12 Mon (0.6h+): Make option pricing data collection faster and more informative.
+2026-1-12 Mon (1.6h+): Make option pricing data collection faster and more informative.
 
 ---
 
