@@ -1,4 +1,10 @@
 
+2026-01-12 Mon: Published a service update enabling historical data extraction via RPC and its integration with analytical scripts. Conducted in-depth research with the assistance of AI, investigating the root causes of PnL discrepancies when analyzing data across different strategies and real data. Additionally, analyzed the reasons behind the low or near-zero PnL observed in the latest test with 1× leverage. Merged strategy fixes from Rika into the main service.
+
+---
+
+2026-01-09 Fri: Exported historical data for the duration of a real trading session and performed analysis using analytical scripts from both the legacy strategy and the real-time strategy. The results were compared against actual data from Hyperliquid, revealing a 20–30% discrepancy in PnL.
+
 2026-01-08 Thu: Hedge manager service was relaunched for 20 hours with x1 leverage and increased deposit $1000. Comparison showed that the strategy is fully replicated in terms of: number of opened positions, position direction, entry timing. The only differences observed were the hedge entry prices and the resulting total PnL.
 
 2026-01-07 Wed: Partial fixes applied and hedge manager relaunched for two 9-hour sessions to collect statistics: $90 PnL from Hyperliquid (x10 leverage), $37 theoretical PnL (x1 leverage), 6 LP positions, 78 hedge positions. Further debugging and analysis were performed to identify the root causes of the PnL discrepancies.
