@@ -2,7 +2,7 @@
 
 ---
 
-2026-01-11 Sun: [Uploaded](https://docs.google.com/spreadsheets/d/1ZEzfUmj4rNfZK7NpMqk8oJP3fbd8ZB7mSKR6hkkEjhU/edit?gid=168596477#gid=168596477) backtest with corrected regular strategy, [pushed](https://github.com/harmony-one/portfolio-manager/tree/hedge_manager_v1.1) new commit to separate branch. Resume working on top wallets data. 
+2026-01-11 Sun: [Uploaded](https://docs.google.com/spreadsheets/d/1ZEzfUmj4rNfZK7NpMqk8oJP3fbd8ZB7mSKR6hkkEjhU/edit?gid=168596477#gid=168596477) backtest with corrected regular strategy and implemented fetching swap data from RPC instead of database, [pushed](https://github.com/harmony-one/portfolio-manager/tree/hedge_manager_v1.1) new commit to separate branch. Resume working on top wallets data. 
 
 2026-01-10 Sat: Started working on analysing latest data for top wallets. Currently only has database fetching which is out of date, implemented RPC fecthing and debugging.
 
