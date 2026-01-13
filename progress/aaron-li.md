@@ -1,4 +1,4 @@
-2026-1-12 Mon (4.6h+): Fix backtesting on option trading and improve backtesting adapters for LP Hedger. Scale up option pricing data collection. Make option pricing data collection faster and more informative.
+2026-1-12 Mon (5.6h+): Fix backtesting on option trading and improve backtesting adapters for LP Hedger. Scale up option pricing data collection. Make option pricing data collection faster and more informative.
 
 ---
 
