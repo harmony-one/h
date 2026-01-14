@@ -1,4 +1,4 @@
-2026-1-14 Wed (1.2h+): Call spread implementation. Backtest test runs.
+2026-1-14 Wed (1.6h+): Call spread implementation. Backtest test runs.
 
 2026-1-13 Tue (5.6h): Fix backtesting on option trading and improve backtesting adapters for LP Hedger. Discussion on backtesting and options.
 
