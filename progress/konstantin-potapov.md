@@ -1,3 +1,7 @@
+2026-01-09 Fri: Investigated an issue related to invalid write usage in precompiles on the dev branch. The issue produces an invalid block, which implies a hard fork. This is one of the issues that must be resolved before the next release. 
+
+---
+
 2026-01-02 Fri: This week i fixed issue with gas calculation and issue with wrong chain id in evm execution. 
 
 ---
