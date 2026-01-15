@@ -1,4 +1,10 @@
 
+2026-01-15 Thu: Investigated the issue where the Hyperliquid position entry price differs between live trading (market execution) and historical backtesting. To make backtesting more realistic, introduced an execution delay (2-block delay). Historical backtests now assume the worst-case execution price. Updated backtesting scripts.
+
+2026-01-14 Wed: Sync with the team, researched Aaron's updates. Also investigated the case of hedging deposit loss during prolonged price consolidation within the range. It appears that profits are generated only when the price moves unidirectionally toward one edge of the tick range. In all other scenarios, losses occur due to repeated position openings and closings. Exploring ways to improve the strategy to mitigate this problem.
+
+2026-01-13 Tue: Conducted an additional testing session with the LP amount parameter increased to 2,000. Calculated the exact delta corresponding to the hedged position. Exiting the range requires hedging approximately half of the LP deposit, while the PnL from this position is about 0.2%.
+
 2026-01-12 Mon: Published a service update enabling historical data extraction via RPC and its integration with analytical scripts. Conducted in-depth research with the assistance of AI, investigating the root causes of PnL discrepancies when analyzing data across different strategies and real data. Additionally, analyzed the reasons behind the low or near-zero PnL observed in the latest test with 1× leverage. Merged strategy fixes from Rika into the main service.
 
 ---
