@@ -1,4 +1,4 @@
-2026-1-15 Thu (0.4h+): Call spread implementation. Backtest test runs.
+2026-1-15 Thu (0.5h): Call spread implementation. Backtest test runs.
 
 2026-1-14 Wed (3.3h): Call spread implementation. Backtest test runs.
 
