@@ -1,3 +1,5 @@
+2026-01-14 Wed: Started working on LP copy trading backtest. Look into Aaron's existing lp-backtest repo and GCP.
+
 2026-01-13 Tue: In-person team sync with Li and Aaron. 
 
 2026-01-12 Mon: Look back into metrics on top performers from Q4. Look into update on hedge-manager v1.
