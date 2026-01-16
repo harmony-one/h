@@ -1,3 +1,11 @@
+2026-01-16 Fri:
+
+Main focuses on this week was on the system engineering activities, I've updated SSL certs on full and archival db RPCs, nginx to the latest mainline version - [1.28.1](https://nginx.org/en/CHANGES-1.28), nginx's vts module to the [latest version](https://github.com/vozlt/nginx-module-vts/commits/master/), erigon to the [v3.3.3](https://github.com/erigontech/erigon/releases/tag/v3.3.3) release.
+
+As part of support activities, I was helping with maintenance tasks with .country domains and upgrading devnet/testnet to the latest harmony dev branch version.
+
+---
+
 2026-01-09 Fri:
 
 Main focuses on this week were one more iteration on the [Release 2025.1.2](https://github.com/harmony-one/harmony/pull/4960) candidate.
