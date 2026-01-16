@@ -1,3 +1,5 @@
+2026-01-15 Thu: Continue working on LP copy trading backtest.
+
 2026-01-14 Wed: Started working on LP copy trading backtest. Look into Aaron's existing lp-backtest repo and GCP.
 
 2026-01-13 Tue: In-person team sync with Li and Aaron. 
