@@ -1,3 +1,11 @@
+2026-01-17 Sat: In Q1 2026 we focused on catching up Harmony VM with the latest EVM changes so Harmony smart contracts can fully support newer Solidity versions. Since the beginning of the quarter, we have added several EIPs, introduced new opcodes, and made major VM-level improvements.
+
+This week, I created **PR 4994** ([https://github.com/harmony-one/harmony/pull/4994](https://github.com/harmony-one/harmony/pull/4994)) implementing **EIP-6780**, which changes `SELFDESTRUCT` semantics so that contract deletion is only allowed within the same transaction, aligning Harmony with Ethereum’s latest behavior. I also created **PR 4995** ([https://github.com/harmony-one/harmony/pull/4995](https://github.com/harmony-one/harmony/pull/4995)) to standardize `ChainConfig` field ordering across all networks to match Mainnet, improving consistency and long-term maintainability.
+
+Additionally, after a Testnet issue was reported by a validator, I fixed a bug in `debug_traceTransaction` with **PR 4996** ([https://github.com/harmony-one/harmony/pull/4996](https://github.com/harmony-one/harmony/pull/4996)). The issue was caused by unsafe access to the call stack in the call tracer, leading to errors like “incorrect number of top-level calls.” The fix adds proper safety checks consistent with Ethereum’s implementation, preventing invalid access and handling edge cases gracefully.
+
+---
+
 2026-01-10 Sat: Last week was very productive and focused mainly on EVM alignment with recent Ethereum upgrades. These new changes significantly improve EVM compatibility as part of the ongoing VM upgrade work.
 
 I created **PR 4990** ([https://github.com/harmony-one/harmony/pull/4990](https://github.com/harmony-one/harmony/pull/4990)), which moves the `TLOAD` and `TSTORE` opcodes to their official Ethereum EIP-1153 positions (`0x5c` and `0x5d`) instead of the previous Harmony-specific opcodes. This brings Harmony VM fully in line with Ethereum’s transient storage specification and updates the opcode mappings accordingly.
@@ -1097,6 +1105,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
