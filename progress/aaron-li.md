@@ -1,4 +1,4 @@
-2026-1-16 Fri (2.7h): Ability to virtualize LP Position in backtests. Call spread implementation. Backtest test runs.
+2026-1-16 Fri (3.3h): Ability to virtualize LP Position in backtests. Call spread implementation. Backtest test runs.
 
 2026-1-15 Thu (2.8h): Call spread implementation. Backtest test runs. Discussion on agentic systems.
 
