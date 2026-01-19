@@ -1,4 +1,10 @@
-2026-01-16 Fri: Working on updating latest data with database. Look into GCP.
+2026-01-19 Mon: MLK Holiday
+
+2026-01-18 Sun: Continue with top performer list. Running of timeline tool on list of all active wallets for batch comparison to get top performers.
+
+2026-01-17 Sat: Started working on collecting list of top performers from recent weeks. Running script to collect data on all active wallets during 2025/12~2026/01.
+
+2026-01-16 Fri: Looking into how to update latest data with database. Look into GCP.
 
 2026-01-15 Thu: Continue working on LP copy trading backtest.
 
