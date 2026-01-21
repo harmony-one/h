@@ -1,3 +1,5 @@
+2026-01-20 Tue: Implemented LP copy backtest with 1-block delay in /lp-backtest, created test output for copying 1 wallet and used copy-bot comparison script in /lp-returns to analyze difference between copy and target. Debugging slight issues with decimals and output structure.
+
 2026-01-19 Mon: MLK Holiday
 
 2026-01-18 Sun: Continue with top performer list. Running of timeline tool on list of all active wallets for batch comparison to get top performers.
