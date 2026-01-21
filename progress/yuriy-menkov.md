@@ -1,4 +1,14 @@
 
+2026-01-21 Wed: Explored the possibility of using platforms with test wallets (Hyperliquid testnet, Bybit) to perform hedging service while testing multiple strategies in parallel without risking capital. The hedging service was optimized to support running multiple strategy instances in parallel using a shared dataset.
+
+2026-01-20 Tue: Monthly backtesting of the updated hedging strategy was conducted for the period from July to August. The results showed a negative average monthly PnL of approximately -4%. Further AI-assisted analysis recommended increasing the tick range and buffer width, as the losses were primarily driven by an excessive number of small trigger events that were frequently closed at a loss. Working on encapsulating the strategy logic so that AI agents can change and restart it automatically and check backtesting results.
+
+2026-01-19 Mon: MLK Holiday
+
+---
+
+2026-01-16 Fri: Improved hedge strategy to better emulate real-market conditions. The main adjustments included price latency simulation (price divergence relative to Hyperliquid) and funding costs — modeled as an hourly fee for maintaining an open hedge position. Testing and comparison against results from real trading sessions.
+
 2026-01-15 Thu: Investigated the issue where the Hyperliquid position entry price differs between live trading (market execution) and historical backtesting. To make backtesting more realistic, introduced an execution delay (2-block delay). Historical backtests now assume the worst-case execution price. Updated backtesting scripts.
 
 2026-01-14 Wed: Sync with the team, researched Aaron's updates. Also investigated the case of hedging deposit loss during prolonged price consolidation within the range. It appears that profits are generated only when the price moves unidirectionally toward one edge of the tick range. In all other scenarios, losses occur due to repeated position openings and closings. Exploring ways to improve the strategy to mitigate this problem.
