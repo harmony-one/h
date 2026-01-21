@@ -1,3 +1,7 @@
+2026-1-21 Wed (0.7h+): Debug and measure backtest performance. Sync latest data on server. Setting up scripts for data auto-sync.
+
+---
+
 2026-1-16 Fri (3.3h): Ability to virtualize LP Position in backtests. Call spread implementation. Backtest test runs.
 
 2026-1-15 Thu (2.8h): Call spread implementation. Backtest test runs. Discussion on agentic systems.
