@@ -1,4 +1,6 @@
-2026-01-20 Tue: Implemented LP copy backtest with 1-block delay in /lp-backtest, created test output for copying 1 wallet and used copy-bot comparison script in /lp-returns to analyze difference between copy and target. Debugging slight issues with decimals and output structure.
+2026-01-21 Wed: [Wrote](https://docs.google.com/document/d/1DzoU6UhAsDSQvYXQtIOIA7HaKxstLZkcSxepyOFw55s/edit?tab=t.0) current LP copy backtest pipeline, manual checking through copy transactions and AERO rewards simulation method for improvement, and reviewing my [lp-returns repo](https://github.com/rikaa15/lp-returns) for incorrect total profit calculation. Copied and modified [Artem's script](https://github.com/harmony-one/portfolio-manager/blob/main/src/scripts/stats/lp_staked.ts) for top performers to remove filtering for only staked positions and look at all positions, past 24-hours still showed 0 new positions, currently running for past 1 week.
+
+2026-01-20 Tue: Implemented LP copy backtest with 1-block delay in /lp-backtest, [created](https://docs.google.com/spreadsheets/d/1GguHBi41fVF-4o0M2XoJaRb0l-4o-JmNsqBiEmV70Jg/edit?gid=859213915#gid=859213915) test output for copying 1 wallet and used copy-bot comparison script in /lp-returns to analyze difference between copy and target. Debugging slight issues with decimals and output structure.
 
 2026-01-19 Mon: MLK Holiday
 
