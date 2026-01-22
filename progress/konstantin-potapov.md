@@ -1,3 +1,7 @@
+2026-01-16 Fri: This week I was investigating an issue related to shard transfers. The issue causes a fork on the dev branch and is caused by an incorrect sender address, resulting in an invalid receipt hash being computed. This is a Harmony-specific mechanism, and I am investigating the root cause of the sender address overwrite. The analysis requires processing a large volume of data, which makes the investigation time-consuming.
+
+---
+
 2026-01-09 Fri: Investigated an issue related to invalid write usage in precompiles on the dev branch. The issue produces an invalid block, which implies a hard fork. This is one of the issues that must be resolved before the next release. 
 
 ---
