@@ -1,3 +1,15 @@
+2026-01-23 Fri:
+
+Main focuses on this week was on the system engineering activities. I've added the Prometheus [domain_exporter](https://github.com/caarlos0/domain_exporter) in our monitoring stack to track the domain registration expiration, created dashboard and set alarms - now we have one more part of infrastructure covered.
+
+As part of support activities, I've helped with Konstantin debug of different hashes on a cross-shard transaction in old release and new release candidate, I've created a DB snapshot right before the cross-shard transaction. This had speeded up issue reproduction from 1.5 hours to matter of minutes.
+
+Additionally, I've updated erigon to the [v3.3.4](https://github.com/erigontech/erigon/releases/tag/v3.3.4) release.
+
+And finally, I've moved one testnet Digital Ocean validator running out of space to one of reserved Contabo nodes.
+
+---
+
 2026-01-16 Fri:
 
 Main focuses on this week was on the system engineering activities, I've updated SSL certs on full and archival db RPCs, nginx to the latest mainline version - [1.28.1](https://nginx.org/en/CHANGES-1.28), nginx's vts module to the [latest version](https://github.com/vozlt/nginx-module-vts/commits/master/), erigon to the [v3.3.3](https://github.com/erigontech/erigon/releases/tag/v3.3.3) release.
