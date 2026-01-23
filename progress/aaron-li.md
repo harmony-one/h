@@ -1,3 +1,5 @@
+2026-1-22 Thu (0.9h+): Review profitable wallet calculation. Sync recent data.
+
 2026-1-21 Wed (2.4h): Discussion on backtesting and new results. Debug and measure backtest performance. Sync latest data on server. Setting up scripts for data auto-sync. Documents TODOs and README for daily data auto-sync.
 
 ---
