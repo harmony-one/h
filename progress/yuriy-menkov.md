@@ -1,4 +1,8 @@
 
+2026-01-23 Fri: Exploration of using lp_hedger together with the backtest server to emulate strategies. Review of existing adapters and porting them into the hedge manager service project to validate a baseline strategy on the LP backtest server. Initiated historical data export for the backtest server covering the last month.
+
+2026-01-22 Thu: Researched lp_backtest and lp_hedger repositories received from Aaron. Configuration and setup of the LP backtest server for local execution. Launch of lp_hedger against real chains, including account and wallet configuration.
+
 2026-01-21 Wed: Explored the possibility of using platforms with test wallets (Hyperliquid testnet, Bybit) to perform hedging service while testing multiple strategies in parallel without risking capital. The hedging service was optimized to support running multiple strategy instances in parallel using a shared dataset.
 
 2026-01-20 Tue: Monthly backtesting of the updated hedging strategy was conducted for the period from July to August. The results showed a negative average monthly PnL of approximately -4%. Further AI-assisted analysis recommended increasing the tick range and buffer width, as the losses were primarily driven by an excessive number of small trigger events that were frequently closed at a loss. Working on encapsulating the strategy logic so that AI agents can change and restart it automatically and check backtesting results.
