@@ -1,3 +1,9 @@
+2026-01-24 Sat: Last week I spent time trying to fix the tracer issues. The team helped review and test the new commits, but after a few iterations it became clear that the problem runs deeper than initially expected and needs more thorough investigation. For now, this remains open and under deeper analysis.
+
+In parallel, I implemented **EIP-7939** with [PR 4997](https://github.com/harmony-one/harmony/pull/4997). This PR adds the new **CLZ (Count Leading Zeros)** opcode to the Harmony VM, bringing us closer to the latest EVM feature set. The opcode efficiently counts the number of leading zero bits in a value, which is useful for low-level arithmetic, bit manipulation, and optimized smart contract logic. This is another step forward in aligning Harmony’s VM with modern Ethereum standards and improving smart contract capabilities.
+
+---
+
 2026-01-17 Sat: In Q1 2026 we focused on catching up Harmony VM with the latest EVM changes so Harmony smart contracts can fully support newer Solidity versions. Since the beginning of the quarter, we have added several EIPs, introduced new opcodes, and made major VM-level improvements.
 
 This week, I created [PR 4994](https://github.com/harmony-one/harmony/pull/4994) implementing [EIP-6780](https://eips.ethereum.org/EIPS/eip-6780), which changes `SELFDESTRUCT` semantics so that contract deletion is only allowed within the same transaction, aligning Harmony with Ethereum’s latest behavior. I also created [PR 4995](https://github.com/harmony-one/harmony/pull/4995) to standardize `ChainConfig` field ordering across all networks to match Mainnet, improving consistency and long-term maintainability.
