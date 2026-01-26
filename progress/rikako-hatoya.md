@@ -1,3 +1,7 @@
+2026-01-25 Sun: Continue with ERO rewards and stats calculation.
+
+2026-01-24 Sat: Continue with LP copy bot. Looking into AERO rewards estimation.
+
 2026-01-23 Fri: Revision of stats calculation in lp-returns (APR, etc extracted from timeline-tool output). Modification of LP copy bot script based on Aaron's feedback.
 
 2026-01-22 Thu: Improved top performers script runtime by adding pre-filtering with median active duration time. Ran script for 1 week for wallets with median time [5-200 blocks], found 148 active wallets and 15 in [5-200 block] range, compared performance (output [here](https://docs.google.com/spreadsheets/d/1HpWqYS_HO3SAXyJ9R4Lv_i9KP8GwYCTFiG9-qMDahVI/edit?gid=630117945#gid=630117945)).
