@@ -1,4 +1,8 @@
-2026-01-25 Sun: Continue with ERO rewards and stats calculation.
+2026-01-26 Mon: 
+
+---
+
+2026-01-25 Sun: Continue with AERO rewards and stats calculation.
 
 2026-01-24 Sat: Continue with LP copy bot. Looking into AERO rewards estimation.
 
