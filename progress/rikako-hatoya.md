@@ -1,4 +1,4 @@
-2026-01-26 Mon: 
+2026-01-26 Mon: Verified lp-returns stats calculation are correct, implemented changes (bot copies action based on USD amount not token amount, use aerodrome_virtual_fees_exact instead of compute_virtual_fees_fast, checked stake duration and adjusted AERO rewards based on staked duration). Test re-run of LP copy-bot backtest for 3 hours (40822927~40828327).
 
 ---
 
