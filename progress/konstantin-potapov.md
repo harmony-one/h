@@ -1,3 +1,7 @@
+2026-01-23 Fri: This week I fixed an issue with cross-shard transaction receipt generation. The problem was caused by partially updated code in the release. After the fix, I successfully processed more than three weeks of blocks on mainnet, but later the node got stuck at block 83393122. I collected execution traces for block 83393122 from both the main and dev branches and am currently investigating the discrepancy.   
+
+---
+
 2026-01-16 Fri: This week I was investigating an issue related to shard transfers. The issue causes a fork on the dev branch and is caused by an incorrect sender address, resulting in an invalid receipt hash being computed. This is a Harmony-specific mechanism, and I am investigating the root cause of the sender address overwrite. The analysis requires processing a large volume of data, which makes the investigation time-consuming.
 
 ---
