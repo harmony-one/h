@@ -1,4 +1,10 @@
 
+2026-01-27 Tue: Switched the local LP backtest server build to a new RPC endpoint provided by Aaron, along with an updated configuration set. Snapshot synchronization of LP positions is still excessively slow, which prevents obtaining a complete dataset for local strategy testing. Currently discussing with Aaron the possibility of running a shared lp backtest instance on a virtual server.
+
+2026-01-26 Mon: LP backtest server improvements for local execution: replaced Etherscan API calls with Alchemy Base RPC and tuned parameters to resolve synchronization issues. Tested running LP backtest against a remote database with preloaded data. For this, session logging logic was modified to avoid any database writes and comply with a read-only access policy. There is still insufficient data to compare the results of real hedging with backtesting.
+
+---
+
 2026-01-23 Fri: Exploration of using lp_hedger together with the backtest server to emulate strategies. Review of existing adapters and porting them into the hedge manager service project to validate a baseline strategy on the LP backtest server. Initiated historical data export for the backtest server covering the last month.
 
 2026-01-22 Thu: Researched lp_backtest and lp_hedger repositories received from Aaron. Configuration and setup of the LP backtest server for local execution. Launch of lp_hedger against real chains, including account and wallet configuration.
