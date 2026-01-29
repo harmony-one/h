@@ -1,6 +1,24 @@
+2026-01-29 Thu:
+
+Main focus on this week was on the system engineering activities.
+
+Currently no explicit monitoring of the log ingestion pipeline. Promtail and Loki are deployed, but neither Promtail metrics nor Loki ingestion metrics are collected. As a result, there is no visibility into whether logs are being shipped, accepted, dropped, or silently failing at any point in the pipeline. Thus I've started to collect metrics from both of them and will add alert rules and simple dashboards for visualization.
+
+As part of support activities, I've helped with Konstantin debug of different hashes on old release and new release candidate , I've again created a DB snapshot right before the problematic smart-contract call transaction to speed up the feedback loop.
+
+And finally, as part of updates activities, updated base node to the latest [0.14.4 mandatory release](https://github.com/base/node/releases/tag/v0.14.4), adjusted rpc.max-logs-per-response for it. Also updated Grafana to [the latest release 12.3.2](https://github.com/grafana/grafana/releases/tag/v12.3.2) due to security fixes, and bumped teleport version to the latest as well.
+
+And the last one on ops side, Explorer team had fixed the average block time logic after my report and now both [shards reflect only the recent block](https://explorer.harmony.one/stats) `~2 seconds`.
+
+---
+
+2026-01-29 Thu: 3 hours PTO due to died laptop
+
+---
+
 2026-01-23 Fri:
 
-Main focuses on this week was on the system engineering activities. I've added the Prometheus [domain_exporter](https://github.com/caarlos0/domain_exporter) in our monitoring stack to track the domain registration expiration, created dashboard and set alarms - now we have one more part of infrastructure covered.
+Main focus on this week was on the system engineering activities. I've added the Prometheus [domain_exporter metrics](https://github.com/caarlos0/domain_exporter) in our monitoring stack to track the domain registration expiration, created dashboard and set alarms - now we have one more part of infrastructure covered.
 
 As part of support activities, I've helped with Konstantin debug of different hashes on a cross-shard transaction in old release and new release candidate, I've created a DB snapshot right before the cross-shard transaction. This had speeded up issue reproduction from 1.5 hours to matter of minutes.
 
