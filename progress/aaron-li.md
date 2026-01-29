@@ -1,3 +1,5 @@
+2026-1-29 Thu (0.2h): Automate data fetching. Improve speed for backtest.
+
 2026-1-28 Wed (5.6h): Automate data fetching. Improve speed for backtest.
 
 2026-1-27 Tue (1.3h): Discussion on backtest speed, scaling and results. Automate data fetching. Improve speed for backtest.
