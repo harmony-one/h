@@ -1,3 +1,5 @@
+2026-01-28 Wed: Investigated reason for smaller IL observed in LP copybot backtest. Running of copy bot backtest and comparison for 1 week worth of data.
+
 2026-01-27 Tue: On-site team sync with Li and Aaron. Went over LP copy backtest latest test [results](https://docs.google.com/spreadsheets/d/1Tmi803GmLeF9ngbbBU-RIyH8_B7eT9VgMX5tE99eHQg/edit?gid=860624854#gid=860624854), next steps to implement better logging (and same format as Aaron's backtest) to analyze cause for higher rewards achieved by copy bot.
 
 2026-01-26 Mon: Verified lp-returns stats calculation are correct, implemented changes (bot copies action based on USD amount not token amount, use aerodrome_virtual_fees_exact instead of compute_virtual_fees_fast, checked stake duration and adjusted AERO rewards based on staked duration). Test re-run of LP copy-bot backtest for 3 hours (40822927~40828327).
