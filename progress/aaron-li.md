@@ -1,6 +1,6 @@
 2026-1-30 Fri (0.5h): Setting up centralized backtesting server. Wrapping up data collection.
 
-2026-1-29 Thu (3.0h): Discussion on agentic systems, backtest, live strategies. Automate data fetching. Improve speed for backtest.
+2026-1-29 Thu (4.2h): Discussion on agentic systems, backtest, live strategies. Research on multi agent systems in practice and open ended designs. Automate data fetching. Improve speed for backtest.
 
 2026-1-28 Wed (5.6h): Automate data fetching. Improve speed for backtest.
 
