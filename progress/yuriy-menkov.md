@@ -1,4 +1,8 @@
 
+2026-01-29 Thu: Completed the setup and integration of the hedge manager service with the Hyperliquid testnet, running multiple strategies in testing mode. Deployed the strategy on the staging environment. Reviewed backtesting results provided by Rika.
+
+2026-01-28 Wed: Evaluated data synchronization approaches (QuickNode streams, RPC, Alchemy) to improve local sync performance; Alchemy performed best for historical event ingestion via getLogs. Waiting for LP backtest updates from Aaron. Continued testing the hedging strategy on the Hyperliquid testnet.
+
 2026-01-27 Tue: Switched the local LP backtest server build to a new RPC endpoint provided by Aaron, along with an updated configuration set. Snapshot synchronization of LP positions is still excessively slow, which prevents obtaining a complete dataset for local strategy testing. Currently discussing with Aaron the possibility of running a shared lp backtest instance on a virtual server.
 
 2026-01-26 Mon: LP backtest server improvements for local execution: replaced Etherscan API calls with Alchemy Base RPC and tuned parameters to resolve synchronization issues. Tested running LP backtest against a remote database with preloaded data. For this, session logging logic was modified to avoid any database writes and comply with a read-only access policy. There is still insufficient data to compare the results of real hedging with backtesting.
