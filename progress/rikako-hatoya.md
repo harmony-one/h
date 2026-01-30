@@ -1,4 +1,4 @@
-2026-01-29 Thu: Look into improving runtime of backtest. Ran backtest for new wallet, looking into discrepancies in IL between sifferent pairs of copy and target wallet.
+2026-01-29 Thu: Look into improving runtime of backtest. Ran backtest for new wallet, looking into difference in IL between different pairs of copy and target wallet.
 
 2026-01-28 Wed: Investigated reason for smaller IL observed in LP copybot backtest (it was caused by improper burn amount calculation), currently trying to accurately calculate the burn amounts while mint amounts are based on USD value calculation. Ran copy bot backtest and comparison for 1 week worth of data (results [here](https://docs.google.com/spreadsheets/d/1k4-5Sip7OU8RKPErRctATSZ3Yqro-wbHsZWh4HeIwnM/edit?gid=1381859188#gid=1381859188)).
 
