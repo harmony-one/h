@@ -1,3 +1,5 @@
+2026-2-1 Sun (0.3h+): Deploy latest data to production. Test centralized backtest server.
+
 2026-1-30 Fri (0.5h): Setting up centralized backtesting server. Wrapping up data collection.
 
 2026-1-29 Thu (4.2h): Discussion on agentic systems, backtest, live strategies. Research on multi agent systems in practice and open ended designs. Automate data fetching. Improve speed for backtest.
