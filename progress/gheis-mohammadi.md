@@ -1,3 +1,9 @@
+2026-01-31 Sat: Last week I worked on implementing a new EIP and created [PR 4998](https://github.com/harmony-one/harmony/pull/4998). This PR implements **EIP-8024**, adding backward-compatible support for new EVM instructions such as **SWAPN**, **DUPN**, **EXCHANGEN**, and related opcodes, extending the VM to better align with recent Ethereum changes.
+
+After the initial implementation, I added follow-up fixes to address **program counter (PC) increment issues** and **missing immediate byte handling**, ensuring correct opcode decoding and execution semantics. These fixes make the implementation stable and compliant with expected EVM behavior.
+
+---
+
 2026-01-24 Sat: Last week I spent time trying to fix the tracer issues. The team helped review and test the new commits, but after a few iterations it became clear that the problem runs deeper than initially expected and needs more thorough investigation. For now, this remains open and under deeper analysis.
 
 In parallel, I implemented **EIP-7939** with [PR 4997](https://github.com/harmony-one/harmony/pull/4997). This PR adds the new **CLZ (Count Leading Zeros)** opcode to the Harmony VM, bringing us closer to the latest EVM feature set. The opcode efficiently counts the number of leading zero bits in a value, which is useful for low-level arithmetic, bit manipulation, and optimized smart contract logic. This is another step forward in aligning Harmony’s VM with modern Ethereum standards and improving smart contract capabilities.
