@@ -1,3 +1,7 @@
+2026-02-01 Sun: Continue debugging copy backtest. Read into Moltworker.
+
+2026-01-31 Sat: Continued working on updating backtest. Debugging (script stops run half-way + checking calculation).
+
 2026-01-30 Fri: Modify script to emulate Yuriy's copy bot [implementation](https://github.com/harmony-one/portfolio-manager/tree/copy_trading_v1.0.2) (so far just emulates target wallet but instead, change to emulate copy bot, which can use different starting capital). Testing with short block ranges and debugging.
 
 2026-01-29 Thu: Look into improving runtime of backtest. Ran backtest for new wallet, looking into difference in IL between different pairs of copy and target wallet.
