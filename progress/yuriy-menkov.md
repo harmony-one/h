@@ -1,3 +1,8 @@
+2026-02-02 Mon: Reconfigured and relaunched the copy-trading bot services with new parameters to mirror Rika's address based on backtesting results. Researched documentation and repositories for the OpenClaw AI agent and x402, and explored potential integration options for trading using the ONE/USDC pool on Aerodrome (Base mainnet). Compiled a list of questions covering both implementation details and overall system architecture.
+
+---
+
+2026-01-30 Fri: Continue testing hedge manager service on Hyperliquid testnet with multiple instances. Configured deploy on fly.io, working on api to load real time statistic. Received updated backtesting setup instructions from Aaron and am currently reviewing them.
 
 2026-01-29 Thu: Completed the setup and integration of the hedge manager service with the Hyperliquid testnet, running multiple strategies in testing mode. Deployed the strategy on the staging environment. Reviewed backtesting results provided by Rika.
 
