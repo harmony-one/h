@@ -1,3 +1,7 @@
+2026-01-30 Fri: This week I finally fixed all issues related to the new release. A node running this branch can successfully participate in consensus and has imported more than 100k blocks. I have already created a PR with these changes and am currently working on additional tests to cover Harmony-specific behavior. 
+
+---
+
 2026-01-23 Fri: This week I fixed an issue with cross-shard transaction receipt generation. The problem was caused by partially updated code in the release. After the fix, I successfully processed more than three weeks of blocks on mainnet, but later the node got stuck at block 83393122. I collected execution traces for block 83393122 from both the main and dev branches and am currently investigating the discrepancy.   
 
 ---
