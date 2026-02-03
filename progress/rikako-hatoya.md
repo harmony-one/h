@@ -1,3 +1,7 @@
+2026-02-02 Mon: Modified the backtesting script to fix major issues: 1. AERO rewards calculation was modified from scaling target wallet's liquidity to using pool-share based calculation, 2. AERO rewards was too high due to fallback, fixed to query `stakedLiquidity` directly via RPC, 3. AERO token price was hardcoded, implemented Coindesk API (which wasn't an issue as `lp-returns` script re-calculated AERO price), 4. refactored simulation logic by replacing fake delay parameters (cooldown, debounce) with accurate parameter (`--tx-exec-block`) that models transaction execution time. Ran timeline-tool for Yuriy's real-bot and also ran timeline-tool/backtesting script for our copy-bot over 20 iterations sweeping through `--tx-exec-block=2~25 blocks` to see if we can get as close to real-bot, but kept outperforming due to it being more efficient.
+
+---
+
 2026-02-01 Sun: Continue debugging copy backtest. Read into Moltworker.
 
 2026-01-31 Sat: Continued working on updating backtest. Debugging (script stops run half-way + checking calculation).
