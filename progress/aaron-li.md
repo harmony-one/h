@@ -1,4 +1,6 @@
-2026-2-3 Tue (5.0h): Deploy latest data to production. Test centralized backtest server. Discussion on copy-bot and backtesting performance, systems.
+2026-2-4 Wed (0.9h+): Deploy and test centralized backtest server.
+
+2026-2-3 Tue (5.0h): Fix various issues with database date range copying scripts, local-to-local, remote-to-local and reorganized scripts and README. Deploy latest data to production. Test centralized backtest server. Discussion on copy-bot and backtesting performance, systems.
 
 2026-2-2 Mon (3.5h): Deploy latest data to production. Test centralized backtest server.
 
