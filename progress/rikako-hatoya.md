@@ -1,4 +1,4 @@
-2026-02-04 Wed: Reviewed Yuriy's real-bot implementation and my backtest to check discrepancy, discovered script didn't include swaps for balanced token ratio so debugged/implemented, and re-ran test for newest deployed real-bot (analysis [here](https://docs.google.com/spreadsheets/d/1fSAev3ASSIDEhElTuxwlCzoyFJvoGY1Aj7lLzve3tyE/edit?gid=309083486#gid=309083486)).  Updated returns analysis script: previously analyzed copy-bot vs. target-wallet, now compares all 3 copy-bot, target-wallet, and backtest.
+2026-02-04 Wed: Reviewed Yuriy's real-bot implementation and my backtest step-by-step to check discrepancy, discovered script didn't include swaps for balanced token ratio so debugged/implemented, and re-ran test for newest deployed real-bot (analysis [here](https://docs.google.com/spreadsheets/d/1fSAev3ASSIDEhElTuxwlCzoyFJvoGY1Aj7lLzve3tyE/edit?gid=309083486#gid=309083486)).  Updated returns analysis script: previously analyzed copy-bot vs. target-wallet, now compares all 3 copy-bot, target-wallet, and backtest.
 
 2026-02-03 Tue: In-person team sync. Start working on implementing logs to match Aaron's.
 
