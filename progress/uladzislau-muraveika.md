@@ -1,3 +1,17 @@
+2026-02-06 Fri:
+
+Main focus on this week was on the new release candidate, Konstantin have fixed all the issues we faced running release candidate node in the mainnet, so I've used this version with fix in devnet, testnet and on 2 internal validators in the mainnet. **Both nodes have already participated in consensus both ways - block producing and validation.**
+
+And finally, as part of updates activities, I've updated [erigon](https://github.com/erigontech/erigon/releases/tag/v3.3.7)(v3.3.7) and lighthouse([v8.1.0](https://github.com/sigp/lighthouse/releases/tag/v8.1.0)), teleport proxy, loki, promtetheus alert manager to the latest versions.
+
+And finally, analyzed fresh [CVE-2026-1642](https://www.cve.org/CVERecord?id=CVE-2026-1642) in the Nginx and decided that it will be okay to postpone [1.28.2 release](https://github.com/nginx/nginx/releases/tag/release-1.28.2) upgrade with its fix to the next week.
+
+---
+
+2026-01-3O Fri: 1 day PTO
+
+---
+
 2026-01-29 Thu:
 
 Main focus on this week was on the system engineering activities.
