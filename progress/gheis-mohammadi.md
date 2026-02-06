@@ -1,3 +1,13 @@
+2026-02-07 Sat: Last week I focused on improving **staged stream sync correctness, stability, and observability**, with a strong emphasis on fixing subtle concurrency and logic issues that could silently impact syncing behavior.
+
+I completed [PR 5000](https://github.com/harmony-one/harmony/pull/5000), which fixes two critical bugs in staged stream sync and removes dead code. The first fix corrects broken peer selection in the body download stage, where excluded streams were still being queried due to incorrect loop control. This could result in blacklisted or unsuitable peers being reused. The second fix addresses a classic goroutine closure issue where all workers could end up querying the same stream ID, breaking parallelism and fairness in peer usage. Each goroutine now correctly operates on its intended stream. I also removed an unused error channel in the sync height estimation logic to reduce confusion and unnecessary overhead.
+
+I also merged [PR 5001](https://github.com/harmony-one/harmony/pull/5001), which improves logging accuracy and robustness in staged sync. Log prefixes are now derived from the actual forward stages being executed rather than the full stage list, which could differ depending on sync mode. This fixes misleading logs where incorrect stage names or counts were shown. The PR also prevents a potential panic by safely handling the final “Done” state when all stages have completed.
+
+In parallel, I am actively working on [PR 5002](https://github.com/harmony-one/harmony/pull/5002), which further enhances staged stream sync. This work includes fixing a deadlock scenario, cleaning up legacy and redundant code paths, and improving overall sync flow reliability. The goal is to make staged stream sync more resilient, easier to reason about, and safer under high concurrency. This PR is still in progress and under active iteration.
+
+---
+
 2026-01-31 Sat: Last week I worked on implementing a new EIP and created [PR 4998](https://github.com/harmony-one/harmony/pull/4998). This PR implements **EIP-8024**, adding backward-compatible support for new EVM instructions such as **SWAPN**, **DUPN**, **EXCHANGEN**, and related opcodes, extending the VM to better align with recent Ethereum changes.
 
 After the initial implementation, I added follow-up fixes to address **program counter (PC) increment issues** and **missing immediate byte handling**, ensuring correct opcode decoding and execution semantics. These fixes make the implementation stable and compliant with expected EVM behavior.
@@ -1117,6 +1127,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
