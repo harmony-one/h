@@ -1,3 +1,10 @@
+
+2026-02-05 Thu: Reviewed Aaron’s new backtesting documentation and configured integration with the shared backtesting service via the public API. Tested basic hedging scripts. Deployed the fixed version of the copy trading bot with a new target address. Ongoing testing and continued comparison against backtesting results.
+
+2026-02-04 Wed: Researched available OpenClaw capabilities and explored the feasibility of using OpenClaw as an execution layer for the automated trading system on Aerodrome Finance. Compared live copy trading bot results with backtesting outcomes; performed a manual transaction-level analysis of discrepancies together with Rika.
+
+2026-02-03 Tue: Continued work on the copy trading bot: fixed an issue causing token imbalance in the contract deposit after several hours of opening deposits with non-proportional ratios. Added new limit-based swap logic.
+
 2026-02-02 Mon: Reconfigured and relaunched the copy-trading bot services with new parameters to mirror Rika's address based on backtesting results. Researched documentation and repositories for the OpenClaw AI agent and x402, and explored potential integration options for trading using the ONE/USDC pool on Aerodrome (Base mainnet). Compiled a list of questions covering both implementation details and overall system architecture.
 
 ---
