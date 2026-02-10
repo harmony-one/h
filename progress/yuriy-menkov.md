@@ -1,4 +1,10 @@
 
+2026-02-09 Mon: Analyzed the copy-trading performance over the weekend. Compared backtesting results with the real script execution by manually reviewing transactions. Conducted a code review of the backtesting script. Investigated an issue related to creating a new proposal in the Snapshot-based voting service (Snapshot X).
+
+---
+
+2026-02-06 Fri: Tested a new operating mode of the copy-trading bot with token rebalancing based on fixed limits. Prepared a build for weekend testing. Synced with Rika on the source code to adjust event-based backtesting logic to better approximate real copy-trading behavior.
+
 2026-02-05 Thu: Reviewed Aaron’s new backtesting documentation and configured integration with the shared backtesting service via the public API. Tested basic hedging scripts. Deployed the fixed version of the copy trading bot with a new target address. Ongoing testing and continued comparison against backtesting results.
 
 2026-02-04 Wed: Researched available OpenClaw capabilities and explored the feasibility of using OpenClaw as an execution layer for the automated trading system on Aerodrome Finance. Compared live copy trading bot results with backtesting outcomes; performed a manual transaction-level analysis of discrepancies together with Rika.
