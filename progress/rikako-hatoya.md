@@ -1,3 +1,11 @@
+2025-02-09 Mon: Worked on Backtest: Fixed AERO rewards overestimation by implementing `calculate_bot_rewards_with_delay()` to account for when a whale unstakes, fixed price fallback issue, fixed swap formula bug with inverted decimal scaling that was causing bot to run out of money, fixed issue with negative token amount withdrawal caused when `sqrt_price` was exactly at a tick boundary by adding safeguards, and fixed issue with `optimize_capital_for_position`, which was showing a non-zero tick range even when bot's capital was fully depleted, by adding a check. Reduced runtime of backtest, which previously took 17+ hours for a 3.8-day run to be completed in 80 minutes end-to-end by the following optimizations: 1. derive block timestamps approximating with 2-second intervals instead of fetching each with `eth_getBlockByNumber`, 2. reward rate only changes per epoch so switched to one reward rate per epoch, 3. implemented parallel processing of earnings calculatin (`gauge.earned()` and `gauge.stakedLiquidity()`).
+
+---
+
+2025-02-08 Sun:
+
+2025-02-07 Sat:
+
 2026-02-06 Fri: Looked into how swap fees work, calculated average dynamic swap fee rate over nov/dec 2025, and added swap fee tracking to analysis. Debugged code regarding environment issues and backtest bugs.
 
 2026-02-05 Thu: Implemented flags to allow running backtest in different modes: (1. for starting capital ->  [fixed capital, match real-bot, match target-wallet], 2. whether to run full comparison with real-bot or just backtest). Ran backtest for 1 week $1000 capital and results showed low profit, noticed swap fee approximation was inaccurate (0.3%), currently implementing full calculation (base fee + dynamic fee).
