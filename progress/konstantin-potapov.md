@@ -1,4 +1,8 @@
-2026-01-30 Fri: This week I finally fixed all issues related to the new release. A node running this branch can successfully participate in consensus and has imported more than 100k blocks. I have already created a PR with these changes and am currently working on additional tests to cover Harmony-specific behavior. 
+2026-02-06 Fri: Ulad and I started testing the new release using testnet and mainnet validators. I investigated an API call issue on devnet and identified the root cause as a mismatch between the internal stack item count and the expected value. The stack contains extra items, which indicates that function calls are likely being miscounted internally.
+
+---
+
+2026-01-30 Fri: This week I fixed all issues related to the new release. A node running this branch can successfully participate in consensus and has imported more than 100k blocks. I have already created a PR with these changes and am currently working on additional tests to cover Harmony-specific behavior. 
 
 ---
 
