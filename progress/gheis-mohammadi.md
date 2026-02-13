@@ -1,3 +1,15 @@
+2026-02-14 Sat:
+Last week, after nearly completing all required EIPs (mostly related to the Harmony VM), I shifted focus to other critical parts of the codebase, particularly **P2P, boot nodes, and stream sync**.
+
+I created [PR 5003](https://github.com/harmony-one/harmony/pull/5003), which fixes multiple correctness and stability issues across the P2P stream sync subsystem. The most critical fix ensures rejected streams are properly closed to prevent libp2p stream leaks that could otherwise exhaust file descriptors over time. I also made `Protocol.Close()` safe against double invocation, wired the previously uninitialized sharding `Schedule` correctly to avoid nil-pointer panics, fixed a potential deadlock in the progress tracker caused by nested RWLocks, corrected negative metrics in the request manager, and guarded against division-by-zero in stream health stats. In addition, I cleaned up several code-quality issues, including duplicate imports, removal of a custom `min()` helper conflicting with newer Go versions, and unnecessary returns.
+
+I also fixed several boot node initialization and runtime issues in [PR 5004](https://github.com/harmony-one/harmony/pull/5004). This includes running the pprof HTTP server in a goroutine to avoid blocking boot node startup, making RPC startup failures fatal instead of silently stalling the process, and adding comprehensive nil guards around the boot node host and configuration access to prevent panics in edge cases.
+
+Finally, I addressed noisy and misleading stream logs in [PR 5006](https://github.com/harmony-one/harmony/pull/5006). When incoming sync streams are rejected (due to capacity limits or duplicate connections), the cleanup path was logging expected conditions as errors. This PR suppresses logging for expected `ErrStreamAlreadyRemoved` cases and downgrades remaining cleanup failures to warnings, significantly reducing log noise under heavy peer traffic.
+
+---
+
+
 2026-02-07 Sat: Last week I focused on improving **staged stream sync correctness, stability, and observability**, with a strong emphasis on fixing subtle concurrency and logic issues that could silently impact syncing behavior.
 
 I completed [PR 5000](https://github.com/harmony-one/harmony/pull/5000), which fixes two critical bugs in staged stream sync and removes dead code. The first fix corrects broken peer selection in the body download stage, where excluded streams were still being queried due to incorrect loop control. This could result in blacklisted or unsuitable peers being reused. The second fix addresses a classic goroutine closure issue where all workers could end up querying the same stream ID, breaking parallelism and fairness in peer usage. Each goroutine now correctly operates on its intended stream. I also removed an unused error channel in the sync height estimation logic to reduce confusion and unnecessary overhead.
@@ -1127,6 +1139,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
