@@ -1,4 +1,10 @@
 
+2026-02-12 Thu: Completed another iteration of fixes for missed positions in the copy-trading bot: unified transaction submission through a single shared NonceManager, added serialized transaction sending, implemented automatic resetNonce + retry logic for nonce/fee-related errors, and introduced a more aggressive and configurable EIP-1559 fee policy to eliminate replacement fee too low errors and reduce the risk of gapped nonces. Tested the changes using a new target wallet.
+
+2026-02-11 Wed: Synced with the team on recent updates from Aaron. Discussed the possibility of migrating the LP hedger script to the backtesting infrastructure. Reviewed new backtesting updates and documentation provided by Aaron.
+
+2026-02-10 Tue: Investigated the root cause of partial position losses in the copy-trading bot. The issue affected less than 1% of positions but caused discrepancies between live results and backtesting. Fixed the mechanism for determining the maximum gas per transaction and added a nonce queue.
+
 2026-02-09 Mon: Analyzed the copy-trading performance over the weekend. Compared backtesting results with the real script execution by manually reviewing transactions. Conducted a code review of the backtesting script. Investigated an issue related to creating a new proposal in the Snapshot-based voting service (Snapshot X).
 
 ---
