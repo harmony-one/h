@@ -1,8 +1,23 @@
+2026-02-13 Fri:
+
+Main focus on this week was change in the DNS traffic routing for Full DB RPC. It was latency based, but 2 nodes are placed nearby Helsinki and Vilnius, so most of the traffic was going to Lithuania, overload server to 90-100% on multi core machine and **Harmony users start to complain about bad user experience**. So I've decided to mix to approaches latency on the world and weights for the Europe. So whole Americas traffic is going to the USA node, all other went to Europe and balanced by weights. Result - Vilnius node is finally in the range of 40-70% CPU usage. How the traffic looks like today/7 days period:
+
+![alt dashboards_grouping](/devops/img/DNS_lb.png)
+![alt dashboards_grouping](/devops/img/DNS_lb_7_days.png)
+
+And also I've spent some time on the new Grafana dashboard creation to have the `Full Network Flow Visualization: Nginx -> RPC -> Linux` in one place instead of 3 different dashboards.
+
+Additional focus was the new release candidate, it is pending one RPC tracer fix and there small encampments for the stream sync from Gheis. It is working fine for 1 week on block producing and validation in the mainnet.
+
+And finally, as part of updates activities, I've updated base reth node, nginx, grafana, alert manager to the latest versions.
+
+---
+
 2026-02-06 Fri:
 
 Main focus on this week was on the new release candidate, Konstantin have fixed all the issues we faced running release candidate node in the mainnet, so I've used this version with fix in devnet, testnet and on 2 internal validators in the mainnet. **Both nodes have already participated in consensus both ways - block producing and validation.**
 
-And finally, as part of updates activities, I've updated [erigon](https://github.com/erigontech/erigon/releases/tag/v3.3.7)(v3.3.7) and lighthouse([v8.1.0](https://github.com/sigp/lighthouse/releases/tag/v8.1.0)), teleport proxy, loki, promtetheus alert manager to the latest versions.
+And finally, as part of updates activities, I've updated [erigon](https://github.com/erigontech/erigon/releases/tag/v3.3.7)(v3.3.7) and lighthouse([v8.1.0](https://github.com/sigp/lighthouse/releases/tag/v8.1.0)), teleport proxy, loki, prometheus alert manager to the latest versions.
 
 And finally, analyzed fresh [CVE-2026-1642](https://www.cve.org/CVERecord?id=CVE-2026-1642) in the Nginx and decided that it will be okay to postpone [1.28.2 release](https://github.com/nginx/nginx/releases/tag/release-1.28.2) upgrade with its fix to the next week.
 
