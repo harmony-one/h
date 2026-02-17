@@ -1,3 +1,5 @@
+2026-2-17 Tue (0.8h): Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
+
 2026-2-16 Mon (0.6h): Deploying and debugging automated fetch scripts.
 
 ---
