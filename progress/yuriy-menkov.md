@@ -1,4 +1,12 @@
 
+2026-02-17 Tue:  Analyzed the statistics for 3 days collected from the copy trading bot. The number of positions, average holding time, and average position size are all in line with expected values. Action execution delays range from 1 to 3 blocks depending on the specific scenarios. Alchemy was disabled due to excessively high costs. Switching to quick node rpc.
+
+2026-02-16 Mon: President's Day
+
+---
+
+2026-02-13 Fri: Complete several fixes to the copy trading bot, focusing on optimizing Alchemy RPC requests to reduce traffic and operational costs. A new version was deployed to the production environment for testing over the weekend. Also researched community-reported issues related to the Harmony Snapshot X voting service and reconfigured the indexer accordingly.
+
 2026-02-12 Thu: Completed another iteration of fixes for missed positions in the copy-trading bot: unified transaction submission through a single shared NonceManager, added serialized transaction sending, implemented automatic resetNonce + retry logic for nonce/fee-related errors, and introduced a more aggressive and configurable EIP-1559 fee policy to eliminate replacement fee too low errors and reduce the risk of gapped nonces. Tested the changes using a new target wallet.
 
 2026-02-11 Wed: Synced with the team on recent updates from Aaron. Discussed the possibility of migrating the LP hedger script to the backtesting infrastructure. Reviewed new backtesting updates and documentation provided by Aaron.
