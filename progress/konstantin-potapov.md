@@ -1,8 +1,6 @@
 
 
-2026-02-13 Fri: This week I worked on the 1-second finality analysis. I implemented several utilities to collect block data and timestamps: ~100k blocks from mainnet and ~200k blocks from devnet. The goal was to analyze blocks with timestamp deviation greater than 2 seconds. On mainnet, the block timestamp discrepancy is currently around 0.4%. Next week, I plan to compare these results with the dev branch.   
-In addition, I worked on an API call. I wrote debug code on the mainnet branch, then applied the same logic to the dev branch with the required adjustments.
-
+2026-02-13 Fri: This week I worked on the 1-second finality analysis. I implemented several utilities to collect block data and timestamps: ~100k blocks from mainnet and ~200k blocks from devnet. The goal was to analyze blocks with timestamp deviation greater than 2 seconds. On mainnet, the block timestamp discrepancy is currently around 0.4%. Next week, I plan to compare these results with the dev branch.
 In addition, I worked on an API call issue where a transaction debug request fails when a specific tracer is used. The API behavior needs to be compared between the dev and main branches. I have already applied changes to the main branch to retrieve the full execution log and am currently porting the same changes to the dev branch, adapting them to the newer interface, which includes additional methods.
 
 ---
