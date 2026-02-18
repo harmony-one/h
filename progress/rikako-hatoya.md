@@ -1,3 +1,5 @@
+2026-02-17 Tue: In-person team sync. Started looking into and planning backtest implementation in lp-hedger repo.
+
 2026-02-16 Mon: President's Day
 
 2026-02-15 Sun: Re-checking of backtest script and memory issue. 
