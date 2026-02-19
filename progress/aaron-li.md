@@ -1,4 +1,6 @@
-2026-2-18 Wed (9.6h+): Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
+2026-2-19 Thu (0.2h+): Implement and review volatility haverseting strategy code. Implement and review copy trading code in LP hedger for further revision.
+
+2026-2-18 Wed (10.0h): Automate bug discovery and fixes for backtesting and strategies. Expand backtest server with history API and make ready for volatility harvesting strategy. Major refactor of LP hedger configuration loader - support toml config files, multi config directories, reduced 100+ environment variables to less than 10. Allow LP data fetcher to report detailed progress per stage. Add compute iv and spot price stage. Review random LP / perp / option strategies. Review and finalize spread hedge strategy. Prepare and revise plans for migrating copy trading to LP hedger and expansion needed for LP backtest server. Prepare update notes.
 
 2026-2-17 Tue (2.3h): Discussion on automated strategy implementation flow, migration to lp-hedger, expansion on lp-backtest, Polymarket opportunities, engineering TODOs. Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
 
