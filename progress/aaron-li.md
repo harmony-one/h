@@ -1,4 +1,4 @@
-2026-2-18 Wed (8.6h): Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
+2026-2-18 Wed (8.6h+): Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
 
 2026-2-17 Tue (2.3h): Discussion on automated strategy implementation flow, migration to lp-hedger, expansion on lp-backtest, Polymarket opportunities, engineering TODOs. Deploy new refactored hedging code to production. Implement random strategies, automate backtesting.
 
