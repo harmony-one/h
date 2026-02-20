@@ -1,4 +1,10 @@
 
+2026-02-20 Fri: Indexer improvements for gov.harmony.one. Researched issue causing the indexer to restart and crash when a block could not be fetched from a public RPC. Configuring fly.io to save latest sync status to speed up sync tyme after reboot. Researched auto restart issue. Research of Aaron’s updates related to the new LP backtesting dashboard.
+
+2026-02-19 Thu: Published a basic, fully functional [open-source](https://github.com/harmony-one/sx-monorepo) version of [gov.harmony.one](https://gov.harmony.one) to enable further development by the community. The goal is to keep a minimal working version and allow the community to add new features. UI connected to smart contracts and the indexer API. Current deployment status: UI — production, Smart contracts — deployed, Indexer — running on Fly.io. Community members can also submit UI changes for us to deploy.
+
+2026-02-18 Wed: Comparison of backtesting statistics vs live copy-trading bot performance. Performed a step-by-step transaction analysis together with Rika. Identified the root cause of discrepancies: positions that are opened and closed within the same block are ignored in backtesting, while in the live bot they are executed with a delay.
+
 2026-02-17 Tue:  Analyzed the statistics for 3 days collected from the copy trading bot. The number of positions, average holding time, and average position size are all in line with expected values. Action execution delays range from 1 to 3 blocks depending on the specific scenarios. Alchemy was disabled due to excessively high costs. Switching to quick node rpc.
 
 2026-02-16 Mon: President's Day
