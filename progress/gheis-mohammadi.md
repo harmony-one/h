@@ -1,3 +1,8 @@
+2026-02-21 Sat: Last week I focused on rebasing, resolving conflicts, and completing [PR 4942](https://github.com/harmony-one/harmony/pull/4942). The PR ntroduces a per-stream block number cache that eliminates those repeated round-trips, significantly reducing network load on both the syncing node and its peers. 
+After adding a few additional commits, we deployed it on Devnet, investigated edge cases, and fixed the issues found during testing. The latest version is now running perfectly on Devnet and represents a significant optimization to staged stream sync.
+
+---
+
 2026-02-14 Sat:
 Last week, after nearly completing all required EIPs (mostly related to the Harmony VM), I shifted focus to other critical parts of the codebase, particularly **P2P, boot nodes, and stream sync**.
 
@@ -1139,6 +1144,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
