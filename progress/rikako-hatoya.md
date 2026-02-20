@@ -1,3 +1,5 @@
+2026-02-19 Thu: Review of lp-hedger. Looked over Aaron’s copy-bot implementation and come up with plan on how to merge copy-bot, backtest, returns scripts to lp-hedger.
+
 2026-02-18 Wed: Look into Aaron's copy trading strategy write-up and familiarizing with backtest repo Implemented 1 block delay for transactions with mint and burn in same block for copy-bot.
 
 2026-02-17 Tue: In-person team sync. Started looking into and planning backtest implementation in lp-hedger repo.
