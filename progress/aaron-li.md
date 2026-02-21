@@ -1,4 +1,6 @@
-2026-2-20 Fri (4.9h+): Backtesting runs, examples, docs. Deploy automated daily fetcher with Telegram reports. Discussion on strategy flow, data sources, priority and implementations.
+2026-2-21 Sat (0.4h+): Backtesting for more strategies, longer time.
+
+2026-2-20 Fri (5.1h): Backtesting runs, examples, docs. Deploy automated daily fetcher with Telegram reports. Discussion on strategy flow, data sources, priority and implementations.
 
 2026-2-19 Thu (6.2h): Implement and review backtesting client engine for random lp, random perp, random option, spread hedge, volatility harvesting, and copy trading. Backtesting server dashboard for performance metrics and debugging. Performing and validating backtesting for random strategies, fix bugs. Implement and review volatility haverseting strategy code. Implement and review copy trading code in LP hedger for further revision.
 
