@@ -1,4 +1,4 @@
-2026-2-21 Sat (0.8h): Backtesting for more strategies, longer time. Debug fee computation errors in backtesting.
+2026-2-21 Sat (1.3h): Analyze performance improvements from backtesting metrics. Backtesting for more strategies, longer time. Debug fee computation errors in backtesting.
 
 2026-2-20 Fri (5.1h): Backtesting runs, examples, docs. Deploy automated daily fetcher with Telegram reports. Discussion on strategy flow, data sources, priority and implementations.
 
