@@ -1,3 +1,5 @@
+2026-2-22 Sun (0.2h): Rebuild backtest database index to make runs significantly faster.
+
 2026-2-21 Sat (6.0h): Analyze performance improvements from backtesting metrics. Backtesting for more strategies, longer time. Debug fee computation errors in backtesting.
 
 2026-2-20 Fri (5.1h): Backtesting runs, examples, docs. Deploy automated daily fetcher with Telegram reports. Discussion on strategy flow, data sources, priority and implementations.
