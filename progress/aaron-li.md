@@ -1,4 +1,4 @@
-2026-2-22 Sun (0.4h+): Rebuild backtest database index to make runs significantly faster.
+2026-2-22 Sun (1.4h+): Rebuild backtest database index to make runs significantly faster.
 
 2026-2-21 Sat (6.0h): Analyze performance improvements from backtesting metrics. Backtesting for more strategies, longer time. Debug fee computation errors in backtesting.
 
