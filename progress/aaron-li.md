@@ -1,4 +1,4 @@
-2026-2-23 Mon (0.2h): Rebuild backtest database index to make runs significantly faster.
+2026-2-23 Mon (0.5h+): Rebuild backtest database index to make runs significantly faster.
 
 ---
 
