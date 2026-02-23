@@ -1,3 +1,7 @@
+2026-02-22 Sun: Fixed minimal closing block issue with backtest. Re-run for same parameters (output [here](https://docs.google.com/spreadsheets/d/1BrydERGysFnIupr7MAZXUnWWY8k5OG1yYeCe0Rx6gZA/edit?gid=1141867189#gid=1141867189)). 
+
+2026-02-21 Sat: Setting up of cursor-history repo. Looked into random action strategy.
+
 2026-02-20 Fri: Revision of copy-bot implementation in lp-hedger. Backtest run of recent blocks for copy-bot.
 
 2026-02-19 Thu: Review of lp-hedger. Looked over Aaron’s copy-bot implementation and come up with plan on how to merge copy-bot, backtest, returns scripts to lp-hedger.
