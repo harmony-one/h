@@ -1,3 +1,7 @@
+2026-02-23 Mon: Reading through new strategies in lp-hedger and iteration of new strategy plan with claude. Checking of discrepancy from latest copy-bot backtest.
+
+---
+
 2026-02-22 Sun: Fixed minimal closing block issue with backtest. Re-run for same parameters (output [here](https://docs.google.com/spreadsheets/d/1BrydERGysFnIupr7MAZXUnWWY8k5OG1yYeCe0Rx6gZA/edit?gid=1141867189#gid=1141867189)). 
 
 2026-02-21 Sat: Setting up of cursor-history repo. Looked into random action strategy.
