@@ -1,4 +1,4 @@
-2026-2-25 Wed (0.3h): Execute strategies and evaluate backtest result.
+2026-2-25 Wed (1.0h+): Execute strategies and evaluate backtest result.
 
 2026-2-24 Tue (11.7h): Execute strategies and evaluate backtest result. Q&A on running local backtest server, copy database, and running lp-hedger against local backtest server, and analyze the results.
 
