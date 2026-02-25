@@ -1,4 +1,8 @@
+2026-02-20 Fri: This week I analyzed block timestamp behavior under 1-second finality. The measured deviation is around 20%, which significantly exceeds the expected 1–2%. Moreover, roughly every fourth block shows a deviation greater than one second. This issue is now a priority and requires deeper investigation.
+To proceed, I am working on improved log visualization and evaluating Grafana and Prometheus to better analyze timestamp dispersion and identify possible systemic patterns.
+Together with Ulad, I also investigated incorrect behavior observed in scenarios without external validators. Since the triggering conditions are extremely unlikely on mainnet, we decided not to introduce additional fixes in this release. 
 
+---
 
 2026-02-13 Fri: This week I worked on the 1-second finality analysis. I implemented several utilities to collect block data and timestamps: ~100k blocks from mainnet and ~200k blocks from devnet. The goal was to analyze blocks with timestamp deviation greater than 2 seconds. On mainnet, the block timestamp discrepancy is currently around 0.4%. Next week, I plan to compare these results with the dev branch.
 In addition, I worked on an API call issue where a transaction debug request fails when a specific tracer is used. The API behavior needs to be compared between the dev and main branches. I have already applied changes to the main branch to retrieve the full execution log and am currently porting the same changes to the dev branch, adapting them to the newer interface, which includes additional methods.
