@@ -1,3 +1,5 @@
+2026-02-25 Wed: Started implementing improvements to copy-trade strategy as well as some set-up with updates (GCS). Currently working on  issues regarding detecting positions and huge run time.
+
 2026-02-24 Tue: Setting up of lp-hedger/backtest server and configs. Backtesting of strategies for 9/01-12/31/2025.
 
 2026-02-23 Mon: Reading through new strategies in lp-hedger and iteration of new strategy plan with claude. Checking of discrepancy from latest copy-bot backtest.
