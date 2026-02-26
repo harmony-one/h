@@ -1,6 +1,8 @@
-2026-2-25 Wed (8.0h): Execute strategies and evaluate backtest result.
+2026-2-26 Thu (0.5h): Produce backtesting logs in case of early interruptions. Profile and improve client side backtesting performance.
 
-2026-2-24 Tue (11.7h): Execute strategies and evaluate backtest result. Q&A on running local backtest server, copy database, and running lp-hedger against local backtest server, and analyze the results.
+2026-2-25 Wed (8.0h): Automated backtest log and results upload to Google Storage. Reduce churn and improve hold time gates. Execute strategies with spread costs and taker fees considered. Make plans for improve volatility capturing strategies. Analyze and improve client-side backtest performance.
+
+2026-2-24 Tue (11.7h): Execute strategies and evaluate backtest result. Implement spread cost and taker fees, and improved dashboard with impermanent loss and more accurate realized and unrealized PnL, principal and fees PnL, and fix related bugs. Make plans for computing risk parameters and real-time black-schole based option mark price in backtesting. Q&A on running local backtest server, copy database, and running lp-hedger against local backtest server, and analyze the results.
 
 2026-2-23 Mon (4.8h): Implement, revise, verify database-based timeline tool. Rebuild backtest database index to make runs significantly faster.
 
