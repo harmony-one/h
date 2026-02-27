@@ -1,3 +1,15 @@
+2026-02-29 Sat: Last week was highly productive, with a strong focus on enhancing stream synchronization and performing final validations before announcing the v2025.1.2 release to the community. The main effort revolved around improving the reliability and stability of stream handling under various network conditions, reducing noisy logs, and preventing unnecessary stream evictions that could impact testnet performance.
+
+One significant improvement addressed an issue with DNS resolution for trusted peers. Previously, `AddDNSNodestoTrustedPeers` could attempt to connect to the node itself when the local peer ID appeared among DNS-resolved candidates, generating repeated “dial to self attempted” errors. The [PR #5007](https://github.com/harmony-one/harmony/pull/5007) resolved this by skipping the local node’s own peer ID during iteration, reducing log noise and avoiding wasted connection attempts on testnet nodes.
+
+Several race conditions in stream management were also identified and mitigated. The [PR #5008](https://github.com/harmony-one/harmony/pull/5008) tackled issues such as stream aliasing, unregistered stream removal, and potential shutdown deadlocks. By introducing a `registered` flag for streams and making `NewStream` and `RemoveStream` context-aware, the changes ensure that closing a rejected duplicate stream no longer evicts an existing valid stream and that no goroutines block during shutdown. This significantly improves the robustness of stream lifecycle handling.
+
+The final key enhancement focused on the identification and classification of synced streams. Previously, transient errors during block-number probes could lead to aggressive removal of otherwise healthy streams. The [PR #5009](https://github.com/harmony-one/harmony/pull/5009) restructured `identifySyncedStreams` to aggregate results before evaluating stream health, skipping context cancellation and deadline errors, and only applying penalties when meaningful. Additionally, a new `ClassifyRequestError` function was added to properly distinguish between request-level and transport-level errors, allowing for more nuanced handling and minimizing unnecessary stream eviction. This change ensures that systemic network issues do not trigger disproportionate stream removal, making the sync process more resilient.
+
+Beyond these core updates, two additional PRs ([PR #5011](https://github.com/harmony-one/harmony/pull/5011) and [PR #5010](https://github.com/harmony-one/harmony/pull/5010)) were developed but deferred from the current release. They provide mechanisms for watchdog-triggered stream recovery and loopback avoidance, setting the foundation for future stability improvements.
+
+---
+
 2026-02-21 Sat: Last week I focused on rebasing, resolving conflicts, and completing [PR 4942](https://github.com/harmony-one/harmony/pull/4942). The PR ntroduces a per-stream block number cache that eliminates those repeated round-trips, significantly reducing network load on both the syncing node and its peers. 
 After adding a few additional commits, we deployed it on Devnet, investigated edge cases, and fixed the issues found during testing. The latest version is now running perfectly on Devnet and represents a significant optimization to staged stream sync.
 
@@ -1144,6 +1156,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
