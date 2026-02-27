@@ -1,3 +1,27 @@
+2026-02-27 Fri:
+
+Main focus was the [new release candidate](https://github.com/harmony-one/harmony/pull/4960). There were last mile stream sync improvements from @GheisMohammadi - [PR-5009](https://github.com/harmony-one/harmony/pull/5009), [PR-5008](https://github.com/harmony-one/harmony/pull/5008), [PR-5007](https://github.com/harmony-one/harmony/pull/5007), [PR-4995](https://github.com/harmony-one/harmony/pull/4995) - my work was to deploy, update configuration to the latest, test it through the devnet->testnet->mainnet. Result - nodes now adding streams rapidly and preserve them better.
+
+As example here is the screenshot from the testnet, only shard 0 nodes are chosen and limit factor is 3, everything higher won't be shown. After new version deploy all the nodes get 3 streams in a matter of couple minutes after rolling upgrade 1 by 1, before it was around 10 minutes. See the screenshot each line on the right is a separate node, ip is redacted.
+
+![alt stream_sync_limited](/devops/img/strem_sync_limit.png)
+
+And without limit, now we have connected streams way faster.
+
+![alt stream_sync_happy](/devops/img/stream_sync_happy.png)
+
+As conclusion, We together - me, @frozen and @GheisMohammadi agreed to announce new release on Monday.
+
+On the system engineering part, I've updated archival DB RPC DNS load balancing to support the same configuration as we have on the full DB. Issues was on the incorrect CNAME fan out, DNS A records must be used. In short - less latency for users and better UX. Rolled out it via terraform and blue/green approach - the best for DNS changes, because end users haven't noticed anything, both configurations coexist and after ending TTL(time to live), I've destroyed old CNAME fan out config.
+
+More info for geeks:
+CNAME records represent a singular canonical alias and must not coexist with other data at the same label (RFC 1034 §3.6.2, RFC 1035 §3.3.1). Using A records removes unnecessary alias indirection, **reduces resolver-level caching artifacts**, and improves failover
+predictability. `CNAME → several CNAME → several A` setup is operationally fragile, even if technically allowed, better to use `CNAME → several A`
+
+And finally, as part of updates activities, I've updated base grafana and prometheus to the latest versions.
+
+---
+
 2026-02-20 Fri:
 
 Main focus was the [new release candidate](https://github.com/harmony-one/harmony/pull/4960), discussed with @frozen and @GheisMohammadi about new release approach: if Konstantin won't fix RPC tracer bug until 24th of February, we will go as is and will create additional optional release only for RPC providers. Other than that there were numerous deployments on the devnet with the latest improvements for the stream sync. Right now it is working in the devnet and testnet.
