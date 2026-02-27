@@ -1,4 +1,14 @@
 
+2026-02-26 Thu: Researched issues affecting strategy execution in the local LP backtesting environment. Part of the problems were resolved by switching the pricing source from Aerodrome pool prices to Hyperliquid prices, but the strategy is still producing zero PnL. Re-synchronized the local database and continue testing.
+
+2026-02-25 Wed: Started migrating the hedger manager service strategy to the backtesting engine. The strategy is able to run, but currently produces errors, resulting in zero PnL across all backtest runs.
+
+2026-02-24 Tue: Synced with Aaron and the team on local setup of the LP backtesting framework and the LP hedger. Updated the system environment and installed required utilities to support the new version. Familiarized myself with the core strategies and their intended behavior.
+
+2026-02-23 Mon: Improved the gov indexer. To enable full Docker integration, added a feature that persists the latest synchronized block into a dedicated database table upon receiving a shutdown signal. Error handling was refactored, and additional validation for detecting and recovering missing blocks was implemented. The final version has been launched for testing using the standard startup command.
+
+---
+
 2026-02-20 Fri: Indexer improvements for gov.harmony.one. Researched issue causing the indexer to restart and crash when a block could not be fetched from a public RPC. Configuring fly.io to save latest sync status to speed up sync tyme after reboot. Researched auto restart issue. Research of Aaron’s updates related to the new LP backtesting dashboard.
 
 2026-02-19 Thu: Published a basic, fully functional [open-source](https://github.com/harmony-one/sx-monorepo) version of [gov.harmony.one](https://gov.harmony.one) to enable further development by the community. The goal is to keep a minimal working version and allow the community to add new features. UI connected to smart contracts and the indexer API. Current deployment status: UI — production, Smart contracts — deployed, Indexer — running on Fly.io. Community members can also submit UI changes for us to deploy.
