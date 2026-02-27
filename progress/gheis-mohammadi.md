@@ -1,4 +1,4 @@
-2026-02-29 Sat: Last week was highly productive, with a strong focus on enhancing stream synchronization and performing final validations before announcing the v2025.1.2 release to the community. The main effort revolved around improving the reliability and stability of stream handling under various network conditions, reducing noisy logs, and preventing unnecessary stream evictions that could impact testnet performance.
+2026-02-28 Sat: Last week was very productive, with a strong focus on enhancing stream synchronization and performing final validations before announcing the v2025.1.2 release to the community. The main effort revolved around improving the reliability and stability of stream handling under various network conditions, reducing noisy logs, and preventing unnecessary stream evictions that could impact testnet performance.
 
 One significant improvement addressed an issue with DNS resolution for trusted peers. Previously, `AddDNSNodestoTrustedPeers` could attempt to connect to the node itself when the local peer ID appeared among DNS-resolved candidates, generating repeated “dial to self attempted” errors. The [PR #5007](https://github.com/harmony-one/harmony/pull/5007) resolved this by skipping the local node’s own peer ID during iteration, reducing log noise and avoiding wasted connection attempts on testnet nodes.
 
@@ -1156,6 +1156,7 @@ Also, We encountered an issue with block insertion during legacy sync. In the le
 I completed the tests for my latest PR, #4540, and finalized the code. The team reviewed it, and it has been merged into the dev branch.
 
 Currently, I am working on refactoring the state sync stage to enable the synchronization of all states. This is essential for the node to regenerate Tries. The existing code only syncs the latest leaves of the trie. This part is more complex than the previous implementation, as it requires using the snapshot feature, which we haven't implemented yet. I'm exploring alternative methods that don't rely on snapshots. If these methods do not prove effective, we'll need to prioritize the development of the instant snapshot feature.
+
 
 
 
