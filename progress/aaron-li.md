@@ -1,3 +1,5 @@
+2026-2-27 Fri (0.8h+): Produce backtesting logs in case of early interruptions. Profile and improve client side backtesting performance.
+
 2026-2-26 Thu (5.1h): Produce backtesting logs in case of early interruptions. Profile and improve client side backtesting performance.
 
 2026-2-25 Wed (8.0h): Automated backtest log and results upload to Google Storage. Reduce churn and improve hold time gates. Execute strategies with spread costs and taker fees considered. Make plans for improve volatility capturing strategies. Analyze and improve client-side backtest performance.
