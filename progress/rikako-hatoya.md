@@ -1,4 +1,8 @@
-2026-02-27 Fri: Debugegd configuring of database, run of goldilocks strategy, started implementing top performers script. Fixed more bugs and implemented features regarding copy-trade (burn delay +1 block, initial capital and trading ratio).
+2026-03-01 Sun: Continue with debugging copy-trade backtest. Planning of top performers script implementation.
+
+2026-02-28 Sat: Continue with copy-trade script. Positions not showing up in backtest, working on debugging.
+
+2026-02-27 Fri: Debugged configuring of database, run of goldilocks strategy, started implementing top performers script. Fixed more bugs and implemented features regarding copy-trade (burn delay +1 block, initial capital and trading ratio).
 
 2026-02-26 Thu: In-person team sync in SF with Aaron + Li. [Debugged](https://github.com/polymorpher/lp-hedger/commit/01d0a133fcf070cdc7722ab1602df016bd0734ca) copy-trade script (not detecting burn issue), comparison with real bot.
 
