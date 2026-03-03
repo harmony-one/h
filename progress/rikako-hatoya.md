@@ -1,3 +1,7 @@
+2026-03-02 Mon: Worked on top wallets script, debugging issues that were causing wildly high APR values. Script faced issues regarding position ownership and capital acquired through NFT transfers, fixed by using reward claim address as owner instead of tracing transfers, also fixed APR calculation, ran with filters (minimum 2 mins average position duration, minimum $1,000 capital), output [here](https://docs.google.com/spreadsheets/d/1eJ_2TkInjH62nVocUScJI6RckCZNnxFlzf6UUUo7eR0/edit?gid=985186688#gid=985186688).
+
+---
+
 2026-03-01 Sun: Continue with debugging copy-trade backtest. Planning of top performers script implementation.
 
 2026-02-28 Sat: Continue with copy-trade script. Positions not showing up in backtest, working on debugging.
