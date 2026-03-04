@@ -1,4 +1,4 @@
-2026-3-3 Tue (0.2h): Fix pnl calculation at option expiry.
+2026-3-3 Tue (2.2h): Discussion on live trading deployment, backtesting scaling, option platforms, new strategies. Fix pnl calculation at option expiry.
 
 2026-3-2 Mon (1.7h): Fix pnl calculation at option expiry. Reduce client side and server side memory bloating, prevent speed degregation over time.
 
