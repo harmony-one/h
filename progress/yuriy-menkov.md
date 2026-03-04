@@ -1,3 +1,10 @@
+2026-03-03 Tue: Running backtests for all strategies for the month of September and comparing results by profit and APR. So far, Goldilocks Plus is leading with approximately 5% APR. Hedge Optima is showing a positive PnL, while Naked Hedge remains consistently negative.
+
+2026-03-02 Mon: Synced with Aaron regarding missing Aerodrome price data in the remote database. Local backtesting for the Naked Hedge strategy has been restored. Continuing development and testing of the Hedge Optima strategy.
+
+---
+
+2026-02-27 Fri: Investigating errors during local strategy execution during backtesting. The Goldilocks LP strategy is currently being tested. The issue with local execution of strategies dependent on Aerodrome price feeds remains unresolved.
 
 2026-02-26 Thu: Researched issues affecting strategy execution in the local LP backtesting environment. Part of the problems were resolved by switching the pricing source from Aerodrome pool prices to Hyperliquid prices, but the strategy is still producing zero PnL. Re-synchronized the local database and continue testing.
 
