@@ -1,3 +1,7 @@
+2026-02-28 Fri: This week I helped Ulad with the upcoming release and reviewed several pull requests. Additionally, I continued working on visualization of the 1-second block interval graph. However, this task is complicated by the fact that Grafana does not support intervals smaller than one second, while the analysis requires sub-second resolution.
+
+---
+
 2026-02-20 Fri: This week I analyzed block timestamp behavior under 1-second finality. The measured deviation is around 20%, which significantly exceeds the expected 1–2%. Moreover, roughly every fourth block shows a deviation greater than one second. This issue is now a priority and requires deeper investigation.
 To proceed, I am working on improved log visualization and evaluating Grafana and Prometheus to better analyze timestamp dispersion and identify possible systemic patterns.
 Together with Ulad, I also investigated incorrect behavior observed in scenarios without external validators. Since the triggering conditions are extremely unlikely on mainnet, we decided not to introduce additional fixes in this release. 
