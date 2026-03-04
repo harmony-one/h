@@ -1,3 +1,5 @@
+2026-03-03 Tue: Ran updated copy-trading for volatile period (Aug-Dec 2025), noticed more bugs and fixed, implemented batch script to run multiple backtests on different server ports in parallel. In-person team sync, debugged and merged lp-backtest script, working on merging lp-hedger script.
+
 2026-03-02 Mon: Worked on top wallets script, debugging issues that were causing wildly high APR values. Script faced issues regarding position ownership and capital acquired through NFT transfers, fixed by using reward claim address as owner instead of tracing transfers, also fixed APR calculation, ran with filters (minimum 2 mins average position duration, minimum $1,000 capital), output [here](https://docs.google.com/spreadsheets/d/1eJ_2TkInjH62nVocUScJI6RckCZNnxFlzf6UUUo7eR0/edit?gid=985186688#gid=985186688).
 
 ---
