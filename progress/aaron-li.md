@@ -1,4 +1,4 @@
-2026-3-4 Wed (5.9h+): Implement risk calculation.
+2026-3-4 Wed (6.5h+): Implement risk calculation.
 
 2026-3-3 Tue (3.0h): Implement risk calculation. Discussion on live trading deployment, backtesting scaling, option platforms, new strategies. Fix pnl calculation at option expiry.
 
