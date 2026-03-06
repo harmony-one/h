@@ -1,3 +1,7 @@
+2026-03-05 Thu: Added a script to generate parameter presets for each of the four top strategies. Currently running 48 sessions to collect parameter performance statistics. After the backtest server update and LP hedge update, strategy execution time increased to ~1 hour. Investigating and working on a fix.
+
+2026-03-04 Wed: Implemented a script that automatically runs the top strategies monthly and generates a report with PnL, APR, and execution time. Current results show ~1–2% APR, despite positive PnL each month. The current top-performing strategy is Goldilocks LP.
+
 2026-03-03 Tue: Running backtests for all strategies for the month of September and comparing results by profit and APR. So far, Goldilocks Plus is leading with approximately 5% APR. Hedge Optima is showing a positive PnL, while Naked Hedge remains consistently negative.
 
 2026-03-02 Mon: Synced with Aaron regarding missing Aerodrome price data in the remote database. Local backtesting for the Naked Hedge strategy has been restored. Continuing development and testing of the Hedge Optima strategy.
