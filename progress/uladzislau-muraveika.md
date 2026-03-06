@@ -1,3 +1,21 @@
+2026-03-06 Fri:
+
+Main focus was the [new release](https://github.com/harmony-one/harmony/releases/tag/v2026.0.0), I've installed in on the all internal nodes and shared with the community. Right now 23% of comm
+
+There were a few issues during preparation - old x86_64 Macos-13 image was removed in the Github Actions - fixed with the [PR-5013](https://github.com/harmony-one/harmony/pull/5013).
+There is an issue with the `trace_block` RPC method on some blocks => I've rolled back 2 archival RPCs to the previous version and shared details with @frozen, there will be a small patch for this issue.
+Additionally, community asked me to change the max bls keys parameter in the config file to the 11 to reflect the actual external validators limit. [PR-5015](https://github.com/harmony-one/harmony/pull/5015).
+
+And finally, I've improved:
+* `Nodes version` dashboard with better filtering - networks, internal/external:
+![alt text](/devops/img/nodes_version.png)
+* `Check peer state dashboard` - better filtering and count from Loki for the validated/produced blocks will be also useful for the 1 second finality visualization
+![alt text](/devops/img/check_peers.png)
+
+As part of systems engineering activities I've calculated cloud costs, started to collect information where can save more money. Additionally, I've updated base reth node and lighthouse to the latest versions
+
+---
+
 2026-02-27 Fri:
 
 Main focus was the [new release candidate](https://github.com/harmony-one/harmony/pull/4960). There were last mile stream sync improvements from @GheisMohammadi - [PR-5009](https://github.com/harmony-one/harmony/pull/5009), [PR-5008](https://github.com/harmony-one/harmony/pull/5008), [PR-5007](https://github.com/harmony-one/harmony/pull/5007), [PR-4995](https://github.com/harmony-one/harmony/pull/4995) - my work was to deploy, update configuration to the latest, test it through the devnet->testnet->mainnet. Result - nodes now adding streams rapidly and preserve them better.
