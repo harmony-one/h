@@ -1,3 +1,5 @@
+2026-03-05 Thu: Implemented and tested new strategies working off of existing goldilocks_lp implementation as well as parameter sweep. Many of the new LP-only strategies seem to be doing worse in IL if implemented without hedging. 
+
 2026-03-04 Wed: Fixed lp-hedger copy-trade bugs, pushed both [lp-hedger](https://github.com/polymorpher/lp-hedger/pull/3) and [lp-backtest](https://github.com/polymorpher/lp-backtest/pull/1) PRs. [Added](https://github.com/polymorpher/lp-hedger/blob/ccfeec50f43ba4353d6e4db94dc5670f41f5126c/.cursor/plans/strategy_benchmark_leaderboard.plan.md) new plan for leaderboard, worked on new strategy based on implementaiton of goldilocks_plus.
 
 2026-03-03 Tue: Ran updated copy-trading for volatile period (Aug-Dec 2025), noticed more bugs and fixed, implemented batch script to run multiple backtests on different server ports in parallel. In-person team sync, debugged and merged lp-backtest script, working on merging lp-hedger script.
