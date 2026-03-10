@@ -1,3 +1,5 @@
+2026-03-09 Mon: Swept entry/exit percentiles, RV window, drift threshold, LP range, and cooldown on the updated codebase (~12 runs) — observed best config at 0.20/0.60/rv=36h/drift=30% with +$12.8k Net PnL and 13.6% max DD. Ran an out-of-sample validation on Jun–Nov and observed +$11.8k, confirming the config generalizes beyond the training period.
+
 2026-03-08 Sun:  Implemented SMA-based trend filter for goldilocks_lp and tested at three thresholds (3%, 5%, 8%) — observed all three underperformed the no-filter baseline so shelved the approach. Also pulled latest code from main, resolved merge conflicts, and fixed a config override bug.
 
 2026-03-07 Sat: Ran drift exit sweep at 50%/30%/20% and stacking tests with pnl_stop and fee_il — observed drift=30% doubles Net PnL to +$13.4k with 14% max DD, and the other two features have zero additional effect. Also built a leaderboard of all personal historical goldilocks_lp runs and established a clean baseline on goldilocks_steady_lp.
