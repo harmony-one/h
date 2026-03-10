@@ -1,3 +1,7 @@
+2026-03-06 Fri: Good news everyone! Ulad and I successfully achieved 60 blocks per minute on localnet and reproduced the same results on devnet. This is a significant milestone toward achieving 1-second finality. Current deviations are around 1.5%, which is a promising result. Next week we plan to test the system’s fault tolerance.
+
+---
+
 2026-02-28 Fri: This week I helped Ulad with the upcoming release and reviewed several pull requests. Additionally, I continued working on visualization of the 1-second block interval graph. However, this task is complicated by the fact that Grafana does not support intervals smaller than one second, while the analysis requires sub-second resolution.
 
 ---
