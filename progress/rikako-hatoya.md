@@ -1,3 +1,7 @@
+2026-03-08 Sun:  Implemented SMA-based trend filter for goldilocks_lp and tested at three thresholds (3%, 5%, 8%) — observed all three underperformed the no-filter baseline so shelved the approach. Also pulled latest code from main, resolved merge conflicts, and fixed a config override bug.
+
+2026-03-07 Sat: Ran drift exit sweep at 50%/30%/20% and stacking tests with pnl_stop and fee_il — observed drift=30% doubles Net PnL to +$13.4k with 14% max DD, and the other two features have zero additional effect. Also built a leaderboard of all personal historical goldilocks_lp runs and established a clean baseline on goldilocks_steady_lp.
+
 2026-03-06 Fri: Added new iteration of goldilocks_lp ([goldilocks_steady_lp](https://github.com/polymorpher/lp-hedger/tree/main/src/lp_hedger/strategies/goldilocks_lp/steady)). Tested more iterations of this by adding a simple moving average based trend filter that blocks LP deployment when BTC price is too far from its recent average with different thresholds as well as tested effect of keeping LP deployed during low-volatility periods (vs. withdrawing).
 
 2026-03-05 Thu: Implemented and tested new strategies working off of existing goldilocks_lp implementation as well as parameter sweep. Many of the new LP-only strategies seem to be doing worse in IL if implemented without hedging. 
