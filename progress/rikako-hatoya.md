@@ -1,3 +1,5 @@
+2026-03-10 Tue: In-team sync with Aaron and Li, edited meeting notes. Updated PRs with unresolved conflicts for [lp-hedger/copy-trade](https://github.com/polymorpher/lp-hedger/pull/4) and [lp-backtest/top-wallets](https://github.com/polymorpher/lp-backtest/pull/1), conducted performance reporting for strategies tested with [goldilocks-steady-lp](https://github.com/polymorpher/lp-hedger/tree/main/src/lp_hedger/strategies/goldilocks_lp/steady) over Fri-Mon, look into live performance bot.
+
 2026-03-09 Mon: Swept entry/exit percentiles, RV window, drift threshold, LP range, and cooldown on the updated codebase (~12 runs) — observed best config at 0.20/0.60/rv=36h/drift=30% with +$12.8k Net PnL and 13.6% max DD. Ran an out-of-sample validation on Jun–Nov and observed +$11.8k, confirming the config generalizes beyond the training period.
 
 ---
