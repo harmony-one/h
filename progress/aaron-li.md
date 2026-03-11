@@ -1,4 +1,4 @@
-2026-3-10 Tue (2.8h): Discussion. Debugging production errors.
+2026-3-10 Tue (2.8h+): Debugging production errors. Discussion on cloud backtesting system and scaling, production metrics and monitoring, strategy optimization and selection, math gaps between production and backtest and experiments to evaluate the gap.
 
 2026-3-9 Mon (3.6h): Debugging production errors.
 
