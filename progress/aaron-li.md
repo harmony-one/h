@@ -1,12 +1,12 @@
-2026-3-11 Wed (2.5h+): Fix issues with performance metric reporting. Review copy-trade changes.
+2026-3-11 Wed (3.0h): Refactored performance tracker into a reusable mixin integrated across all strategies. Added return and CAGR calculations to performance CLI, built read-only Aerodrome RPC utility. Review copy-trade changes.
 
-2026-3-10 Tue (6.9h): Debugging production errors. Discussion on cloud backtesting system and scaling, production metrics and monitoring, strategy optimization and selection, math gaps between production and backtest and experiments to evaluate the gap.
+2026-3-10 Tue (6.9h): Built performance summary CLI for historical PnL computation and wired results to Telegram. Rewrote Aerodrome principal PnL calculation, added liquidity column for accurate partial withdrawal tracking. Added engine state persistence table, enabled periodic notifications, and fixed live tracker bugs.. Discussion on cloud backtesting system and scaling, production metrics and monitoring, strategy optimization and selection, math gaps between production and backtest and experiments to evaluate the gap.
 
-2026-3-9 Mon (3.6h): Debugging production errors.
+2026-3-9 Mon (3.6h): Extended DB schema with spread cost tracking, position lifecycle, and engine commands tables. Built periodic performance reporter with time-weighted utilization tracking and on-demand report CLI. Added sync utilities (Basescan client, RPC log fetcher) and adopted position soft-close across all monitors.
 
 ---
 
-2026-3-8 Sun (3.7h): Debugging production errors.
+2026-3-8 Sun (3.7h): Added session ID tracking across notifications and logs for production traceability. Overhauled log management script for reliable log rotation. Fixed staleness detection, patched error decoder and balance checker, documented production changes.
 
 2026-3-7 Sat (10.9h): Debugging production errors. Preparation and deployment to production.
 
