@@ -1,3 +1,9 @@
+2026-03-09 Mon: Observed the live lp-heger service stats and tracking its performance. Running backtests over the same date ranges as the live service to compare results and validate strategy behavior. Conducting parameter searches to identify the best configuration for the goldilocks steady strategy.
+
+---
+
+2026-03-06 Fri: Wrote a test that runs the goldilocks steady strategy with several presets derived from earlier sweeps, mainly varying entry/exit percentiles (around 0.20/0.60), the RV window (36h), and the drift exit threshold (20–30%). Other features such as trend filters, pnl_stop, and fee_il were disabled since previous tests showed no improvement. The test runs month-by-month to compare performance across different market periods.
+
 2026-03-05 Thu: Added a script to generate parameter presets for each of the four top strategies. Currently running 48 sessions to collect parameter performance statistics. After the backtest server update and LP hedge update, strategy execution time increased to ~1 hour. Investigating and working on a fix.
 
 2026-03-04 Wed: Implemented a script that automatically runs the top strategies monthly and generates a report with PnL, APR, and execution time. Current results show ~1–2% APR, despite positive PnL each month. The current top-performing strategy is Goldilocks LP.
