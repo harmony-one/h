@@ -1,3 +1,5 @@
+2026-03-12 Thu: Revision/fixing of comments made in [lp-hedger](https://github.com/polymorpher/lp-hedger/pull/5) and [lp-backtest](https://github.com/polymorpher/lp-backtest/pull/1). Additionally, modify lp-hedger based on update in lp-backtest, resolve conflicts with main.
+
 2026-03-11 Wed: Revision and resolving of mix-up with copy-trade branch PR, revision of code after Aaron's comments. Look into RV calculation.
 
 2026-03-10 Tue: In-team sync with Aaron and Li, edited meeting notes. Updated PRs with unresolved conflicts for [lp-hedger/copy-trade](https://github.com/polymorpher/lp-hedger/pull/4) and [lp-backtest/top-wallets](https://github.com/polymorpher/lp-backtest/pull/1), conducted performance reporting for strategies tested with [goldilocks-steady-lp](https://github.com/polymorpher/lp-hedger/tree/main/src/lp_hedger/strategies/goldilocks_lp/steady) over Fri-Mon, look into live performance bot.
