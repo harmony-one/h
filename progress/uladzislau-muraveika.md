@@ -1,3 +1,17 @@
+2026-03-13 Fri:
+
+Main focus on this week were 2 PRs testing.
+
+The first one was [PR-4937](https://github.com/harmony-one/harmony/pull/4937), I've deployed updated binaries, observed peer discovery during startup and added log visualizations for peer discovery initialization and “sufficient peers found” events to better track the startup phase. Results show noticeably faster sync startup, with nodes reaching full sync in ~10–15 minutes at maximum.
+
+Also deployed and validated [PR-5016](https://github.com/harmony-one/harmony/pull/5016), monitored validator logs and consensus rounds to confirm stable block production after the timing change - all 60 blocks were produced and validated, but only in the logs. In fact, external validators, especially far away geographically from the current leader was signing only 12-15% of the blocks and were kicked off from the committee. This was only in the shard 0 was affected, when the shard 1 nodes were good generally.
+
+Additionally, from the systems engineering side, I've updated Watchdog and Ansible version checks to support `-dev` builds so development binaries are properly detected by automation.
+
+And finally, I've handled routine operational work during the week: on-call support, network and application updates, reviewing potential cloud cost improvements, migrating newreleases.io monitoring to the organization account.
+
+---
+
 2026-03-06 Fri:
 
 Main focus was the [new release](https://github.com/harmony-one/harmony/releases/tag/v2026.0.0), I've installed in on the all internal nodes and shared with the community. Right now 23% of comm
