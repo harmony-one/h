@@ -1,4 +1,4 @@
-2026-3-12 Thu (2.4h+): Scale up backtesting with cloud deployment. Auto swap functionality.
+2026-3-12 Thu (2.5h): Scale up backtesting with cloud deployment. Auto swap functionality.
 
 2026-3-11 Wed (9.4h): Review copy trading implementation and revisions, and top-wallet script. Fix bugs in performance reporting. Auto-adjust deployment asset size. Implement auto-swap and swap constraints. Refactored performance tracker into a reusable mixin integrated across all strategies. Added return and CAGR calculations to performance CLI, built read-only Aerodrome RPC utility. Review copy-trade changes.
 
