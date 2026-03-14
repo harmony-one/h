@@ -1,3 +1,11 @@
+
+2026-03-12 Thu: Investigated backtest issues and resolved freezes occurring during the closing of micro-positions by adding handling for floating-point dust. This prevents the closing loop from triggering false timeouts when the hedge is already effectively closed. Currently debugging and analyzing the causes of lower PnL compared to the original strategy.
+
+2026-03-11 Wed: Implemented a draft version lp_with_hedge strategy as an extension of goldilocks_steady_lp. The steady LP entry/exit logic was preserved, while adding an automatic delta-hedge via Hyperliquid perpetuals when the position moves outside the configured delta_band. In parallel, added configuration and strategy registration for both live trading and backtesting, restored the missing hedge logic, and separated the final performance statistics into two components: LP fee income and hedge PnL (both components are still included in the overall PnL/APR).
+
+
+2026-03-10 Tue: Discussed new goals with the team: developing an LP strategy with an integrated hedge. Conducted research on the current hedging approach used in the latest versions of the strategy.
+
 2026-03-09 Mon: Observed the live lp-heger service stats and tracking its performance. Running backtests over the same date ranges as the live service to compare results and validate strategy behavior. Conducting parameter searches to identify the best configuration for the goldilocks steady strategy.
 
 ---
