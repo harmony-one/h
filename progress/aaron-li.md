@@ -1,3 +1,5 @@
+2026-3-15 Sun (0.5h+): Scale up backtesting with cloud deployment. Auto swap functionality.
+
 2026-3-14 Sat (5.4h): Scale up backtesting with cloud deployment. Auto swap functionality.
 
 2026-3-13 Fri (3.6h): Domain management. Review copy-trade revisions. Scale up backtesting with cloud deployment. Auto swap functionality.
