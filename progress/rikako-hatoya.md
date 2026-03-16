@@ -1,3 +1,9 @@
+---
+
+2026-03-15 Sun: Look into changes from batch-backtesting system and auto-swap. Started looking into lp_with_hedge strategy.
+
+2026-03-14 Sat: Work on deferred tasks on lp-hedger from PR (needs new PR due to bigger change). Also revisiting of `goldilocks_steady_lp` strategy.
+
 2026-03-13 Fri: Updated both PRs for lp-hedger & lp-backtest, and sample copy-trade backtest runs. Revisiting deferred tasks (due to more complex revision) from Aaron's comments. 
 
 2026-03-12 Thu: Revision/fixing of comments made in [lp-hedger](https://github.com/polymorpher/lp-hedger/pull/5) and [lp-backtest](https://github.com/polymorpher/lp-backtest/pull/1). Additionally, modify lp-hedger based on update in lp-backtest, resolve conflicts with main.
