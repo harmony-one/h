@@ -1,4 +1,4 @@
-2026-3-15 Sun (4.6h+): Scale up backtesting with cloud deployment. Auto swap functionality.
+2026-3-15 Sun (5.6h+): Scale up backtesting with cloud deployment. Auto swap functionality.
 
 2026-3-14 Sat (5.4h): Scale up backtesting with cloud deployment. Auto swap functionality.
 
