@@ -1,4 +1,4 @@
-2026-3-17 Tue (0.2h): Review and revise code for scale up backtesting with cloud deployment.
+2026-3-17 Tue (0.4h): Review copy trade and step hedge code. Review and revise code for scale up backtesting with cloud deployment.
 
 2026-3-16 Mon (6.2h): Review and revise code for scale up backtesting with cloud deployment. Review copy trade and step hedge code.
 
