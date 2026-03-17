@@ -1,3 +1,4 @@
+2026-03-16 Mon: Read through Aaron's new [PR comments](https://github.com/polymorpher/lp-hedger/pull/5). Fixing of remaining issues and working on deferred to-do's.
 
 ---
 
