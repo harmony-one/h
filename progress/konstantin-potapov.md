@@ -1,3 +1,7 @@
+2026-03-13 Fri: This week i fixed bug with RPC requests, tested it with Ulad and deployed the fix to mainnet. Also created additional environment with less count of internal validators for devnet.  
+
+---
+
 2026-03-06 Fri: Good news everyone! Ulad and I successfully achieved 60 blocks per minute on localnet and reproduced the same results on devnet. This is a significant milestone toward achieving 1-second finality. Current deviations are around 1.5%, which is a promising result. Next week we plan to test the system’s fault tolerance.
 
 ---
