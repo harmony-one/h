@@ -1,4 +1,4 @@
-2026-3-18 Wed (9.3h+): Check data integrity and fix missing data. Review and revise code for scale up backtesting with cloud deployment.
+2026-3-18 Wed (9.3h): Check data integrity and fix missing data. Review and revise code for scale up backtesting with cloud deployment.
 
 2026-3-17 Tue (2.2h): Discussion on multisig trading deployment, strategy optimization, leaderboard, batch testing. Review copy trade and step hedge code. Review and revise code for scale up backtesting with cloud deployment.
 
