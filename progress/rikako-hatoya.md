@@ -1,3 +1,5 @@
+2026-03-18 Wed: [Updated](https://github.com/polymorpher/lp-hedger/pull/5/changes/a65939f8a87d79bf938b67ebeacc95a72b1c9e18) with new bug fixes to liquidity calculation. Testing with backtests, manual comparison of target vs. copy.
+
 2026-03-17 Tue: In-person team sync with Aaron and Li. Pushed all changes to newest comments to [top-wallets](https://github.com/polymorpher/lp-backtest/pull/1) and [copy-trading](https://github.com/polymorpher/lp-hedger/pull/5).
 
 2026-03-16 Mon: Read through Aaron's new [PR comments](https://github.com/polymorpher/lp-hedger/pull/5). Fixing of remaining issues and working on deferred to-do's.
