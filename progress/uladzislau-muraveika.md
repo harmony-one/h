@@ -1,3 +1,15 @@
+2026-03-20 Fri:
+
+This week main focus was to do knowledge transfer session, grant access and plan the work of @dzmitrykliapkou during my vacation.
+
+From the on-call activities, I want to highlight the following items, hotfix was deployed on the archival for the `trace_block` RPC request. We still have the issue with some internal transactions via `debug_traceTransaction` RPC method with `"tracer": "callTracer"` used inside, @frozen is working in the fix.
+
+Additionally, users reported us interesting regarding a block timestamp glitch on mainnet, the new leader during normal leader change has produced block 1 second earlier than the old leader produced its last block according to the NTP on both server. I've collected all the info from all possible sources - RPC requests, metrics and logs, checked that in fact blocks applied in the right order. I've shared all my findings with reported users and with the development team and @GheisMohammadi already started to work on the fix - [PR-5020](https://github.com/harmony-one/harmony/pull/5020)
+
+And finally, actualized users on our devops/jumphost infra and add possibility to deploy local version directly from our devops/jumphost server instead of downloading it each time from the bucket.
+
+---
+
 2026-03-13 Fri:
 
 Main focus on this week were 2 PRs testing.
