@@ -5,7 +5,7 @@
 
 2026-03-17 Tue: Continued tuning the goldilocks_with_hedge strategy parameters. Experimented with different delta_band_entry_mult / delta_band_target_mult ratios and lp_base_ema_alpha values to reduce unnecessary re-hedging while maintaining hedge accuracy. Ran backtests across multiple monthly periods to compare hedge PnL contribution. Investigated cases where hedge adjustments were being triggered by noise in LP base amount readings — the EMA smoothing helps, but alpha sensitivity needs further calibration.
 
-2026-03-17 Mon: Added an option to use passive limit orders instead of market orders for hedge trades on Hyperliquid, aiming to reduce slippage costs. Implemented config fields (lwh_use_limit_order, lwh_limit_order_timeout_seconds) with TOML/env support. Backtest comparison showed a small improvement in hedge PnL with limit orders on liquid pairs.
+2026-03-16 Mon: Added an option to use passive limit orders instead of market orders for hedge trades on Hyperliquid, aiming to reduce slippage costs. Implemented config fields (lwh_use_limit_order, lwh_limit_order_timeout_seconds) with TOML/env support. Backtest comparison showed a small improvement in hedge PnL with limit orders on liquid pairs.
 
 ---
 
