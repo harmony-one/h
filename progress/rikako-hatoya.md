@@ -1,3 +1,7 @@
+2026-03-20 Fri: Working on running of longer duration backtesting in parallel on local, seems to crash even with just 5 ports.
+
+2026-03-19 Thu: Ran backtest for copy-trade, actions were replicated correctly but noticed return metrics looked off. Looked into and implemented changes/pushed [PR](https://github.com/polymorpher/lp-hedger/pull/7) in return metrics used for both backtesting and live deploy. 
+
 2026-03-18 Wed: [Updated](https://github.com/polymorpher/lp-hedger/pull/5/changes/a65939f8a87d79bf938b67ebeacc95a72b1c9e18) with new bug fixes to liquidity calculation. Testing with backtests, manual comparison of target vs. copy.
 
 2026-03-17 Tue: In-person team sync with Aaron and Li. Pushed all changes to newest comments to [top-wallets](https://github.com/polymorpher/lp-backtest/pull/1) and [copy-trading](https://github.com/polymorpher/lp-hedger/pull/5).
