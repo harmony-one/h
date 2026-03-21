@@ -1,8 +1,19 @@
 
+2026-03-19 Thu: Fixed code review comments from Aaron on the hedge strategy — cleaned up adjustment logic and logging in check_and_correct_hedges. Pusged final version for hedge strategy. Continued Leaderboard work. Added filtering to exclude incomplete/cancelled runs from comparison.
+
+2026-03-18 Wed: Started designing the Leaderboard feature for backtesting results comparison. Researched approaches for strategy versioning — hashing algorithm configs to identify unique strategy versions and enable comparable runs across team members. Drafted initial schema for organizing backtest runs into named session folders with metadata (date range, strategy hash, completion status).
+
+2026-03-17 Tue: Continued tuning the goldilocks_with_hedge strategy parameters. Experimented with different delta_band_entry_mult / delta_band_target_mult ratios and lp_base_ema_alpha values to reduce unnecessary re-hedging while maintaining hedge accuracy. Ran backtests across multiple monthly periods to compare hedge PnL contribution. Investigated cases where hedge adjustments were being triggered by noise in LP base amount readings — the EMA smoothing helps, but alpha sensitivity needs further calibration.
+
+2026-03-17 Mon: Added an option to use passive limit orders instead of market orders for hedge trades on Hyperliquid, aiming to reduce slippage costs. Implemented config fields (lwh_use_limit_order, lwh_limit_order_timeout_seconds) with TOML/env support. Backtest comparison showed a small improvement in hedge PnL with limit orders on liquid pairs.
+
+---
+
+2026-03-13 Fri: Fixed backtest freezes that occurred when closing very small residual hedge positions (floating-point dust). Applied the near-zero size check (_position_size_is_effectively_zero) consistently across all position closure code, not just the wait loop. Added notifications for successful close trades.
+
 2026-03-12 Thu: Investigated backtest issues and resolved freezes occurring during the closing of micro-positions by adding handling for floating-point dust. This prevents the closing loop from triggering false timeouts when the hedge is already effectively closed. Currently debugging and analyzing the causes of lower PnL compared to the original strategy.
 
 2026-03-11 Wed: Implemented a draft version lp_with_hedge strategy as an extension of goldilocks_steady_lp. The steady LP entry/exit logic was preserved, while adding an automatic delta-hedge via Hyperliquid perpetuals when the position moves outside the configured delta_band. In parallel, added configuration and strategy registration for both live trading and backtesting, restored the missing hedge logic, and separated the final performance statistics into two components: LP fee income and hedge PnL (both components are still included in the overall PnL/APR).
-
 
 2026-03-10 Tue: Discussed new goals with the team: developing an LP strategy with an integrated hedge. Conducted research on the current hedging approach used in the latest versions of the strategy.
 
