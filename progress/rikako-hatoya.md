@@ -1,3 +1,5 @@
+2026-03-21 Sat: Further backtesting.
+
 2026-03-20 Fri: Working on running of longer duration backtesting in parallel on local, seems to crash even with just 5 ports.
 
 2026-03-19 Thu: Ran backtest for copy-trade, actions were replicated correctly but noticed return metrics looked off. Looked into and implemented changes/pushed [PR](https://github.com/polymorpher/lp-hedger/pull/7) in return metrics used for both backtesting and live deploy. 
