@@ -1,4 +1,6 @@
-2026-03-21 Sat: Further backtesting.
+2026-03-22 Sun: Ran more backtest. Started looking into RV calculation.
+
+2026-03-21 Sat: Further backtesting, without parallelization to avoid crashing. 
 
 2026-03-20 Fri: Working on running of longer duration backtesting in parallel on local, seems to crash even with just 5 ports.
 
