@@ -1,3 +1,5 @@
+2026-03-23 Mon: Looked into memory issue with running backtests, pushed PR. Planning of RV calculation fix.
+
 2026-03-22 Sun: Ran more backtest. Started looking into RV calculation.
 
 2026-03-21 Sat: Further backtesting, without parallelization to avoid crashing. 
