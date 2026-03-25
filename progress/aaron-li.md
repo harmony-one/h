@@ -1,4 +1,4 @@
-2026-3-25 Wed (1.8h+): Review and revise leaderboard. Domain management.
+2026-3-25 Wed (2.8h+): Review and revise leaderboard. Domain management.
 
 2026-3-24 Tue (8.7h): Review pull requests on return metrics, memory leak issue. Discussion on leaderboard, copy-trade performance, batch backtesting system, analysis, bug fixes on risk and return metrics.
 
