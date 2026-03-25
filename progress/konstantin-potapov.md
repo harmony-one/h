@@ -1,3 +1,7 @@
+2026-03-13 Fri: This week i fixed another RPC requests issue related to call tracer. In previous harmony version the call tracer was implemented as a javascript module, but in the updated version it was replaced by native implementation. For some reason, the new implementation fails on special requests, but there is no chance to compare implementations, so i implemented new version based on javascript module. It passed tests, so i expect it will pass mainnet testing as well. Additionally i approved several pull requests.    
+
+---
+
 2026-03-13 Fri: This week i fixed bug with RPC requests, tested it with Ulad and deployed the fix to mainnet. Also created additional environment with less count of internal validators for devnet.  
 
 ---
