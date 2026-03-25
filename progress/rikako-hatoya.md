@@ -1,4 +1,8 @@
+2026-03-24 Tue: In-person team sync with Aaron and Li, summarized and revised meeting notes. Set-up for new batch testing framework, revisiting of top-wallets script to incorporte to leaderboard.
+
 2026-03-23 Mon: Looked into memory issue with running backtests, pushed PR. Planning of RV calculation fix.
+
+---
 
 2026-03-22 Sun: Ran more backtest. Started looking into RV calculation.
 
