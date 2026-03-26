@@ -1,3 +1,5 @@
+2026-3-26 Thu (0.2h+): Review batch backtest errors.
+
 2026-3-25 Wed (4.5h): Ensure batch backtest be able to checkout any commit or release, including side branches. Resolve port conflict. Fix bug related to local testing. Release configuration. Review and revise leaderboard. Domain management.
 
 2026-3-24 Tue (8.7h): Review pull requests on return metrics, memory leak issue. Discussion on leaderboard, copy-trade performance, batch backtesting system, analysis, bug fixes on risk and return metrics.
