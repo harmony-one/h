@@ -1,3 +1,5 @@
+2026-3-27 Fri (0.9h+): Fix batch backtest errors.
+
 2026-3-26 Thu (7.3h): Review and iterate Zodiac related code. Revise strategies and run batch backtests. Implementation for trading via Zodiac, and permission setup scripts. Fix an issue that reporting and notification fail to capture swap fees and slippage cost. Review batch backtest errors. Review goldilocks with hedge improvements.
 
 2026-3-25 Wed (4.5h): Ensure batch backtest be able to checkout any commit or release, including side branches. Resolve port conflict. Fix bug related to local testing. Release configuration. Review and revise leaderboard. Domain management.
