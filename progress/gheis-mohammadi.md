@@ -1,3 +1,15 @@
+2026-03-28 Sat: Last week was very productive. While waiting for the team to review my previous PRs, I focused on improving RPC reliability and optimizing consensus performance. The work targeted reducing contention in critical paths, fixing server lifecycle issues, and making rate-limiting behavior more consistent and secure.
+
+On the consensus side, [PR #5023](https://github.com/harmony-one/harmony/pull/5023) reduces lock contention by switching read-only decider operations to `RLock()` while keeping write operations on `Lock()`. This improves throughput under concurrent consensus activity without changing any public interfaces.
+
+For RPC infrastructure, [PR #5024](https://github.com/harmony-one/harmony/pull/5024) fixes an issue where public and auth servers shared global variables, preventing proper shutdown. The change separates their handlers and ensures both can be cleanly stopped. It also optimizes method filtering by compiling regex patterns once instead of per request.
+
+In [PR #5025](https://github.com/harmony-one/harmony/pull/5025), RPC rate limiting is made more consistent by only initializing limiters when explicitly enabled and correctly configured. It also ensures that temporary limiters respect the global enable flag, avoiding unintended throttling.
+
+Finally, [PR #5026](https://github.com/harmony-one/harmony/pull/5026) extends rate limiting to auth-only tracer and debug endpoints, which were previously unprotected. This aligns them with existing RPC protections and improves overall resilience against abuse.
+
+---
+
 2026-03-21 Sat: Last week we received community reports regarding a block timestamp glitch on mainnet. While this behavior is technically allowed and the protocol does not strictly guarantee timestamp correctness, I addressed the concern by implementing additional validation in [PR #5020](https://github.com/harmony-one/harmony/pull/5020). This change introduces timestamp checks during block header verification, enforcing that a child block’s timestamp must be strictly greater than its parent and must not exceed the local node’s wall clock time by more than a configured tolerance of 15 seconds. The design also accounts for long gaps in block production, as it does not impose a maximum delta between parent and child timestamps, preserving recovery behavior after interruptions.
 
 In parallel, I worked on improving node resilience in scenarios where infrastructure instability affects peer connectivity. Following recent devnet issues caused by a server provider outage, nodes were observed to get stuck due to insufficient stream availability. To address this, I completed [PR #5011](https://github.com/harmony-one/harmony/pull/5011), which introduces a watchdog-triggered recovery mechanism in the stream manager. When the number of active streams remains below the required threshold for an extended period, the watchdog safely resets discovery and runtime state while preserving existing active streams. This allows the node to recover connectivity without resetting sync progress, providing a more robust and self-healing behavior under adverse network conditions.
