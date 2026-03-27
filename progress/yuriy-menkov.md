@@ -1,3 +1,14 @@
+2026-03-26 Thu: Tuned goldilocks_with_hedge strategy and ran batch backtest - 3-month period Sep 1 – Dec 1, 2025. Results: +17.44% portfolio return while BTC dropped 16.5%, Sharpe 1.56, Sortino 5.31, max drawdown 12.39%. Hedge was the critical component — turned a probable. Identified next improvements: hedge_ratio to 1.0 to reduce residual delta from 0.246 to ~0.10, LP regime hysteresis (2-4h stay-out), cold-start guard to eliminate day-1 churn.
+
+2026-03-25 Wed: Leaderboard refinements (grouping edge cases, CLI help). Main focus: worked through the batch backtesting workflow following the onboarding guide (docs/batch-backtest-guide.md) -- set up GCP environment, ran local and cloud backtests, tested parameter sweeps, LLM analysis integration, and code version pinning. 
+
+2026-03-24 Tue: Finished Leaderboard implementation. Built Click-based CLI with 6 subcommands: add, list, remove, versions, html (static HTML dashboard with sortable columns, dark/light mode, group switching), benchmark (multi-strategy sequential orchestrator). Added --local mode for offline work without GCS. Registered entry point in pyproject.toml. Backward-compatible with old status CSVs.
+
+2026-03-23 Mon: Continued Leaderboard implementation. Built GCS persistence layer for read/write entries, session discovery, and status CSV download. Implemented grouping logic — runs grouped by (start_date, end_date, target_asset) within a version, with ranking and consistency validation. Added get_release_version() to utils/version.py for git-tag-based versioning. Extended bt_output.py with 6 new metadata fields.
+
+---
+
+2026-03-20 Fri: Fixed items from Aaron's code review on goldilocks_with_hedge. Fixed 8 items: engine inheritance chain, race condition via MonitorsMixin, hedge cooldown, retry in _close_hyperliquid_positions, user_state pass-through, risk tracker labels. Deferred 12 inline items (legacy naming, config overrides duplication, BT/live signature mismatc).
 
 2026-03-19 Thu: Fixed code review comments from Aaron on the hedge strategy — cleaned up adjustment logic and logging in check_and_correct_hedges. Pusged final version for hedge strategy. Continued Leaderboard work. Added filtering to exclude incomplete/cancelled runs from comparison.
 
