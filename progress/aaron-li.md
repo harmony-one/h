@@ -1,4 +1,4 @@
-2026-3-28 Sat (0.5h+): Revise strategies and run batch backtests.
+2026-3-28 Sat (1.5h+): Revise strategies and run batch backtests. Setup Zodiac and test multisig.
 
 2026-3-27 Fri (4.9h): Revise strategies and run batch backtests. Fix batch backtest errors.
 
