@@ -1,10 +1,12 @@
+2026-03-27 Fri: Investigated why realized volatility (RV) behaves differently in live trading versus backtests, found that irregular/clumped price updates make RV run too hot, and added a dt filter to reduce that noise.Fixed related Goldilocks trend-strategy bugs, ran experiments to quantify the issue, documented the conclusions plus recommended filter settings, and pushed [PR here](https://github.com/polymorpher/lp-hedger/pull/11).
+
 2026-03-26 Thu: Continued debugging with GCP batch-testing setup as well as local backtesting. Started initializing plan for RV calculation fix.
 
 2026-03-25 Wed: Familiarizing with batch backtesting system. Debugging with setup configuration with GCP.
 
 2026-03-24 Tue: In-person team sync with Aaron and Li, summarized and revised meeting notes. Set-up for new batch testing framework, revisiting of top-wallets script to incorporte to leaderboard.
 
-2026-03-23 Mon: Looked into memory issue with running backtests, pushed PR. Planning of RV calculation fix.
+2026-03-23 Mon: Looked into memory issue with running backtests, pushed [PR](https://github.com/polymorpher/lp-hedger/pull/8). Planning of RV calculation fix.
 
 ---
 
