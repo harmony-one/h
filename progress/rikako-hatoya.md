@@ -1,3 +1,5 @@
+2026-03-26 Thu: Continued debugging with GCP batch-testing setup as well as local backtesting. Started initializing plan for RV calculation fix.
+
 2026-03-25 Wed: Familiarizing with batch backtesting system. Debugging with setup configuration with GCP.
 
 2026-03-24 Tue: In-person team sync with Aaron and Li, summarized and revised meeting notes. Set-up for new batch testing framework, revisiting of top-wallets script to incorporte to leaderboard.
