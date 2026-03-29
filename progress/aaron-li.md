@@ -1,3 +1,5 @@
+2026-3-29 Sun (0.1h+): GCP instances management.
+
 2026-3-28 Sat (2.4h): Revise strategies and run batch backtests. Setup Zodiac and test multisig.
 
 2026-3-27 Fri (4.9h): Revise strategies and run batch backtests. Fix batch backtest errors.
