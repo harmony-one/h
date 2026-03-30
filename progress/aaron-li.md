@@ -1,4 +1,4 @@
-2026-3-29 Sun (2.6h): GCP instances management. End-to-end tests and bug fixes of Zodiac setup. GCP instances management.
+2026-3-29 Sun (2.8h): GCP instances management. End-to-end tests and bug fixes of Zodiac setup. GCP instances management.
 
 2026-3-28 Sat (2.4h): Revise strategies and run batch backtests. Setup Zodiac and test multisig.
 
