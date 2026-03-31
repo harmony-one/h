@@ -1,4 +1,4 @@
-2026-3-31 Tue (0.3h): Review security issues. Test revised hedge strategies.
+2026-3-31 Tue (1.3h): Discussion on multisig config, batch backtesting, fee estimation accuracy and data integrity. Review security issues. Test revised hedge strategies.
 
 2026-3-30 Mon (7.6h): Review security issues. Test revised hedge strategies. Debug production errors. Review volatility calculation analysis and recent batch backtesting results.
 
