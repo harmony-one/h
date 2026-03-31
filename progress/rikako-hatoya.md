@@ -1,3 +1,5 @@
+2026-03-30 Mon: Revision of RV calculation PR review. Modification of top wallets script.
+
 2026-03-29 Sun: Testing with strategies. Start looking into top-wallets revision to match metrics output.
 
 2026-03-28 Sat: GCP batch backtesting. Looked into OOM issue.
