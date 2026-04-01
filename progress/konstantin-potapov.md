@@ -1,3 +1,15 @@
+Most Important Contribution
+The primary contribution this quarter was achieving stable 60-blocks-per-minute performance on devnet, a significant milestone toward 1-second block finality, with timestamp deviation of approximately 1.5%.
+
+Q1 Summary
+During Q1, Ulad and I achieved 60 blocks per minute on localnet and reproduced the results on devnet. To support this work, I implemented utilities to collect and analyze block timestamps from mainnet and devnet, and investigated visualization approaches using Grafana and Prometheus.
+
+In parallel, I resolved multiple RPC issues. An incompatibility in the call tracer, introduced by the upstream native implementation, was resolved by replacing it with a JavaScript module-based implementation. Additional RPC fixes were tested with Ulad and deployed to mainnet.
+
+I also migrated the CI pipeline from Travis CI to GitHub Actions, reducing infrastructure costs while improving pipeline execution speed.
+
+
+
 2026-03-27 Fri: This week I created a PR migrating CI from Travis to GitHub Actions. It runs pipelines faster and is free, which should reduce costs. I have resolved the remaining RPC request issues, and we are almost ready for the new release launch.
 
 ---
