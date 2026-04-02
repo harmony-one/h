@@ -1,4 +1,6 @@
-2026-4-1 Wed (5.4h+): Review multisig permissions, leaderboard update, bug fixes.
+2026-4-2 Thu (0.1h): Review multisig permissions, leaderboard update, bug fixes.
+
+2026-4-1 Wed (6.2h): Review multisig permissions, leaderboard update, bug fixes.
 
 2026-3-31 Tue (1.3h): Discussion on multisig config, batch backtesting, fee estimation accuracy and data integrity. Review security issues. Test revised hedge strategies.
 
