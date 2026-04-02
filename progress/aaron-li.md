@@ -1,4 +1,4 @@
-2026-4-2 Thu (2.1h): Review multisig permissions, leaderboard update, bug fixes.
+2026-4-2 Thu (2.7h+): Review multisig permissions, leaderboard update, bug fixes. Domain management.
 
 2026-4-1 Wed (6.2h): Review multisig permissions, leaderboard update, bug fixes.
 
