@@ -1,14 +1,22 @@
 Most Important Contribution
-The primary contribution this quarter was achieving stable 60-blocks-per-minute performance on devnet, a significant milestone toward 1-second block finality, with timestamp deviation of approximately 1.5%.
+The primary contribution this quarter was unblocking the new release by resolving a series of hard-fork-level issues: invalid block production caused by incorrect precompile writes, a chain fork caused by an incorrect sender address in cross-shard transactions, and a cross-shard receipt generation failure. After the fixes, the node successfully participated in consensus and imported over 100k blocks.
 
 Q1 Summary
-During Q1, Ulad and I achieved 60 blocks per minute on localnet and reproduced the results on devnet. To support this work, I implemented utilities to collect and analyze block timestamps from mainnet and devnet, and investigated visualization approaches using Grafana and Prometheus.
-
-In parallel, I resolved multiple RPC issues. An incompatibility in the call tracer, introduced by the upstream native implementation, was resolved by replacing it with a JavaScript module-based implementation. Additional RPC fixes were tested with Ulad and deployed to mainnet.
-
-I also migrated the CI pipeline from Travis CI to GitHub Actions, reducing infrastructure costs while improving pipeline execution speed.
+During Q1, Ulad and I hit 60 blocks per minute on devnet with 1.5% timestamp deviation. The new release launched on mainnet with zero downtime and full backward compatibility. And I also migrated from Travis to GitHub Actions, cutting infrastructure costs.
 
 
+Ulad and I hit 60 blocks per minute on devnet with 1.5% timestamp deviation. To get there, I built tooling to analyze block timestamps across mainnet and devnet, and evaluated Grafana and Prometheus for sub-second visualization.
+
+The new release was launched on mainnet with zero downtime and full backward compatibility. Under the hood, this required resolving hard-fork-level issues: invalid block production caused by incorrect precompile writes, a chain fork from an incorrect sender address in cross-shard transactions, and a cross-shard receipt generation failure.
+
+CI was migrated from Travis to GitHub Actions, cutting infrastructure costs while speeding up pipelines.
+
+---
+
+
+2026-04-03 Fri: This week I implemented NTP-based time correction for block production. The node periodically queries NTP and stores the offset between local and network time. When creating or validating a block, the corrected timestamp is used to reject blocks with timestamps in the future. This improves time accuracy in consensus and helps prevent clock skew issues on nodes with misconfigured local time.
+
+---
 
 2026-03-27 Fri: This week I created a PR migrating CI from Travis to GitHub Actions. It runs pipelines faster and is free, which should reduce costs. I have resolved the remaining RPC request issues, and we are almost ready for the new release launch.
 
