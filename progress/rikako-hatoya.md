@@ -1,4 +1,8 @@
+2026-03-31 Tue: In-person team sync. Batch testing for copy-trade, [PR](https://github.com/polymorpher/lp-hedger/pull/13) for patches to batch testing pipeline, RV PR review.
+
 2026-03-30 Mon: Revision of RV calculation PR review. Modification of top wallets script.
+
+---
 
 2026-03-29 Sun: Testing with strategies. Start looking into top-wallets revision to match metrics output.
 
