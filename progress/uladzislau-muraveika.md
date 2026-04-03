@@ -1,3 +1,17 @@
+2026-04-03 Fri:
+
+During 3 days on this week my main focus was to provide all details for the interested parties about block creation timestamp glitch issue - collected affected blocks, worked with the Validators community to fix the ongoing issue, communicated it with all interested parties. Dev team had prepared [PR-5028](https://github.com/harmony-one/harmony/pull/5028) and [PR-5020](https://github.com/harmony-one/harmony/pull/5020) and now we need to pick the date for the hardfork.
+
+Additionally, I've helped SAFE wallet team with re-indexing issue, they've reported problems with huge trace requests time to time so I've created 2 separate endpoints to debug this issue.
+
+As part of systems engineering activities I've created a fresh snapDB, checking it on the Harmony node rn and will share it with community afterwards. And finally, updated lighthouse, erigon, grafana, prometheus, loki, pyroscope to the latest versions.
+
+---
+
+2026-03-21 - 2026-03-31: PTO
+
+---
+
 2026-03-20 Fri:
 
 This week main focus was to do knowledge transfer session, grant access and plan the work of @dzmitrykliapkou during my vacation.
