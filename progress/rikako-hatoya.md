@@ -1,3 +1,7 @@
+2026-04-02 Thu: Started investigating data integrity. Looking into fee calculation.
+
+2026-04-01 Wed: Testing of RV calculation using real swap data from database. Pushed new commits to existing RV-calculation PR, addressing new feedback. 
+
 2026-03-31 Tue: In-person team sync. Batch testing for copy-trade, [PR](https://github.com/polymorpher/lp-hedger/pull/13) for patches to batch testing pipeline, RV PR review.
 
 2026-03-30 Mon: Revision of RV calculation PR review. Modification of top wallets script.
