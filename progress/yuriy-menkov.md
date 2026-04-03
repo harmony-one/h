@@ -1,3 +1,15 @@
+2026-04-02 Thu: Ran out-of-sample validation of best goldilocks_with_hedge config on a severe bear period (Nov 2025 – Feb 2026, BTC −28.2%) using the v3 codebase. This validates the locked params (hedge_ratio=0.95, ema=0.10, wallet_hedge=0.75, trend_filter=down_only) on a different market window to confirm robustness after the v3 hedge-engine changes shipped yesterday.
+
+2026-04-01 Wed: Released goldilocks_with_hedge_v3. Four new features: directional trend filter, cumulative LP drift tracking, regime-dependent rehedge cooldown, and regime-dependent hedge ratio. Tightened delta_band defaults based on sweep results. Added 15+ unit tests.
+
+2026-03-31 Tue: Completed hedge optimization cycle. Best config validated on two 3-month periods: +30.3% and +20.2% portfolio returns (BTC −5.2% and −28.2%), +33–35% alpha vs buy-and-hold, NAV never below starting level. Key insight from hedge contribution analysis: 80% of realized PnL came from the perp hedge, not LP — the hedge exhibits convex payoff, turning from a modest bonus in mild downturns into the sole profit source in crashes. Identified delta drift (fixed hedge covered only 53% of exposure in crash) as the top priority to fix next.
+
+2026-03-30 Mon: Ran first parameter sweep for goldilocks_with_hedge — 16 combinations across 4 variables. Identified winning setup: hedge_ratio=0.95, ema=0.10, cum_drift=OFF. Key finding: cumulative drift increased costs 3–4x without improving returns. Improved leaderboard sync pipeline with persistent skip-list for failed/interrupted sessions in GCS and --reset-skipped CLI flag, making batch sync recovery more reliable.
+
+---
+
+2026-03-27 Sun: Built leaderboard batch UI and sync infrastructure. Implemented sync CLI command for automated GCS session discovery with version grouping and batch save. Created Cloud Function HTTP entry point (regenerate_html) for server-side auto-refresh. Added auto-refresh HTML dashboard with meta-refresh and JS countdown timer. Wrote 9 tests covering HTML rendering and sync logic. This completed the core infrastructure for continuously updated leaderboard reporting.
+
 2026-03-26 Thu: Tuned goldilocks_with_hedge strategy and ran batch backtest - 3-month period Sep 1 – Dec 1, 2025. Results: +17.44% portfolio return while BTC dropped 16.5%, Sharpe 1.56, Sortino 5.31, max drawdown 12.39%. Hedge was the critical component — turned a probable. Identified next improvements: hedge_ratio to 1.0 to reduce residual delta from 0.246 to ~0.10, LP regime hysteresis (2-4h stay-out), cold-start guard to eliminate day-1 churn.
 
 2026-03-25 Wed: Leaderboard refinements (grouping edge cases, CLI help). Main focus: worked through the batch backtesting workflow following the onboarding guide (docs/batch-backtest-guide.md) -- set up GCP environment, ran local and cloud backtests, tested parameter sweeps, LLM analysis integration, and code version pinning. 
