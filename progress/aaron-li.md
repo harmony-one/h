@@ -1,3 +1,5 @@
+2026-4-4 Sat (1.0h+): Transfer assets, test, and deploy multisig-based trading.
+
 2026-4-3 Fri (5.5h): Transfer assets, test, and deploy multisig-based trading. Review multisig permissions, leaderboard update, bug fixes.
 
 2026-4-2 Thu (7.3h): Review multisig permissions, leaderboard update, bug fixes. Domain management.
