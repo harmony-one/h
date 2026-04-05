@@ -1,22 +1,22 @@
-2026-4-4 Sat (6.1h+): Transfer assets, test, and deploy multisig-based trading.
+2026-4-4 Sat (6.1h+): Transfer assets and deploy multisig-based trading. Zodiac wallet address and reporting fixes. Telegram URL redaction. Engine command system for pause and position withdrawal. DB profile management.
 
-2026-4-3 Fri (5.5h): Transfer assets, test, and deploy multisig-based trading. Review multisig permissions, leaderboard update, bug fixes.
+2026-4-3 Fri (5.5h): Multisig trading deployment. Backtest performance optimizations and hedge safety cap. Batch orchestrator instance cleanup and crash resilience. Timestamp repair scripts for Aerodrome event data.
 
-2026-4-2 Thu (7.3h): Review multisig permissions, leaderboard update, bug fixes. Domain management.
+2026-4-2 Thu (7.3h): Retire AerodromePoolPrice in favor of swap-tick pricing across backtest server. Price consistency verification and timestamp repair planning. Deploy price hardening. Domain management.
 
-2026-4-1 Wed (6.2h): Review multisig permissions, leaderboard update, bug fixes.
+2026-4-1 Wed (6.2h): Batch orchestrator improvements: concurrent polling, retry hardening, GCS sync and compaction scripts. Fix naked hedge pricing and USDC-only sizing. Strategy parameter sweep specs.
 
-2026-3-31 Tue (1.3h): Discussion on multisig config, batch backtesting, fee estimation accuracy and data integrity. Review security issues. Test revised hedge strategies.
+2026-3-31 Tue (1.3h): Discussion on multisig config, batch backtesting, fee estimation accuracy and data integrity. VRP timestamp-aware realized volatility refactor. Goldilocks optimization experiment planning.
 
-2026-3-30 Mon (7.6h): Review security issues. Test revised hedge strategies. Debug production errors. Review volatility calculation analysis and recent batch backtesting results.
+2026-3-30 Mon (7.6h): Review security issues. Test revised hedge strategies. Debug production errors and fix backtest dashboard NAV baseline. Review volatility calculation analysis and batch backtesting results. Leaderboard review fixes.
 
 ---
 
-2026-3-29 Sun (2.8h): GCP instances management. End-to-end tests and bug fixes of Zodiac setup. GCP instances management.
+2026-3-29 Sun (2.8h): GCP instances management and batch instance wall-clock timeout. End-to-end tests and bug fixes of Zodiac setup. Zodiac config tool permission and multicall smoke tests.
 
-2026-3-28 Sat (2.4h): Revise strategies and run batch backtests. Setup Zodiac and test multisig.
+2026-3-28 Sat (2.4h): VRP bear-market resilience implementation with proper Black-Scholes delta and circuit breaker. Daily option trade cap for backtests. Zodiac SDK v3 upgrade.
 
-2026-3-27 Fri (4.9h): Revise strategies and run batch backtests. Fix batch backtest errors.
+2026-3-27 Fri (4.9h): Implement functional IV filter for goldilocks_plus_lp backtests. Fix GCS IAM and quota issues for batch runs. Swap notification denomination improvements.
 
 2026-3-26 Thu (7.3h): Review and iterate Zodiac related code. Revise strategies and run batch backtests. Implementation for trading via Zodiac, and permission setup scripts. Fix an issue that reporting and notification fail to capture swap fees and slippage cost. Review batch backtest errors. Review goldilocks with hedge improvements.
 
@@ -24,7 +24,7 @@
 
 2026-3-24 Tue (8.7h): Review pull requests on return metrics, memory leak issue. Discussion on leaderboard, copy-trade performance, batch backtesting system, analysis, bug fixes on risk and return metrics.
 
-2026-3-23 Mon (6.0h): Research on Polymarket opportunities and tools. [REDACTED - to be updated soon]. Security review and access control. GCP-based orchestration test.
+2026-3-23 Mon (6.0h): Research on Polymarket opportunities and tools. Batch backtest guide and per-dev GCP IAM isolation. Security review and access control. GCP-based orchestration test.
 
 ---
 
