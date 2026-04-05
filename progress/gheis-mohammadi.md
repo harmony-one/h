@@ -1,3 +1,11 @@
+2026-04-05 Sat: Last week focused on improving Ethereum compatibility in tracing and strengthening developer-facing tooling. In [PR #5031](https://github.com/harmony-one/harmony/pull/5031), I fixed legacy `structLog` JSON encoding issues to align with Ethereum standards. The `error` field is now truly optional and only included when present, preventing false error signals in tracers and indexers. Memory encoding was also corrected to always produce 32-byte, zero-padded, `0x`-prefixed hex values, ensuring compatibility with tools that expect Geth-like formatting. Additionally, storage and return data encoding were standardized using `0x`-prefixed hex, making debug outputs consistent with Ethereum APIs and eliminating the need for custom handling by downstream tools.
+
+In [PR #5032](https://github.com/harmony-one/harmony/pull/5032), I introduced a sentinel error (`ErrEventSignatureMismatch`) for event decoding. This allows applications to clearly distinguish between expected signature mismatches and real decoding errors when processing logs. The change improves reliability for indexers and tools that iterate over large sets of logs, enabling simple and robust error handling using `errors.Is` without relying on string matching.
+
+Alongside these improvements, we continued preparing for the upcoming hard fork by reviewing and rebasing new EIPs. Several PRs have already been merged, while others are under active review. We are getting very close to what will be the largest hard fork in Harmony’s history, bringing multiple EIPs, new features, and important bug fixes. More details will be shared soon as we finalize the remaining work.
+
+---
+
 2026-03-28 Sat: Last week was very productive. While waiting for the team to review my previous PRs, I focused on improving RPC reliability and optimizing consensus performance. The work targeted reducing contention in critical paths, fixing server lifecycle issues, and making rate-limiting behavior more consistent and secure.
 
 On the consensus side, [PR #5023](https://github.com/harmony-one/harmony/pull/5023) reduces lock contention by switching read-only decider operations to `RLock()` while keeping write operations on `Lock()`. This improves throughput under concurrent consensus activity without changing any public interfaces.
