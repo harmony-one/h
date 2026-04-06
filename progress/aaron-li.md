@@ -1,4 +1,4 @@
-2026-4-6 Mon (0.6h): Review updates on leaderboard, goldilocks with hedge, realized volatility experiments.
+2026-4-6 Mon (1.5h+): Review updates on leaderboard, goldilocks with hedge, realized volatility experiments.
 
 ---
 
