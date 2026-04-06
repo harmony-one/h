@@ -1,3 +1,7 @@
+2026-4-6 Mon (0.6h): Review updates on leaderboard, goldilocks with hedge, realized volatility experiments.
+
+---
+
 2026-4-5 Sun (0.4h): Finalize multisig and zodiac deployment by aggregating assets to production multisig.
 
 2026-4-4 Sat (6.4h): Transfer assets and deploy multisig-based trading. Zodiac wallet address and reporting fixes. Telegram URL redaction. Engine command system for pause and position withdrawal. DB profile management.
