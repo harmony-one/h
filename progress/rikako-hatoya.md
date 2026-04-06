@@ -1,3 +1,5 @@
+2026-04-03 Fri: New results for batch testing with 20 parallel instances for copy-trading came in, showed inaccurate way of collecting top-wallets candidate. Planning of switching rewards calculation to use accrued-fees instead of realized-fees, addition to same PR plan as fee integrity investigation.
+
 2026-04-02 Thu: Started investigating data integrity. Looking into fee calculation.
 
 2026-04-01 Wed: Testing of RV calculation using real swap data from database. Pushed new commits to existing RV-calculation PR, addressing new feedback. 
