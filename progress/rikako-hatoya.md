@@ -1,3 +1,7 @@
+2026-04-05 Sun: Patched ts data for local database using Aaron's repair script. Look into orchestrator issue.
+
+2026-04-04 Sat: Look into/catching up with updates made to lp-hedger by going through docs/plans. Read through emergency shutdown system, zodiac reporting modules, and balance-tracking+budget enforcement.
+
 2026-04-03 Fri: New results for batch testing with 20 parallel instances for copy-trading came in, showed inaccurate way of collecting top-wallets candidate. Planning of switching rewards calculation to use accrued-fees instead of realized-fees, addition to same PR plan as fee integrity investigation.
 
 2026-04-02 Thu: Started investigating data integrity. Looking into fee calculation.
