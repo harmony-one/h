@@ -1,3 +1,9 @@
+2026-04-07 Tue: Checked goldilocks_with_hedge for running on GCP. Continued working on fee discrepancy and running tests.
+
+2026-04-06 Mon: Continued investigating on fee discrepancy. 
+
+---
+
 2026-04-05 Sun: Patched ts data for local database using Aaron's repair script. Look into orchestrator issue.
 
 2026-04-04 Sat: Look into/catching up with updates made to lp-hedger by going through docs/plans. Read through emergency shutdown system, zodiac reporting modules, and balance-tracking+budget enforcement.
