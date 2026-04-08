@@ -1,4 +1,4 @@
-2026-4-7 Tue (2.4h+): Compare experiment results. Repair fetcher. Deploy leaderboard. Discussions on VRP results, Hyperliquid multisig setup, LP pool state and event verifications, hedge strategies and delta exposures.
+2026-4-7 Tue (2.8h): Compare experiment results. Repair fetcher. Deploy leaderboard. Discussions on VRP results, Hyperliquid multisig setup, LP pool state and event verifications, hedge strategies and delta exposures.
 
 2026-4-6 Mon (11.3h): Review updates on leaderboard, goldilocks with hedge, realized volatility experiments.
 
