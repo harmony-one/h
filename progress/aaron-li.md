@@ -1,4 +1,4 @@
-2026-4-8 Wed (2.1h): Compare experiment results. Repair fetcher. Deploy leaderboard. Domain management.
+2026-4-8 Wed (2.2h): Compare experiment results. Repair fetcher. Deploy leaderboard. Domain management.
 
 2026-4-7 Tue (5.5h): Compare experiment results. Repair fetcher. Deploy leaderboard. Discussions on VRP results, Hyperliquid multisig setup, LP pool state and event verifications, hedge strategies and delta exposures.
 
