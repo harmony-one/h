@@ -1,5 +1,7 @@
 
-2026-04-07 Tue: In-person team sync.
+2026-04-08 Wed: Conducted further experiments and pushed investigation so far for fee validation in [PR](https://github.com/polymorpher/lp-backtest/pull/2) but still needs further investigation to come to a full conclusion on whether the 10% can account for the fees. Started working on tiered verification system for historical snapshot data.
+
+2026-04-07 Tue: In-person team sync. Continue working with fee-validation.
 
 2026-04-06 Mon: Checked goldilocks_with_hedge for running on GCP. Continued working on fee discrepancy and running tests.
 
