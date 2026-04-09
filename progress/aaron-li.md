@@ -1,4 +1,4 @@
-2026-4-9 Thu (7.3h+): Investigate website resolution issues from dot-country websites.
+2026-4-9 Thu (8.3h+): Investigate website resolution issues from dot-country websites.
 
 2026-4-8 Wed (4.4h): Compare experiment results. Repair fetcher. Deploy leaderboard. Domain management.
 
