@@ -1,4 +1,6 @@
 
+2026-04-09 Thu: Investigated data integrity issues in DB snapshots using the [tiered verification system](https://github.com/polymorpher/lp-backtest/blob/main/docs/verify_lp_positions.md) Aaron started, implemented and tested a fix in the Aerodrome LP retriever so burned NFT transfers are handled correctly and no longer create new ghost positions in future snapshots, and documented the root causes of the observed discrepancies plus the remaining historical cleanup needed for already-corrupted rows (PR [here](https://github.com/polymorpher/lp-backtest/pull/3)).
+
 2026-04-08 Wed: Conducted further experiments and pushed investigation so far for fee validation in [PR](https://github.com/polymorpher/lp-backtest/pull/2) but still needs further investigation to come to a full conclusion on whether the 10% can account for the fees. Started working on tiered verification system for historical snapshot data.
 
 2026-04-07 Tue: In-person team sync. Continue working with fee-validation.
