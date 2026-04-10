@@ -1,3 +1,16 @@
+2026-04-10 Fri:
+
+This week I've made a deep divefor `trace_block` RPC operation because the workload is read-heavy and latency-sensitive, not bandwidth-bound.
+Switching from wide RAID0 TLC to simpler QLC nodes will have improved latency consistency and reduced IO complexity. The advantage will have been better performance per cost and more stable behavior by keeping disks under optimal utilization levels.
+
+Additionally, helped team to prepare to the upcoming harkfokr, reviewed @GheisMohammadi PRs, leadve a few comments on the @frozen PRs.
+
+As part of systems engineering activities I've updated RPC nodes to the latest mainline Nginx - [1.28.3](https://nginx.org/en/CHANGES-1.28) and upgraded SSL.
+
+And finally - calculated cloud costs, found one anomally connected witht the staking dashboard misbehavoiur in terms of RAM usage, it was OOM killed by the application platform and missed by the our regular monitoring, because app was starting and killed only after 10 minutes after start. Applied a hotfix, will think about better monitoring here.
+
+---
+
 2026-04-03 Fri:
 
 During 3 days on this week my main focus was to provide all details for the interested parties about block creation timestamp glitch issue - collected affected blocks, worked with the Validators community to fix the ongoing issue, communicated it with all interested parties. Dev team had prepared [PR-5028](https://github.com/harmony-one/harmony/pull/5028) and [PR-5020](https://github.com/harmony-one/harmony/pull/5020) and now we need to pick the date for the hardfork.
