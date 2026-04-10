@@ -1,4 +1,6 @@
-2026-4-9 Thu (8.4h+): Investigate and replicate high memory usage issues and stuck backtesting instances. Investigate website resolution issues from dot-country websites.
+2026-4-10 Fri (0.3h+): Redeploy fetcher. Design and deploy new backtesting experiments.
+
+2026-4-9 Thu (8.7h): Investigate and replicate high memory usage issues and stuck backtesting instances. Investigate website resolution issues from dot-country websites.
 
 2026-4-8 Wed (4.4h): Compare experiment results. Repair fetcher. Deploy leaderboard. Domain management.
 
