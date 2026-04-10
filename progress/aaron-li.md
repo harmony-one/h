@@ -1,4 +1,4 @@
-2026-4-10 Fri (1.3h+): Redeploy fetcher. Design and deploy new backtesting experiments.
+2026-4-10 Fri (1.3h): Redeploy fetcher. Design and deploy new backtesting experiments.
 
 2026-4-9 Thu (8.7h): Investigate and replicate high memory usage issues and stuck backtesting instances. Investigate website resolution issues from dot-country websites.
 
