@@ -1,4 +1,4 @@
-2026-4-11 Sat (0.8h+): Review and revise latest goldilocks with hedge.
+2026-4-11 Sat (1.8h+): Review and revise latest goldilocks with hedge.
 
 2026-4-10 Fri (7.7h): Review experiments and batch test reports. Redeploy fetcher. Design and deploy new backtesting experiments.
 
