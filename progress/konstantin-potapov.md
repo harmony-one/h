@@ -1,3 +1,7 @@
+2026-04-10 Fri(Vacation): Ulad found a regression in RPC request handling. It took some time to reproduce on testnet because we couldn’t inspect the requests directly on the RPC node. We now have a stable repro setup. 
+
+---
+
 Most Important Contribution
 The primary contribution this quarter was unblocking the new release by resolving a series of hard-fork-level issues: invalid block production caused by incorrect precompile writes, a chain fork caused by an incorrect sender address in cross-shard transactions, and a cross-shard receipt generation failure. After the fixes, the node successfully participated in consensus and imported over 100k blocks.
 
