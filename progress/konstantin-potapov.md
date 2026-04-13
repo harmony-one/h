@@ -9,7 +9,7 @@ Q1 Summary
 During Q1, Ulad and I hit 60 blocks per minute on devnet with 1.5% timestamp deviation. The new release launched on mainnet with zero downtime and full backward compatibility. And I also migrated from Travis to GitHub Actions, cutting infrastructure costs.
 
 
-Ulad and I hit 60 blocks per minute on devnet with 1.5% timestamp deviation. To get there, I built tooling to analyze block timestamps across mainnet and devnet, and evaluated Grafana and Prometheus for sub-second visualization.
+Ulad and I hit 60 blocks per minute on devnet with 1.5% timestamp deviation. To get there, I built tooling to analyze block timestamps across mainnet and devnet, and evaluated Grafana and Prometheus for visualization.
 
 The new release was launched on mainnet with zero downtime and full backward compatibility. Under the hood, this required resolving hard-fork-level issues: invalid block production caused by incorrect precompile writes, a chain fork from an incorrect sender address in cross-shard transactions, and a cross-shard receipt generation failure.
 
