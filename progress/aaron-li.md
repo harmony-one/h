@@ -1,4 +1,4 @@
-2026-4-13 Mon (0.7h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-13 Mon (0.8h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
 
 ---
 
