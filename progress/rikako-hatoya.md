@@ -1,4 +1,4 @@
-2026-04-13 Mon: Fixing of data-integrity PR review comments. Re-run of full tier-3 verify lp positions script.
+2026-04-13 Mon: Fixing of data-integrity PR review comments. Re-run of full tier-3 verify lp positions script, updated [PR](https://github.com/polymorpher/lp-backtest/pull/3).
 
 2026-04-12 Sun:
 
