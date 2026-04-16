@@ -1,3 +1,5 @@
+2026-04-15 Wed: Profiled the fee-integrity validator and optimized its main runtime bottlenecks, including liquidity-index reuse, swap prefetching, and integer-based cache/index arithmetic. These changes improved the sample position validation run by roughly 16x, and also added a flag to preserve the old Decimal fee-allocation path if needed.
+
 2026-04-14 Tue: In-team sync. Looked into details for staking flag error in DB snapshot (report [here](https://github.com/polymorpher/lp-backtest/blob/382e586c9104b99fb4430d3fd1b34e7204202d9b/docs/staking_snapshot_root_cause_report.md)), resumed working on optimization for fee validation tests.
 
 2026-04-13 Mon: Fixing of data-integrity PR review comments. Re-run of full tier-3 verify lp positions script, updated [PR](https://github.com/polymorpher/lp-backtest/pull/3).
