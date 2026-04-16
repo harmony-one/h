@@ -1,4 +1,4 @@
-2026-4-16 Thu (0.2h+): Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-16 Thu (1.0h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
 
 2026-4-15 Wed (4.0h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
 
