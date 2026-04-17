@@ -1,10 +1,10 @@
-2025-04-18 Sat (PTO: April 16-29 / 10 days): Last week we continued focusing on hard fork preparation, with particular attention to timestamp validation changes. The goal is to include these updates within the same hard fork so that block timestamps are strictly monotonic, ensuring that no new block can have a timestamp earlier than its parent. This prevents edge cases observed in the block production.
+2026-04-18 Sat (PTO: April 16-29 / 10 days): Last week we continued focusing on hard fork preparation, with particular attention to timestamp validation changes. The goal is to include these updates within the same hard fork so that block timestamps are strictly monotonic, ensuring that no new block can have a timestamp earlier than its parent. This prevents edge cases observed in the block production.
 
 In parallel, the team has been actively reviewing the remaining PRs targeted for inclusion in the hard fork. Final adjustments and validations are underway to ensure all changes are stable and aligned. Once reviews are completed, the plan is to deploy the full set of updates to devnet for final testing before proceeding further with rollout preparations.
 
 ---
 
-2025-04-11 Sat: Last week was focused on preparing for the upcoming hard fork, with multiple PRs related to new EIPs under active testing and review by the team. I worked on refactoring these PRs, rebasing them on the latest codebase, and resolving merge conflicts to ensure they are aligned and ready for integration. Several of these updates have already been successfully merged, while others are still in progress.
+2026-04-11 Sat: Last week was focused on preparing for the upcoming hard fork, with multiple PRs related to new EIPs under active testing and review by the team. I worked on refactoring these PRs, rebasing them on the latest codebase, and resolving merge conflicts to ensure they are aligned and ready for integration. Several of these updates have already been successfully merged, while others are still in progress.
 
 The effort is aimed at stabilizing and unifying the EIP implementations before rollout. Once all related PRs are finalized and merged, the plan is to deploy the changes to devnet and testnet environments for further validation. Following that, we will fine-tune the activation epoch to ensure a smooth and coordinated hard fork process across the network.
 
