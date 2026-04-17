@@ -1,3 +1,5 @@
+2026-4-17 Fri (0.1h): Production lp-hedger reproducible deployment script.
+
 2026-4-16 Thu (7.4h): Pre-production goldilocks with hedge configuration and experiments. Leaderboard deployment. Refine goldilocks with hedge, prepare deployment. Review fee validation.
 
 2026-4-15 Wed (4.0h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
