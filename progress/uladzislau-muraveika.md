@@ -1,11 +1,25 @@
+2026-04-17 Fri:
+
+Main focus on this week was to deploy the hardfork with NTP fix to the devnet and do the smoke test and while the main issue is fixed, we still have situation when the node current leader node is producing 1 block at the same time as the previous one, collected info, added such logs to the grafana dashboard shared the info with the dev team.
+
+As a consequance of the archival node troubleshooting, I've started to check the providers to replace our slow TLC on read requests archival node.
+
+As part of systems engineering activities I've updated RPC nodes to the latest stable Nginx - [1.30.0](https://nginx.org/en/CHANGES-1.30) and updated monitoring stack
+
+---
+
+2026-04-13 PTO
+
+---
+
 2026-04-10 Fri:
 
-This week I've made a deep divefor `trace_block` RPC operation because the workload is read-heavy and latency-sensitive, not bandwidth-bound.
+This week I've made a deep dive for the `trace_block` RPC operation because the workload is read-heavy and latency-sensitive, not bandwidth-bound.
 Switching from wide RAID0 TLC to simpler QLC nodes will have improved latency consistency and reduced IO complexity. The advantage will have been better performance per cost and more stable behavior by keeping disks under optimal utilization levels.
 
 Additionally, helped team to prepare to the upcoming harkfokr, reviewed @GheisMohammadi PRs, leadve a few comments on the @frozen PRs.
 
-As part of systems engineering activities I've updated RPC nodes to the latest mainline Nginx - [1.28.3](https://nginx.org/en/CHANGES-1.28) and upgraded SSL.
+As part of systems engineering activities I've updated RPC nodes to the latest stable Nginx - [1.28.3](https://nginx.org/en/CHANGES-1.28) and upgraded SSL.
 
 And finally - calculated cloud costs, found one anomally connected witht the staking dashboard misbehavoiur in terms of RAM usage, it was OOM killed by the application platform and missed by the our regular monitoring, because app was starting and killed only after 10 minutes after start. Applied a hotfix, will think about better monitoring here.
 
