@@ -1,3 +1,15 @@
+2026-04-16 Thu: Finalized Leaderboard v2 — added test coverage for newly introduced metrics (APY, ROC, fee share) and ensured backward compatibility with historical data. Set up deployment: published dashboards now correctly resolve links to GCS folders and GitHub commits. Verified the migration path in production — existing backtest records are upgraded seamlessly without manual intervention. Opened a PR.
+
+2026-04-15 Wed: Converted the static HTML leaderboard into an interactive single-file dashboard: added filters by version/strategy, a risk/return scatter plot, a session drill-down panel with links to GCS and GitHub commits, pinning of favorite sessions, and shareable URLs (any combination of filters, sorting, and selected session state is encoded in the URL).
+
+2026-04-14 Tue: Tested the updated version of goldilocks_with_hedge_v11. Started work on Leaderboard v2. Introduced three new business metrics for strategy comparison: APY (annualized return — a unified basis across runs of different durations), ROC on actually deployed capital (independent of declared target size), and fee share in PnL (to quantify how much alpha is consumed by fees). These metrics are available in the CLI for sorting, and historical backtests are recalculated automatically.
+
+2026-04-13 Mon: Ran backtests for top-performing strategies over the full year of 2025 and performed an AI-driven comparative analysis against each other and a HODL baseline (holding 100K USDC + 1 BTC without trading; NAV $193,640 → $187,631, −3.1%). All active strategies outperformed HODL in terms of total return, but only Naked Hedge delivered a positive absolute result (+$37.8K net alpha on $65.5K gross).
+
+---
+
+2026-04-10 Fri: Continued development of goldilocks_with_hedge_v10 — iterating further on the hedged LP strategy. Refined hedge adjustment logic and calibrated parameters ahead of running a full-year backtest for comparative analysis.
+
 2026-04-09 Thu: Ran goldilocks_lp baseline backtest (5 LP variants, 10-month bear market) and analyzed results — unhedged LP returned -14.9% with 34.2% max DD, fee/IL ratio only 0.42. Compared head-to-head with hedged v9: hedge cuts drawdown 10.7× (34.2%→3.2%) and delta 91%, but adds $4.5K in costs — sole source of the hedged strategy's -2.1% loss. Both underperform USDC-only (+4.2%). Started v10 design focused on cutting transaction cost drag below 50% of fees.
 
 2026-04-08 Wed: Completed goldilocks_with_hedge v9 — three targeted fixes over v8. Fixed the cost/benefit filter algorithm — v8 compared trade cost to notional (meaningless), v9 compares cost to delta-risk (size × price × daily vol from RV) and blocks trades where cost/risk > 0.15, filtering out rehedges that aren't justified by the exposure they correct. A/B/C/D test over 10-month bear market (BTC -29.4%): best run (Run D) returned -2.08% with 3.19% max DD. Improvement over v7-C control is modest (+0.04pp), but cost drag >100% confirms transaction costs ($4.5K) are now the sole remaining loss source.
