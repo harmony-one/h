@@ -1,4 +1,4 @@
-2026-4-18 Sat (0.8h): Asymmetric LP deployment, optimizing autoswap and autosizing.
+2026-4-18 Sat (0.8h+): Asymmetric LP deployment, optimizing autoswap and autosizing.
 
 2026-4-17 Fri (8.9h): Production lp-hedger reproducible deployment. Asymmetric LP deployment, optimizing autoswap and autosizing.
 
