@@ -1,3 +1,5 @@
+2026-4-19 Sun (0.6h+): Testing and analyzing asymmetric LP and improved autoswap, autosizing.
+
 2026-4-18 Sat (2.6h): Asymmetric LP deployment, optimizing autoswap and autosizing.
 
 2026-4-17 Fri (8.9h): Production lp-hedger reproducible deployment. Asymmetric LP deployment, optimizing autoswap and autosizing.
