@@ -1,3 +1,5 @@
+2026-4-21 Tue (0.7h+): Review and refine hedge activation performance in goldilocks with hedge.
+
 2026-4-20 Mon (5.7h): Review and refine hedge activation performance in goldilocks with hedge. Review and revise leaderboard, data, fee integrity.
 
 ---
