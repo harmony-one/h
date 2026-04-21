@@ -1,6 +1,10 @@
-2026-04-17 Fri: Worked on the data-integrity branch, pushing updates from review feedback. Covered ghost-position cleanup, monthly NFPM enumeration, and historical-range gauge resolution fixes.
+2026-04-19 Sun: Looked into goldilocks with hedge production [report](https://github.com/polymorpher/lp-hedger/blob/main/docs/analysis/batches/goldilocks_with_hedge_corrected_202604/final_production_recommendations.md). Catching up with strategies-side - also looked into existing analysis and deployed leaderboard.
 
-2026-04-16 Thu: Worked on the fee-integrity branch, pushing updates from Aaron's  feedback. Covered outlier triage, distributional reporting, historical-poke fee recovery, per-position staking haircuts, and archive-RPC fee-rate checks.
+2026-04-18 Sat: Pushed [data-integrity PR](https://github.com/polymorpher/lp-backtest/pull/3) revision fixes. Covered ghost-position cleanup, monthly NFPM enumeration, and historical-range gauge resolution fixes.
+
+2026-04-17 Fri: Pushed [fee-integrity PR](https://github.com/polymorpher/lp-backtest/pull/2) with fixes based on Aaron's revision. Implemented major fee-validation performance improvements, more accurate 10% protocol-fee handling for positions that were only staked part of the time, and new analysis tooling to narrow down the remaining fee discrepancy.
+
+2026-04-16 Thu: Worked on the fee-integrity branch, pushing updates from Aaron's feedback. Covered outlier triage, distributional reporting, historical-poke fee recovery, per-position staking haircuts, and archive-RPC fee-rate checks.
 
 2026-04-15 Wed: Profiled the fee-integrity validator and optimized its main runtime bottlenecks, including liquidity-index reuse, swap prefetching, and integer-based cache/index arithmetic. These changes improved the sample position validation run by roughly 16x, and also added a flag to preserve the old Decimal fee-allocation path if needed.
 
