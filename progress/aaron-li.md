@@ -1,4 +1,4 @@
-2026-4-22 Wed (0.2h+): Goldilocks with hedge v13 experiments.
+2026-4-22 Wed (1.2h+): Goldilocks with hedge v13 experiments.
 
 2026-4-21 Tue (3.9h): Discussion. Review and refine hedge activation performance in goldilocks with hedge.
 
