@@ -1,3 +1,7 @@
+2026-04-17 This week, I merged the NTP PRs, opened a follow-up PR for the fork epoch update, and worked with Ulad to roll out the NTP changes to devnet. During testing, we found that block validation rejects blocks with the same Unix timestamp, so I updated the logic to delay block processing until the next Unix timestamp. In parallel, I started working on EVM improvements by refactoring cxReceipt and updating parts of the codebase for the 1.12 EVM upgrade.   
+
+---
+
 2026-04-10 Fri(Vacation): Ulad found a regression in RPC request handling. It took some time to reproduce on testnet because we couldn’t inspect the requests directly on the RPC node. We now have a stable repro setup. 
 
 ---
