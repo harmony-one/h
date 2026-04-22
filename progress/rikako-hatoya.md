@@ -1,3 +1,9 @@
+2026-04-21 Tue: Team sync in SF, drafting of meeting notes. 
+
+2026-04-20 Mon: Look into remaining tasks for [v13](https://github.com/polymorpher/lp-hedger/blob/main/docs/analysis/batches/goldilocks_with_hedge_corrected_202604/v13_00_reading_order_and_current_sequence.md). Read into delta-neutral [plan](https://github.com/polymorpher/lp-hedger/blob/main/docs/analysis/batches/goldilocks_with_hedge_corrected_202604/v13_batch_f_delta_neutral_lp_plan.md).
+
+---
+
 2026-04-19 Sun: Looked into goldilocks with hedge production [report](https://github.com/polymorpher/lp-hedger/blob/main/docs/analysis/batches/goldilocks_with_hedge_corrected_202604/final_production_recommendations.md). Catching up with strategies-side - also looked into existing analysis and deployed leaderboard.
 
 2026-04-18 Sat: Pushed [data-integrity PR](https://github.com/polymorpher/lp-backtest/pull/3) revision fixes. Covered ghost-position cleanup, monthly NFPM enumeration, and historical-range gauge resolution fixes.
