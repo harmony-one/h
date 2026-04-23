@@ -1,4 +1,4 @@
-2026-4-23 Thu (1.8h): Version collapsing and config naming.
+2026-4-23 Thu (2.3h+): Version collapsing and config naming.
 
 2026-4-22 Wed (10.9h): Goldilocks with hedge v13 experiments. Review leaderboard v3. Improve batch analysis, experiment, and spec tooling.
 
