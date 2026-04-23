@@ -1,4 +1,4 @@
-2026-4-22 Wed (6.4h+): Improve batch analysis, experiment, and spec tooling. Goldilocks with hedge v13 experiments.
+2026-4-22 Wed (7.4h+): Review leaderboard v3. Improve batch analysis, experiment, and spec tooling. Goldilocks with hedge v13 experiments.
 
 2026-4-21 Tue (3.9h): Discussion. Review and refine hedge activation performance in goldilocks with hedge.
 
