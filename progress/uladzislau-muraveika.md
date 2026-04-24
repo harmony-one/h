@@ -1,3 +1,14 @@
+2026-04-24 Fri:
+
+Main focus on this week was the testing of the NTP hardfork on the devnet as result, found the following issues:
+* I found that some blocks were being produced within the same second; this was reported to @Frozen, addressed in [PR-5037](https://github.com/harmony-one/harmony/pull/5037).
+* The previous `15 seconds` tolerance for future blocks was confirmed to be too large, because a faulty leader could effectively steal that time from the next leader; this was addressed by @Frozen in [PR-5037](https://github.com/harmony-one/harmony/pull/5037)
+* The NTP server parsing issue was also reported and tracked under `Await until next second for block timestamp validation` in [PR-5037](https://github.com/harmony-one/harmony/pull/5037).
+
+As a consequance of the archival node troubleshooting, I've compared and shared 2 possible server providers, awaiting feedback from the Core team to start actual migration to the new archival node.
+
+---
+
 2026-04-17 Fri:
 
 Main focus on this week was to deploy the hardfork with NTP fix to the devnet and do the smoke test and while the main issue is fixed, we still have situation when the node current leader node is producing 1 block at the same time as the previous one, collected info, added such logs to the grafana dashboard shared the info with the dev team.
@@ -8,7 +19,7 @@ As part of systems engineering activities I've updated RPC nodes to the latest s
 
 ---
 
-2026-04-13 PTO
+2026-04-13 Illnes day
 
 ---
 
