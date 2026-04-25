@@ -1,3 +1,15 @@
+2026-04-23 Thu: Finished the Leaderboard React Migration. The leaderboard now ships as a self-contained single-file build that drops into the existing deploy pipeline with zero changes — same URLs, same shareable links, same pinned sessions. Frontend and backend are now decoupled by an explicit versioned contract, so either side can evolve without silently breaking the other.
+
+2026-04-22 Wed: Started the Leaderboard React Migration — moved the UI out of inline Python HTML strings into a proper React app, while keeping Python as the data producer and preserving the static hosting model (no backend, no asset pipeline changes). Achieved full feature parity with the old page on day one, so users see no regression.
+
+2026-04-21 Tue: Released Leaderboard v3. Introduced a single explicit "winner" metric — Risk-adjusted APY — used as the default sort and the main chart's axis, removing ambiguity about which return column matters when comparing strategies. Made every metric self-explanatory in the UI (tooltips, formulas, glossary, inline warnings for counter-intuitive values like Cost Drag > 100% or negative Sharpe with positive return) so the leaderboard is now usable without tribal knowledge. Cut the default table from ~18 to ~10 columns, fully backwards compatible with old data and shared links.
+
+2026-04-20 Mon: Strategy research on goldilocks_with_hedge with GPT-5.4 max. New sessions for 2025, analises, comparisions — walked through hedge sizing, rebalance triggers, and fee/spread assumptions, and asked it to identify regimes where the strategy is structurally weak (low-vol grind, sharp gap moves, funding-rate inversions) with concrete parameter adjustments rather than generic suggestions.
+
+---
+
+2026-04-17 Fri: Improved Leaderboard v2 — fixed edge cases in the new metrics (APY, ROC, fee share) on short / capital-light sessions and reordered the default columns so the most decision-relevant numbers fit on the first screen. In parallel, sliced the 2025 backtest comparison by regime (trending vs. chop, high vs. low vol) to understand where Naked Hedge's alpha actually comes from: most of the edge concentrates in higher-vol stretches, while flat regimes mostly recover fees — which framed the hypotheses for next goldilocks_with_hedge tuning.
+
 2026-04-16 Thu: Finalized Leaderboard v2 — added test coverage for newly introduced metrics (APY, ROC, fee share) and ensured backward compatibility with historical data. Set up deployment: published dashboards now correctly resolve links to GCS folders and GitHub commits. Verified the migration path in production — existing backtest records are upgraded seamlessly without manual intervention. Opened a PR.
 
 2026-04-15 Wed: Converted the static HTML leaderboard into an interactive single-file dashboard: added filters by version/strategy, a risk/return scatter plot, a session drill-down panel with links to GCS and GitHub commits, pinning of favorite sessions, and shareable URLs (any combination of filters, sorting, and selected session state is encoded in the URL).
