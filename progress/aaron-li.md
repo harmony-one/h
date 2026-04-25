@@ -1,3 +1,5 @@
+2026-4-25 Sat (0.9h+): Improve performance notification system.
+
 2026-4-24 Fri (4.4h): Review and revise leaderboard v4.
 
 2026-4-23 Thu (6.9h): Deploying v13 in production. Version collapsing and config naming.
