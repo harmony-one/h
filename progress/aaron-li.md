@@ -1,4 +1,4 @@
-2026-4-24 Fri (2.9h+): Review and revise leaderboard v4.
+2026-4-24 Fri (3.9h+): Review and revise leaderboard v4.
 
 2026-4-23 Thu (6.9h): Deploying v13 in production. Version collapsing and config naming.
 
