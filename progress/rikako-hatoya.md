@@ -1,3 +1,5 @@
+2026-04-24 Fri: Continue implementation of new dynamic range logic.
+
 2026-04-23 Thu: Read through of Goldilocks with hedge [documentations](https://github.com/polymorpher/lp-hedger/tree/main/docs/memos/gwh). Testing of new strategy/workflow with dynamic range.
 
 2026-04-22 Wed: Look into continuous dynamic range. Look into leaderboard implementation.
