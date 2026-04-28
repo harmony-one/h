@@ -1,4 +1,4 @@
-2026-4-28 Tue (2.0h): Review and revise fee integrity and data integrity.
+2026-4-28 Tue (2.9h): Fee share calculation, and chart improvements. Review and revise fee integrity and data integrity.
 
 2026-4-27 Mon (8.9h): Review and revise fee integrity and data integrity.
 
