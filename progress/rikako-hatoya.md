@@ -1,5 +1,7 @@
 
-2026-04-27 Mon: Implemented goldilocks-with-hedge dynamic range, where the LP width multiplier was changed from 3 discrete buckets to continuous width. Running of results in new branch [here](https://github.com/polymorpher/lp-hedger/tree/gwh-dynamicrange).
+2026-04-27 Mon: Implemented goldilocks-with-hedge dynamic range, where the LP width multiplier was changed from 3 discrete buckets to continuous width. Testing of batch runs in new branch [here](https://github.com/polymorpher/lp-hedger/tree/gwh-dynamicrange).
+
+---
 
 2026-04-26 Sun: Check through latest updates on leaderboard ([plan](https://github.com/polymorpher/lp-hedger/blob/main/.cursor/plans/leaderboard_semantic_labels_dcaa5ff9.plan.md) and [PR](https://github.com/polymorpher/lp-hedger/pull/23). Look through leaderboard for latest run statistics.
 
