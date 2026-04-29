@@ -1,4 +1,6 @@
-2026-4-28 Tue (4.3h+): Fee share calculation, and chart improvements. Discussion. Review and revise fee integrity and data integrity.
+2026-4-29 Wed (0.7h+): Fee share calculation, and chart improvements.
+
+2026-4-28 Tue (4.6h): Fee share calculation, and chart improvements. Discussion. Review and revise fee integrity and data integrity.
 
 2026-4-27 Mon (8.9h): Review and revise fee integrity and data integrity.
 
