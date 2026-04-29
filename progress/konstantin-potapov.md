@@ -1,3 +1,7 @@
+2026-04-24 This week, I tested the RPC flow - it responds without errors, but one test is still failing. I added support for multiple NTP hosts and fixed an issue where the node could start even if the NTP client failed to initialize. I also reduced the allowed future block timestamp drift to 1 second, and Ulad deployed this change to devnet.   
+
+---
+
 2026-04-17 This week, I merged the NTP PRs, opened a follow-up PR for the fork epoch update, and worked with Ulad to roll out the NTP changes to devnet. During testing, we found that block validation rejects blocks with the same Unix timestamp, so I updated the logic to delay block processing until the next Unix timestamp. In parallel, I started working on EVM improvements by refactoring cxReceipt and updating parts of the codebase for the 1.12 EVM upgrade.   
 
 ---
