@@ -1,3 +1,5 @@
+2026-4-30 Thu (0.1h): Review leaderboard v5.
+
 2026-4-29 Wed (7.1h): Verify hedging config and correctness. Fix duplication issues in snapshots where token id is null. Fee share calculation, and chart improvements.
 
 2026-4-28 Tue (4.6h): Fee share calculation, and chart improvements. Discussion. Review and revise fee integrity and data integrity.
