@@ -1,4 +1,8 @@
 
+2026-04-30 Thu: Work on top of leaderboard v5.1 PR. Implementing nav data wiring from GCS and planned Google cloud authentication.
+
+2026-04-29 Wed: Further working on data integrity PR review. Look into current leaderboard implementation/structure.
+
 2026-04-28 Tue: In-person team sync in SF with Aaron and Li, draft meeting minutes. Check into data-integrity PR reviews.
 
 2026-04-27 Mon: Implemented goldilocks-with-hedge dynamic range, where the LP width multiplier was changed from 3 discrete buckets to continuous width. Testing of batch runs in new branch [here](https://github.com/polymorpher/lp-hedger/tree/gwh-dynamicrange).
