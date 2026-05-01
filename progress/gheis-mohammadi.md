@@ -1,3 +1,11 @@
+2026-05-02 Sat: Last week I focused on progressing multiple PRs by aligning them with the latest upstream changes and ensuring they are ready for integration as part of the ongoing development cycle. This involved rebasing, resolving conflicts, and refactoring code to stay consistent with recent updates from Ethereum.
+
+In [PR #4998](https://github.com/harmony-one/harmony/pull/4998), I resolved several merge conflicts and refactored the codebase to match the latest Ethereum changes. The PR has been updated and is now ready for review and merge. Similarly, [PR #4970](https://github.com/harmony-one/harmony/pull/4970) required deeper cleanup, including removing outdated code and refactoring it to align with the current architecture. This PR is also prepared and awaiting final review.
+
+Additionally, [PR #4993](https://github.com/harmony-one/harmony/pull/4993) and [PR #4975](https://github.com/harmony-one/harmony/pull/4975) were successfully rebased, had their conflicts resolved, and have now been merged. These updates contribute to keeping the codebase up to date and ensure smoother integration of upcoming features and changes.
+
+---
+
 2026-04-18 Sat (PTO: April 16-29 / 10 days): Last week we continued focusing on hard fork preparation, with particular attention to timestamp validation changes. The goal is to include these updates within the same hard fork so that block timestamps are strictly monotonic, ensuring that no new block can have a timestamp earlier than its parent. This prevents edge cases observed in the block production.
 
 In parallel, the team has been actively reviewing the remaining PRs targeted for inclusion in the hard fork. Final adjustments and validations are underway to ensure all changes are stable and aligned. Once reviews are completed, the plan is to deploy the full set of updates to devnet for final testing before proceeding further with rollout preparations.
