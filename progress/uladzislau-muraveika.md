@@ -1,3 +1,13 @@
+2026-05-01 Fri:
+
+After the fix of the ntp servers parsing for the NTP hardfork on the devnet, [the new issue found](https://github.com/harmony-one/harmony/pull/5037#issuecomment-4327196937), time to time leader validator fails to create new blocks with `[finalCommit] channel not received after 6s for commitSigAndBitmap` error in the logs. Communicated with @frozen, he is checking the best way to fix this.
+
+Main focus on this week was on creating new archival node, order it and done initial setup via automation - raids setup, chrony, firewalls, teleport, added it to the monitoring stack. Right now it is being synced from other archival node.
+
+One more important item was to update Base RPC node to support Azul hard fork, faced a few issue with incomplete env variables set by default, debug this, fixed on our side. Additionally add monitoring rule to have alarm on reth_sync_checkpoint if there were no new block for 5 minutes, because node stopped to sync without crashing and being in this limbo state for a while.
+
+---
+
 2026-04-24 Fri:
 
 Main focus on this week was the testing of the NTP hardfork on the devnet as result, found the following issues:
