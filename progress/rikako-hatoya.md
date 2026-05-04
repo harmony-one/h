@@ -1,3 +1,4 @@
+2026-05-01 Fri: Checked through updates to leaderboard in v5.1 merge. Updated plan PR (v6) to accomodate new changes.
 
 2026-04-30 Thu: Work on top of leaderboard v5.1 PR. Implementing nav data wiring from GCS and planned Google cloud authentication.
 
