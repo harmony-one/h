@@ -1,4 +1,4 @@
-2026-5-4 Mon (1.5h+): Review production performance and backtesting strategies.
+2026-5-4 Mon (2.5h+): Review production performance and backtesting strategies.
 
 ---
 
