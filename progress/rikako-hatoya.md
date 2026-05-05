@@ -1,5 +1,9 @@
 2026-05-04 Mon: Reviewed leaderboard PR plan feedback from Aaron. Implemented GCP features based on plan and pushed to [PR](https://github.com/polymorpher/lp-hedger/pull/26).
 
+2026-05-03 Sun: Look through live performance of deploy and gwh-owlbear. Worked on data-integrity PR review.
+
+2026-05-02 Sat: Look into issue of flat-lining equity curve. Read through one-sided LP [plan](https://github.com/polymorpher/lp-hedger/blob/main/.cursor/plans/one_sided_recovery_810838f5.plan.md).
+
 2026-05-01 Fri: Checked through updates to leaderboard in v5.1 merge. Updated plan PR (v6) to accomodate new changes.
 
 2026-04-30 Thu: Work on top of leaderboard v5.1 PR. Implementing nav data wiring from GCS and planned Google cloud authentication.
