@@ -1,3 +1,7 @@
+2026-05-30 This week, Ulad and I iterated on the NTP implementation and finalized a working approach. I standardized timestamps across log messages and added logic to avoid duplicate second-level timestamps. 
+
+---
+
 2026-04-24 This week, I tested the RPC flow - it responds without errors, but one test is still failing. I added support for multiple NTP hosts and fixed an issue where the node could start even if the NTP client failed to initialize. I also reduced the allowed future block timestamp drift to 1 second, and Ulad deployed this change to devnet.   
 
 ---
