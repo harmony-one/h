@@ -1,3 +1,5 @@
+2026-05-04 Mon: Reviewed leaderboard PR plan feedback from Aaron. Implemented GCP features based on plan and pushed to [PR](https://github.com/polymorpher/lp-hedger/pull/26).
+
 2026-05-01 Fri: Checked through updates to leaderboard in v5.1 merge. Updated plan PR (v6) to accomodate new changes.
 
 2026-04-30 Thu: Work on top of leaderboard v5.1 PR. Implementing nav data wiring from GCS and planned Google cloud authentication.
