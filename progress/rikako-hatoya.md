@@ -1,4 +1,8 @@
+2026-05-05 Tue: In-person team sync in SF with Aaron and Li. [Pushed a PR](https://github.com/polymorpher/lp-hedger/pull/27) for leaderboard UI changes, including reset filters, the 2025 full-period range, fixed period filter behavior, equity curve overlay comparison, clear pins, a global unclassified-config filter, and updated frontend tests.
+
 2026-05-04 Mon: Reviewed leaderboard PR plan feedback from Aaron. Implemented GCP features based on plan and pushed to [PR](https://github.com/polymorpher/lp-hedger/pull/26).
+
+---
 
 2026-05-03 Sun: Look through live performance of deploy and gwh-owlbear. Worked on data-integrity PR review.
 
