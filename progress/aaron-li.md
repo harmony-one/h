@@ -1,4 +1,4 @@
-2026-5-5 Tue (4.7h+): Deploy one-sided recovery with spot chase and graduation. Discussion on auto swap, wallet hedge, one-sided recovery, leaderboard, production alignment. Review production performance and backtesting strategies.
+2026-5-5 Tue (5.7h+): Deploy one-sided recovery with spot chase and graduation. Discussion on auto swap, wallet hedge, one-sided recovery, leaderboard, production alignment. Review production performance and backtesting strategies.
 
 2026-5-4 Mon (5.2h): Review production performance and backtesting strategies.
 
