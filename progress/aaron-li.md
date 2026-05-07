@@ -1,4 +1,4 @@
-2026-5-7 Thu (0.8h+): Review and revise leaderboard v6. Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
+2026-5-7 Thu (1.8h+): Review and revise leaderboard v6. Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
 
 2026-5-6 Wed (6.8h): Implement and test autoswap v2.
 
