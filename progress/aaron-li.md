@@ -1,3 +1,5 @@
+2026-5-7 Thu (0.1h): Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
+
 2026-5-6 Wed (6.8h): Implement and test autoswap v2.
 
 2026-5-5 Tue (10.1h): Implement and test autoswap v2. Deploy one-sided recovery with spot chase and graduation. Discussion on auto swap, wallet hedge, one-sided recovery, leaderboard, production alignment. Review production performance and backtesting strategies.
