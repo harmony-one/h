@@ -1,3 +1,13 @@
+2026-05-08 Sat: Last week was very productive, with major progress made toward finalizing the upcoming hard fork changes. We are now close to completing the block timestamp update after extensive technical discussions and reviews within the team. The implementation is in its final stage and is expected to be merged into `main` soon as a patch release.
+
+I also worked on [PR #5038](https://github.com/harmony-one/harmony/pull/5038), which improves interpreter compatibility with epoch-gated EIPs. The update ensures jump tables correctly respect chain configuration flags for EIP-3855 (`PUSH0`), EIP-3860 (initcode metering), and EIP-8024 (`DUPN/SWAPN/EXCHANGE`). The PR also adds the missing `IsEIP3855` rule wiring and introduces tests to validate automatic activation behavior across different epoch configurations.
+
+In [PR #5039](https://github.com/harmony-one/harmony/pull/5039), I improved cross-shard receipt proof consistency checks and aligned proof identity validation with authenticated header data. Additional internal adjustments were included to keep receipt-proof spent-marker handling consistent across upgrade boundaries.
+
+Finally, [PR #5040](https://github.com/harmony-one/harmony/pull/5040) strengthens Beacon cross-link validation by tightening validation rules and improving shard separation behavior. The PR also improves consistency in reward-related cross-link processing paths to ensure more defensive and predictable handling after activation.
+
+---
+
 2026-05-02 Sat: Last week I focused on progressing multiple PRs by aligning them with the latest upstream changes and ensuring they are ready for integration as part of the ongoing development cycle. This involved rebasing, resolving conflicts, and refactoring code to stay consistent with recent updates from Ethereum.
 
 In [PR #4998](https://github.com/harmony-one/harmony/pull/4998), I resolved several merge conflicts and refactored the codebase to match the latest Ethereum changes. The PR has been updated and is now ready for review and merge. Similarly, [PR #4970](https://github.com/harmony-one/harmony/pull/4970) required deeper cleanup, including removing outdated code and refactoring it to align with the current architecture. This PR is also prepared and awaiting final review.
