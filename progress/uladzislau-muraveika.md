@@ -1,3 +1,13 @@
+2026-05-08 Fri:
+
+Main focus was the [NTP fix](https://github.com/harmony-one/harmony/pull/5037) testing, previous issues were fixed, more NTP servers added, all clock screw cases both in past and future were tested on the devnet. Awaiting approval to plan hardfork on the testnet.
+
+One more topic - new archival node fully synced, serving traffic, have more disk perfomance than old one. Pure numbers, new one - `Read IOPS - around 4.55K/s on each disk or 9.1K combined` and `max read throughput 76MB/s combined` and old one ` Read IOPS - around 70 on each from 7 disks or JUST 350 combined as a top!` and `max read throughput 39MB/s combined`. Main advantage we will have faster RPC now. Old one will be turned off on Monday.
+
+And the last one, I've mitigated CVE-2026-31431 aka copyfail - https://copy.fail/#affected and also today's a fresh one https://github.com/V4bel/dirtyfrag on our all servers.
+
+---
+
 2026-05-01 Fri:
 
 After the fix of the ntp servers parsing for the NTP hardfork on the devnet, [the new issue found](https://github.com/harmony-one/harmony/pull/5037#issuecomment-4327196937), time to time leader validator fails to create new blocks with `[finalCommit] channel not received after 6s for commitSigAndBitmap` error in the logs. Communicated with @frozen, he is checking the best way to fix this.
