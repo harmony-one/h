@@ -1,4 +1,4 @@
-2026-5-8 Fri (1.4h): Review blockchain timestamp issue and NTP usage.
+2026-5-8 Fri (1.7h+): Review blockchain timestamp issue and NTP usage.
 
 2026-5-7 Thu (6.5h): Review and revise leaderboard v6. Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
 
