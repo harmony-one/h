@@ -1,3 +1,20 @@
+
+2026-05-08 Fri: Closed out v14 wallet hedge redesign with a family-level memo across three windows. Verdict: PROMOTE conditionally — continuous mode gives +4.78pp funded return vs OFF on the recent drawdown tape and retains 77.7% of FULL's max-DD improvement at ~37% of FULL's perp-order count, available as an operator-driven drawdown-insurance overlay; state_table mode retired (fails the OOS_RECENT retention bar). Default stays OFF — no mainline change required.
+
+2026-05-07 Thu: Aligned the v14 spec family 1:1 with v13 wallet_policy windows (insample / oos_bull / oos_recent, fixed hr050 / cb030 LP anchor, 5 runs per window) so v13 baseline drift can be cross-checked, and launched the three batches with Claude analysis supplements.
+
+2026-06-06 Wed: Implemented the wallet hedge target/execution framework: residual-delta target (state_table and continuous modes) replaces the old effective_btc * scale sizing, with wallet-specific bands and cooldowns so the wallet leg no longer piggybacks on the LP hedge path or bypasses the cost/benefit filter. Added runtime visibility (wallet-target log + persistent attribution state) and ~1k lines of tests covering state precedence, the new gating, and divergence-from-FULL on benign tapes.
+
+2026-05-05 Tue: Hit a data-access blocker on the prod-vs-backtest comparison: full prod logs are not available to us yet, so a direct log diff isn't possible. Working around it by parsing the public Telegram channel feed as the prod-side signal — extracting trade events, hedge adjustments, and regime transitions from the messages and aligning them against the corresponding backtest run's log lines. Coverage is partial (only what the bot posts to Telegram) but enough to spot the loudest divergences until proper log access is granted.
+
+2026-05-04 Mon: Working on next leaderboard version — extending it to surface live-prod stats alongside backtest results so the current prod version is visible in the same view as its sibling backtest run, and to flag drift between the two (PnL, hedge cadence, regime distribution). Started wiring real-time analysis via AI agents to triage divergences as they appear instead of relying on after-the-fact manual diffing.
+
+---
+
+2026-04-29 Wed - 2026-05-01 Fri: Paid Time Off
+
+---
+
 2026-04-23 Thu: Finished the Leaderboard React Migration. The leaderboard now ships as a self-contained single-file build that drops into the existing deploy pipeline with zero changes — same URLs, same shareable links, same pinned sessions. Frontend and backend are now decoupled by an explicit versioned contract, so either side can evolve without silently breaking the other.
 
 2026-04-22 Wed: Started the Leaderboard React Migration — moved the UI out of inline Python HTML strings into a proper React app, while keeping Python as the data producer and preserving the static hosting model (no backend, no asset pipeline changes). Achieved full feature parity with the old page on day one, so users see no regression.
