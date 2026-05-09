@@ -1,3 +1,5 @@
+2026-5-9 Sat (0.8h+): Review wallet hedge, recovery v2 dynamic results.
+
 2026-5-8 Fri (8.2h): Revise recovery v2. Review blockchain timestamp issue and NTP usage.
 
 2026-5-7 Thu (6.5h): Review and revise leaderboard v6. Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
