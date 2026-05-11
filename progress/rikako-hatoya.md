@@ -1,3 +1,5 @@
+2026-05-08 Fri: Continued work on the Dune-backed data integrity flow, focusing on missing/mismatched NFPM token checks and validating query results against local cleanup logic. Built out comparison tooling, tests, and documentation locally so the Dune findings are easier to reproduce and prepare for PR revision.
+
 2026-05-07 Thu: Work on data integrity PR revision. Testing of queries with Dune.
 
 2026-05-06 Wed: Pushed leaderboard v6 PR for GCP integration. Tested with separate bucket, now leaderboard has working google oauth login + API implementation.
