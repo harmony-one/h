@@ -1,3 +1,5 @@
+2026-5-13 Wed (0.5h): Revise and experiment with recovery v2 plus rebalancing configurations.
+
 2026-5-12 Tue (5.5h): Revise and experiment with recovery v2 plus rebalancing configurations. Discussions.
 
 2026-5-11 Mon (4.8h): Review wallet hedge, recovery v2 dynamic results.
