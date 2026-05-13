@@ -1,3 +1,7 @@
+2026-06-07 This week, Ulad and I tested changes to the block production flow to ensure blocks are produced only after the next valid timestamp is reached. Additionally, I worked on improvements to block production and shard state handling in the codebase.
+
+---
+
 2026-05-30 This week, Ulad and I iterated on the NTP implementation and finalized a working approach. I standardized timestamps across log messages and added logic to avoid duplicate second-level timestamps. 
 
 ---
