@@ -1,4 +1,4 @@
-2026-5-13 Wed (6.8h): Revise and experiment with recovery v2 plus rebalancing configurations.
+2026-5-13 Wed (7.9h+): Revise and experiment with recovery v2 plus rebalancing configurations.
 
 2026-5-12 Tue (5.5h): Revise and experiment with recovery v2 plus rebalancing configurations. Discussions.
 
