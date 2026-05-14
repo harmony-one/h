@@ -1,3 +1,5 @@
+2026-05-10 Tue: In-person team sync in SF with Li and Aaron. Revision of current leaderboard deploy for better batch grouping organization. 
+
 2026-05-09 Mon: Worked on the Dune missing-mint audit for the data-integrity PR, including narrowing the query to the target pool and estimating export cost for the independent token-ID comparison. While validating Dune vs DB counts, found DB missing whole target-pool mint ingestion days in Nov 2025-Jan 2026, with November also missing from the remote source used for local sync.
 
 2026-05-08 Fri: Continued work on the Dune-backed data integrity flow, focusing on missing/mismatched NFPM token checks and validating query results against local cleanup logic. Built out comparison tooling, tests, and documentation locally so the Dune findings are easier to reproduce and prepare for PR revision.
