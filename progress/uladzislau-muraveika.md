@@ -1,3 +1,17 @@
+2026-05-15 Fri:
+
+Main focus was the NTP topic and the internal discussion about the best how to deal with it. We agreed on the fact that extra source of time is in fact reinvention of NTP daemon in the golang code, thus we decided to preserve all the code connected with fixes and remove everything connected with this extra clock in the code. More details in the Konstantin's PR -https://github.com/harmony-one/harmony/pull/5042. It still needs verification, but should speed up with upcoming hardfork, because team now agreed on the approach.
+
+From my side, I have deep diving into chrony Linux daemon topic - this is preferable and the most advanced way to sync up time. I've reviewed our chrony daemon setup, fixed a few problems like wrong config path and done config hardering for our purposes, I'll share the config and the way how to setup and monitor chrony with comnunity.
+
+One more topic - new archival node - tested under real load and remove old one, we will start to save around 150$ each month with a new node.
+
+From the systems enginnering side, I've reviewed the [fragnesia issue](https://github.com/v12-security/pocs/tree/main/fragnesia) and found that mitagation is the same as dirty frag. I've updated our nginxes to the [1.30.1 version](https://github.com/nginx/nginx/releases/tag/release-1.30.1), because of 4 CVEs in the previous releases.
+
+And finally, I've updated erigon, it destroyed its DB -> recover it from the snapshot, updated Base reth node, teleport proxy, Grafana, Loki to the latest versions
+
+---
+
 2026-05-08 Fri:
 
 Main focus was the [NTP fix](https://github.com/harmony-one/harmony/pull/5037) testing, previous issues were fixed, more NTP servers added, all clock screw cases both in past and future were tested on the devnet. Awaiting approval to plan hardfork on the testnet.
