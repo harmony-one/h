@@ -1,4 +1,4 @@
-2026-5-14 Thu (7.4h+): Finalize v14 recovery experiments, configs, memos, and deploy in production. Revise performance calculations and notifications.
+2026-5-14 Thu (7.6h): Finalize v14 recovery experiments, configs, memos, and deploy in production. Revise performance calculations and notifications.
 
 2026-5-13 Wed (9.8h): Revise and experiment with recovery v2 plus rebalancing configurations.
 
