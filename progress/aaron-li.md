@@ -1,4 +1,4 @@
-2026-5-16 Sat (0.3h+): Second round of review for fee integrity.
+2026-5-16 Sat (0.9h): Second round of review for fee integrity.
 
 2026-5-15 Fri (4.7h): Second round of review for fee integrity. Product research. Debug and fix performance reporting inconsistencies. Fix production out-of-disk errors, identify damage and recover production, reconfigure disks and logs.
 
