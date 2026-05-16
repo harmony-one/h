@@ -1,8 +1,12 @@
-2026-05-11 Wed: Work on data-integrity PR. Work on improving leaderboard grouping/display.
+2026-05-15 Fri: Worked on token-ID recovery for Aerodrome LP positions, including fetching receipts and checking missing token IDs against transaction logs. Pushed and cleaned up the [PR](https://github.com/polymorpher/lp-backtest/pull/4) so the recovery work stays documented without adding too much extra script logic.
 
-2026-05-10 Tue: In-person team sync in SF with Li and Aaron. Revision of current leaderboard deploy for better batch grouping organization. 
+2026-05-14 Thu: Worked on leaderboard grouping/display so runs from the same strategy config can be compared across different periods. Started separating config identity from batch/run IDs and sketched how local/debug runs should be grouped, pushed [PR](https://github.com/polymorpher/lp-hedger/pull/30).
 
-2026-05-09 Mon: Worked on the Dune missing-mint audit for the data-integrity PR, including narrowing the query to the target pool and estimating export cost for the independent token-ID comparison. While validating Dune vs DB counts, found DB missing whole target-pool mint ingestion days in Nov 2025-Jan 2026, with November also missing from the remote source used for local sync.
+2026-05-13 Wed: Worked on the data-integrity PR and fixed a few strategy edge cases, including NAV boundary handling. Also updated the Aerodrome chase flow so the inflight guard does not block the atomic chase operation.
+
+2026-05-12 Tue: In-person team sync in SF with Li and Aaron. Revision of current leaderboard deploy for better batch grouping organization. 
+
+2026-05-11 Mon: Worked on the Dune missing-mint audit for the data-integrity PR, including narrowing the query to the target pool and estimating export cost for the independent token-ID comparison. While validating Dune vs DB counts, found DB missing whole target-pool mint ingestion days in Nov 2025-Jan 2026, with November also missing from the remote source used for local sync.
 
 2026-05-08 Fri: Continued work on the Dune-backed data integrity flow, focusing on missing/mismatched NFPM token checks and validating query results against local cleanup logic. Built out comparison tooling, tests, and documentation locally so the Dune findings are easier to reproduce and prepare for PR revision.
 
