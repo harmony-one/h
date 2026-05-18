@@ -1,4 +1,4 @@
-2026-5-18 Mon (1.6h): Fix production arcane errors.
+2026-5-18 Mon (1.7h+): Fix production arcane errors.
 
 ---
 
