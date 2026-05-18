@@ -1,70 +1,70 @@
-2026-5-18 Mon (2.1h+): Check RPC node health. Fix production arcane errors.
+2026-5-18 Mon (2.4h+): Check RPC node health. Production fixes for v1.6.2 — Hyperliquid WS shutdown guard, partial-manager cleanup, post-deploy verification. Surface inner Zodiac/Aerodrome reverts via diagnostic eth_call.
 
 ---
 
-2026-5-17 Sun (8.1h): Fix production stale issues. Progress review. Production status review.
+2026-5-17 Sun (8.1h): Production reliability hardening (Phase 1-4 db-staling postmortem) — self-recovering DB + duration watchdog, Hyperliquid/CoinDesk staleness monitors, severity-tagged Telegram alerts. Retire fee/IL exit. Progress and production status review.
 
-2026-5-16 Sat (1.8h): Fix dot-country issues. Second round of review for fee integrity.
+2026-5-16 Sat (1.8h): Fix dot-country issues. Second-round fee-integrity branch review.
 
-2026-5-15 Fri (4.7h): Second round of review for fee integrity. Product research. Debug and fix performance reporting inconsistencies. Fix production out-of-disk errors, identify damage and recover production, reconfigure disks and logs.
+2026-5-15 Fri (4.7h): Second-round fee-integrity review. Product research. Fix perf reporting divergence — replace silent-revert query_uncollected_fees with plain collect(); force fresh LP fetch. Recover production from out-of-disk (damage assessment, disk/log reconfigure). v1.6.0 release.
 
-2026-5-14 Thu (7.6h): Finalize v14 recovery experiments, configs, memos, and deploy in production. Revise performance calculations and notifications.
+2026-5-14 Thu (7.6h): Finalize v14 recovery (chase-attribution memo, prod configs, deployment memo) and deploy in production. Revise perf_multi — split Trading vs Inventory PnL, lineage gap rows, $-denominated drawdown, lineage-risk metric fix. New lp-hedger-notify CLI.
 
-2026-5-13 Wed (9.8h): Revise and experiment with recovery v2 plus rebalancing configurations.
+2026-5-13 Wed (9.8h): Recovery v2 + rebalancing: v14 chase Patch C (bypass Aerodrome inflight guard inside atomic op). Stage A2/A2.5/A3/A4 sweep specs. Live multi-profile aggregation cache, extend perf lineage through 400k profiles, fix NAV boundary.
 
-2026-5-12 Tue (5.5h): Revise and experiment with recovery v2 plus rebalancing configurations. Discussions.
+2026-5-12 Tue (5.5h): Recovery v2 + rebalancing: implement v14 A1 peak-drawdown buy guard and bootstrap min-history (impl + unit tests). Stage A2 dd-guard, A2.5 graduation micro-sweep, A3 chase-exercise, A4 candidates specs. v13.33 Phase A synthesis. Discussions.
 
-2026-5-11 Mon (4.8h): Review wallet hedge, recovery v2 dynamic results.
-
----
-
-2026-5-10 Sun (9.3h): Review wallet hedge, recovery v2 dynamic results.
-
-2026-5-9 Sat (2.1h): Review wallet hedge, recovery v2 dynamic results.
-
-2026-5-8 Fri (8.2h): Revise recovery v2. Review blockchain timestamp issue and NTP usage.
-
-2026-5-7 Thu (6.5h): Review and revise leaderboard v6. Compare and improve autoswap v2 vs regime-aware one-sided recovery v2.
-
-2026-5-6 Wed (6.8h): Implement and test autoswap v2.
-
-2026-5-5 Tue (10.1h): Implement and test autoswap v2. Deploy one-sided recovery with spot chase and graduation. Discussion on auto swap, wallet hedge, one-sided recovery, leaderboard, production alignment. Review production performance and backtesting strategies.
-
-2026-5-4 Mon (5.2h): Review production performance and backtesting strategies.
+2026-5-11 Mon (4.8h): Review wallet hedge (gwh v14 wallet redesign): finalize HOLD verdict, canonical family + companion review memo, archive parallel gpt-5.5 review and PR-original family memo. Recovery v2 dynamic results.
 
 ---
 
-2026-5-2 Sat (3.6h): Review Google Auth Plan. Evaluate configs to escape sink state issue.
+2026-5-10 Sun (9.3h): Recovery v2 fix Phase 1 + 1.5 — production fixes (17-file impl), smoke configs, recovery-necessity batch specs and memos. Flat-wallet inventory_policy auto-swap Phase 2 wiring. Wire -x/--experiments mode. Review wallet hedge dynamic results.
 
-2026-5-1 Fri (5.7h): Review Google Auth Plan. Evaluate configs to escape sink state issue. Review leaderboard v5.
+2026-5-9 Sat (2.1h): Review wallet hedge + recovery v2 dynamic results. Wire regime guard, dynamic fill, and recovery arbitration into auto-swap (v13.32 sidecar specs + code review memo). v13.25 production-log review memo.
 
-2026-4-30 Thu (4.6h): Review leaderboard v5.
+2026-5-8 Fri (8.2h): Inventory-aware recovery-width policy: 10-file implementation, batch specs, smoke configs, telemetry/cap bug fixes. Review blockchain timestamp / NTP issue. Leaderboard: gzip payloads, page-level BTC baseline series, slim time-series payload.
 
-2026-4-29 Wed (7.1h): Verify hedging config and correctness. Fix duplication issues in snapshots where token id is null. Fee share calculation, and chart improvements.
+2026-5-7 Thu (6.5h): Review + revise leaderboard v6 — derive overlay baselines from BTC spot, tighten payload loading modes, Google account reselection, prod deploy + runbook docs. Plans for autoswap v2 vs regime-aware one-sided recovery v2.
 
-2026-4-28 Tue (4.6h): Fee share calculation, and chart improvements. Discussion. Review and revise fee integrity and data integrity.
+2026-5-6 Wed (6.8h): Implement and test autoswap v2 — redesign controller, modularize decision pipeline (13-file refactor), split Goldilocks regime orchestration, pre/post-refactor regression specs. Dynamic recovery-width experiments + one-sided recovery policy refactor.
 
-2026-4-27 Mon (8.9h): Review and revise fee integrity and data integrity.
+2026-5-5 Tue (10.1h): Deploy one-sided recovery (gwh v13 prod) with spot chase + graduation — recovery v2 controls, min-width knob, chase bypasses mint cooldown, LP reposition followups through safety. Implement and test autoswap v2 (cont.). Discussion on autoswap, wallet hedge, OSR, leaderboard, production alignment. Review prod performance + backtests.
 
----
-
-2026-4-25 Sat (6.2h): Improve performance notification and reporting system.
-
-2026-4-24 Fri (4.4h): Review and revise leaderboard v4.
-
-2026-4-23 Thu (6.9h): Deploying v13 in production. Version collapsing and config naming.
-
-2026-4-22 Wed (10.9h): Goldilocks with hedge v13 experiments. Review leaderboard v3. Improve batch analysis, experiment, and spec tooling.
-
-2026-4-21 Tue (3.9h): Discussion. Review and refine hedge activation performance in goldilocks with hedge.
-
-2026-4-20 Mon (5.7h): Review and refine hedge activation performance in goldilocks with hedge. Review and revise leaderboard, data, fee integrity.
+2026-5-4 Mon (5.2h): Review production performance and backtesting strategies — v13.24 remote-session 2150d64b recovery review memo and v2 recovery follow-up plan.
 
 ---
 
-2026-4-19 Sun (6.2h): Testing and analyzing asymmetric LP and improved autoswap, autosizing.
+2026-5-2 Sat (3.6h): Review leaderboard v6 Google Auth + GCP control-plane plan. Evaluate one-sided recovery minting to escape sink state — implement, test, batch specs, supplements, enable in gwh v13 prod. Harden batch-launcher repo updates.
 
-2026-4-18 Sat (2.6h): Asymmetric LP deployment, optimizing autoswap and autosizing.
+2026-5-1 Fri (5.7h): Review Google Auth + GCP control-plane plan. Evaluate one-sided recovery to escape sink state. Leaderboard v5.1: cache + backfill NAV series, skip oversized backfills, persist cross-period controls in hash, refine filter controls.
+
+2026-4-30 Thu (4.6h): Review leaderboard v5.1 — redesign period-comparison controls (14-file change), refine across-period aggregation, tighten table columns, dialog-shift fix. v13.23 production hedge-activation analysis + Batch J perp-action audit memos.
+
+2026-4-29 Wed (7.1h): Verify hedging config + correctness. Fix snapshot duplication for null token ids (alembic migration `nulls not distinct` + dedup maintenance script). Aerodrome fee-share calculation + standalone CLI, plus chart improvements. Common prod-db config + VM→local sync (PG 17/15 compat).
+
+2026-4-28 Tue (4.6h): Fee-share calculation + perf_multi chart improvements (plot styling, y=0 alignment, mock plots). Discussion. Revise data integrity — separate DB-known NFPM reconciliation, date-aware ghost-impact, wrap-up review + Dune audit plan.
+
+2026-4-27 Mon (8.9h): Review + revise data integrity — move integrity scripts into package, centralize Etherscan block lookup, configurable RPC block fallback (TOML), intraday ghost-fee impact computation, descriptive verification artifacts and clarified findings.
+
+---
+
+2026-4-25 Sat (6.2h): Improve performance notification + reporting — perf_multi NAV boundary auto-detection + outlier handling, principal flow + contributed-principal profile charts, close-time and active unrealized PnL, Telegram chart-upload timeout handling. LP PnL diagnostic CLI.
+
+2026-4-24 Fri (4.4h): Review + revise leaderboard v4 — build frontend during sync, polish frontend parity with prod, filter-count + selector-toggle fixes, local all-version HTML output, align fixture with production payload, semantic-merge plan.
+
+2026-4-23 Thu (6.9h): Deploy gwh v13 in production with verification batches (v13.19-22 deployment memos). Version collapsing + config naming via leaderboard semantic labels (HODL-mix rename, label backend + CLI, mapping-refresh speedup). LP allocation details in mint notifications. v1.4.0 release.
+
+2026-4-22 Wed (10.9h): Goldilocks with hedge v13: Batch G (auto-swap envelope) results, Batch H (dynamic range) specs + supplements, Batch J production-verification specs. Review leaderboard v3 (APY default metric, filter/group fixes, run dates + strategy abbrevs). Improve batch analysis, experiment, and spec tooling (raw-config pipeline).
+
+2026-4-21 Tue (3.9h): Discussion. Review + refine hedge activation in gwh — v13.10 Batch F wallet-policy specs + plan, v13.11 wallet-hedge memo, v13.12 Batch G autoswap-envelope plan + specs. Use raw configs in analysis pipeline; clarify run/batch analysis scope.
+
+2026-4-20 Mon (5.7h): Review + refine hedge activation — gwh e2 reanalysis + agent guardrails, e3 positive-CBR localization specs + plan, canonicalize supplement docs to GCS. Leaderboard: drop Cloud Function deploy, XSS fix in drill-down pin button, harden git remote URL discovery.
+
+---
+
+2026-4-19 Sun (6.2h): Test + analyze asymmetric LP and improved autoswap/autosizing. Document v13 corrected findings + Batch D rationale, add v13 hedge-activation specs. Default batch analysis to Opus 4.7 max-effort + adaptive thinking.
+
+2026-4-18 Sat (2.6h): Asymmetric LP deployment — wire Goldilocks LP to asymmetric range selection, shared LP fraction config + sizing helpers, design doc. v13 asym/swap/reserve sweep batch specs. Fix backtest session-id + missing estimate_token0/1_amount methods.
 
 2026-4-17 Fri (8.9h): Production lp-hedger reproducible deployment. Asymmetric LP deployment, optimizing autoswap and autosizing.
 
