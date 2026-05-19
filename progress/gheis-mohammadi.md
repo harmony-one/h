@@ -1,3 +1,13 @@
+2026-05-16 Sat: ## Harmony Weekly Progress Report
+
+Last week I created [PR #5041](https://github.com/harmony-one/harmony/pull/5041) to address a reported issue related to beacon block slashing payload handling. The PR improves how slash data is carried inside block headers and how it is validated during state transition processing. Slash payloads are now decoded once at the beginning of block execution, and validation has been integrated into the shared block processing flow so that all execution paths—including cached replay paths—apply the same checks consistently and in the same order. This prevents divergence between full execution and cached processing behavior.
+
+The update also fixes the proposer path responsible for collecting verified slash candidates for upcoming headers. Previously, duplicate entries keyed only by evidence identity could still appear as successful candidates even after being classified as failures. The new logic ensures failed entries are handled consistently and are not incorrectly reintroduced into the candidate set.
+
+The PR is currently under testing and validation, with completion expected early next week.
+
+---
+
 2026-05-08 Sat: Last week was very productive, with major progress made toward finalizing the upcoming hard fork changes. We are now close to completing the block timestamp update after extensive technical discussions and reviews within the team. The implementation is in its final stage and is expected to be merged into `main` soon as a patch release.
 
 I also worked on [PR #5038](https://github.com/harmony-one/harmony/pull/5038), which improves interpreter compatibility with epoch-gated EIPs. The update ensures jump tables correctly respect chain configuration flags for EIP-3855 (`PUSH0`), EIP-3860 (initcode metering), and EIP-8024 (`DUPN/SWAPN/EXCHANGE`). The PR also adds the missing `IsEIP3855` rule wiring and introduces tests to validate automatic activation behavior across different epoch configurations.
