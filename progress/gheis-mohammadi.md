@@ -6,7 +6,7 @@ The PR is currently under testing and validation, with completion expected early
 
 ---
 
-2026-05-08 Sat: Last week was very productive, with major progress made toward finalizing the upcoming hard fork changes. We are now close to completing the block timestamp update after extensive technical discussions and reviews within the team. The implementation is in its final stage and is expected to be merged into `main` soon as a patch release.
+2026-05-09 Sat: Last week was very productive, with major progress made toward finalizing the upcoming hard fork changes. We are now close to completing the block timestamp update after extensive technical discussions and reviews within the team. The implementation is in its final stage and is expected to be merged into `main` soon as a patch release.
 
 I also worked on [PR #5038](https://github.com/harmony-one/harmony/pull/5038), which improves interpreter compatibility with epoch-gated EIPs. The update ensures jump tables correctly respect chain configuration flags for EIP-3855 (`PUSH0`), EIP-3860 (initcode metering), and EIP-8024 (`DUPN/SWAPN/EXCHANGE`). The PR also adds the missing `IsEIP3855` rule wiring and introduces tests to validate automatic activation behavior across different epoch configurations.
 
