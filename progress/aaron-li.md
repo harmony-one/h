@@ -66,43 +66,43 @@
 
 2026-4-18 Sat (2.6h): Asymmetric LP deployment — wire Goldilocks LP to asymmetric range selection, shared LP fraction config + sizing helpers, design doc. v13 asym/swap/reserve sweep batch specs. Fix backtest session-id + missing estimate_token0/1_amount methods.
 
-2026-4-17 Fri (8.9h): Production lp-hedger reproducible deployment. Asymmetric LP deployment, optimizing autoswap and autosizing.
+2026-4-17 Fri (8.9h): Production lp-hedger reproducible deployment — scripted GCE VM provisioning, VM-to-VM sync (configs + Postgres roles, PG-17 pinned), destroy/list helpers, journald logging (INFO journal/DEBUG file), configurable strategy in execution.toml. Goldilocks-with-hedge startup utilization (perp + wallet hedge, balance snapshot). Asymmetric LP plan + autoswap/autosizing.
 
-2026-4-16 Thu (7.4h): Pre-production goldilocks with hedge configuration and experiments. Leaderboard deployment. Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-16 Thu (7.4h): Leaderboard deployment to GCE VM (Debian 13 + venv + systemd timer, HTTPS LB + CDN, isolated data bucket with `--since DATE` filter, version_order by git commit timestamp, cross-version index + "All runs" page, no-cache override). Pre-production gwh — v12 hedge-ratio sweep + auto-swap fix specs, v11 cross-period findings (no robust config), final production-recommendations doc. Refine deployment + review fee validation.
 
-2026-4-15 Wed (4.0h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-15 Wed (4.0h): Refine gwh deployment — OOS validation findings (DD guard locked out profitable LP for 63% of period; correct LP-was-profitable $12K finding), v11 production-ready + bull-validation specs, naked_hedge airy-jackdaw OOS report. Fee-integrity branch review + virtual-fees validator refactor (--constant-block-time flag, unified burn/collect replay).
 
-2026-4-14 Tue (3.6h): Discussions. Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-14 Tue (3.6h): Discussions. Refine gwh deployment + fee validation review. Add Hyperliquid S3 archive retriever (pre-CoinDesk era data) + diagnose-hyperliquid-tz command, fetcher progress-display fixes and cutoff adjustment.
 
-2026-4-13 Mon (4.0h): Refine goldilocks with hedge, prepare deployment. Review fee validation.
+2026-4-13 Mon (4.0h): Refine gwh — exempt wallet hedge establishment from CBR cost/benefit filter, gwh v10 OOS specs, CBR fine-sweep findings (over-hedging paradox). Naked_hedge round 3 (28 runs, 3 batches): OOS validation specs, auto-swap safety net, predicted-optimal $10K config. Force-delete GCP instances + partial batch-ID resolution. Fee validation review.
 
 ---
 
-2026-4-12 Sun (4.6h): Review and revise latest goldilocks with hedge.
+2026-4-12 Sun (4.6h): Review + revise gwh — v10 pre-production and CBR sweep findings. Naked_hedge execution-params findings (5 batches) + fine-position-size, range × size, SMA × cooldown specs; USDC safety guards. Petname VM/batch IDs + strategy abbreviations, lp-hedger-batch cleanup CLI. Perf chart improvements (BTC buy-and-hold benchmark, 3 plot types, daily grid).
 
-2026-4-11 Sat (6.3h): Review and revise latest goldilocks with hedge.
+2026-4-11 Sat (6.3h): Review + revise gwh v9 — refactor NAV drawdown guard into shared mixin, fix perp_leverage_mode (spot→infinite) and move incorrect batches to pending_rerun, cross-version comparison. v10 pre-production + CBR-sweep specs. New cli_perf_multi: NAV chained-annualized chart, --flow capital transfers between profiles, BTC buy-and-hold benchmark. Naked_hedge specs A-E (range deep dive, range × auto-flip, hedge check interval, position-size sweep, auto-sizing + auto-swap) + AutoSwapMixin integration. VRP scale tests.
 
-2026-4-10 Fri (7.7h): Review experiments and batch test reports. Redeploy fetcher. Design and deploy new backtesting experiments.
+2026-4-10 Fri (7.7h): Review experiments + batch reports. Redeploy lp-backtest fetcher: Cloud SQL provisioning (setup-fetch-user.sh, seed-staging.sh), staging/cloud_staging profiles, error-type tracking in fetch reports, --skip flag, defaults to cloud profile. New batch analysis modules (batch_summary, batch_compare, health_check, config_params) + GCS sync CLIs (upload/sync-batch-results). Design + deploy VRP and naked_hedge sweep specs.
 
-2026-4-9 Thu (8.7h): Investigate and replicate high memory usage issues and stuck backtesting instances. Investigate website resolution issues from dot-country websites.
+2026-4-9 Thu (8.7h): Investigate + replicate high memory usage in lp-backtest — incremental cache loading + sliding window for BlockTimestampCache and DeribitPriceCache, SwapFeeCache → lightweight CachedSwapWithFee dataclass, release/expunge ORM references after construction, conditional GC after long burns, skip fast fee pass when exact requested. Investigate website resolution issues from dot-country websites.
 
-2026-4-8 Wed (4.4h): Compare experiment results. Repair fetcher. Deploy leaderboard. Domain management.
+2026-4-8 Wed (4.4h): Compare experiment results — batch_20260408 analysis, fix risk-tracker NAV formula to match perp_leverage_mode (correct accounting). Repair fetcher. Deploy leaderboard. Domain management. Orchestrator stall detection (OOM diagnosis + instance memory monitoring), evict AerodromeLiquidityIndex after full LP burn to prevent OOM.
 
-2026-4-7 Tue (5.5h): Compare experiment results. Repair fetcher. Deploy leaderboard. Discussions on VRP results, Hyperliquid multisig setup, LP pool state and event verifications, hedge strategies and delta exposures.
+2026-4-7 Tue (5.5h): Compare experiment results — CSV-primary three-basis trajectory extractor, sync_results CSV-by-default, batch adaptive timeout (configurable thresholds extending deadline for runs making progress). Repair fetcher; leaderboard deployment — refactor config to own TOML, Cloud Function IAM hardening + sync skip-list fixes. Naked_hedge hedge-check cooldown perf fix (588ms/loop during crashes). Discussions on VRP results, Hyperliquid multisig setup, LP pool state + event verifications, hedge strategies + delta exposures.
 
-2026-4-6 Mon (11.3h): Review updates on leaderboard, goldilocks with hedge, realized volatility experiments.
+2026-4-6 Mon (11.3h): Review updates — RV calculation investigation writeup, perf(signals) 126-330x speedup + median bucket aggregation, real-data RV experiment rewrite (direct DB, dual baseline, bucket sweep), wire rv_bucket_agg into goldilocks production defaults. Leaderboard + gwh updates. Replace gsutil with `gcloud storage` across batch scripts; install Cloud Ops Agent in VM image. Fix graceful-stop signal before instance delete on timeout.
 
 ---
 
 2026-4-5 Sun (0.4h): Finalize multisig and zodiac deployment by aggregating assets to production multisig.
 
-2026-4-4 Sat (6.4h): Transfer assets and deploy multisig-based trading. Zodiac wallet address and reporting fixes. Telegram URL redaction. Engine command system for pause and position withdrawal. DB profile management.
+2026-4-4 Sat (6.4h): Transfer assets and deploy multisig-based trading. Zodiac fixes: zodiac-aware `resolve_wallet_address`, fund_owner_address in unrealized PnL, signer-address Basescan fetch, accept Roles Modifier target, encode inner calls via `encode_transaction_data`, Zodiac summary in logs + Telegram startup. Telegram URL redaction (httpx filter across notify/batch/perf/cli). Engine command system: CommandsMixin, `_paused` flag, lp-hedger-pause CLI, exit_position on all engines. DB profile management (`resolve_db_profile`, init/drop scripts).
 
-2026-4-3 Fri (5.5h): Multisig trading deployment. Backtest performance optimizations and hedge safety cap. Batch orchestrator instance cleanup and crash resilience. Timestamp repair scripts for Aerodrome event data.
+2026-4-3 Fri (5.5h): Multisig trading deployment (release). Backtest perf — per-loop price cache for `get_best_bid_ask`, hedge-check short-circuit when daily cap reached, `is_deribit_cap_reached` on safety module. Batch orchestrator: eager instance delete on terminal state, finally-block cleanup for crash resilience, `_delete_instance_safe` helper. Timestamp repair (`fix_event_timestamps`: cross-table check + RPC refetch + DB repair, single-pass monotonicity cluster detection) + alembic lower() indexes for collects/gauge tables.
 
-2026-4-2 Thu (7.3h): Retire AerodromePoolPrice in favor of swap-tick pricing across backtest server. Price consistency verification and timestamp repair planning. Deploy price hardening. Domain management.
+2026-4-2 Thu (7.3h): Retire `AerodromePoolPrice` in favor of swap-tick pricing across lp-backtest engine, scripts (irr, compute_daily_fee), endpoints, and tests. Price consistency verification scripts — `verify_price_consistency` (block-cache queries, batch output, spotcheck sampling), `verify_block_cache_consistency`, divergence CSV observe test. Timestamp monotonicity check + repair plan. Deploy price hardening + VRP RV-window-sweep spec. Domain management.
 
-2026-4-1 Wed (6.2h): Batch orchestrator improvements: concurrent polling, retry hardening, GCS sync and compaction scripts. Fix naked hedge pricing and USDC-only sizing. Strategy parameter sweep specs.
+2026-4-1 Wed (6.2h): Batch orchestrator improvements: concurrent poll loop (asyncio.gather), retry hardening (async `_enqueue_retry` + ProtocolError catch + `delete_instance` 300s timeout), sync_results.sh + compact_results.sh + compact_local.sh for GCS sync/compaction. Fix naked-hedge pricing arg, USDC-only (asset_fraction=0) handling in auto-sizing, portfolio-basis metrics in batch summary. Strategy parameter sweep specs (naked_hedge auto-flip ON-only, VRP bear interval).
 
 2026-3-31 Tue (1.3h): Discussion on multisig config, batch backtesting, fee estimation accuracy and data integrity. VRP timestamp-aware realized volatility refactor. Goldilocks optimization experiment planning.
 
