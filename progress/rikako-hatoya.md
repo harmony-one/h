@@ -1,4 +1,12 @@
-2026-05-15 Fri: Worked on token-ID recovery for Aerodrome LP positions, including fetching receipts and checking missing token IDs against transaction logs. Pushed and cleaned up the [PR](https://github.com/polymorpher/lp-backtest/pull/4) so the recovery work stays documented without adding too much extra script logic.
+2026-05-18 Mon: Continue implementing fixes for issues addressed in fee-integrity PR. Also reviewing feedback for [PR](https://github.com/polymorpher/lp-backtest/pull/4) on missing token ID investigation.
+
+---
+
+2026-05-17 Sun: Looking through updated feedback from Aaron on fee-integrity [PR](https://github.com/polymorpher/lp-backtest/blob/fee-integrity/docs/review/fee_integrity_branch_review_2.md). Started working on addressing the issues listed.
+
+2026-05-16 Sat: [Wrote](https://github.com/polymorpher/lp-backtest/blob/dadc815e013a6ecd2d0d0e759439940fca0c1c2f/docs/review/investigation_missing_mint_token_ids_2026_05_15.md) a write-up for the missing token ID issue. Pushed and cleaned up the [PR](https://github.com/polymorpher/lp-backtest/pull/4) so the recovery work stays documented without adding too much extra script logic. 
+
+2026-05-15 Fri: Worked on token-ID recovery for Aerodrome LP positions, including fetching receipts and checking missing token IDs against transaction logs. Investigated cause for token-id being stored as NULL and conducted a partial dry-run test if recovery script (fix_token_id.py) can recover missing ID.
 
 2026-05-14 Thu: Worked on leaderboard grouping/display so runs from the same strategy config can be compared across different periods. Started separating config identity from batch/run IDs and sketched how local/debug runs should be grouped, pushed [PR](https://github.com/polymorpher/lp-hedger/pull/30).
 
