@@ -1,4 +1,4 @@
-2026-5-18 Mon (2.4h+): Check RPC node health. Production fixes for v1.6.2 — Hyperliquid WS shutdown guard, partial-manager cleanup, post-deploy verification. Surface inner Zodiac/Aerodrome reverts via diagnostic eth_call.
+2026-5-18 Mon (2.4h): Check RPC node health. Production fixes for v1.6.2 — Hyperliquid WS shutdown guard, partial-manager cleanup, post-deploy verification. Surface inner Zodiac/Aerodrome reverts via diagnostic eth_call.
 
 ---
 
