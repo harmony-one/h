@@ -1,3 +1,11 @@
+2026-05-22 This week the focus was on getting the upcoming releases ready. I assigned dedicated activation epochs to each release on devnet and testnet, rebased the corresponding branches, and wrapped up the tracer fixes — merging the final changes after users confirmed everything worked as expected. I also reviewed and merged several pull requests from the team.
+
+---
+
+2026-05-15 This week, I replaced all NTP-related code with the chrony daemon and cherry-picked the changes required to wait for the next valid timestamp before processing blocks. Ulad and I also tested the block production flow to ensure blocks are produced only after the next valid timestamp is reached, and I made additional improvements to block production and shard state handling.
+
+---
+
 2026-06-07 This week, Ulad and I tested changes to the block production flow to ensure blocks are produced only after the next valid timestamp is reached. Additionally, I worked on improvements to block production and shard state handling in the codebase.
 
 ---
