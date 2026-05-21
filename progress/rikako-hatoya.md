@@ -1,3 +1,7 @@
+2026-05-20 Wed: Executed the [plan](https://github.com/polymorpher/lp-backtest/blob/2e54543900fb9b0bce52167a95a0f884591e290f/.cursor/plans/mint_token_id_impact_recovery_2026_05_20.plan.md) on a shorter range first, using Nov 2025 as the pilot: downloaded Dune data, attributed each missing-token-ID row to its source/type, validated recoverability against local DB evidence, analyzed fee impact, and confirmed the recovery script can patch affected rows. Then ran the recovery over a longer window in chunks, which surfaced a few follow-up data issues, and also looked into the root cause of missing ID rows ([PR here](https://github.com/polymorpher/lp-backtest/pull/4)).
+
+2026-05-19 Tue: In-person sync with Li and Aaron. Worked on the missing mint token ID investigation: re-wrote the recovery PR plan with phased next steps covering Dune validation, DB impact analysis, recovery-script testing, and rollout criteria ([plan here](https://github.com/polymorpher/lp-backtest/blob/2e54543900fb9b0bce52167a95a0f884591e290f/.cursor/plans/mint_token_id_impact_recovery_2026_05_20.plan.md)).
+
 2026-05-18 Mon: Continue implementing fixes for issues addressed in fee-integrity PR. Also reviewing feedback for [PR](https://github.com/polymorpher/lp-backtest/pull/4) on missing token ID investigation.
 
 ---
