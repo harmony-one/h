@@ -1,3 +1,15 @@
+2026-05-22 Fri:
+
+Main focus was the NTP topi again, verified [PR-5042](https://github.com/harmony-one/harmony/pull/5042) on the devnet, placed a comment with results. Aditionally, I've created a documentation article [Recommended Chrony Setup for Validator Nodes](https://docs.harmony.one/home/network/validators/node-setup/0.-recommended-chrony-setup-for-validator-nodes) in the Harmony documentation, covered how-to, hardened setup, ansible playbook, possible ways how to monitor this with node exporter metrics and finally, shared it with community.
+
+Additionally, helped dev team with the [RP-5045](https://github.com/harmony-one/harmony/pull/5045), reviewed, fixed and deployed it over devnet and testnet a few times.
+
+From the systems engineering side, I've updated our RPC with to the latest os version and the latest stable nginx version due to current undisclosed RCE in nginx from the [nebusecurity](https://x.com/nebusecurity/status/2057071579876753643) - we need to be ready to upgrade here asap.
+
+And finally, I've updated updated Base reth node to the [v0.16.0](https://github.com/base/node/releases/tag/v0.16.0) to support Azul upgrade on the 28th of May.
+
+---
+
 2026-05-15 Fri:
 
 Main focus was the NTP topic and the internal discussion about the best how to deal with it. We agreed on the fact that extra source of time is in fact reinvention of NTP daemon in the golang code, thus we decided to preserve all the code connected with fixes and remove everything connected with this extra clock in the code. More details in the Konstantin's PR -https://github.com/harmony-one/harmony/pull/5042. It still needs verification, but should speed up with upcoming hardfork, because team now agreed on the approach.
@@ -223,7 +235,7 @@ And finally, I've moved one testnet Digital Ocean validator running out of space
 
 2026-01-16 Fri:
 
-Main focuses on this week was on the system engineering activities, I've updated SSL certs on full and archival db RPCs, nginx to the latest mainline version - [1.28.1](https://nginx.org/en/CHANGES-1.28), nginx's vts module to the [latest version](https://github.com/vozlt/nginx-module-vts/commits/master/), erigon to the [v3.3.3](https://github.com/erigontech/erigon/releases/tag/v3.3.3) release.
+Main focuses on this week was on the system engineering activities, I've updated SSL certs on full and archival db RPCs, nginx to the latest stable version - [1.28.1](https://nginx.org/en/CHANGES-1.28), nginx's vts module to the [latest version](https://github.com/vozlt/nginx-module-vts/commits/master/), erigon to the [v3.3.3](https://github.com/erigontech/erigon/releases/tag/v3.3.3) release.
 
 As part of support activities, I was helping with maintenance tasks with .country domains and upgrading devnet/testnet to the latest harmony dev branch version.
 
