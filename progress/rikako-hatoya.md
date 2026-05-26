@@ -1,3 +1,7 @@
+2026-05-24 Sun: Addressed fee-integrity PR review round 2 issues with appendix and conclusion. Pushed changes [here](https://github.com/polymorpher/lp-backtest/pull/2).
+
+2026-05-23 Sat: Continued working on fes-integrity PR. Reviewed Aaron's closing feedback on mint investigation PR.
+
 2026-05-22 Fri: Implemented the bigger round-2 fixes: half-open [start_block, end_block) window with N-1 eth_call reads, per-swap StakingTimeline gating for mixed positions with a coverage-gap unknown bucket, and decoupled the fee math from DB access. Cleaned up the findings doc, added a drift-study + TickMath benchmark, wrote a focused test file (29 tests), and committed.
 
 2026-05-21 Thu: Imported Aaron's round-2 review for the fee-integrity PR and triaged all 17 issues. Started landing the easier fixes (P0 self-liquidity double count, principal subtraction, refreshed lifetime owed, fee-rate block, tickSpacing fallback, clone() cursor).
