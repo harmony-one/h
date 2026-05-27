@@ -1,3 +1,11 @@
+2026-05-23 Sat: Last week I continued working on protocol fixes and validation improvements related to consensus and cross-link handling.
+
+In [PR #5043](https://github.com/harmony-one/harmony/pull/5043), I fixed an issue in the signature verification cache used for cross-link and block header validation. The in-memory LRU cache previously keyed verification results only by block hash, signature, and bitmap, even though verification also depends on shard committee context. The PR adds `shardID` to the cache key so cached verification results are correctly isolated per shard, preventing invalid cache reuse across different committee contexts.
+
+I also worked on [PR #5046](https://github.com/harmony-one/harmony/pull/5046), which strengthens beacon block cross-link validation. Beacon blocks may contain multiple cross-links, and while existing logic already validates ordering and committed storage, it did not ensure uniqueness of `(shardID, blockNum)` pairs within the same header. This update introduces duplicate detection behind a new epoch-gated activation path. The implementation adds a linear-time validation check through `HasDuplicateShardBlocks()` to ensure beacon headers cannot include repeated shard block references after activation.
+
+----
+
 2026-05-16 Sat: Last week I created [PR #5041](https://github.com/harmony-one/harmony/pull/5041) to address a reported issue related to beacon block slashing payload handling. The PR improves how slash data is carried inside block headers and how it is validated during state transition processing. Slash payloads are now decoded once at the beginning of block execution, and validation has been integrated into the shared block processing flow so that all execution paths—including cached replay paths—apply the same checks consistently and in the same order. This prevents divergence between full execution and cached processing behavior.
 
 The update also fixes the proposer path responsible for collecting verified slash candidates for upcoming headers. Previously, duplicate entries keyed only by evidence identity could still appear as successful candidates even after being classified as failures. The new logic ensures failed entries are handled consistently and are not incorrectly reintroduced into the candidate set.
