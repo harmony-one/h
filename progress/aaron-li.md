@@ -1,3 +1,9 @@
+2026-5-27 Wed (0.1h+): Domain operations.
+
+2026-5-26 Tue (1.8h): Discussions.
+
+---
+
 2026-5-21 Thu (1.0h): Product research.
 
 2026-5-20 Wed (3.8h): Product research.
