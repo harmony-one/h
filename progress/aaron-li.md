@@ -1,4 +1,4 @@
-2026-5-27 Wed (0.1h+): Domain operations.
+2026-5-27 Wed (0.4h): Domain operations.
 
 2026-5-26 Tue (1.8h): Discussions.
 
