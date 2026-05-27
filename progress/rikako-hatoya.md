@@ -1,3 +1,7 @@
+2026-05-26 Tue: Continued working on data-integrity PR. Finished wrapping up resolving round #2 issues, pushed PR [here](https://github.com/polymorpher/lp-backtest/pull/3).
+
+2026-05-25 Mon (Memorial day weekend): Started working on reviewing Aaron's round #2 review for data-integrity PR. Fixed some tests and addressed issues, ran some tests with DB.
+
 2026-05-24 Sun: Addressed fee-integrity PR review round 2 issues with appendix and conclusion. Pushed changes [here](https://github.com/polymorpher/lp-backtest/pull/2).
 
 2026-05-23 Sat: Continued working on fes-integrity PR. Reviewed Aaron's closing feedback on mint investigation PR.
