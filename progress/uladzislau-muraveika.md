@@ -1,6 +1,18 @@
+2026-05-29 Fri:
+
+The main focus was the NTP topic and the upcoming hardfork preparation. I've deployed the current dev branch without hardfork epoch, because it included tracers fixes, please we are usually checking how the new code is running alongside the older one - no issues for 3 days. About NTP topic, I'm currently testing Gheis [PR-5048](https://github.com/harmony-one/harmony/pull/5048) for the cascading block-time skew with stall-safe timestamp caps, it will be a great addition for upcoming release.
+
+Additionally, I've tested Konstantin [PR-5016](https://github.com/harmony-one/harmony/pull/5016#issuecomment-4576366462) and put my comment about external validators being dropped from the committee.
+
+The second topic was cloud costs. I've reviewed, communicated with the team and removed a few nodes in the devnet and a bunch of stale applications on the fly.io platform. I will continue to review what to cut more.
+
+And finally, I've updated prometheus, prometheus gateway, erigon, nginx to the latest versions.
+
+---
+
 2026-05-22 Fri:
 
-Main focus was the NTP topi again, verified [PR-5042](https://github.com/harmony-one/harmony/pull/5042) on the devnet, placed a comment with results. Aditionally, I've created a documentation article [Recommended Chrony Setup for Validator Nodes](https://docs.harmony.one/home/network/validators/node-setup/0.-recommended-chrony-setup-for-validator-nodes) in the Harmony documentation, covered how-to, hardened setup, ansible playbook, possible ways how to monitor this with node exporter metrics and finally, shared it with community.
+Main focus was the NTP topic again, verified [PR-5042](https://github.com/harmony-one/harmony/pull/5042) on the devnet, placed a comment with results. Aditionally, I've created a documentation article [Recommended Chrony Setup for Validator Nodes](https://docs.harmony.one/home/network/validators/node-setup/0.-recommended-chrony-setup-for-validator-nodes) in the Harmony documentation, covered how-to, hardened setup, ansible playbook, possible ways how to monitor this with node exporter metrics and finally, shared it with community.
 
 Additionally, helped dev team with the [RP-5045](https://github.com/harmony-one/harmony/pull/5045), reviewed, fixed and deployed it over devnet and testnet a few times.
 
