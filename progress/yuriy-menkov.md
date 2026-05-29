@@ -1,3 +1,15 @@
+2026-05-28 Thu: Continued development of the Site Generator service: added the admin panel with Basic Auth, OpenRouter settings, request logging, public sites gallery, improved the generated landing page schema/template/palette, and expanded e2e/unit test coverage. Also configured Docker/Fly.io deployment, added migration tooling, updated service documentation, and refined the product direction around the tribe-domain pivot.
+
+2026-05-27 Wed: Started the ai.country repository and worked on the foundation for the Site Generator service: wrote the product vision, technical architecture, six-phase roadmap, detailed Phase 1 implementation plan, data model, API contract, and launch scope. Defined the core service flow: prompt → OpenRouter structured JSON → validation → HTML rendering → Postgres persistence → live /s/:slug page.
+
+2026-05-26 Tue: Ran the initial ai.country brainstorm, defining the core idea of consumer AI services on premium .country domains. Explored prompt-generated websites, videos, payments, custom AI agents, affiliate storefronts, landing-page experiments, creator monetization, and the goal of retaining 1,000 users on each of 10 domains by September 1.
+
+2026-05-25 Mon: Finished v15 wallet regime gate analysis (alternate v15) and decided not to promote it to production. The gate helped in some bear/benign windows, but failed the business bar because it hurt performance on bull recovery and missed part of the crash risk. Started v16 R&D to improve the detector, but kept production wallet hedge OFF.
+
+---
+
+2026-05-22 Fri: Fixed the backtesting issue that made earlier wallet hedge results unreliable, then re-ran validation on the production LP anchor. Confirmed the hedge logic now works and can be measured properly, but treated the feature as research-only until it proves consistent return and drawdown improvement.
+
 2026-05-21 Thu: Closed out the v15 CBR (cost/benefit ratio) redesign with a STAY-on-v14 decision. Validated the current production setting (cb=0.030) against 14 alternatives across two market regimes (3-month bear and 9-month mixed): no configuration beat production by the required +0.5 pp NAV margin, and most bypass settings actively destroyed PnL — confirming the v14 filter is rejecting genuinely unprofitable trades, not noise. No production changes; no new risk introduced. The redesign apparatus (12 off-by-default knobs, structured bypass telemetry, 5-axis taxonomy) ships into main as a diagnostic primitive and a ready scaffold for any future CBR iteration, with the kill-criterion enforced cleanly (zero wasted compute on downstream batches). Also closed a latent backtest bug that had been silently invalidating CBR results.
 
 2026-05-20 Wed: Drafted the v15 CBR redesign overview plan and nine sub-plans (P1 axis triage, K1..K5 P2 fine sweeps, composite verification, composite prod replay, winner inventory smoke). Defined the 5-axis taxonomy (threshold / drift / regime / time / mode) so each future CBR question maps onto exactly one knob, and scaffolded all P2 generators in `TEMPLATE_ONLY` mode so they can be re-armed without re-writing if a future signal motivates revisiting an axis. 
