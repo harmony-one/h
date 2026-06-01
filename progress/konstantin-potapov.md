@@ -1,3 +1,7 @@
+2026-05-29 This week I reviewed and merged several pull requests, continued work on the 1-second finality feature with testnet activation as the next milestone, and cleaned up redundant node configuration from the source code.  
+
+---
+
 2026-05-22 This week the focus was on getting the upcoming releases ready. I assigned dedicated activation epochs to each release on devnet and testnet, rebased the corresponding branches, and wrapped up the tracer fixes — merging the final changes after users confirmed everything worked as expected. I also reviewed and merged several pull requests from the team.
 
 ---
