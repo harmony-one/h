@@ -1,3 +1,15 @@
+2026-06-05 Fri:
+
+The main focus was the NTP topic and the upcoming hardfork preparation. After a few testing-improvments cycles on the [PR-5048](https://github.com/harmony-one/harmony/pull/5048) it was finally merged/deployed on the devnet. I've also created hardfor [PR-5053](https://github.com/harmony-one/harmony/pull/5053), collected all the changes done, created the changes description. It is just waiting for the hardfork epoch.
+
+The second topic was cloud costs - cleaned up most of the redundant applications in the fly.io and left only one's with real usage and cleanup inventory and monitoring from the removed nodes.
+
+As part of systems engineering activities, I've integrated Yuri's fly.io project with our .country Cloudflare setup.
+
+And finally, I've updated grafana, pyroscope, base reth and erigon nodes to the latest stable versions.
+
+---
+
 2026-05-29 Fri:
 
 The main focus was the NTP topic and the upcoming hardfork preparation. I've deployed the current dev branch without hardfork epoch, because it included tracers fixes, please we are usually checking how the new code is running alongside the older one - no issues for 3 days. About NTP topic, I'm currently testing Gheis [PR-5048](https://github.com/harmony-one/harmony/pull/5048) for the cascading block-time skew with stall-safe timestamp caps, it will be a great addition for upcoming release.
