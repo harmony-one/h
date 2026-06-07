@@ -1,3 +1,11 @@
+2026-06-06 Sat:
+
+---
+
+2026-05-30 Sat: 
+
+---
+
 2026-05-23 Sat: Last week I continued working on protocol fixes and validation improvements related to consensus and cross-link handling.
 
 In [PR #5043](https://github.com/harmony-one/harmony/pull/5043), I fixed an issue in the signature verification cache used for cross-link and block header validation. The in-memory LRU cache previously keyed verification results only by block hash, signature, and bitmap, even though verification also depends on shard committee context. The PR adds `shardID` to the cache key so cached verification results are correctly isolated per shard, preventing invalid cache reuse across different committee contexts.
