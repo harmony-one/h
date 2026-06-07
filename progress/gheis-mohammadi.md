@@ -2,7 +2,11 @@
 
 ---
 
-2026-05-30 Sat: 
+2026-05-30 Sat: Last week we finalized and merged fixes for cascading block time skew in [PR #5048](https://github.com/harmony-one/harmony/pull/5048). Harmony already enforces that block timestamps must be later than their parent and not excessively ahead of a validator’s local clock, but this alone did not prevent chain time from gradually drifting forward when a leader’s clock was fast. Over time, this could negatively impact liveness, cause peers with slower clocks to reject blocks or delay participation, and introduce inconsistencies during view changes.
+
+The new implementation keeps the existing wall-clock-based validation model while introducing safeguards to limit how much a single block can advance time under normal conditions. When timestamp validation is active, block timestamps are restricted to a bounded increase relative to the parent unless the network is recovering from a prolonged stall. Proposer logic now follows matching rules to align timestamps with what peers are expected to accept, while also avoiding indefinite waits by giving up a proposal round after a reasonable threshold. Additionally, view-change behavior was updated to remain deterministic even when block timestamps move slightly ahead of local wall clock time, reducing the risk of node divergence.
+
+We also completed improvements to duplicate cross-link validation in [PR #5046](https://github.com/harmony-one/harmony/pull/5046). Beacon blocks can include multiple cross-links, but previously there was no validation to ensure the same `(shardID, blockNum)` pair did not appear more than once in a single header. The PR adds an efficient linear-time validation check to prevent repeated shard block references after activation.
 
 ---
 
