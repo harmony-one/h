@@ -1,4 +1,8 @@
-2026-06-06 Sat:
+2026-06-06 Sat: Last week I worked on improving staking and validator-state correctness through two protocol-level updates.
+
+In [PR #5050](https://github.com/harmony-one/harmony/pull/5050), I fixed an inconsistency in double-sign slashing calculations affecting external delegators. Previously, validator self-slash debt and total stake came from the epoch snapshot, while the external delegator denominator used live self-delegation. This could unfairly shift slash penalties toward external delegators if validator self-stake changed after the snapshot. The fix aligns the denominator with snapshot values to ensure fair and consistent slash distribution.
+
+In [PR #5051](https://github.com/harmony-one/harmony/pull/5051), I strengthened validator state validation. Harmony stores validator state as RLP-encoded `ValidatorWrapper` data, where the internal address must always match the account holding the state. This PR enforces that invariant during load, updates, and delegation verification, preventing mismatched validator wrappers from being accepted or persisted.
 
 ---
 
