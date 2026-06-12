@@ -1,3 +1,12 @@
+2026-06-12 Fri:
+
+There were two main tasks this week. The first one was to point all unused .country domains to Yuri's fly.io project and double checked setup from my side.
+
+The second one was [PR-5029](https://github.com/harmony-one/harmony/pull/5029). I migrated Harmony CI from Travis CI to GitHub Actions, improved CI security with pinned actions, least-privilege permissions, and workflow validation. I reduced CI noise and improved efficiency through parallel jobs, concurrency controls, and legacy cleanup.
+
+And the topic was cloud costs - calculated them for May, I'll continue to optimise them.
+
+
 2026-06-05 Fri:
 
 The main focus was the NTP topic and the upcoming hardfork preparation. After a few testing-improvments cycles on the [PR-5048](https://github.com/harmony-one/harmony/pull/5048) it was finally merged/deployed on the devnet. I've also created hardfor [PR-5053](https://github.com/harmony-one/harmony/pull/5053), collected all the changes done, created the changes description. It is just waiting for the hardfork epoch.
