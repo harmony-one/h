@@ -1,3 +1,7 @@
+2026-6-12 Fri (0.4h+): Review security issues and protocol release candidates.
+
+---
+
 2026-5-27 Wed (0.4h): Domain operations.
 
 2026-5-26 Tue (1.8h): Discussions.
