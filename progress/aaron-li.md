@@ -1,4 +1,4 @@
-2026-6-12 Fri (0.4h+): Review security issues and protocol release candidates.
+2026-6-12 Fri (1.4h+): Review security issues and protocol release candidates.
 
 ---
 
