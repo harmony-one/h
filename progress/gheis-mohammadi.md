@@ -1,3 +1,11 @@
+2026-06-13 Sat: Last week I focused on fixing two protocol-level improvements related to slashing consistency and determinism.
+
+In [PR #5054](https://github.com/harmony-one/harmony/pull/5054), I fixed a determinism issue in beacon-chain slash processing. Slash records are applied in groups during block finalization, but the existing sort logic did not guarantee a consistent ordering across nodes. This could result in different state roots for the same payload. The PR introduces a canonical lexicographic ordering based on shard ID, height, view ID, and epoch to ensure all nodes process slash records identically.
+
+In [PR #5055](https://github.com/harmony-one/harmony/pull/5055), I added stricter validation for double-sign slash records by enforcing consistency between evidence epoch and block height. The change verifies that the reported epoch matches the epoch derived from the block height according to the network sharding schedule. Snapshot lookup and undelegation handling were also aligned to use the height-derived epoch, improving consistency between verification and application paths. This is a backward-compatible validation improvement with no consensus or hard fork impact.
+
+---
+
 2026-06-06 Sat: Last week I worked on improving staking and validator-state correctness through two protocol-level updates.
 
 In [PR #5048](https://github.com/harmony-one/harmony/pull/5048), we finalized and merged fixes for cascading block time skew after deep testing and validation by the team. The update improves timestamp stability by limiting how far a single block can push chain time ahead under normal conditions, while still allowing fast recovery after long stalls. It also aligns proposer behavior with validator acceptance rules and improves determinism during view changes, reducing risks of node divergence caused by clock skew.
