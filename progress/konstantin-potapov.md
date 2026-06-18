@@ -1,4 +1,8 @@
-2026-06-10 This week I investigated validator stability issues under the current devnet setup. The problem could not be reproduced locally, so I shifted the analysis to devnet where the failure conditions are closer to the real environment. Before continuing with the main investigation, I had to sort out several environment issues, including branch differences and nodes that were not syncing correctly. The current focus is to get a reliable devnet setup and use it to isolate the reason validators drop out.
+2026-06-12 This week I worked on improving test performance. I replaced fixed timeouts with health checks to reduce unnecessary waiting, added dependency caching, and removed duplicate compilation steps from the test flow.
+
+---
+
+2026-06-5 This week I investigated validator stability issues under the current devnet setup. The problem could not be reproduced locally, so I shifted the analysis to devnet where the failure conditions are closer to the real environment. Before continuing with the main investigation, I had to sort out several environment issues, including branch differences and nodes that were not syncing correctly. The current focus is to get a reliable devnet setup and use it to isolate the reason validators drop out.
 
 ---
 
