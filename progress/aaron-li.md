@@ -1,4 +1,4 @@
-2026-6-18 Thu (1.0h+): Video curation research and pipeline construction.
+2026-6-18 Thu (1.4h): Video curation research and pipeline construction.
 
 ---
 
