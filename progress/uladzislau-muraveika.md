@@ -1,12 +1,10 @@
 2026-06-19 Fri:
 
-There were two main tasks this week, Gihub CI and upcoming release.
+There were two main tasks this week, Github CI and upcoming release.
 
-For the CI, we turned off travis CI completly, it will save a bit of costs and I've worked on the release job [PR-5061](https://github.com/harmony-one/harmony/pull/5061), I improved Harmony’s release process so each official version can be prepared in one consistent flow: build the release files and prepare the Docker image for both arm64 and amd64 platforms, sign the files, generate checksums, and create a draft release for review.
-The old process used outdated tools and extra packaging steps that are no longer needed; the new one is simpler, easier to test, and has fewer places where a release can go wrong.
-The main benefit is safer and more reliable releases for users, with clear downloadable files, verification, and Docker images published from the same approved version.
+For the CI, we turned off travis CI completely, it will save a bit of costs and I've worked on the release job PR-5061, I improved Harmony’s release process so each official version can be prepared in one consistent flow: build the release files and prepare the Docker image for both arm64 and amd64 platforms, sign the files, generate checksums, and create a draft release for review. The old process used outdated tools and extra packaging steps that are no longer needed; the new one is simpler, easier to test, and has fewer places where a release can go wrong. The main benefit is safer and more reliable releases for users, with clear downloadable files, verification, and Docker images published from the same approved version.
 
-The second task was the preparation of the upcoming release, it will include more improvments, so we need to verify them as well and choose the release date, hopefully it will be done on the following week.
+The second task was the preparation of the upcoming release, it will include more improvements, so we need to verify them as well and choose the release date, hopefully it will be done on the following week.
 
 Speaking about on-call tasks, upgraded nginx and erigon to the latest stable version. Erigon upgrade has given me funky side effect with huge read disk operations spike, like x20 from the Reth Base node, simple Reth restart helped.
 
