@@ -1,3 +1,13 @@
+2026-06-20 Sat: Last week we focused on finalizing bug-fix PRs targeted for the upcoming hard fork. The team successfully replicated, validated, and tested the reported issues, and the fixes have been merged into the development branch. These changes will be included in the next hard fork release as part of the final stabilization effort.
+
+I also created [PR #5059](https://github.com/harmony-one/harmony/pull/5059), which strengthens staking validation for `CreateValidator` and `EditValidator` transactions. The update improves validation around BLS slot keys and proof-of-possession checks, while ensuring duplicate BLS key detection remains consistent even when multiple staking transactions within the same block attempt to register overlapping keys.
+
+In addition, I worked on [PR #5062](https://github.com/harmony-one/harmony/pull/5062), which improves RPC observability with minimal runtime overhead. The PR adds better visibility into API registration failures, unavailable modules, listener errors, and JSON-RPC response failures. It also enhances startup logging, records RPC configuration details, and improves transaction submission logs while avoiding excessive per-request logging on the hot path.
+
+The upcoming Harmony hard fork is now very close to completion, with the remaining work primarily focused on final verification and rollout preparation. The network upgrades, bug fixes, and protocol improvements are nearly ready, and more details will be shared with the community soon.
+
+---
+
 2026-06-13 Sat: Last week I focused on fixing two protocol-level improvements related to slashing consistency and determinism.
 
 In [PR #5054](https://github.com/harmony-one/harmony/pull/5054), I fixed a determinism issue in beacon-chain slash processing. Slash records are applied in groups during block finalization, but the existing sort logic did not guarantee a consistent ordering across nodes. This could result in different state roots for the same payload. The PR introduces a canonical lexicographic ordering based on shard ID, height, view ID, and epoch to ensure all nodes process slash records identically.
