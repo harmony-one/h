@@ -1,3 +1,43 @@
+2026-06-26 Fri:
+Release-candidate is ready to be activated on the testnet and after a few days of running, hardfork date will be announced to the community, right now approximate date is 6 or 7 of July.
+
+For the CI integration-test flow, I worked on reducing duplicated builds in the RPC and pyhmy test jobs - [PR-5067](https://github.com/harmony-one/harmony/pull/5067). Previously, Harmony binaries could be built multiple times across the pipeline: once in the main build job, again in the checker jobs, and again through the localnet test flow. The updated flow makes the build job the single source of truth: it builds static `harmony` and `bootnode` binaries once, uploads them as short-lived GitHub Actions artifacts, and then the RPC and pyhmy jobs download and reuse those exact binaries.
+
+This makes the CI flow simpler, faster, and easier to debug. RPC and pyhmy tests now run against the same binaries produced by the build job instead of rebuilding their own copies, which reduces wasted runner time and removes ambiguity about which binary was actually tested. The main benefit is a more reliable integration-test pipeline with less duplicated work, clearer artifact ownership, and a cleaner path for future localnet cleanup. See the mermaid diagram below.
+
+Additionally, I've tried to build and use arm binary in the CI job, which has given me a few places to improve, like hmy cli should be also built for arm and proto docker docker image should be multiplatform.
+
+Speaking about on-call tasks, upgraded base Reth to Azul version, erigon, grafana, loki to the latest stable version.
+
+```mermaid
+flowchart LR
+    subgraph BEFORE["Before"]
+        A1["Build job builds harmony"]
+        A2["RPC tests job builds harmony again"]
+        A3["pyhmy tests job builds harmony again"]
+        A4["localnet Dockerfile may build harmony again"]
+        A5["run.sh may build again"]
+        A6["Slow, duplicated, unclear tested binary"]
+        A1 --> A2 --> A3 --> A4 --> A5 --> A6
+    end
+
+    subgraph NOW["Now"]
+        B1["Build job builds static harmony + bootnode once for arm64 and arm64"]
+        B2["Upload harmony-binaries artifact"]
+        B3["RPC tests downloads artifact and run for the arm64 and arm64"]
+        B4["pyhmy tests downloads artifact"]
+        B5["localnet runs with -B"]
+        B6["Tests use same prebuilt binaries"]
+        B1 --> B2
+        B2 --> B3 --> B5 --> B6
+        B2 --> B4 --> B5
+    end
+
+    BEFORE --> NOW
+```
+
+---
+
 2026-06-19 Fri:
 
 There were two main tasks this week, Github CI and upcoming release.
