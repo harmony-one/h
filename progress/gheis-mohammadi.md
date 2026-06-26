@@ -1,3 +1,13 @@
+2026-06-27 Sat: Last week we continued finalizing the remaining bug-fix PRs for the upcoming hard fork. The team successfully replicated and validated the outstanding issues, and all fixes have now been merged into the development branch. These were the final protocol bugs targeted for the hard fork, and the focus has now shifted to final validation before release.
+
+I created [PR #5065](https://github.com/harmony-one/harmony/pull/5065), which strengthens double-sign slash verification after `SlashBallotSignerFixEpoch`. The update ensures each conflicting ballot contains exactly the shared signer set identified from the BLS keys and verifies signatures only against those keys. This prevents inconsistent signer lists from being accepted during slash validation.
+
+I also created [PR #5066](https://github.com/harmony-one/harmony/pull/5066), which adds slash validation to the beacon block processing path. While slash records were already validated before entering the pending queue and during proposer selection, this PR ensures they are also verified during block execution before finalization.
+
+The Harmony hard fork is now expected to take place in early July. With all planned fixes completed, the team is performing the final validation and testing before announcing the upgrade to the community.
+
+---
+
 2026-06-20 Sat: Last week we focused on finalizing bug-fix PRs targeted for the upcoming hard fork. The team successfully replicated, validated, and tested the reported issues, and the fixes have been merged into the development branch. These changes will be included in the next hard fork release as part of the final stabilization effort.
 
 I also created [PR #5059](https://github.com/harmony-one/harmony/pull/5059), which strengthens staking validation for `CreateValidator` and `EditValidator` transactions. The update improves validation around BLS slot keys and proof-of-possession checks, while ensuring duplicate BLS key detection remains consistent even when multiple staking transactions within the same block attempt to register overlapping keys.
