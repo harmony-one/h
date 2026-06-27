@@ -1,4 +1,4 @@
-2026-6-26 Fri (0.4h): Video curation frontend and backend.
+2026-6-26 Fri (0.7h): Video curation frontend and backend.
 
 2026-6-24 Wed (0.6h): Video curation research and pipeline construction.
 
