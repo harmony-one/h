@@ -1,4 +1,4 @@
-2026-6-28 Sun (1.6h+): Video curation frontend and backend.
+2026-6-28 Sun (2.6h+): Video curation frontend and backend.
 
 2026-6-27 Sat (1.1h): Video curation frontend and backend.
 
