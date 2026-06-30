@@ -1,3 +1,7 @@
+2026-6-30 Tue (0.2h): Video data quality improvement.
+
+---
+
 2026-6-28 Sun (3.0h): Video curation frontend and backend.
 
 2026-6-27 Sat (1.1h): Video curation frontend and backend.
