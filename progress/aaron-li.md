@@ -1,4 +1,4 @@
-2026-6-30 Tue (0.2h): Video data quality improvement.
+2026-6-30 Tue (0.4h+): Video data quality improvement.
 
 ---
 
