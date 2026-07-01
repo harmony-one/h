@@ -1,4 +1,4 @@
-2026-7-1 Wed (0.3h+): Video data quality improvement.
+2026-7-1 Wed (1.0h): Video data quality improvement.
 
 2026-6-30 Tue (4.9h): Video data quality improvement.
 
