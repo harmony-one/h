@@ -1,3 +1,21 @@
+2026-07-03 Fri:
+ 
+Release-candidate is running right now running on the testnet successfully for 3 days after activation. The same version without activation right now running on all Harmony controlled nodes in the mainnet, so smoke tests have been passed.
+
+For the CI improvements, I've done several improvements. First of all, I've added arm build for hmy cli tool, feature asked by the community running harmony on arm machines, [see the hmy cli release](https://github.com/harmony-one/go-sdk/releases/tag/v2026.0.0) . Additionally, I've udpdated the [documentation page about it.](https://docs.harmony.one/home/~/changes/2324/network/validators/node-setup/hmy-cli-download)
+
+The second improvement was the [proto.Docker image and github ci workflow update](https://github.com/harmony-one/harmony/pull/5071), now we are using from the main harmonyone registry and we using tag with commit has as version instead of just latest.
+
+These 2 improvements about arm builds allowed me the enable the whole test set on the arm64, now all unit tests, [localnet RPC test and pyhmy tests are running against arm64 binaries and passing](https://github.com/harmony-one/harmony/actions/runs/28601067543). So if users are running on the arm or thinking about it, we can be sure that core functionality is working fine here as well.
+
+The fourth and the last CI improvement was enabling [zizmor](https://zizmor.sh/) linting on our github actions workflows, this will help us to use the best practices in the Github CI setups.
+
+As a bonus for the arm build, we can think about switching some of our workload in the devnet and testnet to it, usually arm servers are cheaper.
+
+Finally, I've also updated grafana, prometheus and cadvisor to the new major versions.
+
+---
+
 2026-06-26 Fri:
 Release-candidate is ready to be activated on the testnet and after a few days of running, hardfork date will be announced to the community, right now approximate date is 6 or 7 of July.
 
