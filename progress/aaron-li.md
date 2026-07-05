@@ -1,4 +1,4 @@
-2026-7-5 Sun (1.7h+): Improve visibility to unreviewed videos and queued videos.
+2026-7-5 Sun (2.4h): Improve visibility to unreviewed videos and queued videos.
 
 2026-7-1 Wed (4.1h): Video data quality improvement.
 
