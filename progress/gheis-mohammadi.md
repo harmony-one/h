@@ -1,3 +1,11 @@
+2026-07-04 Sat: Last week we focused on finalizing the upcoming hard fork and completing the remaining protocol updates before release.
+
+I created [PR #5072](https://github.com/harmony-one/harmony/pull/5072), which fixes the activation of EIP-1153 (Transient Storage), EIP-7939 (CLZ), and EIP-5656 (MCOPY) in the EVM. The PR also updates devnet and testnet configurations to ensure upgraded nodes replay blocks consistently with the binaries already deployed on those networks.
+
+The team is now fully prepared for the hard fork, which is expected to take place in July. All planned features, EIPs, fixes, and validation work have been completed and thoroughly tested. The remaining work is focused on final coordination and announcing the exact hard fork date to the community.
+
+---
+
 2026-06-27 Sat: Last week we continued finalizing the remaining bug-fix PRs for the upcoming hard fork. The team successfully replicated and validated the outstanding issues, and all fixes have now been merged into the development branch. These were the final protocol bugs targeted for the hard fork, and the focus has now shifted to final validation before release.
 
 I created [PR #5065](https://github.com/harmony-one/harmony/pull/5065), which strengthens double-sign slash verification after `SlashBallotSignerFixEpoch`. The update ensures each conflicting ballot contains exactly the shared signer set identified from the BLS keys and verifies signatures only against those keys. This prevents inconsistent signer lists from being accepted during slash validation.
