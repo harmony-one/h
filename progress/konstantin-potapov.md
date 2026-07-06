@@ -1,3 +1,7 @@
+2026-07-03 This week I worked on new release features. I prepared activation settings for both testnet and mainnet, reviewed the related code, and performed feature testing for the release.
+
+---
+
 2026-06-19 This week I reviewed and merged 7 PRs and prepared activation epochs for devnet. I also continued improving test performance: the current changes reduce test runtime by about 20% by removing unnecessary waits and repeated work from the test flow.
 
 ---
