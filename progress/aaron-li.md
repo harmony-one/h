@@ -1,3 +1,7 @@
+2026-7-8 Wed (0.8h): Auto-cluster AI videos, surfacing similar videos, manual video review.
+
+---
+
 2026-7-5 Sun (2.4h): Improve visibility to unreviewed videos and queued videos.
 
 2026-7-1 Wed (4.1h): Video data quality improvement.
