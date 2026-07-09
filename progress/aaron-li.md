@@ -1,4 +1,4 @@
-2026-7-9 Thu (0.1h): Personalized video queue and preference based sorting.
+2026-7-9 Thu (0.6h): Personalized video queue and preference based sorting.
 
 2026-7-8 Wed (3.3h): Personalized video queue and preference based sorting. Auto-cluster AI videos, surfacing similar videos, manual video review.
 
