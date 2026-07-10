@@ -1,3 +1,17 @@
+2026-07-10 Fri:
+ 
+All this week I was focused on the Bloom 🌸️ hardfork. 
+
+During preparation, I found that hmy cli isn't working on the create validator and edit validator commands and decided to make fix that will support both Bloom 🌸️ and old logic and created [hmy cli release](https://github.com/harmony-one/go-sdk/releases/tag/v2026.1.0). I've verified noth operations against devnet with activated Bloom 🌸️.
+
+For the main harmony repo together with core team we have created the [Mainnet Release v2026.1.0 - Bloom 🌸️](https://github.com/harmony-one/harmony/releases/tag/v2026.1.0).
+
+From my side - I've asked community to upgrade by all available channels, current state in terms of active validators bls keys:
+* shard 0 - 67% upgraded
+* shard 1 - 47% upgraded
+
+---
+
 2026-07-03 Fri:
  
 Release-candidate is running right now running on the testnet successfully for 3 days after activation. The same version without activation right now running on all Harmony controlled nodes in the mainnet, so smoke tests have been passed.
