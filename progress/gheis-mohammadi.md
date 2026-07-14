@@ -1,3 +1,15 @@
+2026-07-11 Sat: Last week was focused on finalizing the Bloom hard fork. The upgrade was successfully deployed to devnet and testnet, where all planned testing completed successfully. The team finalized the mainnet activation schedule, resolved remaining merge conflicts, and coordinated with validators to ensure they upgrade before activation. The Bloom hard fork was scheduled for Monday, July 13, 2026, at 05:58 UTC.
+
+I created [PR #5075](https://github.com/harmony-one/harmony/pull/5075), which introduces the Bloom hard fork as a bundled feature activation mechanism for mainnet. This allows multiple protocol upgrades and fixes to be enabled through a single activation epoch while preserving existing per-feature activation behavior on testnet.
+
+In [PR #5076](https://github.com/harmony-one/harmony/pull/5076), I hardened the `NthNextValidatorV2` leader-selection logic used by Leader Rotation V2. The change ensures missing BLS keys in committee slot mappings are handled safely, preventing incorrect validator selection and improving consensus reliability.
+
+I also added [PR #5077](https://github.com/harmony-one/harmony/pull/5077) to activate the complete Bloom feature bundle on localnet, and [PR #5078](https://github.com/harmony-one/harmony/pull/5078) to adjust the Bloom activation epoch on testnet. In [PR #5081](https://github.com/harmony-one/harmony/pull/5081), I configured the mainnet activation epoch for Bloom to epoch 2964, corresponding to July 13, 2026, at 05:58:57 UTC. Finally, [PR #5082](https://github.com/harmony-one/harmony/pull/5082) resolved development branch conflicts to ensure a clean merge into main.
+
+With testing completed and activation scheduled, the network is fully prepared for the Bloom hard fork rollout.
+
+---
+
 2026-07-04 Sat: Last week we focused on finalizing the upcoming hard fork and completing the remaining protocol updates before release.
 
 I created [PR #5072](https://github.com/harmony-one/harmony/pull/5072), which fixes the activation of EIP-1153 (Transient Storage), EIP-7939 (CLZ), and EIP-5656 (MCOPY) in the EVM. The PR also updates devnet and testnet configurations to ensure upgraded nodes replay blocks consistently with the binaries already deployed on those networks.
