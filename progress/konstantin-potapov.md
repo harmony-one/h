@@ -1,3 +1,7 @@
+2026-07-10 This week I worked on deploying 1-second finality to testnet. I plan to release the feature on testnet next week, and I also spent significant time coordinating with the team to prepare for the release.
+
+---
+
 2026-07-03 This week I worked on new release features. I prepared activation settings for both testnet and mainnet, reviewed the related code, and performed feature testing for the release.
 
 ---
