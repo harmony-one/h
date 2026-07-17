@@ -1,3 +1,7 @@
+2026-7-17 Fri (0.3h): Global video approved list, and view another user's activities.
+
+---
+
 2026-7-12 Sun (1.7h): End-to-end deployment and tests on personalized video queue.
 
 2026-7-10 Fri (4.6h): Personalized video queue and preference based sorting.
