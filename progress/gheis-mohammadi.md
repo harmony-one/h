@@ -1,3 +1,9 @@
+2026-07-18 Sat: Last week marked a major milestone for Harmony. On Monday, July 13, the Bloom hard fork was successfully activated on mainnet. This was one of the largest protocol upgrades in Harmony's history, bringing together numerous consensus, EVM, staking, cross-shard, and slashing improvements under a single coordinated activation. The upgrade completed smoothly after extensive testing on devnet and testnet, representing a significant achievement for the team and a solid foundation for future protocol enhancements.
+
+Following the successful hard fork, I began working on Staking V2 and improvements to the existing staking implementation. In [PR #5083](https://github.com/harmony-one/harmony/pull/5083), I introduced the foundation for Staking V2, which addresses several limitations of Staking V1, adds batch staking operations, and makes EVM precompile staking calls safer and less expensive to fail. The PR is still under active development and is expected to be completed next week.
+
+---
+
 2026-07-11 Sat: Last week was focused on finalizing the Bloom hard fork. The upgrade was successfully deployed to devnet and testnet, where all planned testing completed successfully. The team finalized the mainnet activation schedule, resolved remaining merge conflicts, and coordinated with validators to ensure they upgrade before activation. The Bloom hard fork was scheduled for Monday, July 13, 2026, at 05:58 UTC.
 
 I created [PR #5075](https://github.com/harmony-one/harmony/pull/5075), which introduces the Bloom hard fork as a bundled feature activation mechanism for mainnet. This allows multiple protocol upgrades and fixes to be enabled through a single activation epoch while preserving existing per-feature activation behavior on testnet.
