@@ -1,3 +1,7 @@
+2026-07-17 This week I resolved several downtime incidents related to the API and explorer services. I also updated the testnet servers to run with 1-second finality enabled.
+
+---
+
 2026-07-10 This week I worked on deploying 1-second finality to testnet. I plan to release the feature on testnet next week, and I also spent significant time coordinating with the team to prepare for the release.
 
 ---
