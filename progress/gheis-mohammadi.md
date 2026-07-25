@@ -1,3 +1,9 @@
+2026-07-25 Sat: Last week I continued working on Staking V2, focusing on correctness and API refinements. The work included fixing batch composition, epoch-gated behavior, precompile revert scope, malformed staking precompile input handling, same-epoch undelegation logic, and reshaping the `BatchUndelegate` API. I also introduced batch gas limits to improve safety and predictability of batch staking operations.
+
+I also created [PR #5085](https://github.com/harmony-one/harmony/pull/5085) to optimize validator state finalization. During block processing, many validator wrappers are loaded into the state cache for read-only operations, but the current implementation re-encodes every cached validator during `Finalise`, even if it was never modified. This PR tracks which validator wrappers have actually changed and only re-encodes those, reducing unnecessary RLP encoding work while preserving existing staking rules, election behavior, and on-disk data format.
+
+---
+
 2026-07-18 Sat: Last week marked a major milestone for Harmony. On Monday, July 13, the Bloom hard fork was successfully activated on mainnet. This was one of the largest protocol upgrades in Harmony's history, bringing together numerous consensus, EVM, staking, cross-shard, and slashing improvements under a single coordinated activation. The upgrade completed smoothly after extensive testing on devnet and testnet, representing a significant achievement for the team and a solid foundation for future protocol enhancements.
 
 Following the successful hard fork, I began working on Staking V2 and improvements to the existing staking implementation. In [PR #5083](https://github.com/harmony-one/harmony/pull/5083), I introduced the foundation for Staking V2, which addresses several limitations of Staking V1, adds batch staking operations, and makes EVM precompile staking calls safer and less expensive to fail. The PR is still under active development and is expected to be completed next week.
