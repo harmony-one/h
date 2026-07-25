@@ -1,3 +1,7 @@
+2026-07-24 This week I completed [PR #5086](https://github.com/harmony-one/harmony/pull/5086), replacing Harmony's custom BLS and MCL forks with the official Herumi Go package. This removes the separate native-library checkout, custom CGO build flags, shared-library packaging, and runtime `libbls`/`libmcl` dependencies, making Harmony binaries substantially simpler to build, package, and deploy across platforms. Because BLS is consensus-critical, I introduced a centralized compatibility layer that preserves Harmony's historical generator, serialization format, group layout, hash-to-curve behavior, address derivation, and public-key subtraction, backed by golden wire-compatibility vectors for keys and signatures. The 81-file migration passed binary builds, unit tests, RPC integration tests, and pyhmy tests on both amd64 and arm64.
+
+---
+
 2026-07-17 This week I resolved several downtime incidents related to the API and explorer services. I also updated the testnet servers to run with 1-second finality enabled.
 
 ---
