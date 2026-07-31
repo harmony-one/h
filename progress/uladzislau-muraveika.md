@@ -1,3 +1,23 @@
+2026-07-31 Fri:
+
+Returned from vacation and started to gather new tasks and have fixed ongoing issues.
+
+From the operational side there were an issue with Prometheus Pushgateway - someone send utf-8 chars in the job name and have broken new pushes ingestion completely. I've fixed the issue with filtering inputs and added the Prometheus rule to the alarm if there were no metrics collected for a while.
+
+Another one challenge - Base node RPC should be migrated to the v2 snapshots, collected initial info, and prepared a plan for migration.
+
+And the last part of operational work, I've helped providers with moving one european mainnet shard 0 full db RPC from one physical rack to another. As an apology for downtime, they give us 1 week of free usage of 2 full db RPC we have in their datacenters.
+
+As part of testing activities, a partially deployed latest dev branch to the devnet to check how the [code with Herumi package](https://github.com/harmony-one/harmony/pull/5086) will work alongside the old release version and it passed smoke tests. Both versions work alongside in one committee, view changing, producing and validating blocks.
+
+And finally, updated the lighthouse, region and our monitoring stack to the latest versions.
+
+---
+
+2026-07-13 - 2026-07-27: PTO
+
+---
+
 2026-07-10 Fri:
  
 All this week I was focused on the Bloom 🌸️ hardfork. 
