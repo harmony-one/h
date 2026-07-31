@@ -1,3 +1,11 @@
+2026-08-01 Sat: Last week I focused on improving stream sync recovery and peer discovery. I created [PR #5091](https://github.com/harmony-one/harmony/pull/5091), which enhances stream synchronization resilience when peers disconnect or the node temporarily loses network connectivity, allowing sync to recover without long stalls or requiring a process restart.
+
+The PR reduces the minimum peer requirements for startup, shortens recovery timers, improves advertise scheduling, fixes a race condition that could cause DHT discovery to be skipped too early, and adds mass-disconnect detection to distinguish local network outages from faulty or malicious peers. It also preserves strict penalties for protocol violations while allowing faster recovery from temporary connection loss.
+
+The PR is still a work in progress and is currently under testing.
+
+---
+
 2026-07-25 Sat: Last week I continued working on Staking V2, focusing on correctness and API refinements. The work included fixing batch composition, epoch-gated behavior, precompile revert scope, malformed staking precompile input handling, same-epoch undelegation logic, and reshaping the `BatchUndelegate` API. I also introduced batch gas limits to improve safety and predictability of batch staking operations.
 
 I also created [PR #5085](https://github.com/harmony-one/harmony/pull/5085) to optimize validator state finalization. During block processing, many validator wrappers are loaded into the state cache for read-only operations, but the current implementation re-encodes every cached validator during `Finalise`, even if it was never modified. This PR tracks which validator wrappers have actually changed and only re-encodes those, reducing unnecessary RLP encoding work while preserving existing staking rules, election behavior, and on-disk data format.
