@@ -1,3 +1,7 @@
+2026-07-31 This week I completed [PR #5090](https://github.com/harmony-one/harmony/pull/5090) and the related [harmony-test PR #49](https://github.com/harmony-one/harmony-test/pull/49), separating native Go checks from Docker-based localnet integration tests. The new test flow builds a pinned localnet image on demand, uses prebuilt Harmony binaries, supports both regular checkouts and Git worktrees, and no longer depends on the obsolete published test image. I also opened [PR #5088](https://github.com/harmony-one/harmony/pull/5088), removing more than 700 lines of unused shell scripts, and reviewed PRs optimizing validator-state finalization and migrating the Go SDK to the official Herumi BLS package.
+
+---
+
 2026-07-24 This week I completed [PR #5086](https://github.com/harmony-one/harmony/pull/5086), replacing Harmony's custom BLS and MCL forks with the official Herumi Go package. This removes the separate native-library checkout, custom CGO build flags, shared-library packaging, and runtime `libbls`/`libmcl` dependencies, making Harmony binaries substantially simpler to build, package, and deploy across platforms. Because BLS is consensus-critical, I introduced a centralized compatibility layer that preserves Harmony's historical generator, serialization format, group layout, hash-to-curve behavior, address derivation, and public-key subtraction, backed by golden wire-compatibility vectors for keys and signatures. The 81-file migration passed binary builds, unit tests, RPC integration tests, and pyhmy tests on both amd64 and arm64.
 
 ---
