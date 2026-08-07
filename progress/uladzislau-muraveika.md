@@ -1,3 +1,15 @@
+2026-08-07 Fri:
+
+This week I was mostly focused on testing new features.
+
+Firstly, I've tested Herumi BLS backward compatibility: mixed old/new nodes, old/new BLS keys, leader operation, epoch transition, restart and rollback using the same DB/BLS key. Rolled-back node remained alive and continued participating as a validator ([PR-5086](https://github.com/harmony-one/harmony/pull/5086#issuecomment-5218685791)) and [go-sdk PR-313](https://github.com/harmony-one/go-sdk/pull/313).
+
+Secondly, I've tested 1-second finality on devnet, investigated signing issues with geographically distributed validators and fixed related observability ([PR-5016](https://github.com/harmony-one/harmony/pull/5016#issuecomment-5194292302)). And as part of this task I've improved Harmony observability for the consensus monitoring - I've found extra hits on the leader metrics and removed them in [PR-5097](https://github.com/harmony-one/harmony/pull/5097).
+
+And finally, I've worked on Base RPC/Reth v2 migration and continued checking and reaching out to validators running outdated Harmony versions - added info as panel on the Mainnet community versions Grafana dashboard.
+
+---
+
 2026-07-31 Fri:
 
 Returned from vacation and started to gather new tasks and have fixed ongoing issues.
