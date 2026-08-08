@@ -1,3 +1,13 @@
+2026-08-08 Sat: Last week I worked across stream sync, consensus, and state management, with a focus on improving node recovery, consensus observability, and code reliability.
+
+I continued improving stream sync recovery in [PR #5091](https://github.com/harmony-one/harmony/pull/5091). The changes speed up recovery after temporary network outages or peer drops by reducing peer requirements and recovery timers, improving DHT discovery and advertise timing, and detecting mass disconnects. The logic also distinguishes connection failures from bad peer behavior so malicious or invalid peers continue to receive appropriate penalties.
+
+On consensus, [PR #5093](https://github.com/harmony-one/harmony/pull/5093) adds logs and Prometheus metrics for late or excluded commit signatures, making it easier for validator operators to understand unexpected drops in signing percentage without changing consensus behavior. I also started [PR #5095](https://github.com/harmony-one/harmony/pull/5095), which simplifies leader-side prepare/commit quorum tracking by replacing multi-BLS first-signature heuristics with explicit state-backed markers.
+
+I also completed two codebase and state-management improvements. [PR #5094](https://github.com/harmony-one/harmony/pull/5094) moves the generic thread-safe `SafeMap` into `common/types`, allowing it to be reused cleanly across networking and sync components. [PR #5098](https://github.com/harmony-one/harmony/pull/5098) fixes stale snapshot handling by checking whether a diff layer has been flattened before using its bloom filter, ensuring callers receive `ErrSnapshotStale` instead of incorrectly falling through to disk state.
+
+---
+
 2026-08-01 Sat: Last week I focused on improving stream sync recovery and peer discovery. I created [PR #5091](https://github.com/harmony-one/harmony/pull/5091), which enhances stream synchronization resilience when peers disconnect or the node temporarily loses network connectivity, allowing sync to recover without long stalls or requiring a process restart.
 
 The PR reduces the minimum peer requirements for startup, shortens recovery timers, improves advertise scheduling, fixes a race condition that could cause DHT discovery to be skipped too early, and adds mass-disconnect detection to distinguish local network outages from faulty or malicious peers. It also preserves strict penalties for protocol violations while allowing faster recovery from temporary connection loss.
