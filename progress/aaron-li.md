@@ -1,4 +1,4 @@
-2026-8-11 Tue (0.1h+): Fix notion webpage header issue.
+2026-8-11 Tue (1.0h): Fix notion webpage header issue.
 
 ---
 
