@@ -1,3 +1,7 @@
+2026-08-07 This week I launched 1-second finality on testnet and updated its activation configuration to epoch 7600 in [PR #5084](https://github.com/harmony-one/harmony/pull/5084). I also completed the Go SDK migration to the official Herumi BLS package in [PR #313](https://github.com/harmony-one/go-sdk/pull/313) and opened [PR #5096](https://github.com/harmony-one/harmony/pull/5096) to improve commit certificate selection by consistently preserving the certificate with the richer signer set.
+
+---
+
 2026-07-31 This week I completed [PR #5090](https://github.com/harmony-one/harmony/pull/5090) and the related [harmony-test PR #49](https://github.com/harmony-one/harmony-test/pull/49), separating native Go checks from Docker-based localnet integration tests. The new test flow builds a pinned localnet image on demand, uses prebuilt Harmony binaries, supports both regular checkouts and Git worktrees, and no longer depends on the obsolete published test image. I also opened [PR #5088](https://github.com/harmony-one/harmony/pull/5088), removing more than 700 lines of unused shell scripts, and reviewed PRs optimizing validator-state finalization and migrating the Go SDK to the official Herumi BLS package.
 
 ---
