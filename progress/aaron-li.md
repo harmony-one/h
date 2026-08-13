@@ -1,4 +1,4 @@
-2026-8-13 Thu (1.8h+): Rollback chain state.
+2026-8-13 Thu (2.5h): Rollback chain state.
 
 2026-8-12 Wed (7.2h): Rollback chain state.
 
