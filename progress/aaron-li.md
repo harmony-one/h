@@ -1,4 +1,4 @@
-2026-8-14 Fri (1.4h+): Postmortem.
+2026-8-14 Fri (1.6h): Postmortem.
 
 2026-8-13 Thu (14.5h): Postmortem. Rollback chain state.
 
