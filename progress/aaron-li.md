@@ -1,3 +1,5 @@
+2026-8-15 Sat (0.3h): Rollback.
+
 2026-8-14 Fri (9.1h): Rollback.
 
 2026-8-13 Thu (14.5h): Postmortem. Rollback chain state.
