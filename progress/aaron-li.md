@@ -1,4 +1,4 @@
-2026-8-15 Sat (0.6h): Rollback.
+2026-8-15 Sat (2.0h+): Rollback.
 
 2026-8-14 Fri (9.1h): Rollback.
 
