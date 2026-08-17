@@ -1,4 +1,4 @@
-2026-8-17 Mon (1.2h): Rollback.
+2026-8-17 Mon (2.0h): Rollback.
 
 ---
 
