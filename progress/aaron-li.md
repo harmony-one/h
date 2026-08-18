@@ -1,4 +1,4 @@
-2026-8-18 Tue (0.8h+): Restarting nodes.
+2026-8-18 Tue (1.6h): Restarting nodes.
 
 2026-8-17 Mon (8.8h): Restarting nodes. Rollback.
 
