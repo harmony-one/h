@@ -1,3 +1,5 @@
+2026-8-19 Wed (0.6h+): Prepare for rollback stage 2.
+
 2026-8-18 Tue (10.3h): Review security. Restarting nodes.
 
 2026-8-17 Mon (8.8h): Restarting nodes. Rollback.
