@@ -1,4 +1,4 @@
-2026-8-18 Tue (7.6h+): Review security. Restarting nodes.
+2026-8-18 Tue (8.6h+): Review security. Restarting nodes.
 
 2026-8-17 Mon (8.8h): Restarting nodes. Rollback.
 
