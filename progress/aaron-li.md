@@ -1,4 +1,4 @@
-2026-8-20 Thu (1.7h): Reach consensus.
+2026-8-20 Thu (2.3h+): Reach consensus.
 
 2026-8-19 Wed (7.0h): Prepare for rollback stage 2.
 
