@@ -1,3 +1,5 @@
+2026-8-20 Thu (0.7h+): Reach consensus.
+
 2026-8-19 Wed (7.0h): Prepare for rollback stage 2.
 
 2026-8-18 Tue (10.3h): Review security. Restarting nodes.
