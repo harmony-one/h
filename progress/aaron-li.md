@@ -1,3 +1,5 @@
+2026-8-21 Fri (0.9h+): Impact analysis.
+
 2026-8-20 Thu (6.6h): Impact analysis. Reach consensus.
 
 2026-8-19 Wed (7.0h): Prepare for rollback stage 2.
