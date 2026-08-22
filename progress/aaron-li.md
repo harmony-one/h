@@ -1,4 +1,4 @@
-2026-8-21 Fri (7.5h+): Impact analysis.
+2026-8-21 Fri (8.5h+): Impact analysis.
 
 2026-8-20 Thu (6.6h): Impact analysis. Reach consensus.
 
