@@ -1,4 +1,4 @@
-2026-8-22 Sat (0.5h+): Impact analysis.
+2026-8-22 Sat (1.5h+): Impact analysis.
 
 2026-8-21 Fri (3.1h): Impact analysis.
 
