@@ -1,4 +1,4 @@
-2026-8-24 Mon (2.9h+): Map, tracing, validator, exchange followups.
+2026-8-24 Mon (3.9h+): Map, tracing, validator, exchange followups.
 
 ---
 
