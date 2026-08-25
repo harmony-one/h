@@ -1,3 +1,11 @@
+2026-08-22 Sat: Last week we successfully completed the chain rollback and network recovery. Both shards are now healthy and operating at 100% consensus. This was a major recovery effort and a great example of teamwork across the team.
+
+I completed [PR #5122](https://github.com/harmony-one/harmony/pull/5122), one of the most important PRs I have worked on during my time at Harmony. It fixes 29 bugs, including 17 critical and high-severity issues across consensus, slashing, voting power, cross-shard processing, staking, validation, rewards, sync, and RPC. Every fix includes a regression test that fails without the change and passes with it. The PR has been reviewed and merged into `main`.
+
+I also created [PR #5132](https://github.com/harmony-one/harmony/pull/5132), an important step toward strengthening validator accountability. It introduces slashing for double-signing and validator downtime, while improving view-change leader selection to prefer committee members that are actively signing. Each feature has its own activation epoch and remains disabled on live networks until explicitly activated through a future hard fork. This PR is still a work in progress.
+
+---
+
 2026-08-15 Sat: Last week I worked on improving consensus observability and build tooling. In [PR #5099](https://github.com/harmony-one/harmony/pull/5099), I added the `hmy_consensus_signature_total` metric to track prepare/commit votes and local commit inclusions as on-time or late, providing better visibility into consensus participation while keeping the existing late-signature metric unchanged.
 
 I also created [PR #5100](https://github.com/harmony-one/harmony/pull/5100) to improve the macOS-to-Linux static build process. The update uses a dedicated output directory and avoids issues caused by stale or root-owned vendor directories inside the build container, making cross-platform builds more reliable.
