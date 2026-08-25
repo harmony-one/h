@@ -1,3 +1,11 @@
+2026-08-15 Sat: Last week I worked on improving consensus observability and build tooling. In [PR #5099](https://github.com/harmony-one/harmony/pull/5099), I added the `hmy_consensus_signature_total` metric to track prepare/commit votes and local commit inclusions as on-time or late, providing better visibility into consensus participation while keeping the existing late-signature metric unchanged.
+
+I also created [PR #5100](https://github.com/harmony-one/harmony/pull/5100) to improve the macOS-to-Linux static build process. The update uses a dedicated output directory and avoids issues caused by stale or root-owned vendor directories inside the build container, making cross-platform builds more reliable.
+
+The main focus of the week, however, shifted to the recent Harmony network incident involving unauthorized mints. The team has been working around the clock on investigation and network recovery, including evaluating possible rollback strategies. We successfully prepared a clean database up to the block immediately before the incident, providing a recovery point for the network. Recovery work and validation are still ongoing as the team works toward safely restoring the network.
+
+---
+
 2026-08-08 Sat: Last week I worked across stream sync, consensus, and state management, with a focus on improving node recovery, consensus observability, and code reliability.
 
 I continued improving stream sync recovery in [PR #5091](https://github.com/harmony-one/harmony/pull/5091). The changes speed up recovery after temporary network outages or peer drops by reducing peer requirements and recovery timers, improving DHT discovery and advertise timing, and detecting mass disconnects. The logic also distinguishes connection failures from bad peer behavior so malicious or invalid peers continue to receive appropriate penalties.
