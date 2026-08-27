@@ -1,4 +1,4 @@
-2026-8-26 Wed (3.3h+): Map, tracing, validator, exchange followups.
+2026-8-26 Wed (4.3h+): Map, tracing, validator, exchange followups.
 
 2026-8-25 Tue (3.4h): Map, tracing, validator, exchange followups.
 
