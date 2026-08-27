@@ -1,4 +1,4 @@
-2026-8-27 Thu (0.6h): Map, tracing, validator, exchange followups.
+2026-8-27 Thu (0.7h+): Exchange follow up; Research on product, hardware, model. Map, tracing, validator, exchange followups.
 
 2026-8-26 Wed (5.7h): Map, tracing, validator, exchange followups.
 
