@@ -1,3 +1,34 @@
+2026-08-28 Fri
+
+During last week I was focused on creating the fastest way to share our full db RPC - ordered 10Gb/s NIC server, put in the full db and shared it via rclone + webdav scheme with all interested parties. As a bonus, I've gotten experience with auction mechanics in one of our providers and it gives us the possibility to save money on avoiding setup fees and pay less monthly.
+
+Additionally, I've removed the Reth Base node server and everything connected with the code.
+
+Finally, I've deployed the Slashing feature on the devnet and review a few PRs for main repo connected with CI and tests: [PR-5139](https://github.com/harmony-one/harmony/pull/5139),[PR-5136](https://github.com/harmony-one/harmony/pull/5136), [PR-5137](https://github.com/harmony-one/harmony/pull/5137)
+
+---
+
+2026-08-25 Tue - PTO
+
+---
+
+2026-08-12 Wed -2026-08-21 Fri
+
+I was helping with the rollback from the infra side.
+
+I have prepared snap DB together with the development team and shared it with the community. I've also proposed to install 10Gb/s NIC and to have a smooth validator user experience if multiple validators will download DB in parallel.
+Recovered full db RPCs from the snapshot and asked devs to help with archival nodes.
+I've directly coordinated explorer and SAFE wallet reindexing with the Protofire team after archival nodes recovery.
+
+---
+
+2026-08-10 Mon -2026-08-11 Tue
+
+I was focused on the rolling out one second finality to the testnet and improvements for the chain state monitoring
+
+---
+
+
 2026-08-07 Fri:
 
 This week I was mostly focused on testing new features.
