@@ -1,4 +1,4 @@
-2026-8-30 Sun (0.3h): Validator follow up.
+2026-8-30 Sun (1.1h+): Research on migration. Validator follow up.
 
 2026-8-29 Sat (4.2h): Exchange follow up. Validator follow up. Research on product, hardware, model.
 
