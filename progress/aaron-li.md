@@ -1,3 +1,7 @@
+2026-8-31 Mon (0.1h): Research on product, hardware, model, migration.
+
+---
+
 2026-8-30 Sun (1.6h): Exchange follow up. Research on migration. Validator follow up.
 
 2026-8-29 Sat (4.2h): Exchange follow up. Validator follow up. Research on product, hardware, model.
