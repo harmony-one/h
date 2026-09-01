@@ -1,4 +1,4 @@
-2026-8-31 Mon (3.1h): Research on product, hardware, model, migration.
+2026-8-31 Mon (3.5h+): Research on product, hardware, model, migration.
 
 ---
 
