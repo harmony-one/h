@@ -1,3 +1,5 @@
+2026-9-3 Thu (0.2h+): Exchange data analysis; Investigator followup.
+
 2026-9-2 Wed (7.1h): Exchange data analysis; Investigator followup.
 
 2026-9-1 Tue (8.6h): Exchange data analysis; Investigator followup.
