@@ -1,3 +1,15 @@
+2026-09-04 Fri
+
+During the last week, I was focused on support tasks such as calculating cloud costs and removing several redundant servers.
+I've also debugged instability affecting the devnet/testnet Contabo servers. The issue was identified at the BGP level and reported to Contabo support.
+Additionally, I've created a fresh SnapDB for mainnet shard 0, reducing its size from 350 GB to 120 GB, and improved the script used for its creation.
+On the development side, I've improved the CI setup by adding the actionlint checker, adding a job to remove caches for closed PRs, and upgrading all GitHub Actions to the latest versions.
+
+And finally, I've upgraded Grafana, Prometheus, and Alertmanager to the latest versions.
+
+
+---
+
 2026-08-28 Fri
 
 During last week I was focused on creating the fastest way to share our full db RPC - ordered 10Gb/s NIC server, put in the full db and shared it via rclone + webdav scheme with all interested parties. As a bonus, I've gotten experience with auction mechanics in one of our providers and it gives us the possibility to save money on avoiding setup fees and pay less monthly.
