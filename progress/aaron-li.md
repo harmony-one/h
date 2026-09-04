@@ -1,4 +1,4 @@
-2026-9-4 Fri (1.3h+): Exchange and validator followup.
+2026-9-4 Fri (1.9h): Exchange and validator followup.
 
 2026-9-3 Thu (4.3h): Exchange and validator followup. Exchange data analysis; Investigator followup.
 
