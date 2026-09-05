@@ -1,3 +1,5 @@
+2026-9-5 Sat (0.2h): Exchange and validator followup.
+
 2026-9-4 Fri (5.9h): Exchange and validator followup.
 
 2026-9-3 Thu (4.3h): Exchange and validator followup. Exchange data analysis; Investigator followup.
