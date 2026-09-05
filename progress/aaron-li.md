@@ -1,4 +1,4 @@
-2026-9-5 Sat (1.6h): Exchange and validator followup.
+2026-9-5 Sat (2.6h+): Exchange and validator followup.
 
 2026-9-4 Fri (5.9h): Exchange and validator followup.
 
