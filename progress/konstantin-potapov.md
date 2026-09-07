@@ -1,4 +1,8 @@
-2026-08-28 This week I audited and closed 18 stale GitHub issues whose fixes were already present in the current codebase.
+2026-09-04 This week I completed and merged five improvements prepared the previous week: eliminated minute-long P2P test waits in [PR #5135](https://github.com/harmony-one/harmony/pull/5135), replaced flaky polling with explicit completion signals in [PR #5134](https://github.com/harmony-one/harmony/pull/5134), reduced first-start consensus latency from about 31 seconds to under 3 seconds in [PR #5136](https://github.com/harmony-one/harmony/pull/5136), added caching for race-enabled Go build artifacts in [PR #5137](https://github.com/harmony-one/harmony/pull/5137), and added Mesh API compatibility tests for shards 0 and 1 in [PR #5139](https://github.com/harmony-one/harmony/pull/5139). I also opened an informational Staticcheck CI scan in [PR #5141](https://github.com/harmony-one/harmony/pull/5141), prepared the `main`-to-`dev` history sync for the 2026.2 release in [PR #5143](https://github.com/harmony-one/harmony/pull/5143), scheduled mainnet strict state validation for epoch 3036 in [PR #5144](https://github.com/harmony-one/harmony/pull/5144), and reviewed and merged consensus-sync and CI maintenance changes.
+
+---
+
+2026-08-28 This week I audited and closed 18 stale GitHub issues whose fixes were already present in the current codebase. I also opened five PRs to speed up and stabilize P2P tests and validator startup, cache race-enabled CI artifacts, and add Mesh Data and Construction API compatibility coverage for shards 0 and 1: [#5134](https://github.com/harmony-one/harmony/pull/5134), [#5135](https://github.com/harmony-one/harmony/pull/5135), [#5136](https://github.com/harmony-one/harmony/pull/5136), [#5137](https://github.com/harmony-one/harmony/pull/5137), and [#5139](https://github.com/harmony-one/harmony/pull/5139).
 
 ---
 
