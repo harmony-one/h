@@ -1,4 +1,8 @@
-2026-9-6 Sun (7.5h): Exchange and validator followup.
+2026-9-7 Mon (0.3h): Code review on bridge claim.
+
+---
+
+2026-9-6 Sun (8.0h): Exchange and validator followup.
 
 2026-9-5 Sat (6.6h): Exchange and validator followup.
 
