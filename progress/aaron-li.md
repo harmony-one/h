@@ -1,4 +1,4 @@
-2026-9-7 Mon (2.5h+): Exchange and validator followup. Code review on bridge claim.
+2026-9-7 Mon (3.5h+): Exchange and validator followup. Code review on bridge claim.
 
 ---
 
