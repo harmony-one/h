@@ -1,4 +1,4 @@
-2026-9-8 Tue (3.6h): Token migration.
+2026-9-8 Tue (3.8h): Token migration.
 
 2026-9-7 Mon (7.2h): Exchange and validator followup. Code review on bridge claim.
 
