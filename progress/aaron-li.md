@@ -1,4 +1,4 @@
-2026-9-9 Wed (5.4h+): Token migration. Exchange and validator followup.
+2026-9-9 Wed (5.9h): Exchange and validator followup. Token migration.
 
 2026-9-8 Tue (10.3h): Token migration.
 
