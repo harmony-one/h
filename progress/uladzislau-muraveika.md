@@ -1,3 +1,25 @@
+2026-09-11 Fri
+
+During the last week, I was helping with support requests from Harmony partners and core team from the infra side.
+
+I've also removed devnet network servers and DNS configuration. 
+
+I've done the cleanup of a few redundant services that we had in the digital ocean. 
+
+And finally, helped with configuring `.country` domains routes to the harmony validators websites.
+
+---
+
+
+2026-09-09 Wed - sick day
+
+---
+
+
+2026-09-07 Wed - sick day
+
+---
+
 2026-09-04 Fri
 
 During the last week, I was focused on support tasks such as calculating cloud costs and removing several redundant servers.
