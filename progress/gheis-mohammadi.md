@@ -1,3 +1,9 @@
+2026-09-05 Sat: Last week I created [PR #5140](https://github.com/harmony-one/harmony/pull/5140) to improve consensus gossip handling and stream sync reliability. Nodes that are more than 100 blocks behind now skip far-ahead `PREPARED` and `COMMITTED` gossip instead of decoding and storing messages against outdated local committee data. Stream sync was also tightened so downloaded blocks count as successfully inserted only when they extend the canonical chain and actually advance the head, preventing false sync progress from out-of-order blocks, unknown ancestors, or non-canonical known blocks. The PR does not require a hard fork and was successfully merged into `dev`.
+
+I also worked with the team on preparing the next Harmony release, reviewing and finalizing the recent fixes and making sure the recovery, consensus, validation, slashing, and sync changes are ready and stable for release.
+
+--
+
 2026-08-29 Sat: Last week I continued working on the slashing improvements introduced in [PR #5132](https://github.com/harmony-one/harmony/pull/5132). With help from the team, the changes were deployed to devnet and went through extensive testing. So far, the results look good, and we are continuing validation before moving toward activation.
 
 I also created [PR #5138](https://github.com/harmony-one/harmony/pull/5138) to address two additional validation issues. The first strengthens consensus during view change by requiring a valid prepare quorum for the `NEWVIEW` M1 payload before accepting it. The second improves cross-shard receipt proof validation by rejecting incomplete proofs with missing receipts, block numbers, header numbers, or amounts. These changes tighten consensus and cross-shard validation without requiring an additional hard fork activation.
