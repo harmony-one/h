@@ -8,13 +8,13 @@ Following the network shutdown, the team has been focused on preparing the migra
 
 I also worked with the team on preparing the next Harmony release, reviewing and finalizing the recent fixes and making sure the recovery, consensus, validation, slashing, and sync changes are ready and stable for release.
 
---
+---
 
 2026-08-29 Sat: Last week I continued working on the slashing improvements introduced in [PR #5132](https://github.com/harmony-one/harmony/pull/5132). With help from the team, the changes were deployed to devnet and went through extensive testing. So far, the results look good, and we are continuing validation before moving toward activation.
 
 I also created [PR #5138](https://github.com/harmony-one/harmony/pull/5138) to address two additional validation issues. The first strengthens consensus during view change by requiring a valid prepare quorum for the `NEWVIEW` M1 payload before accepting it. The second improves cross-shard receipt proof validation by rejecting incomplete proofs with missing receipts, block numbers, header numbers, or amounts. These changes tighten consensus and cross-shard validation without requiring an additional hard fork activation.
 
---
+---
 
 
 2026-08-22 Sat: Last week we successfully completed the chain rollback and network recovery. Both shards are now healthy and operating at 100% consensus. This was a major recovery effort and a great example of teamwork across the team.
