@@ -1,3 +1,9 @@
+2026-09-12 Sat: Last week Harmony announced the decision to sunset the Harmony L1 network and migrate the ONE token to Ethereum. The network produced and committed its final blocks on September 10, marking the end of block production on both shards. Shard 0 produced its last block, `93624315`, at 14:41:43 UTC, followed by shard 1 with block `95883681` at 14:52:47 UTC.
+
+Following the network shutdown, the team has been focused on preparing the migration. We are working on account and balance verification, auditing the final chain state, and preparing and validating the airdrop contracts and related data to ensure an accurate and reliable transition to Ethereum.
+
+---
+
 2026-09-05 Sat: Last week I created [PR #5140](https://github.com/harmony-one/harmony/pull/5140) to improve consensus gossip handling and stream sync reliability. Nodes that are more than 100 blocks behind now skip far-ahead `PREPARED` and `COMMITTED` gossip instead of decoding and storing messages against outdated local committee data. Stream sync was also tightened so downloaded blocks count as successfully inserted only when they extend the canonical chain and actually advance the head, preventing false sync progress from out-of-order blocks, unknown ancestors, or non-canonical known blocks. The PR does not require a hard fork and was successfully merged into `dev`.
 
 I also worked with the team on preparing the next Harmony release, reviewing and finalizing the recent fixes and making sure the recovery, consensus, validation, slashing, and sync changes are ready and stable for release.
