@@ -1,4 +1,4 @@
-2026-9-21 Mon (2.7h): Token migration.
+2026-9-21 Mon (3.5h+): Token migration.
 
 ---
 
