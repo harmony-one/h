@@ -1,4 +1,4 @@
-2026-9-24 Thu (2.2h+): Token migration.
+2026-9-24 Thu (3.0h): Token migration.
 
 2026-9-23 Wed (8.2h): Token migration.
 
