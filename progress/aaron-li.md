@@ -1,3 +1,5 @@
+2026-9-25 Fri (0.2h+): Bridge impact.
+
 2026-9-24 Thu (8.8h): Token migration. Domain management.
 
 2026-9-23 Wed (8.2h): Token migration.
