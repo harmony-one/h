@@ -1,4 +1,4 @@
-2026-9-28 Mon (1.3h+): Vault and other asset migration. Exchange migration.
+2026-9-28 Mon (1.6h): Vault and other asset migration. Exchange migration.
 
 ---
 
