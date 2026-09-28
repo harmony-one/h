@@ -1,3 +1,5 @@
+2026-9-27 Sun (0.5h): Exchange migration.
+
 2026-9-26 Sat (0.8h): Vault migration.
 
 2026-9-25 Fri (3.1h): Token migration verification. Legal term review and revision. Bridge impact.
