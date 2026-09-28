@@ -1,3 +1,7 @@
+2026-9-28 Mon (0.9h): Exchange migration.
+
+---
+
 2026-9-27 Sun (0.5h): Exchange migration.
 
 2026-9-26 Sat (0.8h): Vault migration.
