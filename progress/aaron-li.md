@@ -1,4 +1,6 @@
-2026-9-28 Mon (5.0h): Migration verifcation. Exchange migration. Vault and other asset migration.
+2026-9-29 Tue (1.3h+): Migration verifcation.
+
+2026-9-28 Mon (5.5h): Exchange migration. Migration verifcation. Vault and other asset migration.
 
 ---
 
