@@ -1,4 +1,4 @@
-2026-9-30 Wed (0.5h+): Migration verifcation.
+2026-9-30 Wed (0.6h): Migration verifcation.
 
 2026-9-29 Tue (4.1h): Migration verifcation. Exchange migration.
 
