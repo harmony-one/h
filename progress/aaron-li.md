@@ -1,3 +1,5 @@
+2026-10-1 Thu (0.9h+): Migration verifcation.
+
 2026-9-30 Wed (1.8h): Migration verifcation.
 
 2026-9-29 Tue (4.1h): Migration verifcation. Exchange migration.
