@@ -1,4 +1,4 @@
-2026-10-1 Thu (2.1h): Airdrop execution. Exchange migration. Migration verifcation.
+2026-10-1 Thu (2.1h+): Migration verifcation. Airdrop execution. Exchange migration.
 
 2026-9-30 Wed (1.8h): Migration verifcation.
 
