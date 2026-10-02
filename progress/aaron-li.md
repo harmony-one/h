@@ -1,120 +1,124 @@
 2026-10-1 Thu (3.6h+): Vault migration. Migration verifcation. Airdrop execution. Exchange migration.
 
-2026-9-30 Wed (1.8h): Migration verifcation.
+2026-9-30 Wed (1.8h): Migration verification — rename reviewer/summary/breakdown/full snapshot files with updated generators, LFS rules and docs; trust the macOS CA bundle for Safe service and RPC HTTPS calls; reconcile a colleague's eligibility filter against exact cutoff dates, thresholds, exclusions and delegation-only validator activity with reproducible public-RPC checks.
 
-2026-9-29 Tue (4.1h): Migration verifcation. Exchange migration.
+2026-9-29 Tue (4.1h): Migration verification — safe-batch show: decode queued Safe multisend transfers, recompute hashes and validate recipients/amounts for signer review; five-column reviewer snapshot with migration_balance and whole-ONE display, independent snapshot comparison tooling and digests, rebuilt snapshots after the pending-receipt ledger correction; reconcile the first-batch draw (skipped vs removed recipients) and activity eligibility for validator wallets. Exchange migration — verify an exchange's EIP-191 signed instructions and Bech32 mapping against cutoff balances.
 
-2026-9-28 Mon (5.5h): Exchange migration. Migration verifcation. Vault and other asset migration.
-
----
-
-2026-9-27 Sun (0.5h): Exchange migration.
-
-2026-9-26 Sat (0.8h): Vault migration.
-
-2026-9-25 Fri (3.1h): Token migration verification. Legal term review and revision. Bridge impact.
-
-2026-9-24 Thu (8.8h): Token migration. Domain management.
-
-2026-9-23 Wed (8.2h): Token migration.
-
-2026-9-22 Tue (9.0h): Token migration.
-
-2026-9-21 Mon (8.0h): Token migration.
+2026-9-28 Mon (5.5h): Migration verification — compare independently produced cutoff snapshots with the migration snapshot, trace missing cross-shard receipts to incomplete snapshot history, add archive-history guards and receipt provenance checks, propagate corrected pending and retired-shard receipts through ledgers, findings and supply-audit reports; review first-batch delivery artifacts, detect stale Safe nonces and provide a reproducible CSV-to-multisend build. Exchange migration — research on exchange delisting rationale, volume thresholds and relisting precedents. Vault and other asset migration — trim unused ERC-4626 dependencies while retaining license notices.
 
 ---
 
-2026-9-20 Sun (1.6h): Token migration.
+2026-9-27 Sun (0.5h): Exchange migration — entity signing authority, contracting party, governing law and arbitration implications for exchange agreements.
 
-2026-9-19 Sat (2.1h): Token migration.
+2026-9-26 Sat (0.8h): Vault migration — compare a minimal principal vault with an ERC-4626 design (principal vs stablecoin rewards, withdrawal delay), review a governor-fee/withdrawal-delay prototype and OpenZeppelin dependency size.
 
-2026-9-18 Fri (7.8h): Token migration.
+2026-9-25 Fri (3.1h): Token migration verification — redacted snapshot README with explicit column definitions for independent engineering verification. Legal term review and revision — partner agreement terms review with tracked comparisons. Bridge impact — loss-allocation analogies for the LayerZero compensation discussion.
 
-2026-9-17 Thu (9.1h): Token migration.
+2026-9-24 Thu (8.8h): Token migration — publish cutoff snapshots in harmony-airdrop-tracking (build/fetch scripts, public snapshots under the GitHub size limit, Git LFS for full files, incident catalogues); apply incident deductions before the initial-stage threshold, rename rollback-leak to revert-leak across repos, inaccessible-address inventory, Safe-direct batch payment and batch selection tools, redraw the first distribution with a committed future-block seed and build the first-batch Safe transactions; quantify WONE's effect on qualification and assess deferring it; reconcile exchange balances into native and WONE components; fix a small supply-paragraph discrepancy in the article; free GitHub LFS quota for the snapshots. Domain management — repair broken harmony.one short links and redirects after the site move, restore CNAME → CloudFront → www routing and the A record, fix social-preview 301 redirects.
 
-2026-9-16 Wed (8.9h): Token migration.
+2026-9-23 Wed (8.2h): Token migration — review-hardened manual exchange delivery: route every exchange wallet as manual reserve delivery, parse destination files by role, per-destination delivery worksheets, routing invariants and integrity checks, declare the exchange_manual stage; apply rollback-exploit deductions to mixed and exploit-only balances and regenerate claim-delivery and non-issuance reports; seeded tiered first-batch selection and Safe payment tooling; portal: Ledger USB and WalletConnect confirmation (legacy Harmony Ledger format), signature-scheme verification, manual-delivery display; transaction-based wallet-control challenge design; verify disclosed exchange wallets at the cutoff across both shards, stake and WONE; wallet options for migrate.country/confirm (MetaMask custom derivation path, Harmony Ledger app via Ledger Live vs WalletConnect, Ledger Sync).
 
-2026-9-15 Tue (9.7h): Token migration.
+2026-9-22 Tue (9.0h): Token migration — implement the immutable-root committed-batch airdrop (CommittedBatchAirdrop contract, Foundry deploy/simulate/execute scripts, unit tests, airdrop.py CLI and operator runbook) with Safe root authorization and replay protection; confirmed-wallets operations report and CLI (confirmation signatures, allocations, balance components, vault shares) with an SSH-tunnel fix; manual reserve delivery for exchanges and exclusion of exchange addresses from automated airdrops; exchange wallet-control evidence standards, proof-of-reserves and attribution memos; restore approved supply-article wording and repair source manifests.
 
-2026-9-14 Mon (5.0h): Token migration.
-
----
-
-2026-9-13 Sun (1.1h): Token migration.
-
-2026-9-12 Sat (3.5h): Token migration.
-
-2026-9-11 Fri (4.6h): Token migration.
-
-2026-9-10 Thu (12.3h): Exchange and validator followup. Token migration.
-
-2026-9-9 Wed (8.5h): Token migration. Exchange and validator followup.
-
-2026-9-8 Tue (10.3h): Token migration.
-
-2026-9-7 Mon (7.2h): Exchange and validator followup. Code review on bridge claim.
+2026-9-21 Mon (8.0h): Token migration — clarify the all-delegated-principal rule (inactive delegators' principal moves to the deferred vault bucket) and quantify the resulting initial-cohort increase; claim portal: migration-stage policy integration (initial/deferred allocations, activity eligibility, contract treatment, historical-hack deductions), deferred-wallet ownership confirmation with signed challenges and scoped database roles; evaluate airdrop execution patterns, gas costs and replay protection; exchange agreement review and shard-1/WONE holdings reconciliation.
 
 ---
 
-2026-9-6 Sun (8.0h): Exchange and validator followup.
+2026-9-20 Sun (1.6h): Token migration — soften the public article's premint comparison and phased-migration explanation while keeping exact figures in the table. Domain management — plan the harmony.one move to the new site (GCP load-balancer backend, GCP-managed HTTPS certificates, cert-renewal VM).
 
-2026-9-5 Sat (6.6h): Exchange and validator followup.
+2026-9-19 Sat (2.1h): Token migration — break down the signing cohort by liquid balance, stake, rewards and concentration and compute coverage thresholds for top holders; article edits on WONE, LayerZero and reserve releases vs circulating supply, move the premint reconciliation arithmetic into a technical table and regenerate Markdown/HTML redlines; reconcile an exchange's airdrop calculation with wallet-control evidence.
 
-2026-9-4 Fri (5.9h): Exchange and validator followup.
+2026-9-18 Fri (7.8h): Token migration — staged migration policy and the 2050 premint reserve: address-level stage policy builder, initial-stage wallet and vault materialization, stage-aware exchange accounting, reviewed-contract policy replacing blanket treasury routes; exchange aggregate delivery (native-only builder, EIP-191 multi-sheet workbook parser, secondary-exchange aggregates exempt from the wallet threshold) with embargo packaging; portal support for WONE balances, post-deduction claims, exchange routing and special addresses, sync of all account inputs to the portal environment with a fast checksum-based handoff script; draft the migrate.country validator announcement, update the article's exchange figures and agreement redlines.
 
-2026-9-3 Thu (4.3h): Exchange and validator followup. Exchange data analysis; Investigator followup.
+2026-9-17 Thu (9.1h): Token migration — add the WONE holder scanner (archival deposit/withdrawal/transfer logs reconciled exactly to cutoff totalSupply), count WONE toward eligibility and add redistribution routes, holder-paid backing as redistributed vs retained not_issued; exchange-wallet accounting and route verification; apply the article's migration-stage policy across code, routing, vault stages and findings in both repos with regression checks; restructure the public supply article around initial distribution with Google Doc redlines; 1wallet population statistics; checksummed portal data handoff; validator agreement redlines and exchange replay/nonce replies.
 
-2026-9-2 Wed (7.1h): Exchange data analysis; Investigator followup.
+2026-9-16 Wed (8.9h): Token migration — wallet-theft inventory with non-issuance reporting and victim non-routing tests across the migration and supply-audit packages (reproducible retained-hack-balance ledger, multi-date verification); initial claim portal in Git (single-address lookup API, migration-data injector, wallet and vault breakdown UI, deployment tooling, tests) with an injector dry run on updated private data; historical exchange custody evidence and public verification memos, partner agreement drafts and recovery schedules, Ethereum airdrop gas scenarios, signing commands for five validator agreements.
 
-2026-9-1 Tue (8.6h): Exchange data analysis; Investigator followup.
+2026-9-15 Tue (9.7h): Token migration — replace treasury reclaim with terminal not_issuing routes for incident, burn and inaccessible-address amounts and regenerate non-issuance findings; set up the claim-portal repository, environment and local PostgreSQL on the agent machine and replicate the migration/supply-audit workspace with verified private inputs; audit both shards' elected-validator history against governors.country; exchange settlement terms (mutual releases, frozen-credit cancellation, later-recovery provisions), proof-of-reserves and recovery transaction lists; validator agreement signing commands. Domain management — internal domain-registration endpoints and VM service update for the ENS registrar relay; governors.country DNS and a Cloudflare proxy worker for the governor-agreements site.
 
-2026-8-31 Mon (5.6h): Research on product, hardware, model, migration.
-
----
-
-2026-8-30 Sun (1.6h): Exchange follow up. Research on migration. Validator follow up.
-
-2026-8-29 Sat (4.2h): Exchange follow up. Validator follow up. Research on product, hardware, model.
-
-2026-8-28 Fri (9.2h): Research on product, hardware, model. Exchange data consolidation and analysis. Analyze and resolve bridge matters.
-
-2026-8-27 Thu (5.3h): Analyze and resolve bridge matters. Exchange follow up; Research on product, hardware, model. Map, tracing, validator, exchange followups.
-
-2026-8-26 Wed (5.7h): Map, tracing, validator, exchange followups.
-
-2026-8-25 Tue (3.4h): Map, tracing, validator, exchange followups.
-
-2026-8-24 Mon (6.1h): Map, tracing, validator, exchange followups.
+2026-9-14 Mon (5.0h): Token migration — fix validation defects (secure keys, validator discovery, DB read failures, ownership provenance pinned to the cutoff), merge PRs #4/#5 (claim-integrity checks) and supply-audit PR #3 with receipt-bound CX audit evidence and a verification report; split WONE custody from LayerZero reconciliation and hold ordinary contract funds separately; build the cutoff account-activity scanner (shard-0 DB + shard-1 archival RPC) and activity-enriched claim CSVs with embargoed window totals. Exchange follow-ups on a forged-token claimant and a blacklisted spray recipient; Harmony Ledger derivation-path check and holder guidance on airdrop delivery addresses.
 
 ---
 
-2026-8-23 Sun (3.6h): Impact analysis.
+2026-9-13 Sun (1.1h): Token migration — review migration issue #1 / PR #2 and supply-audit PR #2 (policy checks, Python 3.12 baseline, pin ownership and recovery reads to the cutoff, canonical-receipt and fail-closed DB checks), validate cross-shard replay classification against May 2025 receipts, document the WONE/LayerZero reserve double-issuance risk; explicit claim-routing toolkit and exception-only routing docs.
 
-2026-8-22 Sat (6.4h): Impact analysis.
+2026-9-12 Sat (3.5h): Token migration — publish the harmony-migration toolkit repo (Go state scanners/verifiers, Python claim, contract-review and forensics pipelines, CI, manifests); simplify the canonical entitlement model to wallet airdrop + staked-to-vault with active delegation becoming validator-vault principal, regenerate outputs and FAQ qualification totals; independently check cutoff balances, staking and vault arithmetic; classify late-discovered contracts and route reviewed non-multisig contracts under the treasury policy with multisigs on manual hold.
 
-2026-8-21 Fri (3.1h): Impact analysis.
+2026-9-11 Fri (4.6h): Token migration — stand up the public harmony-supply-audit package (Go scanners, Python analysis, build/verify/embargo-guard scripts, methodology docs) and consolidate migration artifacts with recursive checksums; apply numerical-embargo rules to publishable migration docs and manifests while preserving unredacted findings privately; max-rate recovery ceiling analysis; begin classifying code-bearing claimants (Safes, 1wallets, token/NFT contracts) and route verified validator wrappers as EOAs.
 
-2026-8-20 Thu (6.6h): Impact analysis. Reach consensus.
+2026-9-10 Thu (12.3h): Token migration — pin the September 10 7am PDT cutoff to shard-0 block 93,623,067 / shard-1 block 95,882,100, generate the final-cutoff claims ledger and original-to-cutoff difference files (all resolved rows reconciled, new state accounts traced, retired-shard receipts held pending proof), evacuate and checksum remote artifacts before archive access ended; reconcile the residual supply gap (HIP-30 recovery issuance, max-rate/undelegation effects, burns vs consolidation) and expand the supply report's unauthorized-creation category by dated incident; gasless migration-acceptance options (relayed withdrawals, EIP-7702). Exchange and validator followup.
 
-2026-8-19 Wed (7.0h): Prepare for rollback stage 2.
+2026-9-9 Wed (8.5h): Token migration — resume archive-backed address-preimage recovery and expand migration ledgers to liquid and non-liquid claims with aggregate amounts and unresolved secure keys; trace the historical receipt-state supply expansion (distinct from the August forged-receipt exploit): code provenance, exploit roots, distribution contracts and onward flows, packaged as a reproducible tracing package; validator guidance for importing hmy wallet keys into MetaMask. Exchange and validator followup — re-audit exchange allocations and frozen credits, classify remaining deposits, LayerZero/Gas.zip loss-sharing responses and payout-timing reconstruction.
 
-2026-8-18 Tue (10.3h): Review security. Restarting nodes.
+2026-9-8 Tue (10.3h): Token migration — design and build the ONE ERC-20 (Foundry + TypeScript): constructor-minted fixed supply, no OpenZeppelin dependency, differential fuzzing, deployment/ledger scripts and Safe-owner workflow; audit handoff package, Sepolia test deployments and Etherscan/Sourcify verification, then mainnet deployment with receipt, bytecode, mint-event and Safe-recipient checks (harmony-one/harmony-erc20). Compute state-derived ONE supply from local databases at the cutoff (liquid, delegation, undelegation, rewards, pending receipts) and begin reconciling it against theoretical issuance via archive checkpoint scans.
 
-2026-8-17 Mon (8.8h): Restarting nodes. Rollback.
+2026-9-7 Mon (7.2h): Exchange and validator followup — verify exchange deposits restored through exact signed-transaction replay on the replacement chain, refresh exchange custody balances at fixed blocks and attribution limits, evaluate settlement priorities and capped additional issuance (valuation brief), draft the public exchange-reconciliation article with tables and transaction examples. Code review on bridge claim.
 
 ---
 
-2026-8-16 Sun (11.2h): Rollback.
+2026-9-6 Sun (8.0h): Exchange and validator followup — migration address census: enumerate qualifying accounts directly from both shard databases (snapshots, recorded state roots, secure-key aggregation) via a read-only archive scanner over an SSH tunnel, identify missing address preimages as the blocker and plan server-side preimage recovery against the archive DB; review and edit the migration user FAQ; compensation sheet vs both shard rosters and validator election status; source-to-source exchange matching verifier, exchange transaction lists, checksummed bridge/tracing handoff archive; ONE trading-volume research on listing exchanges; migration vault design research (pre-seeded depositor shares, delayed withdrawals, ERC-4626 vs ERC-7540, Safe message signing).
 
-2026-8-15 Sat (11.8h): Rollback.
+2026-9-5 Sat (6.6h): Exchange and validator followup — independently reconstruct exchange customer-shortfall totals and matched vs private withdrawals, receiving-exchange audit CSVs; model progressive validator shutdown, migration-cutoff risks and the holder/exchange exit window, align the migration snapshot with the earliest permitted shutdown, governor compensation timing and formulas; re-rank validator outreach by delegated stake; bridge-asset release under existing signer authority; B200 vs RTX PRO 6000 for premium AI-video workloads.
 
-2026-8-14 Fri (9.1h): Rollback.
+2026-9-4 Fri (5.9h): Exchange and validator followup — recheck replay remediation and residual exposure per exchange, user-unlocking and repayment guidance; review validator rollback participation and voting footprint to prioritize outreach, audit validator-compensation formulas against the migration proposal; inventory bridge-held assets, legitimate remote supply and incident-related excess across chains, compare bridge admins and Safe signers on Harmony/Ethereum/BSC, recompute bridge activity from individual transfers and receipts.
 
-2026-8-13 Thu (14.5h): Postmortem. Rollback chain state.
+2026-9-3 Thu (4.3h): Exchange and validator followup — identify transaction-replay exposure by comparing live vs abandoned-chain nonces across mapped exchange wallets via RPC, issue an urgent notice and track remediation; account-adjustment and reopening guidance with decision chart. Exchange data analysis; Investigator followup — frozen internal balance vs reported shortfall, confirmed vs unresolved deposit-source summaries.
 
-2026-8-12 Wed (7.2h): Rollback chain state.
+2026-9-2 Wed (7.1h): Exchange data analysis — reconstruct the order and timing of exchange deposits among forged-root outgoing transactions (early cash-out, later spray phases), verify deposits against source-exchange withdrawals by workbook hash, rebuild provisional allocations after return flows and downstream withdrawals, customer-level reductions without double-deducting. Investigator followup — assess claimed transactions, provenance and timing relative to public alerts.
 
-2026-8-11 Tue (9.0h): Investigate chain state. Fix notion webpage header issue.
+2026-9-1 Tue (8.6h): Exchange data analysis — reconcile exchange technical shortfalls, matched downstream withdrawals and customer-balance deductions, refine the receiving-exchange allocation proposal, update flow diagrams and the interactive report. Investigator followup — assemble an indexed trace packet with transaction data and data dictionary, check incident addresses against known cross-chain and sanctions-linked lists. Validator responses on ERC-20 continuity, snapshots and the compute transition (Moonbeam/Moonriver comparisons).
+
+2026-8-31 Mon (5.6h): Research on product, hardware, model, migration — investigate reusing existing Harmony bridge escrows with new remote peers (ULN301 per-peer nonce behavior); review validator feedback on the migration and AI-operator proposal, finalize outreach wording on Ethereum migration, L1 retirement, an optional future L2 and availability/usage payments for AI operators; exchange shortfall snapshot clarifications.
+
+---
+
+2026-8-30 Sun (1.6h): Research on migration — Merkle entitlement leaves and proofs, claim paths and correction rounds, sponsored batches and claimFor implications, batched-claim gas vs direct Ethereum/Base airdrop costs. Exchange follow up — reconcile a proposed exchange claim with credited transfers and pending withdrawals. Validator follow up.
+
+2026-8-29 Sat (4.2h): Research on product, hardware, model — high-memory machines for local agent and vision-language workflows, RTX 5090 nodes vs B200 ownership cost for the LTX workload. Validator follow up. Exchange follow up — LayerZero gas-drop timing against the public alert and operator responsibilities; update exchange withdrawal coverage and claim-allocation proposals.
+
+2026-8-28 Fri (9.2h): Analyze and resolve bridge matters — gas-drop recipient funding patterns, reconstruct pre-incident BSC WONE supply and holders for a retirement/claims process, evaluate bridge replacement, legacy nonce state and escrow recovery. Exchange data consolidation and analysis — validate deposit/withdrawal workbooks, multi-hop matching across exchanges, notification timelines. Research on product, hardware, model — compare burn-and-claim, airdrop and Merkle-claim designs for the ONE migration with fixed-supply premint; GPU options (RTX 5090/4090 vs datacenter) for video-generation workers; prioritize validators for migration and compute-pilot feedback.
+
+2026-8-27 Thu (5.3h): Analyze and resolve bridge matters — LayerZero impact review (delivered gas drops, waiting packets, OFT transfers), check whether the bridge was disabled on-chain, analyze the BSC-to-Harmony return path and 175-packet nonce gap, correct the bridge-impact undercount from additional BSC mints. Exchange follow up — audit revised deposit workbooks and reconcile customer flows. Research on product, hardware, model. Map, tracing, validator, exchange followups.
+
+2026-8-26 Wed (5.7h): Map, tracing, validator, exchange followups — audit exchange workbooks against reported shortfalls and frozen-fund reporting, draft aggregate-data follow-ups; evaluate FastWan/LTX video-model feasibility, licensing, throughput and hardware/cloud economics; validator outreach on subsidies, demand and a compute pilot; incident brief.
+
+2026-8-25 Tue (3.4h): Map, tracing, validator, exchange followups — review validator exports and prioritize consultation, research AI-video operator demand and comparables, reconcile exchange workbook records against both chains, restore shard-0 WebDAV snapshot access for a partner.
+
+2026-8-24 Mon (6.1h): Map, tracing, validator, exchange followups — exchange security-deposit terms and replies on balances, frozen assets and compensation; verify abandoned-branch transactions and supply verification commands; updated upstream/downstream allocation analysis and evidence package; validator outreach on economics, migration and compute; check FullDB endpoint availability and lineage.
+
+---
+
+2026-8-23 Sun (3.6h): Impact analysis — simplify the exchange reconciliation packet and CSV schemas, reconcile updated exchange deposit statements, centralize the shortfall calculation; evaluate partner messaging for an Ethereum ERC-20 migration and a possible later L2 against migration precedents.
+
+2026-8-22 Sat (6.4h): Impact analysis — match exchange-reported transactions to abandoned-chain records and collector sweeps, correct screened subtotals and custody attribution, update flow graphs and the exchange comparison table; rewrite exchange reconciliation instructions and CSV templates (fees, reversals, recredits, resends, usable recovery).
+
+2026-8-21 Fri (3.1h): Impact analysis — reconstruct exchange credited/uncredited deposits, withdrawals and return-deposit cycling; define corrected-customer-balance and cross-exchange reconciliation methods and a standard exchange data request; shared evidence data and fixed-layout fund-flow diagrams. Refresh the rollback-completion announcement with current chain stability.
+
+2026-8-20 Thu (6.6h): Reach consensus — RUNNING consensus tracking with live RPC telemetry and dashboard, deduplicated READY/RUNNING reports and weighted coverage, troubleshoot stage-2 startups, investigate the epoch-3002 transition stall (expected leader, missing proposals, view-change participation), review PR 5122 / v2026.1.3 for epoch-finalization risk; rollback-completion announcement evidence, validator cleanup guide and non-validating node (RPC/bridge/exchange/indexer) guide. Impact analysis — frozen vs usable recoveries and provisional ceiling deductions.
+
+2026-8-19 Wed (7.0h): Prepare for rollback stage 2 — staggered validator launch plan (READY vs RUNNING voting power, per-shard quorum), versioned GO workflow and v2026.1.3 release checks, simplified manual stage-2 instructions (stopped services, clean snapshot, DNS-only sync, replacement binary), draft GO announcements; test stage-2 startup on a Raspberry Pi validator (encrypted BLS passphrase, DNS flags, view-change state), troubleshoot an interrupted validator DB swap.
+
+2026-8-18 Tue (10.3h): Restarting nodes — correct operator labels, recompute weighted readiness and identify reachable validators to close the quorum gap; set up a secondary agent workspace. Review security. Exchange impact: reconstruct exchange deposit figures from reported deposits and linked sweeps, transaction-level evidence separating root deposits, unresolved provenance and unrecoverable loss; net-loss and compensation assessment.
+
+2026-8-17 Mon (8.8h): Restarting nodes — verify READY BLS keys against the rollback-target committee, compute weighted voting-power readiness for restart quorum, build the readiness dashboard and GCS tooling, reconcile submissions across services and both shards. Rollback — stage-2 sync flag precedence and binary-hash migration, review overlap of recovery PRs 5123/5119 and merge sequencing; reconcile fund-flow coverage and accounting boundaries.
+
+---
+
+2026-8-16 Sun (11.2h): Rollback — automation support for custom and multiple validator services (per-service state/GO markers, duplicate-process and data-dir checks, shard-1 beacon-companion preservation), isolated ARM64 shard-1 test, READY/RUNNING idempotent-start checks. Consolidate incident receipts, tracing and recovery choices into evidence dossiers; draft public rollback announcements, procedure docs and the validator prepare-only checklist (PR).
+
+2026-8-15 Sat (11.8h): Rollback — impact classification of rollback-window transfers (DEX, automated trading, stable assets, legacy bridge, LayerZero gas drops); v2026.1.2 artifact checksums and validator download/verify/swap instructions; rollback automation for low-disk validators (argument preservation, CURRENT.bak handling, resumable staged download), Raspberry Pi snapshot-transfer tuning.
+
+2026-8-14 Fri (9.1h): Rollback — standalone rollback-script plan and v2026.1.1/v2026.1.2 release work: review PRs #5106/#5107 and #14 (shard-1 ViewID floor, branch rejection, release readiness), rollback branch PR #5108, SnapDB/rclone snapshot validation, smoke-test, ARM64 and unprivileged-service fixes. Forensics: independent-forensics handoff and executive brief, quorum-regression trace, classify rollback-window transactions by exposure and replay safety, recovery-options memo. Keep harmony.one online without Harmony RPC.
+
+2026-8-13 Thu (14.5h): Rollback chain state — review emergency rollback PR #13 (ViewID, double-sign safety, abandoned-branch rejection), both-shard recovery boundaries, restart sequencing and the shared ViewID floor; patches for ViewID floor, first abandoned child and stale crosslink roll-up; recovery preflight CLI, state walking, acceptance fixtures and producer toolchain; clean-DB adoption as an emergency two-command validator workflow. Postmortem — verify forged-credit block timestamps, quorum-verification writeup, claim-by-claim evidence companion with receipt ledger, reconcile minted vs traceable funds and rollback-vs-burn options; prepare the fraud-mint-monitor repository for public release.
+
+2026-8-12 Wed (7.2h): Rollback chain state — compare clean-snapshot replay vs in-place revert (forensic preservation, trie availability, stale DB metadata); recovery implementation handoff, validator orchestration and checkpoint requirements; plan target-block replay/export tooling, validator metadata audit and read-only recovery preflight checks. Refresh exchange deposit tracing.
+
+2026-8-11 Tue (9.0h): Investigate chain state — verify forged cross-shard receipts and landing wallets against archival data, produce a fund-flow report and labeled address list, implement checkpointed fraud-mint monitoring and historical scans; review quorum/replay patches and clean-snapshot rollback requirements; fix the ARM64 build and verify v2026.1.1 validator binaries. Fix Notion webpage header issue on harmony.one (User-Agent header for Notion retrieval, lockfile reconciliation).
+
+---
+
+2026-8-7 Fri (1.0h): Recovery statistics and analysis.
 
 ---
 
