@@ -124,45 +124,45 @@
 
 ---
 
-2026-7-22 Wed (4.2h): Deep links, sharable content and favorite lists — react-router with path catalog, video share page and shareable people URLs (username lookup), UserFavorite model + favorites API and favorited browse listing, return-to-swipe after deciding from a shared link, SPA deep-link fallback for the GCS/load-balancer deploy. Global video approved list and viewing another user's activities (follow-ups).
+2026-7-22 Wed (4.2h): Deep links, sharable content and favorite lists -- react-router with path catalog, video share page and shareable people URLs (username lookup), UserFavorite model + favorites API and favorited browse listing, return-to-swipe after deciding from a shared link, SPA deep-link fallback for the GCS/load-balancer deploy. Global video approved list and viewing another user's activities (follow-ups).
 
 ---
 
-2026-7-17 Fri (1.7h): Global video approved list, and view another user's activities — usernames (assigned on signup, rename endpoint), users directory + per-user activity APIs, community browse modes with approval thresholds and topic/platform filters, People view and scope-tab browse UI.
+2026-7-17 Fri (1.7h): Global video approved list, and view another user's activities -- usernames (assigned on signup, rename endpoint), users directory + per-user activity APIs, community browse modes with approval thresholds and topic/platform filters, People view and scope-tab browse UI.
 
 ---
 
-2026-7-12 Sun (1.7h): End-to-end deployment and tests for the personalized review queue — Google OAuth client ID wired into the frontend deploy, fnmatch wildcard email allowlists with tests, run-pipeline.sh wrapper for the VM, dependency fixes.
+2026-7-12 Sun (1.7h): End-to-end deployment and tests for the personalized review queue -- Google OAuth client ID wired into the frontend deploy, fnmatch wildcard email allowlists with tests, run-pipeline.sh wrapper for the VM, dependency fixes.
 
-2026-7-10 Fri (4.6h): Personalized video queue and preference-based sorting — Google Sign-In with session JWTs replacing the token gate, interest tags + controlled-vocabulary tagging pipeline, per-user queue scoring. Independent per-user reviews: user_reviews as the sole review truth, vote totals in the API, export filtered by approval ratio, prioritize less-reviewed candidates in diversity selection.
+2026-7-10 Fri (4.6h): Personalized video queue and preference-based sorting -- Google Sign-In with session JWTs replacing the token gate, interest tags + controlled-vocabulary tagging pipeline, per-user queue scoring. Independent per-user reviews: user_reviews as the sole review truth, vote totals in the API, export filtered by approval ratio, prioritize less-reviewed candidates in diversity selection.
 
 2026-7-9 Thu (0.9h): Personalized video queue and preference based sorting.
 
-2026-7-8 Wed (3.3h): Auto-cluster AI videos, surfacing similar videos, manual video review — HNSW index on candidate embeddings, kNN similar_candidates query + /candidates/{id}/similar API, SimilarStrip rail on the video card, final embed sweep at the end of pipeline runs. Personalized video queue and preference-based sorting (multi-user plan).
+2026-7-8 Wed (3.3h): Auto-cluster AI videos, surfacing similar videos, manual video review -- HNSW index on candidate embeddings, kNN similar_candidates query + /candidates/{id}/similar API, SimilarStrip rail on the video card, final embed sweep at the end of pipeline runs. Personalized video queue and preference-based sorting (multi-user plan).
 
 ---
 
-2026-7-5 Sun (2.4h): Improve visibility of unreviewed and queued videos — serve the full screened pool in the review queue, rotate the diversity shortlist among unreviewed rows and reset stale flags, exclude and badge seed-ingested rows, peek-ahead mode, browse filter and tab responsiveness fixes.
+2026-7-5 Sun (2.4h): Improve visibility of unreviewed and queued videos -- serve the full screened pool in the review queue, rotate the diversity shortlist among unreviewed rows and reset stale flags, exclude and badge seed-ingested rows, peek-ahead mode, browse filter and tab responsiveness fixes.
 
-2026-7-1 Wed (4.1h): Video data quality — fix Reddit 403s via curl_cffi TLS impersonation (plus optional proxy routing), migrate the X adapter to api.x.com with a 24h window and drop web-only operators, enable semantic embeddings on the VM. Deploy tooling: pull VM logs, remote DB user, firewall source CIDR, post-restart health polling.
+2026-7-1 Wed (4.1h): Video data quality -- fix Reddit 403s via curl_cffi TLS impersonation (plus optional proxy routing), migrate the X adapter to api.x.com with a 24h window and drop web-only operators, enable semantic embeddings on the VM. Deploy tooling: pull VM logs, remote DB user, firewall source CIDR, post-restart health polling.
 
-2026-6-30 Tue (4.9h): Video data quality — automated hard-reject screening gate (tutorial/tool-demo exclusion classes, audit fields, labeled fixtures), seed-similarity matching stage + scoring signal, seed import CLI with seed-first discovery queries and X list-timeline crawling; gate review/diversity/enrich on screening. systemd timers + schedule.toml for scheduled discovery/pipeline runs with advisory lock. Inline X tweet embeds and tweet-text titles in the review UI.
+2026-6-30 Tue (4.9h): Video data quality -- automated hard-reject screening gate (tutorial/tool-demo exclusion classes, audit fields, labeled fixtures), seed-similarity matching stage + scoring signal, seed import CLI with seed-first discovery queries and X list-timeline crawling; gate review/diversity/enrich on screening. systemd timers + schedule.toml for scheduled discovery/pipeline runs with advisory lock. Inline X tweet embeds and tweet-text titles in the review UI.
 
 ---
 
-2026-6-28 Sun (3.0h): Video curation frontend and backend — deploy AI Video Review to GCP (VM + managed cert, Cloudflare DNS, static frontend bucket + CORS, .env.prod-driven deploy scripts). Frontend: bottom-menu navigation + icon action bar, DetailSheet for detailed decisions, BrowseView + browse candidates API with queue shuffle, swipe/inline-video and StrictMode fixes.
+2026-6-28 Sun (3.0h): Video curation frontend and backend -- deploy AI Video Review to GCP (VM + managed cert, Cloudflare DNS, static frontend bucket + CORS, .env.prod-driven deploy scripts). Frontend: bottom-menu navigation + icon action bar, DetailSheet for detailed decisions, BrowseView + browse candidates API with queue shuffle, swipe/inline-video and StrictMode fixes.
 
-2026-6-27 Sat (1.1h): Video curation frontend and backend — replace the Streamlit UI with a FastAPI review API + framework-neutral decision logic, scaffold a Vite/React/TypeScript frontend with mobile swipe review (AI Video Review), Docker compose for API + frontend, tests and docs.
+2026-6-27 Sat (1.1h): Video curation frontend and backend -- replace the Streamlit UI with a FastAPI review API + framework-neutral decision logic, scaffold a Vite/React/TypeScript frontend with mobile swipe review (AI Video Review), Docker compose for API + frontend, tests and docs.
 
 2026-6-26 Fri (1.0h): Video curation frontend and backend.
 
-2026-6-24 Wed (0.6h): Video curation research and pipeline construction — fix Bluesky adapter errors (public AppView) and burst/rate config.
+2026-6-24 Wed (0.6h): Video curation research and pipeline construction -- fix Bluesky adapter errors (public AppView) and burst/rate config.
 
 ---
 
 2026-6-20 Sat (0.7h): Video curation research and pipeline construction.
 
-2026-6-18 Thu (3.7h): AI Video Curator — research, plan, and initial implementation of the discovery + curation pipeline: source adapters (YouTube, X, Reddit, Bluesky, CSV import), canonicalize/dedupe, AI-provenance checks, scoring, embeddings and diversity selection, Postgres + pgvector schema (alembic), budget/rate-limit/rights services, discover/pipeline/export CLIs.
+2026-6-18 Thu (3.7h): AI Video Curator -- research, plan, and initial implementation of the discovery + curation pipeline: source adapters (YouTube, X, Reddit, Bluesky, CSV import), canonicalize/dedupe, AI-provenance checks, scoring, embeddings and diversity selection, Postgres + pgvector schema (alembic), budget/rate-limit/rights services, discover/pipeline/export CLIs.
 
 ---
 
