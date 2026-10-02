@@ -1,10 +1,10 @@
-2026-10-1 Thu (3.6h+): Vault migration. Migration verifcation. Airdrop execution. Exchange migration.
+2026-10-1 Thu (4.2h): Vault migration. Migration verifcation. Airdrop execution. Exchange migration.
 
-2026-9-30 Wed (1.8h): Migration verification — rename reviewer/summary/breakdown/full snapshot files with updated generators, LFS rules and docs; trust the macOS CA bundle for Safe service and RPC HTTPS calls; reconcile a colleague's eligibility filter against exact cutoff dates, thresholds, exclusions and delegation-only validator activity with reproducible public-RPC checks.
+2026-9-30 Wed (1.8h): Migration verifcation.
 
-2026-9-29 Tue (4.1h): Migration verification — safe-batch show: decode queued Safe multisend transfers, recompute hashes and validate recipients/amounts for signer review; five-column reviewer snapshot with migration_balance and whole-ONE display, independent snapshot comparison tooling and digests, rebuilt snapshots after the pending-receipt ledger correction; reconcile the first-batch draw (skipped vs removed recipients) and activity eligibility for validator wallets. Exchange migration — verify an exchange's EIP-191 signed instructions and Bech32 mapping against cutoff balances.
+2026-9-29 Tue (4.1h): Migration verifcation. Exchange migration.
 
-2026-9-28 Mon (5.5h): Migration verification — compare independently produced cutoff snapshots with the migration snapshot, trace missing cross-shard receipts to incomplete snapshot history, add archive-history guards and receipt provenance checks, propagate corrected pending and retired-shard receipts through ledgers, findings and supply-audit reports; review first-batch delivery artifacts, detect stale Safe nonces and provide a reproducible CSV-to-multisend build. Exchange migration — research on exchange delisting rationale, volume thresholds and relisting precedents. Vault and other asset migration — trim unused ERC-4626 dependencies while retaining license notices.
+2026-9-28 Mon (5.5h): Exchange migration. Migration verifcation. Vault and other asset migration.
 
 ---
 
