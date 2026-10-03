@@ -1,3 +1,25 @@
+2026-10-03 Sat: Last week I focused mainly on independently verifying the balances being prepared for the Harmony migration. I created [hmy_balance_extract](https://github.com/GheisMohammadi/hmy_balance_extract), a separate balance extraction implementation designed to calculate account balances independently from the main migration tooling. The purpose was to have another source of truth that could be compared against the results produced by the migration team.
+
+After extracting and processing the balances, I compared the results against the existing migration calculations. The final comparison matched the other results, including Aaron's calculations, which gave us additional confidence that the balances and migration data were being calculated correctly.
+
+I also continued working on AI video generation and infrastructure cost analysis in [video_cost](https://github.com/GheisMohammadi/video_cost), running additional rounds of generation and benchmarking to better understand video quality, generation time, GPU/provider requirements, and overall cost.
+
+---
+2026-09-26 Sat: Last week I continued working on tools to make the Harmony migration independently verifiable. I created [PR #10](https://github.com/polymorpher/harmony-migration/pull/10), which adds a random-sample verifier for the migration results. The verifier selects random claim rows from a frozen, hash-bound evidence bundle and checks the individual calculations as well as bundle-level information such as hashes, cutoff blocks, row counts, and totals.
+
+The verifier has both a command-line version for technical reviewers and CI, and an offline web version for reviewers who prefer a simpler interface. Both use the same verification logic and are designed to produce the same results without depending on live Harmony RPC or explorer data.
+
+During the week I also worked on [video_cost](https://github.com/GheisMohammadi/video_cost), performing several rounds of AI video generation and cost testing. The work focused on comparing generation configurations and understanding the trade-offs between GPU cost, generation speed, and output quality.
+
+---
+2026-09-19 Sat: Last week I focused mainly on reviewing the Harmony-to-Ethereum migration implementation. I performed a detailed review of the migration code, prepared a report for the team, and identified several cases where claim assignment or validator handling could produce incorrect results.
+
+I created [PR #4](https://github.com/polymorpher/harmony-migration/pull/4), which was merged. The PR fixes four migration correctness issues covering cross-shard destination lookups, unresolved code metadata during eligibility checks, validator classification, and validator discovery from the selected cutoff state.
+
+These changes make the migration pipeline fail safely when required data cannot be read, prevent unresolved contract accounts from being automatically treated as EOAs, strengthen validator identification, and ensure staking claims are discovered from the actual cutoff state rather than a potentially newer validator list. The work helped align the implementation with the documented migration methodology before the team proceeded further with the airdrop preparation.
+
+---
+
 2026-09-12 Sat: Last week Harmony announced the decision to sunset the Harmony L1 network and migrate the ONE token to Ethereum. The network produced and committed its final blocks on September 10, marking the end of block production on both shards. Shard 0 produced its last block, `93624315`, at 14:41:43 UTC, followed by shard 1 with block `95883681` at 14:52:47 UTC.
 
 Following the network shutdown, the team has been focused on preparing the migration. We are working on account and balance verification, auditing the final chain state, and preparing and validating the airdrop contracts and related data to ensure an accurate and reliable transition to Ethereum.
