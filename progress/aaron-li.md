@@ -1,4 +1,4 @@
-2026-10-2 Fri (1.7h+): Exchange migration. General airdrop.
+2026-10-2 Fri (2.7h+): Exchange migration. General airdrop. Research on locally hosted video models.
 
 2026-10-1 Thu (4.2h): Vault migration. Migration verifcation. Airdrop execution. Exchange migration.
 
