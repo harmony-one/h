@@ -2,6 +2,14 @@
 
 ---
 
+2026-09-25 This week I completed the self-hosting cost study for video generation in [video-generation-cost-benchmark](https://github.com/Frozen/video-generation-cost-benchmark). A one-hour sustained LTX-2.5 run produced 131 five-second clips at $0.0033 per video-second, up to 6× cheaper than the fal H3 Max Turbo API ($0.02). I also compared GPU providers on the same workload: Verda spot was 55% cheaper than Runpod, Vast was 35% more expensive, and HyperAI had no capacity.
+
+---
+
+2026-09-18 This week I started a reproducible benchmark comparing paid video-generation APIs with self-hosted open-weight models. I measured the fal H3, H3 Max and H3 Max Turbo baselines, ran H3 on 4×H100 with 8-step and 4-step acceleration adapters, and ran the first single-H100 LTX-2.5 deployment with measured rental costs. All videos, prompts, seeds and costs are published.
+
+---
+
 2026-09-04 This week I completed and merged five improvements prepared the previous week: eliminated minute-long P2P test waits in [PR #5135](https://github.com/harmony-one/harmony/pull/5135), replaced flaky polling with explicit completion signals in [PR #5134](https://github.com/harmony-one/harmony/pull/5134), reduced first-start consensus latency from about 31 seconds to under 3 seconds in [PR #5136](https://github.com/harmony-one/harmony/pull/5136), added caching for race-enabled Go build artifacts in [PR #5137](https://github.com/harmony-one/harmony/pull/5137), and added Mesh API compatibility tests for shards 0 and 1 in [PR #5139](https://github.com/harmony-one/harmony/pull/5139). I also opened an informational Staticcheck CI scan in [PR #5141](https://github.com/harmony-one/harmony/pull/5141), prepared the `main`-to-`dev` history sync for the 2026.2 release in [PR #5143](https://github.com/harmony-one/harmony/pull/5143), scheduled mainnet strict state validation for epoch 3036 in [PR #5144](https://github.com/harmony-one/harmony/pull/5144), and reviewed and merged consensus-sync and CI maintenance changes.
 
 ---
