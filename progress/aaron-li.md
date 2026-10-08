@@ -1,4 +1,4 @@
-2026-10-7 Wed (3.2h): Vault migration simulation and implementation verification.
+2026-10-7 Wed (4.1h+): Vault migration simulation and implementation verification.
 
 2026-10-6 Tue (1.9h): Source of funds tracing. Vault migration. Vault migration.
 
