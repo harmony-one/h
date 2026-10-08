@@ -1,4 +1,4 @@
-2026-10-8 Thu (0.3h): Exchange issue.
+2026-10-8 Thu (0.5h): Exchange issue.
 
 2026-10-7 Wed (6.0h): Vault migration simulation and implementation verification. Liquidity analysis.
 
