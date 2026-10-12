@@ -1,3 +1,7 @@
+2026-10-12 Mon (0.1h): Migration verification.
+
+---
+
 2026-10-11 Sun (5.6h): Vault deployment.
 
 2026-10-10 Sat (0.9h): Vault deployment. Exchange issue.
