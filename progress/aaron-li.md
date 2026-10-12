@@ -1,4 +1,4 @@
-2026-10-12 Mon (0.1h): Migration verification.
+2026-10-12 Mon (0.4h+): Vault portal. Migration verification.
 
 ---
 
