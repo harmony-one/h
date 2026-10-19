@@ -1,4 +1,4 @@
-2026-10-19 Mon (1.0h): Bridge asset snapshotting and migration. Exchange issue.
+2026-10-19 Mon (1.8h+): Bridge asset snapshotting and migration. Exchange issue.
 
 ---
 
