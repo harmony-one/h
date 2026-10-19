@@ -1,4 +1,4 @@
-2026-10-18 Sun (0.3h+): Bridge asset snapshotting and migration.
+2026-10-18 Sun (0.5h): Bridge asset snapshotting and migration.
 
 2026-10-17 Sat (0.2h): Vault and additional confirmed wallets.
 
