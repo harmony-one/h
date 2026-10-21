@@ -1,4 +1,4 @@
-2026-10-21 Wed (1.7h): Security. Local AI and video generation systems.
+2026-10-21 Wed (2.7h+): Transaction and activities lookup. Security. Local AI and video generation systems.
 
 2026-10-20 Tue (8.6h): Local AI and video generation systems. Bridge asset snapshotting and migration. Exchange issue. Domain issues.
 
