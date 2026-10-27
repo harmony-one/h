@@ -1,4 +1,4 @@
-2026-10-27 Tue (0.3h+): Devops and cost review; Governor compensation calculation.
+2026-10-27 Tue (1.3h+): Devops and cost review; Governor compensation calculation.
 
 2026-10-26 Mon (4.6h): Devops and cost review; Governor compensation calculation. Bridge asset snapshotting and migration.
 
