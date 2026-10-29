@@ -1,3 +1,5 @@
+2026-10-29 Thu (0.8h): Bridge claim portal.
+
 2026-10-28 Wed (11.0h): Bridge claim audit. Bridge claim deployment. Devops and cost review; Governor compensation calculation.
 
 2026-10-27 Tue (3.0h): Devops and cost review; Governor compensation calculation. Research on agent-managed video account. Video ad studio end-to-end test.
