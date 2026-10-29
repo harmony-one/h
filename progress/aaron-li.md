@@ -1,4 +1,4 @@
-2026-10-29 Thu (0.8h): Bridge claim portal.
+2026-10-29 Thu (1.5h): Bridge claim portal.
 
 2026-10-28 Wed (11.0h): Bridge claim audit. Bridge claim deployment. Devops and cost review; Governor compensation calculation.
 
