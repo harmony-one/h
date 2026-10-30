@@ -1,4 +1,4 @@
-2026-10-30 Fri (0.5h+): Bridge claim final verification.
+2026-10-30 Fri (1.2h): Bridge claim final verification.
 
 2026-10-29 Thu (3.0h): Bridge claim final verification. Bridge claim portal.
 
