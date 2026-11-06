@@ -1,4 +1,4 @@
-2026-11-6 Fri (0.8h+): Agent-managed account experiment design, launch, and engagement optimization.
+2026-11-6 Fri (1.7h): Agent-managed account experiment design, launch, and engagement optimization.
 
 2026-11-5 Thu (4.7h): Agent-managed account experiment design, launch, and engagement optimization.
 
