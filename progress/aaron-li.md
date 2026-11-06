@@ -1,4 +1,4 @@
-2026-11-5 Thu (0.8h+): Agent-managed account experiment design, launch, and engagement optimization.
+2026-11-5 Thu (1.1h): Agent-managed account experiment design, launch, and engagement optimization.
 
 2026-11-4 Wed (10.5h): Research on agent-managed video account.
 
